@@ -12,3 +12,7 @@ Over the past week I've had many days when I've been stressed out due to the mar
 
 I've started trading 3 months ago, and my holding periods are long so there haven't been many of them, so I'll be going over them later. But for now, let me start with the most important part of this repo which is describing my trading methodology. I'll do that in a separate file.
 
+8:25pm. I'll do the analysis later as I am really tired from writing that [large document](/methodology.md). Hopefully this will allow me to reach catharsis. I just want to get this out so I can sleep well during the night.
+
+I wish I could just tell my brain to take a break, but that isn't how it works for me.
+

@@ -16,3 +16,13 @@ I've started trading 3 months ago, and my holding periods are long so there have
 
 I wish I could just tell my brain to take a break, but that isn't how it works for me.
 
+7/1/2025
+
+10:30pm. https://youtu.be/dfGuhlQ-CLQ?list=PLOPDD0ChIJDhbKz0bquZeNkECGKZxpRpK
+Sheridan Titman On His Seminal Paper on Momentum Investing and What He Has Learned Since
+
+Watching this video and he says some very interesting things like that momentum actually works better the more efficient the market is. It works best in the US, but in Japan or China it doesn't.
+
+Will work on trade analysis during the weekend. Don't feel like it during my workdays.
+
+So far the week did start out pretty challenging. I absolutely must hold this week and the next 3. As scary as the market is now, it's much more dangerous to sell out early than late.

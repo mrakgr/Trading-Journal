@@ -26,3 +26,17 @@ Watching this video and he says some very interesting things like that momentum 
 Will work on trade analysis during the weekend. Don't feel like it during my workdays.
 
 So far the week did start out pretty challenging. I absolutely must hold this week and the next 3. As scary as the market is now, it's much more dangerous to sell out early than late.
+
+7/2/2025
+
+9:40am. I got up early today I started wondering about Japanese stocks and whether what Sheridan said was true.
+
+So what I've been doing for the past hour is going over the stock charts of all the Japanese stocks sorted by 6 month momentum, and I cannot find even a single one worth trading.
+
+The 8-week uptrend rule simply doesn't work, the momentum stocks just spike and then sit there for months. They also generally have huge and sudden declines, and have wild swings all over the place. There is no trend, they just pierce. So I think he is right.
+
+I am sure that if I only had the Tokyo market to trade, I might as well retire.
+
+I didn't realize at all how much my method is dependant on liquidity. It does seem to be the case that the more efficient the market is, the better it works. Japan needs a proper bull market to draw the money into it.
+
+Given the lesson, I think the top down approach is even more important than I thought. There is a bull market is europe which will make my methods work well. Having the money come into the market is what is needed for liquidity, which should ameliorate the wild swings we see in Tokyo stocks.

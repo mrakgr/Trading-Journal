@@ -40,3 +40,28 @@ I am sure that if I only had the Tokyo market to trade, I might as well retire.
 I didn't realize at all how much my method is dependant on liquidity. It does seem to be the case that the more efficient the market is, the better it works. Japan needs a proper bull market to draw the money into it.
 
 Given the lesson, I think the top down approach is even more important than I thought. There is a bull market is europe which will make my methods work well. Having the money come into the market is what is needed for liquidity, which should ameliorate the wild swings we see in Tokyo stocks.
+
+7/4/2025
+
+10:10pm. Finally the workdays are over. I'll do some trade analysis starting tomorrow.
+
+https://youtu.be/robBbj7jZFo
+Buying Winning Stocks Through Momentum Investing w/ Wes Gray (MI140)
+
+Interesting interview. He says that companies with good price action have a fundamentally cheaper access to capital which improves their fundamentals.
+
+https://youtu.be/robBbj7jZFo?t=1312
+> The US is the greatest survivor bias experiment of all time.
+
+https://youtu.be/robBbj7jZFo?t=1832
+> The minute you try to impose quality or valuation, anything that smells like a value investor was involved, you're just going to ruin the momentum strategy.
+
+This interview on momentum is by a value guy who mechanised it. It's pretty interesting.
+
+https://youtu.be/robBbj7jZFo?t=2889
+> It's a total value dog because it's just so cheap on cash flow basis and the expectations were so terrible, but those guys couldn't get out of their own way trying to raise capital to help them out. All of a sudden, they go on a short squeeze, price action goes bonkers and because they can raise capital for like negative cost to capital it seems...I don't know if that a concept...now they're like fundamentally in a better position as a business than they've ever been in the history of their lives! Just because of price action!
+
+https://youtu.be/X9Yapfh9VlE
+An In Depth Look at Momentum Investing and Trend Following with Jack Vogel
+
+I'll leave this one for tomorrow.

@@ -291,4 +291,199 @@ So right now the rule is to just count. It's been down 3 weeks from its high. 1 
 
 When you look at a chart of a big winner, the consolidation gyrations seem minor, but up close, you'll observe that they can move quite a bit. It's just small relative to the rest of the chart's scale. If it goes up a lot, these gyrations will seem like nothing in retrospect, but now I am watching my portfolio change value at a rate of 2-3% per day.
 
-WIP
+## 7/5/2025
+
+First of all, since I got tired last week when writing this document and couldn't cover my exact ASWC buys, let me do so now.
+
+![ASWC early July 2025](images/image-17.png)
+
+I put 33% of my account into ASWC on each of the buy points market on the chart before selling out completely at 15.2 and putting my entire account into DEFS.
+
+The story behind that is a bit interesting. Up to that point since late mid-March, I wasn't really looking at the market. I hadn't too much at stake and didn't want to through emotional turmoil like I've been recently so I wasn't looking at the market or the trade closely. I would just come in at the end of every week to see where ASWC was and moved according to the 2 week rule. I'd add to it every two weeks, and my original intention was to keep holding it.
+
+My reason for buying ASWC is entirely based on its price action. It was incredibly smooth and was amongst the top % of ETFs by 6 month momentum, and it shrugged off the recent market panic without issue.
+
+The reason why (I thought) it was going up was due to the european defense spending increase, and given that it's trading in the German market, it was a no brainer for me.
+
+I should have done more research. On a talk with my CTO at the company I work for, he mentioned he was invested in european defense stock ETF and when I looked up the chart and compared it to ASWC, I noticed right away that his ETF was up much more than ASWC! At first I thought it might have been due to currency movements, but the gap was simply too large to explain that, and when I looked at the composition of ASWC I realized that it had 50% in North America.
+
+Realizing I had made a mistake (and probably made my CTO think I am retarded) I immedially put a buy order for DEFS at 5.40.
+
+![DEFS mid June 2025](images/image-18.png)
+
+I apologize for posting a chart like this without the price levels, but I want to keep my exact sizes a secret. The issue with the TradingView chart is that it's missing most of the volume and so look much more sparse.
+
+It was a pretty furtuitous entry point. I didn't get greddy with market orders, rather it seems I picked nearly the exact low.
+
+Having realized my mistake, I put in the limit order for DEFS, and when it goes hit I rotated it in two batches. My DEFS got hit for 33% of the position, then I sold 33% ASWC, put in another order DEFS which got hit for 66%, then I sold the rest of ASWC.
+
+It was actually a pretty exciting day, as I was essentially daytrading with delayed market data.
+
+In fact after the first 2 DEFS buys, I wanted to make a 3rd one, but the market got away from me.
+
+What made it so interesting is that I had to make decisions on how long to wait on every step of the way as I was doing programming in the background. For example, I realized that my second lot of ASWC wasn't selling at 15.3 so I had to drag my limit lower to 15.21 otherwise I risked being overexposed to the market overnight.
+
+When I saw how DEFS traded over the following few days, it made me very please about how I timed the purchases. The blue line marks my average buying price.
+
+![DEFS early July 2025](images/image-19.png)
+
+I put in another limit to increase my position by 16.6% and it luckily got triggered on the 23rd of June when it retested the lows.
+
+In truth, I rushed in to buy DEFS, and would have been better off with the more liquid WDEF.
+
+![WDEF early July 2025](images/image-20.png)
+
+But it's fine. I am not going to switch my entire portfolio just so I can see a prettier intraday chart on TradingView.
+
+That covers the exact trades.
+
+First of all, I want to say that trading ETFs and stock indices is not at all like trading individual stocks, and studying their price action is what finally made me realize that I have to loosen up significantly and not be so anal about breakouts. It made me realize that even if come in at random times, if I hold for 2 weeks and move in 2 week steps, my odds were actually pretty decent as long as I focus on the strongest movers.
+
+Furthermore, buying breakouts can be at odds with pyramiding up. If the breakout is the ideal buy point, then by definion if you are pyramiding up then you'll be buying an overextended stock.
+
+Based on that thinking, I concluded that I was overweighting breakouts and underweighting longer term price action. The fact that breakout trading doesn't work on ETFs or indices is proof that it's not general enough as a trading method.
+
+Stock markets are money sucking machines, and the reason to hold stocks for longer periods of time is that the odds are decent that simply doing that will capture it's general drift. It depends on market conditions, but during bull markets the odds of it having an upmonth is at least 60%.
+
+As long as you have at least a few stocks in your portfolio and hold for 4 weeks or more, the drift will put the odds in your favor.
+
+So the market's upwards drift is one thing which I consider when placing a trade. It's not like buying a random commodity (which are deflationary) when it's making a new high and hoping the trend is my friend.
+
+When I bought ASWC and DEFS near the short term lows instead of using market orders, or god forbid, when they were making new highs, I was taking this into consideration. By simple reasoning, if you expect it is likely that the market will finish the month higher than when it started, then it makes sense to buy short term lows. And that is what I did.
+
+Back in 2007 - 2014 I remember using market orders constantly instead of being patient like I am now.
+
+There is a risk like in March that the market might get away from me, but the difference between me of now and then is that I decided to accept such risk.
+
+With individual stocks, I'll probably rate breakouts from tight bases more highly in terms of opportunity, but they aren't the only way to trade.
+
+At any rate, that covers some of the more phylosophical aspects of my stock trading system. I've been watching interviews by Minervini and reading his books, but even though buying breakouts has worked very well for him, I realized that he has an idea of there the stock is overextended and avoiding that, so he isn't getting hit by mean reversal effect of high 4 week momentum.
+
+I think getting hit by that was a big problem with my 2007 - 2014 trading because I couldn't quite understand the difference between letting winners run and not buying stocks that are overextended. As a simple rule, if a stock goes up 20% in 4 weeks, one can expect it to pullback half of that move even in a strong uptrend. In light of that, you can't really fault traders who go for quick 20% gains once the stock surges. Selling into strength is a viable system given the mean reversal effect.
+
+In fact, one could argue that letting winners run is gambling.
+
+I guess it depends on what you're trading.
+
+And on that note, I am starting to really sweat here. The rule is to hold 8 weeks, but given that the euro defense stocks have been selling off for 5 weeks in a row while the stocks on my TradingView watchlist have all been screaming higher, at an emotional level I've already hit my stopping point. Not that I am going to let it trigger even if it means losing sleep over it.
+
+First of all, I wasn't really sure last week where to start the count for the decline, so let me resolve that here.
+
+![R3NK early July 2025](images/image-21.png)
+
+Here is a chart of the hottest stock on the German market right now. The selloff/consolidation period in euro defense stocks started just about the time it topped and started selling off.
+
+![intraday R3NK early July 2025](images/image-22.png)
+
+Looking at the weekly chart it seems like the selloff is a minor dip, but it has been 30% from the top. Every time the stock made a decisive new low, the euro defense stocks in general got hammered.
+
+So it's fair to say that the decline is at least 4 weeks in.
+
+![RHM early July 2025](images/image-23.png)
+
+RHM is the is the actual leader, and it has been down for 5 weeks.
+
+![intraday RHM early July 2025](images/image-24.png)
+
+It's intraday chart in terms of shape looks identical to the intraday ETF charts that have been posted.
+
+![intraday WDEF early July 2025](images/image-25.png)
+
+Both DEFS and WDEF have only 10% allocated to RHM, and perhaps it'd have been better to have more.
+
+Holding this trade for the past 3 weeks hasn't been pleasant, and I partly think I should sell DEFS out and start trading individual stocks. A part of me really wants this, as I know that buying the leader is better than buying the sector.
+
+And the disadvantage of not having a diversified portfolio is something I've been really feeling during this period. I've started to think that if I had to do all of this again, I won't put so much into a single group.
+
+My preferred method of trading going forward will be to put 20-25% of my money into carefully selected issues each and hold them according my position trading rules.
+
+ETFs were always there as training wheels for me.
+
+That having said, after spent my entire Thursday night without getting a wink of sleep because I was so anxious, I am going to take them off after this trade is over.
+
+As much as I want to switch, the market rewards conviction so I am going to act as such. I can spend the next 4 weeks to see if there is any steam in this trade.
+
+I am also worried about the entire group going down below my buy point, but it'd be very weird for a leading group to turn tail and start downtrending against the rest at the start of a bull market even if right now it does look like it might be topping. I need to persevere and hold steadfast to the 8 week rule for true market leaders.
+
+Maybe I am wrong, and there is no reason the very solid buying pattern during the April panic couldn't be a fluke, but assuming the general market doesn't tank, I think that the worst that should happen is that the group should finish flat by the end of the month. In that case I'll spit to the side and sell the stocks before getting into the US markets.
+
+In that case I'll find another vehicle to park my money in.
+
+I think a sharp selloff next week would also cause me to exit prematurely.
+
+While usually I'll use a 2 week time stop, I'll also sell with a price stop if it starts breaking down decisively.
+
+No reason why I shouldn't use both kinds of stops.
+
+It will give me some added protection when I start trading individual stocks. I'll aim to keep my losses to 10%.
+
+I've also added some selling rules to my arsenal for when a stock goes on a tear. If in the future I end up being lucky to be in a multi week move where a stock goes up 100% or more, I am going to tighten the 8 week rule to 2 weeks and sell on the first downweek.
+
+![SEZL early July 2025](images/image-26.png)
+
+A good example of where I'd put that rule to good use in the current period would be for a stock like SEZL. And of course R3NK.
+
+![R3NK early July 2025](images/image-21.png)
+
+As a general rule the sharper the upmove, the more you should tighen the stops because the more likely and the more severe the counter trend move will be.
+
+That is what I am going to do.
+
+Some large daily movers for example....
+
+![daily GME May 2025](images/image-27.png)
+
+You can see a sharp rise in GME from 10 to 50, then a single downday from 50 to 40 signaling that the momentum has stalled out. This is actually a very effective short pattern, so you definitely don't want to be stuck holding after short term momentum has stalled out. Too bad these kinds of stocks are so hard to borrow otherwise I'd make playing them my bread and butter.
+
+So for this kind of pattern you could say that the time stop is 2 days rather than 2 weeks. Why 2 days instead of 1? The negative momentum is what pushes them to 1 effectively.
+
+![PHH early July 2025](images/image-28.png)
+
+My TradingView watchlist is filled up so let me note this stock here. We'll revisit it later to see if the 2 week timestop rule would have been effective for it. Incidentally, IPOs have been very good for the past months. I think I am going to add buying new highs from a 4 week basing period to my arsenal.
+
+![CRWV early July 2025](images/image-29.png)
+
+Right now it's very overextended, but it could work off the short term momentum reversal headwinds and be a good buy a couple of weeks down the road. At the very least, I want to see it build some trading history before I get in.
+
+![FSLR 2007 - 2008](images/image-30.png)
+
+First Solar might be a good model for when to get in. We want CoreWeave to be at last flat or up a minor 10% for the 4 week period before we try buying.
+
+Pretty much, anywhere in April and May 2007 would have been a good buy point by that criteria.
+
+The stock had very good resistance against the Feb 2007 selloff and it consolidated for a bit before taking off again. I hope RHM and Euro defense stocks will act like that.
+
+![daily FSLR 2007 - 2008](images/image-31.png)
+
+It had some pretty nice dips during that period that could have served as entry points.
+
+There is something to be said about tightening the time stop to two weeks, and selling after 2 weeks if the stock's momentum has stalled. Unlike the usual 2 weeks, this one would even sell into a decline.
+
+I have an idea of how I want to handle RHM and DEFS.
+
+I think I'll sell DEFS by the end of the month even if it goes up if it doesn't go up far enough. I want it to go up to at least 6.2 in order for it to justify me holding it.
+
+I think market leaders should be treated specially. With regular stocks, you can't know how far they will go, so it's not bad to use the 2 week rule to get out when short term upwards momentum has stalled, but with actual leaders, I can use the 8 week rule and ride out the pullbacks.
+
+Doing the math, if I can catch a couple of 20-30% moves per quarter, keep my losses to 10%, that means that I could be making 20% per quarter on average. That means I could realistically end the year up 80%. Even 40% wouldn't be too bad. I could justify trading full time in either case.
+
+I don't have to be the best, all I have to do is manage risk and make sure the edge works out in my favor.
+
+I should be trying to cause the technological Singularity rather than trying to be a market wizard anyway.
+
+At any rate, I'll decide whether I want to rid out the pullbacks with DEFS or use the 2 week rule instead.
+
+I think despite my initial intent, I'll go with the 2 week rule.
+
+It might have the benefit of rotating me out of the leaders that are stalling and into fresh opportunities.
+
+![RHM mid 2025](images/image-32.png)
+
+It does look very stretched out doesn't it? Even it doesn't go down specifically, it might have a protracted period of consolidation.
+
+But I should at least play the euro defense stocks for one more upleg.
+
+If it turns out DEFS doesn't have much momentum and only closes out at 5.8-6.0 in the next 4 weeks, I'll gratefully accept the 10% profit and move to greener pastures.
+
+If it closes flat by the end of next week, I'll keep holding it, but if it closes below 5.4 to something like 5.3 or less, I am getting out. I am not interested in holding the bag when everyone else is getting out.
+

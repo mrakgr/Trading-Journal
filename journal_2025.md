@@ -65,3 +65,19 @@ https://youtu.be/X9Yapfh9VlE
 An In Depth Look at Momentum Investing and Trend Following with Jack Vogel
 
 I'll leave this one for tomorrow.
+
+7/5/2025
+
+1:20pm. https://youtu.be/PT6lhOaBufk?t=1436
+Here’s How To Trade The High-Octane IPO Boom | Investing With IBD
+
+Didn't know that Stripe will IPO.
+
+https://youtu.be/lpqmTse5TKI?t=2416
+Why Minervini Calls Volatility A Rare Moment For This Market | Investing With IBD
+
+I wonder what the Strategy 33 Model is doing. Right now I am just watching financial videos and looking at charts. I meant to continue the analysis from last week, but ended up doing what I want instead.
+
+I'll finish this video and then resume.
+
+3pm. Let me do some work on the analysis. Enough watching vids.

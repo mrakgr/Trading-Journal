@@ -81,3 +81,17 @@ I wonder what the Strategy 33 Model is doing. Right now I am just watching finan
 I'll finish this video and then resume.
 
 3pm. Let me do some work on the analysis. Enough watching vids.
+
+7/6/2025
+
+10:45am. Reading Peter Lynch's One Up On Wall Street book.
+
+![alt text](images/image-33.png)
+![alt text](images/image-34.png)
+![alt text](images/image-35.png)
+![alt text](images/image-36.png)
+
+I find this investment phylosophy very interesting. Based on what he is saying I should have invested in Nvidia, though at that point I had no money to invest and had thrown in the towel.
+
+Reading this makes me realize that I was wrong about not being connected to anything. I have my own narrow circle of competence.
+

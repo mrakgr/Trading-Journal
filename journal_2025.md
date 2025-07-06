@@ -95,3 +95,6 @@ I find this investment phylosophy very interesting. Based on what he is saying I
 
 Reading this makes me realize that I was wrong about not being connected to anything. I have my own narrow circle of competence.
 
+9:25pm. https://www.youtube.com/watch?v=kJtCKz1o5H4
+The Dark Side of Value Investing | Practical Lessons from Aswath Damodaran
+

@@ -98,3 +98,9 @@ Reading this makes me realize that I was wrong about not being connected to anyt
 9:25pm. https://www.youtube.com/watch?v=kJtCKz1o5H4
 The Dark Side of Value Investing | Practical Lessons from Aswath Damodaran
 
+7/7/2025
+
+9:30am. https://youtu.be/inI0SC3Zj4A
+Bitcoin on the Balance Sheet: Why Companies Are Turning to Crypto as a Treasury Strategy
+
+This video is amazing. I wasn't aware what was driving the Bitcoin prices up lately.

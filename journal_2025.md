@@ -131,3 +131,7 @@ Ironically, I think the way I've been trading ETFs now is how I'll trade when I 
 
 To be honest, the line between beta and alpha is blurred to me. Beta is alpha during bull markets.
 
+10:45pm. https://youtu.be/jD4nynuWfEU
+The Reality of Relative Strength Based Trading with Linda Raschke
+
+There is so much out there on how to trade well these days. I'll watch this tomorrow.

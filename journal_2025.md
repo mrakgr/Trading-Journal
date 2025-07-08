@@ -91,9 +91,9 @@ I'll finish this video and then resume.
 ![alt text](images/image-35.png)
 ![alt text](images/image-36.png)
 
-I find this investment phylosophy very interesting. Based on what he is saying I should have invested in Nvidia, though at that point I had no money to invest and had thrown in the towel.
+I find this investment philosophy very interesting. Based on what he is saying I should have invested in Nvidia, though at that point I had no money to invest and had thrown in the towel.
 
-Reading this makes me realize that I was wrong about not being connected to anything. I have my own narrow circle of competence.
+Reading this makes me realize that I was wrong about not being connected to anything. I have my own narrow circle of competence due to my work as a software engineer.
 
 9:25pm. https://www.youtube.com/watch?v=kJtCKz1o5H4
 The Dark Side of Value Investing | Practical Lessons from Aswath Damodaran
@@ -104,3 +104,30 @@ The Dark Side of Value Investing | Practical Lessons from Aswath Damodaran
 Bitcoin on the Balance Sheet: Why Companies Are Turning to Crypto as a Treasury Strategy
 
 This video is amazing. I wasn't aware what was driving the Bitcoin prices up lately.
+
+7pm. https://cow.fi/
+Token - Maple Financial
+
+I'll go into what these two mean later. Logris showed me an example of amazing earnings acceleration that led the price rise in Maple Financial. He made a mistake of not betting big on this opportunity in my view.
+
+7/8/2025
+
+9:15pm. https://www.youtube.com/watch?v=7v6DQ4qyYIo
+How to Build a Trend Following System | Interview with Tom Basso | Hedge Fund Manager
+
+He is saying that buy and sell decisions aren't as important as beginners think they are.
+
+Yeah, I think I need to loosen up.
+
+I've been thinking about my trading going forward and if the current positive price action continues into the end of next week, I am going to buy RHM in order to increase my exposure to it. The ETF only has 10% in it, but I'd like if it were higher. Bringing it up to 20% by buying shares of it directly should do the trick.
+
+I need to loosen up. I did a good job by trading my portfolio in pieces and I should continue that. Every two weeks I should be increasing or decreasing instead of standing still.
+
+Doing this move would only change my long exposure from 101 to 110% and after I get paid from my job, the margin would get paid down to 100%.
+
+I do want to start phasing out my ETF trading in favor of trading stocks directly. I am not going to be adding any more to my ETF positions.
+
+Ironically, I think the way I've been trading ETFs now is how I'll trade when I am much bigger. But right now I am just throwing away alpha.
+
+To be honest, the line between beta and alpha is blurred to me. Beta is alpha during bull markets.
+

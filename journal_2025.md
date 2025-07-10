@@ -170,7 +170,7 @@ AI is mostly Nvidia, but it has some stocks on its tails like CoreWeave. I think
 
 Crypto is mostly Bitcoin. It seems like it's close to breaking out, but I want to give it 3 weeks in order to see how it acts around the breakout point.
 
-In Croatia where I live there is a lot of inflation and the stock markets have burst from 1.5 decade long consolidations. Reminds me of China and the emerging markets in the 00s. Back then it also made a huge move.
+In Croatia where I live there is a lot of inflation and the stock markets of Crotia and Slovenia have burst from 1.5 decade long consolidations. Reminds me of China and the emerging markets in the 00s. Back then it also made a huge move.
 
 ![KDEF mid July 2025](images/image-39.png)
 

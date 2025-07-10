@@ -135,3 +135,68 @@ To be honest, the line between beta and alpha is blurred to me. Beta is alpha du
 The Reality of Relative Strength Based Trading with Linda Raschke
 
 There is so much out there on how to trade well these days. I'll watch this tomorrow.
+
+7/10/2025
+
+9:50pm. 
+
+![envy](images/image-37.png)
+![envy 2](images/image-38.png)
+
+God, I wish I had Jeffrey Neumann's insight. He is to trading what Elon Musk is to entrepreneurship. I was never envious of other traders until I read his interview in the newest Market Wizards book.
+
+They are both lucksacks, but unlike Elon whose past successes seem like a fluke now, Jeffrey has the intelligence to match his success.
+
+I am reminded of Ed Seykota's quote that it's rare that nature provides the ability to meet a burning desire in a person.
+
+10pm. I've decided. I think at the end of next week, I am going to sell down my DEFS position in order to make room for RHM.
+
+I want to bring up my exposure in that stock up to 25% at least. Then in two weeks I am going to sell it to make room for something else, and that way I am going to wean myself off ETFs and into individual market leaders.
+
+I told myself I wasn't going to do it, but deep down I know that I need to do this at some point and I might as well do it 'now'. By 'now' I mean, every two weeks. 
+
+10:05pm. There are a lot of stocks going up right now, but if I want to be successful, I should avoid random individual momentum and trade themes.
+
+There are 3 major ones and 1 minor (East Europe) in play currently.
+
+1) Defense stocks.
+2) AI.
+3) Crypto.
+4) East Europe - Croatia and Slovenia.
+
+It's not just European defense stocks, for some reason South Korea is going crazy and there are a ton of momentum picks in that market.
+
+AI is mostly Nvidia, but it has some stocks on its tails like CoreWeave. I think that 2-3 months down the road once it digest the rapid runup, I am probably going to be buying it.
+
+Crypto is mostly Bitcoin. It seems like it's close to breaking out, but I want to give it 3 weeks in order to see how it acts around the breakout point.
+
+In Croatia where I live there is a lot of inflation and the stock markets have burst from 1.5 decade long consolidations. Reminds me of China and the emerging markets in the 00s. Back then it also made a huge move.
+
+![KDEF mid July 2025](images/image-39.png)
+
+Too bad I didn't buy this instead of the euro ETFs or ASWC.
+
+I need to pay more attention from here on out.
+
+I just checked in IB, and I am restricted buying due to dumb European regulations. But maybe these regulations are doing me a favor. I really should be trading individual stocks instead of ETFs. ETFs are filled with laggards which will drag down my performance long term.
+
+10:25pm. As an aside, here are some pullbacks that are good buying opportunities on my watchlist.
+
+![ZS](images/image-40.png)
+![NET](images/image-41.png)
+![DAVE](images/image-42.png)
+
+These are opportunities to buy momentum stocks at a better price point, but what makes them opportunities is that I stretched out my holding period to a minimum of two weeks.
+
+I think the realization that I have to be operating at a 2 - 12 week timescales and move gradually in 2 week steps is the most important insight from my 6 years of failed trading and 11 years of absence. More than smart, I must be patient.
+
+You can make a lot of money in stocks just by holding them for 1-3 months irrespective of patterns.
+
+The market has a strong long bias and I simply didn't appreciate that at all. I simply didn't.
+
+I need to sense the themes, and I need to rotate into the leaders. Then I have to hold and be on the looking for momentum pettering out on the 8 week scale in the leaders. If I can just watch the leaders, they will tell me when the market has topped.
+
+If you're looking at the SPY, it's very hard to know what is happening, but when you see stocks that usually go up 30% per month stop doing that it's very much obvious.
+
+I don't need a mechanical system like in the Janus factor book. I can tell what the themes are just by looking at the stocks themselves.
+

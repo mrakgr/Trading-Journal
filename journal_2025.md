@@ -576,3 +576,8 @@ With 20-30% positions I'll be getting close to the line on that second point, bu
 
 ![resell them to another sap](images/image-62.png)
 ![Believing your trade must be bad because someone else agreed to it is just paranoid self-sabotage.](images/image-63.png)
+
+9:45pm. Lol.
+
+![stay solvent longer than markets can stay irrational](images/image-64.png)
+

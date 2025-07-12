@@ -571,3 +571,8 @@ The only way to lose big money with this method is to rid the big winners on the
 The other way would be to take too much risk, either by using leverage, overly concentrated stock positions, or investing in poor candidates.
 
 With 20-30% positions I'll be getting close to the line on that second point, but that's not over the line. 25% per market leader is just about right.
+
+9:35pm. I could be reading the manga, but the /a/ threads are more interesting to me these days.
+
+![resell them to another sap](images/image-62.png)
+![Believing your trade must be bad because someone else agreed to it is just paranoid self-sabotage.](images/image-63.png)

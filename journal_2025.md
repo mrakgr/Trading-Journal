@@ -490,3 +490,19 @@ Another perspective is that they are being weighted down and pushed downwards by
 After many years, I think that the latter model is far closer to reality than the first one which I had as a beginner.
 
 The lesson is that I should not be afraid of letting things run their course for another week. There is no need to get scared about missing opportunity.
+
+7:35pm. https://www.schwab.com/learn/story/does-market-timing-work
+
+I read this yesterday and it a good lesson. The investor who played the market perfectly buying at every yearly low didn't do that much better than the one who bought at the high.
+
+I think I am probably overvaluing getting in at a better place when the uptrend has been established. It's more important to sit tight than to time. Sometimes I should use limit orders to get in, but I shouldn't let that be my sole strategy.
+
+Especially when I need to rotate, I'd be better off just doing it.
+
+With the DEFS trade, once my first limit order was hit, I should have sold all that I had of ASWC at the market and bought DEFS right there even if it's 5.43 rather than 5.40.
+
+Even if back then that might have been justifiable and worked, if try trading a whole portfolio of stocks like that, it's not going to end well.
+
+I need to loosen up a bit more. The reason I failed a decade ago wasn't because of poor execution, but lack of planning.
+
+My plan back then was to look for a plan. But treating the market like a video game isn't how one adapts to it.

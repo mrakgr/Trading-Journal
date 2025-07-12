@@ -506,3 +506,41 @@ Even if back then that might have been justifiable and worked, if try trading a 
 I need to loosen up a bit more. The reason I failed a decade ago wasn't because of poor execution, but lack of planning.
 
 My plan back then was to look for a plan. But treating the market like a video game isn't how one adapts to it.
+
+8:45pm. Reading /a/ threads on FX Senshi Kurumi.
+
+![wise anon is wise](images/image-56.png)
+
+This pretty much happened to me. In the end, all the daily noise got to me and I quit. I didn't lose money, but 6 years of going nowhere is quite a loss regardless.
+
+I remember in an interview with Jerry Parker that he said that investors think that trend following is the easy way to make money in the market, but he remarked that trend following is the most gut wrenching to trade there is.
+
+8:50pm. To be fair, what CTAs do is take one marginal trade after another hoping to get lucky.
+
+Momentum trading has a better edge. Compared to regular trend following, I am actually selective about what I trade rather than literally every single intrument in the world.
+
+Here is an addendum to the plan. Maybe spending 1.2% per year on market subscriptions would be worth it if it improves my trade entries. On Monday, I'll take a look at the stocks I mentioned and see how large their spreads are before deciding whether to get a subscription. It's not like I have to keep paying them every single month.
+
+Actually, I don't have to do that. I can just come in 1h before the close, at 4:30pm pick a spot and raise my bids by 0.1% every minute. That's bound to improve my execution, but the risk is that I might miss my trades.
+
+But then I'd be doing that during my work hours...
+
+It be a viable strategy if I were trading full time, but I am not. Gh...
+
+Most likely the spreads won't be too bad.
+
+![LTMC](images/image-57.png)
+
+How about this as entry strategy - I'll just keep moving my bid up to the low of the last 15m. I'll do that move every 15m.
+
+If a stock has large spreads, that will ensure that I don't get raped by them.
+
+If it turns out that the stock is strongly trending during the day, there is a chance that won't work, but intraday price action is noisy and trendless most of the time.
+
+In fact, when it comes to limit orders, I should be using such a system for trading my salary from USDC into EUR.
+
+I've been winging it with larger targets and time stops, and it has been a net benefit, but I know that I am just noise trading, and I'd be better off just shipping that into my stock market account instead.
+
+But I don't think that hammering the market with market orders is the solution either. It sets a bad habit.
+
+I'll decide what to do once I see the spreads.

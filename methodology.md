@@ -487,3 +487,25 @@ If it turns out DEFS doesn't have much momentum and only closes out at 5.8-6.0 i
 
 If it closes flat by the end of next week, I'll keep holding it, but if it closes below 5.4 to something like 5.3 or less, I am getting out. I am not interested in holding the bag when everyone else is getting out.
 
+7/12/2025
+
+I've decided to sell 40% of DEFS and put them into individual stocks later this week. I'll do it on Friday.
+
+To be specific in these 3.
+
+![RHM](images/image-45.png)
+![R3NK](images/image-46.png)
+![LTMC](images/image-47.png)
+
+I'll put 20% into RHM, 10% into R3NK and 10% into LTMC.
+
+LTMC is a casino stock and not related to defense, but the chart pattern is a high tight flag, so I want to give it a try. I am feeling strong attraction to it. If it was a defense stock, I'd put 20% into instead.
+
+R3NK is a bit too volatile, so I don't want to put 20% into it yet.
+
+![DEFS](images/image-48.png)
+
+DEFS has done well this week and is up to 5.73.
+
+I don't want to sell all of that position, but I think it's time that I slowly start to wean myself off ETFs and start trading individual stocks.
+

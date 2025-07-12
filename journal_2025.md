@@ -200,3 +200,277 @@ If you're looking at the SPY, it's very hard to know what is happening, but when
 
 I don't need a mechanical system like in the Janus factor book. I can tell what the themes are just by looking at the stocks themselves.
 
+7/12/2025
+
+12:50pm. Let me do some writing here. First, in a fit of inspiration yesterday I wrote a lot of posts to Logris, and I am going to paste some of them here.
+
+Logris is a smart fundamental investor, and I am struggling to explain the principles behind my trading in a face to face talk so I wrote them down for him. And for me it's a good exercise to keep reinforcing them.
+
+///
+
+Finding KDEF got me curious about the South Korean market, and when I looked, I found there were a lot of great momentum picks in that market. It's amazing. I could imagine that after 3 decades of only tripling in price, it might be gearing up for another huge bull market. My view is that when a stock goes up 30% in a month it's no big deal, but it's an entirely different manner when the entire market does it. That has a lot of signal to it. It's not a certain thing that it will turn into a large bull market going forward, but it changes the odds.
+
+***
+
+![SLQX](images/image-43.png)
+
+There are also big bull markets in Slovenian and Crotian markets. For some reason the Expat Croatian ETF is underperforming the Crobex index greatly so I wouldn't recommend it.
+
+On the ground in Croatia, there has been a lot of inflation, but I get the sense that the living standards are rising. People are complaining about the rising tourism prices, but the tourists are buying into them and the place is packed so that explains the bull market. In general, these markets are easy to handle using trend following systems.
+
+***
+
+I get the sense that I picked a really good time to get back into trading. The market really shrugged off the tariff negativity and is streaming higher, which is strong indication we're in a bull market. Even BTC is breaking out.
+
+***
+
+The UK market is the opposite of South Korea. All the momentum picks on the London market are absolute trash. The high fliers are mostly pump and dumps. The rest which I'd actually consider buying smoother ones have highly volatile low quality patterns. High quality patterns are like you'd see on RHM currently. High momentum, and also low volatility on the weeklies which will make it much easier to tell when the trend has shifted.
+
+I've done a huge amount of chart reading in the past, and part of why I threw in the towel is because I haven't been able to discover anything that has a predictive quality in terms of future price direction. Despite doing it for years, I've had to conclude that the day to day price is mostly random. I'd buy a stock, try holding the winners and cutting losers, but it just ended up churning my account. I wasn't at all good at trend following. Ironically, all the price randomness made me go the wrong way and caused me to shorten my time horizons when I should've been expanding them.
+
+But now that I've come back to trading and corrected my holding periods, I also have insight about price movements that I didn't before...
+
+***
+
+You cannot predict prices, but what is true that different market regimes exist: trending markets (either bull or bear) and sideways markets. What I am doing now is thinking of various different scenarios: are we in a bull market, bear or a trendless market and putting % odds on each. I am sharpening my intuition about the current market environment by studying how prices behave in each of such environments, which helps me narrow down the odds of various scenarios.
+
+***
+
+And because prices cannot be predicted, and it's only possible to interpret the characteristics of the current market, that means that the only real way to do market research is to actually take a position. My current theory is that by doing so the market will essentially tell me what the trend is. I understand now that it's actually necessary to be in the market to be able to tell what it's characteristics are. By taking a risk, I am essentially paying the market to do research for me.
+
+***
+
+The Maple Financial trade you've showed me is essentially trend following on fundamentals. You had sharply rising earnings, without knowing more, you know that it's likely that they will keep rising. You cannot be sure, but maybe you can say it's 70-80% likely? And prices follow earnings. So when eventually the earnings start stalling, you'll lower your odds of future price rises and that will make it more likely that you'll sell your position.
+
+***
+
+In the stock market, I know that prices follow earnings, but I don't have an army of analysts to study the various companies, so I have I have to draw my inferences in the opposite direction. If I see rising prices, I have to conjecture that good things are happening and vice versa.
+
+***
+
+To a degree, you can definitely tell which companies are good or not by their price action. In the extreme case, if you have a stock under 3$ a share, jumping 50% per day, you can tell that it's most likely a pump and dump and not a long term holding because most pumps and dumps act like that. And if a stock is not very volatile, that is has small daily changes, but has good persistence on the longer timescales - 2 weeks and up, then that tells you that it could be better than a random pick going forward.
+
+***
+
+That's the basics of it. The advanced part of trading is to be aware of things like groups movements, that the leaders top ahead of the market and drag down the sentiment when they inevitably start breaking. The Janus Factor book I posted goes into this in detail, but I don't think a mechanical system is necessary. You can generally see leading stocks expanding on the upside, toping ahead of the market and then breaking. The latter part causes investors in those become fearful. If you look at the charts of S&P the breaking points where the market becomes volatile seem random, but the panic starts from the leaders breaking and then spreads to the rest of the market.
+
+***
+
+I really love it when the market breaks sharply as it always results in great buying opportunities going forward. I've seen this over and over by now that it's become ingrained that panic leads to high returns in the future.
+
+***
+
+Regarding chart patterns, they don't work, but what I've realized recently that counterfactual thinking about the price action does. This has been trying to awaken in me for a long while.
+
+***
+
+To illustrate this, one stock which I am watching is CoreWeave.
+
+![CRWV](images/image-44.png)
+
+It looks like this on the weeklies. I hate buying runups like these as that just leads to a lot of volatility. Large rises have a lot of pump in them regardless they are smooth or jumpy, which gets followed by a dump. I think the Quantitative Momentum book that I posted illustrated this well. Statistically, large 1 month moves lead to mean reversion while 6 month moves lead to expansion. That's just the statistical view. The counterfactual way of thinking where you are putting odds on various scenarios, would allow you to see while it's true that there is an immediate danger of reversal in the present, you know that the market leads would hold on to their gains even after a huge rise such as this one.
+
+So by waiting a 2 months from this point in time, you can essentially cut off most of the laggards from scenario, which leaves the winners. Right now it might be the case that say, the stock is 25% likely to be in an uptrend, 50% flat, and 25% that it's going to sell off and enter a downtrend, but by waiting the necessary amount of time, it reveals the cards the market is holding.
+
+***
+
+By waiting 2 months the dump scenarios will get eliminated, leaving mostly the upwards trend continuation scenarios intact. At that point, the odds of an uptrend will be 60%, 20% flat and 20% downtrend.
+
+***
+
+I think that's how reasoning by price action works.
+
+***
+
+During my failing period, I don't think I understood this, so what I did was tried following the trend by buying strong runups like the ones in CRWV only to get stopped out.
+
+***
+
+I didn't get what exactly was the point of waiting for the 'handle' part in these chart patterns. Back then I thought that by waiting in this scenario, I'd just be missing out on a potential winner.
+
+***
+
+And I did understand one part correctly - the biggest winners of the future do start out by making huge initial moves like CRWV did here. So back then it made sense that I should be buying when the stock looks very overextended. That didn't work well for me.
+
+***
+
+I will admit, the defense stocks do look overextended now, so there is a possibility that they might go sideways for a prolonged period of time. A part of me thinks that.
+
+***
+
+But we're in a strong bull market. And they are the dominant group, so what else are the investors going to put money but the dominant group. If wasn't for the April tariff tipping the market's hand, I'd be a lot more scared holding these stocks right now.
+
+***
+
+I had to write this because when I talk to you about finance, you always talk about about fundamentals, and I am struggling in the head of the moment to elucidate how to bring out my own perspective because you are thinking in a very different way than I do.
+
+***
+
+Oh yeah, incidentally, do you know know why cutting losses is good in trading?
+
+***
+
+Assuming you are long an uptrending stock, and the price declines an abnormal % below your buy point that gives you important information. You know how winners act, and they don't do sharp declines, so you know that the odds have changed. Instead of the odds of an uptrend scenario being 70%, a single day's price action can lower it to 40% and make other less beneficial scenarios much more likely. If it takes time, say two weeks and doesn't recover even if it's something like being 10% down, while that might not damage your account balance much, it can do great damage to your estimation of whether the stock is a leader! So the rational move becomes to sell and move that money in better opportunities.
+
+***
+
+In your Curve trade, you were never considering the trend of a stock to begin with, and you didn't sell it when it fell. But that's fine, from a technical perspective it wasn't in an uptrend, so it going down 10-30% didn't invalidate your investment thesis.
+
+***
+
+The way I see it, when you bought it at 0.3 it was a sideways, choppy non-trend, and at 0.2 it was still in the same scenario. From that perspective, nothing abnormal was happening. So it made no sense to sell when it went down.
+
+***
+
+With Maple Financial, it had a definite trend and you could trade based on whether it matches the profile of a winner, with stops in order to limit your risk.
+
+***
+
+It's a different world from value investing.
+
+***
+
+From my current perspective, trading is easier than it seemed. You know that daily price action is mostly random, so you don't have to be hung up about specific patterns. It's mostly about momentum on various monthly timescales, and volatility on the shorter ones. Of course, if you are fishing for uptrends, then you want to hold winners as 1 month momentum when you're heading into it positioned long verifies the trading thesis. Strong leaders have to go up on the 8 - 12 week timescale. The best ones do it on an 8 week timescale.
+
+***
+
+Up they start going up far too quickly and the volume starts coming in, that's a sign to exit as the large traders will be taking advantage of that opportunity to sell the stock to future bag holders.
+
+***
+
+If you miss this opportunity, the only other option is to sell on declines once the 8 week pattern starts breaking. Alternatively, the declines can become particularly large even before the 8 weeks are up which is another sign of trend change. I've also notice that often the leaders will slow down even if they don't turn and that's also a sell signal. Strong upwards momentum becomes weak upwards momentum, and that makes the stock vulnerable to a selloff.
+
+***
+
+I think that what I am most afraid of when it comes to euro defense stocks right now. Then ran up so hard that I wouldn't be surprised if they start getting exhausted. We might end up holding weak leaders rather than strong ones. But we can still make money from that scenario.
+
+***
+
+I am also starting to become bullish on BTC due to it's price action. If it can break out gently and maintain the level for a few weeks, that will make it likely that's in an uptrend and not in a consolidation. I wouldn't expect BTC to make a strong move like in the past, but maybe it could uptrend for a couple of months once it gets going. The beauty of strong leaders is that they give you a lot of time to get in.
+
+***
+
+It's the stocks that act jumpy and run away that are bad trading candidates.
+
+***
+
+The market is very strong right now so I doubt that BTC will turn into a rout, but the breakout might fail and it might consolidate for many months instead.
+
+***
+
+Incidentally, why is pyramiding and averaging up good in these situations?
+
+***
+
+The theory behind is that when you have a probable uptrend, but not a confirmed one you bet small, and as the odds of it rise, you commensurately adjust your size to account for the improved odds. It makes zero sense if you already have a confirmed signal to get in.
+
+***
+
+Also psychologically it becomes easier to buy if the trading vehicle moves significantly from the buy point if you have half or a third of your position already.
+
+***
+
+Going into the future, I'll be using that technique to scale in every two weeks from low points - like after market panics, rather than breakouts.
+
+***
+
+It makes sense to do this after market panics because how the market acts after panics tells you a lot about the true environment. In bull markets the low prices get bought up, but in bear markets the buying pressure disappears and they head lower. So by buying on the way up, you are using a technique that primarily works in uptrends, and gives you a small loss in downtrends. And gives you some protection against choppy, sideways markets.
+
+***
+
+Going by that reasoning, one trading idea is to buy a partial position in CRWV now and scale in gradually as the odds of it being a winner improve. You know that winners hold on to their gains, so wouldn't make sense to buy on the way down, only on the way up.
+
+***
+
+This is also why averaging down is so bad. It ensures that the trader maximizes his losses on the way down when the stock is in downtrending mode.
+
+***
+
+When you're buying on the way up you don't get the best price, but at least it keeps you out of losers.
+
+***
+
+On a similar vein, by taking small profits often, it leads to rotation into laggards. Though that must be balanced by the fast that strong momentum is mean reverting.
+
+***
+
+The only real defense against short term mean reversion is to be aware of the market themes and buy winners that have potential to run far instead of random momentum picks.
+
+***
+
+Or to be keenly aware of the individual stocks fundamentals and future earnings potential.
+
+***
+
+Mhhhh...I think this should be good enough to illuminate how I think about the markets.
+
+***
+
+One last thing, what about selling on the way up?
+
+***
+
+I think I should do it. Even if the winner is proven, being long after a long period advance will increase the risk. Instead of gambling, it makes sense to adjust position based on odds, and long advances make the odds of a short term countertrend more likely. The advances are what traders are aiming for, but they are also worth fearing. We'd want to reduce our positions when the risk increases and increase them when the risk decreases.
+
+***
+
+Yeah, this should do it. I've never been a good trader, and I have only started crystalizing my experiences in the past few months so we'll see what the results will turn out to be.
+
+///
+
+There was more in the thread, but I'll keep those parts private.
+
+1:15pm. Now comes planning time. I've decided to sell 40% of DEFS and put them into stocks...
+
+1:55pm. I think the main thing I should do now is check out on which exchanges these stocks are trading and get the market data subscriptions. Last time when I rotated my portfolio I did so with delayed data, which isn't the smartest way of doing things.
+
+![xerta](images/image-49.png)
+![vienna](images/image-50.png)
+![euronext](images/image-51.png)
+![madrid](images/image-52.png)
+
+The market data is so damn expensive!
+
+![italiana](images/image-53.png)
+
+This is the one I need for LTMC.
+
+Ok, nevermind. I'll just look at the delayed quotes as I have and move the limits gradually until they get hit.
+
+I hate paying for services.
+
+![snapshots](images/image-54.png)
+
+But snapshots could be worth it.
+
+![TWS snapshot](images/image-55.png)
+
+Ok, I see it. Nope, I don't have snapshots for LTMC, but I have for US stocks.
+
+1:55pm. Ok, thinking time.
+
+Subscribing to Xerta and Borsa Italiana (BVMI) 77 + 18 = 95 euros per month. Over a year that would come up to ~1,200 euros. So to make this trade worth it, the value of real time data has to be greater than the slippage I'd incur from using delayed quotes.
+
+Even with a 1m portfolio those data expenses would come up to 0.12% per year. For me, they'd be 10x that. Am I willing to pay 1.2% of my annual return to get this data?
+
+I don't think I am.
+
+The slippage would have to be worse than 1.2% cummulative over the course of a year for real time data to be worth subscribing to.
+
+I think I'll just save my money.
+
+2:05pm. With that decided, tactics time. The way I rotated out of AWCS and into DEFS was weird, so what I am going to do this time is plan things better.
+
+I'll go with the prinicple of buying slowly and selling quickly.
+
+On Thursday I'll put in my limit orders and then sell DEFS at the market as they get executed. There will be a short period where I will be leveraged 140% as a result, but I won't go broke due to it.
+
+2:10pm. I think I'll restrain my urge to buy low and just put in orders at the previous day closing price. Some of the time the stock will gap up and I won't get filled, but a lot of the time it should be fine. The problem with most breakout is that they take too long to run afterwards, not that they're too quick! You have to hold them for a month to get the best result.
+
+2:15pm. The problem with the AWCS to DEFS rotation is that I was too squeeamish over being 200% long even for a short time intraday, but I shouldn't have worried that much.
+
+I put in a pretty patient and low limit for DEFS, that I was surprised it got hit. That would give me an edge on the trade.
+
+4:20pm. No, it made sense to play it cautiosly like that and it worked out well in the end so all is fine. I shouldn't consider the way I acted a mistake.
+
+If anything, I should blame myself for not doing enough research and jumping into the wrong ETF to begin with.

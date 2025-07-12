@@ -629,3 +629,5 @@ I should remember this could very well be me if I leverage myself in the stock m
 ![...](images/image-77.png)
 
 It really hits too hard.
+
+11:30pm. If there is one thing I've learned from index investing, it's that being long the market pays in general. I wouldn't like be subservient to the market, but it is a giant money sucking machine, and stocks that aren't going down are likely to go up. This is the basis of my entire trading plan really. Of course after a certain point I assume that stocks that aren't going up will go down and get out. The 8 weeks rule guides me.

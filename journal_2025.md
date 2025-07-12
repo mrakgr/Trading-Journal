@@ -616,6 +616,16 @@ Is this what Jesse Livermore was like?
 
 She should read Mark Minervini's books.
 
-![god please stop](images/image-75.png)
+![no don't](images/image-75.png)
 
-Fx Senshi Kurumi-chan should be a must read for every trader. Amazing how the author trades the same way, and learned nothing from his own manga. That is truly next level dedication to his work.
+Fx Senshi Kurumi-chan should be a must read for every trader. Amazing how the author trades the same way, and has learned nothing from his own manga. That is truly next level dedication to his work.
+
+10:35pm. You can imagine how well the trade went for her.
+
+![...](images/image-76.png)
+
+I should remember this could very well be me if I leverage myself in the stock market, or bet more than 25% on a single stock. Or don't cut my losses or buy into obvious pump and dumps.
+
+![...](images/image-77.png)
+
+It really hits too hard.

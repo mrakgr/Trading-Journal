@@ -603,3 +603,19 @@ I mean, if it never books a loss, where is it going to show up?
 This subject might be something worth asking the chatbots in the future. I assumed there'd be guardrails against this, but if a bank is intent on hiding losses only the regulators would possibly know. It's not like banks would lose their own money from making bad loans. They'd just cause inflation.
 
 ...No this has to be wrong. If this behavior becomes widespread you get the 2008 crisis. The financial sector got destroyed by the markets at that time once the extent of the losses was realized.
+
+10:25pm. Reading this manga makes me deeply uncomfortable. I've seen it described as psychological ryona, and that description is very apt.
+
+![psychological ryona](images/image-74.png)
+
+She was already close to dying, why is she increasing the position size after barely surviving?
+
+Does she at some point realize she needs risk management in order to win?
+
+Is this what Jesse Livermore was like?
+
+She should read Mark Minervini's books.
+
+![god please stop](images/image-75.png)
+
+Fx Senshi Kurumi-chan should be a must read for every trader. Amazing how the author trades the same way, and learned nothing from his own manga. That is truly next level dedication to his work.

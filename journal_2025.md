@@ -581,3 +581,25 @@ With 20-30% positions I'll be getting close to the line on that second point, bu
 
 ![stay solvent longer than markets can stay irrational](images/image-64.png)
 
+10pm. Kurumi-chan's author is hillarious.
+
+![lol memestocks are some is one of the most entertaining trends to come to finance](images/image-65.png)
+![lol](images/image-66.png)
+![lol](images/image-67.png)
+![lol](images/image-68.png)
+![lol](images/image-69.png)
+![lol](images/image-70.png)
+
+10:05pm. This is insightful
+
+![the bank will literally never get the money back 1](images/image-71.png)
+![the bank will literally never get the money back 2](images/image-72.png)
+![the bank will literally never get the money back 3](images/image-73.png)
+
+I never realized it before, but this is true up to a point. I never thought that a bank might not care if it doesn't get the loan paid.
+
+I mean, if it never books a loss, where is it going to show up?
+
+This subject might be something worth asking the chatbots in the future. I assumed there'd be guardrails against this, but if a bank is intent on hiding losses only the regulators would possibly know. It's not like banks would lose their own money from making bad loans. They'd just cause inflation.
+
+...No this has to be wrong. If this behavior becomes widespread you get the 2008 crisis. The financial sector got destroyed by the markets at that time once the extent of the losses was realized.

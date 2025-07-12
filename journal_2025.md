@@ -544,3 +544,30 @@ I've been winging it with larger targets and time stops, and it has been a net b
 But I don't think that hammering the market with market orders is the solution either. It sets a bad habit.
 
 I'll decide what to do once I see the spreads.
+
+9:10pm. 
+
+![fx != stonks](images/image-58.png)
+![anon speaks the truth](images/image-59.png)
+![anon is looking for a win](images/image-60.png)
+![anon speaks the truth 2](images/image-61.png)
+
+Come to think of it, back when I was studying how to trade, after reading some trading books, I thought that momo trading is the way to trade, but momo stocks are a tiny universe of the whole market. There is no way that big players can take advantage of this style beyond a certain size. That really goes for everything.
+
+But the most scalable approach is definitely value investing.
+
+You have a centibillionaire value investor Buffet, but only centimillionaire momo traders.
+
+Honestly I'd be happy with a cool 10m. Most people would rather have 10 million fast than 100 billion slow, and I am one of them.
+
+I have other things that need doing.
+
+9:20pm. One of the reasons why I must trade is because at this point in time I don't know what my expected annual return is. If it's 100% per year, that'd be fantastic, but even if it's just 5-10% per year higher than index investing that'll still make the effort worth it.
+
+I think at worst, I'll just break even again.
+
+The only way to lose big money with this method is to rid the big winners on the way down - in other words, not cut my losses.
+
+The other way would be to take too much risk, either by using leverage, overly concentrated stock positions, or investing in poor candidates.
+
+With 20-30% positions I'll be getting close to the line on that second point, but that's not over the line. 25% per market leader is just about right.

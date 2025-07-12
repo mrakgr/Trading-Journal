@@ -476,3 +476,17 @@ I put in a pretty patient and low limit for DEFS, that I was surprised it got hi
 If anything, I should blame myself for not doing enough research and jumping into the wrong ETF to begin with.
 
 4:50pm. I am changing my mind. I am going to first buy RHM, then sell the needed DEFS, then buy R3NK, sell DEFS, buy LTMC, and finally sell DEFS. I thought that I put in the order to buy these and then sell DEFS as they get hit, but I think I want to play it cautiously. I don't want to get caught 140% long on the wrong side of the market. I want to go 120% long at most, which is why I'll rotate the DEFS position step by step.
+
+5:50pm. It'd be best to do this quickly. I should come in at noon when it's quiet and just do the trades at the market prices. It's not like last month where the equities were selling off. Now the risk is that I'll miss the upside.
+
+6:25pm. I guess I'll have to think about this more. I didn't think that DEFS position would hinder me so much. But it's not like I'll break the market by selling it, so I should just do it.
+
+I've had really good luck with limit orders and being patient in entering my trades so I am loath to abandon that.
+
+6:55pm. There are two ways of looking at a bull market. You imagine prices going up as if being pushed up from below. The implication of that kind of perspective is that they might blast off at any moment so I should better get in quickly.
+
+Another perspective is that they are being weighted down and pushed downwards by some unseen force, but bravely and resolutely keep up despite the headwinds. In this pespective, downwards counter-trend moves are to be expected, and the lack of selling pressure means that the stock is resisting the downwards push from above.
+
+After many years, I think that the latter model is far closer to reality than the first one which I had as a beginner.
+
+The lesson is that I should not be afraid of letting things run their course for another week. There is no need to get scared about missing opportunity.

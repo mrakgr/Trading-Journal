@@ -644,14 +644,22 @@ So let me do something smart about that.
 
 I'll create a few momentum screens specifically for market timing.
 
-2) Yesterday I thought about how I would close my trades if my PC went bust. As precautionary measure, I wrote my 2FA number on a piece of paper and also wrote down the IB password. I've even ordered a printer so I can print out all my sensitive info on a piece of paper in order to back it up. Of course I have it written by hand already, but it's easy to fuck up handwritten notes, so I am going to eliminate that risk from the equation once it gets here. I'll print out that paper, cut it up with scissors, and tape it where it won't easily get found.
+2) Yesterday I thought about how I would close my trades if my PC went bust. As precautionary measure, I wrote my 2FA password on a piece of paper and also wrote down the IB password. I've even ordered a printer so I can print out all my sensitive info on a piece of paper in order to back it up. Of course I have it written by hand already, but it's easy to fuck up handwritten notes, so I am going to eliminate that risk from the equation once it gets here. I'll print out that paper, cut it up with scissors, and tape it where it won't easily get found.
 
 But in addition to that, I am going to look into how to place trades from my mobile phone. I don't like the mobile app, but I need to get familiar with it in case of emergencies.
 
-I already have the Google Authenticator installed with all of the 2FA apps there. And I also installed IB Mobile on it a while ago.
+I already have the MS Authenticator installed with all of the 2FA apps there. And I also installed IBKR Mobile on it months ago.
 
 But I think if I try logging into it, it'll be in read only mode. I need to figure out how to do it regularly.
 
 8:45am. A part of me think I should be working working on that poker bot, but screw that. Right now I am cashing in my skills with the job at Tao Ceti.
 
 It's not a bad thing to think about factors related to investing. I need to put the safeguards in place completely.
+
+10:50am. Done tuning myself into the broader market momentum.
+
+Now let me play with the IB Mobile app.
+
+12pm. Got it. I figured out where the settings are on my mobile and turned on screen lock. Now using MS Authenticator, I can log into the IBRK Mobile app. As a test I tried putting in a day limit order for RHM far below the market and it worked.
+
+Wonderful, I am completely safe. I'll be able to close out my positions in a pinch even if my PC is inoperable.

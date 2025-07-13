@@ -509,3 +509,142 @@ DEFS has done well this week and is up to 5.73.
 
 I don't want to sell all of that position, but I think it's time that I slowly start to wean myself off ETFs and start trading individual stocks.
 
+7/13/2025
+
+I think one of my weaknesses still is that I am not taking in enough context. I've been inspired by the Janus Factor book, and it made me think about market timing more in depth. I know that it can be done much better by looking at the price action of market leaders. For example, in 2008, the finance stocks lead on the downside until the market crashed. To sense the trend of the overall market, all I had to do was to recognize that and use my trend trading systems in a hypothetical fashion.
+
+For example, I could have imagined using the tred trading systems from the short side, and see how well the stocks obey the 8 week and 12 week rules on the downside.
+
+If I were trading in 2008, I'd have seen that the momentum list was expanding and that the imaginary system was working well from the short side.
+
+From the long side in 2025, I doubt I'll get much use from looking at the losers, but I will be able to tell when the market has topped by seeing the leaders violate the 8 week and 12 week rules ahead of the pack.
+
+Currently, I am using momentum screens to pick stocks, but that isn't exactly what I should be doing for market timing. The act of reading charts to find the best leaders is different from the act of reading charts to get a sense of the market.
+
+So in order to ensure my success, I should recognize my weakness, and do something smart.
+
+I am going to create market timing indicators. It's really easy. It's just going to be a momentum screen of the big index stocks.
+
+![EU Momo](images/image-78.png)
+
+Currently for example, my EU momentum screen looks like this. I am looking at stocks in Germany, Italy and France. UK only has trash so I eliminated it from observation.
+
+But for market timing, it should be more like this...
+
+![US Timing](images/image-79.png)
+
+I have to either look at index stocks or large caps specifically. I'll do the same for Europe.
+
+![Euro Stoxx 600](images/image-80.png)
+
+Let me use this one for Europe.
+
+![EU Timing](images/image-81.png)
+
+Perfect. In order to time, all I have to do is pay attention to market momentum and whether these leaders are making new highs on weekly line charts with at least 8 and 12 week regularity. Once they start violating the 8 week rule, that will be a warning sign, and the 12 week rule is the stop out point.
+
+What makes these screens different from regular momentum screens is that I can flip them.
+
+![EU Timing (Losers)](images/image-82.png)
+
+Once the market goes sideways, the stocks on this page will start to expand ahead of the market decline. Looking at the chart of an index is only good for gauging sentiment, and not anticipating the decline.
+
+The way panic works in the market is that leaders either on the bear or bull side break, and then the panic spreads from them to the rest of the market. The chart of the index itself can hide this until it's too late.
+
+If I am only looking at random momentum stocks, I won't be able to notice the impacts in time. And also, the best momentum stocks aren't necessarily the one in the index. The best performers aren't necessarily the leaders in terms of actually having an impact on the rest of the market. What leads the market is what the big investors are looking at. Small cap companies breaking down isn't going to affect them.
+
+![US Timing (Losers)](images/image-83.png)
+
+Right now it's a bull market so there aren't many big losers. Europe also has a lot more big winners than the US does. I need to pay careful attention to the top and the bottom of this list.
+
+Every week, I am going to post a screenshot of these two screens which will allow us to compare them to the previous weeks. It should be fun.
+
+Let's do it like this.
+
+![EU Timing (6 month winners)](images/image-85.png)
+
+The EU Timing (6 month winners) screen says 23 symbols.
+
+![EU Timing (6 month losers)](images/image-86.png)
+
+And its opposite has only 5 on it. That's useful information to have. I'll know whether the universe of losers is expanding through it.
+
+Let's compare that to the S&P.
+
+![US Timing (6 month winners)](images/image-87.png)
+
+![US Timing (6 month losers)](images/image-88.png)
+
+10 vs 5. EU wins again. The EU ones are also far stronger than the US stocks.
+
+I am comparing the number of 50% winners to the number of 33% losers.
+
+It's not bad to have a momentum cutoff figure. We can do trend following on these numbers by comparing them week to week.
+
+I am reminded of the Quantitative Momentum book, and how they complained than in 2008, there was only a single stock above the 50% bull line leading into the crash. Pretty stupid of them not to interpret that as a signal.
+
+You have to take what you read in these books with a grain of salt. You have to do the same even with successful traders.
+
+https://youtu.be/JcFbWRs1myU
+Mark Minervini Explains the Holy Grail in Trading
+
+Minervini is a very good trader, but even so, such people can be unaware of what really makes them successful. A trader's edge is a different thing from his risk management strategy. An edge is actually what makes a trader successful. I'd consider having an edge the holy grail.
+
+In the stock market though, risk management and edge can blur due to the existence of pyramiding strategies.
+
+Trading according to the 3:1 ratio like he suggests wouldn't give you an edge by itself, so I'd personally just ignore this advice. I've read the Momentum Masters book with Minervini, Zanger, Ryan and Ritchie II. Based on it, they rarely outright sell into strength, the generally pull their stops in instead to lock in profits.
+
+Trading according to the 3:1 ratio is also incompatible with the notion of being long the leaders for the duration of the bull market.
+
+Pro chartists review a 1,000 charts per day. Besides finding good setups, that also serves the purpose of tuning them into the broader market momentum. They might not be aware that this is a large part of their edge. An amateur might look at a couple of charts and conclude they are random, but true momentum traders go all the way.
+
+I cannot compete with pro traders like Minervini, but I can at least attempt to comprehend the true sources of their power, and act upon that insight.
+
+When I was starting out in 2007, I had no idea just how connected the stocks in the market are and how they relate to the broader market. I won't make that mistake again.
+
+To finish today's section off, let me just check out the South Korean indices.
+
+![South Korea Momo](images/image-89.png)
+
+The South Korean market is bonkers right now and there are a ton of high quality picks in that market. If I was in Asia or the US, I'd switch to trading that market instead of the US. Because I am in Croatia, it's in my night period.
+
+![wow](images/image-90.png)
+
+Oh, wow. A literal quarter of the stocks in the Kospi 200 are over the 50% line. A lot of them are above 100%. Even in Europe, it's only like 5%. As for the losers...
+
+![South Korea Timing (6 month losers)](images/image-91.png)
+
+Only 4. This is nothing. This is what a bull market looks like.
+
+The actual index itself hasn't gone up by that much...
+
+![KOSPI 200](images/image-92.png)
+![KOSPI 200 %](images/image-93.png)
+
+About 30% in 3 months. Which arguably is a lot for an entire country's index.
+
+![i am paying attention](images/image-94.png)
+![i am paying attention](images/image-95.png)
+![i am paying attention](images/image-96.png)
+
+I am paying attention.
+
+When a stock makes a 30% move, it isn't a big deal, but when the entire market does it, you pay attention. Instead of Europe, maybe I should stay up late and trade the Korean market instead?
+
+I am just joking. I have a full time job, so there is no way I could do that, but if I was trading full time, I'd really consider it.
+
+![KDEF](images/image-97.png)
+
+I only noticed this because the South Korean Defense ETF is so hot. 
+
+I think moves like this precede strong multi year bull markets. I don't know anything about the situation on the ground in Korea, but the market is sending a message that there will be good times ahead for them.
+
+My long term plan is to trade like this, and get a sense of what my expected annual returns are. Even if I get good results for my first year, that doesn't mean I can just quit my job, as it could be a fluke. If I can survive and prosper for at least 3 years, that would be the start of a signal for me.
+
+If I can do well over a 5 year timespan, I'll drop software engineering as a career and become a trader.
+
+I won't stop programming because my true goal is to cause the Singularity, but dreams are dreams, and cash is cash. I need to keep the two separate and focus on the present.
+
+I'd be great if I turned out to be a market wizard, but planning for that to happen would be foolish.
+
+And even if I knew that would turn out to be the case, I can't quit now as working at this job for another 6 months would increase my net worth by 60%. It just makes financial sense to stay. The job that I have will also help absorb any financial lumps along the way. I might end up screwing my trades up in 2025 and taking losses, and in that case the job will be very helpful in getting me back to even.

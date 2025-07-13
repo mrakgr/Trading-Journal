@@ -631,3 +631,27 @@ I should remember this could very well be me if I leverage myself in the stock m
 It really hits too hard.
 
 11:30pm. If there is one thing I've learned from index investing, it's that being long the market pays in general. I wouldn't like be subservient to the market, but it is a giant money sucking machine, and stocks that aren't going down are likely to go up. This is the basis of my entire trading plan really. Of course after a certain point I assume that stocks that aren't going up will go down and get out. The 8 weeks rule guides me.
+
+7/13/2025
+
+8:40am. I have two goals for today:
+
+1) Even though I am trading momentum, I think I am still weak in the market timing department. Which is ridiculous.
+
+I've read the Janus Factor book, understood it completely, but the reality is that I am still half assing it.
+
+So let me do something smart about that.
+
+I'll create a few momentum screens specifically for market timing.
+
+2) Yesterday I thought about how I would close my trades if my PC went bust. As precautionary measure, I wrote my 2FA number on a piece of paper and also wrote down the IB password. I've even ordered a printer so I can print out all my sensitive info on a piece of paper in order to back it up. Of course I have it written by hand already, but it's easy to fuck up handwritten notes, so I am going to eliminate that risk from the equation once it gets here. I'll print out that paper, cut it up with scissors, and tape it where it won't easily get found.
+
+But in addition to that, I am going to look into how to place trades from my mobile phone. I don't like the mobile app, but I need to get familiar with it in case of emergencies.
+
+I already have the Google Authenticator installed with all of the 2FA apps there. And I also installed IB Mobile on it a while ago.
+
+But I think if I try logging into it, it'll be in read only mode. I need to figure out how to do it regularly.
+
+8:45am. A part of me think I should be working working on that poker bot, but screw that. Right now I am cashing in my skills with the job at Tao Ceti.
+
+It's not a bad thing to think about factors related to investing. I need to put the safeguards in place completely.

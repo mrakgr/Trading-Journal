@@ -663,3 +663,7 @@ Now let me play with the IBKR Mobile app.
 12pm. Got it. I figured out where the settings are on my mobile and turned on screen lock. Now using MS Authenticator, I can log into the IBRK Mobile app. As a test I tried putting in a day limit order for RHM far below the market and it worked.
 
 Wonderful, I am completely safe. I'll be able to close out my positions in a pinch even if my PC is inoperable.
+
+7:40pm. Change of plans, I don't want to be bothered on Friday, so I am just going to do it on Monday, 8 days from now. The original plan was to wait 2 weeks, and then come in next week to do the rotation so I should learn from my March experience and not let myself be dragged in. The market has a tendency of dumping on Monday anyway, so I'll wait.
+
+I am 100% long either way so I shouldn't get impatient.

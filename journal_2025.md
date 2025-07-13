@@ -667,3 +667,63 @@ Wonderful, I am completely safe. I'll be able to close out my positions in a pin
 7:40pm. Change of plans, I don't want to be bothered on Friday, so I am just going to do it on Monday, 8 days from now. The original plan was to wait 2 weeks, and then come in next week to do the rotation so I should learn from my March experience and not let myself be dragged in. The market has a tendency of dumping on Monday anyway, so I'll wait.
 
 I am 100% long either way so I shouldn't get impatient.
+
+9:50pm. I guess it pays to cover all the bases.
+
+Imagine that the market dumps 5% next week in one day. What exactly would be my plan regarding that?
+
+I am not thinking about these situations enough. Do I just let myself be stopped out, wait two weeks with the intention of pyramiding up two weeks, or do I have a two week time stop before selling at a loss?
+
+The solution is really to compromise and sell half my positions. There is negative EV of being on the wrong side of a move leading into a panic, but what I am trying to exploit are powerful upwards trends, so I shouldn't get into the habit of fighting the market. I did that in April, but I did it with 33% of my account.
+
+If you're trading the index, buying panics and selling when its calm is the only strategy really, but with stocks, it's all about the momentum during the quiet periods.
+
+It'd be very shocked if a dump just came out of the blue though. It could only happen due to a 9/11 type of black swan event.
+
+Right now the defense stocks have their upwards momentum weakened, it's not like in April, so if they get smashed now they'll really crack. I think the upwards momentum has started last week, but it isn't here yet, and there is no guarantee it won't turn out to be a sideways move.
+
+10:10pm. Also I am thinking about BTC. Regardless if I buy or let it pass, one thing I am sure is that I should treat my decision with confidence.
+
+I can rationalize letting it pass, by saying that it feels like a very crowded trade. Everyone in the world is watching it with great speculative interest. And there is no shortage of momentum picks currently so the money that doesn't go towards BTC can go towards something else.
+
+Or I can buy a little in 8 days along with the rest and try pyramiding up every two weeks according to my usual rules. 
+
+Whatever I chose, one thing I am sure is that I must trade with confidence.
+
+If I get in, I must do so with conviction that it will go up.
+
+The market rewards conviction even if it's wrong.
+
+Conviction on holding winners for months, and cutting losses quickly.
+
+I knew the trading wisdom during my losing period, but I didn't understand the importance of conviction.
+
+10:15pm. I want to just let it pass in favor of focusing on euro defense stocks. There is also South Korea. It'd suck having to trade overnight, but it's always a choice. There are also US market opportunities despite the foreign investors exiting those markets.
+
+It'd be a sacrifice to trade Korean equities, but if I want to be successful, I should do it.
+
+That having said...I am only considering this if euro momo leaders stocks start going sideways. I'll have to really think what to do in that case.
+
+Hmmm, it opens at 2am and closes at 8:30am.
+
+I'd have to adjust my schedule, but I could realistically aim get up at 7am. That'd give me enough time to catch the close and place my trades if I wanted to go down that path.
+
+Most of the time, I've already been getting up at 8am lately.
+
+10:25pm. Logris explained to me the reasons why companies are turning into BTC treasuries, but this kind of desperation to get in by the large traders isn't something I'd expect to happen before a big up move. 
+
+The reason is that university endowments and pension punds for example, have their own internal rules against buying the Bitcoin ETFs directly, so they are trying to get exposure to BTC very inefficiently by buying treasury companies instead.
+
+I am pretty sure this wasn't happening during the last bull run.
+
+At any rate, they are going to be the bag holders when the party stops. I don't understand why large investors managing pension funds are acting like retail traders would. There is no way they'll be able to liquidate the treasury companies once the market turns.
+
+But either way, as far as I am concerned this is no way to speculate.
+
+Trying to reason about future price movements like this won't get me far, in the end it's all about rotating into momentum and following the trend.
+
+I've never been successful about predicting price action even once.
+
+If there is anything to garner from the BTC price action, it's that investor sentiment is definitely turning bullish.
+
+There will be good times ahead, for the next few months.

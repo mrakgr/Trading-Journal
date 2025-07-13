@@ -658,7 +658,7 @@ It's not a bad thing to think about factors related to investing. I need to put 
 
 10:50am. Done tuning myself into the broader market momentum.
 
-Now let me play with the IB Mobile app.
+Now let me play with the IBKR Mobile app.
 
 12pm. Got it. I figured out where the settings are on my mobile and turned on screen lock. Now using MS Authenticator, I can log into the IBRK Mobile app. As a test I tried putting in a day limit order for RHM far below the market and it worked.
 

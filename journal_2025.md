@@ -727,3 +727,19 @@ I've never been successful about predicting price action even once.
 If there is anything to garner from the BTC price action, it's that investor sentiment is definitely turning bullish.
 
 There will be good times ahead, for the next few months.
+
+10:50pm. I've come to a conclusion regarding BTC. The way I treat stocks is a conduit for investor sentiment.
+
+I should treat crypto the same way. Buy and sell them in sync with the market as I would any other stock and not think of them in an isolated manner as if they exist in a bubble. Back in 2020 - 2021, BTC might have gone up a lot, but so have many other sectors. Many ETFs went up 100% from the Covid lows, and I am sure the actual momo leaders have gone up many times that during the period, as much as BTC did.
+
+Also, it's possible to interpret the large trader desperation to enter the market as being bullish going forward, so I should just ignore those kinds of opinions either way.
+
+The only question I should be asking myself is whether BTC is better than the momo stock choices and act accordingly.
+
+Forget BTC. Forget individual stocks. Forget anectotal reasoning.
+
+For me, there should only be the momentum. Even though I am focusing on leaders, I must never forget that I am trading the market and not the stocks themselves.
+
+I'll ponder seriously whether to enter the South Korean market over the week.
+
+In addition, I should do more research on other Asian markets. I am curious if South Korea is alone in its great advance. Maybe similar markets will also have great momo picks?

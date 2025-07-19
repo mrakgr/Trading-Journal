@@ -743,3 +743,196 @@ For me, there should only be the momentum. Even though I am focusing on leaders,
 I'll ponder seriously whether to enter the South Korean market over the week.
 
 In addition, I should do more research on other Asian markets. I am curious if South Korea is alone in its great advance. Maybe similar markets will also have great momo picks?
+
+7/15/2025
+
+5:40pm. Finally done with the printer and stock research.
+
+Let me save the messages I sent to Logris here. I am not sure if they mean anything to him at this point, but they do to me.
+
+///
+
+![IBKR does not allow South Korea yet](images/image-98.png)
+
+Ah damn, it doesn't seem like IBKR gives access to South Korean markets.
+
+***
+
+It seems it only 2 years ago made regulatory changes that would allow foreigners to invest, but none of the major brokers including IB made the move to allow trading of SK securities. Agh, I was 99.9% sure that I'd have access to it. Nevermind.
+
+***
+
+I guess ETFs are our best bet for this. I think I'll give it a pass myself, as I'd have to use a CFD to trade it. I'd have to pay an extra 2% in fees per year due to that. There are plenty of momentum picks in the markets I do have access to already that I don't want to bother going down that route.
+
+***
+
+Since it's a new ETF, there isn't even a CFD on KDEF currently. I once asked IB to add a CFD on QTUM and they did so. I could try asking them for it.
+
+****
+
+Besides that, even though it's not 30% of the index that's making new highs, the Hong Kong market is pretty strong. 11 / 63 = 17.5% of the stocks in the Hang Seng index have 6 month perf above 50%. Outside the index, even after I filter for price * volume above 1B, there are 104 / 251 = 41.4% stocks on the screener currently. Only 4 stocks are below -33% on a 6 month basis.
+
+***
+
+For reference, in the US, if I filter price for volume above 5b to get 258 in the screener, and then look for 6 month perf above 50%, I get 32 stocks in total. 312 / 258 = 12.4%.
+
+***
+
+The US market is a lot more liquid and larger though. If I filter by 100m price * volume (turnover) I get 2354. Filter that by 6 month momentum above 50%, and I get 182. 182 / 2354 = 7.7%.
+
+***
+
+Damn, I thought it might be better once we include less liquid stocks, but it's even worse. Maybe liquidity is good for future performance?
+
+***
+
+![EU Momo](images/image-2025-07-19-123348.png) 
+![EU Momo](images/image-2025-07-19-123321.png)
+
+Europe is 33 / 276 = 12%. It actually isn't that much better than the US.
+
+***
+
+![EU Momo](images/image-2025-07-19-123650.png) 
+![EU Momo](images/image-2025-07-19-123526.png)
+
+With a lower turnover, I get 88 / 627 = 14%.
+
+***
+
+There you have it. We should be focusing on either South Korea or Hong Kong. You said that you'll open an account with IBKR, but maybe we both should be looking into South Korean brokers like Mirae.
+
+***
+
+I'll make a ticket asking about access to South Korean markets. The IB reps can be unhelpful and annoying, but I haven't been ignored by them ever.
+
+***
+
+![South Korea Momo](images/image-2025-07-19-125128.png) 
+![South Korea Momo](images/image-2025-07-19-125032.png)
+
+159 / 382 = 41.6%. Outside the index, SK is similar to Hong Kong in terms of breadth.
+
+***
+
+![South Korea Momo](images/image-2025-07-19-125417.png) 
+![South Korea Momo](images/image-2025-07-19-125339.png)
+
+287 / 1281 = 22.4%. Increasing the universe of tradable stocks doesn't improve the breadth, but reduces it. It seems that for every market, there is a liquidity sweet spot.
+
+***
+
+The South Korean market is actually pretty large with 2.3k stocks in total on it, and this is of similar size to the Hong Kong market.
+
+***
+
+Japan has breath of around 12-14% depending on which liquidity level I am looking at.
+
+***
+
+That's about it. I opened a ticket on IB, asking them about the South Korean market and I should get an answer next week. I'll tell you how it goes.
+
+***
+
+This is roughly how research looks for me. In the Quantitative Momentum book, they've found that rotating the momentum portfolio every month gives the best returns, but they had around 50 stocks in that portfolio. Right now I am still thinking how many equities I want to trade at any given time. Given that the momentum on euro defense stocks is waning, I'll go for 10, and only concentrate my positions to 5 or even 4 when the momentum is particularly strong on an 8 week basis. Right now I am afraid the stocks I am looking at might consolidate for a prolonged period of time, so it makes sense to spread my bets around.
+
+***
+
+After some more research I see that HK's bull market is different from SK's and Europe's. It has a lot of pharmaceutical, IT and retail companies. I didn't see any industrial ones like in SK. Most HK momo stocks are extended at the moment so it's not the right time to enter this market. I am also out of tune with the HK market, so it'd be best to wait for a broader market decline before making changes to my focus. I'll give it a pass for now. There will be chances to buy further down the road.
+
+///
+
+5:55pm. I made a mistake with the South Korea Momo screenshot. Nevermind that.
+
+Phew, I am so tired from all the research today.
+
+The more I think about it the less sure I am that I want to ditch my DEFS position.
+
+When I looked at portfolio analyzer this morning, I was surprised to find that I am up 18% on the year in % terms. It feels like I've been barely threading water, but surprisingly I am up a non insignificant amount.
+
+I started from such a low point, that I am only up like a single monthly salary...which isn't that bad if I think about it. I've been trading for 3-4 month maybe.
+
+Ok, now let me think. If I want to sell my DEFS position and rotate into individual stocks, which should I pick? I'll ignore the large bull market in Hong Kong and Asia to focus on euro denominated stocks.
+
+![RHM](images/image-99.png)
+
+I am still bullish on euro defense stocks, but as you can see on the chart, their momentum has been waning lately. Last week I though that I should go 25% long RHM and 20% other stocks, but it cannot be justified in this case. I think I'd sleep better at night if I wasn't so invested in it.
+
+![HAG](images/image-100.png)
+![R3NK](images/image-101.png)
+
+It'd be fine to buy R3NK on the way up from a decline.
+
+![BAB](images/image-102.png)
+
+This one is LSE so that means stamp tax, but it also has a listing on the German bourse. I could just get it there.
+
+![LDO](images/image-103.png)
+![TKA](images/image-104.png)
+![HO](images/image-109.png)
+![EXA](images/image-105.png)
+
+EXA would be pretty hard to buy here so if I did so, instead of the standard 10%, I'd use 5% as my initial buy. Should have gotten it last week. If I'd been trading individual stocks that's what I would have done.
+
+These 8 stocks that I've posted so far have all been defense related. The following won't be.
+
+![LTMC](images/image-106.png)
+
+Casino and gambling stock. High tight flag pattern.
+
+![ACT](images/image-107.png)
+![FCT](images/image-108.png)
+![GRE](images/image-110.png)
+
+GRE is a bit interesting.
+
+![GRE daily](images/image-111.png)
+
+Take a look at this large selloff. Initially, these large sells are a bear pattern, but if the market can resist the selling, after a month or so it becomes a bull pattern. TKA also had this pattern.
+
+![TKA daily](images/image-112.png)
+
+You can see how in mid May it had an earnings breakdown, which is bad. But since the momentum didn't follow through on the downside, now it's actually a bull pattern.
+
+6:15pm. Maybe I should just focus on Europe for the time being and give Asia a rest. Somebody has to trade Euro stocks and it might as well be me.
+
+Ok, so...
+
+RHM = 10%
+HAG = 10%
+R3NK = 10%
+BAB = 10%
+LDO = 10%
+
+These come up to 50%.
+
+TKA = 10%
+HO = 10%
+EXA = 5%
+
+These come up to 25%.
+
+LTMC
+ACT
+FCT
+GRE
+
+Now I need to pick 3 out of these 4...
+
+![ACT daily](images/image-113.png)
+
+On review, let me eliminate ACT. The reason being is that it's extended now, so I don't want to enter right here. Unlike EXA, I don't expect ACT to be the next TASR even though it has sweet momentum. 2 weeks ago it would have been the ideal time to buy, but right now, it's not so much.
+
+So that comes down to:
+
+LTMC = 10%
+FCT = 10%
+GRE = 10%
+
+105% in total. Nice. 2 weeks from now if EXA is still going up I'll add 5% to bring it up to 10 and that will make me 110% long, which is fine. I don't want to be margined, but going up to 110% is ok.
+
+Let me just do it. ETFs are training wheels and trading them will hurt me in the long run. It's best I give myself the flexibility to trade whatever I want. Maybe I'll lose my profits for the year through these actions, and it will turn out that I am not suited for stock trading. But I will take that risk.
+
+On Monday, I'll come in at 2pm, which is 3.5 hours before the close, sell my DEFS position and start buying these 1 by 1. I'll go with the strategy of buying 15m lows that I discussed last week.
+
+Let me organize my IB watchlist in advance.

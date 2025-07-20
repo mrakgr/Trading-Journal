@@ -950,3 +950,35 @@ Let me finish the book by Tom Basso and I'll watch the IBKR vids on basket tradi
 https://www.youtube.com/watch?v=-U8tLqrVrII
 TWS BasketTrader Part 1 – Create a Basket
 
+https://youtu.be/lRFjzorhBVo
+How to use BasketTrader by Interactive Brokers for swing trading
+
+I'll have to take a break from my job tomorrow in order to figure this out while the market is open.
+
+![what are adaptive limit orders](images/image-114.png)
+
+What are adaptive limit orders?
+
+Sigh, I am going through so much trouble simply because I don't want to spend even a day not in the market. If only I could sell DEFS and then gradually buy the stocks that I want this would be easier.
+
+But I don't want to do that. Being away from the market even for a day means I could lose 1-2%.
+
+![multi instrument](images/image-115.png)
+
+What are these multi instrument tools?
+
+4pm. Those things are useless.
+
+After playing around with the platform for a while I see that I am best off using the watchlist + chart combo to trade. I can place buy and sell orders using the chart and that will work well. I tried using BasketTrader, but it's buggy. For some reason the Total Quantity columns kept saying it's different from the Order Quantity and that freaked me out.
+
+The plan I am going to follow is to rotate my portfolio in 30% steps.
+
+I've put in a limit order to sell 30% of my RHM position, and 10% buy order to buy RHM, HAG and R3NK each. For periods like these I'll allow my margin level to go up to 130%. If my DEFS gets sold and none of the buys trigger, I'll add 3 more longs to the mix. I'll move the orders after every day's close.
+
+Instead of trying to do things quickly, I'll try to do things slowly.
+
+There is no helping it.
+
+I sort put in orders and cancelled them, so I hope they don't get triggered by accident on Monday and give me double buys.
+
+In the end, I guess process I'll be following will be similar for the ASWC to DEFS rotation. At worst, I'll sell 30% of my DEFS and not have any of my buys trigger. That would be bearable compared to exiting the market 100%. If that happens I'll keep pulling my limit orders for the individual stocks until they trigger. If I see a good opportunity in the individual stocks to buy on a dip I might decide to get active during the day, but otherwise I'll just take it slowly and adjust my orders after the market closes.

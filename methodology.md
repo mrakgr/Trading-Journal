@@ -648,3 +648,59 @@ I won't stop programming because my true goal is to cause the Singularity, but d
 I'd be great if I turned out to be a market wizard, but planning for that to happen would be foolish.
 
 And even if I knew that would turn out to be the case, I can't quit now as working at this job for another 6 months would increase my net worth by 60%. It just makes financial sense to stay. The job that I have will also help absorb any financial lumps along the way. I might end up screwing my trades up in 2025 and taking losses, and in that case the job will be very helpful in getting me back to even.
+
+7/20/2025
+
+Let me post the timing charts quickly.
+
+![US Win](images/image-116.png)
+![US Los](images/image-117.png)
+
+![EU Win](images/image-118.png)
+![EU Los](images/image-119.png)
+
+![SK Win](images/image-120.png)
+![SK Los](images/image-121.png)
+
+![HK Win](images/image-122.png)
+![HK Los](images/image-123.png)
+
+The Hang Seng index isn't the best measure of HK's breadth. Underneath, there is a huge bull market in pharma, IT and retail stocks. When looked at the broader market, around 40% of top 10% stocks by liquidity are above 50% over the last 6 months.
+
+![Hang Seng](images/image-124.png)
+
+Incidentally Hang seng has 63 stocks in it, so 11 stocks would be 17.5% above the bull line. The US is performing pretty poorly.
+
+See the other journal at this date for more info.
+
+At any rate, I've decided on my stock portfolio:
+
+RHM = 10%
+HAG = 10%
+R3NK = 10%
+BAB = 10%
+LDO = 10%
+
+TKA = 10%
+HO = 10%
+EXA = 5% (initial) + 5% (after 2-4 weeks)
+
+LTMC = 10%
+FCT = 10%
+GRE = 10%
+
+BAB has a listing on the German exchange so I'll get it there to avoid the stamp tax.
+
+I looked into basket trading, but IB's platform is buggy and doesn't give me a real benefit, so I'll place the orders one by one in the watchlist tab on the charts directly.
+
+I'll take it slowly and aim to rotate my portfolio 30% per day by placing limit orders when the market is closed. That way I'll never go below 70% or above 130% long, which will be bearable. Currently the leaders are acting weak so this is a good time to rotate.
+
+> I'll put 20% into RHM, 10% into R3NK and 10% into LTMC.
+
+I said this a week ago, but now that I've had a week to think, I realized that I want to diversify unless the momentum is strong, which isn't the case now. RHM has been consolidating for around 8 weeks, and another 4-6 weeks of going nowhere and I'll have to change vehicles for good.
+
+I am not sure if the recent two upweeks will have follow through. Ideally they would, but who knows.
+
+This is the time for patience and not big bets. As long as the market isn't in bear mode, it's likely to go up and make me money. Holding on is a good strategy during quiet periods.
+
+Assuming the leaders are going to have another upleg in the next 4-6 weeks, this will have turned out to be a good spot to rotate into them. And if the market doesn't dump, at worst they will just trade sideways.

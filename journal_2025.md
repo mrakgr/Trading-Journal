@@ -936,3 +936,17 @@ Let me just do it. ETFs are training wheels and trading them will hurt me in the
 On Monday, I'll come in at 2pm, which is 3.5 hours before the close, sell my DEFS position and start buying these 1 by 1. I'll go with the strategy of buying 15m lows that I discussed last week.
 
 Let me organize my IB watchlist in advance.
+
+7/20/2025
+
+12:40pm. Ah, I fucked up. I might not have time to figure out how to trade a basket of stocks on Monday.
+
+My original plan was to buy the stocks one by one, but that won't cut it. I need to figure out how to trade them with a push of a button as a basket.
+
+Trading a single ETF is much simpler in comparison.
+
+Let me finish the book by Tom Basso and I'll watch the IBKR vids on basket trading.
+
+https://www.youtube.com/watch?v=-U8tLqrVrII
+TWS BasketTrader Part 1 – Create a Basket
+

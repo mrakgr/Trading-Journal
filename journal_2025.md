@@ -982,3 +982,52 @@ There is no helping it.
 I sort put in orders and cancelled them, so I hope they don't get triggered by accident on Monday and give me double buys.
 
 In the end, I guess process I'll be following will be similar for the ASWC to DEFS rotation. At worst, I'll sell 30% of my DEFS and not have any of my buys trigger. That would be bearable compared to exiting the market 100%. If that happens I'll keep pulling my limit orders for the individual stocks until they trigger. If I see a good opportunity in the individual stocks to buy on a dip I might decide to get active during the day, but otherwise I'll just take it slowly and adjust my orders after the market closes.
+
+7/23/2025
+
+9:20pm. https://youtu.be/f19bfHpCths?t=365
+
+The second interview is really interesting. He says that instead of buying and putting on a stop loss, the retail trader should instead put an order where the stop loss would be.
+
+This week I've fucked up the rotation and am getting killed in the market. I'll do a review on Saturday.
+
+In short, I've overestimated how willing I am to be 130% long in a declining market. I've gotten whipsawed really badly.
+
+Also in the future I'll just pay the damn spread and be done with it.
+
+Sure I might be giving up 0.1-0.2% every time I rotate my portfolio if I hit the market bids and asks directly, but that's still much better than letting the market end up dictating my level of exposure because I used limit orders.
+
+I've gotten way too lucky on the ASWC to DEFS rotation and it gave me bad habits it seems.
+
+Well, in situation I just need to hold.
+
+I've been thinking and I'll dispense with the strong momentum rules. I don't feel like selling even though the 8 week momentum has dried up. I'll take a risk and wait until the end of the next month. The market will tip its hand by grinding up slowly before accelerating.
+
+As long as the move isn't very overdone, I think that sitting tight is the right move. So far it's been only 8 months into the defense stock bull market. There are likely 2 more years more to go.
+
+Weak momentum in an uptrend is a sell in the late stages, but a buy in the early stages. I'll use my intution to decide whether to hold or to sell.
+
+I just want to experience what it's like to be long big winners in a bull market.
+
+There are three main things I can control in the market:
+
+* My trading instruments.
+* My position sizes.
+* My holding periods.
+
+I cannot really control the entries and exists. I can only control what I trade, and how I size those trades, and how long I hold the positions for.
+
+I won't make money by timing the market's random number generator.
+
+I need to hold the trades for a few months at least to get the benefits of the uptrend.
+
+I only really started buying euro defense stocks in mid June. Or maybe even mid May earlier if you count ASWC.
+
+So far the trade isn't working out, but how about instead of giving up I hold for another 3 months?
+
+That should have some effect.
+
+I am even thinking of changing my style to ignore bull market corrections. Long bear markets when the six month momentum turns negative sure, I'll avoid those. But I don't want to give up here. I don't have any good way of anticipating them anyway. When their momentum was strong, the defense stocks pretty much brushed off the April panic anyway. Minervini says that traders would be better off ignoring the market.
+
+If the position actually start stopping me out, then fine. I'll accept that. But right now the market isn't declining, it's consolidating and slowly uptrending.
+

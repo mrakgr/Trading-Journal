@@ -704,3 +704,28 @@ I am not sure if the recent two upweeks will have follow through. Ideally they w
 This is the time for patience and not big bets. As long as the market isn't in bear mode, it's likely to go up and make me money. Holding on is a good strategy during quiet periods.
 
 Assuming the leaders are going to have another upleg in the next 4-6 weeks, this will have turned out to be a good spot to rotate into them. And if the market doesn't dump, at worst they will just trade sideways.
+
+7/26/2025
+
+I am moving my activities to the [`journal_2025.md`](./journal_2025.md) file. It makes no sense to have two different journals to chronicle my moves, but I might dump the weekly screeners and my current positions here.
+
+Anyway, after a stressful week, this is my current portfolio roughly.
+
+RHM = 10%
+HAG = 10%
+R3NK = 10%
+LDO = 10%
+TKA = 10%
+HO = 10%
+EXA = 5%
+LTMC = 10%
+FCT = 10%
+ACT = 10%
+GRE = 10%
+
+It dipped in value 5% due to the disastruous rotation, so I am 108% long now instead of 105%.
+
+This week I've learned the value of using limit orders at the market prices. I've also learned to not trade illiquid stocks and to just get in later in the day instead of trading around the clock. My rule will be 45m before the close. I might check early in the day to see if any of my stocks are up 100% and in need of selling, but as a general rule I'll fire at the end of the day.
+
+Let me go over the screeners.
+

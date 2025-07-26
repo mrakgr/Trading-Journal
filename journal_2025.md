@@ -1027,7 +1027,135 @@ So far the trade isn't working out, but how about instead of giving up I hold fo
 
 That should have some effect.
 
-I am even thinking of changing my style to ignore bull market corrections. Long bear markets when the six month momentum turns negative sure, I'll avoid those. But I don't want to give up here. I don't have any good way of anticipating them anyway. When their momentum was strong, the defense stocks pretty much brushed off the April panic anyway. Minervini says that traders would be better off ignoring the market.
+I am even thinking of changing my style to ignore bull market corrections. Long bear markets when the six month momentum turns negative sure, I'll avoid those. But I don't want to give up here. I don't have any good way of anticipating them anyway. When their momentum was strong, the defense stocks pretty much brushed off the April panic anyway. Minervini says that traders would be better off ignoring the market on a day to day basis, and there might be something to that.
 
 If the position actually start stopping me out, then fine. I'll accept that. But right now the market isn't declining, it's consolidating and slowly uptrending.
 
+7/26/2025
+
+10:45am. I fucked up big time with those limit orders. On Monday the 3 buy orders for RHM, R3NK and HAG got triggered, but the DEFS sell didn't leaving me 130% long in a declining market and I had a very stressful time this week as a consequence. Fuck.
+
+I am not sure how much I've lost relative to what I would've had I simply bought at the market and paid the spread, but I probably set 1.5% of my net worth on fire for no good reason. Shit.
+
+My plan for how to rotate into the stocks that I wanted was very undefined. I have the rules for how long to hold and when to buy and sell in general, but I was far too lucky with limit orders in the past few months and this week it was time to pay the price for that.
+
+The initial mishap with limit orders aside and all the stress that came out of it aside, I think I did manage to find the plan in the end. The best thing that I could have done is to come in 45m before the close and just buy the stocks that have declined at the market. This was roughly what I suggested, but discarded in favor of limit orders.
+
+The biggest mistake that I made was overestimating my risk tolerance. I told myself that being 130% long would have been fine, but once the market starting selling off, I definitely felt a lot of pressure to reduce down to 100%. And in fact that's what I did. Had I not taken these dumb risks and paid the spreads I would have gotten far better prices for my DEFS sales. I think I am down 5% from the highs of last week currently. It would have been 6% had I not bought EXA and it went up 20%. On 8th August I am definitely buying more. I might have to break the rules on not buying on sharp rises as this stock is a momentum beast, it might really be the next TASR. Stocks like those rarely offer good buy points.
+
+I usually don't like buying stocks that are up more than 20% for the month, but I might have to consider buying EXA in small amounts to average up even if it's up 30-40%.
+
+Also, if it dips next week to 110 by the end of Friday, I think I'll risk it and buy another 5% to increase my position to 11%.
+
+Then I'll aim to buy another 5% two weeks after that.
+
+It's true, the stock might top at any time, but that goes for any stock.
+
+Given my style, I'll make most of my money from exceptional situations where a stock keeps going up for many months after I buy it.
+
+Averaging up will reduce my profits from regular trades, but it will keep me in the game of holding momentum leaders during their ascent.
+
+Let me go over all of my trades in turn.
+
+First on, 7/21 I bought RHM, HAG, and R3NK for about 10% of my portfolio each.
+
+![RHM](images/image-125.png)
+
+Wow, I pretty much got in at the worst possible time on RHM at 137. The limit order that I put in was probably the daily high. The other two aren't any better.
+
+![HAG](images/image-126.png)
+
+I got HAG at 103.
+
+![R3NK](images/image-127.png)
+
+I got R3NK at 71.2.
+
+While I got destroyed in the first two, R3NK was relatively strong so I didn't suffer as much.
+
+What I did with DEFS was really horrible. I should have just recognized my mistake and sold right there on Monday's close in order to rebalance my portfolio properly, but instead I decided to put in a limit order near Friday's highs at around 5.85. So when I sold it later in pieces, it was because I absolutely didn't want to go above 130% long and was forced to make room for other stocks that I wanted to buy.
+
+That covered what happened on Monday which was 7/21/2025.
+
+![TKA](images/image-129.png)
+
+On Tuesday I bought TKA at 10.945. On Monday it had a huge rise and I regretted not getting in on Friday, so when it sunk so sharply on Tuesday I decide to pull the trigger and got it on the daily low.
+
+I sold DEFS at 5.65 to make room for it. There were a lot of DEFS trades that day so I'll go over it later.
+
+![EXA](images/image-128.png)
+
+EXA was the only 5% position in my portfolio and I bought it at 100.6.
+
+![GRE](images/image-130.png)
+
+I got GRE at 66.3.
+
+![LTMC](images/image-131.png)
+
+I got LTMC at 24.3.
+
+Let me calculate how much of DEFS I sold that day.
+
+Around 45% of my entire position at around 5.65. At this point I had resorted to using limit orders to enter and exit positions, but they were more similar to market orders as I'd put in a limit order close to the market and then drag it closer to the current price. It's like using market orders, but I am not letting the broker completely decide the price that I get it. Some of these stocks are very illiquid so there is no sense of risking getting bad fills.
+
+Since I am still using delayed data, I don't know what the exact bid/ask quotes are in order to put in the order at midpoint, so I ended up hitting the market.
+
+At the end of Tuesday I had 7 of my desired buys and I was 120% long the market.
+
+On Wednesday...
+
+![HO](images/image-132.png)
+
+I got HO at 240. I did that at around noon when it sold off, only to watch it dump more near the close. At that point I realized that playing with limit orders and getting in at noon was a mixed bag for me. It wasn't worth the stress I was having to endure, and even for the AWCS to DEFS rotation, had I not bought it near the lows at 5.41, but near the close at around 5.45 I would have still been fine. What really matters is waiting a few days to get a better price, not picking the exact low and trying to avoid the spread.
+
+Every time I'd buy a stock like this, I'd sell 10% DEFS to compensate. I managed to get out of it at 5.69 that day. In fact, since I don't have a position in it anymore, let me grab a chart of it from the IBKR platform. As mentioned, the IBKR version has a lot more intraday data. I'd like to post a TradingView one instead, but it barely has anything on it.
+
+![DEFS](images/image-133.png)
+
+Oh, it has the red arrows showing my trade times. Yeah, it was pretty horrible experience all around doing this. I've learned the wrong thing from the AWCS to DEFS and the ESPO to AWCS rotations. They taught me that if I mess with limit orders I'll make better trades. Trading the EUR/USDC with limit orders every time I got my salary and getting lucky was the start of that habit. The only reason it worked then is because I had the leeway to be patient and wait for the limit to be hit which I didn't have this time around.
+
+Since I didn't have the leeway, I should have just dumped that trash right at the market and bought what I wanted.
+
+It's not so much the loss that made this stressful, but the fact that for the duration of the week, the trade had gone out of my control essentially and the market itself was controlling what my level of exposure to it was. I had that limit order far higher than it should be. Maybe next week I'll recoup the losses thanks to the bull market, so I could have held on for longer, but that wouldn't have been good trading. I have to think about the possibility that the 3 weeks won't be rossy for me and control my risk in case that ever happens. So I had to sell as I rotated, I couldn't have let my level of exposure spiral out of control.
+
+I didn't want it to be even 130%. 110% long is my hard limit. I'll never let this happen again.
+
+![LDO](images/image-134.png)
+
+On Thurday I bought LDO at 48.7 an hour after the open. I got baited hard by pullback after the initial positive action, and got in at the start of a negative trend day on the wrong side. Sold DEFS at 5.736 to compensate.
+
+![ACT](images/image-135.png)
+![FCT](images/image-136.png)
+
+And on Friday I made my final two buys: ACT at 150.2 and FCT at 16.58. I wrote that I'd buy BAB instead of ACT last week, but now that I've changed my strategy to using market (limit) orders paying for the truck sized spread or the UK stamp tax is much less attractive to me. I thought about it for a while and decided to just give it a pass.
+
+Instead both ACT which I had been considering on previous week's friday, but decided to avoid in favor of BAB and FCT had precipitous declines so I decided that the best time to get in was now.
+
+I also liquidated the last 30% of my DEFS position at 5.605.
+
+That puts me at around 108% long at the moment and I am satisfied with that.
+
+We'll see how this will do in the coming weeks. The defense stocks have a lot of earnings reports coming up which could affect the whole group in either a positive or negative way.
+
+I've been long the defense stocks for a while now and they've gone nowhere, so I want to see some positive action by mid to late August otherwise I'll have to get out fundamentals or not.
+
+If they resume their act as market leaders I'll make a lot of money and if not, hopefully I won't lose too much.
+
+That's momentum trading for you.
+
+The system I am using is mostly price action based and it's not a particularly complicated system.
+
+My stocks might go down in the following weeks and give me 10-20% losses that would leave me out of 1-2 months salary, but I've learned that I need to take risks if I want to attain anything.
+
+I've only started trading this system, and I don't know how well it will do in practice. It's not like I backtested it. I only know some principles that I am trying to internalize.
+
+A year or two down the road, this might turn out to have been a failure, but unlike a decado ago, I want to be able to say that I gave it my all.
+
+It has a chance of succeeding and I don't want my failure to be because I've been too scared to enter the waters.
+
+I want to be in control of my own fate.
+
+If the market won't give me what I want then so be it, but I'll try to get it from it first.
+
+I've spent a lot of time thinking about the market and if I want to make profit part time, I just cannot trade in any other way than this. If it doesn't work, then I guess I'd have been better off as an index investor.

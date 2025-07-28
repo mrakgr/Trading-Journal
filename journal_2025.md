@@ -1159,3 +1159,22 @@ I want to be in control of my own fate.
 If the market won't give me what I want then so be it, but I'll try to get it from it first.
 
 I've spent a lot of time thinking about the market and if I want to make profit part time, I just cannot trade in any other way than this. If it doesn't work, then I guess I'd have been better off as an index investor.
+
+7/28/2025
+
+![euro defense stocks crushed](images/image-173.png)
+
+Had to screenshot this. This does explain why people don't just fill up their portfolio with market leaders. The volatility is eye watering. Since Thales broke through long term support I decided to sell it and buy EXA instead and SAAB_B.
+
+Compared to the Friday on the 18th, I am down a whole monthly salary now, but I still feel like I am on the right path here. I believe in this method. If the euro defense stocks really are destined to top here, I'll sell in 3-5 weeks next month. I'll stick to the plan.
+
+I made sure not to use too much leverage, and I am currently only 110% long. Once I get the salary I'll bring that down to 100%, so I am not worried about getting a margin call.
+
+What might happen next week is some stop hunting. A big trader could chicken out and we could see the bids pulled temporarily.
+
+It's really important to hold here and give the trade time to develop because after the hunt is done the stocks have a tendency to blast off to the upside.
+
+Traders get paid to take on risk. I am not going to get anything by bailing out every time I am under heat.
+
+The 8 and 12 week rules exist for a reason.
+

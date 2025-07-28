@@ -729,3 +729,149 @@ This week I've learned the value of using limit orders at the market prices. I'v
 
 Let me go over the screeners.
 
+![SAAB_B](images/image-137.png)
+
+Damn, I definitely need to get this one. I have no idea how I missed it. Let me see if IBKR has it.
+
+Yeah, it does, but it doesn't even show the delayed data for it. I've tested whether it would allow me to place an order and it would. The same goes for ALPHA.
+
+Right now I am filled with defense stocks, but I might sell the laggards to buy SAAB.B next month. But it might not be a bad idea to get rid of HO for example to get this one. Also I get paid next week so I'll have extra funds to use. I can just grab SAAB if it's not up too much in two weeks.
+
+At any rate, let me post the screens.
+
+![US](images/image-138.png)
+![US](images/image-139.png)
+
+![EU](images/image-140.png)
+![EU](images/image-141.png)
+
+![HK](images/image-142.png)
+![HK](images/image-143.png)
+
+![SK](images/image-144.png)
+![SK](images/image-145.png)
+
+Nothing too extreme.
+
+I think I'll do some research on the Nordic markets.
+
+![EU momo](images/image-146.png)
+
+I've added the SEK and NOK currencies to the mix and I see a lot of stocks being added to the screener with the SEK currency.
+
+Is there a large bull market in sweeden that I conveniently missed?
+
+Wow, it's a wild market.
+
+Hmmmm, I think for this market I am going to change my rules a little.
+
+Back in 2007 I had idea for a bubble chasing system, and it'd work on this market if what I see is any indication.
+
+I'll just buy new highs at the close on strong volume surges.
+
+I've been avoiding doing that so far, but it would work on bubble stocks.
+
+![GOMX](images/image-147.png)
+
+This is hardly the worst of them. You can really see the volume coming in compared to the slow moving stocks I am favoring in my current portfolio.
+
+![ONCO](images/image-148.png)
+
+Or this one for example. A lot of the stocks on that market are like this, they have a different character than the euro stocks do.
+
+![ASTOR](images/image-149.png)
+![ASTOR yearly](images/image-150.png)
+![ASTOR earnings](images/image-151.png)
+
+The fundamentals are there to support this kind of move.
+
+![INT](images/image-152.png)
+![INT earnings](images/image-153.png)
+
+The earnings are there.
+
+![PLEJD](images/image-154.png)
+
+I think those momo stocks I showed are mostly there because the volume filter is less restrictive for the swedish krona currency. Once I ramp it up by 10x so it matches the euro turnover it starts to look different. But there are still a lot of great opportunities in Sweeden.
+
+![ACTR](images/image-155.png)
+
+Compared to Sweeden there really isn't much in the Norwegian market.
+
+![NORBT](images/image-156.png)
+![NORBT earnings](images/image-157.png)
+
+Revenue is going up and earnings are going up.
+
+![Sweeden Momo](images/image-158.png)
+
+Let's do the usual winners and losers screen.
+
+![Sweeden Winners](images/image-159.png)
+![Sweeden Losers](images/image-160.png)
+
+12/84 = 14.3%.
+
+Not the South Korea or Hong Kong level, but it give me something to play with.
+
+![Sweeden 100m](images/image-163.png)
+![Sweeden 100m Winners](images/image-161.png)
+![Sweeden 100m Losers](images/image-162.png)
+
+36 / 200 = 18%.
+
+Maybe I could loosen up the volume requirements?
+
+![OTEC](images/image-164.png)
+
+Amazingly smooth mover.
+
+![Nordic 200m](images/image-165.png)
+![Nordic 200m Winners](images/image-166.png)
+![Nordic 200m Losers](images/image-167.png)
+
+29 / 206 = 14.1%
+
+It's hard to argue that this is a huge bull market.
+
+Let me try 100m.
+
+![Nordic 100m](images/image-169.png)
+![Nordic 100m Winners](images/image-168.png)
+![Nordic 100m Losers](images/image-170.png)
+
+44 / 278 = 15.8%.
+
+I think I'll just go with 200m as the cutoff.
+
+![GOMX](images/image-171.png)
+
+I want to try buying this one. It's really obeying the 8 week rule now.
+
+![QBTS](images/image-172.png)
+
+The pattern reminds me of D-Wave.
+
+D-Wave is tightening up and might break out again.
+
+Yeah, forget the super volatile groups. Low volatility and high momentum is the easiest way to trade so let's go with it. Forget the bubble stocks and get there one step at a time.
+
+If I really want to juice my returns, instead of trading highly volatile stocks, I should use more margin. But I am not going to do that.
+
+I should instead focus on finding big winners that have low volatility and concentrating my portfolio on them.
+
+And I should stick to what I've been doing which are group themes.
+
+I think I should just buy SAAB ahead of schedule...no, I'll wait a few weeks. As good as the pattern looks, there I might end up selling the defense stocks in 3-5 weeks, so there is no reason to be in a hurry to buy the stock here.
+
+Though I've missed other euro stocks, there are good opportunities in my current holdings, so I just have to sit and wait here. 
+
+The plan is:
+* Get EXA next Friday if it dips.
+* Wait two weeks and sell the losers if they're breaking the pattern.
+* Be prepared to sell all the euro defense stocks.
+
+As for INT, it's overextended right now, so I need to wait at least two more weeks.
+
+Right now it's up 60% on the month, but it will have a neutral 4 week period that would give me a chance to enter.
+

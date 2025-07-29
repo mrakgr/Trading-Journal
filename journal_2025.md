@@ -1178,3 +1178,50 @@ Traders get paid to take on risk. I am not going to get anything by bailing out 
 
 The 8 and 12 week rules exist for a reason.
 
+7/29/2025
+
+6:35pm. It's ironic, yesterday during the day I was pretty cool, but after the market closed I started getting anxious.
+
+At some point while I was in bed I decided that I don't want to look at the market at all for the next 2.5 weeks, not until after the 15th August close.
+
+So that is what I will do.
+
+Yesterday the market leaders were selling off strongly, and I think that based on how panics happens quickly that there might be a stop hunting type of selloff this week, perhaps even today. I don't know, I won't look at it. There is no point in me looking at it, and if I get anxious, I might end up panic selling.
+
+If I lose on the euro defense stock trades then so be it. But I don't want to lose because the leaders dipped 10-15% on the day and I closed my positions out for the sake of mental relief.
+
+Fear could prevent me from keeping my winners and fear could make me close out my positions far too soon.
+
+I am using almost no margin for a very real reason. So I can keep hold of my positions.
+
+Sigh I am so weak. For the sake of victory I decided to look away from reality.
+
+It's really making me glad that I have this job now, so I can feed my account in case of losses.
+
+If you look at the monthly charts of the market leaders, they are very smooth, but on a particular day they could be moving 3-5% both up and down on average. It's pretty scary to load up your porfolio on them.
+
+But at the same time, it makes zero sense to keep a part of my portfolio in cash in a bull market. So what I am doing now is the only choice.
+
+If I only look at the 2 weekly closes, it will smooth out my equity curve and my emotional state.
+
+Ironically, that's how I started out trading back in March and April and the ASWC to DEFS rotation drew me in, and I was having fun for a while watching the markets, but now it's time I withdraw again.
+
+I'll focus on programming, top up my account in the next few months and try again if I fail.
+
+I don't think I should lose too much on euro defense stocks, but it has to be noted that the 12 week rule is more dangerous than the 8 week one.
+
+If you use the 12 week rule at the top of the market, you'll get hit hard. The 8 week rule in contrast will let you off much more lightly.
+
+Rather than sheared, I might get skinned alive in August.
+
+6:50pm. Ah whatever. Trading blind is a tool in my toolbox. It could turn out to be a particularly potent tool. Being anxious about the market constantly is worse than actual losses. And while doing it blind will enlarge my losses, it will make holding winners much easier.
+
+Unlike what O'Neil and Minervini say, I don't think it's necessary to cut losses at 7-10%.
+
+They should be cut whenever a decline in a stock indicated a potential trend change.
+
+Compared to using a time based stop like I am doing now, they will give me shorter losses, but also lower my winning percentage significantly.
+
+I want to aim to keep my losers for at most a month, and my winners for as long as the uptrend continues. I am not sure how long that will be, but I'd like it if I could hold my winners for 6 months.
+
+The longer the better.

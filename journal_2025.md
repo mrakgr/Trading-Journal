@@ -1225,3 +1225,78 @@ Compared to using a time based stop like I am doing now, they will give me short
 I want to aim to keep my losers for at most a month, and my winners for as long as the uptrend continues. I am not sure how long that will be, but I'd like it if I could hold my winners for 6 months.
 
 The longer the better.
+
+7/30/2025
+
+9:25pm. Here is what I wrote earlier in the day in the company's Discord. It's pretty much my journal at this point. The other guys don't really talk to me much, it's too bad.
+
+///
+
+I'll be pretty focused this month as I've detached myself literally from the stock market.
+
+***
+
+Last week, the poorly done rotation whipped me badly and the Monday selloff in the euro defense stocks made me very anxious after the close despite me being so cool during the day. Last week, I've rotated my entire portfolio from the defense ETF and into the individual market leaders, but the leaders themselves have 3-5x the daily volatility of the stock market indices, so it feels like I am 400% long the stock market despite not being on margin. This is probably the reason why the momentum strategies aren't more popular.
+
+Here is how it looked for me on Monday:
+
+![bloodbath](images/image-174.png)
+
+***
+
+Over the past few months I've been studying the market and I've been coming up with rules to apply on top of the base system, but even though I have a plan, I've been really getting punched in the face.
+
+***
+
+Given the Monday weakness, and the fact that selloffs happens quickly, I thought that this week would be the ideal time for stop hunting to happen in the market, and I've realized that in my mental state if I saw half the stocks in my portfolio being down 10-15% in the morning that I've would definitely sell in a panic, plan or no plan.
+
+***
+
+So my decision is to go back to the bare basics of my trading system which are time based rules. 8-12 weeks for holding winners, and 2-4 weeks for selling losers. I won't look at the market at all until the end of August.
+
+***
+
+The reality of human behavior, and I not an exception to this, is that our decision making tends to have an element of randomness to it.
+
+***
+
+Therefore, if I am watching the market constantly, like once every hour while the market is open for the day, for around 8 times per day times and 22 days per month, that means I am making over 160 trading decision per month for every single stock in my portfolio. That is essentially why it's hard to hold on to winners. In addition to that, the price based rules get tweaked, so it's easy to sell losers quickly and generally churn one's account.
+
+***
+
+Back in March - May I was only looking at the market once every two weeks, and have been cool during that time, then I started having fun, but now I want to detach myself from the market again. I've started to sense that I've started spinning my hamster wheel and rationalizing. In programming I can focus hard on a problem and come up with novel insights and designs, but in trading no matter how much I focus and think I won't be able to predict the future any better. Being smart in the market would just build up my anxiety that much faster. Thinking about the markets would only feed my demons.
+
+***
+
+Sigh, but this is admission that I basically cannot control myself in the markets at all. It's pretty disappointing.
+
+***
+
+Well, if the trades work out, I'll comfort myself by counting the euros in my account. And if they don't the salary I am making from this job will be enough to bring it back to even.
+
+***
+
+I know that the fear of losses is often worse than the losses themselves.
+
+***
+
+I am still a kid.
+
+***
+
+I might be nearing 40, but I haven't grown up at all, to be affected so badly by the market. The only thing that has changed in the last two decades is that I am willing to accept his about myself. I cannot help it that I am weak, but compared to my childhood days I recognize that strong feelings will not make me strong. They won't catalyze the transformation in myself that I desire.
+
+///
+
+9:35pm. In the end I haven't really found the holy grail, but moving my focus away from price and towards time is the key that will unlock my trading. Deciding the timescales for losers and winners is all that I need.
+
+I have some price and volume based rules, but they are overrated. I don't need them.
+
+Make no mistake, the decision to go back to fundamentals and not even look at the market is a pretty ballsy one.
+
+It's a pretty aggressive way to trade.
+
+10:55pm. https://youtu.be/OjUDJEXxPyE
+Lance Breitstein: Verified 8-Figure Trader Gives Master Class, Scalping Strategies, Edge
+
+This interview is actually pretty good. I thought it'd be a scam trader, but he knows what he's talking about.

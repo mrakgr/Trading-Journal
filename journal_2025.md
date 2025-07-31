@@ -1300,3 +1300,81 @@ It's a pretty aggressive way to trade.
 Lance Breitstein: Verified 8-Figure Trader Gives Master Class, Scalping Strategies, Edge
 
 This interview is actually pretty good. I thought it'd be a scam trader, but he knows what he's talking about.
+
+7/31/2025
+
+10:10pm. This is nice.
+
+I could be down big right now, but because I am not looking at either the market or my account, I could care less about it.
+
+This kind of trading that I am doing surprises even me, but I guess I've been heading in this direction for a while.
+
+I started with William O'Neil's book, but in the end, the form my trading will take will only have a loose resemblance to what he and Minervini recommend.
+
+There is no doubt about it - because I am using time rather than price stops, I am going to have situations where the stocks blows past the usual 7-8% recommendation and is down 20-30% by the time I look at it.
+
+But on the flip side, the current ruleset means that I will be letting winners run much more aggressively and will be benefiting where more conservative traders would have exited prematurely.
+
+Guys like Minervini and Zanger are awesome, but I am not interested in being glued to the screen like that.
+
+I want to trade in a much simpler manner in the end. I wish stocks had smooth moves on the daily charts, but they don't.
+
+Back then, I wanted to make money trading, but I never once wanted to make trading my main occupation. I wanted to hit and run, but now I am different.
+
+I want to make trading a part of my lifestyle and live in peace with the markets.
+
+I might end up living long, and if I am getting exhausted by the trading effort, I'll burn out.
+
+Even if I never end up being good as the market wizards, and I probably won't, it should be good enough if I manage to take something out of the markets.
+
+I have some rules about climax tops and bottoms. The interview with Lance Breitstein was pretty good, it reinforced some of the things that I had been suspecting. After blow off panics, I could probably mix my monentum style and buy value stocks that show the appropriate trend persistence on the monthly charts.
+
+I had thought that I should keep track of the markets in case my stocks explode in either direction, but nevermind that. I'll leave those opportunities to the more active traders.
+
+I think that if I am really bad as a trader, I should make the market index return at worst, or break even.
+
+I couldn't have possibly pulled this move off back when I started, but I have a decently diverse portfolio so I know based on experience that in the short term I'll make close to the market return.
+
+The quality of my picks isn't so bad that the market will end the August flat, and I'll be down 50% or something ridiculous like that. More likely I'll be within a reasonable range of the index.
+
+I am afraid that if this is a blow off top in defense stocks, and if it is I might get crushed in August, but more likely this is a consolidation before a further upleg.
+
+If this is a top, I'll get crushed in August, and if it's a consolidation according to the momentum rules of market leaders, August should be when the upmove resumes since it didn't happen in July.
+
+I'll wait a month and then flip the cards to see what they turn out to be.
+
+Rather than being nervous, I am filled with anticipation now.
+
+I thought I could do better, but watching the market and my account fluctuate up and down and trying not to go on tilt is like watching porn and expecting not to be aroused. Or drinking alchohol and expecting not to be drunk.
+
+I am an idiot. Just what did I think would happen?
+
+I guess I do need the post-Singularity mind editing technology to properly stabilize my mind frame in the face of price volatility.
+
+10:35pm. I'll forget about the grand desires and just take whatever my system gives me. I'll ride out the ups and the lows, keep my portfolio stocked with stocks in strong uptrends and see where the journey takes me.
+
+If August turns out to be a dump, I'll take my losses and wait a month before trying the same stocks again if they are acting well.
+
+I am not sure if I could do better by cutting losses quicker, but I do believe in my time based rules. There is something to them.
+
+There is also a chance that defense stocks end up doing nothing and finish the month flat. In that case I'll sell them and wait until they start moving again.
+
+But in this situation, will RHM for example just start consolidating for 3 months in a row? I feel it's unlikely. True leaders move on the monthlies.
+
+10:45pm. If it ends up working well, this kind of trading where I keep the market at a bay and only look at it once every 2-4 weeks will be reasonably novel. I've never seen anybody suggest trading like this. It's like I am breaking all the rules by doing this.
+
+The time based rules system I am using cannot be simplified anymore than it currently is.
+
+I feel that this way of trading truly defines who I actually am.
+
+It suits me so well, in good ways and bad.
+
+It's not the best, but I like it.
+
+If it fails, I'll accept it.
+
+If few years from now it turns out that I've only lost money using this approach, I'll be able to walk away from the market for good. I'll become an index investor and focus my effort on that poker bot that is currently on hiatus.
+
+But getting this job at Tao Ceti shows that my luck isn't as bad as I thought it would be. I thought I was cursed, but I lucked out in the end.
+
+Maybe my trading will turn out the same?

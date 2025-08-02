@@ -875,3 +875,56 @@ As for INT, it's overextended right now, so I need to wait at least two more wee
 
 Right now it's up 60% on the month, but it will have a neutral 4 week period that would give me a chance to enter.
 
+8/2/2025
+
+RHM = 10%
+HAG = 10%
+R3NK = 10%
+LDO = 10%
+TKA = 10%
+SAAB.B = 5%
+EXA = 10%
+LTMC = 10%
+FCT = 10%
+ACT = 10%
+GRE = 10%
+
+Last week, I broke some of my trading rules sold HO and bought EXA and SAAB.B instead. You can see the actual journal for why I did it. I am going to suspend my weekly screeners until the end of August and simply give these trades the time to develop, as I am afraid that if I look at the market that I'll go on tilt again.
+
+The daily volatility and losing a month's salary in less than 2 weeks made me lose my poise.
+
+But to explain this action, I believe that daily volatility isn't related to the monthly momentum. Of course, high daily volatility might be related to monthly volatility, but it's not the same as momentum.
+
+It's ridiculous if you think about it. A stock might only go up 20-50% per month, but move 2-5% per day. 
+
+I made a mistake not entering EXA with a 10% position right away. It was the only stock out of my portfolio which was up during that period and I put in only 5% into it. The reason was daily volatility.
+
+I was afraid of it.
+
+But I am just going to close my eyes and not look at the market like now, it would have made more sense to just take the 10% position right away.
+
+I know that some people put on hedges to reduce the portfolio volatility, but the best way to reduce the volatility is to decimate the data points from your attention.
+
+It's a lot easier to lose 10% per month, than to lose 10% per month 4 times in a month, and win and lose 5% many more times than that.
+
+Ever since I started in 2025, I've had a bunch of rules, but not an actual system, and I am starting to converge on it.
+
+Time stop rules for losers and winners seem to be the best fit for me.
+
+2-4 week rule for losers and 8-12 week rule for winners. I guess this time since I'll be waiting until the end of August, it might be 5 weeks for losers this time, but that's fine. It's the principle that matters.
+
+It's not the wins or losses that matter, but that I don't spend every single day being anxious about the market's price movement. I'll wait until the end of August without looking at the market and then sell my losers and add to my winners on Monday.
+
+I might take a monetary loss if the euro defense stocks get crushed, but if I keep looking at the market and panic sell only to see them go up afterwards, that would probably be damaging enough to me as a trader that it would end my trading career right there.
+
+Don't get me wrong, it not like taking losses quickly is wrong, but it absolutely isn't my plan to sell into panics along with everyone else. And I certainly won't close out my entire position straight into the support line.
+
+One thing I've observed beyond the 8 and 12 week rule is that market leaders very rarely have losing months even though they could be down on the month. And if they do, they tend to be shallow during their uptrend. I might use that as an indicator and trade after the end of month. Maybe I'll merge the weekly rules with the monthly rules since they are similar.
+
+I think the most important thing in trading is to keep a steady rhythm, and the time based rules allow me to do that. They'll allow me to cut my losers short and ride my winners without getting influenced by market noise.
+
+I started out in mid March trading like this and I'll go back to it, this time a little wiser. No more limit orders, I am just going to buy at the market to simplify things.
+
+I'll simplify my trading as much as possible. And maybe I'll win that way.
+
+Trading based on time rather than based on price is much easier.

@@ -1412,3 +1412,13 @@ RHM can go down over 50% at some point in August, but it doesn't mattern as long
 I feel that if nothing else, this kind of attitude is strong. Anybody capable of saying this cannot be a weak hand. There has to be an edge in it.
 
 I know that the market definitely has a habit of selling off below support before blasting off to make new highs. This kind of system was the only thing that I could have imagined working well given that kind of behavior.
+
+12:45pm. Oh, it seems Chris Camillo wrote a book 'Laughing at Wall Street'. I just got it off Libgen.
+
+1:50pm. ![swing trade](images/image-175.png)
+
+Oh my god, having pro traders explain their setups is a huge advantage that I didn't have back then. I could watch these videos and take the best ideas applicable to my style.
+
+I know just by looking at this that huge declines after strong 1-2 momentum are bound to lead to surges.
+
+...I don't like that he is shorting on that tiny pop. Nevermind this setup.

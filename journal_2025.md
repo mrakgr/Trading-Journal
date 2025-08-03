@@ -1378,3 +1378,37 @@ If few years from now it turns out that I've only lost money using this approach
 But getting this job at Tao Ceti shows that my luck isn't as bad as I thought it would be. I thought I was cursed, but I lucked out in the end.
 
 Maybe my trading will turn out the same?
+
+8/3/2025
+
+Here is what I sent to Logris just now.
+
+///
+
+I won't be looking at the prices of my stocks until the end of August in order to avoid panic selling on shakeouts and let the trades develop, so we won't have much to talk about related to finance on Monday. Right now I am just watching trader interviews and here is Chris Camillo who's one of the market wizards profiled by Schwager in the latest market wizards book that I posted on Discord: https://youtu.be/aZlBMDXNMA0
+
+He has the most innovative and out of the box method of using social data to trade, and doesn't even use charts or fundamentals, we could both learn a lot from him. I am surprised that he has his own Discord community (that he ironically calls Dumb Money) and is teaching other people to trade in his style. Coming back to trading after over a decade of absence, I feel like the level of resources available to retail traders has gotten far better than then. I don't have the time to do it full time right now, so I am using a basic momentum system based on time rules instead, but if I were intending to do this full time I would definitely be looking more into this.
+
+///
+
+I need to get into this at some point. I might end up trading full time down the road, so I should join this Chris' community and see what I can learn from him at that point.
+
+I also watched the interview by Rob Booker, and there was an ad for Cobra Trading. Maybe if I opened an account with Cobra I could find borrows in order to short pump and dumps, Tim Sykes style. IBKR never has the has the shares available so that strategy would be impossible with it.
+
+Over a decade ago, I want to try out that strategy, but I only had 3k in my IBKR account so I doubt I could have opened one with a better broker for this kind of style. In the US a 5k is needed in order to just open a margin account. Back then I couldn't have even daytraded had I wanted to because of the pattern daytrading rule, so that would have been another challenge to overcome.
+
+Agh...
+
+Could I have traded a portfolio of 10 stocks back then like now? 300$ here and there? I doubt it. 3k is just so low.
+
+Undercapitalization imposed all kinds of restrictions on me, both real and mental. The only choice was to fail.
+
+But now I can do it properly. I don't have to feel pressured to trade, to limit risk, or to dart in and out. I can just focus on holding my winners to the exclusion of everything else.
+
+4.5 months into my trading career with a bigger account, and I am trading completely differently than I did back on. The end of August cannot come soon enough. I've been browsing /biz/ and it seems there has been a big selloff in the market last week. The S&P finally cracked and it seems Bitcoin sold off, I don't know by how much for either. Don't know how my own portfolio has reacted to that, but it cannot be good. But it doesn't matter.
+
+RHM can go down over 50% at some point in August, but it doesn't mattern as long as it closes above 1900 by the end of August.
+
+I feel that if nothing else, this kind of attitude is strong. Anybody capable of saying this cannot be a weak hand. There has to be an edge in it.
+
+I know that the market definitely has a habit of selling off below support before blasting off to make new highs. This kind of system was the only thing that I could have imagined working well given that kind of behavior.

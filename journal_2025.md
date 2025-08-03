@@ -1444,3 +1444,58 @@ He is THE Elite Options Trader and This is How He Does It
 A guy who says he doesn't use stops, but that's not really true. Everybody has a stop of some point.
 
 For some people like Buffet, dying would be a stop. I on the other hand have my time stops. I'll watch this video, but I wouldn't be surprise to find out he uses time stops. I want to find traders who have been successful using the time stop approach so I could crib ideas from them.
+
+3:15pm. https://youtu.be/AfPPTnJAn04?t=445
+
+He says he trades momentum and that is mainly what he does. I am trying to master that style as well, so that has my ears perked. I get the sense it's going to be a decent video.
+
+3:20pm. https://youtu.be/AfPPTnJAn04?t=600
+
+> Brando: Going from, I would say, 4 figures to the 6 figures is the hardest part. 
+> Interviewer: Really? Why is that?
+> Brando: Because your margin of error is so small. And typically when you only have that amount, your total net worth is very low. Probably, the last amount of dollars that you actually have. So when you get to that 6 figure mark from 4 figures, you've probably built some kind of system that actually works, so now it's scalable. Meaning, going from a 100 grand to a 100 million is a lot easier.
+
+Yeah, having a job to actually support one's trading is a great system.
+
+3:55pm. I've moved to watching the Fincantieri presentation.
+
+I think it's time to decide, but I've already made the choice haven't I? I have a bunch of rules, but I can only move in either 2 week or 4 week steps. I might as well move all my trading so it is long term and end of month.
+
+I'll just trade like that for the duration of the job.
+
+And afterwards I got some ideas from Lance Breitstein about trading exhaustion moves. I can also try out Tim Sykes' short selling system as well.
+
+I could also go the Chris Camillo route since it is very scalable.
+
+But my own system has a lot of appeal. Not looking at the market means all the volatility of day to day swings essentially vanishes leaving only the trend for me.
+
+Anybody looking at my account move is bound to be nauseous, but if it makes me 50-200% per year in the end, who cares?
+
+I feel that momentum strategy backtests don't capture its benefits accurately. In an any given year there are huge winners which go up month over month. My portfolio is filled with stocks that could potentially do that.
+
+If I could ride them aggressively, I know that I can make huge gains over the long term.
+
+So while I have this job, I'll focus on extracting as much possibility from the current market themes and see where they take me.
+
+If I could do this full time, I could put my programming skills to full use and work on the poker bots or daytrading systems or anything else.
+
+Maybe I could train an LLM on Tik Tok comments in order to automate Chris Camillo's approach?
+
+It one thing to follow trends on a chart, but it is another to data mine social media sites for investment opportunities.
+
+5:20pm. That option trader is probably a scammer. Relentlessly pumping his course and telegram while people are calling him out on Twitter is a bad look.
+
+Words of Rizdom might be verifying the trading statements, but the key is 'might'. It's not like they show the trading statements to the viewers so there is no way to be sure. It's not like trading statements can't be faked when the scammer is determined enough.
+
+5:25pm. Yesterday I also watched an interview with a slick guy who's also a pump and dump short seller that had some good advice, but that story when they took large forex positions in order to capture yield without a stop was gruesome.
+
+A decade ago, Tim Sykes would also regularly ignore his stops. You'd think he'd get killed at some point, but that never happened while I was tracking his performance. I think Lance explained it best that a trader can have poor risk management and still win if he's taking setups that have edge.
+
+https://youtu.be/AQ1ztW7Lr44
+He Made Millions Breaking a Major Trading Rule!
+
+It was this one. I'd honestly never trade forex. The carry trade isn't a significant edge.
+
+But it's a very interesting interview nonetheless. He's speaking out against frequent trading, and that's something I can get behind.
+
+I know that the more often I trade, the lower my returns will be.

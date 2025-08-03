@@ -1422,3 +1422,25 @@ Oh my god, having pro traders explain their setups is a huge advantage that I di
 I know just by looking at this that huge declines after strong 1-2 momentum are bound to lead to surges.
 
 ...I don't like that he is shorting on that tiny pop. Nevermind this setup.
+
+I doubt it has any edge. Forget this.
+
+3pm. The Chris Camillo interview was great, but some of these other videos are nothing.
+
+https://youtu.be/LM1HBtj3Yew
+Analyst & Investor Underwater Day | Fincantieri
+
+Enough, let me just watch this presentation since I didn't have time last week and I will detatch myself from the market.
+
+I hate how uninformative B The Trader's video titles are. They are pure clickbait. Every title is he 'X took Y to Z!!!'
+
+https://www.youtube.com/@wordsofrizdom/videos
+
+I suppose I could watch some of these. He also has an interview with Camillo.
+
+3:10pm. https://youtu.be/AfPPTnJAn04
+He is THE Elite Options Trader and This is How He Does It
+
+A guy who says he doesn't use stops, but that's not really true. Everybody has a stop of some point.
+
+For some people like Buffet, dying would be a stop. I on the other hand have my time stops. I'll watch this video, but I wouldn't be surprise to find out he uses time stops. I want to find traders who have been successful using the time stop approach so I could crib ideas from them.

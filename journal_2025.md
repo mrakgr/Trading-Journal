@@ -1542,3 +1542,25 @@ But simply having this path available to me if the programming job is lost is a 
 In my own trading currently, I specifically want to avoid the setups Steven is taking because they are all about huge short term momentum, and those are poor long term plays unless they break the pattern somehow.
 
 As I keep watching the show, I keep wondering how D-Wave (QBTS) is doing? I wonder if it will break out in August according to the 12 week rule. It violated the 8 week one, but 12 week one is still on track.
+
+7:35pm. https://www.youtube.com/watch?v=-8Ks4dU6eSc
+Market Wizard EXPOSES The 6 Biggest Trading Myths | John Netto
+
+I completely forgot about this guy. I cannot remember him at all in the book. Ah, I don't like the futures traders in the book as they're all short term traders trading the news.
+
+Oh yeah, he built his own software to trade the news faster than anybody else. Smart guy.
+
+Since he wrote a book, I'll have a look at it next week.
+
+https://www.youtube.com/watch?v=1si-dBHXWko
+A Simple Break & Retest Trading Strategy Made Him Profitable - Vincent Desiano
+
+I am getting tired of these interviews. I want to understand the setups these people are using, not hear them meander for hours about psychology.
+
+I am not sure these interviews are good for that. The interview with Lance really spoiled me.
+
+11:25pm. Apart from people like Camillo which obviously have a significant edge in the market, I can't tell if the techical guys are just getting lucky.
+
+...I mean, I might be one of them, but monthly momentum on stocks that have persistent momentum is a solid edge.
+
+Anything less that 2 weeks might as well be noise.

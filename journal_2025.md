@@ -1499,3 +1499,46 @@ It was this one. I'd honestly never trade forex. The carry trade isn't a signifi
 But it's a very interesting interview nonetheless. He's speaking out against frequent trading, and that's something I can get behind.
 
 I know that the more often I trade, the lower my returns will be.
+
+The guy's name is Rob Booker.
+
+5:45pm. https://youtu.be/zig4Q1U6ko4?t=1065
+Steven Dux - Trading $27,000 to OVER $50+ MILLION
+
+This guy has the right idea. He talks about using statistics for trading. I should've done that a decade ago, but I didn't. If I wanted to though, I now have programming skills and know a lot of ML, so I could take that approach. I think this one is legit.
+
+With long term trend trading, I don't see much of a point to it though. The most important aspects of such a system I already have covered based on time rules.
+
+https://youtu.be/zig4Q1U6ko4?t=1559
+
+Here here is talking about how the dolar volume that retail has is limited, and that if you're a hedge fund, you don't want to buy all the shares because you'll take a loss just playing with yourself.
+
+These interviews do have some gems. I should watch them.
+
+What he is saying is common sense, but even what Chris Camillo does should be too, but how many people do it.
+
+7pm. He is getting called out in the comments about not crediting his mentor Tim Sykes, and instead claiming he learned it all from books. I don't know why traders sometimes act like that.
+
+///
+
+I mean well Tim Sykes give an idea to short OTC and small cap example GUS strategy but not even close to make it profitable.  Steven developed it into a full profitable strategy in 2016. Then follow Bounce Short strategy, OEGD, multi day runner strategy. All of that he invented himself. And if you truly know the reason why Steven never gave credit to Tim Sykes cuz he built his wealth off of his students. Steven and Tim Grittani found his glitch and then quit his chatroom and later both are much more successful than Tim and Tim make a living off his student still. Don’t press someone for something you not fully know duh
+
+///
+
+...Hmmmm, yeah, at some point I should look into Steven's strategies.
+
+Tim Sykes developed a short selling strategy for super volatile stocks. I described it once before. A stock makes a few 50% up days on high volume, or one huge day, and then in the next day it closes down slightly which is a short signal. Then it dumps the next day.
+
+But there should be more to it, a way to take advantage of the upside, the shortside and the bounce after the crash. I've sometimes seen the capitulation pattern in those that Lance Breitstein talked about.
+
+The opportunity these guys are taking advantage of is completely orthogonal to what I am doing too, so combining the systems could improve the risk adjusted returns significantly.
+
+But I am not confident in my ability to execute it. I am certainly not going to bother trying to while holding a full time programming job.
+
+But simply having this path available to me if the programming job is lost is a big benefit.
+
+7:05pm. I also feel like Dan Zanger must have used these kinds of strategies to make his big money in 1999. The long momentum plays he and Minervini are talking about wouldn't have given him those kinds of returns that he would need to turn 25k into 40m.
+
+In my own trading currently, I specifically want to avoid the setups Steven is taking because they are all about huge short term momentum, and those are poor long term plays unless they break the pattern somehow.
+
+As I keep watching the show, I keep wondering how D-Wave (QBTS) is doing? I wonder if it will break out in August according to the 12 week rule. It violated the 8 week one, but 12 week one is still on track.

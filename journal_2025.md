@@ -1574,3 +1574,13 @@ This part where he talks about options being distributions on asset prices is re
 
 Rather than looking at charts, looking at price probabilities based on options might have something to it.
 
+10:25pm. Too bad Cem just vaxes poetically about options.
+
+https://youtu.be/Vinyl5fKDW8?list=PLBVwIU37953qr7DBLMJVXqcaVrJAaQy3D
+Complete Guide on Futures Contracts (Orderflow Full Course Beginner to Advanced EP.1)
+
+This could be really interesting. Let me watch some of this. He says he'll give me the pattern that can be backtested right away.
+
+First time seeing orderflow charts.
+
+Even though I don't intend to daytrade, I really need to improve my execution. The more I know the better.

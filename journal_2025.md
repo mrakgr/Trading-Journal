@@ -1564,3 +1564,13 @@ I am not sure these interviews are good for that. The interview with Lance reall
 ...I mean, I might be one of them, but monthly momentum on stocks that have persistent momentum is a solid edge.
 
 Anything less that 2 weeks might as well be noise.
+
+8/4/2025
+
+1:15pm. https://youtu.be/CbXLET07r7k?t=1957
+Cem Karson - You Need to Know This BEFORE Trading Options
+
+This part where he talks about options being distributions on asset prices is really speaking to me. Yeah, that makes sense, but if that's true, that means I don't understand options even a little.
+
+Rather than looking at charts, looking at price probabilities based on options might have something to it.
+

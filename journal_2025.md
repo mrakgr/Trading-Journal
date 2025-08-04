@@ -1584,3 +1584,9 @@ This could be really interesting. Let me watch some of this. He says he'll give 
 First time seeing orderflow charts.
 
 Even though I don't intend to daytrade, I really need to improve my execution. The more I know the better.
+
+11:35pm. 
+
+![lvl 3](images/image-176.png)
+
+I had no idea level 3 even existed.

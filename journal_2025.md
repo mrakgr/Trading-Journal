@@ -1590,3 +1590,7 @@ Even though I don't intend to daytrade, I really need to improve my execution. T
 ![lvl 3](images/image-176.png)
 
 I had no idea level 3 even existed.
+
+11:40pm. In hindsight, I did waste 6 years of my life trading back then didn't I? I didn't daytrade, but given that I didn't know all this even existed speaks volumes about my level of knowledge. I guess to success a mentor really is necessary unless you have a lot of talent, which when it comes to trading I definitely don't.
+
+When it comes to certain domains, certain people have special intuition.

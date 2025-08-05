@@ -1594,3 +1594,19 @@ I had no idea level 3 even existed.
 11:40pm. In hindsight, I did waste 6 years of my life trading back then didn't I? I didn't daytrade, but given that I didn't know all this even existed speaks volumes about my level of knowledge. I guess to success a mentor really is necessary unless you have a lot of talent, which when it comes to trading I definitely don't.
 
 When it comes to certain domains, certain people have special intuition.
+
+8/5/2025
+
+11:35pm. https://youtu.be/HL-7skV0f-s
+The Magic of Dual Momentum
+
+Watching this currently. I am going to reread William O'Neil's book as well. I am fatigued from the interviews by short term traders.
+
+12:15pm. That video was a great intro to momentum. It's the style that I am using. But I am not blidly following the price action, but am also weighting my buys based on fundamental understanding. I also have a lot more stringent absolute momentum filter of 50% rather than 20%.
+
+https://youtu.be/5DLIrs6w1Qw
+Why Stop Losses Can Be Bad For Your Wealth!
+
+During 2007 - 2014, what I am going to refer to as my beginning stage, I slavishly obeyed my loss taking discipline. But the matter of stops bears taking a deeper look.
+
+I'll have to leave this video for tomorrow, but I'll eagerly watch it then.

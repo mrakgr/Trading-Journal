@@ -1610,3 +1610,24 @@ Why Stop Losses Can Be Bad For Your Wealth!
 During 2007 - 2014, what I am going to refer to as my beginning stage, I slavishly obeyed my loss taking discipline. But the matter of stops bears taking a deeper look.
 
 I'll have to leave this video for tomorrow, but I'll eagerly watch it then.
+
+8/6/2025
+
+10:05pm. Finally have some time to watch videos.
+
+![diagram](images/image-177.png)
+
+https://youtu.be/MgAbd8XStxY
+Trading The Mayhem
+
+![mayhem handling](images/image-178.png)
+
+I like Helix Trader's vids. They are very informative.
+
+https://youtu.be/acTtXB184Pc
+William O'Neil gives CANSLIM workshop (January 2010)
+
+It seems William O'Neil passed away in 2023 at the age of 90. RIP.
+
+I only learned this just now. I noticed that people are talking about him in past tense.
+

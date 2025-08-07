@@ -1631,3 +1631,8 @@ It seems William O'Neil passed away in 2023 at the age of 90. RIP.
 
 I only learned this just now. I noticed that people are talking about him in past tense.
 
+8/7/2025
+
+10:20am. https://www.youtube.com/@TheAlgorithmicAdvantage/videos
+
+Found this channel on quant trading. I think this kind of approach is what I should be looking into even if indirectly. Statistics + counterfactual reasoning is the way to riches in the market. I am not going to use stats as it would take too much of my time currently, but I'll get good ideas from watching these videos.

@@ -1636,3 +1636,63 @@ I only learned this just now. I noticed that people are talking about him in pas
 10:20am. https://www.youtube.com/@TheAlgorithmicAdvantage/videos
 
 Found this channel on quant trading. I think this kind of approach is what I should be looking into even if indirectly. Statistics + counterfactual reasoning is the way to riches in the market. I am not going to use stats as it would take too much of my time currently, but I'll get good ideas from watching these videos.
+
+8/9/2025
+
+10:55am. It's Saturday and I am chilling.
+
+Let me just write down my SAAB.B and EXA buys from 2 weeks ago.
+
+BOUGHT 5% SAAB.B @ 507.9 
+BOUGHT 5% EXA @ 114.6
+SOLD 10% HO @ 229.3
+
+This was on 7/28/2025. I broke my rules and traded even though 2 weeks had not elapsed.
+
+At that point I realized that I am getting far too involved with the market and that it's time to detach.
+
+In my opinion trading off the monthly bars is very viable, which is why decided to just not even look at the market for a while in order to reset.
+
+After the end of August, I am going to go back to a 2 week rhythm, but I think that I am going to hold losses for 4 weeks unless they are particularly bad. For example, large % large volume decline on terrible news. I'll also sell winners if they accelerate up rapidly like in a climax move.
+
+Otherwise I'll just try to hold on to my winners for as long as possible and try to not let market action unsettle me.
+
+Maybe it's a hard thing to come up with a great system, but it's easy to come up with a system that is easy to trade.
+
+I do feel like this way of doing things will be particularly effective.
+
+Compared to when I started, one consequence of adopting this approach is that I am going to ignore general market declines (like in April) unless they affect my stocks. Minervini said that most traders would be better off ignoring the market, and that is what I am going to do.
+
+It's a lot easier to lose 20% of my account in a month than to lose 10% several times and watch it bounce up and down in trepidation.
+
+Ever since I stopped looking at the market my work performance has gone up significantly and my anxiety has decreased.
+
+When I lost 10% of my portfolio in 6 trading days at the end of last month, I was in shock.
+
+It's easy to understand why that is. Once you lose 10% in 6 days, it's easy to imagine that you could lose 50% in 30 days.
+
+Logically, you know that isn't possible - the markets aren't going to just go straight down, but it started to gnaw at me. My emotional involvement wasn't being rewarded by the market. It was the opposite.
+
+So yeah, I'll wait until the end of August, ditch my losers on the next Monday and buy something else to replace them.
+
+Trading once a month is a good way to balance out loss cutting and holding through shakeouts.
+
+Intuitively, I know that a lot of the stocks that would hit a 10%-30% stop will recover in a few weeks, but I cannot allow them to be violated all them time. So balancing out my actions by only trading end of month will have that effect that sometime I will stocks recover and sometimes I will sell them.
+
+11:15am. Market leaders very rarely have down months in an uptrend, so this will be a good system.
+
+The less effort I put in my trading, and the more I can focus on things that really matter in life, like the pursuit of the Singularity, the better I will do.
+
+Even if I don't end up achieving market wizard level of returns, I should still do better than the indices.
+
+And I know that in big bull markets, this method will outperform greatly.
+
+I am literally homing in on the biggest future gainers and investing my money in them. I cannot imagine this method doing negatively over the long run. I might end up buying tops here and there, but it's not that easy to buy tops.
+
+11:20am. The ironic thing is that this method is what I've been searching for all along a decade ago and couldn't find it. As soon as I loosened up and adjusted my attitude and goals, it came to me right away. How pitiful my past was.
+
+I am nobody great in the end. The most I can do is make up for it by making a few good trades.
+
+Hopefully the euro defense stock trades work out and none of the other stocks in my portfolio like EXA end up being scams.
+
+If euro stocks end up messing me up, I think I'll move to trading Asia stocks. South Korea is inaccessible, but Hong Kong isn't so I'll try focusing on it and seeing where that gets me.

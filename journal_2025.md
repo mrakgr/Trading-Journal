@@ -1695,4 +1695,44 @@ I am nobody great in the end. The most I can do is make up for it by making a fe
 
 Hopefully the euro defense stock trades work out and none of the other stocks in my portfolio like EXA end up being scams.
 
-If euro stocks end up messing me up, I think I'll move to trading Asia stocks. South Korea is inaccessible, but Hong Kong isn't so I'll try focusing on it and seeing where that gets me.
+If euro stocks end up messing me up, I think I'll move to trading asia stocks. South Korea is inaccessible from IBKR, but Hong Kong isn't so I'll try focusing on it and seeing where that gets me.
+
+12:15pm. https://youtu.be/2Mm_1wS40m0?list=PLBVwIU37953qr7DBLMJVXqcaVrJAaQy3D
+banks don't hunt for your stop loss... here's how it ACTUALLY works
+
+I don't like watching any more rando videos, but I'll watch this course from Andrea Cimi at least as it's pretty informative. I get the sense that I am not getting too much from the quant trader vids.
+
+https://www.youtube.com/@tradingwithrayner/videos
+
+Ueh, I enjoy vids like the Helix trader ones where he introduced various trading system. Not sure if this channel has any of that.
+
+![mean reversion system](images/image-179.png)
+
+Yeah, it does have some results. Not bad. I guess the channel is worth following then.
+
+1pm. https://youtu.be/YPIRGiMKtuI
+Forex Trading is TWISTED and I'm Profiting From it
+
+Andrea has really good editing, it's amazing.
+
+![webinar](images/image-180.png)
+
+So it's tomorrow at 6pm. Maybe I'll have a look. I am curious if they have anything I could add to my trading methodology.
+
+1:25pm. I think I'll do a recording using OBS.
+
+1:50pm. ![vwap](images/image-181.png)
+
+Knowing how to execute large orders is valuable no matter what kind of trader you are.
+
+![nice](images/image-182.png)
+
+This is nice. I have to find a to plot VWAP moving averages on daily price charts.
+
+2:25pm. Well, it's hardly a priority.
+
+https://youtu.be/7D32Zvmt-6Q
+Trading Strategies That Work (Backed By Data)
+
+Let me watch this and then I'll stop for the day. I just find learning about trading fun, even though the system I am using now couldn't be simpler.
+

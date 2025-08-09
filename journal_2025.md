@@ -1736,3 +1736,57 @@ Trading Strategies That Work (Backed By Data)
 
 Let me watch this and then I'll stop for the day. I just find learning about trading fun, even though the system I am using now couldn't be simpler.
 
+10:30pm. It's really not like me to apply to a webinar, so I won't obligate myself to watch one intended for daytraders, especially given that they say no prior experience is needed.
+
+Instead, weren't there books I wanted to read instead, on options trading for example. I also haven't touched the book by Camillo.
+
+It'd be cool if I could find some books on quantified options strategies that have backtested results.
+
+10:50pm. ![options strategy](images/image-183.png)
+
+The way I understand it, there is an edge is selling options in general. There is a market premium to it similar to momentum.
+
+https://youtu.be/P2eZOTxsEX4
+0DTE vs 45DTE | Options Backtest
+
+Ok...I understand something about options.
+
+While with regular stock trading I'll be able to wing it using the 8 and the 12 week momentum rules, options I shouldn't touch unless I backtest the strategies. Otherwise I will have zero idea what to expect in those trades.
+
+https://youtu.be/HnNBOReTb8g
+This SIMPLE Trading Strategy Has Generated 26,210% Over The Last 20 Years...
+
+![turtle system](images/image-184.png)
+
+Teo is okay. One thing I haven't realized until I watched his first video today is that momentum trading really is different from trend following.
+
+I am also realizing that I don't want to trade CANSLIM, but that I want to go in the direction of pure momentum trading. I watched some IBD videos, and I don't like the charts they are showing.
+
+![200 day high](images/image-185.png)
+
+I definitely would never trade a system that just buys breakouts. As a momentum trader, I am really looking for a powerful monthly move to start a trend and they don't happen in most of these markets. Also, the nature of commodities is different from stocks to begin with.
+
+![MACD](images/image-186.png)
+
+I've never put any stock in indicators whatsoever a decade ago, but some of the scalping examples he is showing seem interesting.
+
+![ROC](images/image-187.png)
+
+Yeah, I've been looking down on these, but now that I know what they are measuring, I could see them being useful on occasion.
+
+Not for my kind of trading.
+
+![MACD on forex](images/image-188.png)
+
+I've been watching this video, and this guy is getting great results trading forex on all things.
+
+Maybe my failure is merely due to lack of imagination in the end. I could have gotten the data and backtested it.
+
+MACD at least could give the trader some objectivity about the momentum during reversal trades. Hold the trade while MACD is going in your favor and sell when it stops doing that.
+
+I've never thought that mean reversal could be a valid concept in trading, but I am chaning my mind after seeing all of these backtested results.
+
+12:50pm. https://youtu.be/d-Pojh3EBX4
+Gary Antonacci Reveals TOP Dual Momentum Investing Strategies
+
+Damn, I am tired. I need to go to bed.

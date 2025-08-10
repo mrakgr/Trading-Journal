@@ -1916,3 +1916,7 @@ Index funds are in the end a long term momentum strategy. Since I have better mo
 10:10pm. The main lesson of his and Peter Lynch's approach is to recognize the value of information that you have.
 
 Let me continue reading the book. I'll leave Andrea's video for next week.
+
+11:30pm. Ugh, I cannot read the book anymore as I am too tired at this point in the day. Chris is such a genius for developing this kind of investment methodology.
+
+I'll recommend the book to Logris again. I am halfway through it currently.

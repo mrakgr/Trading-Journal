@@ -1790,3 +1790,101 @@ I've never thought that mean reversal could be a valid concept in trading, but I
 Gary Antonacci Reveals TOP Dual Momentum Investing Strategies
 
 Damn, I am tired. I need to go to bed.
+
+8/10/2025
+
+10am. Gary Antonacci - Dual Momentum Investing_ An Innovative Strategy for Higher Returns with Lower Risk (2014, McGraw-Hill)
+
+Found this book. I'll take a look at it.
+
+10:55am. So far the best book on momentum investing is Quantitative Momentum and the Janus Factor. Most Wall Street pros seem to be dumb money and the brief skim over Gary's book didn't do much to convince me otherwise. The only thing they do smartly is diversify and collect management fees.
+
+Got the `The Option Trader’s Hedge Fund`. Seems like it could be good.
+
+11:20pm. Nah, it doesn't have any backtested strategies in it.
+
+As I said, I might do momentum trading on feeling, but options trading should be heavily quantitative. Unless I backtest the options strategy, it would just be pure gambling on my part.
+
+`Options as a Strategic Investment`. Also got this book, so let me take a look at it.
+
+12:20pm. These books are useless. Forget them. I want backtested profitable options strategies, not long tomes of the author's opinion on the subject.
+
+1pm. Since I really don't feel like watching the webinar, what I am going to do is hit record and watch it afterwards. I already watched all of Andrea Cimi's playlist videos, and don't want to spend my time on a rehash. It's not like I am aiming to become a daytrader seriously.
+
+Let me just test if recording works when the screen turns off.
+
+1:15pm. It doesn't turn off while a recording is in progress, but if I power it off manually, the display capture turns black. I'll just leave the 'Turn off display setting' to never until the webinar is done.
+
+With that taken care of...since options books are a bust, let me read the one by Chris Camillo.
+
+![canslim](images/image-189.png)
+
+There is also the latest edition of William O'Neil's book. But these charts are so damn small!
+
+This is why I hate epub readers.
+
+Let me try Thorium Reader.
+
+![better](images/image-190.png)
+
+Thorium Reader is better than Aquile, but not quite there. The problem is that the images are simly too low res. Let me try finding a pdf of this book.
+
+![pdf](images/image-191.png)
+
+No need to pay for an education when Libgen exists.
+
+I am impressed that in the latest edition he is showing stock charts from Jesse Livermore's time.
+
+![pdf 2](images/image-192.png)
+
+Yeah, the pdf is much better. I hate how Thorium Reader doesn't full screen the image. What the hell.
+
+1:55pm. O'Neil style chart reading is incredibly subjective. The buy and sell rules he offers aren't an actual system.
+
+This would be my one criticism of the book.
+
+2:05pm. A lot of these charts are actually aren't that great outside the short lived meat of the move.
+
+I think I shouldn't aim the big winners for the entirety of the move. There are many periods where they consolidate for a long time and break out again and so on.
+
+And buy points are on cherry picked breakouts.
+
+2:20pm. But I do like my own momentum system.
+
+![camillo's results](images/image-193.png)
+
+Rather than joining Andrea's group, I should join Camillo's and see how they operate.
+
+2:40pm. Surprised how many stock charts the 4th edition has. It's all about them.
+
+![large caps](images/image-194.png)
+
+Interesting what he has to say on large caps. We're currently in such a market with the megacaps like NVDA and MSFT controlling the market.
+
+![jobs](images/image-195.png)
+
+I think he talked about this a decado ago, but I completely forgot about it. Big companies don't create jobs.
+
+![group moves](images/image-196.png)
+
+This part of the book was really important for me. Group action makes the big winners much more obvious.
+
+5:25pm. ![miss](images/image-197.png)
+
+Ah damn it, I am going to have to miss this since I'll be going to the beach in half an hour.
+
+Actually, it might just be enough time to let me into the room.
+
+5:40pm. I think I am going to make this the last weekend dedicated to reading random books. If I have time for this I'd be better of taking the time to study Cutlass instead and brush up on my GPU programming skills.
+
+That poker bot could make me millions.
+
+5:45pm. ![info arb](images/image-198.png)
+
+I really want to get good at this type of investing at some point in my life.
+
+Momentum trading has its perks, but it's only a substitute for index investing. You can never have more than mid level of conviction just by buying due to strong price action.
+
+Maybe I'll hit some homeruns and have really good years. But I'll only be able to get so good by reading price charts.
+
+I can accept this even though I am a momentum trader. It's just that I don't have any better systems at the moment.

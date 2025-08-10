@@ -1888,3 +1888,31 @@ Momentum trading has its perks, but it's only a substitute for index investing. 
 Maybe I'll hit some homeruns and have really good years. But I'll only be able to get so good by reading price charts.
 
 I can accept this even though I am a momentum trader. It's just that I don't have any better systems at the moment.
+
+9:55pm. I didn't think I'd be at the beach for so long. I'll review the recording later. Amazing that they're offering free 1-on-1 consultations. This will no doubt be life changing to some.
+
+I had a lot of time to think about it while swimming, and I think I just have to accept my place.
+
+The kinds of analysis that Chris is doing I am not even in a position to attempt doing. That story where he shorted a stock because he noticed a change in the store shelves would actually be far harder for me to do than read the company's income statements back to back and try to get an edge that way.
+
+Because I am not in the fucking US.
+
+Am I really going to start reading TikTok comments, read fashion mags or things of that nature?
+
+I'd be better off trying to code a daytrading system. And if I am going to go in that direction, I might as well get back to work on the poker bot.
+
+I am being pull into the market by my own greed. I said that I want 50-200% per year. But I need to detach myself from the market. Having high expectations of price action trading is bound to lead to disappointment. My edge is not so strong that I can just expect to make those kinds of returns whenever I want.
+
+I should try to aim for 20% per year and see where that gets me.
+
+I should try to not end up a loser in 2025. When I flip the cards at the end of August, I might be in for a nasty surprise. If I discover that I am down 20%, it's going to be hard to dig myself out of that hole.
+
+What really sticks out in Chris' book is that he bashes other approaches and then puts his savings into an index fund. At this point, I am starting to think that index funds are in a bubble.
+
+There is no way that the entire investment world can just keep plowing the market into index funds without that distorting the market.
+
+Index funds are in the end a long term momentum strategy. Since I have better momentum strategies in mind, I cannot possibly invest in an index, that'd be crazy.
+
+10:10pm. The main lesson of his and Peter Lynch's approach is to recognize the value of information that you have.
+
+Let me continue reading the book. I'll leave Andrea's video for next week.

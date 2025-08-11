@@ -1920,3 +1920,29 @@ Let me continue reading the book. I'll leave Andrea's video for next week.
 11:30pm. Ugh, I cannot read the book anymore as I am too tired at this point in the day. Chris is such a genius for developing this kind of investment methodology.
 
 I'll recommend the book to Logris again. I am halfway through it currently.
+
+8/11/2025
+
+![DYNX](images/image-200.png)
+![RPL](images/image-201.png)
+
+Got some tips from Logris on these tokens, but I am not going to act on those. Reminiscences of a Stock Operator has a lot to say on the subject of tips. I would also have to transfer the money out of my IBKR account back into my crypto wallet and I don't want to dot hat. That having said, he made a really interesting case on buying ETH. I'll (most likely) buy it next month since the momentum is there. I'll have enough to buy my usual position once I get paid.
+
+The basic case is that the market is glitching out and treasury companies have announced huge buying volumes in ETH, he is bullish on it. So from a fundamental perspective it makes sense, and from a techical perspective the momentum is almost there too, 3 weeks to see whether it sells off from the top after the recent sharp rise would be just right.
+
+![long bonds](images/image-199.png)
+
+I didn't like the hedge fund market wizards when I first read it, but I was skimming it now and this caught my eye. It's not something I'd ever consider, but I'll have to look at the bond charts later to see how it worked out.
+
+I need to consider trading bonds in some situations.
+
+They did great in 2008 too. Might have worked out better than a short trade.
+
+Even so, I would like a short trade once the downtrend is established rather than try to catch a crash.
+
+One thing that disturbed me in William O'Neil's book is that the 20s leaders that he showed me all broke out to the upside before the crash. My own rules would have gotten me creamed unfortunately.
+
+I can only hope that there were some stocks breaking to the downside to signal the top otherwise it'll be bad at the end of the next bull market.
+
+There is a lot of opportunity to lose money everywhere.
+

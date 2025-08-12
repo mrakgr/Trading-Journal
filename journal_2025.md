@@ -1946,3 +1946,13 @@ I can only hope that there were some stocks breaking to the downside to signal t
 
 There is a lot of opportunity to lose money everywhere.
 
+8/12/2025
+
+6:10pm. ![hedge fund wizard](images/image-202.png)
+
+I think on rereading that I was unfair on the hedge fund market wizards book. I kind of like it now.
+
+You know, I really wonder what Mark Minervini's track record was after the 2000s? It'd be cool if the 'momentum masters' posted all of their trades. When it comes to Minervini, I've yet to see any of his results past the 5 great years he had in the Stock Market Wizards book.
+
+It cannot possibly been as large as 200% otherwise he would be owning the world by now. He did great in a investing contest a few years ago, so it's not like I think he's done poorly. I am just curious what's the actual realistic return for somebody of his caliber.
+

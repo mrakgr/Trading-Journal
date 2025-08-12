@@ -1956,3 +1956,24 @@ You know, I really wonder what Mark Minervini's track record was after the 2000s
 
 It cannot possibly been as large as 200% otherwise he would be owning the world by now. He did great in a investing contest a few years ago, so it's not like I think he's done poorly. I am just curious what's the actual realistic return for somebody of his caliber.
 
+9:05pm. ![options](images/image-203.png)
+
+I admit, I am thinking of trading options. A lot of the momentum situations I am in have the potential to go up a lot in the intermediate term, so buying long dated options makes sense in the light of what they are saying here.
+
+Instead of buying ETH outright, I should look into how much ETH calls are going for. I could even do it on an US ETF, which are likely to be more liquid than the european counterparts.
+
+9:15pm. Mhhh, but is there a point of even considering it? ETH options would likely have extreme IV. I'd be better off buying the outright.
+
+That's the problem with momentum. I realized 3 weeks ago that it was a volatility beast when I lost 10% of my portfolio in 6 trading days.
+
+![options](images/image-204.png)
+
+...I have no idea. I found some options charts, but in contrast to the underlying data, options are hard to interpret for me.
+
+![trend is ignored](images/image-205.png)
+
+This was a great chapter in the book. Can I somehow get historical option price data from IBKR?
+
+![the answer](images/image-206.png)
+
+Egh.

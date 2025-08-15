@@ -1984,3 +1984,20 @@ Egh.
 "Momentum Investing: Simple, But Not Easy" by Dr. Wes Gray from QuantCon 2017
 
 20m in and this video is great.
+
+9:20pm. Brrrr, the sea water was so freezing in the past two days.
+
+But at any rate, Friday is here and I have two days where I am free of work.
+
+Maybe I'll finally have time to finish Camillo's book.
+
+It's really a pity that I cannot follow such an investment approach due to how labor intensive it is, but maybe in some future life I'll be able to make use of the principles.
+
+https://youtu.be/IkwSwJF7-bA
+What You Need to Know About Momentum Investing | Six Experts Help Us Understand the Basics
+
+There is never enough about momentum.
+
+https://youtu.be/pICIXeWV9WE
+The Bitcoin Treasury "Infinite Money Glitch"
+

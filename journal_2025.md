@@ -1977,3 +1977,10 @@ This was a great chapter in the book. Can I somehow get historical option price 
 ![the answer](images/image-206.png)
 
 Egh.
+
+8/15/2025
+
+12:55pm. https://youtu.be/F2TTfZzigYk
+"Momentum Investing: Simple, But Not Easy" by Dr. Wes Gray from QuantCon 2017
+
+20m in and this video is great.

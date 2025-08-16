@@ -2031,3 +2031,13 @@ Oh yeah, let me not forget to post this.
 
 ![nuff said](images/image-208.png)
 
+11:25am. https://www.reddit.com/r/wallstreetbets/comments/1k3o8au/asts_dd_the_space_trade_will_cum/
+
+I am not into fundamentals, but I am into the style Camillo's expusing and he is talking about message boards. It might be worth keeping track of DDs on /r/wallstreetbets just in case something good pops up.
+
+11:35am. Done with Chris' book. It turns out that I was not far from the end when I left it off a week ago. I enjoyed both Laughing At Wall Street and the Hedge Fund Market Wizards. The latter, I changed my mind on. A decade ago, my impression is that it was a congo line of managers from Harvard that beat the market by a few %, but today I quite like it.
+
+I'll read the DD on ASTS at some later point, I am not interested in them right now.
+
+ASTS was one of my momentum picks so I am interested in the reasoning behind it.
+

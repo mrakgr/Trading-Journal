@@ -2041,3 +2041,30 @@ I'll read the DD on ASTS at some later point, I am not interested in them right 
 
 ASTS was one of my momentum picks so I am interested in the reasoning behind it.
 
+11:45am. Oh yeah, I forgot the webinar by Cimitan. Let me take a look.
+
+![forex results](images/image-209.png)
+
+It's very good, but I'd have hoped a daytrading system would be more like a straight line up. He's had like 3 flat months. This isn't qualitatively much better than my momentum trading, even I doubt I'll have 300% months ever. But my momentum trading takes a few hours over the weekend instead of being glued to the screen every day.
+
+Also surprised this is in forex. In the videos Andrea says that we don't have access to order flow in forex, so how did they manage that?
+
+![forex results 2](images/image-210.png)
+
+Very streaky. I guess their opportunities don't come around every day. They are more like snipers than grinders.
+
+![rough](images/image-211.png)
+
+These results are rough, but I respect them. These guys are far beyond the average guru.
+
+I am not sure I could bear making money for 3 months and the losing them for the rest of the year if I were a daytrader.
+
+Hell, I stopped looking at the market for a reason recently. I'll have losing 9 month periods at some point, but those will just be 9 or 18 data points to me depending how often I look at the market which will be much more bearable emotionally.
+
+Only 2 more weeks until I check where my defense stocks are. I am looking forward to it.
+
+I am watching my OBS Recording, but I also got a link over email with a recording.
+
+https://www.worldclassedge.com/workshop-replay
+
+Here it is.

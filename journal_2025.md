@@ -2104,3 +2104,12 @@ Also how could he possibly get an info arb edge on Bitcoin?
 2:55pm. https://youtu.be/tgD9ucSeiMU
 Investing Expert: Wall Street HATES My Strategy— Just Read TikTok Comments | Chris Camillo
 
+...Ah, fuck I just put in RHM into Yahoo Finance curious about the message boards and I saw the quote for it. Damn, I didn't mean to do that.
+
+Ok, so that trade will be a loser. Nwm. I'll let it run to completion and maybe make up the euro defense stock losses on cryptos. Out of sight, out of mind.
+
+It can always go up in the next two weeks.
+
+I only saw the quote and not the trajectory, so maybe it's a short term dip?
+
+Hopefully not every stock in my portfolio will be a loser.

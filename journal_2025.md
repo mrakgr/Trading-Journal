@@ -2096,3 +2096,7 @@ I have no idea why people act like psychology is the reason they are losers. If 
 Andrea is a real salesman marking it down from 60k.
 
 Honestly, this was a waste of time. The webinar had a lot less info than his Youtube vids.
+
+2:20pm. I Youtubed Chris and some of the vids see him talking about Bitcoin and Tesla. This sends a signal that I should be watching more videos with him in it. I want to see what his reasoning for these trades is. Given how far the TSLA sales have plunged it's a miracle the shares aren't 10x lower than they are now, so why the hell is he buying it? I have to know.
+
+Also how could he possibly get an info arb edge on Bitcoin?

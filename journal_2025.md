@@ -2100,3 +2100,7 @@ Honestly, this was a waste of time. The webinar had a lot less info than his You
 2:20pm. I Youtubed Chris and some of the vids see him talking about Bitcoin and Tesla. This sends a signal that I should be watching more videos with him in it. I want to see what his reasoning for these trades is. Given how far the TSLA sales have plunged it's a miracle the shares aren't 10x lower than they are now, so why the hell is he buying it? I have to know.
 
 Also how could he possibly get an info arb edge on Bitcoin?
+
+2:55pm. https://youtu.be/tgD9ucSeiMU
+Investing Expert: Wall Street HATES My Strategy— Just Read TikTok Comments | Chris Camillo
+

@@ -1061,7 +1061,7 @@ First on, 7/21 I bought RHM, HAG, and R3NK for about 10% of my portfolio each.
 
 ![RHM](images/image-125.png)
 
-Wow, I pretty much got in at the worst possible time on RHM at 137. The limit order that I put in was probably the daily high. The other two aren't any better.
+Wow, I pretty much got in at the worst possible time on RHM at 1837. The limit order that I put in was probably the daily high. The other two aren't any better.
 
 ![HAG](images/image-126.png)
 
@@ -2113,3 +2113,9 @@ It can always go up in the next two weeks.
 I only saw the quote and not the trajectory, so maybe it's a short term dip?
 
 Hopefully not every stock in my portfolio will be a loser.
+
+3:35pm. That video is 3h long so I cannot watch it all on a single sitting. Let me play some Limbus Company.
+
+I feel really bad about seeing the RHM quote. I think I am down 10% on it.
+
+I am envious of Chris, but I don't have any better system than gambling on momentum. I'll keep doing it until I find something.

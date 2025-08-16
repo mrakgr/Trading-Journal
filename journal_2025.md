@@ -2001,3 +2001,33 @@ There is never enough about momentum.
 https://youtu.be/pICIXeWV9WE
 The Bitcoin Treasury "Infinite Money Glitch"
 
+8/16/2025
+
+10:40am. I was looking up backtesting info on IBD distribution days and found this old blog again.
+
+https://quantifiableedges.com/blog/
+
+Glad to see it is still around. I used to read it in the last decade.
+
+I've been thinking about CANSLIM, and the advice it gives for market timing, and when to buy individual stocks, is definitely its weakest part. Also on the charts of some of its big winners at the start of the book, there are stocks which had weak momentum post-breakout. Furthermore, the very first chart of ...
+
+![1880s stock](images/image-207.png)
+
+Stocks like these you can find plentiful in the Japanese market today and they are a nightmare to trade. For momentum to work, liquidty is necessary.
+
+After I read O'Neil's book the first time, I didn't understand the importance of consistent momentum at all.
+
+Sure it's a big winner, but you'll be hard pressed to make money trading them. They pop and then they hold steady for many months leaving your money dead.
+
+The fact they the book is showcasing charts like these is a demonstration that Will O'Neil doesn't really get it. And his book is a mishmash of rules.
+
+I'll be better of just understanding what the market themes are and rotating into them. The best stock for me is the one which goes up month after month after I buy it.
+
+Let me finish Camillo's book.
+
+https://quantifiableedges.blogspot.com/2009/08/distribution-days-quantified.html
+
+Oh yeah, let me not forget to post this.
+
+![nuff said](images/image-208.png)
+

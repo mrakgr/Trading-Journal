@@ -2068,3 +2068,31 @@ I am watching my OBS Recording, but I also got a link over email with a recordin
 https://www.worldclassedge.com/workshop-replay
 
 Here it is.
+
+![what do they have in common](images/image-212.png)
+
+He's asking what various retail strategies that he mentioned have in common? My answer would be that they are completely subjective.
+
+Let me go back to my recording so I can see the chat.
+
+...No, it's not showing the messages from other people just from the admin.
+
+![hmmm really](images/image-213.png)
+
+Does this have any validity on longer term timeframes?
+
+![order flow](images/image-214.png)
+
+I don't think I need this for my momentum approach, but it's very useful knowledge to have if I end up making daytrading bots.
+
+12:45pm. ![psychology](images/image-215.png)
+
+In fact, psychology was never the issue for me a decade ago. Nor was taking losses. I just could never gather the courage to extend my risk tolerance in both time and price.
+
+I have no idea why people act like psychology is the reason they are losers. If they had a great edge to begin with, it wouldn't matter.
+
+1:35pm. Enough. The time for expensive courses has passed for me. A decade ago I wouldn't have been able to afford the 6k fee, and today I don't need it.
+
+Andrea is a real salesman marking it down from 60k.
+
+Honestly, this was a waste of time. The webinar had a lot less info than his Youtube vids.

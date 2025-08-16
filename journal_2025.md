@@ -2119,3 +2119,73 @@ Hopefully not every stock in my portfolio will be a loser.
 I feel really bad about seeing the RHM quote. I think I am down 10% on it.
 
 I am envious of Chris, but I don't have any better system than gambling on momentum. I'll keep doing it until I find something.
+
+9:15pm. I am back from swimming and it helped clear my head a little.
+
+Stock goes up - I am a genius, the next market wizard.
+Stock goes down - Maybe I should give up trading?
+
+I am too old for that shit. I was actually sad for a few hours when I saw RHM down.
+
+I think this is finally enough to decide it. I am going to go in the direction of monthly rebalancing and not watch the market in the interim.
+
+It won't be the 2-4 week rule for losers, but just the 4 week rule.
+
+Chris has a really deep connection with the world that I cannot help, but be envious about. Making millions of dollars by reading Tik Tok comments is next level 250 IQ trading.
+
+But I am going to try deep detachment and see where that gets me.
+
+I am not going to become a market wizard this way, but I don't have to become one.
+
+I have a different mission, don't I? To cause the Singularity.
+
+Imagine I wasted all my time hounding message boards for stock info instead. Now that would be a loss.
+
+I was really desperate to get the job that I have now, and it helped me get a start, but I started getting a swelled head once I came back to trading.
+
+I'll take a step back.
+
+My goal should be to trade only 12 times a year, once per month.
+
+I had other rules, true, but they aren't worth the price of unbalancing me. To win at trading, I only needed to determine the correct step sizes and that's it.
+
+Maybe if I were trading ETFs and they were trending nicely, I could do with smaller steps, but individual stock trading is all about riding the momentum of big winners.
+
+Even timing the market is pointless as they will shrug off the corrections.
+
+It seems like they wouldn't given their volatility, but they will.
+
+I haven't said it yet, but this way of trading gave me a lot of insight.
+
+It made me realize that the daily volatility essentially doesn't matter.
+
+And as far as edges are concerned, being able to ignore what happens day to day, and having such a system is a powerful thing.
+
+I thought that by watching the market and the stocks I am trading I could achieve something and improve my results, but the reality is the complete opposite.
+
+And that's actually conventient, since it gives me an excuse to work only 1 day a month on trading.
+
+9:35pm. I'll accumulate the money from my job into my account, momentum trading will add something to that over time, and I will have my financial freedom while I work on other things.
+
+In two weeks, I'll most likely sell the loser euro defense stocks. I'll ignore the fact that they are down now, but I acknowledge that I made a mistake not selling them when they were lagging in a rising market.
+
+What I will do with that money is put it into crypto which are prepping for the next bull move starting with Ethereum. The next on my list are Tron and Bitcoin. I will never start off those positions at 20%, but starting the month at 10% and brining it up to 20% as they go up is fine.
+
+With my winning stocks, I can also add to them. Maybe EXA will be up and I'll have the chance to bring it up to 20%.
+
+And as for euro defense stocks, I can wait until they pick up momentum again to buy them. In fact, waiting at least a month after I get out is a good way to avoid getting whipsawed. A stock can often go up and down on a daily basis during the course of a month, but it rarely does that month-to-month. So having a slow rhythm acts as a filter.
+
+9:45pm. The overall goal of my trading system is to catch big winners and hold them for the duration of their move.
+
+That is how I'll get to million and beyond.
+
+I wonder if EXA really will turn out to be the next TASR. Maybe not, but I was too squeamish to buy 10% initially simply because I was worried about it's daily volatility. But with my current system, that daily volatility will be a complete non-issue, so I'll be able to show my true power.
+
+I don't need that many big winners in a year. If 10 is too much, then I'll just find 5. Crypto will do fine as well.
+
+I am going to show that the last 20 years weren't a waste of time.
+
+I'll get my finances in order and get back to work on causing the Singularity.
+
+One minor change I will do is that for September I will make it a 5 week rule for the sake of only trading once per month. There 52 weeks in a year and 12 months, and they don't divide evenly, so I'll have to add a week here and there to distribute the remainder.
+

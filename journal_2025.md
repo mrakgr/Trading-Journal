@@ -2189,3 +2189,6 @@ I'll get my finances in order and get back to work on causing the Singularity.
 
 One minor change I will do is that for September I will make it a 5 week rule for the sake of only trading once per month. There 52 weeks in a year and 12 months, and they don't divide evenly, so I'll have to add a week here and there to distribute the remainder.
 
+11:15pm. https://www.youtube.com/@DumbMoneyLive/playlists
+
+Holy crap, he has a Youtube channel. Shitload of shorts too.

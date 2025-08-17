@@ -2199,3 +2199,28 @@ Holy crap, he has a Youtube channel. Shitload of shorts too.
 
 The finance service people are all such bloodsuckers.
 
+4:45pm. Done with the beach. I am super annoyed that the euro defense stocks all decided to start lagging as soon as the bull market was getting stated.
+
+I need to restate what my goals should be.
+
+In this bull market I need to find the winners and ride them. I only need 5. And 3 of them could be crypto. Crypto is the big theme again.
+
+If I can put 60% of my portfolio in BTC, ETH and Tron and have it quadruple, that could make my year right there.
+
+My account is exactly at the point where my salary is enough to make up for the losses, but not contribute to it significantly.
+
+And it's a bull market, so this is the time to be taking risks. I have exactly the right method to avoid getting shaken out too.
+
+The last time I started trading, in 2008 I was also very bullish and it was a prelude to the market crash.
+
+I think given what is happening with crypto, with insane money flowing into it, when the bear market comes there will be many casualties, and will result in a prolonged bear market.
+
+During that time I will not be doing any trading, so while the times are good now, I need to make the most of them.
+
+The company I am a part of is in the process of transforming itself into a treasury company and will likely go bust when the crypto bubble bursts.
+
+I shouldn't overly diversify.
+
+Half of the reason why I am long 10 stocks currently instead of 5 is because I was afraid of the daily volatility. But now that I've fixed my attention, I won't be affected by it. I'll only look at the market once a month. When the weekend comes I'll really focus on research, but otherwise, I'll try to avoid getting affected by the price action.
+
+4:55pm. I've been thinking how long I should do this job for, but really, the market will stop me out on its own eventually. Right now it suits me perfectly to continue and that is what I should do.

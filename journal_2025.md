@@ -2224,3 +2224,10 @@ I shouldn't overly diversify.
 Half of the reason why I am long 10 stocks currently instead of 5 is because I was afraid of the daily volatility. But now that I've fixed my attention, I won't be affected by it. I'll only look at the market once a month. When the weekend comes I'll really focus on research, but otherwise, I'll try to avoid getting affected by the price action.
 
 4:55pm. I've been thinking how long I should do this job for, but really, the market will stop me out on its own eventually. Right now it suits me perfectly to continue and that is what I should do.
+
+12:10am. https://youtu.be/pxm76s7FIVc
+The Fake Trader Interview Industry
+
+I am starting to think that some of the trader interviews I've linked to are fake. The initial interview with Lance Breitstein got me excited, but these random losers 'verifiedly' making huge returns can't all be real. I'll watch this tomorrow as it should be amusing.
+
+I am pretty sure Lance and Chris are real, but don't know about some of the others peddling courses. In fact that option trader guy I linked to was surely fake. And the rest have faded from memory and just wasted my time wathing them.

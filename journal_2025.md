@@ -2195,7 +2195,7 @@ Holy crap, he has a Youtube channel. Shitload of shorts too.
 
 8/17/2025
 
-10:15am. Either way, even if I get out in two weeks, that won't be the end of the euro defense stock trade. It might consolidate for a while and then break out later again, so I'll have to keep an eye on it even if I am up. Goddamit, won't TradingView have another discount so I can have all the watchlists I want?
+10:15am. Either way, even if I get out in two weeks, that won't be the end of the euro defense stock trade. It might consolidate for a while and then break out later again, so I'll have to keep an eye on it even if I am out. Goddamit, won't TradingView have another discount so I can have all the watchlists I want?
 
 The finance service people are all such bloodsuckers.
 

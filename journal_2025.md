@@ -2237,3 +2237,21 @@ I am pretty sure Lance and Chris are real, but don't know about some of the othe
 1:05pm. https://youtu.be/-LrPKcJ_xjo
 Why Passive Investing Could End Badly
 
+10:15pm. I really enjoyed the passive investing video.
+
+Maybe I have something in common with index investors in the end. I kind of enjoy the ambience of the market, but don't like trading. I just have to make it work for myself.
+
+https://youtu.be/alf4SAEZq7w
+Why Weekly Charts Will Make You a Profitable Trader
+
+Before this video I was listening to Peter Brandt and he said he doesn't trade during trading hours. He only uses market orders on open.
+
+https://youtu.be/R1sNTB2Vh7w
+48 Years of Trading Lessons with Market Wizard Peter Brandt
+
+Could I get away with something like that, or would I get raped by the MMs if I tried it?
+
+Because if it would work for me, why would I trade on the open? It'd beat having to be there during trading hours.
+
+By the way, Peter's consistency is really sick. 50% returns every year for a given period between 2014-2020.
+

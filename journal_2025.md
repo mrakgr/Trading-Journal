@@ -2231,3 +2231,9 @@ The Fake Trader Interview Industry
 I am starting to think that some of the trader interviews I've linked to are fake. The initial interview with Lance Breitstein got me excited, but these random losers 'verifiedly' making huge returns can't all be real. I'll watch this tomorrow as it should be amusing.
 
 I am pretty sure Lance and Chris are real, but don't know about some of the others peddling courses. In fact that option trader guy I linked to was surely fake. And the rest have faded from memory and just wasted my time wathing them.
+
+8/18/2025
+
+1:05pm. https://youtu.be/-LrPKcJ_xjo
+Why Passive Investing Could End Badly
+

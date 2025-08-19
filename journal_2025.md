@@ -2255,3 +2255,7 @@ Because if it would work for me, why would I trade on the open? It'd beat having
 
 By the way, Peter's consistency is really sick. 50% returns every year for a given period between 2014-2020.
 
+3:15pm. https://youtu.be/uLj05swdi40
+Value Is Useless. Momentum Is Everything | Leigh Drogen on the Real Edge in Crypto
+
+When I was making the town hall demo, this caught my eye on Youtube.

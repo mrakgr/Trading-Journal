@@ -2289,3 +2289,8 @@ Forget that crypto vid. I am watching this currently.
 The magic of momentum trading - Alan Clement
 
 Helix Trader is always good.
+
+8:55pm. https://youtu.be/CpFBsB3I-ws
+“Low-effort Trading Strategies” – Cesar Alvarez
+
+I am going in this direction, so this video could be interesting.

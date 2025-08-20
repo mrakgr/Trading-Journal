@@ -2294,3 +2294,45 @@ Helix Trader is always good.
 “Low-effort Trading Strategies” – Cesar Alvarez
 
 I am going in this direction, so this video could be interesting.
+
+https://youtu.be/CpFBsB3I-ws?t=741
+
+He is saying that so many people are doing monthly rotations that he purposely avoids the first day of the month to do it. Good tip.
+
+10:30pm. I've been liking this kind of trading so far if you can call it that. My natural inclination is to cut losses quickly, so not looking at the market will have the effect of refocusing on letting winners run. By cutting off my attention, I also cut off the emotional response and let the trade proceed in an optimal fashion.
+
+I wonder if the euro defense stocks will really rally enough to keep me in the trade by the time I flip the cards at the end of next week?
+
+It is possible. 2 weeks is enough for RHM to go from 1650 when I saw it last to 1900.
+
+But either way, I don't like how the momentum is fading this long into the trade. But yeah, some stocks will rally on the week 11 and 12 and keep you in. The rules are there for a reason.
+
+I have to strike a balance between loss cutting and letting winners run. The problem with loss cutting is that it often cuts potential future winners.
+
+When trading indidual stocks as opposed to the whole market, the rules of the game are different.
+
+It's all about catching the big winners and riding the wave. That is the way to big returns.
+
+It's all about catching the top 1% of all moves in a given year.
+
+If my attention isn't contributing anything to the trade, the best move once I've taken my positions is to get out of their way.
+
+Ultimately, I think over the long run my decision to get away from the tickers will turn out to be a master stroke. Even though I didn't predict the market, I perfectly predicted my own emotional responses and compensated for them.
+
+Not only will this make me successful, but once the paid work is done with, I will be able to continue my previous lifestyle of working on my own projects without getting consumed by the markets.
+
+Lazy trading is how trading should be done.
+
+Even if I traded full time and became a market wizards, that is nothing compared to the pursuit of the Singularity.
+
+Trading is means to an end, not the end goal.
+
+I just have to keep going and I will breach the 1m barrier eventually. At that point, I won't ever have to think about jobs again.
+
+I'll go back to Youtubing. :)
+
+And, maybe with last month's move I did drive a firm wedge between who I am now and who I was a decade ago.
+
+Maybe if I could be just a bit more successful, this wound in my heart that I've been bearing will heal?
+
+The job I have is great, but if I cannot find success in the markets, that just means I will forever have to resign myself to waging, so the outcome of the next few years of my trading will play a pivotal role in my life.

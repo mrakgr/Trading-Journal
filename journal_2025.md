@@ -2282,3 +2282,10 @@ Let me watch this clickbait. Edit: It was boring.
 Our Biggest Trade Ever (and what we're buying next)
 
 Forget that crypto vid. I am watching this currently.
+
+8/20/2025
+
+6:10pm. https://youtu.be/TjZ8JlNk0xU
+The magic of momentum trading - Alan Clement
+
+Helix Trader is always good.

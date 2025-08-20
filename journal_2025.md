@@ -2251,11 +2251,34 @@ https://youtu.be/R1sNTB2Vh7w
 
 Could I get away with something like that, or would I get raped by the MMs if I tried it?
 
-Because if it would work for me, why would I trade on the open? It'd beat having to be there during trading hours.
+Because if it would work for me, why wouldn't I trade on the open? It'd beat having to be there during trading hours.
 
 By the way, Peter's consistency is really sick. 50% returns every year for a given period between 2014-2020.
+
+8/19/2025
 
 3:15pm. https://youtu.be/uLj05swdi40
 Value Is Useless. Momentum Is Everything | Leigh Drogen on the Real Edge in Crypto
 
 When I was making the town hall demo, this caught my eye on Youtube.
+
+10:30pm. In the passive investing video `Why Passive Investing Could End Badly` I really liked the observation that debt sprees actually end in deflation. It makes that deflation would happen if loans cannot be repaid. Then he said that the way of them results in inflation.
+
+It was actually a really insightful video and I recommend it.
+
+`Why Weekly Charts Will Make You a Profitable Trader`
+
+I lost interest halfway.
+
+`48 Years of Trading Lessons with Market Wizard Peter Brandt`
+
+I watched this all the way and enjoyed it.
+
+`Value Is Useless. Momentum Is Everything`
+
+Let me watch this clickbait. Edit: It was boring.
+
+12:20am. https://www.youtube.com/watch?v=E6QjMPa3KcM
+Our Biggest Trade Ever (and what we're buying next)
+
+Forget that crypto vid. I am watching this currently.

@@ -2390,3 +2390,8 @@ https://youtu.be/7j7H9Ovg9nU
 Match setup to your time commitment
 
 Great video.
+
+https://youtu.be/mWE9J2Nta6g
+How to find persistant momentum
+
+Not sure what to think about this one. I've had the insight recently that if you're not looking at the daily price action, you can actually completely ignore the daily volatility.

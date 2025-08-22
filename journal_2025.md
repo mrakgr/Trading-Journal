@@ -2348,6 +2348,44 @@ Time to chill.
 
 8:25pm. https://www.youtube.com/@Stockbeevideos
 
-One of the market wizards in the latest book mentioned stockbee, and I often read the StockBee blog over a decade ago. Just found out now that the author has a Youtube channel.
+One of the market wizards in the latest book mentioned Stockbee, and I often read the Stockbee blog over a decade ago. Just found out now that the author has a Youtube channel.
 
 I remember that the content back then was quite good.
+
+https://youtu.be/puiJC9YVax0?t=1884
+ 
+Here they talk about momentum in Japan. 
+
+In my opinion, what Japan needs is a big bull market and the momentum will start working again.
+
+Though rather than wait for Japan, if euro stocks give me too much trouble I'll look to trade Hong Kong instead.
+
+9:45pm. https://youtu.be/HFEs7eUbkHA
+How to make money using one day momentum
+
+![swing trading](images/image-216.png)
+
+Don't know why I never considered swing trading using daily momentum. Some of these stocks have smooth moves.
+
+10:10pm. Too intense for me. I like the slower pace more.
+
+https://youtu.be/Y1cmPVbSU7c
+How to profit from the Cinderella Strategy
+
+His explanation of the earning surpise is the best over. I remember learning this well from Stockbee.
+
+![cinderella strategy](images/image-217.png)
+
+Either way, at the of next week, I will finally flip the cards. And I've decided that I am going to push my luck with my winners. Forget the defense stocks. I want to push my luck with stocks that have great monthly momentum first and foremost.
+
+Eventually I am going to stumble into huge movers if I follow that strategy consistently and make a lot of money.
+
+The downside is that it will require concentrating my positions, but I have the leeway to risk that.
+
+It doesn't matter if it turns out to be crypto, or EXA or whatever.
+
+I need to find the strongest stocks with the monthly momentum and spin to win.
+
+https://youtu.be/7j7H9Ovg9nU
+Match setup to your time commitment
+

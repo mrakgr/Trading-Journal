@@ -2345,3 +2345,9 @@ The Market's Best-Kept Secret | Travis Prentice on Momentum's Surprising Edge
 Done with work for this week.
 
 Time to chill.
+
+8:25pm. https://www.youtube.com/@Stockbeevideos
+
+One of the market wizards in the latest book mentioned stockbee, and I often read the StockBee blog over a decade ago. Just found out now that the author has a Youtube channel.
+
+I remember that the content back then was quite good.

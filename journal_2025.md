@@ -2336,3 +2336,12 @@ And, maybe with last month's move I did drive a firm wedge between who I am now 
 Maybe if I could be just a bit more successful, this wound in my heart that I've been bearing will heal?
 
 The job I have is great, but if I cannot find success in the markets, that just means I will forever have to resign myself to waging, so the outcome of the next few years of my trading will play a pivotal role in my life.
+
+8/22/2025
+
+8:05pm. https://youtu.be/puiJC9YVax0
+The Market's Best-Kept Secret | Travis Prentice on Momentum's Surprising Edge
+
+Done with work for this week.
+
+Time to chill.

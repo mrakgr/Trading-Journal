@@ -2389,3 +2389,4 @@ I need to find the strongest stocks with the monthly momentum and spin to win.
 https://youtu.be/7j7H9Ovg9nU
 Match setup to your time commitment
 
+Great video.

@@ -2411,3 +2411,17 @@ The $100 Million Dollar Trading Setup - The Episodic Pivot Breakout
 
 Pradeep Bonde is a really busy guru.
 
+https://youtu.be/H1fUbgfutAo?t=857
+
+I found it interesting that he says he isn't look at earnings, but rather sales growth because that is what the market was rewarding.
+
+2:55pm. Pradeep mentioned he uses OPG orders. I had no idea these existed.
+
+![OPG order](images/image-218.png)
+
+OPG stands for Opening Price Guaranteed. So I could use these to minimize slippage?
+
+![nice](images/image-219.png)
+
+Oh, nice. I should these instead of coming in 45m before the close.
+

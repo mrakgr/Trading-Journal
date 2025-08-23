@@ -2447,7 +2447,7 @@ I was just unfortunate with defense stocks having their momentum started to fade
 
 8:50pm. https://traderlion.com/podcast/pradeep-bonde-entering-episodic-pivots/
 
-I am doing some research on entries and there is literally nothing out there on this. But Pradeep is discussing entries here.
+I am doing some research on entries and there is literally nothing out there on OPG orders and MOC orders. But I found this article where Pradeep is discussing entries here.
 
 Retail traders sure get the short end of the stick.
 

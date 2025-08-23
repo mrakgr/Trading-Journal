@@ -2445,3 +2445,28 @@ I was just unfortunate with defense stocks having their momentum started to fade
 
 4:15pm. Let me go to the beach. This was a productive study session. I am going to be using OPG orders exclusively from now on.
 
+8:50pm. https://traderlion.com/podcast/pradeep-bonde-entering-episodic-pivots/
+
+I am doing some research on entries and there is literally nothing out there on this. But Pradeep is discussing entries here.
+
+Retail traders sure get the short end of the stick.
+
+https://youtu.be/uW95Cj44cLk
+Delayed reaction Episodic Pivots
+
+Yeah, the earnings getting prices in right away is one of the important reasons why I decided to widen my trading periods significantly compared to a decade ago.
+
+I think I was experiementing with buying earnings during my 2007 - 2014 attempt without much luck, though I wasn't very disciplined with waiting for good setups.
+
+The problem is that explosive earnings don't come around that often and buying vanilla kind of earnings just didn't work that well for me.
+
+I really hated it when stocks make most of their move via earnings jumps. I'd just buy those breakouts and watch them go nowhere.
+
+I think earnings trades are best done the way Chris Camillo does them. And longer term momentum trades are best done the way I am doing them currently by going with the flow of the market.
+
+The crypto setups that are happening currently are pretty nice. I'll cut the losers next month and rotate that cash into them.
+
+If you're trading delayed reactions to episodic pivots, and maybe buying pullbacks in stocks that had them, that just regular momentum trading. Suits me perfectly.
+
+I'd honestly rather not pile into news. I like doing things at my own pace than reacting to changes.
+

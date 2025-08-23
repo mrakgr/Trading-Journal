@@ -2470,3 +2470,37 @@ If you're trading delayed reactions to episodic pivots, and maybe buying pullbac
 
 I'd honestly rather not pile into news. I like doing things at my own pace than reacting to changes.
 
+10:20pm. https://youtu.be/we5LLjFlHCc
+QULLAMAGGIE Stock Trading Strategy EXPLAINED | $5k to $100m!
+
+Maybe I'll watch this later, but by this point I have everything I need. I only heard about Qullamaggie very recently. He was Pradeep Bonde's student.
+
+![setups](images/image-220.png)
+
+Let me just say that I really dislike this way of framing the market. It has zero relation with reality, and it's much better to trade based on 3-12 month momentum. Let me make it 4-12 month momentum as I'd never buy a stock just because it has had good 3 month momentum, but I would 4.
+
+I want to say that when you're holding stocks for months, the specific patterns stop mattering and your returns depends on the market conditions and the market themes. Momentum is a part of that.
+
+It's so annoying that I cannot use regular TradingView and have to resort to private browsers.
+
+![SMCI](images/image-221.png)
+
+Monthly charts are really good for getting a sense for the trend. I am kind of feeling bullish on this stock. But the last month has been very negative for it.
+
+![SMCI](images/image-222.png)
+
+It hugely gapped down on earnings, and sold off in big volume. So the assumption based on that is that it is in a downtrend.
+
+But if it could resist the selloff and start going up on the monthly charts, that would actually be a very bullish setup that hasn't been popularized to death.
+
+SMCI reminds me of Nvidia in its earlier years. Nvidia also had fatal looking selloffs that it shrugged off. I really like how the stock got crushed from 90 to below 20.
+
+For contrarian minded investors, rather than buying earnings breakouts which come later in the cycle, it could be a good idea to look for large selloffs that get absorbed and then start to go long the company once it starts recovering.
+
+Stocks like PLTR had that kind of pattern.
+
+Buying euro defense stocks in that light does feel like I am buying quite late in the cycle doesn't it?
+
+But there is no way the market anticipated Trump or what he would do to the global trade. So I want to stay fundamentally bullish for longer.
+
+I am really looking forward to seeing whether RHM and the rest will meet or dash my expectation by the end of the month.

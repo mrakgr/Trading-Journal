@@ -2402,3 +2402,12 @@ Not sure what to think about this one. I've had the insight recently that if you
 How to profit from the Cinderella Strategy
 
 This video is so good that it needs to be linked to twice.
+
+https://youtu.be/U6uL1SepW88
+How to use momentum to make money
+
+https://youtu.be/H1fUbgfutAo
+The $100 Million Dollar Trading Setup - The Episodic Pivot Breakout
+
+Pradeep Bonde is a really busy guru.
+

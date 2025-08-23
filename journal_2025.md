@@ -2395,3 +2395,10 @@ https://youtu.be/mWE9J2Nta6g
 How to find persistant momentum
 
 Not sure what to think about this one. I've had the insight recently that if you're not looking at the daily price action, you can actually completely ignore the daily volatility.
+
+8/23/2025
+
+11:05am. https://youtu.be/Y1cmPVbSU7c
+How to profit from the Cinderella Strategy
+
+This video is so good that it needs to be linked to twice.

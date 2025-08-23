@@ -2425,3 +2425,23 @@ OPG stands for Opening Price Guaranteed. So I could use these to minimize slippa
 
 Oh, nice. I should these instead of coming in 45m before the close.
 
+3:25pm. In the interview with Peter Brandt, he also mentioned he used market on open orders which I found strage at the time. He also doesn't look at the market during the day. Smart guy.
+
+I myself was fine at first, but then I started to overtrade and break my rules. I don't think I actually verged into making the wrong decisions last month, but it's very likely I would have had I not detached myself.
+
+The reason why I really like OPG orders is that I am trading with delayed data and dragging those limit orders around during the day is a huge impediment to me. I'll also be able to trade stocks on exchanges on which I have no data for much more easily now.
+
+4:05pm. https://youtu.be/H1fUbgfutAo?t=4481
+> I see every day people telling each other that stocks which hold up the best are the ones which go on to make the move. If you do a 50% study, you'll debunk that in 5 minutes because the stocks which go on to make the biggest move don't come from the stocks which hold up well, but the stocks which are beaten down the most.
+
+Oh, this is great.
+
+Lol, maybe I should have avoided the defense stocks in favor of uranium ones. Well either way, you have to focus on the extremes.
+
+I was just unfortunate with defense stocks having their momentum started to fade in a strong market.
+
+> Now that is what creates an edge. If you just take a second hand edge and just say what others are saying, then you're not going to believe that.
+> When you look at these stocks which make 50% moves, then have one thing in common. They have news and they're coming from a weakness, they're not coming from strength.
+
+4:15pm. Let me go to the beach. This was a productive study session. I am going to be using OPG orders exclusively from now on.
+

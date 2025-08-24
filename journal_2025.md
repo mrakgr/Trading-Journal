@@ -2703,3 +2703,89 @@ https://www.youtube.com/watch?v=k9lWvFfW8lg
 Ultimate Guide: Build A Successful Systematic Trading System (7 Step Process)
 
 I'll watch this when I get back.
+
+8:15pm. Damn, the water was freezing. Why am I even going swimming?
+
+![interesting](images/image-232.png)
+
+This is pretty interesting. It makes me want to watch the video. Next weekend...I'll be reviewing charts, but in general, I am going to make it my goal to figure out how I can get good data either from IBKR or some other platform. While swimming I've realized that more than trying to figure out a swing trading strategy, I need to do momentum studies of all the stocks in the past two decades.
+
+The stock screener won't be sufficient for this effort.
+
+I need to be able to see all the winners in a particular year and during the various time periods.
+
+After I have the data, I'll be able to let me programming skills take care of the rest.
+
+![renko](images/image-233.png)
+
+What's this?
+
+8:25pm. https://youtu.be/1DHqNYu1St4
+Master Renko Trading With This Game-Changing Book! (2025)
+
+All of this sounds so retarded.
+
+![renko](images/image-234.png)
+
+Oh, I saw that TradingView had this kind of chart, and it looked more visually appealing, but I didn't really understand what it was about.
+
+https://www.luxalgo.com/blog/renko-charts-a-simple-breakdown-for-traders/
+
+Hmmmm, is this something I need?
+
+https://youtu.be/o3U8Yb2PLcc
+Introduction to Renko Charts: Tutorial
+
+Actually this is pretty cool.
+
+![THEON renko](images/image-235.png)
+
+This is super cool. This is a renko chart based on ATR of 14. Here is how the candlestick chart looks like...
+
+![THEON candlestick](images/image-236.png)
+
+Yeah, this isn't pointless. Being able to see the trend clearly and focus on it has its uses.
+
+![THEON linebreak](images/image-237.png)
+
+I have no idea what line break charts even are.
+
+![KTG](images/image-238.png)
+
+THEON and KTG are two stocks I was considering buying, but they got crushed.
+
+![KTG](images/image-239.png)
+
+Here is how it looks like in actuality.
+
+Hmmm, I see. Even though I say that it should use ATR or %, it rounds them to 1, 1.5 or 2. I guess that makes sense.
+
+9pm. Honestly, I never thought about prices in terms of boxes like these. There is a point to it.
+
+![SMCI](images/image-240.png)
+
+If stocks moved in smooth trends like these, trading would sure be easy.
+
+9:55pm. Nevermind the Renko charts. They just give the illusion of being easy.
+
+I had time to think about systematic trading more seriously.
+
+And it all comes back my view that AI is all about memory systems.
+
+I am a shitter simply because all I am doing is trading price info.
+
+Chris Camillo one the other hand is Goat because he reads Tik Tok comments and message boards.
+
+Wouldn't it be great if I could relate all the info in the world in a way that is understandable?
+
+If I had some stock like RHM, I wish I could look into that system and say how it relates to all the other stocks that have ever been in that situation in the past. But not just price info, but all the relevant factors in the real world as well. If I could create such a system, trading would fall like a domino. It's all a matter of having sufficient intelligence rather than operating blindly. For now, it'd be great if for swing trading I could gather the necessary data and at least determine what the right entries for such trades are. For mean reversion longs and shorts. What puts me off mean reversion trading is that I could never quite figure that out.
+
+I am really not into systems that much. I'd rather have a big database over which to do a similarity search. Then once I understand the possible scenarios based on historical data, then the trading plan for that specific situation can be formulated. That is how I want to trade. Not via indicators. But via memory.
+
+I think in hedge fund market wizards, one of them took this approach and had success with it.
+
+I want to try it as well.
+
+I definitely don't want to make a trading system by optimizing the parameters for a bunch of indicators. None of them mean shit.
+
+10:10pm. I'll have time to think about this, and if the momentum approach I am using now really craps out, I am going to take it seriously and marry my trading with the approach towards AI that I am trying to spearhead.

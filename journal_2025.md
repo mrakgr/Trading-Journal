@@ -2641,3 +2641,19 @@ Maybe I'll resume Youtubing at that time.
 
 12:35pm. Qullamaggie inspired me to become a quant trader. I think anybody looking at me from the outside could only have been wondering when I was going to go in this direction. It seems like such an obvious path to take, and I've been resistant to it. I guess it has been slowly building up. One way to transcend my old self might be to have courage and extend my holding periods to weeks and months. Another way is to go all-in on tech. I'll do both and cement my success. Tom Basso and other systems traders say that a big part of their success is trading multiple systems. I can take a note from that.
 
+1:45pm. https://youtu.be/9Y3yaoi9rUQ
+Algorithmic Trading – Machine Learning & Quant Strategies Course with Python
+
+My usual process as a software engineer when encountering a new domain is to look for tools and do research on ways to make my future work easier. That means, watching videos, reading articles and so on. In the recent years, I've started to rely on chatbots for a part of that effort.
+
+![P](images/image-228.png)
+
+This is what Perplexity had to say when I asked it about getting data, but I don't want to just trust it. Instead I'll also spend time manually gathering resources before deciding on a plan.
+
+This Python course is a decent first step into quant trading.
+
+Sigh, yeah this has been long coming. How many people are there in the world who could be better at programming than me? I doubt there are many. That is one main difference from a decade ago. I'll get to poker bots eventually, as games are the main pathway to the Singularity.
+
+Like with this job at Tao Ceti that I have now, I could target some lower hanging fruit when it comes to making money using agents. I think that short term trading could be a lot easier than making a poker bot so I'll tackle this approach.
+
+I've worked very hard over the past decade, so I might as well harvest the fruits of my labor. I can take the easy path for once.

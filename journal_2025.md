@@ -2661,3 +2661,45 @@ I've worked very hard over the past decade, so I might as well harvest the fruit
 2pm. ![course](images/image-229.png)
 
 This looks like it will be pretty interesting actually. I thought that they'd just cover dumb indicator models, but all of these projects are beyond what I expected.
+
+4:05pm. Let me leave the course for later. I want to see how the infrastructure is setup. That is the most important thing for me now.
+
+https://youtu.be/xVUuA4TPN6U
+Systematic Trading from Scratch: What Programs To Use and How To Install Them
+
+There might be interesting stuff here. They also use IB.
+
+I'll want to do my coding in F# and Spiral. But since it will involve ML, I suppose I can give Python a chance.
+
+https://youtu.be/GTPeyOCr170
+Why Systematic Trading is a Shortcut to Success - Part 1
+
+I've compared the Nasdaq to Dax, and it seem I made a mistake trading the euro stocks. I am actually pretty pissed at this. I could have bought those beaten down stocks and I would have gotten way better returns than had I touched the defense stocks. I feel some sense of betrayal at this. So much for fundamentals. If these trades fail by the end of next month, I'm going to pivot into US tech stocks.
+
+And if this kind of trading gives me poor results by the end of next year, I am going to go full systematic.
+
+This bullshit isn't worth the concern.
+
+I need a plan B if long term momentum trading turns out to be a poor fit for me.
+
+It's not like I'll be out of options either way.
+
+I can make my success a certainty.
+
+4:30pm. ![systems academy](images/image-230.png)
+
+Systems Academy. I decided to pass on World Class Edge by Andrea Cimitan, but Systems Academy might be more up my alley.
+
+4:35pm. ![SA](images/image-231.png)
+
+15-20k is very expensive. It's not worth it for a part time project. It's also offered on a limited basis.
+
+4:45pm. https://youtu.be/W8Z1CmCTS0A
+Why Systematic Trading is a Shortcut to Success - Part 2
+
+5:40pm. Time to go to the beach.
+
+https://www.youtube.com/watch?v=k9lWvFfW8lg
+Ultimate Guide: Build A Successful Systematic Trading System (7 Step Process)
+
+I'll watch this when I get back.

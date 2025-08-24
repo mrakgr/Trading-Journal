@@ -2657,3 +2657,7 @@ Sigh, yeah this has been long coming. How many people are there in the world who
 Like with this job at Tao Ceti that I have now, I could target some lower hanging fruit when it comes to making money using agents. I think that short term trading could be a lot easier than making a poker bot so I'll tackle this approach.
 
 I've worked very hard over the past decade, so I might as well harvest the fruits of my labor. I can take the easy path for once.
+
+2pm. ![course](images/image-229.png)
+
+This looks like it will be pretty interesting actually. I thought that they'd just cover dumb indicator models, but all of these projects are beyond what I expected.

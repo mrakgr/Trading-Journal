@@ -2504,3 +2504,139 @@ Buying euro defense stocks in that light does feel like I am buying quite late i
 But there is no way the market anticipated Trump or what he would do to the global trade. So I want to stay fundamentally bullish for longer.
 
 I am really looking forward to seeing whether RHM and the rest will meet or dash my expectation by the end of the month.
+
+8/24/2025
+
+10:10am. https://www.youtube.com/watch?v=KciAjkEFA6s
+My setups, methodology, and how to build trading mastery
+
+https://youtu.be/VdQSDGZBLQE
+Market mechanics, setups and more
+
+https://youtu.be/Q8TrrG1jVFk
+Know when your setups work and don't work
+
+Let me go to the source, I'll watch some of Qullamaggie's stuff.
+
+Suppose I lost this job today with Tao Ceti, what I could do is start some intense research on trading systems, and see if I can find good mean reversion daytrades. I do have options when it comes to making money. I can go up the ladder of sophistication quite a bit.
+
+10:15am. The problem is that I am not too confident yet, and my account isn't large enough to be a full time trader. If I could 3x it somehow that could change, and I would have enough to retire.
+
+If I didn't spend 6 years going nowhere a decade ago, I would be a lot more confident when it comes to daytrading now.
+
+For short term trading, what would make a big difference is that this time around I would cheat and definitely throw all the technology that I can onto the problem. All of my programming skill.
+
+For long term trading, I am satisfied with naive momentum, but for short term trading where the edges are thinner, I would make sure that I have the stats on my side. Statistics might be the holy grail in trading.
+
+![parabolic short](images/image-223.png)
+
+Agh, how do I borrow to short these kinds of stocks?
+
+Do I need a different brokerage from IBKR? Is that the only choice?
+
+10:30am. I hate it that all of these guys short the parabolic stocks and I can't do it.
+
+![parabolic long](images/image-224.png)
+
+Oh, parabolic long. I actually wasn't aware of these last decade and only conjectured their existence in recent months. I read a Youtube comment that Steve Dux trades those. Also, Lance Breitstein said he trades capitulations.
+
+In, `How I trade for a Living`, Gary Smith talked about intraday reversals.
+
+I definitely could stand to learn more about swing trading.
+
+> You want to find the stock with the big ranges. That is where the big money is.
+
+One of his scans in an earlier video...
+
+https://youtu.be/cx9cxMRvh7s
+Qullamaggie – How I Traded a Small Account in the Beginning | Small Account Growth & Strategy
+
+In this one in particular, he had ADR as one of his scan criteria.
+
+11am. I am feeling some inspiration. Why don't I do it?
+
+* Get the data.
+* Do the research.
+* Make the trades.
+
+I have all the skills and more in order to become a quant trader.
+
+There is no need to bet it all on the same discretionary long term momentum system. I can do better than it.
+
+I don't have much time to do this kind of work, but I could start gathering data even starting next week.
+
+I tried out the IBKR API a few months ago at work.
+
+11:05am. Yeah, just adding these specific kinds of reversal trades could add 100k a year to my account, so why not put in the work? Am I just going to be watching trader videos every single weekend like I am doing now?
+
+That time could better be spent doing actual market research.
+
+...
+
+For every given moment in time I could do a pattern matching scan.
+
+Given a particular stock and 5-30 days of past price action, calculate a mean squared error of all the stocks in the past closest to that price action. Then use those patterns to build scenarios.
+
+How did similar patterns act in the past when they won, lost and went sideways.
+
+Even for something like trading news, I could have an LLM summarize it and create a quality score. How big is the acceleration, how surprising it is, what is the past price action of the stock. The better the news and the more negative the past price action, the bigger the upside.
+
+11:10am. Even though I might not believe in my trading skills, I do believe in my programming skills. I should try out the simple statistical systems and see where they get me.
+
+I won't beat the larger quants, but I'll have an edge over other retail traders.
+
+11:15am. Let me watch these videos. I won't start the research work today, but I'll let it simmer in my mind for a bit.
+
+![capitulation](images/image-225.png)
+
+I should just learn to swing trade these capitulations.
+
+If I build a fully automated system, it will be capabable of making far more precise entries and exits than I ever could. I would be like a money printing machine of the long run.
+
+https://youtu.be/KciAjkEFA6s?t=1740
+> The key is to trade stocks that have a lot of range.
+> I see people trading stocks that have no volume, no range, there is nothing going on...
+
+I ended up doing this during the end of my trading journey a decade ago.
+
+Stocks are so random and volatile, and I was trying to find places where they could have good persistence for swing trades. Couldn't do it.
+
+![up 2.5m](images/image-226.png)
+
+He's up 2.5 million.
+
+11:50am. Yeah, I am a bit upset right now. I have all these programming skills, and what. Am I just going to be a mid tier discretionary trader in the end? I can do way better.
+
+I could get a ton of use out of memory systems for swing trading.
+
+I am looking at these guys and they are using very simple systems. It's possible to go up a level of sophistication without overfitting.
+
+I can start off very small to test things out first.
+
+Short term quant swing trading.
+
+12:15pm. Let me watch these videos to the end.
+
+12:20pm. https://qullamaggie.com/my-3-timeless-setups-that-have-made-me-tens-of-millions/
+
+Yeah, it's a grind watching his videos. I cannot even see what people on Twitch are telling him. But he has these articles on his website.
+
+And that was pretty much what he covered. I know all this from Pradeep and so on.
+
+![breakouts](images/image-227.png)
+
+In the last decade, I was very lazy when it came to trading breakouts even though that was one of my main systems back then. For such an intense system, I'd want to also automate it.
+
+Discretionary trading should be long term and lazy, and systematic trading should be short term and intense.
+
+12:30pm. Let me stop here. I am not going to watch any more videos on how to trade. Rather, I am going to change my focus on video that talk about how to get the data and such.
+
+I am not sure if just getting historical data from the IBKR API is the way to go, so that should be the first things I should research.
+
+How to get split adjusted data, how to get the news for a future LLM system and so on. How to get the earnings reports.
+
+Once I have that I'll actually be able to put my programming skills to good use for making trading systems.
+
+Maybe I'll resume Youtubing at that time.
+
+12:35pm. Qullamaggie inspired me to become a quant trader. I think anybody looking at me from the outside could only have been wondering when I am going to go in this direction. It seems like such an obvious path to take, and I've been resistant to it. I guess it has been slowly building up. One way to transcend my old self might be to have courage and extend my holding periods to weeks and months. Another way is to go all-in on tech. I'll do both and cement my success. Tom Basso and other systems traders say that a big part of their success is trading multiple systems. I can take a note from that.

@@ -2639,4 +2639,5 @@ Once I have that I'll actually be able to put my programming skills to good use 
 
 Maybe I'll resume Youtubing at that time.
 
-12:35pm. Qullamaggie inspired me to become a quant trader. I think anybody looking at me from the outside could only have been wondering when I am going to go in this direction. It seems like such an obvious path to take, and I've been resistant to it. I guess it has been slowly building up. One way to transcend my old self might be to have courage and extend my holding periods to weeks and months. Another way is to go all-in on tech. I'll do both and cement my success. Tom Basso and other systems traders say that a big part of their success is trading multiple systems. I can take a note from that.
+12:35pm. Qullamaggie inspired me to become a quant trader. I think anybody looking at me from the outside could only have been wondering when I was going to go in this direction. It seems like such an obvious path to take, and I've been resistant to it. I guess it has been slowly building up. One way to transcend my old self might be to have courage and extend my holding periods to weeks and months. Another way is to go all-in on tech. I'll do both and cement my success. Tom Basso and other systems traders say that a big part of their success is trading multiple systems. I can take a note from that.
+

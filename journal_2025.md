@@ -2827,3 +2827,42 @@ A Profitable Day Trading Strategy For The U.S. Equity Market
 https://papers.ssrn.com/searchresults.cfm?term=day%20trading
 
 The papers can be found for free here.
+
+![vwap](images/image-245.png)
+
+So this is a variation on the OBR system they wrote about in earlier papers.
+
+I feel like I am benefiting from reading this paper. I could make use of a system such a this on stocks in play.
+
+![17% win rate](images/image-246.png)
+
+This system made 100% per year despite having a 17% win rate. Crazy.
+
+![vwap](images/image-247.png)
+
+Maybe I should backtest how this would work for longer term trading?
+
+Going into the paper I was sure they do a mean reversion system rather than a trend following one. Quite surprising that wasn't the case.
+
+![time of day profitability](images/image-248.png)
+
+I keep hearing that daytraders should avoid the midday. This seems to bear out.
+
+![toby](images/image-249.png)
+
+Maybe Toby Crabel is the one I was thinking of?
+
+![volatility](images/image-250.png)
+
+You know what? I think I could do my momentum trading during regular market periods and do systematic daytrading during volatile ones. That could be very effective.
+
+![sigh](images/image-251.png)
+
+This is what I could have done in 2007 - 2014 instead of bashing my head like a moron. I could have picked up programming and created a system such as this even I couldn't daytrade in the US due to the PDT rule.
+
+I could daytraded it in the EU markets.
+
+9:55pm. https://youtu.be/j1XAcdEHzbU
+Quant Trader on Retail vs. Institutional Trading
+
+Oh, this video where he talks about market making is very informative. I honestly know very little about that part of the markets.

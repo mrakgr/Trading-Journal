@@ -2813,3 +2813,17 @@ I think if I want a daytrading system I'd do well to backtest this.
 
 I said it back then, knowing the stats won't change the outcomes for my style of trading.
 
+8:45pm. ![orb](images/image-243.png)
+
+Let me read this paper.
+
+![vwap](images/image-244.png)
+
+Wow, this is amazing.
+
+Volume Weighted Average Price (VWAP) - The Holy Grail for Day Trading Systems
+A Profitable Day Trading Strategy For The U.S. Equity Market
+
+https://papers.ssrn.com/searchresults.cfm?term=day%20trading
+
+The papers can be found for free here.

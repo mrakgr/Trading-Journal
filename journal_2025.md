@@ -2789,3 +2789,27 @@ I want to try it as well.
 I definitely don't want to make a trading system by optimizing the parameters for a bunch of indicators. None of them mean shit.
 
 10:10pm. I'll have time to think about this, and if the momentum approach I am using now really craps out, I am going to take it seriously and marry my trading with the approach towards AI that I am trying to spearhead.
+
+8/25/2025
+
+12:55pm. ![ORB](images/image-241.png)
+
+This is from the video:
+
+https://youtu.be/HXxHunu_Hkk
+Backtesting.py (2/2) - Intraday ORB Strategy in Python
+
+Pradeep in one of his videos mentioned Mark Boucher, I think it was in the TradeLion video. It sounded vaguely familiar, but I had trouble remembering who he was. Today I remember that he wrote a book on opening range breakouts. He wrote the Hedge Fund Edge book in 1999 which talked about opening range breakouts.
+
+![](images/image-242.png)
+
+No, I have to be wrong. I must be thinking of a different book. This can't be it.
+
+...Forget what I said. Let me finish the video.
+
+I think if I want a daytrading system I'd do well to backtest this.
+
+1:10pm. Maybe I am acting like this due to feeling a bit directionless at work currently. I need to stop thinking about this so much and focus on what is really important.
+
+I said it back then, knowing the stats won't change the outcomes for my style of trading.
+

@@ -2866,3 +2866,56 @@ I could daytraded it in the EU markets.
 Quant Trader on Retail vs. Institutional Trading
 
 Oh, this video where he talks about market making is very informative. I honestly know very little about that part of the markets.
+
+8/26/2025
+
+10am. https://youtu.be/8EV78upUQw0
+Exposing the #1 Day Trading Show & ALL Fake Gurus
+
+This is covering Words of Rizdom. I can't say I am at all surprised.
+
+Let me watch it for a bit and then I will start work. I have no idea whether it's because I'll flip the cards at the end of Friday, but I've been feeling stressed.
+
+10:05am. Yeah, I think even Cimitan cannot be excluded from being a fraud. That story that he paid 60k for 3 days of Patrick Mills' time is crazy.
+
+It's simply hard to tell from the outside, and I'd have to pay 6k for the priviledge of finding out. The main reason why I didn't is because I don't want to become a daytrader.
+
+I think that picking up programming skills and getting completely systematic would be a far better way of building an edge.
+
+6k isn't that small amount of money. If my parents weren't here I could live off that for a year in Croatia. And the time would be far better spent doing market analysis and creating daytrading systems.
+
+I really do like Andrea's ideas regarding volume. The VWAP paper proves there is something to looking at volume. I bet it would be possible to improve it significantly. But you know, just because you've been given a new way of doing art, doesn't mean you'll be a good artist. That's the crux of the issue here.
+
+![lol](images/image-252.png)
+
+So he lets pretty much anyone on his show. Lol. Sure, he says in his latest videos that they've been verified, but we only have his word for it. It's kind of like taking a known criminal's word that he'll be clean.
+
+![lol 2](images/image-253.png)
+> God is powering my edge.
+
+Loooool. This is hillarious.
+
+![lol 3](images/image-254.png)
+
+![high risk to reward](images/image-255.png)
+
+> A high risk to reward system.
+
+Lollol.
+
+![rr](images/image-256.png)
+
+Minervini made a video saying that risk/reward is the holy grail of trading. I kind of get the sense that many of the discretionary traders don't really know what their edge is, and I am probabbly guilty of that at this point in time as well.
+
+![wow](images/image-257.png)
+
+I didn't know he outright stole people's money in a rugpull.
+
+![omg](images/image-258.png)
+
+Oh my god, now Iman is promoting his own shit. I must be retarded not to see this coming.
+
+![fake](images/image-259.png)
+
+At this point, if you see anybody selling you anything you might as well go the other way. Is there even a need to verify them?
+

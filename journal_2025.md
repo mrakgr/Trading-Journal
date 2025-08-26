@@ -2930,3 +2930,38 @@ Let me watch those vids on expert WCE traders. I really want to know how Patrick
 Stock trading is most profitable for daytraders in the first and the last hours of trading, so that probably applies the same to forex.
 
 I simply hadn't understood daytrading at all up to now, but now I feel like I've grasped a new perspective on it.
+
+7:40pm. Based on the video that I watched, Patrick Nill isn't trading forex at all, but regular futures on stocks, bonds and oil.
+
+I guess that makes sense. 
+
+8:50pm. https://youtu.be/cslZUUiHfms
+He won 6 World Trading Cups With ONLY 2 Tools... - Patrick Nill
+
+In this video they say the trade forex, but don't use volume and order flow there.
+
+You know what, even if I don't decide to use that VWAP algorithm to daytrade, it could have it's uses for entering longer term positions.
+
+It's a trend following algorithm which is always in the market, so it could be useful for establishing long positions for example.
+
+I could use it to enter swing trades.
+
+Well, it would need to be backtested.
+
+9:35pm. One interesting tidbit towards the end is that the other guy mentioned that the banks sell customer positioning data that he buys in order to trade against them.
+
+I didn't know that the banks are doing that.
+
+So I learn something new every day.
+
+These guys are futures traders, but I am going to focus on to keep focusing on stocks and see where that takes me.
+
+I actually want to try out the VWAP system on the opposite of what they did in the paper - on low prices manipulated stocks where there is a lot of dumb money.
+
+Too bad I can't trade crypto in my IBKR account. I bet the system would work great on meme coins.
+
+9:40am. Sigh, when the weekend comes I am definitely making time to gather the necessary data. I'll write the F# scripts to test the system afterwards.
+
+I've already downloaded the data using IBKR's API for some large caps stocks in the past. I just have to build on that.
+
+9:50pm. I am sure the system would work before commissions, but I wonder if once I put in the 0.05% per trade that IBKR has on euro stocks, whether I'll manage to beat the fees. There is also the spread so it would be even worse. I'll might have a chance if I trade really volatile situations.

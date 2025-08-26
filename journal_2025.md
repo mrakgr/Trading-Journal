@@ -2964,4 +2964,4 @@ Too bad I can't trade crypto in my IBKR account. I bet the system would work gre
 
 I've already downloaded the data using IBKR's API for some large caps stocks in the past. I just have to build on that.
 
-9:50pm. I am sure the system would work before commissions, but I wonder if once I put in the 0.05% per trade that IBKR has on euro stocks, whether I'll manage to beat the fees. There is also the spread so it would be even worse. I'll might have a chance if I trade really volatile situations.
+9:50pm. I am sure the system would work before commissions, but I wonder if once I put in the 0.05% per trade that IBKR has on euro stocks, whether I'll manage to beat the fees. There is also the spread so it would be even worse. I might have a chance if I trade really volatile situations.

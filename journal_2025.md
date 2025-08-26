@@ -2919,3 +2919,14 @@ Oh my god, now Iman is promoting his own shit. I must be retarded not to see thi
 
 At this point, if you see anybody selling you anything you might as well go the other way. Is there even a need to verify them?
 
+6:35pm. Done with work, but damn do I not feel like programming anymore.
+
+The VWAP daytrading paper really had a powerful effect on me. I want to implement it even over the pokerbot now.
+
+It's rare to stumble into life changing pieces of information like that. All I need is to eat dirt in my momentum trading over the next couple of months, and I'll just be ready to go full quant.
+
+Let me watch those vids on expert WCE traders. I really want to know how Patrick Mills gets the order flow for his forex trading. I've heard that successful forex traders only trade at specific times where there is volume. Maybe that has something to do with it.
+
+Stock trading is most profitable for daytraders in the first and the last hours of trading, so that probably applies the same to forex.
+
+I simply hadn't understood daytrading at all up to now, but now I feel like I've grasped a new perspective on it.

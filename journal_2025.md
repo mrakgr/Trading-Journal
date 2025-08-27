@@ -2965,3 +2965,45 @@ Too bad I can't trade crypto in my IBKR account. I bet the system would work gre
 I've already downloaded the data using IBKR's API for some large caps stocks in the past. I just have to build on that.
 
 9:50pm. I am sure the system would work before commissions, but I wonder if once I put in the 0.05% per trade that IBKR has on euro stocks, whether I'll manage to beat the fees. There is also the spread so it would be even worse. I might have a chance if I trade really volatile situations.
+
+8/27/2025
+
+9:40am. ![machine trading](images/image-260.png)
+
+I think I could do well to read some quant trading books.
+
+https://libgen.gs/edition.php?id=137396089
+
+I can just get this one off libgen. He's using MATLAB of all things.
+
+It's weird. I could barely sleep last night and I ended work early to go to the beach, but now I am feeling refreshed.
+
+![oh](images/image-261.png)
+
+This could be really useful for me. Especially data vendors and platforms, though I intend to do my own backtesting.
+
+The amount of effort it would take to do it laughable compared to implementing a poker game on a GPU. Watching these people use Python notebooks to backtest trading strategies makes me feel like I am going up against kids.
+
+10:15pm. I admit I've been a fool for not going down this path earlier.
+
+If I am going to have any regret in life, then it should be this. I should regret not picking up programming sooner and not recognizing its power.
+
+Discretionary traders tend to do better than quant ones, but I could keep getting better infinitely as a quant. Especially going into the post-Singularity era.
+
+I've been comparing myself to Chris, and I recognize my own inferiority. I recognize that instead of looking at charts, I should be doing statistics on them. Looking at the patterns through the eyes of the machines.
+
+The way to win at trading is to attain objectivity.
+
+Objectivity is probably the true holy grail of trading.
+
+If you know a coin is biased 60/40, that is everything you need. You don't have to ask for anything more or anything less.
+
+![bloomberg](images/image-262.png)
+
+Oh wow, this info is worth its weight in gold.
+
+![free data](images/image-263.png)
+
+I wonder if there is anything wrong with just getting it from IBKR.
+
+10:45pm. Let me go to bed here. I am going to introduce order to my life tomorrow. I'll put some stops in place so that there are no regrets whichever way the tide turns.

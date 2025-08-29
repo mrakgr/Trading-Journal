@@ -3007,3 +3007,33 @@ Oh wow, this info is worth its weight in gold.
 I wonder if there is anything wrong with just getting it from IBKR.
 
 10:45pm. Let me go to bed here. I am going to introduce order to my life tomorrow. I'll put some stops in place so that there are no regrets whichever way the tide turns.
+
+8/29/2025
+
+8:30am. Sweet bliss. I've decided to take a day off from work for the first time in a year. I've been missing sleep for days and I am in a state of being pissed off at my coworkers. Sigh, I am so emotional, completely unfit to be a trader.
+
+Today was supposed to be the day I flip the cards and check my stocks, but I'll leave that for tomorrow. Finding out I am down today would kill me.
+
+My main goal is to get some shut eye tonight and starting next week I'll lower my hours to a bearable level until I get my feeling again.
+
+If not, I'll quit and dedicate myself to quant research and poker botting.
+
+I love my CTO, but his management skills could use some work.
+
+Maybe I'll talk about it some other time, I do not want to say more about my private matters in this public journal.
+
+8:40am. This job that I have currently pays so well and used to have so much promise. I really loved it at the start.
+
+But this week was harsh.
+
+Mhhh...
+
+In fact I had plenty of days like these when I was working on my own projects, and I bounced from them. But this is the first time this happened at this particular job.
+
+Sigh, I do not want to quit. I want to continue doing my best for a while longer.
+
+I just have focus on that one idea - doing my best.
+
+8:50am. This would be a good time to check out that quant trading book, but I am pretty tired.
+
+I think it's really important in times like these not to be too harsh on yourself. This too shall pass.

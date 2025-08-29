@@ -3082,6 +3082,6 @@ I think I'll take a break for a week or two before resuming Youtubing.
 
 I'll put in the sell orders for the market open tomorrow.
 
-9:10pm. Curtis might have tipped them off, but I cannot blame him as we didn't get along and I was the one who gave the ammo he needed.
-
 9:35pm. This is the signal. I am going to get serious about finishing that poker bot and doing market research.
+
+The longer I put this off by doing salaried work, the worse off I'd be long term.

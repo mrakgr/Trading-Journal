@@ -3037,3 +3037,49 @@ I just have focus on that one idea - doing my best.
 8:50am. This would be a good time to check out that quant trading book, but I am pretty tired.
 
 I think it's really important in times like these not to be too harsh on yourself. This too shall pass.
+
+7:35pm. I managed to get some sleep during the day.
+
+Let's flip the cards.
+
+Time see how much I lost.
+
+![RHM](images/image-264.png)
+![HAG](images/image-265.png)
+![RNK](images/image-266.png)
+
+Ah, goddamit. Nooo!
+
+![TKA](images/image-267.png)
+![LDO](images/image-268.png)
+![SAAB.B](images/image-269.png)
+![EXA](images/image-270.png)
+![LTMC](images/image-271.png)
+![ACT](images/image-272.png)
+![FCT](images/image-273.png)
+![GRE](images/image-274.png)
+
+Literally only FCT is a winner. Every single stock other than it that I picked is a loser. I think I lost 10%, maybe a bit more. About a month's salary.
+
+7:45pm. And I know I was thinking about quitting today, but I just got removed from all the company channels with no prior warning. It does look like I was fired from Tao Ceti.
+
+> Hi Marko,
+> As of the end of day on August 29, 2025, your contract with CETI AI North America is terminated. Per our agreement, you are required to delete all CETI AI intellectual property, including any downloaded repositories.
+
+Yeah. I got this email.
+
+8:05pm. Current plan, sell all my stocks, close the IBKR account and close the Rajnet company. Wooooowwww...
+
+The reason why this happened is probably because all the comments I posted bashing the founders in the company Discord. I was always on a timer with this company since I wrote anything and everything on my mind there.
+
+Now I feel really bad about being mad at Curtis and Logris today. At least I got the current month's salary.
+
+The founders are pretty much scammers who sold the HGX machines from the initial coin offering and then put the company money into Bitcoin. The company is going to crash and burn eventually during the crypto bear market, the only thing investors have going for them is that the Ceti token price is so low that they've all already been wiped out.
+
+You cannot believe how agonizing today was. I was thinking the whole time whether to quit or now based on the spur of emotion and this resolved it for me.
+
+I am shocked, but also liberated.
+
+I think I'll take a break for a week or two before resuming Youtubing.
+
+I'll put in the sell orders for the market open tomorrow.

@@ -3084,4 +3084,6 @@ I'll put in the sell orders for the market open tomorrow.
 
 9:35pm. This is the signal. I am going to get serious about finishing that poker bot and doing market research.
 
-The longer I put this off by doing salaried work, the worse off I'd be long term.
+The longer I put this off by doing salaried work, the worse off I'll be off long term.
+
+10pm. I remember a long time ago getting an email looking for a dev for a poker system. I should try digging it up and seeing if they are still working on it.

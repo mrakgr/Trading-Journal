@@ -3074,8 +3074,6 @@ The reason why this happened is probably because all the comments I posted bashi
 
 Now I feel really bad about being mad at Curtis and Logris today. At least I got the current month's salary.
 
-The founders are pretty much scammers who sold the HGX machines from the initial coin offering and then put the company money into Bitcoin. The company is going to crash and burn eventually during the crypto bear market, the only thing investors have going for them is that the Ceti token price is so low that they've all already been wiped out.
-
 You cannot believe how agonizing today was. I was thinking the whole time whether to quit or now based on the spur of emotion and this resolved it for me.
 
 I am shocked, but also liberated.
@@ -3085,3 +3083,5 @@ I think I'll take a break for a week or two before resuming Youtubing.
 I'll put in the sell orders for the market open tomorrow.
 
 9:10pm. Curtis might have tipped them off, but I cannot blame him as we didn't get along and I was the one who gave the ammo he needed.
+
+9:35pm. This is the signal. I am going to get serious about finishing that poker bot and doing market research.

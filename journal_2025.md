@@ -3114,3 +3114,23 @@ I'll be doing this kind of studying quite a lot over the coming months. I am gla
 1:15pm. ![fear](images/image-275.png)
 
 So that's why selling vol is profitable on average.
+
+3:25pm. There is bad weather currently so I turned off and went to take a nap. During that time I think what the possible reasons for the firing might be. It was all of a sudden, I only got a termination notice and lost access to all the company channels. This was a 7-man company. I've received no warning prior to that. There might have been signs, but it was like going from 5 to 100 rather than 0 to 100.
+
+I think it's best not to think about it. There could be any number of reasons, and it's not possible to pinpoint the exact one.
+
+Worrying too much about this would let regret creep in.
+
+I think for the past month, it's true, my attitide compared to when I joined was much worse. Logris told me that I was grouchy during out Thursday meeting, and it's true.
+
+I just didn't notice it and should've taken a vacation earlier.
+
+But being stressed out is like a from in a boiling pot. You don't notice it when it when the temperature creeps up on you slowly. It's a lot easier to notice it in others than it is in yourself, especially when you have a goal of working hard.
+
+Yeah, you work hard, but you tend to do things which aren't necessarily the best for preservation.
+
+When working hard starts to hurt, you don't stop, but you start doing things that might alleviate that pain at a subconscious level.
+
+A good manager would notice that and tell you to take a break. He'd also not let team members become adversaries.
+
+3:35pm. I've felt shocked, but I also felt very relieved.

@@ -3163,3 +3163,8 @@ Also, that 10% loss does sting a lot more now than had I had the job. It would h
 5:05pm. Now that I have the time, I see that I could learn a lot from this guy.
 
 If it was the old me, from the previous decade before I decided to become a programmer, but now he's a goldmine.
+
+6:25pm. https://youtu.be/NlqpDB2BhxE?t=1257
+
+This stuff on volatility selling is great.
+

@@ -3134,3 +3134,32 @@ When working hard starts to hurt, you don't stop, but you start doing things tha
 A good manager would notice that and tell you to take a break. He'd also not let team members become adversaries.
 
 3:35pm. I've felt shocked, but I also felt very relieved.
+
+3:40pm. ![implied probs](images/image-276.png)
+
+This stuff with implied probabilities is very new to me, and makes perfect sense. What a great video. I'll be checking out more from this guy. Quants are the true technical analysts.
+
+3:55pm. This is amazing video. The point that algorithms don't remove the behavioral component in a non-converging process is 10/10 insight.
+
+https://youtu.be/NlqpDB2BhxE?t=698
+
+He says here that there are a lot of edges to extract with big data.
+
+That is good news to me!
+
+https://youtu.be/NlqpDB2BhxE?t=714
+> There are systematic inefficiencies in the market that can be exploited in a quantitative capacity, especially with sufficient data. Once you get into the space of operating with big data, large amounts of news, text, maybe even videos, audio *snap* you can extract a lot of signal and make optimal decisions in this uncertainty, constructing portfolios that exibit this expected value and accumulation of expected value over time.
+
+Yeah, this is it.
+
+This is what I should be doing.
+
+Long term momentum trading is just one of the systems I could use.
+
+Since all of my trades are showing a loss, that does say something about the market regime. During sideways markets, it wouldn't be bad to only use intraday systems.
+
+Also, that 10% loss does sting a lot more now than had I had the job. It would have been nice to have an uncorrelated return stream and keep drawdowns to a minimum.
+
+5:05pm. Now that I have the time, I see that I could learn a lot from this guy.
+
+If it was the old me, from the previous decade before I decided to become a programmer, but now he's a goldmine.

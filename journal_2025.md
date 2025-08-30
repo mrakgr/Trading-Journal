@@ -3087,3 +3087,17 @@ I'll put in the sell orders for the market open tomorrow.
 The longer I put this off by doing salaried work, the worse off I'll be off long term.
 
 10pm. I remember a long time ago getting an email looking for a dev for a poker system. I should try digging it up and seeing if they are still working on it.
+
+8/30/2025
+
+9am. I slept well tonight.
+
+I have a lead for an upcoming job, but besides that I'll have a talk with Logris about what he'll do next week. We had some talks about what will happen if the company went under due to some corruption scandal, but we didn't talk about what would happen if I got fired out of the blue as none of us expected it.
+
+I expect him to hunker down and try to make the ICF project work with another dev, but I'll see how it goes.
+
+9:40am. Today, let me just read the Machine Trading book and maybe find some data sources.
+
+Oh yes, I need to put in the orders to sell all my stocks too.
+
+It's Saturday, but I keep feeling like it's Sunday because I never take a day off on Friday and I did so this week. I have time.

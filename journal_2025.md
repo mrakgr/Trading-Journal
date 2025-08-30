@@ -3215,3 +3215,19 @@ Remmber the Covid craze? The market paniced and then made a huge amazing rally l
 I don't feel like watching these videos anymore. Let me stop here for the day.
 
 Maybe I should watch some anime? Read some manga?
+
+8:45pm. Let me make a bear case for the market.
+
+There are obvious bubbles in crypto with the stock market investors paying treasury companies free money to buy what are essentially scams.
+
+All of this is happening in the backdrop of a global trade war.
+
+![iwm](images/image-279.png)
+
+I was hoping to see small caps leading the way down, but they're doing really well.
+
+I guess the timing isn't right, but the thesis is that fundamentals have to kick in eventually.
+
+A bear market in stocks would resolve the issue of the Trump presidency, instead by just plowing the money in the market, the investors are lending Trump legitimacy. I guess they are expecting the tarrifs to be struck down.
+
+Ah, forget it.

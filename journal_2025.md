@@ -3101,3 +3101,5 @@ I expect him to hunker down and try to make the ICF project work with another de
 Oh yes, I need to put in the orders to sell all my stocks too.
 
 It's Saturday, but I keep feeling like it's Sunday because I never take a day off on Friday and I did so this week. I have time.
+
+11:40am. The Tao Ceti ICF project can be considered dead now. Even if they hire somebody else to take my place, it's unlikely that he'll be able to fill the hole. My skills are pretty high, and you cannot tell if a dev is good by talking to him and reading his resume. Hiring is a gamble, and they got lucky with me. Once you start cutting profits short, the luck will run out eventually.

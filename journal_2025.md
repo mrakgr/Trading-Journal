@@ -3209,3 +3209,9 @@ In the past when cryptos were good buys, it was after market panics.
 Remmber the Covid craze? The market paniced and then made a huge amazing rally led by crypto and it was right after a huge panic. It lasted for a decent amount of time as well. I am starting to see this pattern over and over.
 
 7:25pm. I really should do a study which groups of stocks do best after market panics. Buying resilience didn't work this time.
+
+7:50pm. https://youtu.be/kQPCTXxdptQ?t=599
+
+I don't feel like watching these videos anymore. Let me stop here for the day.
+
+Maybe I should watch some anime? Read some manga?

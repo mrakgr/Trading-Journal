@@ -3110,3 +3110,7 @@ Quant on Trading and Investing
 Let me watch this. I'll also read the book by Ernest Chan today.
 
 I'll be doing this kind of studying quite a lot over the coming months. I am glad that I am back to it.
+
+1:15pm. ![fear](images/image-275.png)
+
+So that's why selling vol is profitable on average.

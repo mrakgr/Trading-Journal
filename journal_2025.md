@@ -3168,3 +3168,43 @@ If it was the old me, from the previous decade before I decided to become a prog
 
 This stuff on volatility selling is great.
 
+6:35pm. ![great](images/image-277.png)
+
+This is great. I wish I understood macro better, but I can't really connect the broad fundamental stuff with the actual price action. That's why I gave momentum a try.
+
+Oh, incidentally, my plan for this weekend was to look at stock charts to find more trades, but given the price action of euro leaders which might be a prelude to further declines in the market, and my current shellshocked situation, I am going to pause trading for a few months.
+
+I might be closing the account so I am no condition either financially or psychologically to trade.
+
+I'll just close out my all positions on the next open and stay in cash for a while.
+
+Yeah, just stay in cash and wait for another market panic before redeploying. That will do well. The next time though, maybe instead of buying leaders, I should just buy the most volatile ETFs I could find like the uranium ones for example and hold those.
+
+Given the lack of momentum in the market, what's my edge in being long here? There isn't any.
+
+Am I supposed to chase NVDA or PLTR here? I don't feel like it.
+
+The situation we had in August was pretty good, and I nailed being long then and buying on the way up, but I bought the wrong stocks in the end.
+
+Fuck euro leaders. Had I dumped everything into NVDA or something similar I would be up quite a bit now.
+
+6:45pm. Yeah, it's important to recognize the mistake that I made. I'll have chances to make up for my 10% loss in the future. I bet too much at the top as the salary was pouring in.
+
+Oh yeah, in the end the decision to not look at my portfolio was correct. I definitely would have sold RHM and the rest much lower had I done so.
+
+...
+
+Also, I know that crypto is acting great, but it's just too obvious. I wish there was a broad shakeout in the market, so that I could lower my risk. It just goes back to waiting for a panic to happen.
+
+![qqq](images/image-278.png)
+
+Yeah, no edge here. Just some topping action. The market can go sideways for a long while in this regime though before a significant decline happens, so I'll have time to charge up.
+
+Yes, forget chasing crypto here. I'll wait for the next panic and buy momos on the way up then.
+
+In the past when cryptos were good buys, it was after market panics.
+
+6:55pm. It's weird. There is some link between volatility trading and trend following, but I am not sure what it is.
+
+Remmber the Covid craze? The market paniced and then made a huge amazing rally led by crypto and it was right after a huge panic. It lasted for a decent amount of time as well. I am starting to see this pattern over and over.
+

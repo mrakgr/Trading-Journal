@@ -3103,3 +3103,10 @@ Oh yes, I need to put in the orders to sell all my stocks too.
 It's Saturday, but I keep feeling like it's Sunday because I never take a day off on Friday and I did so this week. I have time.
 
 11:40am. The Tao Ceti ICF project can be considered dead now. Even if they hire somebody else to take my place, it's unlikely that he'll be able to fill the hole. My skills are pretty high, and you cannot tell if a dev is good by talking to him and reading his resume. Hiring is a gamble, and they got lucky with me. Once you start cutting profits short, the luck will run out eventually.
+
+12:10pm. https://youtu.be/CKXp_sMwPuY
+Quant on Trading and Investing
+
+Let me watch this. I'll also read the book by Ernest Chan today.
+
+I'll be doing this kind of studying quite a lot over the coming months. I am glad that I am back to it.

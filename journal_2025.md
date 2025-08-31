@@ -3231,3 +3231,17 @@ I guess the timing isn't right, but the thesis is that fundamentals have to kick
 A bear market in stocks would resolve the issue of the Trump presidency, instead by just plowing the money in the market, the investors are lending Trump legitimacy. I guess they are expecting the tarrifs to be struck down.
 
 Ah, forget it.
+
+8/31/2025
+
+9:30am. Didn't sleep tonight, but had a talk with Logris just now and let it out just what I think of his teachings to Curtis, so I feel relieved. Let me open my IBKR account and see how much exactly I have left in it. I am afraid to see the number despite calculating it yesterday.
+
+![portfolio](images/image-280.png)
+
+Now that I am looking at my actual P&L, for some reason I am down only 2% instead of 10?
+
+Ah, maybe it's because most of the drop happened during the last week of July.
+
+Ah whatever. It could've been worse. Had I started in Feb with my full roll, I would be up now. I put my money in one group which didn't go up in this damn bull market. IWM is near its high, so maybe it will start topping here if I am lucky. Otherwise I'll just wait and repeat the process.
+
+I know I am supposed to rotate into the real leaders to make the money, that was the plan, but I just don't feel like chasing and want a break to stabilize my mind. Let me put in the OPG orders for tomorrow.

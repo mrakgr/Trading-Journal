@@ -3258,7 +3258,7 @@ Here is DEFS. Had I just held it, I would done better than rotating my stocks in
 
 After some thinking, I think I'll keep the company and the IBKR account open. While it is true that I have large expenses now, once I stop paying income tax and remove the expenses that actually flow back to myself in the form of salary or my family, it's more like 7%/year that I need to beat. Even so, I'd have to withdraw 24% from my trading account regardless. If I get no income for a while I'll easily be down a significant amount of my trading capital just from that.
 
-10:35am. Yeah, now it's rest and relaxation time. I'll take it easy for a few weeks, just reaidng stuff and then I'll start work on daytrading systems.
+10:35am. Yeah, now it's rest and relaxation time. I'll take it easy for a few weeks, just reading stuff and then I'll start work on daytrading systems.
 
 Knowing me, I most likely won't really be taking a break. I'll most likely get the data to test the VWAP daytrading system, because I like punishment.
 
@@ -3269,3 +3269,33 @@ Maybe I should have breakfast and go back to sleep?
 I have the choices now. I can spend a month doing nothing. 
 
 Today I didn't get much sleep so I shouldn't be focusing on work or learning.
+
+8:25pm. Yeah, I relaxed nicely today. Tomorrow, I will start going back to who I really was.
+
+Quant trading will be my new route. I'll get back to Spiral and poker botting eventually, but I need to build some edges in the market first.
+
+That should be a good new playlist on my Youtube channel.
+
+Ultimately, I was lucky to get in with Tao Ceti, and now I am lucky to get out. I owe Logris more than just a debt of gratitude for giving me the great opportunity, but now it's time to move on.
+
+It's time for a rematch with the market after the 2007 - 2014 period of going nowhere. I am going to take all of the knowledge that I've attained and crystalize it. I am going to find the true way to trade.
+
+I am very undisciplined when it comes to waiting for good opportunities.
+
+Daytrading aside, if you look at guys like Minervini and Zanger, they trade high volume breakouts. If I want to make huge returns I need to trade stocks which move fast, have volume and limit my risk tightly. Not something I can do on a part time basis.
+
+My current momentum system doesn't fit that bill. I have to adjust and do real research on how to do swing trading. The same goes for daytrading.
+
+If I want consistency, position trading like I am doing now won't work. I fundamentally did the right thing buying on the way up from the bottom, but ended up putting the money in the wrong instruments and got squat.
+
+8:40pm. I already spent a while looking into IBKR's API and even downloaded the historical data for some large caps. I definitely have to look into it again to get into the swing of things.
+
+Once I have the data, then I will be able to get significant work done.
+
+In fact, it isn't necessary that I do in-depth research. I can start my journey by looking into high volume breakouts that have happened in the past year and build from there.
+
+In the Momentum Masters book, Minervini and pals talk a lot about how they trade. Why not test those insights quantitatively? I am bound to get some tips on how to trade better.
+
+It's inevitable that some people will simply luck into good systems and become wizards that way. I am not one of those people, but I can just take their insights and transform them into algorithms.
+
+I have tons of ideas. I basically already know how to trade, but I've yet to cross the threshold into true skill and consistency. What I am missing is research and a rigorous trading plan.

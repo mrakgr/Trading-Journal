@@ -3245,3 +3245,27 @@ Ah, maybe it's because most of the drop happened during the last week of July.
 Ah whatever. It could've been worse. Had I started in Feb with my full roll, I would be up now. I put my money in one group which didn't go up in this damn bull market. IWM is near its high, so maybe it will start topping here if I am lucky. Otherwise I'll just wait and repeat the process.
 
 I know I am supposed to rotate into the real leaders to make the money, that was the plan, but I just don't feel like chasing and want a break to stabilize my mind. Let me put in the OPG orders for tomorrow.
+
+10:20am. Done. Agh...
+
+![DEFS](images/image-281.png)
+
+Here is DEFS. Had I just held it, I would done better than rotating my stocks in the highest performing ones.
+
+...
+
+...Well, what is done is done.
+
+After some thinking, I think I'll keep the company and the IBKR account open. While it is true that I have large expenses now, once I stop paying income tax and remove the expenses that actually flow back to myself in the form of salary or my family, it's more like 7%/year that I need to beat. Even so, I'd have to withdraw 24% from my trading account regardless. If I get no income for a while I'll easily be down a significant amount of my trading capital just from that.
+
+10:35am. Yeah, now it's rest and relaxation time. I'll take it easy for a few weeks, just reaidng stuff and then I'll start work on daytrading systems.
+
+Knowing me, I most likely won't really be taking a break. I'll most likely get the data to test the VWAP daytrading system, because I like punishment.
+
+Let me play Limbus Company maybe?
+
+Maybe I should have breakfast and go back to sleep?
+
+I have the choices now. I can spend a month doing nothing. 
+
+Today I didn't get much sleep so I shouldn't be focusing on work or learning.

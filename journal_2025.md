@@ -3522,3 +3522,15 @@ No. The trouble with that thought is that I want to trade the most volatile stoc
 Also no, the CFDs aren't any cheaper than trading shares directly on the european markets. What a shitty continent that I live on.
 
 Whatever faults the US might have, its financial markets are truly first rate.
+
+7:10pm. ![wce](images/image-288.png)
+
+I guess I'll have time for these trading tutorial sessions now.
+
+Looking back, I am so lazy when it comes to doing actual trading analysis. That's true even now. I couldn't care less about economic events.
+
+But I am warming up to news trading now that I have the daytrading system to at least attempt capturing the momentum.
+
+Mhhh, what I will do tomorrow is watch Roman's quant trading vids. They are a bit heavy, but it might not be too bad to learn more about option trading.
+
+What I am starting to want is to do some programming and trade analysis. Maybe I'll try getting the data from the IBKR API tomorrow.

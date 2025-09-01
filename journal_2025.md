@@ -3603,3 +3603,5 @@ I love it.
 Programming is all about adding tools to your kit.
 
 I would hate to look for info arb opportunities like Chris Camillo, but I love learning new methods and techniques.
+
+11:25pm. Damn, the intro chapter of the The Playbook is brutal. His dad has a stroke and his mom dies. When he says that things will get worse, I decided to leave it for tomorrow.

@@ -3546,3 +3546,15 @@ Besides, in the first minute of trading, is there much you can do other than go 
 https://youtu.be/JlkOv61DgiE
 How I Made $10 Million in ONE Trade
 
+9:30pm. https://youtu.be/D2P-0xh6aEM
+The Anchored VWAP Edge Most Traders Never Discover
+
+What's the anchored VWAP? This seems promising.
+
+Oh, this is an immensely useful video.
+
+I had no idea about VWAP a decade ago.
+
+![anchored wvap](images/image-289.png)
+
+I'll check it out on TradingView later.

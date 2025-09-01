@@ -3534,3 +3534,15 @@ But I am warming up to news trading now that I have the daytrading system to at 
 Mhhh, what I will do tomorrow is watch Roman's quant trading vids. They are a bit heavy, but it might not be too bad to learn more about option trading.
 
 What I am starting to want is to do some programming and trade analysis. Maybe I'll try getting the data from the IBKR API tomorrow.
+
+9:05pm. https://theonelanceb.com/
+
+Here is the Magnum Opus course by Lance. It feels like I am getting really lucky with finding good learning resources in 2025.
+
+That VWAP system was a great find as well. Don't know how well it will work once I check it out myself, but it gives me a good starting point with which to do further refinement.
+
+Besides, in the first minute of trading, is there much you can do other than go in the direction of momentum? I believe in it.
+
+https://youtu.be/JlkOv61DgiE
+How I Made $10 Million in ONE Trade
+

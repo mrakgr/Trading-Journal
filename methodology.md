@@ -928,3 +928,32 @@ I started out in mid March trading like this and I'll go back to it, this time a
 I'll simplify my trading as much as possible. And maybe I'll win that way.
 
 Trading based on time rather than based on price is much easier.
+
+9/1/2025
+
+Closed out all my positions.
+
+SOLD RHM IBIS @ 1705.5
+SOLD RHM IBIS @ 1699.5
+SOLD R3NK IBIS @ 62.94
+SOLD ACT IBIS @ 145.4
+SOLD LTMC BVME @ 23.32
+SOLD FCT BVME @ 20.06
+SOLD EXA SBF @ 114
+SOLD TKA IBIS @ 9.002
+SOLD GRE BM @ 67.3
+SOLD HAG IBIS @ 89.25
+SOLD LDO BVME @ 48.82
+SOLD SAAB.B SFB @ 536.8
+
+Here are the sales. I sold a tiny fractional position (10% of the total size) of RHM at 1705.5, that's why there are two sales.
+
+I got fired from my job, so I am changing my trading plan and moving to a defensive posture until the next market panic.
+
+See the journal entires for my exact thought process. I am a mess psychologically and am not fit to trade now.
+
+Since I have a lot more time on my hands, I'll be working to develop daytrading systems and a proper playbook that is automated as far as trade entries and exits go. I intend to pick the right stocks to trade based on news in the premarket though, but I certainly don't want to waste my time placing trades myself.
+
+I'll select the target and have the computer execute the trading plan.
+
+I am a programmer now, so I'll play to my strenghts.

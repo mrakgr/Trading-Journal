@@ -3558,3 +3558,48 @@ I had no idea about VWAP a decade ago.
 ![anchored wvap](images/image-289.png)
 
 I'll check it out on TradingView later.
+
+9:45pm. In truth, I don't feel like watching Roman's vids tomorrow. I want to watch Lance's and then get to work on backtesting various ideas.
+
+![](images/image-290.png)
+
+Maybe I'll find a way to pirate this off Yandex. Didn't he say it would be free?
+
+...I did a search and couldn't find it for free, but I did find a few resellers that do offer it for 50$.
+
+I might get it later. I'll pay him back later using my daytrading profits, lol.
+
+![](images/image-291.png)
+
+https://www.youtube.com/watch?v=bKvEfCGJS4g
+What Is a Trading Playbook? (and Why YOU Need One)
+
+![playbook](images/image-292.png)
+
+I really like this. Yeah, this is what I am trying to do with backtesting.
+
+Yeah, it's going to be an effort that is going to last a while, but 2 years should be enough to develop a much better system than the long term momentum one in full.
+
+That is if I don't fall into another job.
+
+I just found The Playbook by Mike Bellafiore on Libgen. I'll read it tomorrow.
+
+Yeah, enough for today. Let me grab dinner and I'll go to bed. I haven't had a break in a while.
+
+Everything is set. I need to help my friend on that upcoming job, but otherwise if the opportunity doesn't materialize, I'll spend the next few years learning how to trade properly.
+
+That should be fun. I am kind of tired of working on Spiral and poker botting. I want to make good use of the large amount of euros that I made on this job, and try to do this for a change.
+
+The capital gains tax in Croatia is only 10%. Not as good as 0% which it was a decade ago, but it's decent.
+
+It feels I am making strong conceptual gains with all the great info on Youtube.
+
+I was thinking about exponential VWAP as an indicator, but using an episodic pivot day as the anchor would work as well. It's a great idea.
+
+Just by knowing it, I've attained a new tool in my trading arsenal.
+
+I love it.
+
+Programming is all about adding tools to your kit.
+
+I would hate to look for info arb opportunities like Chris Camillo, but I love learning new methods and techniques.

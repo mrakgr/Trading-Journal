@@ -3299,3 +3299,65 @@ In the Momentum Masters book, Minervini and pals talk a lot about how they trade
 It's inevitable that some people will simply luck into good systems and become wizards that way. I am not one of those people, but I can just take their insights and transform them into algorithms.
 
 I have tons of ideas. I basically already know how to trade, but I've yet to cross the threshold into true skill and consistency. What I am missing is research and a rigorous trading plan.
+
+9/1/2025
+
+8:25am. In 5m I'll start getting a wave of emails telling me the sells on the open. The GRE position and 0.5 shares of RHM are not market sells, but limit orders above the open so I'll have to manage those directly.
+
+https://www.youtube.com/watch?v=glhfpGjurxA
+Trump’s Presidency Is In Chaos After Tariffs Struck Down
+
+Oh wow.
+
+8:30am. Weird. Don't tell me today is a holiday.
+
+![holoday](images/image-282.png)
+
+Actually it is, but it shouldn't be in europe.
+
+Why am I not getting any notifications? Let me check.
+
+I think the euro markets open at this time.
+
+Ah damn, it actually opens at 9am instead of 8:30. How did I make this mistake?
+
+Well, it's not like I am an active trader. I know that it closes at 5:30pm at least.
+
+8:50am. https://youtu.be/klwnw3iSRuM
+Simplicity in Systematic Trading | Robert Carver
+
+I had ideas of what kinds of quant studies I want to do in the future, but for the near term, why don't I just watch quant videos. I want to watch this and more from Roman Paolucci. Later, I'll join his QuantGuild.
+
+Today I slept well, but my heart is still heavy.
+
+I wonder how Logris and Curtis feel about this. This whole firing ended up starting with a beef between me and Curtis over us developing two different versions of the ICF in isolation and my insistence that we converge to a single one and that he pick up F# (or C#) and contribute to my codebase. Honestly, I would have been very happy to give him the entirety of it while I do something else after I've managed to design all the major pieces. But I got ignored and he just went back to working on his own despite us having a deal with Logris that he would make an effort to learn F#.
+
+I was very unhappy about that, and made it known in the `team-dev` channel.
+
+I kept offering to teach him F# quite a few number of times, including having pair programming sessions, but my offer to him was never taken up. He just wanted to do everything on his own in Python. He'd literally not talk to me in Discord whenever he was displeased. Curtis absolutely was never the type to argue about anything, if he was displeased he'd tune out and work on his own.
+
+I didn't at all expect that things would go this way. My impression of Curtis was that his programming skills were weak, but Logris kept reassuring me that he is a great programmer, so I reserved my judgement and though that at some point he'd overcome his inertia and step up.
+
+I wonder what he thinks about this outcome?
+
+I am not going to be working on the project anymore and it will be up to him to drive it to completion.
+
+9am. Oh, here are the sells.
+
+9:01am. And it's over. I am completely flat now.
+
+No need to think about the market anymore.
+
+9:05am. Right now what happened feels like an execution. There is only death, and there is no right or wrong. There are no more discussions to be had.
+
+From a certain perspective, Curtis won, so is he happy about that?
+
+They might hire another dev to fill my gap, and if that dev wants to rewrite the ICF in Java or Golang because writing highly concurrent backend applications isn't the best idea, what will his response be? To ignore the newcomer, and keep working on his own?
+
+What will Logris learn from this experience?
+
+9:15am. I'll never get the answers to these questions, and neither do they matter.
+
+Let me go back to watching the videos.
+
+I've made huge amount of money from this job in a relatively short amount of time. I've been working for over 10 months without break. So it's fine to relax.

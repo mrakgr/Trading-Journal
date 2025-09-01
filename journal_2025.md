@@ -3361,3 +3361,59 @@ What will Logris learn from this experience?
 Let me go back to watching the videos.
 
 I've made huge amount of money from this job in a relatively short amount of time. I've been working for over 10 months without break. So it's fine to relax.
+
+9:40am. I'll get Rob Carver's `Systematic Trading` book of Libgen later.
+
+9:55am. https://youtu.be/klwnw3iSRuM?t=1501
+
+What he's saying here is interesting. Let back up.
+
+> I belive that if you have a good position management framework in place then how good your ability to forecast or how good your trading rules are is much less important to the extent that you can actually run simulations with completely random entries so you basically simulate a trader who is basically no better than flipping a coin and if you feed that into a position management risk framework and set that up correctly that guy will still make money.
+
+This is actually pretty extreme thing to say.
+
+> And that's partly because in the past we've seen trends in markets and if you're setting up a system where you've got big stop losses they will naturally tend to pick up on trends, but it's still an interesting finding. And if you then add trading rules that do a good job of predicting where the market's going to go that does add performance to a system, but not as much as you might expect.
+
+Hmmm...
+
+10:10am. A common trading adage is to let profits run and cut losses early.
+
+I've always believed in it. The only thing that has changed is that I decided to find out what the numbers really are.
+
+10:55am. Making a very high return over over 100% per year consistently isn't out of the picture for me.
+
+What I need is to find edges that will let me take profitable short term trades. The momentum system that I've described is too long term and undiversified for me to trade it to great effect. Some years it's going to do great and in others, it will struggle.
+
+I need to find stock specific edges in the short term. I'll find those in high volatility situations that aren't necessarily captured by the monthly momentum system. Then I just need to do a lot of trades with positive expectancy and I will make significant money in the end, way above the market return.
+
+Right now, I don't have the rules.
+
+Since it's short term price action, I suspect that I am going to be trading mean reversion, but I'll also be looking into breakouts.
+
+I roughly know what I want. I need to do the research, figure out the rules.
+
+I'll also be testing out the VWAP and the ORB systems on super volatile stocks.
+
+I just couldn't figure out a swing trading system for stocks that move 50% per day, but I might be able to use a daytrading system on them. In particular I want a system that I could use on the long side, since such stocks even though they are great short candidate have such low borrowing supply. I tried trading Tim Sykes style a decade ago, but could never get reserve any borrows with IBKR.
+
+I'll look into how Steven Dux does it and try to automate some of his strategies. Qullamagie also trades parabolic situations as well.
+
+I like those trades more than Stockbee style breakouts.
+
+I fucking hate earnings breakouts because so much of the time the stock does nothing after they happen.
+
+But I think I might be able to do better on them if I daytrade or swing trade for 1-3 days. I'll have to backtest the rules to be sure.
+
+11:05am. I just think it's very difficult to understand what works in daytrading by looking at the charts.
+
+I'll need the computer to help me analyze the price data.
+
+Also, I will have to look at how Andrea Cimitan does it. Maybe now it would be worth it to sign up to his course even if it's 6k.
+
+Not right now though, but at some point in the future if the job lead that I have now fails to manifest.
+
+I want to learn more about how they use volume to find profitable trades.
+
+There are a lot of leads, so before I dive into paid courses I'll first go over all the basics.
+
+It will take me months to build up the system. I haven't even gotten started on the studies.

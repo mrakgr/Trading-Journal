@@ -3417,3 +3417,108 @@ I want to learn more about how they use volume to find profitable trades.
 There are a lot of leads, so before I dive into paid courses I'll first go over all the basics.
 
 It will take me months to build up the system. I haven't even gotten started on the studies.
+
+11:25pm. https://youtu.be/klwnw3iSRuM?t=3256
+> A system which is fully automated, but not completely trusted is potentially lethal.
+
+https://youtu.be/klwnw3iSRuM?t=4300
+
+Here he talks that with 6 months of data, for a HFT trader would be petabytes of data they can look through.
+
+12:20pm. https://youtu.be/6tnREqUJ1WY
+Trading Backtests Are Misleading - Here's what to do instead
+
+Here is Lance Breitstein. I watched only one video from him, but I am sure he's real deal and not a fake that you often see on these kinds of trader interviews.
+
+![context](images/image-283.png)
+
+This is a very good video. All of these things that he is talking about could be good alpha.
+
+1pm. I really to figure out how to trade news at some point. I don't get it at all.
+
+He mentions Qullamaggie and says that the most important criterion for a momentum swing trade is a news catalyst.
+
+1:05pm. Yeah, you know what. After I do a basic VWAP system, I am going to put some time looking into news trading. Having an LLM to help analyze news could be a big source of alpha when combined with other systems.
+
+![vvos](images/image-284.png)
+
+I think I might subscribe to his Twitter as everything this guy is saying is excellent.
+
+Assuming I could put his advice to good use, I could make a lot of money.
+
+But I am not an active trader by nature. I don't want to trade the news personally. I want a system that could do that automatically.
+
+![](images/image-285.png)
+
+I think it maybe took me 2 decades to figure out that I am the first one.
+
+![](images/image-286.png)
+
+I won't be able to beat Chris Camillo using his method. I should at least give my strenghts a try.
+
+https://youtu.be/6tnREqUJ1WY?t=3364
+> Take the really crazy moves and just document and write them up.
+
+2:40pm. Maybe I could just pick out the news which could potentially be eventful and then let the 1-min VWAP system just daytrade that stock for the day. I wonder how well that could work?
+
+Also, pump and dumps after make huge initial moves, if I could capture some of the upside using daytrades, that could be hugely profitable.
+
+The intraday charts just look completely random to me, so the basic VWAP system could give structure to some of that.
+
+A lot the times I've observed that stocks make huge moves in the first 1-2h and then just sit there. I honestly couldn't figure out how that could possibly taken advantage of, but a VWAP system could do it.
+
+Like what is a good daytrade? You go long/short and the stock just goes in your favor for the entire day. The same applies for the longer timeframes.
+
+It'd just never occur to me use an always active moving average system with a 1 minute period.
+
+How could possibly something like that be profitable in index ETF trading? Crazy.
+
+I am pretty sure they did account for commissions in the paper.
+
+There has to be some kind of a catch, but the system does have all the main features that I'd look for: lets winners run, cuts losses quickly, takes not just price, but also volume into account.
+
+It also goes in at the first minute so it would catch all the best trades too.
+
+I always approached daytrading with the perspective of letting the morning session run out, and was wondering why the chart looked so random afterwards.
+
+I am just not smart enough.
+
+I can look at the highs and the lows on a chart and that is it.
+
+I couldn't have possibly backtested a system like the VWAP one in my head.
+
+If it was profitable for index trading, there is no way it won't be on shit tier pump and dump stocks.
+
+2:55pm. I guess it was inevitable. He's creating his own trading course.
+
+Lol, I'll get it eventually. That's not what's important right now.
+
+...Actually, he is saying that most of it will be totally free.
+
+Wow, he is the real deal.
+
+3:05pm. I am tired of videos. The one with Lance was especially good though.
+
+I want to start with the VWAP strategy, and figure out where it works and where it doesn't. No doubt once I apply it I'll find tweaks to make it better.
+
+The reason why I need backtesting is because daytrading edges are slim and I need to be objective in my trading.
+
+I already admitted that I couldn't have figured out the VWAP on my own. Who knows what else I might find if I focus.
+
+I am thinking back to volume profile, and maybe how I could find some volume clustering strategies.
+
+But I'll leave those advanced types of trading for later. No need to bother myself with that.
+
+I'd be much better off trying to figure out the market conditions that would make the basic daytrading strategy effective instead making a basic strategy advanced.
+
+5:30pm. The euro markets have such high fees. I'll focus on the US markets for daytrading strategies.
+
+Maybe if I traded CFDs on euro stocks instead...
+
+No. The trouble with that thought is that I want to trade the most volatile stocks there are, and CFDs are present only on the most liquid ones.
+
+![](images/image-287.png)
+
+Also no, the CFDs aren't any cheaper than trading shares directly on the european markets. What a shitty continent that I live on.
+
+Whatever faults the US might have, its financial markets are truly first rate.

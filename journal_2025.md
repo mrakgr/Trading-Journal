@@ -3605,3 +3605,85 @@ Programming is all about adding tools to your kit.
 I would hate to look for info arb opportunities like Chris Camillo, but I love learning new methods and techniques.
 
 11:25pm. Damn, the intro chapter of the The Playbook is brutal. His dad has a stroke and his mom dies. When he says that things will get worse, I decided to leave it for tomorrow.
+
+9/2/2025
+
+8:50am. Tried watching the vid by Roman on trading implied vol, but it is putting me to sleep. I think I'll just get the course by Lance, but first let me take a look at The Playbook again.
+
+Since I got fired my ego took a hit, and I feel a lot more vulnerable. It's going to take me a while to get that confidence back.
+
+Sigh, I did want to quit myself, but I didn't want to get fired. I think I could've gotten back on my feet with a week of vacation. It'd certainly have been a better choice for the company, if it cared at all about the project. I might say that Curtis doesn't have the skills for to do the project, but he has plenty of skills to just keep giving demos at the investor town halls for the next couple of years. This is just what the founders need. The primary business of the company is betting the treasury on crypto, so what does it matter if the project succeeds or fails? It's just a story they can keep selling to investors. That is the real product.
+
+I did well up to the final week of August when my two teammates pushed me towards burnout and then terminated me.
+
+I never want to work at a company where the owners don't care about what they are creating and are just treating it as just another of their 10 ventures that they have ongoing. Though, the new technology I picked up and the salary was very much worth it. If I had to do it, I'd do it all over again, and then just quit cleanly instead of burning out and getting terminated like I have. I cannot deny I was pretty much asking them to fire me in the last week.
+
+8:55am. At any rate, I need to find a better system than the one I have now. A system with tight risk control. The long term momentum system is far too lose and would get me killed on market crashes.
+
+If I could have tight stops and large profits, I will have made it.
+
+I'll just be able to keep playing the edge over and over to make money. The most important thing is to actually get the edge first.
+
+Having an edge, and the skill to take advantage of it is what separates pros from the amateurs at this game.
+
+Especially now that I can't top up when I am down using my salary, limiting drawdowns becomes much more important. When you need to make money, the psychology changes immediatelly.
+
+9:10am. In order to trade the long term momentum system I've described since the start of the journal, you need a relaxed and loose mindset. You need to just let the market do what it wants.
+
+I am not in the mood for that at the moment.
+
+![raw](images/image-293.png)
+
+This book is so damn raw, it's amazing. It feels like I am reading an upcoming classic. It gives the same vibe as Reminiscences of a Stock Operator.
+
+![](images/image-294.png)
+
+He is right. I haven't done this at all during the 2007 - 2014 period. I just did trades at random hoping to stumble into the winning system. I also did what Qullamaggie said not to do which is avoiding volatility.
+
+9:50am. In truth, the way I want to trade is to find the stocks with the strongest momentum and ride them long. But such stocks aren't like the long term momentum plays. They are pump and dumps that tend to crash hard and sudden. If I tried the 2 week system on them, I'd go broke soon.
+
+![promise](images/image-295.png)
+
+This book seems very promising. I'll change my approach a little. For swing and daytrading, I don't need long term backtesting spanning back decades. For swing trading I'll stick to the last 5 years, and for daytrading 1 year of data is enough.
+
+In fact the recent data is the most important. I just need some clue as to what the most important setups are and how to take advantage of them. I should create a system for every setup. Right now, I am just not sure how to daytrade other than the VWAP system. I'll have to figure out something better.
+
+![ta](images/image-296.png)
+
+I should look up these books. 'The Art and Science of Technical Analysis' and 'Technical Analysis Using Multiple Timeframes'.
+
+![tape reading](images/image-297.png)
+
+I'll have to look up the SMB Capital info. They have a Youtube channel that I never checked.
+
+![chart](images/image-298.png)
+
+This looks so good. These kinds of opportunities are in fact ideal for the VWAP system. If I can find trend days like these, I'll get rich quickly.
+
+But it'd be very difficult to swing trade these. Suppose I went short the previous day when EDU had the huge plunge, there is always the risk that it might spike up huge.
+
+Managing risk intraday is what really makes this trade work.
+
+You know, when all is said and done, I think I don't understand swing trading at all.
+
+I thought I did, but I don't. Specifically, I don't understand the risk management aspect of it.
+
+11:35am. I feel that just by understanding the VWAP system, I've gained a huge amount of understanding of intraday trading.
+
+I had an idea for a bid/ask system. I am wondering if there is a pattern in the bid/ask patterns over time. There will likely be patterns that can improve or reduce the odds of a trade after it is active and I should dissect the trades and look for them.
+
+Since the system is constantly flipping between long and short, it has a significant danger of getting whipsawed. I could add rules to stop trading after getting whipsawed more than a few times in a single day.
+
+12:05pm. I really feel like I could do it now.
+
+I understand the nature of randomness in trading and have come to accept it. I know that taking small losses and letting winners run will let me stay on the right side of trends.
+
+So I don't have to think too much of it. I just have to find really volatile stocks and follow those principles from the open. VWAP will improve my chances significantly, and I'll find other edges as well.
+
+I understand that I don't need to complicate things. The ideal is to just hold the trade as long as it's going in the direction of the trend.
+
+And compared to long term systems, every day in daytrading will give me a new sample. So I'll be able to iterate much faster.
+
+I understood for the VWAP system a very important thing.
+
+Compared to my momentum system, where I'd sell down after 1 month and hold for 3-9 months, in daytrading, I can sell after 1 minute and hold for 600. So the time I am in my winners compared to losers is much more loopsided.

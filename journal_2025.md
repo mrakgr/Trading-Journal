@@ -3686,4 +3686,22 @@ And compared to long term systems, every day in daytrading will give me a new sa
 
 I understood for the VWAP system a very important thing.
 
-Compared to my momentum system, where I'd sell down after 1 month and hold for 3-9 months, in daytrading, I can sell after 1 minute and hold for 600. So the time I am in my winners compared to losers is much more loopsided.
+Compared to my momentum system, where I'd sell down after 1 month and hold for 3-9 months, in daytrading, I can sell after 1 minute and hold for 389. So the time I am in my winners compared to losers is much more loopsided.
+
+1:45pm. Honestly, I am thinking what kinds of studies I can do and what my goal is.
+
+I had different ideas earlier, but I realized now that I should initially approach it much like studying super-performace stocks.
+
+For the past year, I should get a list of the biggest trend days in all the stocks, both positive and negative. And then I should test the VWAP system on that.
+
+That will tell me right away where there is anything to the system or not. Until I test everything out myself, I cannot be sure whether the paper is right.
+
+I'll get the best trend days, and test the system on those with the expectation that it should capture them in their entirety.
+
+Then I'll work back from that. Given the trend days, what are the conditions leading up to them.
+
+Then once I make the rules to get the conditions, I should test forward from the conditions which will give me both the trend days and sideways ones. And that will give me an accurate picture of the system.
+
+I'll be able to see whether there are ways of improving it from there.
+
+If my goal is to capture the trend days, I think that any rules I can add to the system will be defensive in nature.

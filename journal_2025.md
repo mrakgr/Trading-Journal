@@ -3705,3 +3705,19 @@ Then once I make the rules to get the conditions, I should test forward from the
 I'll be able to see whether there are ways of improving it from there.
 
 If my goal is to capture the trend days, I think that any rules I can add to the system will be defensive in nature.
+
+2:10pm. > You may have noticed SMB added The Options Tribe, an options trading and education arm.
+
+He mentioned in the earlier paragraph that some traders which couldn't hack it in equity trading were successful in options. I should check out the SMB offerings.
+
+3:20pm. ![](images/image-299.png)
+
+Yeah, this killed me in the last decade. I learned from that mistake this time around.
+
+3:55pm. I am currently 104/484 pages into this book. The culture of continual improvement that SMB embodies is something I find appealing.
+
+Some companies have the philosphy of wanting their workers to be fungible, but as a consequence the top performers will never want to perform at those place.
+
+4:05pm. Stopping for some exercise. I am enjoying The Playbook. It's good therapy after the termination. I am still sore about it. I have no idea when I will get over it.
+
+Since I am aiming to be a quant I don't have to stress myself about winning at trading. I should just have fun coding up bots to do it for me. I'll be trading in sim mode initially anyway.

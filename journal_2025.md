@@ -3721,3 +3721,103 @@ Some companies have the philosphy of wanting their workers to be fungible, but a
 4:05pm. Stopping for some exercise. I am enjoying The Playbook. It's good therapy after the termination. I am still sore about it. I have no idea when I will get over it.
 
 Since I am aiming to be a quant I don't have to stress myself about winning at trading. I should just have fun coding up bots to do it for me. I'll be trading in sim mode initially anyway.
+
+5:15pm. 121/484.
+
+![trade example](images/image-300.png)
+
+These trade examples are extremely valuable. This is an amazing book.
+
+I am also starting to appreciate that there are amazing intraday trends in stocks.
+
+I could probably apply my momentum philosophy in a different manner in this timeframe.
+
+Last decade I didn't even consider daytrading as a possibility, but maybe it will turn out well?
+
+Hmmm, for stocks in play that have this kind of volatility, just how will I do position sizing?
+
+It's something I'll have to figure out.
+
+https://www.amazon.com/Playbook-Inside-Think-Professional-Trader-ebook/dp/B08S487RPX
+
+Let me just link to this for once on Amazon as a way of promotion, since I've been posting excerpts without permission in this public journal. 
+
+Hope I don't get struck by a copyright notice from SMB :)
+
+Oh damn it, the last I time I wrote something like that, it was: 'Hope I still have a job tomorrow :)' in the `team-dev` channel on Discord.
+
+...Lol.
+
+5:30pm. Ah, who cares if I have to take the journal down. If the world wants me to take it down, I'll take it down. If the company doesn't appreciate the craftsmanship in my software dev work then I'll move somewhere else.
+
+That is the right way to live.
+
+Putting the quality of your work above the job itself is how a true programmer should be. If I wanted to be a normie collecting a paycheck, I would have done it. I want to eat what I kill.
+
+9/3/2025
+
+6:50am. Yesterday I was depressed, but today I am willing to acknowledge my mistakes.
+
+Sure, it was my two teammates who put me on tilt which culminated in my firing, but to say that I failed to control my emotions doesn't go to the meat of the matter. I simply made a mistaken assumption from the start that I stubbornly refused to correct in the face of all evidence.
+
+From the very first PR in the early months at the company where C(urtis) rewrote part of my F# codebase in shitty Python, ignoring my advice to use types as well as other requirements I explicitly told him he should do, and I ripped his work in the review, and he started withdrawing as a result, I thought that with criticism and guidance, he could grow into a software dev that I could work with. When he started withdrawing, both me and L(ogris) treated him with velvet gloves and excused his unfriendly behavior. I was doing all my work very publically in the `team-dev` channel on Discord, making 100s of posts a day, literal walls of text like in this journal, while he had always set his status on invisible and there were many days where didn't bother to even login to say hi. This culminate in us doing the ICF project independently in two separate repos. I had my own work done publically in a repo owned by Ceti, but C was doing his work in his own private repos that me and L weren't even aware existed.
+
+When this came out, we made a deal that he would learn some F#, and the very next week (the one where I got fired), he snubbed me and broke his deal.
+
+I went on tilt, even started to argue and become insubordinate to L, and this pushed me towards burnout, and then I got fired. I suspect that C might have shown some of the smack I was saying about the founders in the `team-dev` group to them.
+
+My mistake was simply the deep seated desire to both cooperate and maintain high technical standards in my work. When C made cooperation impossible, I simply wasn't prepared for it. My main mistake was from the start assuming that he was a teammate and not an adversary. Because why would he be an adversary? Is learning F# that hard?
+
+I guess for some people it is. They'd rather get me fired and do a highly concurrent backend project in crappy, untyped Python than listen to any of my advice ever or attempt to learn what I am trying to teach them.
+
+I can only see this as a learning experience.
+
+The job definitely didn't go as per plan.
+
+One factor why I assumed that he would change direction towards improving himself is because constant praise C received by L. He kept telling him how willing to learn C was and how better he was than the rest in their previous job, and how courageous and willing to learn and pick up new things he was. So I just assumed that my initial impression of him was mistaken, but it wasn't. It was right on point! I shouldn't have let L influence my opinion of C. Whatever he is, he isn't a good learner!
+
+In our last meeting, L was telling him of his previous experiences and it seems where C was good had all to do with dev ops! It occured to me as L was talking that all the languages he mentioned that C was supposedly good at were configuration languages.
+
+And indeed from what I've seen, C is good at devops just as L says!
+
+Agh.....
+
+Dev ops has barely anything to do with software engineering. Templating configuration files for Kubernetes or CI/CD pipelines is significantly less complex than doing actual software engineering. 
+
+But at the same time it requires a lot of system specific knowledge, so I hate doing it. C actually loves it.
+
+7:15am. This is so messed up. Indeed, C could make the argument that I didn't respect (and recognize) him for what he was. I definitely didn't.
+
+Ah whatever. This was my first full time job as a programmer, so I was bound to make a few misjudgements. As far as I can tell, I never failed once on the technical side, so that is fine.
+
+Social aspects were never my forte, I never had the experience for them. 
+
+Ignoring that once per week job with Aman where he went over the line and I quit, this was my first time interacting with other professionals. I'll definitely learn from this.
+
+I managed to pick up quite a few new tech. Even on the .NET side, I've learned a lot about .NET channel based concurrency and how to do ASP.NET microservices. In my own personal workflow, I learned how to use WSL and moved to doing all my work in it. I learned quite a lot about Docker and a little about Kubernetes writing numerious configuration files for them. I learned shell scripting both in Bash and Powershell. I learned about hosting LLMs as servers using vLLM and various other frameworks. I've worked remotely with HGX machines that had 8 H100 GPUs in them. I've debugged Go code written by others successfully. I've made integrations with 3rd party demand sources like OpenRouter and the Zapier and Make platforms. I've written LLM benchmarking code and created interactive charts from the compiled data. I've written websites that can interact with vLLM hosted models. I've done the Stripe integration for that website, and build both the frontend in React and the backend in ASP.NET. I've also made image generation using ComfyUI hosted models on the backend possible on that same website. I've done language model demand prediction using time series models. I've also done revenue optimization using Minizinc with the SCIP solver; the job was to find ways of optimally hosting LLM models on various machines given the demand predictions made by the time series model. I've worked with event based databases such as KurrentDb. And the ICF itself is essentially highly scalable reverse proxy that does request dispatching from various demand sources to various provider clusters in the system, that is also integrated with the revenue optimizer which we called the autoscaler, and uses the event db that I mentioned to store data. 
+
+Before my firing, I was going to implement request monitoring so the dispatcher could do routing optimally, as well as billing, and it would have been way easier to do that using an event db than a SQL db. C was using an SQL db in his own independent version of the ICF project, complete ignoring, as is usual, all the research that I was posting in the `team-dev` channel on Discord.
+
+I am not sure what version, my own or C's now that I am gone from the company, but if they go with C's poorly done work and L's unrefined design, they won't get anywhere. I'll ask L about it after the company goes under in the upcoming crypto bear market.
+
+I cannot complain about the pay. I got what I was promised, and it was very good.
+
+I need to keep an eye on the Tao Ceti token. L mentioned that there might be buyers due to the upcoming treasury deal. I want to exit my position if the demand is there. If only I could also remove the tokens that I've staked that would be great. Not sure if I'll be able to do so because I staked them in early February. So I won't be able to take them out until Feb 2026. I regret doing that so much now. In fact, it didn't take long after I've done that to start feeling regret.
+
+I staked the Ceti tokens to earn more of them and then 3 months later the price was down over 80%. It's so illiquid that I couldn't sell it even if I wanted to until a buyer steps in.
+
+Back in May I desperately wanted that we start hosting LLM models on places like OpenRouter, so we could plug the revenue hole and get the token price up, but for some reason the CFO couldn't open a Stripe account for the company despite it taking months. It turned out that the shady structure of the crypto company made Stripe not want to do business with it.
+
+8am. Yeah, I acknowledge my mistake and vow to do better next time.
+
+Yesterday I was feeling depressed, but I feel better today.
+
+Now that I have both the experience and financial backing to give me confidence, I'll be able to negotiate better jobs in the future.
+
+8:20am. You know, let compare my final cash balance with my deposits on IBKR. I am actually not sure how much I am down compared to how much I desposited.
+
+Ok, I've compared the deposits to my current balance, and it seems I am up 4.4% for the year.
+
+...That's actually nice. I thought I was down 10% or something.
+
+8:25am. There is no point in blaming C for anything. Some people simply don't have the talent and the desire, and I didn't accept that, which made me frustrated. I put my hand into the fire and got burnt. I acted unprofessionally. I didn't have a plan for the situation and reacted emotionally.

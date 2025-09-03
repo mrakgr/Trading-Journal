@@ -3821,3 +3821,15 @@ Ok, I've compared the deposits to my current balance, and it seems I am up 4.4% 
 ...That's actually nice. I thought I was down 10% or something.
 
 8:25am. There is no point in blaming C for anything. Some people simply don't have the talent and the desire, and I didn't accept that, which made me frustrated. I put my hand into the fire and got burnt. I acted unprofessionally. I didn't have a plan for the situation and reacted emotionally.
+
+10:30am. https://youtu.be/mRWLQGMGY80
+I was wrong about AI costs (they keep going up)
+
+This is very relevant to me since I was in an AI company until recently. I had no idea how bad the token costs are getting. From I can tell, reasoning doesn't even do that much, it's just a LARP by the models, so the AI companies are pretty much killing themselves for no reason.
+
+I used to host Deepseek models and switched back to Llama as it wasn't wasting my time with the reasoning LARP.
+
+https://youtu.be/6TMPWvPG5GA
+Please stop vibe coding like this
+
+When Theo is good, he's very good.

@@ -3881,3 +3881,11 @@ I could put in templates of successful and unsuccessful trades and have the syst
 I am definitely putting this advice to use now.
 
 I think merely the process of attempting to automate my trading should break a lot of the misconceptions and delusions that I have about trading. I'll definitely get better in the attempt.
+
+![college traders](images/image-302.png)
+
+I technically started trading during my college years too. In fact, I dropped it to pursue trading. I won't let it play out like it did last time.
+
+Just like there are good and bad discretionary traders, there will be good and bad quants.
+
+I am going to put all of my pride as a programmer to succeed this time. I won't be attacking it as a gamer, but using the very talent at which I am strongest. Sigh, there are so many people ahead of me. Let's just take it one step at a time. If I live a long life, I'll get the power to take advantage of my experience.

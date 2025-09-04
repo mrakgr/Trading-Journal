@@ -3833,3 +3833,33 @@ https://youtu.be/6TMPWvPG5GA
 Please stop vibe coding like this
 
 When Theo is good, he's very good.
+
+1:40pm. Last Thusday, I really wanted to go to the beach with my brother and one of his friends, but I had to work. Now I am free to do what I want.
+
+So far I am 200/484 pages into the book. I had a talk with my accountant and we'll keep the company open for the next 2 months before closing it. I want to see if the job lead pans out otherwise I'll close the company and reopen it later. I won't worry about it. A few months of expenses here and there won't make a difference.
+
+9/4/202
+
+8:05am. I slept well until I woke up an hour or two ago and couldn't get back to it. I wish I could get a bigger fill. But that's the usual for me.
+
+I am still thinking about what trading ideas to test.
+
+I had a plan and then changed it to waiting, which proves that I don't believe in it. But it's not like its baseless. The best RR is within couple of months after a panic, after that the uptrend slows and there is risk of topping.
+
+But it's not like it's even topping right now apart from euro defense stocks.
+
+So I could just be wasting valuable opportunity.
+
+But at the same time I am not willing to hold on a monthly basis to find out. If I had a good system for it, I'd be willing to do short term swing trades that have tight stops and limited risk, but I don't want to hold through month long declines.
+
+So I have to find that system.
+
+I think the VWAP system is right for daytrading, and the results for it will most likely turn out to be valid, but using it in the real world would kill me with slippage especially if I tried it with large positions. Nothing will ever turn out to be easy. I'll have to use it as a basis and work on my own execution.
+
+The only advantage I have is that my account is small, so I might be able to trade it if I buy on the bid rather than the ask. With it as a basis, I could consider holding after the close for longer term swing trades, pulling my stops up just below previous day lows.
+
+8:15am. I need to have the computer help me do the studies. I need to find out the tendencies of the market and where my edge lies exactly in an objective manner. You can only do so much staring at the charts. Some people could, but I am not one of them. I've proven that much already.
+
+I am not a talented trader by any means, and right now I am not even a skilled one.
+
+8:20am. I should just take the time to do it properly. Now everything is going for me. A 6 figure account, time and the programming skill. If I cannot win under these circumstances, I never will. Even if the market continues roaring higher, I should forget about FOMO. The true money will come from my knowledge and skill, not from stocks going up.

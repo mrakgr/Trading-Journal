@@ -3865,3 +3865,5 @@ I am not a talented trader by any means, and right now I am not even a skilled o
 8:20am. I should just take the time to do it properly. Now everything is going for me. A 6 figure account, time and the programming skill. If I cannot win under these circumstances, I never will. Even if the market continues roaring higher, I should forget about FOMO. The true money will come from my knowledge and skill, not from stocks going up.
 
 8:40am. Just who would be foolish enough not to feel fear in this situation? But I want to move forward from 6 to 7 figures, I need to learn how to trade. Forget about learning to be the best. I just need to become profitable. Much like in 2007 - 2014, I haven't changed and the year will end on a breakeven note. I missed the real leaders and didn't rotate quickly enough. But it does feel I am a bit better than during that period now. It's just not enough. It's not nearly enough.
+
+8:50am. The way the Tao Ceti job ended was pretty stupid, but I have to keep going forward. I'll just believe in myself and the skills I've been accumulating for the past decade.

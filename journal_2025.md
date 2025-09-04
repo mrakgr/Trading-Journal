@@ -3863,3 +3863,5 @@ The only advantage I have is that my account is small, so I might be able to tra
 I am not a talented trader by any means, and right now I am not even a skilled one.
 
 8:20am. I should just take the time to do it properly. Now everything is going for me. A 6 figure account, time and the programming skill. If I cannot win under these circumstances, I never will. Even if the market continues roaring higher, I should forget about FOMO. The true money will come from my knowledge and skill, not from stocks going up.
+
+8:40am. Just who would be foolish enough not to feel fear in this situation? But I want to move forward from 6 to 7 figures, I need to learn how to trade. Forget about learning to be the best. I just need to become profitable. Much like in 2007 - 2014, I haven't changed and the year will end on a breakeven note. I missed the real leaders and didn't rotate quickly enough. But it does feel I am a bit better than during that period now. It's just not enough. It's not nearly enough.

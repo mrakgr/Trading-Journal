@@ -3889,3 +3889,5 @@ I technically started trading during my college years too. In fact, I dropped it
 Just like there are good and bad discretionary traders, there will be good and bad quants.
 
 I am going to put all of my pride as a programmer to succeed this time. I won't be attacking it as a gamer, but using the very talent at which I am strongest. Sigh, there are so many people ahead of me. Let's just take it one step at a time. If I live a long life, I'll get the power to take advantage of my experience.
+
+10:15pm. Even I got back into the market today, and put the money into different momentum bets, and they went up big, that wouldn't mean anything. It wouldn't be me succeeding at the game as a programmer. I'd have made money, but I wouldn't have learned a thing. There are proper and improper ways to win. I am all about propriety, and following the true way. I will find it.

@@ -3930,3 +3930,12 @@ Once I cross that part, maybe I'll start making vids, but let me leave that for 
 2:30pm. 264/484. I don't trust myself at all. A giveback rule wouldn't be a bad idea for me. In fact, it's not voluntary at their firm.
 
 2:40pm. Beach time.
+
+8:10pm. The WCE screencast was well worth watching. A recording of it will be posted on their Youtube channel probably.
+
+https://squeezemetrics.com/download/white_paper.pdf
+![gex](images/image-305.png)
+![gex 2](images/image-306.png)
+
+I never knew this before. Knowing about GEX (gamma exposure) is very insightful. Negative values should amplify the chances of there being a trend day while positive values will constrain it to a range. This is something I should test for when I backtest the VWAP model. I'll try constraining it to low GEX values and see if that improves returns any when I do the backtesting.
+

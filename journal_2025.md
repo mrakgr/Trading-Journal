@@ -3867,3 +3867,17 @@ I am not a talented trader by any means, and right now I am not even a skilled o
 8:40am. Just who would be foolish enough not to feel fear in this situation? But I want to move forward from 6 to 7 figures, I need to learn how to trade. Forget about learning to be the best. I just need to become profitable. Much like in 2007 - 2014, I haven't changed and the year will end on a breakeven note. I missed the real leaders and didn't rotate quickly enough. But it does feel I am a bit better than during that period now. It's just not enough. It's not nearly enough.
 
 8:50am. The way the Tao Ceti job ended was pretty stupid, but I have to keep going forward. I'll just believe in myself and the skills I've been accumulating for the past decade.
+
+![intense](images/image-301.png)
+
+This book is so intense. I have to say that working so hard to be a successful discretionary daytrader doesn't appeal to me. I'll have to really put in the work if I want to automate the process completely.
+
+Maybe I could design a memory system for swing trading. If I aim for 3-5 day swings I could uncover something.
+
+I could put in templates of successful and unsuccessful trades and have the system pattern match and trade based off that. What really matters is the price action after the trade is made rather than what preceedes it for such a system.
+
+> Give me six hours to chop down a tree, and I will spend the first four sharpening the axe. —Abraham Lincoln
+
+I am definitely putting this advice to use now.
+
+I think merely the process of attempting to automate my trading should break a lot of the misconceptions and delusions that I have about trading. I'll definitely get better in the attempt.

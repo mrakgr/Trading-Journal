@@ -3926,3 +3926,7 @@ Once I cross that part, maybe I'll start making vids, but let me leave that for 
 2pm. Back when I was active, I used to read the TraderFeed blog daily. Brett Steenbarger's posts were a fun read. The post that stick out in my memory is where he chastised a daytrader for not doing research about how the market acts during the open, and instead doing the research only wanting just some cheap psychological cool-aid. The reason that sticks out is because I was guilty of that same error and yet decided not to go out of my way and fix it.
 
 261/484. He's been mentioned a few time in the book like on this page.
+
+2:30pm. 264/484. I don't trust myself at all. A giveback rule wouldn't be a bad idea for me. In fact, it's not voluntary at their firm.
+
+2:40pm. Beach time.

@@ -3891,3 +3891,38 @@ Just like there are good and bad discretionary traders, there will be good and b
 I am going to put all of my pride as a programmer to succeed this time. I won't be attacking it as a gamer, but using the very talent at which I am strongest. Sigh, there are so many people ahead of me. Let's just take it one step at a time. If I live a long life, I'll get the power to take advantage of my experience.
 
 10:15pm. Even I got back into the market today, and put the money into different momentum bets, and they went up big, that wouldn't mean anything. It wouldn't be me succeeding at the game as a programmer. I'd have made money, but I wouldn't have learned a thing. There are proper and improper ways to win. I am all about propriety, and following the true way. I will find it.
+
+10:35pm. 
+
+> So if you’re a college student who doesn’t have enough capital to trade with your discount online broker, burn the boats!
+
+WTF? Sounds nice, but it's not easy to get a trading stake in the real world. Not having sufficient capitalization is one of the major reasons why I couldn't make it in the past decade. Hell, it wasn't easy to get a programming job either. I had to do it for close to a decade and was putting out videos on my Youtube channel just to get a chance in the door.
+
+Making money is hard. Trading or coding.
+
+> If you are making a bounce play, you must buy more when the stock holds higher. If you cannot, then eliminate this trade from your PlayBook. The math will not work for you then.
+
+Huh, really? It's actually a requirement to add on the way up in order to maximize expectancy?
+
+This gives me a lot to think about regarding system design.
+
+![stocks talk to you](images/image-303.png)
+![stocks talk to you 2](images/image-304.png)
+
+Lolol. I want to work there.
+
+12:05pm. I've decided. I don't think swing trading without first mastering intraday trading is possible. I am going to dedicate some sim time to intraday trading, watching the tape and so on.
+
+I am already at the point of understanding the importance of time stops, averaging up in 2 week steps after panics, so I can apply some of those principles to intraday trading.
+
+1:40pm. It's so great that I now have time to relax. Just like yesterday, today at 3:30pm I'll be going to the beach, to get some R&R.
+
+After come back the WCE live session is waiting for me.
+
+And after I finish the book, I'll leave Lance's course for later, instead just dive into quant research. The first thing to take care of will be getting the data. I'll have to do some research where to get it from, starting with the IBKR API.
+
+Once I cross that part, maybe I'll start making vids, but let me leave that for later.
+
+2pm. Back when I was active, I used to read the TraderFeed blog daily. Brett Steenbarger's posts were a fun read. The post that stick out in my memory is where he chastised a daytrader for not doing research about how the market acts during the open, and instead doing the research only wanting just some cheap psychological cool-aid. The reason that sticks out is because I was guilty of that same error and yet decided not to go out of my way and fix it.
+
+261/484. He's been mentioned a few time in the book like on this page.

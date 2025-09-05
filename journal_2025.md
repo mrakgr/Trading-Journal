@@ -4048,3 +4048,73 @@ For the Opening Drive plays, I should definitely code a bot to do them as they r
 Don't want to be clicking buttons while the market is moving quickly.
 
 11:35am. I could probably replace price stops with time stops and momentum, as well as VWAP and still be profitable, but I will have to further research.
+
+6:30pm. I am back from the beach...
+
+This is weird, there are definitely entries missing from the journal?
+
+No, I wrote in an email that I was going to the beach. I am confusing things.
+
+> In our training program, The SMB Foundation, we have our traders practice entering orders for ten minutes a day, every day until they are fast. You are an electronic trader. You cannot be slow and error prone. It is like being a concert pianist and thinking it’s okay to mess up during a live performance. It’s not. Practice entering your orders.
+
+His reply to a losing trader's email is so classy. I'll probably need practice entering orders if I try doing the demo mode manually.
+
+> I have urged in my writing to master the best setups, often clean trending moves. And also to not spend a great deal of time trying to master the shakeouts. 
+
+Good advice.
+
+7:05pm. 400/484.
+
+> Excellent. And one last point about this trade is that when you can combine the idea with tape reading, then you can load the boat with minimal risk. 
+
+Here they are talking about the pullback trade. Compared to buying breakouts I could never understand it, but I think that a lot of my market misunderstandings come from lack of good intraday trading skills.
+
+I just need to get better.
+
+A decade ago, I was always resticted.
+
+* By my account size. The PDT rule pretty much excluded me from daytrading.
+* By the need to come up with a silver bullet.
+* By the need to win as quickly as possible to both not waste time and prove my brilliance to the world.
+
+But even without all those restrictions, I doubt I could have won. My main issue is that I simply didn't have an edge, and didn't know how to build one.
+
+This chapter really promotes coaching and mentoring and the reasons he gives out make sense to me. I'll seriously consider mentoring after the initial analysis phase.
+
+This part where they mix different timeframe for the same trade does feel wrong.
+
+![wrong](images/image-308.png)
+
+I really dislike this. These kinds of explanations is fundamentally the wrong way to teach and instead what it be replaced with is statistical data.
+
+![hmmm](images/image-309.png)
+
+Hmmm, I saw this often on the daily charts...
+
+A huge selloff, a short bounce, then another high intensity sell off. Then comes a bounce that actually works.
+
+Well actually, no. I am thinking about the quantum stocks like D-Wave and Rigetti. Those had huge 1 month momentum followed by 60% selloffs. They had short failed bounces followed by right ones.
+
+![QBTS](images/image-310.png)
+
+If I could have caught some of those green bars during the day, that could have made my month. The same goes for the red bars.
+
+![NVTS](images/image-311.png)
+
+I am looking at NVTS and wondering if there is any point to this, but to daytrade it?
+
+That big upday in July was such a wonderful Opening Drive play. But what would the others who were swing trading or position trading it get?
+
+Jack shit.
+
+It had a good pattern premarket on July 21. The 5 min bars go up just by about that much.
+
+Trying to play the swing trade in start of August would get you killed on the gap.
+
+Yeah, I get it. I should do my best to make a profitable daytrading system. Volume definitely matters a lot.
+
+7:50pm. Let me get back to the book. I'll definitely finish it tomorrow.
+
+And I'll move on to Lance's course. I don't feel like programming just yet. It has been exactly a week since my firing, and my psychological state is starting to improve, but not so much that I want to work.
+
+So I'll play like this.

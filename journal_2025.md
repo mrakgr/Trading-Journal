@@ -3939,3 +3939,38 @@ https://squeezemetrics.com/download/white_paper.pdf
 
 I never knew this before. Knowing about GEX (gamma exposure) is very insightful. Negative values should amplify the chances of there being a trend day while positive values will constrain it to a range. This is something I should test for when I backtest the VWAP model. I'll try constraining it to low GEX values and see if that improves returns any when I do the backtesting.
 
+For my OBR strategy I should be looking at assets with negative GEX values.
+
+9:05pm. 295/484.
+
+> So I just want to offer this idea. This is helpful to me, which is, a lot of times when you start to get bigger, you get apprehensive to cover. You don’t want to give back your open P&L. And a really helpful thing to do, for me, is to set automatic stops and let the stops do their thing. So if you are short three or four lots and you have an issue of covering too early, one of the things that’s helpful is just to say “Look, this is either going to go to my target price, or I’m going to get stopped out. What’s the right thing to do?” The right thing to do is if I’m this big, it’s to get stopped out. So I just put my stops in and I let myself get stopped out. (Move the stops up as the trade is working for you.) That’s a very helpful thing when you are trading with bigger size. Not to cover too early in a position like this. Anyone do something similar?
+
+More sagely advice. Stops should be put in whenver you start to get relaxed about a position.
+
+9/5/2025
+
+7:20am. Wow, I seem to be getting up earlier and earlier. I am sleeping well during the actual sleeping periods, but I could do without the early morning wakeups. But this is not bad.
+
+I guess I am enjoying myself learning trading again. Change of plans, after I finish the book I'll dive into Lance's course after all. I'll get it for 40$ from somewhere and start studying it. Only after that will I start studying on my own.
+
+It's very weird. I never expected my full time re-entry into trading would be with daytrading.
+
+I recall Qullamaggie said he started out by trading opening range breakings, and I want to follow in his footsteps.
+
+> Make a habit of judging every technical level you view from one to ten. This will help build your charting skill.
+
+I think I do this subconsciously already, but it wouldn't be bad to make it explicit. Of course, rather than doing it how they do, it would be better to use a volume profile. WCE taught me that.
+
+> (And, seriously, if you need some more capital, you are consistently profitable, and you need someone to take your added downside risk, give SMB, or a firm like ours, a ring. This is what a true prop firm does.)
+
+Yeah, now that I have the leeway to improve my skills in the worst case, if I can get good, then prop firms are an option.
+
+9:10am. I wonder what the theory behind Opening Drive plays is.
+
+All I know is that getting in at the close of the first 1-min opening bar in the direction of VWAP is a good idea.
+
+The VWAP system proves as much.
+
+I just can't wait to start backtesting things. It's going to give me so much insight. Backtesting is replacing my own eyes with eyes of the machines. I couldn't see it before I became a programmer, but using a computer to help me trade will open me up to the kinds of reasoning that would be impossible as a human being otherwise. I am really looking forward to it.
+
+It will just give me so much more tools at my disposal that will raise my odds of success significantly.

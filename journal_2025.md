@@ -4012,3 +4012,39 @@ I can't say my coworkers taught me anything (apart to not go on tilt) but the ef
 It gave me the power to do that I want, and it gave me a trading stake. And now it will give me the power to beat the market.
 
 I will find the edges and exploit them.
+
+10:55am.
+
+> The advantage of a stock printing in the after-hours and in premarket is that it gives us clues on how it will behave when the market opens. There are certain after-hours and premarket setups that make us more confident that there will be an opening drive.
+
+I wonder what the premarket price action he is talking about is?
+
+> Yeah, and when these trades don’t work, you take a pretty big rip, and you’ll start your day with a pretty big loss....
+
+These trade reviews are so good. They are talking about it as an advanced trade.
+
+> I think one of our better technical analysis trades is when something explodes from a resistance level, has a nice up move away from a resistance level, and then pulls back to that price again quickly. This is a good area to buy. It’s a very strong and powerful technical analysis trade.
+
+I think I often saw this pattern.
+
+> So you might not be great at buying things that necessarily pull back, but you might want to make a distinction that when something was at resistance and it moved away from that resistance very strongly [and] then pulls back on light volume to that price, that’s a very solid technical trade.
+
+In fact, the Nikkei panic trade on which Lance Breitstein made 10m was exactly this sort of pattern.
+
+It sold of hugely, had huge snap rally, and then sold off slowly back to resistance before starting to climb back up.
+
+Tbh, when it comes to buying down, I am never sure where to put my stops, so I'd rather buy down and get out if it doesn't work in 15m or so.
+
+The usual time based system that I am using for my longer term trades.
+
+The most important thing is that the edge be there in a trade, not that I use price stops.
+
+These kinds of trades have a cup pattern, so it'd be good to buy when the selling start to run into real resistance and the price starts curving up.
+
+11:30am. I need to trade based on momentum principles, I just have to find out where they can be applied intraday.
+
+For the Opening Drive plays, I should definitely code a bot to do them as they require strong execution skills.
+
+Don't want to be clicking buttons while the market is moving quickly.
+
+11:35am. I could probably replace price stops with time stops and momentum, as well as VWAP and still be profitable, but I will have to further research.

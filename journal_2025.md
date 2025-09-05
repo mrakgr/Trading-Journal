@@ -4118,3 +4118,42 @@ Yeah, I get it. I should do my best to make a profitable daytrading system. Volu
 And I'll move on to Lance's course. I don't feel like programming just yet. It has been exactly a week since my firing, and my psychological state is starting to improve, but not so much that I want to work.
 
 So I'll play like this.
+
+8:30pm. I am turbo skeptical that it's possible to just mix timeframes on the same pullback trade. But I do think there is something to the swing trading breakouts from low points. Maybe that is what Minervini is doing?
+
+I think that perhaps for swing trading the key might be to find positive intermediate momentum, short term oversold conditions and buy the bounce from the lows.
+
+If I could chain this with intraday trading for tight risk control maybe something could come of it.
+
+10:20pm. Finished the book.
+
+It was a great read. Tomorrow I'll try getting Lance's course. That will give me even more ideas for the playbook.
+
+![GLD](images/image-312.png)
+
+Why bother doing trend following on the longer term timeframes when you can try catching them on the intraday timescales?
+
+10:30pm. One thing I am absolutely sure of after reading this book is that the bog standard VWAP system won't be enough. I am going to have to learn to scale my positions up and down, much like I do in my longer term trading.
+
+In fact, besides trading ETFs which was a mistake in itself, I should rotated a third of my position out of them as soon as they started having negative and flat months and into better instruments.
+
+Let me list my mistakes:
+
+* Not waiting for a proper panic in the market before buying.
+* Putting my money into the wrong ETF - ESPO.
+* Putting my money into the wrong ETF again - ASWC.
+* Putting the money into the right ETF - DEFS, but not realizing it had a more liquid alternative.
+* Rotating from the ETF into the wrong stocks.
+* Not being flexible enough to bet groups coming up from weakness and being fixated on the 'leaders' the whole time.
+
+My mistake currently could be that I am out of the market, but it's a special situation so I'll leave it aside.
+
+Pyramiding up would have been more impressive had I started from the April lows. I had it in my mind that euro defense stocks were leaders and that didn't work out well.
+
+I'll learn from this mistake next time.
+
+But...
+
+Yeah, I need to learn to trade the news and follow in Qullamaggie footsteps. There is a huge amount of opportunity in that kind of trading that I shouldn't ignore. All kinds of powerful intraday trends that I can take advantage of. Long term momo trading doesn't come close to daytrading in terms of opportunity.
+
+10:35pm. Let me go get dinner and I'll go to bed. Tomorrow, the learning continues.

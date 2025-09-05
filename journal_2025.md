@@ -3974,3 +3974,41 @@ The VWAP system proves as much.
 I just can't wait to start backtesting things. It's going to give me so much insight. Backtesting is replacing my own eyes with eyes of the machines. I couldn't see it before I became a programmer, but using a computer to help me trade will open me up to the kinds of reasoning that would be impossible as a human being otherwise. I am really looking forward to it.
 
 It will just give me so much more tools at my disposal that will raise my odds of success significantly.
+
+9:15am. 349/484. This book is 10/10 so far. It has so much actionable advice, I'd put it even above Reminiscences.
+
+![challenges](images/image-307.png)
+
+I should start off by trying to do all these things except for trading bigger. I want to trade the most volatile stocks out there. The ones most likely to make huge moves from open to close.
+
+> Next, as mentioned at the beginning of this chapter as we discussed taking on more risk with your trading, you also want to invest in your trading advancement. Dabble with higher-price and bigger-spread stocks. Attempt Opening Drive Plays. Play with stocks that are more volatile. Start with 100 shares. Just try it. Invest in your trading career by taking some growing pains losses in these high beta stocks and bigger-spread stocks. Consider this your investment in your trading education for additional trading strategies.
+
+9:40am. 351/484. Holy crap. I really should only use stops if the price closes at 1 min bar. Otherwise the HFTs will eat me alive.
+
+I am really going to have to create a bot specifically for executing trades. I don't want to enter them manually instead I need to build a dashboard that I can click on and have it buy just above bid and pull them up at a set interval.
+
+Also, I don't want to trade VWAP all the time. I want that during the opening times, but then I want to loosen up and add to my winning trades.:
+
+10:30am. 365/484. This kind of trade would chop the VWAP system. Also the OBR system.
+
+I'll have to manually decide what kind of system I want to use for each particular situation.
+
+I guess for some stocks, I will have to buy the opening dip and only switch to VWAP trading 10m in.
+
+I will decide how I want to trade things during the backtesting phase. This trade he showcased feels quite tough.
+
+> Use after-hours and premarket trading to gain an edge.
+
+I need to figure out how this part works.
+
+10:40am. I am reviewing some of the backend related skills I (independently) learned while working at Tao Ceti, and I've realized that gRPC + channel based concurrency + ASP.NET servers will make creating the trading bots much easier. Some thoughts:
+
+* I had no idea about how useful gRPC is before I started work on the ICF project. Learning it was a major gain.
+* Channel based concurrency was something I was already very well versed in, but not using the std lib .NET `System.Threading.Channel` classes. Discovering those and making use of them was a significant gain. As much as I like the Hopac library, I created the Spiral language server using it, it's abandonware at this point. It's better practice to use native .NET channels and tasks.
+* I got some serious experience in designing and implementing ASP.NET backend application while on the job. Right now I am much more confident about the right way of doing things is.
+
+I can't say my coworkers taught me anything (apart to not go on tilt) but the effort I put in is its own reward. Programming rewards continuous cultivation and going outside one's comfort zone. I definitely don't have a single reason to regret the last decade.
+
+It gave me the power to do that I want, and it gave me a trading stake. And now it will give me the power to beat the market.
+
+I will find the edges and exploit them.

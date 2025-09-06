@@ -4157,3 +4157,45 @@ But...
 Yeah, I need to learn to trade the news and follow in Qullamaggie footsteps. There is a huge amount of opportunity in that kind of trading that I shouldn't ignore. All kinds of powerful intraday trends that I can take advantage of. Long term momo trading doesn't come close to daytrading in terms of opportunity.
 
 10:35pm. Let me go get dinner and I'll go to bed. Tomorrow, the learning continues.
+
+9/6/2025
+
+8:15am. I going at it. In the end I managed to find the Elite course by Lance on one of the search results for 18$ and paid for it using Ethereum. I got the link, let's see if I got scammed by the site.
+
+8:20am. Yes, yes I did. I got scammed for 18$.
+
+![scam](images/image-313.png)
+
+There is literally nothing in these folders. No files at all.
+
+8:25am. Argh, I've gotten arrogant since I got some money. In the past I would never have paid to download anything.
+
+8:30am. I'll give it one more try. That site which I won't name scammed me, and there are a bunch of other ones which could potentially scam me, so I'll gamble.
+
+8:35am. I don't want to work on crypto companies again, but I do owe Logris for teaching me how to use hardware wallets and transact with crypto.
+
+8:40am. I had to pay 36$ this time around instead of 18, but I got access to it. I wish there were downloads for it...it I bought the stream version. I thought it'd include the download as well.
+
+Ah, whatever. I think maybe I'll be able to download it Ytdl.
+
+8:50am. Nope. Ah whatever. If the site goes under and I lose access to the course, I'll get it from somwhere else. I should gotten it through an affiliate of the site that was 3$ cheaper and also offered downloads.
+
+I'll consider this a lesson. Instead of wasting my time trying to download it from their hosted CDN, let me just start watching it.
+
+9:25am. Oh, it seems that on Udcourse, I'll get the download links 10 days later. Ok, that's fine.
+
+10am. > Huge pro tip: I love annotating charts.
+
+When I looked at Qullamagie's charts I was surprised how many annotations they had regarding news events.
+
+10:05am. Oh, he is saying that as long as the selling is steady and not a capitulation, that he'd look for a continuation. Yes, makes sense.
+
+If I could go beyond the VWAP system and into a pattern matching one, this could be a huge advantage for me.
+
+Yeah, just like for poker, I need a memory system.
+
+That is really what all this is leading up towards. Can I teach the machine to recognize patterns and act upon them? If I could that would give me a massive edge. If you think about it, creating a playbook is a process of gathering the data. For a quant the next step would be to have the machine trade the setups instead of doing it manually. That is what I need. If I could do it, not only would I be able to massive shortcut the learning curve, but I would also be able to massively improve my ML skills.
+
+Even if I could become profitable by doing everything by hand, that would come at the expense of my coding skills, and I don't want that. Ultimately the market or poker doesn't matter. Causing the Singularity does.
+
+But causing the Singularity is not a real goal that I can strive towards. All I can do is keep getting better at programming, and hope that I some point I'll cross the threshold.

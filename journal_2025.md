@@ -4199,3 +4199,15 @@ That is really what all this is leading up towards. Can I teach the machine to r
 Even if I could become profitable by doing everything by hand, that would come at the expense of my coding skills, and I don't want that. Ultimately the market or poker doesn't matter. Causing the Singularity does.
 
 But causing the Singularity is not a real goal that I can strive towards. All I can do is keep getting better at programming, and hope that I some point I'll cross the threshold.
+
+10:40am. Yeah, it's all coming together. I need a system that can react to conditions rather than simple moving averages crossings.
+
+I thought I'd be diverging from poker significantly, but all I am getting is a similar challenge in a different guise. And I'll have to use NNs or different kinds of memory systems to surmount it.
+
+I need a system that has a feel for momentum and can react to changes quickly.
+
+It's a perfect challenge for me who is on the path of transcendence.
+
+Fuck, if I cannot make a system that can tell apart the setups and react accordingly, I have no business whatsoever dreaming about the Singularity. I might as well accept that I'll be mediocre as a programmer until the day I die.
+
+What is the point of the deep learning revolution if I cannot feed it price patterns? I need to figure it out.

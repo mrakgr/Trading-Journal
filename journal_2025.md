@@ -4211,3 +4211,9 @@ It's a perfect challenge for me who is on the path of transcendence.
 Fuck, if I cannot make a system that can tell apart the setups and react accordingly, I have no business whatsoever dreaming about the Singularity. I might as well accept that I'll be mediocre as a programmer until the day I die.
 
 What is the point of the deep learning revolution if I cannot feed it price patterns? I need to figure it out.
+
+11:35am. Putting so much exercise into execution doesn't sit right with me, especially given that my RSI hasn't healed. It's not a skill that I need. The more I can substitute with programming the better off I'll be. Let the work of the machines be the work of my own hands.
+
+When you read The Playbook and now Lance's course, you really get the sense just how much effort trading really requires.
+
+I don't want to be a soldier or play an FPS like they do. I want to be the general sitting behind the lines in a cushy office and giving orders. I'll still have to work towards it, but it isn't the same path.

@@ -4243,3 +4243,15 @@ I don't want the world to accept the prop trader me who puts in 60h/week trying 
 I want it to accept my pursuit of the Singularity. I want it to recognize this effort.
 
 I want...my own Way.
+
+2:10pm. Oh wow. I have an idea for a trading game. And by inverting that trading game so as to infer the latents, I could create a trading system far superior than the indicator based ones. And the closer I made the game to reality the better the system would be.
+
+Yeah, the answer isn't backtesting, but modeling. It's the Bayesian approach. The way to trade based on pure machine reasoning.
+
+All I have to do is create a trading game, invert it and I'll be able to make millions.
+
+And...this is in fact heavily dependent on my own understanding of the market. The more I understand the market, the better the game I'll be able to make.
+
+This path would bring it all together. All my struggles and all my skill.
+
+I am really starting to feel it now. I think the system I have in mind should be doable. I still don't know how to deal with volume though. I am going to have to gather statistics on the relationship between volume and price and bake it into the game model.

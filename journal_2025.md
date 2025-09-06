@@ -4217,3 +4217,29 @@ What is the point of the deep learning revolution if I cannot feed it price patt
 When you read The Playbook and now Lance's course, you really get the sense just how much effort trading really requires.
 
 I don't want to be a soldier or play an FPS like they do. I want to be the general sitting behind the lines in a cushy office and giving orders. I'll still have to work towards it, but it isn't the same path.
+
+12:40pm. Done with breakfast. I am currently engrossed in thought as to how I would do the pattern matching bot as opposed to simple ones.
+
+I have an idea. Simply taking stock price data and training a NN on it won't work. Instead what I have to do is create a generative model of stock prices and have the NN predict the latent variables of such a system. Then based on those variables, the bot will be able to make good trading decisions.
+
+Yeah, that's it. At my skill level, there is simply nothing better I could possibly do.
+
+I am not a genius and I don't know the secrets of intelligence. I know that simple OBR and VWAP moving average models won't be enough.
+
+And I know that trying to take NN models regardless of which one is bound to give poor results as they aren't true memory systems.
+
+The middle ground is probabilistic programming.
+
+I am 100% sure of it. There is simply no other choice. All paths other than it lead to failure.
+
+12:50pm. It a bit exciting actually. By taking this path I'll be able to do some real programming work. I'll definitely learn a lot.
+
+And if I fail, so be it. I'll accept my defeat. Making a lot of money as a trader is besides the point.
+
+I want more than anything else for the world to accept me.
+
+I don't want the world to accept the prop trader me who puts in 60h/week trying to do it in a discretionary way.
+
+I want it to accept my pursuit of the Singularity. I want it to recognize this effort.
+
+I want...my own Way.

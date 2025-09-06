@@ -4255,3 +4255,43 @@ And...this is in fact heavily dependent on my own understanding of the market. T
 This path would bring it all together. All my struggles and all my skill.
 
 I am really starting to feel it now. I think the system I have in mind should be doable. I still don't know how to deal with volume though. I am going to have to gather statistics on the relationship between volume and price and bake it into the game model.
+
+7:40pm.
+
+> If you're like me, it takes a lot of effort and sacrifice to get good sleep.
+
+I think I should put some of this advice and probably all of it to use. Maybe moving the computer out of my room wouldn't be a bad thing?
+
+I always wake up tired and too early for some reason, though my sleep has much improved since I quit my job.
+
+8:05pm. So far I am near the end of the second module and am really liking the course. I made the right choice to get it.
+
+And plus it gave me time to figure out what my quant approach to the market should be. I guess it's not a coincidence that PyMC and Bayesian statistics are popular with quants. I'll be following in those footsteps.
+
+It's not like poker where modeling the opponents is very difficult, and to make up for it there is the all-powerful CFR algorithm.
+
+In stock trading, what I have to do is model the momentum and various scenarios and setups stocks might find themselves in. I can only model those by composing random processes and distributions.
+
+I really love that this is my conclussion.
+
+The next few years are going to be really fun and informative.
+
+I am going to take Lance's advice and join a team of other traders at some point. A trading pod of 4-6 people.
+
+I should be taking all of Lance's advice to heart. The WCE team is in Europe. Once I develop my approach I'll apply for mentorship with them.
+
+8:10pm. All of those plans depend on whether I get a job next month or not. If I do get one, I'll spend some time working on predicting petrol station prices instead of stock prices.
+
+Let's see...how about I set my minimum salary requirement to 125k euro per year? It's going to be a pay cut to what I was making at Tao Ceti, but even if it's to help my friend in his upcoming venture, I don't want to tie myself up too cheaply. I am not even remotely desperate to find work at the moment, and the less time I spend doing trading research the worse off I'll be in the long run. It's just that this is something that I want to do.
+
+8:25pm. It's pitiful, but even though I've spent so much time on learning to trade, over a half a decade, I am still in stage 2 essentially. It's going to take a while to get to 6.
+
+9:30pm. ![linear bet sizing](images/image-314.png)
+
+This course is amazing. How is it possible that I learned so little in my first 6 years of trading? Even now I have barely any idea how to size my bets or what the good setups are.
+
+Amazing how good the learning material is in year 2025.
+
+Here is my challenge. I'll take everything Mike and Lance have to teach them and I'll program them into the computer.
+
+This is how I want to win.

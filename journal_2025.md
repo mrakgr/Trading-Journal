@@ -4282,7 +4282,7 @@ I should be taking all of Lance's advice to heart. The WCE team is in Europe. On
 
 8:10pm. All of those plans depend on whether I get a job next month or not. If I do get one, I'll spend some time working on predicting petrol station prices instead of stock prices.
 
-Let's see...how about I set my minimum salary requirement to 125k euro per year? It's going to be a pay cut to what I was making at Tao Ceti, but even if it's to help my friend in his upcoming venture, I don't want to tie myself up too cheaply. I am not even remotely desperate to find work at the moment, and the less time I spend doing trading research the worse off I'll be in the long run. It's just that this is something that I want to do.
+Let's see...how about I set my minimum salary requirement to 125k euro per year? It's going to be a pay cut compared to what I was making at Tao Ceti, but even if it's to help my friend in his upcoming venture, I don't want to tie myself up too cheaply. I am not even remotely desperate to find work at the moment, and the less time I spend doing trading research the worse off I'll be in the long run. It's just that this is something that I want to do.
 
 8:25pm. It's pitiful, but even though I've spent so much time on learning to trade, over a half a decade, I am still in stage 2 essentially. It's going to take a while to get to 6.
 
@@ -4295,3 +4295,29 @@ Amazing how good the learning material is in year 2025.
 Here is my challenge. I'll take everything Mike and Lance have to teach them and I'll program them into the computer.
 
 This is how I want to win.
+
+9/7/2025
+
+7:30am. I am up early, but I haven't slept too poorly. Let me chill a bit and then I will return to Lance's course.
+
+8:30am. Let me resume.
+
+![lol](images/image-315.png)
+
+Oh, lol. I put the course into a cart on another site and now it's begging me to come back and finish the purchase. Didn't expect this would happen.
+
+Ah, who cares, I already bought it and it's only a 10$ difference. The biggest problem is me getting scammed for 18$ on another site, that was a 50% discount in the wrong direction. A warning sign was that it only had crypto payments and had recently opened. I'll remember that pattern in the future.
+
+8:35am. Let me resume with Lance's course.
+
+![the market](images/image-316.png)
+
+My own thinking is completely inline with Lance's - complete with the fact that 99.9% of all price action is noise.
+
+That's why he recommends we focus on:
+
+* 0.1% of most impactful headlines.
+* 0.1% of the most euphoric moves.
+* 0.1% of the largest selloffs.
+* 0.1% of the most abnormal volue.
+

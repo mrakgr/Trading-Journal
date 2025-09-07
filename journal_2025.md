@@ -4360,3 +4360,22 @@ I could have figured this out myself, and it was at the back of my mind, but for
 This is all good advice. It will take me a lot of modeling effort to create my system, but it will pay off big in the end.
 
 The reason why I am not moving into poker is because I don't know the step beyond Hopfileld Dictionaries, and don't want the hassle of fighting against the poker rooms. But if I go down the probabilistic programming route, maybe I'll be able to discover something tangible and deepen my relationships with the machines.
+
+2:30pm. https://www.interactivebrokers.com/campus/ibkr-quant-news/bayesian-statistics-in-finance-a-traders-guide-to-smarter-decisions/
+
+Not quite what I had in mind.
+
+https://youtu.be/JwqjuUnR8OY
+Time Series Analysis for Quant Finance
+
+I want to see what he has to say about this and AI.
+
+Let me just finish the video by Lance.
+
+> I want to ride the trend as long as it's steady and consistent. But the more capitulatory it gets, the more eager I am to lock in profits.
+
+3:55pm. https://youtu.be/tX7b2KT63WQ
+What Does AI Actually Learn
+
+I'll leave this for after I get back from the beach. Let me take off for a bit here.
+

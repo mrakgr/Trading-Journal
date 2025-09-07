@@ -4321,3 +4321,42 @@ That's why he recommends we focus on:
 * 0.1% of the largest selloffs.
 * 0.1% of the most abnormal volue.
 
+9:25am. ![mimic alts](images/image-317.png)
+
+I really will have to dive into SMB's Youtube channel at some point.
+
+10:10am. Let me continue. There are a lot of videos to go through, and there is a lot of ground to cover.
+
+I am also really forward to trying out the probabilistic programming approach afterwards.
+
+I'll probably be watching this course for the next 7 days. I have no idea how long it is exactly, but there are a lot of modules and this one is far larger than the previous ones.
+
+10:20am. 
+
+> A lot of the traders at SMB Capital where I have an advisory role have rules when VIX is at certainly levels. In a more volatile market, you can get a way with certain strategies that in a less volatile market you can't.
+
+![indicators to consider](images/image-318.png)
+
+Having a completely objective system will make determining whether I am trading poorly or if the market has changed much easier.
+
+> Edge trumps everything.
+
+I agree, I agree.
+
+Having a completely objective system that trades based on rational resoning, means I won't have to care about stops or profit taking targets. I'll be able to fully put my trust in it. And it will be fast and never make emotional mistakes. It will also be able to size up on the best setups and do exponential bet sizing.
+
+If I can do this properly, I'll be able to go from stage 2 to 6 within a few short years.
+
+10:35am. ![sick](images/image-319.png)
+
+These perf figures are sick. Yeah, this is what I want to work towards. Who cares about making 5% vs 30% this year.
+
+10:50am. ![ev](images/image-320.png)
+
+I could have figured this out myself, and it was at the back of my mind, but for some reason didn't. The implication of buying at resistance is that I shouldn't be selling at the other end of the range, but midway. Holding for a full retracement isn't the optimal move.
+
+1:50pm. ![good advice](images/image-321.png)
+
+This is all good advice. It will take me a lot of modeling effort to create my system, but it will pay off big in the end.
+
+The reason why I am not moving into poker is because I don't know the step beyond Hopfileld Dictionaries, and don't want the hassle of fighting against the poker rooms. But if I go down the probabilistic programming route, maybe I'll be able to discover something tangible and deepen my relationships with the machines.

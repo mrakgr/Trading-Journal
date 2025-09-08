@@ -4403,3 +4403,69 @@ It means I have a real shot at capturing very real alpha this way.
 9/8/2025
 
 7:55am. I am up, and it time to resume my studies.
+
+![i wish](images/image-325.png)
+
+God, I wish the AI bubble would pop. It's an embarassment. The chatbots being touted as AI is an embarassment.
+
+Hopefully the investors will run out of money at some point.
+
+https://youtu.be/NqOj__PaMec
+How to Trade
+
+9:15am. Ah, whatever. Let me first finish the Youjo Senki batch. I can't seem to pry myself off it.
+
+https://mangadex.org/chapter/9bf081c5-7b22-4470-8e12-ec9393673daa/
+
+I am very much enjoying my free time now. Being able to go to Mangadex and enjoy what I am reading is a great luxury.
+
+10:10am. Come to think of it, Roman Paolluci has a lot to say on the subject of market making. Yesterday's video had an example of using Kalman filters to trade. At any rate, I think that maybe it wouldn't be a bad idea to have a fast system just for the sake of executing trades.
+
+I can't scalp using transformer models due to how slow they would be.
+
+10:15am. > When the trades go in your favor right off the bat, it's a strong signal that the market is acknowledging...
+
+I know exactly why this is from a probabilistic perspective. I can't wait to start programing again to test out my theories.
+
+![heuristic 1](images/image-326.png)
+
+Minervini and Stuart Walton said as much in the stock market wizards book.
+
+![heuristic 2](images/image-327.png)
+
+This is important to know.
+
+![heuristic 3](images/image-328.png)
+
+I'll be able to explain all of this probabilistically when I start working on the simulations.
+
+I'll have the system infer which type of trade it is in.
+
+11:15am. Ok, that's it for module 4. Now come the `05-Technical Analysis Concepts`.
+
+That is going to go straight into the system.
+
+11:20am. 
+
+> As you document and study and document these over time, you'll find that volume confirmation on these breakouts is in the aggregate an useful indicator.
+
+He says that not every high volume breakout will work, and not every low volume breakout will fail, but high volume does improve the chances.
+
+![](images/image-329.png)
+
+These are Pradeep Bonde (Stockbee) and Kristjan Qullamaggie.
+
+1:30pm. ![consolidations](images/image-330.png)
+
+At some level I am aware of the importance of consolitations, but some of this is new to me. Hmm....
+
+He is saying that proper consolidation is important for price consolidation and the extreme moves that weren't preceded by a consolidation lead to mean reversion.
+
+![](images/image-331.png)
+
+Basically this.
+
+I really recommmend anybody reading this journal to just get the course even if it's for 35$ at a shady Russian site.
+
+2:25pm. Let me go to the beach. To be honest, I am starting to get bored of the course and am itching to try my own way, but I'll persevere.
+

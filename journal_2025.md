@@ -4477,19 +4477,19 @@ You should NOT work at a startup
 > I just spent two weeks, this was really hard, I am really proud of the solution, to which you manager says: "Oh. That's cool. Can you get that ticket closed? It's been there for two weeks."
 > It's the worst feeling ever. It will take great people and churn them so fast it's unbelievable. Agh.
 
-Sigh. Ok, change of plans. I don't owe Logris anything. I said I did in our last communication, but fuck it. I wasn't at all wrong to consider quiting myself on Friday, it's a good thing I got fired instead. 
+Sigh. Ok, change of plans. I don't owe L(ogris) anything. I said I did in our last communication, but fuck it. I wasn't at all wrong to consider quiting myself on Friday, it's a good thing I got fired instead. 
 
-Friday, 10 days ago was simply the worst. I couldn't sleep the entire night, and after morning came, I spent 6 hours in bed feeling enraged at both Curtis and Logris trying to calm my fury. I finally managed to fall asleep and take a nap for a few hours and refreshed my mind, only to log into my computer and find out I was fired, completely locked out of the company channels. Then I spent the next few days in shock.
+Friday, 10 days ago was simply the worst. I couldn't sleep the entire night, and after morning came, I spent 6 hours in bed feeling enraged at both C(urtis) and L(ogris) trying to calm my fury. I finally managed to fall asleep and take a nap for a few hours and refreshed my mind, only to log into my computer and find out I was fired, completely locked out of the company channels. Then I spent the next few days in shock.
 
 This is going to be a grudge that is going to last for years at the entire Tao Ceti company and everyone involved.
 
 The rational thing would be to sweep it under the rug and move on, and that is what I am trying to do, but it's going to take time for the wound to heal. I am going to win a true victory in the stock market and wipe that sour feeling that way.
 
-8:40pm. Logris is very smart, so I can't tell whether he is bad at programming or not. Maybe his praise of Curtis' work might have not been mere smoothing over and flattery? I'll never get an answer to that, and I haven't seen him do dev work even once. I have no idea whether he counts as an engineering manager, but I get the sense that the people he worked with in the past had amazingly low skills. 
+8:40pm. L(ogris) is very smart, so I can't tell whether he is bad at programming or not. Maybe his praise of C(urtis)' work might have not been mere smoothing over and flattery? I'll never get an answer to that, and I haven't seen him do dev work even once. I have no idea whether he counts as an engineering manager, but I get the sense that the people he worked with in the past had amazingly low skills. 
 
 ...I don't think anybody at the company recognized how good I really was.
 
-Hmmm...well nevermind that. I should try not to think about it. The emotion overpowers all of my rationality when it comes to this subject. But, if I am going to owe Logris a debt of gratitude then I should really feel it rather than try to force it out from the depths of my heart.
+Hmmm...well nevermind that. I should try not to think about it. The emotion overpowers all of my rationality when it comes to this subject. But, if I am going to owe L(ogris) a debt of gratitude then I should really feel it rather than try to force it out from the depths of my heart.
 
 8:45pm. Going into that job I was really desperate for validation from the job market, and that gave me a much needed boost. I had started thinking that it would be impossible for me to ever get a job, and getting into the company gave me the feeling that I had some value.
 

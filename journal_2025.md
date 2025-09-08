@@ -4379,3 +4379,27 @@ What Does AI Actually Learn
 
 I'll leave this for after I get back from the beach. Let me take off for a bit here.
 
+8:30pm. Finally back at my seat. Let me watch that video.
+
+9:10pm. He says that NNs aren't great at predicting where most of the data is random.
+
+https://youtu.be/iuodBAqFGY4
+How Stealing Strategies Made Me $200,000
+
+![interesting vid](images/image-322.png)
+
+This video caught my eye. It's discussing the difference between inefficiencies and risk premiums.
+
+![books](images/image-323.png)
+
+I haven't read the other two, but Quantitative Momentum was great.
+
+![backtesting](images/image-324.png)
+
+It's weird, but it seems my quant approach is going to be completely different than what everybody else is doing. And that's actually great!
+
+It means I have a real shot at capturing very real alpha this way.
+
+9/8/2025
+
+7:55am. I am up, and it time to resume my studies.

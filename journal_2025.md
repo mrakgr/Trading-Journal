@@ -4475,7 +4475,7 @@ https://youtu.be/Ij7gT34BQCs?t=758
 You should NOT work at a startup
 
 > I just spent two weeks, this was really hard, I am really proud of the solution, to which you manager says: "Oh. That's cool. Can you get that ticket closed? It's been there for two weeks."
-> It's the worst feeling ever.
+> It's the worst feeling ever. It will take great people and churn them so fast it's unbelievable. Agh.
 
 Sigh. Ok, change of plans. I don't owe Logris anything. I said I did in our last communication, but fuck it. I wasn't at all wrong to consider quiting myself on Friday, it's a good thing I got fired instead. 
 

@@ -4481,7 +4481,7 @@ Sigh. Ok, change of plans. I don't owe L(ogris) anything. I said I did in our la
 
 Friday, 10 days ago was simply the worst. I couldn't sleep the entire night, and after morning came, I spent 6 hours in bed feeling enraged at both C(urtis) and L(ogris) trying to calm my fury. I finally managed to fall asleep and take a nap for a few hours and refreshed my mind, only to log into my computer and find out I was fired, completely locked out of the company channels. Then I spent the next few days in shock.
 
-This is going to be a grudge that is going to last for years at the entire Tao Ceti company and everyone involved.
+This is going to be a grudge that is going to last for years at the entire T(ao) C(eti) company and everyone involved.
 
 The rational thing would be to sweep it under the rug and move on, and that is what I am trying to do, but it's going to take time for the wound to heal. I am going to win a true victory in the stock market and wipe that sour feeling that way.
 

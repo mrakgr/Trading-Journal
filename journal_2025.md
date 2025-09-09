@@ -4606,3 +4606,87 @@ Holy crap, I really need to learn how to interpret the news. There is so much al
 Ok, enough. Time to go to the beach. I'll watch the course, create the models, start following the news. One step at a time.
 
 I'll build up my fortune one step at a time.
+
+9:05pm. I am back. I've been out for quite a while it seems. Me, my bro and a friend went out for lunch today.
+
+If I had a job, that wouldn't have been possible.
+
+Yeah...I think maybe being glued to the news feed in order to make split second trades like Lance does is too much, but thinking about the news critically, and figuring which of the high volume breakouts would have chance to go up for multiple legs could make me a lot of money.
+
+Let me watch another vid from the course.
+
+![CWD](images/image-342.png)
+
+Wow, what the fuck?
+
+https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad
+
+It bought Chainlink apparently.
+
+![NBIS](images/image-343.png)
+
+Huge Hicrosoft deal. This could be a good swing trade.
+
+Some of the lower priced stocks have volume pumps, but collapse immediatelly after volume fades. I think I'll have to model different kinds of stocks so the model can learn that some are to be avoided.
+
+![QMMM](images/image-344.png)
+
+Another crypto treasury play. If crypto isn't a bubble, I have no idea what is.
+
+![](images/image-345.png)
+
+The market is sending me a signal - pay attention to news.
+
+![](images/image-346.png)
+
+I think this stock is just a NBIS sympathy play.
+
+![BILI](images/image-347.png)
+
+You know, Lance's method of draging the stop along the weekly lows is something I've never though of trying out myself, but I can see how in certain situations it would work, and it makes more sense than what I am doing on the monthlies.
+
+![RHM](images/image-348.png)
+
+It would have stopped me out here and there, but it would have saved me a lot of pain in RHM.
+
+https://youtu.be/hSnu9-cpdeY
+Why Trading is a Terrible Career
+
+Lol.
+
+Ok, I can officially credit Lance with teaching me to use 1-min, 2-min, 5-min, daily, weekly lows as stop points.
+
+It's not like I couldn't figure it out myself, it's just that I didn't realize that this could be the solution to my problem of risk management in momentum systems.
+
+Yeah, definitely. If I use lows for stops, I wouldn't have to worry nearly as much about my positions going the other way.
+
+![EXA](images/image-349.png)
+
+For EXA 2 week lows would have worked great.
+
+![UNH](images/image-350.png)
+
+UNH has been in the news as a Buffet buy. Could make for a decent swing trade.
+
+I need a bot to sell the daily and weekly lows, but that one would be a lot cheaper to run and easier to make than the daytrading bot.
+
+![UUUU](images/image-351.png)
+
+Sigh, take a look at this.
+
+![UUUU](images/image-352.png)
+
+I could make a rule to ignore these probes. But having a large selloff like this and then the stock breaking out later is a strong signal.
+
+10:45pm. How about this system?
+
+* Buy breakouts on weekly bar closes.
+* Sell if the weekly bar low gets pierced and the stock closes down for the week. If it closes near the highs ignore it.
+
+This would've been a better system than the montly one I've been using.
+
+Yeah, trading month by month must have been lunacy.
+
+I got the sense when I read O'Neil's book that with that rule I would be long all the crashes.
+
+10:50pm. Ok, I get it. Let me go to bed.

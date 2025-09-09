@@ -4506,3 +4506,26 @@ I need to learn how to trade.
 The main thing the upcoming job has is that it's quant trading adjacent since it involves predicting prices of petrol stations. So if the offer is decent it makes sense to take it, but otherwise, it's fine.
 
 I'll aim to wrap up Lance's course and resume Youtubing. I have the intro episodes planned out.
+
+9/9/2025
+
+8am. ![swing](images/image-332.png)
+
+I think it should be possible to make a swing trading system after following up on the daytrading work.
+
+Looking at the charts there are plenty of trends after short term breakouts where it trends for a few days.
+
+I could make use of that.
+
+8:10am. No, I'll leave that for later. The problem is that on the daily charts it whips around so much from day to day. With daytrading I could have extreme risk control, but unlike with longer term momentum trading it doesn't feel right to enter at the close and put a stop. I guess I still don't understand swing trading.
+
+I'd do better to enter above VWAP intraday and then take it from there if there is a trend day.
+
+Let me resume Lance's course.
+
+It honestly feels like swing trading is the hardest of all the styles.
+
+The hard part about momentum trading is only that it's long term.
+
+8:15am. https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy
+

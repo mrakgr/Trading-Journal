@@ -4529,3 +4529,31 @@ The hard part about momentum trading is only that it's long term.
 
 8:15am. https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy
 
+Next Big Future sold me on nuclear power being cheapest and cleanest, so its revival due to the AI boom might be one good thing to come out of it.
+
+![challenge](images/image-333.png)
+
+Yeah, I'll have to do this.
+
+![mean rev probability](images/image-334.png)
+
+This course is great altogether. If I want swing trading, I need to find the areas where it would be most effective.
+
+![mean rev magnitude](images/image-335.png)
+
+> Moves on fresh news are more likely to continue than revert.
+
+He also says this. Yeah, I knew all of this. Then why don't I actually put it together into a system? What am I afraid of?
+
+9:55am. 
+
+![volume gainers up](images/image-337.png)
+![CPNG](images/image-336.png)
+
+There are all kinds of opportunities in the market everywhere you look. Bayesian reasoning will be enough to handle these patterns.
+
+Let me go back to the psychology lessons with Lance.
+
+10am. I am struck of how he says that GOAT athletes call out their teammates for underperforming. Reminds me of me and C(urtis). When he broke our deal, that really pissed me off. And he had the temerity to snub me by saying his trash work could replace mine. L(ogris) didn't back me, and in fact started arguing with me, and the rest was history.
+
+Those two are mediocrities. I did my best to repay L(ogris) by letting him not be involved in technical matters too much. He made his own mistake by sticking his nose into it.

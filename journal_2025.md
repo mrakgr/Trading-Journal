@@ -4595,3 +4595,14 @@ This will take me a couple of months of programming work.
 That's 2 down, 19 more to go in the module.
 
 Let me take a break here. Time to eat.
+
+1:15pm. Let me resume Lance's course.
+
+3:30pm. ![daily](images/image-340.png)
+![news](images/image-341.png)
+
+Holy crap, I really need to learn how to interpret the news. There is so much alpha in that.
+
+Ok, enough. Time to go to the beach. I'll watch the course, create the models, start following the news. One step at a time.
+
+I'll build up my fortune one step at a time.

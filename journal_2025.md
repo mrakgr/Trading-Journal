@@ -4557,3 +4557,41 @@ Let me go back to the psychology lessons with Lance.
 10am. I am struck of how he says that GOAT athletes call out their teammates for underperforming. Reminds me of me and C(urtis). When he broke our deal, that really pissed me off. And he had the temerity to snub me by saying his trash work could replace mine. L(ogris) didn't back me, and in fact started arguing with me, and the rest was history.
 
 Those two are mediocrities. I did my best to repay L(ogris) by letting him not be involved in technical matters too much. He made his own mistake by sticking his nose into it.
+
+10:30am. Ok, I think I got something. The course I am watching is incomplete and I'll have to get the real one from Lance directly at some point. In the first video he introduces Jonathan Katz and then spends doing interviews with Tom Crawford. The previous module only had a single video too.
+
+10:50am. Done with psychology. Now comes the real world application module. That should be interesting.
+
+11am. 
+
+> So for all of you at home, this is a great use of AI. AI can pull up the market cap, AI can pull up the revenue...
+
+Yeah, if I could make an AI model that could analyze the news, or even make use of an existing LLM model, that could be a huge source of alpha.
+
+11:05am. ![](images/image-338.png)
+
+He says that this situation is interesting to him for a long trade. Huh, really?
+
+He says he collected a lot of data. I never would have thought that this trade would be a long.
+
+But if he says it, he's probably right.
+
+11:15am. The course in Udcourse is missing the videos for April, so yes, it's definitely behind. Still, this module is the real meat of the course. He is going through trades and his reasoning behind them.
+
+I'll get the real thing eventually, but it's selling for 1.7k annually. I guess that means he'll be working on it as he goes along.
+
+11:20am. Let me go through the modules. Now it's all actual trade reviews.
+
+Actually, before I do that, let me watch the Finding a Broker video.
+
+One thing I am very concerned about is how to find borrows for the short trades. That's been a huge problem for me when I wanted to try trading Tim Sykes' system.
+
+11:55am. ![](images/image-339.png)
+
+So this is how it looks like on the main site. Will get it definitely after I build everything I need for my own system first.
+
+This will take me a couple of months of programming work.
+
+That's 2 down, 19 more to go in the module.
+
+Let me take a break here. Time to eat.

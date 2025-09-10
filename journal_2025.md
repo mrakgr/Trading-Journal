@@ -4690,3 +4690,60 @@ Yeah, trading month by month must have been lunacy.
 I got the sense when I read O'Neil's book that with that rule I would be long all the crashes.
 
 10:50pm. Ok, I get it. Let me go to bed.
+
+9/10/20255
+
+9:05am. I couldn't sleep properly as I was too excited about this system.
+
+![NBIS](images/image-353.png)
+
+This system that I proposed would have caught the move from...
+
+![NBIS](images/image-354.png)
+
+21.3 to 44 and...
+
+![NBIS](images/image-355.png)
+
+53.2 to 68.
+
+![QQQ](images/image-356.png)
+
+It would have caught most of the leg up in the QQQs.
+
+![NVTS](images/image-357.png)
+![NVTS](images/image-358.png)
+
+It would have made an awesome trade in NVTS and would have protected me from the false breakout.
+
+I am going to buy 100 shares of NBIS at the open and trade it using this system.
+
+![DXYZ](images/image-359.png)
+
+Would have made an awesome swing long.
+
+![DXYZ](images/image-360.png)
+
+Sorry, it doesn't seem that Copy Image does highlights properly.
+
+![DXYZ](images/image-361.png)
+
+Note that it's far below the two volume updays.
+
+![NVDA](images/image-362.png)
+
+Would have caught the entire move in NVDA.
+
+Wow...
+
+![SMR](images/image-363.png)
+
+This system is much better than the monthly based one.
+
+It catches the large moves up and protects me from the downside much better.
+
+9:25am. Yeah, let me begin experimenting with it and news based trading. If I could start averaging 2k/month, I could avoid having to shut down my company.
+
+And also being able to trade based off the weeklies means that there wouldn't be a conflict of interest between this system and the upcoming job.
+
+9:40am. Yeah, swing trading the weeklies is the answer.

@@ -957,3 +957,14 @@ Since I have a lot more time on my hands, I'll be working to develop daytrading 
 I'll select the target and have the computer execute the trading plan.
 
 I am a programmer now, so I'll play to my strenghts.
+
+9/10/2025
+
+New system.
+
+* Buy breakouts on weekly bar closes or high volume breakouts on the dailies on breaking news that has potential to be powerful in terms of improving the fundamentals.
+* Sell if the weekly bar low gets pierced and the stock closes down for the week. If it breaks lows and closes up on the week ignore it.
+* Sell into euphoria.
+
+I'll try buying 100 shares worth of NBIS to start testing it out. The problem with backtesting is that I can't backtest my own discretionary news evaluation.
+

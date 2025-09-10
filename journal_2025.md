@@ -4893,3 +4893,86 @@ I should focus on creating a decent track record and getting outside money if % 
 
 Once I start feeling confident, maybe I should apply to trade at a prop firm.
 
+5:10pm. Let me just put in a few words on the euro defense stocks. They've been acting weak for the past few months, and I was using the wrong system, but even with the correct system that I am using now, I don't like the trade.
+
+I really wish the market could wash out and panic. That would be a great setup for long trades.
+
+Sigh, I can't tell. Do I have any skill at all or do I not? Understanding that I need a panic to align the RR in my favor is some skill.
+
+But then I botched this year's trading so badly. I have no idea what was I thinking with the 2 week system, and then closing my eyes and using the 1 month system. Not only did I lose more money than I should've, I wasted a lot of time I could have used to make good trades.
+
+It really felt that the 2 week system was the crystallization of my experience, but it ended up being a dud.
+
+5:25pm. 
+
+> There isn't any right way to trade. You can be a homerun hitter. You can be a sniper. You can scalp little trades like these.
+
+5:55pm. Let me pause here on the start of the `10-June 2024 – Top Opps Dissected` video. These videos are 40m long, so I can't just devour them constantly.
+
+![ATRO](images/image-377.png)
+
+Some stocks are making strong moves after stock or convertible note offerings.
+
+I'd rate this as a B setup. Could work, but it's hardly great. The best setups are total neglect combined with blowout earnings.
+
+What this setup does have going for it is a huge washout on earnings, and now it has reversed that and is trading sharply higher.
+
+![MODI](images/image-378.png)
+
+It's so hard to know.
+
+![MODI](images/image-379.png)
+
+Slow moving stock, not what I am interested in.
+
+![ANET](images/image-380.png)
+
+Slow mover to the upside.
+
+![ANET](images/image-381.png)
+
+Great investment, not a great trading opportunity.
+
+Maybe I really will have to check out daytrading.
+
+![UNH](images/image-382.png)
+
+If I had to bet, maybe I'd just buy UNH. But I don't.
+
+![LITE](images/image-383.png)
+
+Is starting to gap up. That's a sell signal, not a buy signal.
+
+6:55pm. What a shitty market. There is no action anywhere. I am done for the day.
+
+I'll stop watching Lance's vids.
+
+7:05pm. The bull market is still ongoing, but we're at the hard part of it. We're going to see weird price action now that the stocks have run up and various shakeouts.
+
+I am so vexed. This is such a waste of time. I am spending my life here trying to figure out which way the numbers will move.
+
+Forget the daytrading system. I should just establish a routine and do my position trading with the weekly charts.
+
+In the meantime, I should go back to GPU programming and resume work on the poker bot.
+
+The pursuit of the Singularity is something I can be proud of.
+
+In the stock market, I should just focus on making a profit here and there, but I shouldn't make it my main profession.
+
+...Something like news trading could have huge alpha. I really wish I could automate it. The same goes for all the other setups.
+
+But it'd be hard to have AI understand language and connect that to trading decisions. LLMs aren't true intelligence.
+
+No, more to the point, I simply don't have time to do everything.
+
+I should get back to GPU programming.
+
+Now that I have a sizable account, I should either get that upcoming job, or hunker down and save my money while I go back to working on my hobby project.
+
+It's fine if I take 5% positions like in NBIS here and there when there are good opportunities, but otherwise there is no need to strain myself.
+
+7:20pm. Agh, I decently excited last night over the new system. And it's an improvement. But I think if I want consistent profits I either need that daytrading system I had envisioned or I need to deal with the poker bot to get some proper income.
+
+7:25pm. For now, it still hasn't been even 2 weeks since I got fired, so I should consider myself on a vacation.
+
+If I am stressing out about the market, that is going against the point.

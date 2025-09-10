@@ -4822,3 +4822,9 @@ Ok, from now on, I am going to call a persistent trend on a daily, weekly or any
 So the system which I will trade now on I'll call the weekly Cascade system.
 
 It's very similar to what Lance is using with 2-minute bars.
+
+11:45am. Let me go back to the interview.
+
+12:35pm. Done with breakfast. Let me put in the order now because the weather is bad.
+
+12:40pm. Put in an OPG order on NBIS for 50 shares. And I hear thunder outside so maybe I'll turn everything off.

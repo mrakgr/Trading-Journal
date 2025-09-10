@@ -4976,3 +4976,8 @@ It's fine if I take 5% positions like in NBIS here and there when there are good
 7:25pm. For now, it still hasn't been even 2 weeks since I got fired, so I should consider myself on a vacation.
 
 If I am stressing out about the market, that is going against the point.
+
+9pm. https://youtu.be/xx8GvtAxilk
+Qullamaggie Swing Trading School
+
+I'll leave the `Qullamaggie Swing Trading School` for tomorrow. Maybe I should mix it up a bit and give Lance a break?

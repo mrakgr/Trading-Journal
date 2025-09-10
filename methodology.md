@@ -960,7 +960,7 @@ I am a programmer now, so I'll play to my strenghts.
 
 9/10/2025
 
-New system.
+New system. Let's call it the weekly Cascade system.
 
 * Buy breakouts on weekly bar closes or high volume breakouts on the dailies on breaking news that has potential to be powerful in terms of improving the fundamentals.
 * Sell if the weekly bar low gets pierced and the stock closes down for the week. If it breaks lows and closes up on the week ignore it.
@@ -968,3 +968,4 @@ New system.
 
 I'll try buying 100 shares worth of NBIS to start testing it out. The problem with backtesting is that I can't backtest my own discretionary news evaluation.
 
+What I am trying to capture with this system is a persitent pattern of higher highs and higher lows on consequtive bars, and there is a component of waiting for the bar to close to reduce the amount of shakeout.

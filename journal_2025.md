@@ -4747,3 +4747,78 @@ It catches the large moves up and protects me from the downside much better.
 And also being able to trade based off the weeklies means that there wouldn't be a conflict of interest between this system and the upcoming job.
 
 9:40am. Yeah, swing trading the weeklies is the answer.
+
+![BTC](images/image-364.png)
+
+Yeah, on the weeklies, BTC isn't really that strong recently. The breakout isn't working.
+
+![ETH](images/image-365.png)
+
+The same could be said for Ethereum.
+
+9:45am. Ok...
+
+Because this system limits risk much better than the previous one, I could get away with concentrating more. I could add on the way up, and go up to 30% or even more in a single instrument.
+
+Let me take a look at the NBIS fundamentals and the recent news.
+
+![NBIS story](images/image-366.png)
+
+Seems good.
+
+![financials](images/image-367.png)
+
+Seems like a turnaround play. Those work well. Yeah, let me do it. The main thing that I need is discipline and I'll get to where I want to be.
+
+10:20am. I've set the alarms so I can put in the order during premarket hours.
+
+![UNH](images/image-368.png)
+
+I like the UNH breakout, but I will skip it for now.
+
+10:40am. Yeah, unless something better comes along, let me focus all my effort into trading NBIS. I'll be dipping in gently with 5k positions and adding on the way up every Friday 9:30pm if the trend holds.
+
+10:45am.
+
+![MOC](images/image-369.png)
+
+Ah so this is how MOC orders work. I couldn't find them last time. It turns out I needed to select it under the order type rather than time. Market On Open (OPG) orders on the other hand are selected under price.
+
+10:55am. Had I been trading like this since the start of the year, it's plausible that I could have been up 100% or more now.
+
+Putting my money in strongest groups and then not pivoting in time after they started to struggle hurt me greatly.
+
+This current system gives me an answer to the question of how to avoid 1987 and 1929 style crashes. I don't lose much of the upside because it would still work on the best plays, but it'd cut my risk drastically due to not holding losers as long as the previous system does.
+
+![MSTR](images/image-370.png)
+
+Looking at this chart, the crpto boom feels screwed. MSTR which is a leader is lagging badly.
+
+11:20am. https://youtu.be/dFZgmVGUmlM
+Prop Firm CEO: I Analyzed 50,000 Traders, THIS Is What The Top 1% Do!
+
+Let me finally watch this and then I will resume Lance's course.
+
+![TKA](images/image-371.png)
+
+This trade was such a massive fail. With current system, I could have avoided a lot of the drawdowns of August. It could have been a lot worse. I got lucky.
+
+With my current system, I would have just sold TKA...
+
+![TKA](images/image-372.png)
+
+At the close of the weekly bar once it broke the prior 2 week lows. That would have saved me a lot of money.
+
+![XLF](images/image-373.png)
+
+The system wouldn't have worked well in 2008 due to how volatile the period was.
+
+![XLF](images/image-374.png)
+
+The only choice would have been to trade off monthly charts or try to play it with a narrow stop and hit a cascade.
+
+Ok, from now on, I am going to call a persistent trend on a daily, weekly or any other time frame a cascade. A requirement is that it obeys the system.
+
+So the system which I will trade now on I'll call the weekly Cascade system.
+
+It's very similar to what Lance is using with 2-minute bars.

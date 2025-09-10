@@ -4828,3 +4828,35 @@ It's very similar to what Lance is using with 2-minute bars.
 12:35pm. Done with breakfast. Let me put in the order now because the weather is bad.
 
 12:40pm. Put in an OPG order on NBIS for 50 shares. And I hear thunder outside so maybe I'll turn everything off.
+
+1:55pm. My sleep tonight was poor, so I'll skip studying Lance's course for today.
+
+I just switched from position trading to making a bot to swing trading using the news.
+
+Strategy hopping. That's what low level traders do, and I am stage 2 despite being at it for long, so I guess it makes sense that I'd make this move.
+
+2pm. In fact, I do think I tried trading Pradeep Bonde's episodic pivot strategy in the 2007 - 2014 period, but I wasn't successful at it. I certainly didn't have an explicit system that I was trying to trade like the long term momentum one, or the cascade swing trading one like now.
+
+Yeah, I don't think I was particularly selective when it came to trading earnings suprises. I think I just traded random surprises and was wondering why the stocks aren't moving much afterwards.
+
+NBIS has a 30b market cap, but just added 17b of revenue with that MS deal. I think this will be a decent catalist.
+
+Not to mention, it didn't even have revenues last year.
+
+It's also an AI play.
+
+A negative is that is's 95 when it was below 20 a year ago. So it already 5x'd by the time this catalyst occured.
+
+The most important thing in this trade is that I buy on the way up on the weeklies if the volume and the price action are confirming the momemtum.
+
+2:10pm. I am starting to get the feeling for trading back after losing my job.
+
+![volume up](images/image-375.png)
+
+I am using a volume screen now instead of the 6 month momentum. Maybe that will work better. 95% of the stocks on this volume screen are trash. Maybe I should just filter out all the stocks below 5$?
+
+I am a bit turned off from the daytrading system because I'd have to filter the stocks it trades manually. If it tried trading the shit stocks on this list, it would go broke quickly.
+
+For each stock, I need to actual think about the pattern and the news catalyst associated with it.
+
+Ironically, while I was modeling the probabilistic program for the daytrading system in my mind, that is when I realized the importance of volume. A change in volume can indicate a regime change in a stock, so it's good to have on your side.

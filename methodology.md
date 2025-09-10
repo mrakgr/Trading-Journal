@@ -966,6 +966,8 @@ New system. Let's call it the weekly Cascade system.
 * Sell if the weekly bar low gets pierced and the stock closes down for the week. If it breaks lows and closes up on the week ignore it.
 * Sell into euphoria.
 
-I'll try buying 100 shares worth of NBIS to start testing it out. The problem with backtesting is that I can't backtest my own discretionary news evaluation.
+I'll try buying 50 shares worth of NBIS to start testing it out. The problem with backtesting is that I can't backtest my own discretionary news evaluation.
 
 What I am trying to capture with this system is a persitent pattern of higher highs and higher lows on consequtive bars, and there is a component of waiting for the bar to close to reduce the amount of shakeout.
+
+BOUGHT 50 NBIS @ 91.61

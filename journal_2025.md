@@ -4860,3 +4860,20 @@ I am a bit turned off from the daytrading system because I'd have to filter the 
 For each stock, I need to actual think about the pattern and the news catalyst associated with it.
 
 Ironically, while I was modeling the probabilistic program for the daytrading system in my mind, that is when I realized the importance of volume. A change in volume can indicate a regime change in a stock, so it's good to have on your side.
+
+2:45pm. Ok for now, let me do it Peter Brandt style. I'm not going to even look at the market action during the trading day. I can just do my trading using open orders.
+
+If a stock I am owning is getting euphoric I'll be sure to exit it near the close, but right now I don't have to care about that.
+
+I am not going to touch NBIS until the end of next week.
+
+I am also going to do my homework during the morning.
+
+The most important thing about having a trading system is to believe in it and to not be stressed about your positions. I'll gradually ease myself into the market as I go along.
+
+2:50pm. Let me watch some of Lance's vids after all.
+
+3:30pm. BOUGHT 50 NBIS @ 91.61
+
+Got it using the OPG order. The price was far less than I expected, but I suppose this is good. Now it's just a matter of holding it and making sure it's cascade trending up on a weekly basis.
+

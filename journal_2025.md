@@ -4877,3 +4877,19 @@ The most important thing about having a trading system is to believe in it and t
 
 Got it using the OPG order. The price was far less than I expected, but I suppose this is good. Now it's just a matter of holding it and making sure it's cascade trending up on a weekly basis.
 
+4:45pm. He says that I should really keep an Excell of news headlines that move stocks.
+
+5pm. Nothing of interest in the euro markets today.
+
+![](images/image-376.png)
+
+I just need to keep track of stocks which have volume flowing into them and act accordingly.
+
+Let me go back to Lance's vids.
+
+I keep calling my system a swing trading system, but it's more likely to still be a position trading system given that I am using weekly bars.
+
+I should focus on creating a decent track record and getting outside money if % returns turn out to be unsatisfactory.
+
+Once I start feeling confident, maybe I should apply to trade at a prop firm.
+

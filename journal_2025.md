@@ -4981,3 +4981,55 @@ If I am stressing out about the market, that is going against the point.
 Qullamaggie Swing Trading School
 
 I'll leave the `Qullamaggie Swing Trading School` for tomorrow. Maybe I should mix it up a bit and give Lance a break?
+
+9/11/20255
+
+7am. If I could only figure out the difference between A, B and C setups that would be all that I need. And I do know the difference.
+
+Yeah, back in 2007 - 2014 even though I was trying out O'Neil's method, and then Pradeep, I was extremely focused on trying to find smooth daily action and got frustrated when it would not manifest.
+
+Holding for months and weeks is something that never even occured to me.
+
+It's fine to go from the monthly to the weekly.
+
+![LITE](images/image-384.png)
+
+I need to burn this kind of price acceptance action into my retina. If NBIS keeps making higher highs and higher lows on the weeklies that is all that I need. If it pierces the lows, then it should retrace them swiftly by the end of the week.
+
+The most important thing for NBIS isn't for it to go up next week. I want to see it put in a narrow week. That range contraction will establish what the highs and the lows should be. Then I'll be able to add to the trade and trade off those levels.
+
+I made the right thing to learn from 2007 - 2014 and loosen up in 2025, but I went too far at it. I need to tighten up.
+
+7:10am.
+
+![BTCUSD](images/image-385.png)
+
+These narrow weeks are great actually. When an asset makes a big upmove that makes it difficult to understand where the support and resistance is, but once the range contracts, that makes it a lot easier.
+
+7:15am. I've been undervaluing them greatly. It's not like they are a profitable pattern by themselves, but the narrow weekly candles make my job as trader much easier.
+
+Especially given what the cascade system is. Narrow candles act as ideal levels before the uptrend resumes. If the price breaks below I can just wash my hands of the trade.
+
+Also, narrow candles in a strong uptrend when they are violated tend to be done smoothly giving me time to get out.
+
+7:40am. That kind of system would get killed on stocks like NVDA in the past.
+
+7:55am. Well, it depends on how I played it. If I losened up a little and had good entries, I'd still do well.
+
+Not as good as buy holding for the duration of the trend, but still decent.
+
+8:15am. Let me post a chart of INT here.
+
+![INT](images/image-386.png)
+
+What a first rate breakout. And it's still having narrow weeks. Just looking at it I get the sense that it's still a buy.
+
+As long lasting as some of Nvidia past rallies were, it's wasn't necessarily the best trading stock.
+
+Yeah, I get it.
+
+I want to trade stocks like INT.
+
+If NBIS acts right, you can be I am going to be adding to it.
+
+Now let me watch Qullamagie's video.

@@ -5330,3 +5330,74 @@ And trading frequently and selling losers frequently forces you to rotate into t
 Also compared to buying catalysts, this system is much more general purpose.
 
 1:30pm. But like with the VWAP system, I don't really have any idea how good it would be compared to the one I came up yesterday. I'll have to backtest it to get a basic sense for it. If the VWAP system can make 40% per year with 10% drawdown, maybe there are better systems out there.
+
+2:05pm. Forget about initiating new buys for now. I need to rebuild my trading system using backtested results. I need to take it seriously.
+
+The weekend system won't be enough.
+
+Instead of looking at volume gainers, I should backtest the system and automate it. I don't need a probabilistic program for the swing trading system.
+
+https://youtu.be/K0F73Sq90j0
+Breakouts, Home Runs & Exponential Returns · Kristjan Kullamägi
+
+Let me pause the Swing Trading school so I can watch this interview with him.
+
+https://youtu.be/K0F73Sq90j0?t=660
+> I probably made my first million mostly daytrading.
+
+This guy is far too awesome.
+
+https://youtu.be/Q8TrrG1jVFk
+Know when your setups work and don't work
+
+I'll watch this after I finish.
+
+> Yes, in the first few years since I started making money it was still at times hard to believe, since in the first two years when I was mostly losing money it was such a horrible experience. I got scars for life. I was constantly depressed. And when I started consistently making money it felt like unreal. It's like, is this really happening? I can actually make a living off of this?
+
+Sigh, I want this kind of experience so bad. I need to work harder than I did in 2007 - 2014 period.
+
+> Is it just due to luck? But after a while I realized that it's the same. What I am doing is trading the same patterns over and over again.
+
+3pm. Just added the average true range to the screener. Incidentally, I finally learned what it is today. `max [abs (prev_clos - today_high); abs (prev_close - today_low); today_high - today_low]` then you take the max of that for a given number of bars, generally 14.
+
+It's fine if I just take a month or two out of the market's busy schedule to deal with my trading. I don't need to rush it.
+
+https://youtu.be/K0F73Sq90j0?t=1761
+
+This stuff where he is telling me about leading stocks being the most resilient isn't something I'll fall for again. I got fucked hard this year following this advice.
+
+3:10pm. I just checked how EXA behaved compared to the 10 and 20 day moving averages and it would have sold way too early compared to my cascade system.
+
+If I get a job, I think I'll just scan for narrow week patterns on high momo stocks and buy the stocks on the Monday open using OPG orders. That seems like the best path to go down on.
+
+It takes a lot of effort to go through the entire volume screen every day.
+
+It takes me a few hours.
+
+3:15pm. He says he buys the opening range highs.
+
+He buys the 1 min range, then the 5 min range and the 60 min range. It's a simple system that he is using.
+
+And the stop is always at the lows of the day.
+
+This is good info. I like this system.
+
+So I guess he buys the 1 min breakout, if he stops out, he tries the 5 min breakout and if that stops him out he tries the 60 min breakout?
+
+3:25pm. He only waits for the close on the moving averages to close out his positions. Ok...
+
+...Just heard from my bro. It seems we will be going to be beach today as well.
+
+Nice. I didn't think I'd be getting any exercise today given how bad the weather was yesterday.
+
+> Intraday violations are very common and that is something that got me when I was learning and experimenting with this method.
+
+3:50pm. 
+
+> You don't have to monitor them. That's the good part about swing trading.
+> You have these bull runs.
+> It's a low effort type of trading. You have to put in a lot of effort at first to learn all of these things, these patterns, the fundamental drivers of the stocks, the overall market. It takes many years to put it together. But once you get it it's a fairly low effort type of trading.
+
+3:55pm. https://youtu.be/K0F73Sq90j0?t=3312
+
+Let me stop here. I am going to the beach.

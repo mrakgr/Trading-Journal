@@ -5033,3 +5033,190 @@ I want to trade stocks like INT.
 If NBIS acts right, you can be I am going to be adding to it.
 
 Now let me watch Qullamagie's video.
+
+8:20am. https://youtu.be/xx8GvtAxilk
+Qullamaggie Swing Trading School
+
+I just have to put it all together and I will be able to turn a leaf in my profitability.
+
+> Like, I haven't left mom's basement. I take out the garbage and stuff.
+> And I go upstairs to bring the food down. But I rarely leave mom's basement....
+> I don't really meet a lot of girls.
+> So I can't say that I've noticed more female interest.
+
+Oh, my god. He's just like me. The bald head and the mustache fooled me.
+
+Actually, let me go through all the volume gainers in the US now that the market is closed.
+
+![WYFI](images/image-387.png)
+
+This could be a good find.
+
+![ALAB](images/image-388.png)
+
+Don't want to buy this right now, but maybe next week if it narrows down.
+
+![ALAB](images/image-389.png)
+
+Both of these are AI plays.
+
+Ok, I am interested in them.
+
+![BSTG](images/image-390.png)
+
+Missed the breakout on this one. But I can wait for a narrow week.
+
+![IESC](images/image-391.png)
+
+There are decent opportunities everywhere you look.
+
+8:45am. Ok, the first weekly break I'll use my intuition whether or not to ignore. Often even in good stocks there are snapback rallies in the next week or 2. But that will be my limit.
+
+Yeah, 1 week for a snapback rally should be the limit, more than that is a sign that the momentum is fading.
+
+These rules would have gotten me out of the euro defense stocks so much more quickly.
+
+![CTRI](images/image-392.png)
+
+Worth watching. A lot of volume is coming into this one.
+
+![CRWV](images/image-393.png)
+
+This one is also ramping up on the Oracle deal. Yeah, I've read the news that OpenAI signed an 300b deal with Oracle.
+
+![CRDO](images/image-394.png)
+
+Here is a good example of a snapback rally.
+
+![](images/image-395.png)
+![](images/image-396.png)
+
+Really good fundamentals.
+
+I don't have to fear crashes at all with this system. I should go in more aggressively.
+
+![WLDN](images/image-397.png)
+
+Amazing trade. It's topping now.
+
+![REAL](images/image-398.png)
+
+This one isn't just a buy, but a buy today.
+
+![](images/image-399.png)
+![](images/image-400.png)
+
+The fundamentals aren't crazy good.
+
+![FIX](images/image-401.png)
+
+This is also a buy at the open.
+
+![](images/image-402.png)
+
+Good annual growth.
+
+![CORZ](images/image-403.png)
+
+This could be a buy. What are the fundamentals?
+
+![](images/image-404.png)
+
+It's an overpriced shit crypto company. Nwm.
+
+![STRL](images/image-405.png)
+
+I don't see this as topping action.
+
+![STRL](images/image-406.png)
+
+Could also be a buy at the open.
+
+![](images/image-407.png)
+
+The fundamentals aren't that good, but the margin is improving.
+
+...I am going to pass on this.
+
+The stock has a tendency to top on earnings.
+
+![RDDT](images/image-408.png)
+
+I have no idea whether this pattern is good, so that means it's not.
+
+I'll keep it on my watch list and see whether it has a narrow week.
+
+![GEV](images/image-409.png)
+
+I am a fool. There is so much opportunity every day.
+
+![BE](images/image-410.png)
+
+This one is a miss. Great pattern though. It broke out ahead of earnings rather than on them.
+
+What I am hoping for is that NBIS ends up being like this one.
+
+![VST](images/image-411.png)
+
+Not interesting to me now, but it would have been an amazing trade in the 2023 - 2024 period.
+
+As a trader this is exactly what I am looking for.
+
+![EQX](images/image-412.png)
+
+A lot of volume is coming into this stock.
+
+Could be a buy down the road. I don't want to buy it after it has gone up 20% for 3 straight weeks.
+
+![MTZ](images/image-413.png)
+
+Don't want to buy this, but take a look at the V pattern on the weekly chart.
+
+Lance daytrades those on the 2 min chart.
+
+![ANET](images/image-414.png)
+
+Let me also add ANET to the list of buys.
+
+![MOD](images/image-415.png)
+
+Do I buy this one after all?
+
+![GOSS](images/image-416.png)
+
+Would have been a great buy on the narrow week.
+
+![ORCL](images/image-417.png)
+
+Nevermind, I don't want to initiate a bunch of buys on B tier setups that are merely breaking out, but have no news catalyst otherwise. It's not a point that I make a lot of money now.
+
+It's that I build up my skills for what is to come.
+
+The next 7 weeks are still my vacation time so I'll only put my money into the choicest setups.
+
+10:10pm. Let me go back to watching Qullamagie's vid.
+
+![5 start](images/image-418.png)
+
+He's saying that this is a 5 star setup. Interesting.
+
+Yeah, I am a bit weak when it comes to buying beaten down stocks. I need to change that.
+
+![MOD](images/image-419.png)
+
+Come to think of it, I've never actually tried trading high volume breakouts specifically for some reason. At least, I don't think I've tried sorting my watching by volume in the last decade.
+
+WTF? I actually have a journal from that period. What the hell was I doing back then? It doesn't matter.
+
+![FSLY](images/image-420.png)
+
+He says this is a 5 star setup. Not much volume on the breakout though.
+
+![FVRR](images/image-421.png)
+
+Interesting that this is a 5 star setup to him. Well, he made 100m, so he knows better than me. I'll burn it into my mind.
+
+https://youtu.be/xx8GvtAxilk?t=1143
+> You need to find a stock that makes a big move, then pulls back and goes sideways for a while, finds support at either the 10, the 20 or the 50 day moving average and bounces, starts building higher lows like here or has an undercut and reclaim.
+
+10:50pm. The power is out. Let me shut down.

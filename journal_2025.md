@@ -5401,3 +5401,22 @@ Nice. I didn't think I'd be getting any exercise today given how bad the weather
 3:55pm. https://youtu.be/K0F73Sq90j0?t=3312
 
 Let me stop here. I am going to the beach.
+
+7:40pm. Phew, I am back.
+
+7:50pm. I really wanted to go back and look at the chart of Tazor (now Axon) back in 2003 in order to get a sense of how my current system would have far on it. In fact it'd have done decently well.
+
+![NBIS](images/image-427.png)
+
+It went up 10% from the open when I bought it, but now it's starting to hang near my purchase price. Meh.
+
+There is no point in hurrying. I think I'll move to doing all my trades over the weekend and then entering and exiting using OPG orders.
+
+8pm. Let me continue the Qullamaggie interview.
+
+Over the weekends, I am going to change how I do screening. I am going to be looking at volume screens on the weekly and monthly charts.
+
+9pm. https://youtu.be/xx8GvtAxilk?t=3532
+Qullamaggie Swing Trading School
+
+Let me stop at 58:52 here, I had enough for one day. I'll finish this tomorrow and return to Lance's course.

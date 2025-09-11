@@ -5194,7 +5194,7 @@ It's that I build up my skills for what is to come.
 
 The next 7 weeks are still my vacation time so I'll only put my money into the choicest setups.
 
-10:10pm. Let me go back to watching Qullamagie's vid.
+10:10am. Let me go back to watching Qullamagie's vid.
 
 ![5 start](images/image-418.png)
 
@@ -5219,4 +5219,114 @@ Interesting that this is a 5 star setup to him. Well, he made 100m, so he knows 
 https://youtu.be/xx8GvtAxilk?t=1143
 > You need to find a stock that makes a big move, then pulls back and goes sideways for a while, finds support at either the 10, the 20 or the 50 day moving average and bounces, starts building higher lows like here or has an undercut and reclaim.
 
-10:50pm. The power is out. Let me shut down.
+10:50am. The power is out. Let me shut down.
+
+11:20am. ![good setup](images/image-422.png)
+
+So this kind of pattern is good too?
+
+I'll keep it in mind. Stockbee says that the goal is to buy on day 1 of a momentum burst and sell on day 3-5.
+
+11:30am. Done with breakfast. Let me focus.
+
+I don't think I am going to be able to get big returns solely by trading the weeklies. The biggest winners tend to rush out of the gates after their breakout so the volume screener is something I'll have to focus on.
+
+But well, they don't always jump out right away.
+
+I'll have to think about it carefully.
+
+By holding stocks for longer, I think that I am restricting myself to stocks that don't move as much.
+
+I might be better off doing what he says which is to sell in 3-5 days if there is no follow through. I am not a fan of selling parts of my position though.
+
+But still, that might be the answer to improving my consistency.
+
+11:35am. I should give the cascade system a rest and really study Qullamagie's breakout trading method. He really got it from Pradeep though.
+
+He is trading very high volatility stocks with tight stops. That really opens him up to a lot of positive skew when he is right.
+
+Yes, let's put off trading anything more than NBIS until I can think things through more deeply.
+
+![](images/image-423.png)
+
+Ah, he is trying to buy this at the opening range highs. Damn. I don't like that.
+
+![](images/image-424.png)
+
+This is a 7 star setup on a 5 star scale for him.
+
+11:55am. > I usually don't buy the stock if its up more on the day than its average true range.
+
+![](images/image-425.png)
+
+> 5 fraud reports so far
+
+Lol'd at that chart note.
+
+I see, so you have to get in at a good price in these kinds of stocks, and for that it's not good enough to just put in an order at the close. You have to buy the breakout intraday.
+
+That's labor intensive.
+
+I should just avoid such opportunities.
+
+https://youtu.be/xx8GvtAxilk?t=2396
+> I am gonna show you just a very simple swing trading method.
+> Very simple.
+> There is no reason why you couldn't double your account year-in and year-out.
+> And in a good market more than double your account.
+
+I am listening.
+
+Also, I should start paying attention to the ATR.
+
+![](images/image-426.png)
+
+He bought this right in the middle of the range. He's really on top of things.
+
+12:15pm. https://youtu.be/xx8GvtAxilk?t=2863
+
+Let me pause here at 47m. I need a break.
+
+12:20pm. I wonder how he's placing his stops?
+
+12:35pm. Yeah, I think I should just believe him when he says that it's possible to get 100% year consistently.
+
+I should finish these courses, the school, do my backtesting, create the bots to help me trade.
+
+The daytrading bots aside, I can have them monitor the stocks and buy them intraday when they break out in order to get better entry prices.
+
+A little by little I could build up the edges.
+
+And while my current system might not be good enough to reach peak performance, it is useful. I could trade off weekly charts and do my scans only during weekends if I get a job again.
+
+I just have to live my life the way I want. I don't have to be the best trader.
+
+12:50pm. Damn it, according to his rules the stocks I was considering buying are all overextended. They are above the ATR.
+
+12:55pm. I cannot follow his system right now. I am not willing to be glued to the screen in order to make 100% per year.
+
+1:25pm. Let me resume.
+
+It feels like I am just repeating the same mistake as in the past decade. Back then my biggest mistake isn't that I didn't follow my system, but I didn't really have a system apart from cutting losses quickly.
+
+Now Q is giving a new system, but how should I know how good it is?
+
+Wouldn't it be a good idea to backtest his ideas and get some feedback before I decide to try trading it. The same goes with the cascade system.
+
+If it's merely buying breakouts, I could design a simple daytrading system for that that could buy stocks above key levels instead of waiting for the close.
+
+So far the rules seem to be:
+
+* Buy breakouts from oversold conditions.
+* Sell below 10 day moving average.
+* Trade high ATR stocks.
+
+It seems simple, but maybe the system is even better than the one I am using simply because buying breakouts opens you up to a lot of positive skew.
+
+Mean reversion systems would sell a stock after it recovers a little, but if you hold for the surge you open yourself up to it going up 100% and more.
+
+And trading frequently and selling losers frequently forces you to rotate into the strongest stocks.
+
+Also compared to buying catalysts, this system is much more general purpose.
+
+1:30pm. But like with the VWAP system, I don't really have any idea how good it would be compared to the one I came up yesterday. I'll have to backtest it to get a basic sense for it. If the VWAP system can make 40% per year with 10% drawdown, maybe there are better systems out there.

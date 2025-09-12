@@ -5725,3 +5725,23 @@ There is also the VWAP.
 No, it doesn't. Both him and O'Neil could have mentioned it and it might have save my career.
 
 2025 is so great. It so much easier to find good learning material nowadays.
+
+7:15pm. https://youtu.be/xx8GvtAxilk?t=10206
+> You can buy them at any time of day as long as the stop is not further than the average true range.
+
+7:20pm. ![MCHP](images/image-449.png)
+> Is MCHP a good setup? What? This doesn't look anything remotely like I showed you guys.
+
+https://youtu.be/xx8GvtAxilk?t=10545
+> You move your stop to breakeven after the first 3 to 5 days.
+
+And init stops are at the lows of the day.
+
+I really like this. This is very tight right control.
+
+https://youtu.be/xx8GvtAxilk?t=10620
+> You can ask me anything, you can ask me. I can be your psychologist, your best friend, I can give you life advice, I can give you love advice...hey look. I am here for you guys.
+
+Gigachad.
+
+7:35pm. He reveals his trading positions and I am afraid to make the size my account public.

@@ -5745,3 +5745,254 @@ https://youtu.be/xx8GvtAxilk?t=10620
 Gigachad.
 
 7:35pm. He reveals his trading positions and I am afraid to make the size of my account public.
+
+https://youtu.be/xx8GvtAxilk?t=11168
+> How I use Twitter as a trading tool? I look at news and I have a very curated list of people that are good at what they do.
+> Some of them have good trading ideas, some of the are just news guys, but I think Twitter is a very good tool to get a grip on what is going on.
+
+https://youtu.be/xx8GvtAxilk?t=11310
+> I want only the people in here that are willing to learn and stand on their own two legs. Or since we're trading, sit on your asses.
+> And not follow me blindly.
+
+https://youtu.be/xx8GvtAxilk?t=11338
+> Yeah, look...I think Nathan Mishodes is a great guy, he's a successful trader, but I just don't think that...
+> ...Scalping is such a grind. It's just so hard.
+> There's just so many things that can go wrong. You're always like near your entry.
+> I don't think scalping...you shouldn't do it. I don't think you should daytrade. I think swing trading is the best thing to start with.
+> I started as a daytrader because I didn't know anything else.
+> The people I followed were daytraders.
+
+And I was an idiot who didn't follow anybody. It worked for me in programming...no scratched that. It only worked for me in programming because I got fucked hard in high school trying to do national level and olympiad level problems without success. Then when I became a programmer in 2015, I learned from that experience, dropped my ego and voraciosly learned from anything and anybody. I stopped measuring my skill by how much I could achieve on my own.
+
+7:50pm. The reason why I am learning from Lance and Qullamaggie now is because it should be blindlingly obvious that I cannot tell how good a rule is via reason.
+
+> It took me a couple of years before I found somebody who was swing trading successfully.
+> His name is Pradeep and he run stockbee.biz
+
+Yeah, I found him too and didn't learn from him despite reading a lot of his blog.
+
+7:50pm. This is why I am wary of this second attempt at trading. I was incredibly incompetent the first time around.
+
+![](images/image-450.png)
+
+Actually I am surprised he is only using a 4% ADR.
+
+Hmmm, I only played with that briefly. I think is set it to a weekly value, nevermind. I'll have to take a look at what the ADR of the stocks I am following is exactly.
+
+https://youtu.be/xx8GvtAxilk?t=11642
+> I don't know if I would qualify for the market wizards books.
+
+He is more qualified that some of the people in the latest one. I'd say he is more qualified than most of them in fact.
+
+![](images/image-451.png)
+> Oh please don't tell me it's Peter Brandt. Please don't tell me.
+
+He got it right.
+
+> Oh guy, that guy's a fucking fraud.
+
+Really?
+
+> Like, the guy claims he has made 30% per year over the last 30 years. He should be a multibillionaire.
+> Yet, he has a service he sells for a couple of 100 bucks per month.
+> I mean, something is very, very wrong here.
+
+Personally, I think Brandt is most likely legit.
+
+![](images/image-452.png)
+> Look at this thing. Private Twitter alerts. Does this guy sound like a billionaire?
+
+He probably just pulls money out of his account.
+
+https://youtu.be/xx8GvtAxilk?t=11869
+> My average return over the past 7 years is just under 300%.
+
+Fucking crazy.
+
+> 30% tax rate in Sweeden.
+
+It's only 10% in Croatia. Hope it stays low.
+
+He also mentioned at some point in the video that 95% of his trades are swing trades, so the strategy he is teaching here is his primary strategy.
+
+8:10pm. https://youtu.be/xx8GvtAxilk?t=12016
+
+> Swing trading is better if you have a job. You don't have to sit there and watch the market. This is also something I'll put in my about page.
+
+> How long it would take to go from 100k to 1m?
+
+He says 2-3 years if the market is good and the method is good.
+
+> What I learned from Pradeep?
+> The same exact method that I teach you is what I learned from Pradeep.
+
+Really?
+
+Maybe I was wearing blinders during the previous attempt. Which is likely. Don't know how I missed all of this.
+
+https://youtu.be/xx8GvtAxilk?t=12602
+
+I get it I really get how trading the micros works now. They really explode once they run up, and I need to get them as close to the opening price.
+
+The reason why I stayed away from those kinds of stocks is because they can have plenty of strong updays where the next day it gets completely retraced.
+
+![BBAI](images/image-453.png)
+
+Not sure if the BBAI sell-off is the best example, but those kinds of red candles after the run starts scare me. Some of are worse.
+
+So price improvement on the entries would be a huge benefit to my bottom line.
+
+I think starting next week I am going to create a watchlist of high ADR stocks with high momentum that I want to follow and trade once they have a breakout.
+
+I've never, ever traded on the open in the first hour. It feels too hectic. I should just get used to it.
+
+https://youtu.be/xx8GvtAxilk?t=12606
+
+Look at how these gap up and then just blast off from the open on high volume.
+
+The bear market still hasn't started yet. I cannot let my psychology influence my read of the market.
+
+I want to stop using my outdated methods and move to better ones.
+
+That's what deep down I want to do.
+
+I spent a shitload of time studying charts. Finding the kinds of setups he is showing isn't hard for me.
+
+The execution is the hard part.
+
+![OPEN](images/image-454.png)
+
+No pun intended, but this is why you want to buy on the open, on the first minute ideally. The opening range keeps you safe. If you bought this on the close, you're immediatelly underwater the next day, having some pretty severe losses.
+
+This kind of situation is exactly why I am afraid of buying these kinds of stocks.
+
+To think I could just use the OBR method to find my ideal entries.
+
+Arguably, I do need a bot to trade multiple breakouts during the opening minutes of the day, but that trading method would be quite easy to program.
+
+8:35pm. I can get so much better now that I am not making up my own theories like at the start of the year.
+
+Credit where it is due, this time I am going through the learning process in a much better fashion.
+
+https://youtu.be/xx8GvtAxilk?t=12751
+> I use Interactive Brokers and Centerpoint.
+
+I think he mentioned Centerpoint as being good for shorting.
+
+But now that I am getting a major uplift to my trading methods, I won't need that stuff anymore. I'd rather trade the parabolic moves on the way up.
+
+https://youtu.be/xx8GvtAxilk?t=13040
+> Here we added more on the opening range highs.
+> Again it's the first 1m, 5m and/or the 60m high.
+
+Actually I am not too sure how those rules are supposed to work. If they got stopped out on the 1m range during the 3rd minute, then when do they get back in?
+
+Do they wait for 5m to elapse and then buy at the 6m close if it's above the 5m opening range high?
+
+Seems like a pretty good system.
+
+The daytrading paper tested such a system on stocks in play and found it to have edge.
+
+It's really a brilliant way to combo daytrading into swing positions.
+
+![XP](images/image-455.png)
+> Is this a good setup?
+
+3/5. I think it's decent if it breaks out. It could be even better if it consolidates for a week or so before breaking out. Right now it's loose.
+
+https://youtu.be/xx8GvtAxilk?t=13753
+> What do I think of William O'Neil's book `How To Make Money In Stocks`? It's probably one of the 5 best books on trading ever written.
+
+Yeah, it has a lot, except the final pieces I really needed.
+
+![ONTX](images/image-456.png)
+> For those of you who have small accounts this is a very good setup.
+
+Damn. I've been trading completely wrong.
+
+Generally these kinds of setups are very polarized. They can go up 100-500%, but they can also crash down to earth.
+
+I cannot trade these kinds of setups using long term momentum or even with weekly cascade. But the swing trading system they are using could make quick work of it.
+
+Wow, just wow. This swing trading school might be the single most important financial lesson I've ever received.
+
+The Tao Ceti job got me to 100k. This will get me to 1m and beyond.
+
+9:15pm. https://youtu.be/xx8GvtAxilk?t=14006
+> The best long and short opportunities are when the markets are strong and going higher.
+
+Interesting that he says the best short opportunities are in bull markets.
+
+![UAVS](images/image-457.png)
+
+This is a 5 star to him. Interesting.
+
+I am going to have to retrain my brain a little to not avoid these microcaps.
+
+https://youtu.be/xx8GvtAxilk?t=14072
+> It gapped up, so far it sold off the gap, but if it starts taking out highs for the day...and it doesn't even have to take out the highs for the day.
+> If it closes really strong, if it closes 3.05, 3.10 something like that....
+> And then you use the lows of the day as your stop.
+
+I had no fucking idea how swing trading worked. Not until I watched this video. Lows of the day as a stop is something new to me. I don't think I've ever considered it.
+
+> If it closes really strong, if it closes 3.05, 3.10 something like that....just a few pennies below the highs of the day. That could also be an entry.
+> But right now it looks weak, it got rejected on the VWAP.
+> Right now it's all about waiting.
+
+This is very instructive. This was nowhere in the strategy outline.
+
+![NBIS](images/image-458.png)
+
+This trade is a loser. Let me close it. In fact, I could try out the market on close order here since it is rallying into the close.
+
+9:35pm. Put in an order for it. Nice.
+
+First time using market on close. Hope it actually closes.
+
+Let me finish the swing trading school.
+
+I'll have to pay off the debt in dollars I'll owe to the brokers on Monday. It will be 100$ or less, so it's not a big deal. Not a big losing trade.
+
+![NBIS](images/image-459.png)
+
+It actually reclaimed the VWAP, so it isn't that bad to aim for the close with the order.
+
+https://youtu.be/xx8GvtAxilk?t=14971
+> The biggest thing I learned from Dan Shapiro are 60 min candles and ranges.
+
+Does he mean like the 60m opening range?
+
+He mentions he was a part of his room.
+
+9:50pm. At any rate I've finally watched the entirety of the video, and am ready to start my swing trading journey.
+
+Even though they are calling it swing trading, this is really a opening range breakout strategy combined with fast momentum rules. Because of its structure, I'll be able to trade the kinds of dangerous micro-caps and other such stocks I would have been too afraid of before.
+
+Nothing I was doing before comes close to this.
+
+Who knows, maybe I really will be able to make over 100% per year with this. My trading skillset is a good fit for it. I did spend a lot of time reading charts over the years.
+
+All I needed to do was add a tiny bit of daytrading knowledge to the mix to win.
+
+9:55pm. I wonder what price I'll get for the NBIS sale?
+
+I won't hide the dollar amounts anymore. If Kristjan can show it, then I should be able to do it as well.
+
+10pm. SOLD 50 NBIS @ 90.41
+
+This is actually a pretty good price! I made the right choice.
+
+![NBIS](images/image-460.png)
+
+This kind of rally of the close is in fact exactly what I've been hoping for. I probably lost 60-65$ on this trade in total.
+
+I could have lost a ton more all things considered.
+
+Monday I'll log into my account and do some forex trades to balance things out.
+
+Let's not do anything today since I am tired.
+
+10:10pm. Done with the swing trading school. Got out of NBIS at a minor loss. What I've learned from Quallamaggie is huge and life changing.
+
+Let me get dinner and it's time for bed. See you tomorrow.

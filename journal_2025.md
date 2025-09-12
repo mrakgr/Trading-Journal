@@ -5420,3 +5420,71 @@ Over the weekends, I am going to change how I do screening. I am going to be loo
 Qullamaggie Swing Trading School
 
 Let me stop at 58:52 here, I had enough for one day. I'll finish this tomorrow and return to Lance's course.
+
+9/12/2025
+
+8:05am. ![RHM](images/image-428.png)
+
+I couldn't sleep last night. I realized the implication of Qullamaggie's brand of swing trading.
+
+I've been looking at the chart of RHM and EXA and realized that my current system is very similar to a 20 day Friday close system. No need to think deeply about the patterns like I have, and call it cascades. I can just use a 20 day SMA and sell when the trade closes below it on Friday, either at that day's close or next week on the open.
+
+Indeed, when it comes to RHM or EXA, it would have caught a lot more of the move than the 10 MA system.
+
+But I also realized that swing trading with tight averages like he does, means he opens himself up a lot more to positive skew.
+
+He will have more trades than me, he will have faster and bigger winners. And if he trades like that, the more the winners will be influenced by getting better entry prices.
+
+Since he has more trades the execution matters more for him.
+
+And I realized that this could be the difference between breaking even and making 100% per year, and my confidence broke.
+
+8:25am. Yeah, it matters a lot whether you sell at the 10 or the 20 day moving average. That guy is doing what I couldn't have imagined. It really is swing trading and not position trading like I am doing now.
+
+Forget my cascade system rules. I think I'll just use the 20 day volume weighted MA for my sells.
+
+8:40am. Let's go back to the cascade system. I started it, and I should at least make a single trade using it.
+
+The swing trading system that Q uses is very tight.
+
+I wouldn't have thought at all of using something as tight as it at all.
+
+I must finish the course and then start doing in depth research.
+
+What I thought works in the market might not necessarily be the thing that works best.
+
+Looking at a chart and trying to figure out how a particular system works without the aid of machines isn't a good way of learning trading after all.
+
+8:45am. That guy is very lucky to have stumbled into such a high % return system.
+
+I on the other hand am just so bad.
+
+I really cannot and shouldn't trade without the help of the computer.
+
+The more I systematize, backtest and model the market, the better I will do.
+
+My first goal:
+
+* Master automated swing trading.
+
+If he can make 100% per year trading a simple system, then I should be able to suss that out using a systematic approach.
+
+Let me watch these fucking courses. Just what did I get myself into?
+
+I really did waste my first 6 years of trading.
+
+I'd have been much better picking up programming and systematizing it.
+
+Now I am just looking at charts and making the same mistake again.
+
+I am not going to be able to figure it out by looking at charts. Pretty much nobody can do that other than guys like Zanger and now Qullamaggie.
+
+8:50am. Forget looking at the market until next weekend and doing screening. I'll just be tempted to make trades.
+
+During the night my morale broke when I compared myself to Q and I realized that I don't know and couldn't reason out at all whether my simple system is better than his.
+
+I realized that his system might have missed some of the meat on EXA and RHM, but it also opened him up a lot more to positive skew. And that might make a huge difference in overall returns.
+
+When that happened I realized that I really wanted to sell NBIS and go flat.
+
+Damn it, I am making below market returns even in a bull market, but I so want to make 100% per year.

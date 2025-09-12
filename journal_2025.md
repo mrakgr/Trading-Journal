@@ -5504,3 +5504,11 @@ I already knew most of this a decade ago, and couldn't make any money then. And 
 9:10am. ![](images/image-430.png)
 
 What really got me last decade is that the stock charts always look so random and mean reverting to me. I ended up resorting to trying to find smooth stocks and trading those, but that didn't work at all. And then I threw in the towel. I was literally beaten by the market.
+
+9:15am. ![](images/image-431.png)
+
+He says that I need to screenshot this and build a database.
+
+But is this a really good setup, or does it merely look good on a chart?
+
+I cannot answer this question at all. I cannot prove anything.

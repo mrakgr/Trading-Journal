@@ -5671,3 +5671,7 @@ I want to make money with minimal effort and paid a huge price for it.
 I wasn't stupid for not being able to figure out swing trading. The best swing opportunities do need an OBR system for timing entries. Otherwise if you buy on the close, you can very easily lose 10% the next day. Being able to daytrade in order to limit risk would have changed things drastically.
 
 I am going to do it right this time around.
+
+5:30pm. I am back from the beach. New plan. I am going to come in at 9:30pm, 30 mins before the close and sell the position if it is down. If it's aggressively absorbing the demand I'll hold NBIS, but if it's scared of the offering, forget it. I am washing my hands of it.
+
+I need to start working ASAP. I need to start daytrading the ORB system in sim mode, backtesting and creating bots. I need to master the breakout trade thoroughly.

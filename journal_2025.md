@@ -5744,4 +5744,4 @@ https://youtu.be/xx8GvtAxilk?t=10620
 
 Gigachad.
 
-7:35pm. He reveals his trading positions and I am afraid to make the size my account public.
+7:35pm. He reveals his trading positions and I am afraid to make the size of my account public.

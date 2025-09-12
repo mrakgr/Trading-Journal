@@ -5661,3 +5661,13 @@ The opening is there. This method of trading wouldn't require complex probabilis
 I can easily program those kinds of rules into a bot.
 
 If I could significantly improve my entries on the micro and small caps using this approach, 100% per year wouldn't be out of the question.
+
+1:25pm. ![PDT circumvention](images/image-442.png)
+
+Had I tried just a little harder back in the 2007 - 2014 period, things could have been different. I didn't even know it was possible to get around the PDT rule using cash accounts.
+
+I want to make money with minimal effort and paid a huge price for it.
+
+I wasn't stupid for not being able to figure out swing trading. The best swing opportunities do need an OBR system for timing entries. Otherwise if you buy on the close, you can very easily lose 10% the next day. Being able to daytrade in order to limit risk would have changed things drastically.
+
+I am going to do it right this time around.

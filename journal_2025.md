@@ -5675,3 +5675,53 @@ I am going to do it right this time around.
 5:30pm. I am back from the beach. New plan. I am going to come in at 9:30pm, 30 mins before the close and sell the position if it is down. If it's aggressively absorbing the demand I'll hold NBIS, but if it's scared of the offering, forget it. I am washing my hands of it.
 
 I need to start working ASAP. I need to start daytrading the ORB system in sim mode, backtesting and creating bots. I need to master the breakout trade thoroughly.
+
+5:50pm. Done with lunch. I had trouble sleeping tonight and I am stressed out. Finishing Lance's course and the swing trading school is just about what I need at this point. Then it is a matter of getting screen time and putting in the work. I need to resume programming.
+
+6:20pm. https://youtu.be/xx8GvtAxilk?t=8351
+
+Here he is losing a million due to a fat finger trade. Damn.
+
+6:35pm. https://youtu.be/xx8GvtAxilk?t=9204
+> Guys, if you haven't made your first million don't short. Anything I say about shorting just ignore.
+
+6:45pm. ![](images/image-443.png)
+
+I know the specific setups on the daily chart, but what are the specific intraday entry criteria that he uses?
+
+![the setup](images/image-444.png)
+
+He only enters in the morning? Not in the midday or the afternoon or the close?
+
+Ok, that makes things easier.
+
+![](images/image-445.png)
+
+So he is just trading the opening range? Really?
+
+![](images/image-446.png)
+![](images/image-447.png)
+
+I can just put aside my ego and do what needs to be done.
+
+In the previous decade I did read the opening range breakout method in the book by Toby Crabel, but it didn't occur to me that I need to put it into action.
+
+Ok, so for breakouts, the ORB it is. I made a huge repeated mistake waiting for the close in the last decade.
+
+I am going create a bot to make trading the ORB easier.
+
+So that's two key tools at my disposal, the ORB and the VWAP.
+
+![](images/image-448.png)
+
+So the parabolic long comes after the short. Again he uses the ORB method.
+
+I really wonder how crypto could be traded without that tool?
+
+There is also the VWAP.
+
+7:10pm. Does Minervini's book have anything on trade entries?
+
+No, it doesn't. Both him and O'Neil could have mentioned it and it might have save my career.
+
+2025 is so great. It so much easier to find good learning material nowadays.

@@ -5649,3 +5649,15 @@ It's going to give me a kick.
 12:50pm. Oh my god, IBKR's charts are such fucking trash! I want to get and look at BBAI 1 min charts and I can't do it.
 
 Let me go have breakfast.
+
+1:10pm. https://youtu.be/xx8GvtAxilk?t=6627
+
+Will go to the beach in an hour so let me pause here.
+
+I understand what my mistake was. I need to approach swing trading from the perspective of a daytrader rather than from the perspective of a long term holder.
+
+The opening is there. This method of trading wouldn't require complex probabilistic programming. I only need to hold my successful ORB trades overnight.
+
+I can easily program those kinds of rules into a bot.
+
+If I could significantly improve my entries on the micro and small caps using this approach, 100% per year wouldn't be out of the question.

@@ -5512,3 +5512,76 @@ He says that I need to screenshot this and build a database.
 But is this a really good setup, or does it merely look good on a chart?
 
 I cannot answer this question at all. I cannot prove anything.
+
+9:20am. > You'll get the best breakouts in a bull market and in a bull market you'll have 100s of stocks. There is no point in putting more than 25% of your account in a stock.
+
+https://youtu.be/xx8GvtAxilk?t=4761
+
+> Opening range you buy it, and lows of the day is your stop.
+
+I am going to need daytrading systems just to support my long term trading it seems.
+
+https://youtu.be/xx8GvtAxilk?t=5016
+> [The dollar volume] depends on your account size. Just take your account size and do that times 30 or 50.
+
+10:15am. ![OKLO](images/image-432.png)
+
+I am starting to see it. Maybe a system that trades the strong closes and the bounces above the 10 day VWMA would be good?
+
+My failure to trade well could be entirely due to my preconceptions.
+
+![RHM](images/image-433.png)
+
+When it gets going, it really holds above the 10 day VWMA cleanly doesn't it?
+
+10:30am. ![STRL](images/image-434.png)
+
+The lightbulb is starting to flick for me.
+
+I don't really have to sell every time it closes near the 10 day average. Strong stocks tend to bounce hard from that level during uptrends.
+
+I could buy some of these breakouts and trade them. I could buy pullbacks to the 10 day average.
+
+10:40m. I am addicted to trading, just in a different manner from Q.
+
+Let me look at more of his setups. Let me go back to the video. I said I wouldn't look at the charts, and now I am looking at them, observing how the prices act around the 10 day VWMA carefully.
+
+Compared to Lance, Q just seems to be turning over my preconception of how totrade. It's upsetting me.
+
+But I am starting to see it. If I want 100% per year consistently I need to up my game.
+
+![OPEN](images/image-435.png)
+
+This is the usual climax pattern. If I had a VWAP system implemented, I'd be very tempted to trade these kinds of stocks once they start gapping up off the open.
+
+![OPEN 1-min](images/image-436.png)
+
+Just look at how it acted off the open. The VWAP system would have had a field day with this. So would an OBR system.
+
+But what really sticks out at me is how the stock acted relative to the moving average post breakout. It did close a tiny bit below it at one point, but started holding up.
+
+That is a pattern.
+
+I should try trading it.
+
+As for daytrading. I think this stock could have another uptrend day today, but I don't have a system capable of handling it.
+
+Wow, if I could learn to trade stocks like these successfully, I could have a successful career as a trader.
+
+![ASTS](images/image-437.png)
+
+This stock has had a lot of shakeouts with the 10 day system.
+
+It's important to get back in when trading it.
+
+11am. Yeah, I can mix up various momentum methods. There is no reason I couldn't use the cascade system in combination with this one.
+
+11:15am. ![RHM](images/image-438.png)
+
+I don't regret selling it at all, but this was a great swing setup when I had sold it.
+
+11:25am. I am not watching the video at all. All I am doing is looking at the charts and thinking deeply.
+
+Let me watch some more of it.
+
+I guess it's inevitable that I have to go through the pain of learning in order to get good at this. It will take me a while to regain my shattered confidence. I still haven't gotten over the firing, and it is nowhere else better reflected than in my trading.

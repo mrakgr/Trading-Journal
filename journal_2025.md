@@ -5585,3 +5585,67 @@ I don't regret selling it at all, but this was a great swing setup when I had so
 Let me watch some more of it.
 
 I guess it's inevitable that I have to go through the pain of learning in order to get good at this. It will take me a while to regain my shattered confidence. I still haven't gotten over the firing, and it is nowhere else better reflected than in my trading.
+
+11:40am. https://youtu.be/xx8GvtAxilk?t=5616
+
+Here he is talking about different periods in the market and how it's possible to double and triple your account during bull runs that comes after corrections.
+
+![R3NK](images/image-439.png)
+
+I am going to do much better next time.
+
+I am going to try trading a combination of the 10 day VWMA and the cascade system moving between defense and offense seamlessly.
+
+https://youtu.be/xx8GvtAxilk?t=5635
+
+> If you have more than 10 brain cells, you can make a lot of money. But what most people don't have is patience and temper. Just waiting and doing nothing.
+> Most people want the fix, including me. They need to be doing something all the time.
+
+https://youtu.be/xx8GvtAxilk?t=5735
+> These are as close to magic as you can get.
+
+He's really praising the 10, 20 and 50 day moving averages.
+
+> There is a reason for all of these things. There is a reason for every indicator I use. It's because they work.
+
+https://youtu.be/xx8GvtAxilk?t=6194
+> All you guys have to focus on is the momentum, because all the big earnings are gonna have the momentum.
+
+He is saying how we don't have to focus on earnings for this system, only momentum.
+
+![NBIS](images/image-440.png)
+
+Ok, plan time. I overestimated my risk tolerance and I am really not happy with how NBIS is acting.
+
+If it closes below 86, I am just going to get out of this the next morning.
+
+So much about earnings plays. Good thing I only put in 5k.
+
+I got really lucky that I got it at 91 at the open instead of 98 at the previous day's close.
+
+https://youtu.be/xx8GvtAxilk?t=6279
+> You don't need any intraday scans. All you need to do is use the 1-month, 3-month, 6-month momentum scans, find setups, you need to run them after the close, find good setups and put them in a watchlist and then you just have to watch that watchlist.
+> That's all you need to do to make millions.
+
+https://youtu.be/xx8GvtAxilk?t=6412
+> My average is 49.2.
+
+The stock is at 51 on the chart.
+
+Damn.
+
+![](images/image-441.png)
+
+I can't take it. I am going to make an daytrading system specifically for trading high volume breakouts on the long side. I'll need it to time the entries on the momentum watchlist so I might as well kill two birds with one stone.
+
+I am not going to touch stocks unless I either create that system or the market corrects enough to make trading viable with the cascade system.
+
+Maybe it is viable now and I am just letting opportunities pass, but my mentality is shot currently. I am physically loaded on cash from the job, but I feel absolutely desperate, like I am going to run out any day now. I need to build that edge.
+
+12:25pm. This isn't a bad mentality to have.
+
+It's going to give me a kick.
+
+12:50pm. Oh my god, IBKR's charts are such fucking trash! I want to get and look at BBAI 1 min charts and I can't do it.
+
+Let me go have breakfast.

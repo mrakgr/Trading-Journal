@@ -5500,3 +5500,7 @@ It seems I am not using the tools properly, and I am not even aware of what the 
 They are just vague notions in my mind rather than cast-in-iron principles.
 
 I already knew most of this a decade ago, and couldn't make any money then. And I couldn't make any money this year either.
+
+9:10am. ![](images/image-430.png)
+
+What really got me last decade is that the stock charts always look so random and mean reverting to me. I ended up resorting to trying to find smooth stocks and trading those, but that didn't work at all. And then I threw in the towel. I was literally beaten by the market.

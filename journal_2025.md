@@ -5488,3 +5488,15 @@ I realized that his system might have missed some of the meat on EXA and RHM, bu
 When that happened I realized that I really wanted to sell NBIS and go flat.
 
 Damn it, I am making below market returns even in a bull market, but I so want to make 100% per year.
+
+9am. ![DXM](images/image-429.png)
+
+To his credit, I haven't been looking at ADR and ATR explicitly, and he is forcing me to. He is also forcing me to think shorter term. He is also forcing me to think of the market like a slot machine instead of getting attached to trades.
+
+He is showing me setups on a chart, but the thing is - I already know all of this! I know how to find good setups on a chart, but unlike him I am not making any money!
+
+It seems I am not using the tools properly, and I am not even aware of what the problem is!
+
+They are just vague notions in my mind rather than cast-in-iron principles.
+
+I already knew most of this a decade ago, and couldn't make any money then. And I couldn't make any money this year either.

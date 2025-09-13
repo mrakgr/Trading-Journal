@@ -5996,3 +5996,7 @@ Let's not do anything today since I am tired.
 10:10pm. Done with the swing trading school. Got out of NBIS at a minor loss. What I've learned from Quallamaggie is huge and life changing.
 
 Let me get dinner and it's time for bed. See you tomorrow.
+
+9/13/2025
+
+8am. Change of plans. I am not going to be writing any bots. Instead I am going to be trading myself manually. I am going to restrict my size to 20k, and use only 2k positions while I test the new method out. My goal will be to make 6k. If I can do that I'll ramp up the size to 50k and then full eventually. The main thing I need to learn is to be more efficient with my order entries. I need to learn a little bit from the daytraders. I need to develop my trading process so I can be effective at trading this method.

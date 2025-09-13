@@ -6141,3 +6141,80 @@ Using an ATR to set targets is an interesting idea. Personally I'd prefer to go 
 https://youtu.be/c9A5mek1eFw?t=1740
 
 Let me pause here, I want to go to the beach.
+
+5:25pm. I sure swam a lot. Let me resume. I am really thinking hard how I'll handle the bots. Ideally I'll put every bot in its own container. To manage that, maybe it wouldn't be a bad idea to finally look into .NET Aspire.
+
+I really only require basic skills of how to interact with the IBKR API, how to get data, how to make trades and so on. It will take some work to set all of this up, but it will be worth it.
+
+I want to be a discretionary trader that uses bots to trade.
+
+![](images/image-469.png)
+
+Interesting. There are so many ways to swing trade. This guy is trailing his stops using higher lows.
+
+https://youtu.be/c9A5mek1eFw?t=2092
+> Volume weighted average price anchored from the breakout day. Interesting idea.
+
+7:30pm. ![breakouts](images/image-470.png)
+
+Actually, I thought I understood this yesterday, but I am not sure I do. 
+
+It's one thing if the breakouts start with a gap up.
+
+But I am looking at OPEN and sometime large moves start below the previous close and happen midday.
+
+What if I combined the breakouts with a 10m rate of change. Like - buy the breakout at a specific point, and sell if the rate of change turns negative and the position shows a loss.
+
+7:55pm. Ah, goddamit, it's a more complex thing that depends on volume.
+
+Getting the high % returns requires my entries to be good. If I can make my stops tighter without added risk that would mean a significantly improved return to risk.
+
+8:15pm. ![OPEN](images/image-471.png)
+
+Why am I under the impression that this is a breakout in the midday. It's within the first hour.
+
+![OPEN](images/image-472.png)
+
+Yeah, these breakouts are in the first hour and then they continued for the rest of the day and doubled the candles.
+
+The main problem is that they're a fair distance from the lows of the day where the stop should be.
+
+8:50pm. ![OPEN](images/image-473.png)
+
+I was supposed to be watching the videos, but I am just looking at this chart instead.
+
+I think I get it. The key is the price being above the 1,5 and 30 minute opening range and the volume being abnormaly strong relative to the past 5-10 trading sessions. Also the price needs to be above longer term resistance. I'll have to put in those levels by hand myself.
+
+The Friday 22 breakout was ideal. The previous breakout above the 2.6 happened after the first hour of the morning and the volume wasn't as good. So the setup wasn't nearly as good.
+
+9pm. ![OPEN](images/image-474.png)
+
+Fuck, imagine I got this at the close instead of the first hour, that would have been horrible.
+
+9:05pm. You know, maybe SMB has a video on trading breakouts?
+
+Sure I'll put the volume requirements, the price level and the ORB into it. But maybe there is more to it.
+
+https://youtu.be/c9A5mek1eFw?t=2798
+
+Let me finish this and I'll got to bed. I barely watched anything of Lance. The one video I watched was a replay of last time.
+
+9:10pm. ![SMCI](images/image-475.png)
+
+This is the 15m chart of SMCI during its big breakout. That opening drive could be caught 
+
+![SMCI](images/image-476.png)
+
+Oh, wow that was huge volume. I doubt the trigger would have failed.
+
+Yeah, I could have seen it setup and put the bot in ready to buy mode. As soon as the price level, relative volume and ORB conditions triggered it could have bought it in the first minutes of the open.
+
+There is still plenty of volatility in the market. It isn't so efficient that there is no place for me.
+
+It's just that there isn't room for people who only want to get in the next morning after the breakout. That would kill the RR.
+
+![](images/image-477.png)
+
+Is that Lance in the video? Towards the end there is a pitch by Mike.
+
+9:25pm. Time for bed. Maybe I should apply at SMB at some point?

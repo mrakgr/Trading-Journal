@@ -6064,3 +6064,9 @@ I needed to think about it as a programmer would.
 9am. If only I could get some fucking sleep that would be great. I am starting to have restless nights again. Last night I was too excited with the implications of this method relative to my simple probabilistic programming model of the market, when I really realized what it would do. I realized that I can in fact make 100% per year consistently with this if I developed my process and did my preparation properly every day.
 
 At any rate, if I want to trade this method, I need to come in 1h before the market opens and be there 1h after the open. I need to dedicate 2h a day to be present for that during weekdays, and I need to do my reviewing after the close. It's going to take some effort.
+
+9:05am. It really matters a lot that I get good entries near the open. If I make 300 trades per year and improve my entries on average by 1% just how much would that add to my bottom line? I don't think trading breakouts at the close would be a good idea for that reason. Which is why I didn't do it.
+
+I was just too damn lazy to win in the 2007 - 2014 era.
+
+This is the main issue I need to fix now. I need to stop looking for shortcuts and take advantage of the opportunity as it exists. I need to work for my money. I need to make trading my job.

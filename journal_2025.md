@@ -6082,3 +6082,7 @@ This month is supposed to be my vacation time.
 I keep making the mistake of not making my rules restrictive enough and it's been costing me greatly.
 
 In fact, why don't I create that bot to help me? I could just let it run before the open, then come back near the end of the day to see what trades were made, and close out those which don't have much steam. A little effort up front could save me a lot of time in the long term.
+
+9:25am. Right, let me forget about this for now. Let me go through Lance's course, I'll read up a bit more on swing trading and see how things go from there. I need to study how to interact with IBKR's API in order to make the bot, test it in sim mode first and so on.
+
+Even I could make 100% per year, studying more about the method and making my preparations is a vital part of the job. I shouldn't plunge into it right away.

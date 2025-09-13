@@ -6060,3 +6060,5 @@ The lesson from this episode is profound. The main reason why I couldn't beat th
 I needed to think about it as a programmer would.
 
 8:55am. I can do it. I can beat the market with this. With this I can finally begin my trading work.
+
+9am. If only I could get some fucking sleep that would be great. I am starting to have restless nights again. Last night I was too excited with the implications of this method relative to my simple probabilistic programming model of the market, when I really realized what it would do. I realized that I can in fact make 100% per year consistently with this if I developed my process and did my preparation properly every day.

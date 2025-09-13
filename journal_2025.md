@@ -6035,7 +6035,7 @@ An universal heuristic amongst good traders is that the best always work out fro
 
 So it makes sense to use the lows of the day as the stop.
 
-8:40am. Yeah, I've been so stupid. In the previous decade I came at the problem with the misconception that there is no value in indicators and that I could do it better just looking at price directly. I was extremely arrogant to hold that view from the start. I didn't even bother thinking critically about what various moving average periods would do. I didn't know they would act as momentum filters.
+8:40am. Yeah, I've been so stupid. In the previous decade I came at the problem with the misconception that there is no value in indicators and that I could do it better just looking at price directly. I was extremely arrogant to hold that view from the start. I didn't even bother thinking critically about what various moving average periods would do. I didn't even imagine they would act as momentum filters.
 
 Last week, I came up with an idea for a probabilistic program to simulate stock market price action.
 
@@ -6048,3 +6048,15 @@ If we added mean reversion to the mix, meaning that after fast momentum to the u
 But I don't need to simulate the whole market and do rational inference on the simulation. I don't even need to backtest the methods.
 
 All I have to understand is what my rules are filtering for.
+
+8:50am. I don't need a bot to trade them.
+
+I thought that my programming skills would lead me to the answer, but now I see it's not in the way I thought it would be.
+
+What Qullamaggie gave me is an algorithm, and it's up to me to think about it rationally. It's up to me to implement it. It's up to me to come to the conclussion whether the algorithm is any good. That is my responsibility.
+
+The lesson from this episode is profound. The main reason why I couldn't beat the stock market then is the same reason why I cannot figure out the secrets of intelligence now. It was simply beyond the limits of my reasoning. I struggled against those limits, but didn't realize that doing it on my lonesome would not give good results. I needed to be a thief.
+
+I needed to think about it as a programmer would.
+
+8:55am. I can do it. I can beat the market with this. With this I can finally begin my trading work.

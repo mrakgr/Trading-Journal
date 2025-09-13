@@ -6086,3 +6086,5 @@ In fact, why don't I create that bot to help me? I could just let it run before 
 9:25am. Right, let me forget about this for now. Let me go through Lance's course, I'll read up a bit more on swing trading and see how things go from there. I need to study how to interact with IBKR's API in order to make the bot, test it in sim mode first and so on.
 
 Even I could make 100% per year, studying more about the method and making my preparations is a vital part of the job. I shouldn't plunge into it right away.
+
+9:30am. I shouldn't go out of research mode just yet. Learning how to do it properly is a part of the job. Would I as a programmer ever stop here in similar situations? The answer is no!

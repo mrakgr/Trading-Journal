@@ -6108,3 +6108,36 @@ Not sure if I want to use the ATR for stop prices since it also considers gaps. 
 Not buying the stock on new highs if the stop is wider than the ADR would have saved me on this trade had I been using a bot for it.
 
 Yeah, I need a bot. Without a bot, I'd have to keep second guessing my trade management.
+
+1pm. ![l2 box](images/image-466.png)
+
+In the June 2024 review he talks about the importance of the l2 box.
+
+I am not going to trade like this as it's too much work, but this is all great info.
+
+While I was having breakfast, I tried downloading 2 swing trading books and they were complete duds.
+
+https://youtu.be/c9A5mek1eFw
+The Ultimate Swing Trading Guide (For Beginners & Developing Traders)
+
+This is an SMB Capital video. I actually never watched a single video by these guys as they have such click baity titles, but after reading Mike Bellafiore's book I am sure they are the real deal.
+
+Let me stop the June review so I can watch this.
+
+1:15pm. Ok, I am going to start using the 10, 20 and 50 day SMAs. Ryan says that they have real weight to them.
+
+Or rather, I'll keep them in mind once I start extending my holding periods.
+
+1:30pm. ![MSFT](images/image-467.png)
+
+Given that he is trading MSFT, his system isn't nearly as good as Qullamaggie's.
+
+The amount of useful stuff I got from Qullamaggie is insane.
+
+![ATR](images/image-468.png)
+
+Using an ATR to set targets is an interesting idea. Personally I'd prefer to go for homeruns.
+
+https://youtu.be/c9A5mek1eFw?t=1740
+
+Let me pause here, I want to go to the beach.

@@ -6000,3 +6000,51 @@ Let me get dinner and it's time for bed. See you tomorrow.
 9/13/2025
 
 8am. Change of plans. I am not going to be writing any bots. Instead I am going to be trading myself manually. I am going to restrict my size to 20k, and use only 2k positions while I test the new method out. My goal will be to make 6k. If I can do that I'll ramp up the size to 50k and then full eventually. The main thing I need to learn is to be more efficient with my order entries. I need to learn a little bit from the daytraders. I need to develop my trading process so I can be effective at trading this method.
+
+8:05am. I don't need to backtest anything. This method is perfect for me.
+
+I thought about it and comprehended it to perfection.
+
+There are 2 pieces to it that need to be explained.
+
+* It can be traded either 10 (very fast), 20 (fast) or 50 (mid) day SMAs.
+
+My initial impulse was that the 10 day is too fast, but that is wrong. These rules determine what category of winners we're aiming for.
+
+I always fall into the trap into trying to catch the smooth winners. Because I started out this year with a too wide momentum filter, I ended up waiting on the RHM and friends forever as they started to go sideways while the rest of the market kept going up.
+
+Last week I came up with the weekly cascade system, but even that is only analogous to the 20 day filter. If I went with the 10 day, I could trade a far faster category of winners.
+
+* Putting the initial stop at the low of the day and entering in the morning as opposed the close.
+
+This is actually very ballsy and really tests your entry skills, but I could do it.
+
+![R3NK](images/image-461.png)
+
+The main thing that stopped me trying to trade that method is the sharp pullbacks after strong closes like on the 17th Feb in R3NK.
+
+![OKLO](images/image-462.png)
+
+I am really afraid of the sharp pullbacks in stocks like OKLO, but it could be easily handled if I enter during the morning instead of the top of the close, like on 21st of January. It would have been a 50% gainer in 2 weeks.
+
+8:25am. I couldn't come up with these rules myself, but now that they've been presented to me, I can think critically of the consequences of following them.
+
+I used to scoff at moving averages, but if I think of them as momentum filters it all makes sense. And if I am buying when the momentum starts accelerating as the stock breaks out of a consolidation or a pullback, it makes sense to put the initial stop at the lows of the day.
+
+An universal heuristic amongst good traders is that the best always work out from the start. Lance said as much.
+
+So it makes sense to use the lows of the day as the stop.
+
+8:40am. Yeah, I've been so stupid. In the previous decade I came at the problem with the misconception that there is no value in indicators and that I could do it better just looking at price directly. I was extremely arrogant to hold that view from the start. I didn't even bother thinking critically about what various moving average periods would do. I didn't know they would act as momentum filters.
+
+Last week, I came up with an idea for a probabilistic program to simulate stock market price action.
+
+It would basically generate price data from a random assortment of Gaussian distributions with different means and variances. Their length would be inversely proportional to the magnitude of the momentum. So a very fast momentum generator would go on for 20 bars while a neutral generator would go on for 200 bars on average.
+
+And the challenge of such a game would be to using rational Bayesian inference figure out which distribution is the sampling currently being done.
+
+If we added mean reversion to the mix, meaning that after fast momentum to the upside, the downside momentum is more likely, that would result in a different kind of rational reasoning than if the mean reversion effect didn't exist.
+
+But I don't need to simulate the whole market and do rational inference on the simulation. I don't even need to backtest the methods.
+
+All I have to understand is what my rules are filtering for.

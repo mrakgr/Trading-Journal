@@ -6070,3 +6070,15 @@ At any rate, if I want to trade this method, I need to come in 1h before the mar
 I was just too damn lazy to win in the 2007 - 2014 era.
 
 This is the main issue I need to fix now. I need to stop looking for shortcuts and take advantage of the opportunity as it exists. I need to work for my money. I need to make trading my job.
+
+9:15am. Of course, I could always program a bot to help me trade the opening breaks. I could set the levels for it and have it do it for me. That could give me extra time away from the screen.
+
+Anyway, let's avoid starting trading the open next week. There are only a few weeks left in the summer and when the weather turns bad I'll have to stop going to the beach. I'll have plenty of time then to trade during the middle of the day. I don't have to plunge into it right next Monday.
+
+This month is supposed to be my vacation time.
+
+9:20am. Initially, I should avoid trying to catch everything and focus on trading large opening gaps using the OBR system. That would make it easy to deal with.
+
+I keep making the mistake of not making my rules restrictive enough and it's been costing me greatly.
+
+In fact, why don't I create that bot to help me? I could just let it run before the open, then come back near the end of the day to see what trades were made, and close out those which don't have much steam. A little effort up front could save me a lot of time in the long term.

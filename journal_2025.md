@@ -6088,3 +6088,23 @@ In fact, why don't I create that bot to help me? I could just let it run before 
 Even I could make 100% per year, studying more about the method and making my preparations is a vital part of the job. I shouldn't plunge into it right away.
 
 9:30am. I shouldn't go out of research mode just yet. Learning how to do it properly is a part of the job. Would I as a programmer ever stop here in similar situations? The answer is no!
+
+10am. https://youtu.be/czEyUZabE2U
+Is Trading Luck or Skill? Quant Debunks Trading Gurus with Math
+
+Yeah, I think that I could manage my trades entirely mechanically with a trading bot. I could tell it what to trade, and then just run it before the open every day. It could also manage the stops. I could run it on a cheap AWS or Azure instance (in a `tmux` terminal) in case I need to shut my PC down. I could easily make a simple bot in F# to run this strategy.
+
+On the other hand, the probabilistic programming based daytrading system would require GPUs to run and would be a large programming effort. I'd still need to tell it what to trade so it'd be pointless. I'll abandon that idea.
+
+10:25am. I'll have to calculate my own technical indicators in the bot.
+
+![RMA explained](images/image-463.png)
+![RMA explained](images/image-464.png)
+
+Not sure if I want to use the ATR for stop prices since it also considers gaps. Maybe ADR would be better?
+
+![ADR](images/image-465.png)
+
+Not buying the stock on new highs if the stop is wider than the ADR would have saved me on this trade had I been using a bot for it.
+
+Yeah, I need a bot. Without a bot, I'd have to keep second guessing my trade management.

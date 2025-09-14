@@ -6218,3 +6218,193 @@ It's just that there isn't room for people who only want to get in the next morn
 Is that Lance in the video? Towards the end there is a pitch by Mike.
 
 9:25pm. Time for bed. Maybe I should apply at SMB at some point?
+
+9/14/202555
+
+8:15am. I am sleeping like shit. I don't think I feel asleep until 2am last night. I got some trading insights from thinking about OPEN though. It's pattern is very similar to ASTS.
+
+![OPEN](images/image-478.png)
+
+If I put in the volume requirement, it might actually have bought it at 4.3 rathen than 4 or lower like I'd have hoped. And the trade wouldn't be made due to the ADR rule.
+
+8:25am. Huh, the only way it would have gotten bought early would be if I ignore the volume off the open and only looked at it in the last 15m or so, and compared it relative to those trading hours.
+
+I see. I really meant to use cumulative volume since the open, but having just the relative 15m volume for the period being evaluated would be better. At least for the OPEN trade.
+
+![](images/image-479.png)
+
+That rule would have gotten me at this breakout here. The volume itself was really tepid in the morning.
+
+![](images/image-480.png)
+
+And on this breakout the volume was also tepid in the morning, but strong on the breakout itself.
+
+8:35am. I could mix things up.
+
+If the stock is gapping up strongly in premarket, I could use just the 1 min ORB rule.
+If it opened near the close or below it, I could use the relative 15m volume together with a breakout above the resistance level and the 15m ORB.
+
+8:40am. And rather than put the stop at the low of the day, it would be better to put the stop at the last 15m low if buying high volume breakouts.
+
+I need to be nuanced. I don't need to use the same rules Qullamaggie is giving me.
+
+![NBIS](images/image-481.png)
+
+Oh my god, this was such a shitshow. Getting it at the low of the day with OPG orders was a stroke of luck. I wasn't even looking at the premarket prices before I put them in. I glad I only lost a tiny amount on the trade.
+
+But yeah, if the stock gaps down strongly I should do the OPG order and use the 1 min high and low.
+For stocks that gap up strongly, the 1 min ORB rule. I cannot even wait for the volume and it wouldn't mean much on the 1-min chart.
+For stocks like OPEN and ASTS, I should use the relative volume rule with a price level.
+
+I should only trade breakouts in the first 1.5 hours of the day.
+
+![OPEN](images/image-482.png)
+
+The good trades tend to blast off the open. So why not get in right at the open then? I'd have lost 4% on NBIS on the huge gap up, but it would have saved me the following day just like it did.
+
+9:15am. Oh well, I'll think about it.
+
+Let me see if SMB has any breakout videos.
+
+https://www.youtube.com/@smbcapital/search?query=breakout
+
+It has a bunch as expected.
+
+https://youtu.be/O6L6J6Hc3Yw
+Breakout Trades Should Work Immediately
+
+I should put this into the bot. If in 15m the breakout isn't working, just close half the position.
+
+https://youtu.be/bUl5aPhD1SM
+Trader explains the correct way to take a breakout trade
+
+I need to improve it just a bit. It could be easy with some timing rules.
+
+https://youtu.be/FdMcPKGtFgA
+How I Avoid False Breakouts (My Secret Technique)
+
+https://youtu.be/dw9m0jV6PuY
+Opening Range Breakout Strategy
+
+9:25am. They have a ton of great videos.
+
+https://youtu.be/2pJJO9G_Xyw
+The Only Day Trading Guide a Beginner Will Ever Need (The Basics from A to Z)
+
+https://youtu.be/KFqSicS7HOo
+The ORB Strategy (High Odds Breakout Technique)
+
+https://youtu.be/FdMcPKGtFgA
+How I Avoid False Breakouts (My Secret Technique)
+
+I need to watch these. Sorry Lance, your course is going to have to wait.
+
+9:40am. https://youtu.be/FdMcPKGtFgA?t=748
+> The next 5 bars are critical after the break.
+
+What timescale is he talking about.
+
+At any rate, I do think that adding some trend persistence and timing rules could improve the breakout trades significantly.
+
+9:40am. Instead of putting the stop at the daily low, I could try putting it at the 15m low. And then after holding the trade for 15m, I could move it up to break even.
+
+![OPEN](images/image-483.png)
+
+The reversal after the great breakout in OPEN here was so damn severe. It would have turned the +40% gainer trade into a slight losing trade had I moved my stop to breakeven. But I think that's the right thing to do regardless. I don't feel like leaving it at the daily low.
+
+![](images/image-484.png)
+
+Trying to play the rebound would have worked better.
+
+Yeah, if I am really interested in a stock, I need to take small losses and try to have big winners.
+
+Getting in at the open, stopping out and trying again on a subsequent range break 2 times, and having timing rules would work well.
+
+When trading very volatile stocks like these I need persistence and speed.
+
+10am. Let me go back to the videos. Simple rules followed consistently will work best for me.
+
+For trading multiple stocks, a trading bot will make this much easier.
+
+https://youtu.be/FdMcPKGtFgA?t=810
+> When the breakout occurs you want aggressive participation or you want passive participation. You don't want lethargic or indecisive participation.
+
+I'll put all of this into the bot.
+
+https://youtu.be/FdMcPKGtFgA?t=915
+
+Goddamit, he keeps talking about 5 bars. Is that 5, 10 or 15m? It's probably 10. Lance is using 2m charts, so that is probably how they do it at SMB.
+
+https://youtu.be/FdMcPKGtFgA?t=1252
+
+Whoa, this advice on failed breakouts is very good. You don't want to get out right away.
+
+Huh, so maybe I could have a more complex condition that I should sell if it's below the break even price for a few mins?
+
+I don't have to use a straight dumb stop. I can do more complex trade management.
+
+But I think this would be overrated. I am a swing trader, I don't want to fight over pennies with the market makers.
+
+I need to master the breakout trade because it would have a huge effect on my final Pnl. I need to get in at the right time and limit my risk intraday. But I don't need to master it to the degree that a pro daytrader would.
+
+https://youtu.be/FdMcPKGtFgA?t=1283
+> Were going to avoid extended breaks until enough time has gone by.
+> And time usually means one half of the time that this initial move occured.
+> If the initial move was 15 bars higher, we want at least a 7 minutes consolidation.
+
+Oh, so the bars are 5m. Ok.
+
+Maybe I could hold the trades for 5m before moving the stop to break even, but that seems too strict.
+
+Ah, so the extended breaks are breaks without enough consolidation.
+
+He's recommending a reasons to sell video.
+
+https://youtu.be/bndpWHlUHCA
+The Ultimate Guide to Exit Strategies (Prop Trading Firm Secrets Revealed)
+
+Done with the breakouts video. Let me watch the exit strategies one.
+
+11:20am. Right, I need 3 conditions. The break above the price level should be in the last 15m, and the relative volume of the last 15m should be there. I can't just have relative volume and the price being above because that might trigger completely after the breakout has already happened.
+
+11:50am. You know maybe it's the wrong thing to look for volume before I get in. Maybe I should just look for volume after the trade is made.
+
+That could work better?
+
+The difference between getting in at 3.8 and 4 on OPEN is the difference between getting stopped out on the huge pullback and not.
+
+I don't know. I should backtest it. I shouldn't work my mind in a knot trying to reason it out. I cannot possibly know. I need the help of the computer to do this.
+
+12:05pm. I'll leave the daytrading guide for later.
+
+Let me have breakfast here.
+
+Today I was expecting there to be bad weather today, but it is fine, so I guess I'll get some beach time.
+
+12:10pm. Ugh, now I am running into the same issue as last decade where I am trying to reason out a strategy and failing. It's causing my mind a lot of strain.
+
+Just forget it.
+
+Put the stock market strategizing on the backburner. You need to develop the tools and the testing harness. Then the computer will tell you exactly what to do. What the right thing to do is.
+
+12:10pm. Like whatever. Even if I buy breakouts, if the ADR is too large, I could just take half size and put the stop at the low of the day afterwards, but keep it at 15m for the duration of the trading day.
+
+I could sell half to lighten up my risk on B tier setups like in OPEN.
+
+The best setups are gap up opens I think since they offer good entries using the OBR strategy.
+
+I mean, it's not a problem to do the extended breakouts with half size that I'd usually do.
+
+There is no need to think so hard about getting in at 3.9 when the volume only really came in at 4.3.
+
+I can enter on pullbacks with half size, and I can trade over extended days with half size. The important thing is to be flexible.
+
+12:55pm. I am lacking sleep, overthinkimng it and working myself into a frenzy. I shouldn't trade breakouts as if I were a daytrader. Q is right. just put the stop at the low of the day and size the position down if it's overextended or don't trade at all. Rather than asking when to buy and sell I should be asking how much.
+
+Trading breakouts isn't rocket science. The breakout above 4 could have been a good trade if sized appropriately and given room to move. Even buying at 4.3 is fine. The stock moves insanely fast. 5-10% in it is not that much.
+
+I need to stop thinking that I need to allocate 10% of my account on every trade. I am being a moron.
+
+A 10% in one stock might be nothing, but a 10% in another might be insanely risky.
+
+I know this, so why am I approaching every problem by thinking of putting in 10%?

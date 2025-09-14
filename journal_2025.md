@@ -6485,3 +6485,15 @@ I should just focus on clearning the course by Lance, or I could even drop it gi
 I actually do enjoy watching it. It's very informative.
 
 I have no trouble believing Lance that he made 100m in trading profits during his career.
+
+5:45pm. I just need a proper break. I need to give myself leeway to succeed in the markets. And I might not even get to resume the journey this year if the job that I have lined up manifests.
+
+Let me take that break. I'll have resting be my job. I should take some time to digest my thoughts of Qullamaggie's method.
+
+In fact, why don't I do a write up of it, and let my thoughts loose?
+
+How about I write an article since I don't feel like doing a video yet? I'll start work on it tomorrow.
+
+I could do it in the same format as Roman Paolucci.
+
+5:55pm. Let me close this journal for a while. Time to work on resting.

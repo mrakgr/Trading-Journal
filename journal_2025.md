@@ -6399,12 +6399,47 @@ There is no need to think so hard about getting in at 3.9 when the volume only r
 
 I can enter on pullbacks with half size, and I can trade over extended days with half size. The important thing is to be flexible.
 
-12:55pm. I am lacking sleep, overthinkimng it and working myself into a frenzy. I shouldn't trade breakouts as if I were a daytrader. Q is right. just put the stop at the low of the day and size the position down if it's overextended or don't trade at all. Rather than asking when to buy and sell I should be asking how much.
+12:55pm. I am lacking sleep, overthinking it and working myself into a frenzy. I shouldn't trade breakouts as if I were a daytrader. Q is right. Just put the stop at the low of the day and size the position down if it's overextended or don't trade at all. Rather than asking when to buy and sell I should be asking how much.
 
 Trading breakouts isn't rocket science. The breakout above 4 could have been a good trade if sized appropriately and given room to move. Even buying at 4.3 is fine. The stock moves insanely fast. 5-10% in it is not that much.
 
-I need to stop thinking that I need to allocate 10% of my account on every trade. I am being a moron.
+I need to stop thinking that I need to allocate at least 10% of my account on every trade. I am being a moron.
 
 A 10% in one stock might be nothing, but a 10% in another might be insanely risky.
 
 I know this, so why am I approaching every problem by thinking of putting in 10%?
+
+1:25pm. Ok, I am starting to get it. Yeah, buying the morning rallies after a selloff and putting the stop in at the lows would be doable.
+
+I should just try trading pullbacks like that, without volume requirements. I'll get stopped out a few times before catching the upswing again.
+
+Let me watch the OBR video.
+
+https://youtu.be/KFqSicS7HOo
+The ORB Strategy (High Odds Breakout Technique)
+
+![BTCUSD](images/image-485.png)
+
+Wait, they are showing a Bitcoin example? BTC doesn't have a proper morning session though. It's actually the hardest thing to trade using the ORB I'd imagine. I have no idea how it could be done.
+
+It's great that they are showing me exactly how it could be done on it.
+
+![](images/image-486.png)
+
+Oh, I just realized that the bars show the proportion of bids and asks on them. That's cool.
+
+![OKLO](images/image-487.png)
+> When we have a really clear breakout bar like this, you can simply put your stop a few cents below the breakout bar.
+
+Oh, that's a 5m chart.
+
+2:05pm. https://youtu.be/AHdcUvmK6XI
+Morning vs. Afternoon Ranges: A Game-Changing Trading Revelation
+
+Let me watch this and I am done for the day. I cannot take it anymore. I am so mentally exhausted. I'll try to take a nap.
+
+I simply haven't slept properly last night.
+
+![](images/image-488.png)
+
+Interesting, I didn't know that.

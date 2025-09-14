@@ -6443,3 +6443,45 @@ I simply haven't slept properly last night.
 ![](images/image-488.png)
 
 Interesting, I didn't know that.
+
+5:20pm. It's no good, even when lying in bed, I cannot get any rest.
+
+This is really serious. It reminds of how the week I got fired was. I also couldn't sleep properly due to the stress.
+
+I am going to force myself not to study the market or have anything to do with finance for the next couple of days just so I can get a good night's rest. I am far overburdening myself.
+
+It took me a long time, but now that I understand better the theory of the market and how profitable trading should be done, I realized that even for a swing trading method's like Qullamaggie, there is significant effort involved. It's not just reading charts once a week.
+
+I need to actively work at it, day in and out.
+
+Maybe once I am good at it I'll be able to lower the pace, but I won't be able to trade in this manner while holding a full time job.
+
+5:25pm. But that is fine. If that is reality then I can accept it.
+
+I was just delusional that I could make a profit trading once a month. It's clear to me now that I have to be much more active if I want to hit Qullamaggie's level of returns.
+
+Ironically, what I did with buying ETFs after the April panic was much better than what I did with individual stocks.
+
+My April - June moves were passable, but holding onto the stocks after they started lagging while the rest of the market rose was clear retardation.
+
+It was all borne from a misconception.
+
+If I want to trade like a stock market champion, I need to pay attention to the markets and be there for it on every open. I need to buy them as they are breaking out and I need to rotate them quickly.
+
+I am going to do that, just not right now.
+
+5:30pm. I am going to make a Youtube video after I am rested on the simplified model of stock market, and explain with code why trading is difficult and how one should go about trading momentum and why Qullamaggie's rules are correct. I absolutely need to confirm what he says about moving averages being awesome.
+
+5:35pm. 'The stock market isn't random, it much closer to this...'
+
+That is what I want to say. That is going to be the title of the first video - I've decided.
+
+5:40pm. Now what exactly am I going to do now? I don't feel like playing games, watching anime or reading manga, but I am too tired to either work or learn. Maybe I'll watch some vids of FightinCowboy playing Wuchang. I need to find a way to waste some time. Maybe I could resume playing Dark Souls 2 or Monster Hunter World? But playing games is pretty much a full time job by itself when you're forcing yourself to play them, so I don't feel like it.
+
+Right...
+
+I should just focus on clearning the course by Lance, or I could even drop it given the circumstance, but it's honestly very good. If I was aiming to become a daytrader, I'd rate it 10/10.
+
+I actually do enjoy watching it. It's very informative.
+
+I have no trouble believing Lance that he made 100m in trading profits during his career.

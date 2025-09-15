@@ -971,3 +971,26 @@ I'll try buying 50 shares worth of NBIS to start testing it out. The problem wit
 What I am trying to capture with this system is a persitent pattern of higher highs and higher lows on consequtive bars, and there is a component of waiting for the bar to close to reduce the amount of shakeout.
 
 BOUGHT 50 NBIS @ 91.61
+
+9/15/2025
+
+I sold NBIS for a minor loss last Friday, see the journal for more info.
+
+I am retiring this file and will be moving all of my activity to the journal. The proposed systems here are poor and Qullamaggie's breakout trading strategy is much better as it chains a daytrade into a swing trade and then into a position trade. When you do that the risk to reward becomes very loopsided and annual the returns go into the stratosphere.
+
+But the strategy is labor intensive in how much preparation it requires and I cannot just enter the trades at the open.
+
+I'll leave the strategy as well as trading for another time and get back to my poker bot project.
+
+For more info see: https://qullamaggie.com/my-3-timeless-setups-that-have-made-me-tens-of-millions/
+Also watch Qullamaggie Swing Trading School: https://youtu.be/xx8GvtAxilk
+
+Let's just say that I showed my courage, but it obviously wasn't enough. Next attempt should actually involve me doing the statistics and the automation to make this kind of trading work.
+
+My opposition to breakout trading was mainly due to them being overextended when the close comes. But doing the ORB trade to start them off is a brilliant solution that I hadn't thought of, but should have given that I had known about the strategy a decade ago. Also, I didn't understand the value of moving averages as a momentum filter. Using a 10 day moving average or putting the stop at the lows of the day isn't something I'd ever consider, but it makes perfect sense in the context of the strategy. Certainly it makes more sense than entering at random times like I did.
+
+I got hurt badly by pretty much all the stocks in my portfolio doing nothing for 3 months and even going down. Not going to try this again. Next time I trade I'll be using a 13 day VWMA to time my exits, rather than hold the as the stay flat for months even as the rest of the market rallies. I underperformed badly compared to what I expected.
+
+Having a better system like the one Qullamaggie uses would take care of that. Qullamaggie had a 300% per year return for 7 years back in 2021.
+
+At this point I don't trust myself to be able to reason what a profitable strategy could be in the face of market randomness, so having the computer validate all of my actions with backtesting results is something I will be doing before resuming trading again.

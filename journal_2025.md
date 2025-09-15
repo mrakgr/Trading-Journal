@@ -6711,3 +6711,59 @@ https://arxiv.org/abs/2503.20821
 "Hello, is this Anna?": Unpacking the Lifecycle of Pig-Butchering Scams
 
 I'll read this later. The HN thread make it look like a page turner.
+
+9:25pm. ![RHM](images/image-518.png)
+
+So it turned out to be like this. In the end, I sold RHM into the breakout that would lead it to 1950.
+
+I think I understand now.
+
+That Friday 29th breakout was such a perfect pattern and I even thought that way back then.
+
+I thought I was being smart by proposing the 8 and 12 week rules, but I got screwed.
+
+That wasn't the right way to do it.
+
+So RHM went up. Big deal. They are just numbers on a screen.
+
+I am not going to get attached to old trades. Just think of it as a RNG that has a specific kind of probability distribution underpinning it.
+
+9:25pm. The way Qullamaggie does it is by chaining the ORB, which is a daytrade, into a swing trade, and into a position trade.
+
+That is sheer genius. If you can do that, you can really control your reward to risk and push your returns into the stratosphere.
+
+I am going to believe in this and leave trading aside.
+
+It doesn't matter if I miss a few 10% years because once I get serious I am going be making 200% per year. I am going to absolutely backtest all of my strategies and do the deep dives on them.
+
+But now I need to overcome my psychological issues first.
+
+Even ignoring the ORB, I could just enter the swing trades at the open. That might cut my RR in half, but I'd still have returns to show for it, but that doesn't matter.
+
+My biggest psychological issue is the lack of mental risk capital to make bets with.
+
+And stems for a few reasons, like the lack of trust in my method old. Having RHM and the rest consolidate for 3 months ruined the trust in the method, and then Qullamaggie put the final nail into it.
+
+Anyway, I added the final entry to the `methodology.md` file with some info about that.
+
+My biggest failure that is causing me a lot of stress is that I am focused on the 100m gain like Q did.
+
+This is a mistake, and I should only be focusing on immediate goals. Instead of planing for how to reach 100m, I should be focusing on the easiest way to get to 200k, and then to 400k and so on. That is how I do my software engineering. I move forward confident in my ability to pivot.
+
+That is how I should approach trading. I should use that job to get to the next level, use poker botting to get into millions and have faith that the computer assisted trading I will be doing will be enough to let me reach Qullamaggie's level of competence.
+
+The reason why 2025 was such a disappointing year is because of my lack of competence. Once I fix that and put in the proper work, I'll get to where I want.
+
+9:55pm. I keep thinking that if I stay out of the market I will miss out on compounding my money, but that is the wrong way to think about it.
+
+Think of it more like poker.
+
+Right now I don't think that if I don't play poker, I'll be missing out on all the gains. Rather I know that I have to build the right system first to get those gains. That is how I should think about trading.
+
+I shouldn't be thinking about it like an investor and playing for marginal value.
+
+I will get to 100m on the strength of my effort and my beliefs, not because I bought some random momentum stocks and held them.
+
+I will only get lucky when I get good.
+
+The market is just a random number generator. It's not going to go anywhere. I will be coming back to take care it eventually.

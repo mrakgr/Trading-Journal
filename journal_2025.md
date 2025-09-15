@@ -6497,3 +6497,122 @@ How about I write an article since I don't feel like doing a video yet? I'll sta
 I could do it in the same format as Roman Paolucci.
 
 5:55pm. Let me close this journal for a while. Time to work on resting.
+
+9/15/2025
+
+8:35am. I am setting new records for the amount of consequtive sleepless nights.
+
+No more trades. I am dropping trading from consideration. I either do it properly or I not do it at all.
+
+Any bots I create would only end up simple. The ORB bot for example would not be much different from a separate order type. It's not a big deal at all.
+
+The preparation necessary to swing trade, and the constant chart reviews and early morning trading might not take as much time as daytrading does, especially if I create bots to help me do it, but it would still be a full time job. And when I look deep inside of me, the pain in my gut is telling me that I am not ready to commit.
+
+I have no psychological risk capital left.
+
+Instead of aiming to become a 3/6 trader, what I should do is fulfil my destiny as a 6/6 programmer and finish that poker bot. Go back to programming in Spiral and just do it. Master GPUs, and Cutlass and bring the project to its conclussion.
+
+That could be worth millions per year in income at a very low risk.
+
+8:45am. All this inner struggle leading to sleeplessness isn't worth it. I think I've learned in the last 2 weeks as much as I did trading for 6 years in the 2007 - 2014 period, but it's just enough to know that I need to commit and treat it as a full time job. One of the talkers in the Momentum Masters (maybe Mark Richie) said that he can't imagine part time trading leading to abnormal returns and that is exactly right.
+
+If I am holding a full time job as a programmer for example, can you imagine me going through all the screeners and the news, and then trading the morning session in addition to that?
+
+It would just take so much time and focus.
+
+It's real work that you need to enjoy.
+
+To be honest, I wouldn't dislike it, but it's drudge work. The main reason why I am attracted to trading is that it is approachable and has exponential payoff for doing it properly.
+
+I couldn't go to 100m with a regular job, but with trading I could.
+
+Poker botting I'd only estimate would go up to a few mill per year.
+
+Programming jobs, tend to be in the 100 - 200k per year range.
+
+8:50am. As a programmer, I need to program. I need to pursue the Singularity. I cannot just abandon the poker project just as it's 80% done. I need to implement the Hopfield dictionaries and try them out.
+
+And also getting a job at this juncture simply makes sense. It wouldn't be a bad idea to get my account up to 250k waging.
+
+![FCT](images/image-489.png)
+
+Damn, I really like how it's putting in all those inside bars. That is a sign of strength I've come to realize. When the weekly bars start to get loose that is a topping sign.
+
+![NESTE](images/image-490.png)
+
+Yeah, maybe I'll just keep track of the 6 month momentum screens. These narrow weeks are great.
+
+![DEZ](images/image-491.png)
+
+I've learned from Lance, these inside bars represent price acceptance.
+
+![INT](images/image-492.png)
+
+Hahaha, this finally broke down.
+
+![JOE](images/image-493.png)
+
+I don't have to buy the breakouts, I can buy these inside bars.
+
+![SLR](images/image-494.png)
+
+Buying this now would put me on the wrong side of the V. A sell pattern.
+
+![EGL](images/image-495.png)
+
+Has such nice and wide swings. Not really a fan of weekly swings though.
+
+![PHARM](images/image-496.png)
+
+No, it would work.
+
+![PHARM](images/image-497.png)
+
+No, the stocks simply move too fast for the weekly charts to keep up.
+
+The big risers in since the April bottom have stalled out and the rest of them are simply to slow to apply this method.
+
+![FER](images/image-498.png)
+
+This right time to buy this would have been here, right after the open. I see that now.
+
+What if I traded the US markets? The US markets have way more opportunity.
+
+![HYPD](images/image-499.png)
+![HYPD](images/image-500.png)
+![HYPD](images/image-501.png)
+
+I hate how this one keeps breaking OBR before heading higher.
+
+![SOUN](images/image-502.png)
+
+I need a better news feed, but when a stock is making this much volume in the first half hour, that's a reason right there to buy it.
+
+![NEGG](images/image-503.png)
+
+A lot of fantastic swing trades in the US markets.
+
+![FORD](images/image-504.png)
+
+Plenty of opportunity for those willing to play the short term momentum game in the US markets.
+
+![SUPX](images/image-505.png)
+![SUPX](images/image-506.png)
+
+Buying the breakouts in these after the initial episodic pivot works well.
+
+What's needed is to use tight stops like at the daily lows. And indeed a short term moving average would do well as an extended sell rule.
+
+![SUPX](images/image-507.png)
+
+All these inner bars are basically price acceptance. Lance is right to view them as such.
+
+9:45am. Nevermind this. I'd need to do a shitload of more work to verify the method. It simply not obvious how well it would work from simply looking at the charts. In Europe, there isn't a single stock that meets the weekly cascade criteria except maybe DEUZ, but I can't make my career on trading just a single slow moving stock.
+
+I honestly feel betrayed by the european market.
+
+9:45am. Forget trading. I should take some time to digest what I've learned. Let me watch Lance's course since I am learning so much from it. I wonder if there is a guy separate from Qullamaggie who has a swing trading course?
+
+What I am doing here is just fun. I'll extend my knowledge of the stock market and trading, and then leave it aside to focus on my mission.
+
+The 100k that I made can serve as a shield in case the tough times come. It's not a priority for me to run it into millions at this very moment. When I want to dedicate myself to trading, I'll go all out. I'll apply to SMB, I'll breathe and live the markets daily, watch the news, do the backtests, make the trading bots and so on.

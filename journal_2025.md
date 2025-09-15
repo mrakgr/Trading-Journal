@@ -6623,3 +6623,78 @@ The 100k that I made can serve as a shield in case the tough times come. It's no
 This made me lol. I have no idea who Roaring Kitty is, but the GME pump sounds like a clown show.
 
 10:20am. Interesting how often he sells calls. Pretty ballsy of him. He is very good. Like, even if I mastered the momentum trading system using breakouts that Qullamaggie teaches, I wouldn't come even close to him.
+
+![](images/image-509.png)
+> This bar is so, so interesting. Even if you buy on the close, you can give it to those lows.
+
+He most likely means that I could put a stop on the low of the day.
+
+10:40am. Yeah, he often turns good daytrades into swings.
+
+![](images/image-510.png)
+
+Oh, I see. Yeah, makes sense.
+
+![](images/image-511.png)
+
+He says RK lost his appeal and he is going to end up bag holding these.
+
+![](images/image-512.png)
+> I am not using dilution tracker, but it is highly regarded in some of these stuff.
+
+11:20am. ![](images/image-513.png)
+> I want to short this on the daily and give prior bar highs on that daily.
+
+If you waited for the close on that day to short, you'd be selling below 110, risking over 10 points, but if you shorted it during the ORB, you'd be risking...
+
+![ARM](images/image-515.png)
+
+Much, much less. 2 points maybe.
+
+11:35am. Let me finally move on to March 2024. 12/21 reviews done, 9 more left to go.
+
+I am starting to get bored to be honest.
+
+...You know what, I am done. I am not going to be daytrading, or even trading so I don't need any more of this.
+
+I've been introduced to just how powerful the prior bar high/low systems can be. I've been introduced to cascades. I've also come to understand the power of moving averages for keeping track of momentum.
+
+![NVDA](images/image-516.png)
+
+I really like the 13 day VWMA.
+
+But that doesn't matter. Until the market panics again, I'll just sit tight.
+
+11:45am. I've been introduced to the importance of news, but it's hard to take advantage of that on the weekly timescales. The way Qullamaggie does it by entering as close as possible into the catalyst and chaining that in to a longer term move is the ideal way of playing it.
+
+News trading is probably the most important part of trading momentum. If I ever start trading seriously, I'll have to find a better news feed than the one TradingView offers so I can know what some of the moves are caused by.
+
+11:50am. Who knows, maybe I won't wait for the break, but right now I just don't have any risk capital in me to trade.
+
+![](images/image-517.png)
+
+No reason to be bearish of the market here. None at all, given that it's smoontly making new highs but that doesn't mean I have to be in. If it was me before I got fired I would have been in, probably long some US momentum names.
+
+But now, what I want to do is work.
+
+Value is created from your own work, not from holding stocks in the market.
+
+I want to resume programming, and then along the way I might do some videos on creating IBKR bots and backtesting them. That would be the proper way to resume trading.
+
+12pm. There is no way around it. I cannot work on both things at the same time. If I work on trading, I cannot work on the poker bot and vice versa.
+
+During the night I had to really think about what I want to do.
+
+If I was starting the poker project from scratch, then sure it would not make sense to do it. I could work on trading bots instead. But I've already put an enormous amount of effort into the poker bot, so I might as well see it to the end. It might work out and make me a lot of money. At that point I could concern myself with trading systems.
+
+Besides, I cannot let Thomas surpass me in this. The guy vibe coded the NL Holdem game in C++ on the GPU. I am both impressed and proud of him. In contrast, the guy I worked with who's supposed to be a pro, let's call him Curtis, had an allergy to learning. Being a pro means shit in this profession.
+
+I just have to keep fighting and I'll get to where I want to be eventually. I have my path, and it's not necessary stock trading.
+
+Stock trading is ultimately the path for people who don't have anything better to do with their time.
+
+People who get to 100 billion have everything invested in their own work rather than other people's. Trading being so difficult really diminishes its appeal to me.
+
+I might have lost sleep along the way, but I really had fun learning all the new stuff.
+
+It was a blast from the past.

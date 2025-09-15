@@ -6689,7 +6689,7 @@ If I was starting the poker project from scratch, then sure it would not make se
 
 Besides, I cannot let Thomas surpass me in this. The guy vibe coded the NL Holdem game in C++ on the GPU. I am both impressed and proud of him. In contrast, the guy I worked with who's supposed to be a pro, let's call him Curtis, had an allergy to learning. Being a pro means shit in this profession.
 
-I just have to keep fighting and I'll get to where I want to be eventually. I have my path, and it's not necessary stock trading.
+I just have to keep fighting and I'll get to where I want to be eventually. I have my path, and it's not necessarily stock trading.
 
 Stock trading is ultimately the path for people who don't have anything better to do with their time.
 
@@ -6702,3 +6702,5 @@ It was a blast from the past.
 12:15pm. I'll take a long overdue break since I haven't done so ever since the job ended. Maybe for a week or two. I have Ghostrunner 1 & 2 and System Shock bought from GOG and I've barely touched them.
 
 Once I start sleeping well again, I'll announce my return on Youtube.
+
+12:35pm. It turns out that IBKR has a really good currency conversion tool. Paid off my negative 63$ balance and also converted SEK to EUR. Now I am clear.

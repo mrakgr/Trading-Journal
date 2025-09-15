@@ -6704,3 +6704,10 @@ It was a blast from the past.
 Once I start sleeping well again, I'll announce my return on Youtube.
 
 12:35pm. It turns out that IBKR has a really good currency conversion tool. Paid off my negative 63$ balance and also converted SEK to EUR. Now I am clear.
+
+1:05pm. https://news.ycombinator.com/item?id=45245962
+
+https://arxiv.org/abs/2503.20821
+"Hello, is this Anna?": Unpacking the Lifecycle of Pig-Butchering Scams
+
+I'll read this later. The HN thread make it look like a page turner.

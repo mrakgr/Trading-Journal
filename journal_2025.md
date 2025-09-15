@@ -6621,3 +6621,5 @@ The 100k that I made can serve as a shield in case the tough times come. It's no
 > Within the 15-20 minutes of the livestream it was just so obvious that [Roaring Kitty] was an idiot, and anybody following him was just ridiculously dumb.
 
 This made me lol. I have no idea who Roaring Kitty is, but the GME pump sounds like a clown show.
+
+10:20am. Interesting how often he sells calls. Pretty ballsy of him. He is very good. Like, even if I mastered the momentum trading system using breakouts that Qullamaggie teaches, I wouldn't come even close to him.

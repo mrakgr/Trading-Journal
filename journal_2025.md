@@ -6698,3 +6698,7 @@ People who get to 100 billion have everything invested in their own work rather 
 I might have lost sleep along the way, but I really had fun learning all the new stuff.
 
 It was a blast from the past.
+
+12:15pm. I'll take a long overdue break since I haven't done so ever since the job ended. Maybe for a week or two. I have Ghostrunner 1 & 2 and System Shock bought from GOG and I've barely touched them.
+
+Once I start sleeping well again, I'll announce my return on Youtube.

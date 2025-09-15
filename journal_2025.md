@@ -6616,3 +6616,8 @@ I honestly feel betrayed by the european market.
 What I am doing here is just fun. I'll extend my knowledge of the stock market and trading, and then leave it aside to focus on my mission.
 
 The 100k that I made can serve as a shield in case the tough times come. It's not a priority for me to run it into millions at this very moment. When I want to dedicate myself to trading, I'll go all out. I'll apply to SMB, I'll breathe and live the markets daily, watch the news, do the backtests, make the trading bots and so on.
+
+10:15am. ![roaring kitty](images/image-508.png)
+> Within the 15-20 minutes of the livestream it was just so obvious that [Roaring Kitty] was an idiot, and anybody following him was just ridiculously dumb.
+
+This made me lol. I have no idea who Roaring Kitty is, but the GME pump sounds like a clown show.

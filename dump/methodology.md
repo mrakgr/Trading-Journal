@@ -77,7 +77,7 @@ With group moves you know the strong move isn't an illusion, and that other inve
 
 In fact, I'd rather trade this than random momentum picks.
 
-![EUAD in late June 2025](images/image.png)
+![EUAD in late June 2025](../images/image.png)
 
 Right now (6/29/2025, Sunday) for example, I am long an european defense stock ETF. The uptrend is very obvious as is the fundamental catalyst, so there is a decent chance of it persisting. Also, the market broke 2 months ago due to Trump's tariff announcement, and the group showed extreme resilience to that break, so I am expecting another leg up. Also it has consolitated it's gains for the last 4 weeks, so according to my theory of how a stock in a strong uptrend should behave, it should make another upleg in the next 4 weeks.
 
@@ -111,13 +111,13 @@ At the time of writing this (6/29/2025), I am 3.5 months roughly into my part ti
 
 I think I only opened my brokerage account at around late February, and by that point I wasn't following the market actively. I would occassionally glance at the charts of Nasdaq or some big winner ETFs, but I wasn't really thinking too seriously about getting in.
 
-![QQQ up to late February 2025](images/image-1.png)
+![QQQ up to late February 2025](../images/image-1.png)
 
 If you take a look at the chart, by that point the market has essentially been going up without interruption for almost 2 years, so I thought that give at most couple of more months, there would be a big break which would give me a buying opportunity and a chance to get started. I certainly didn't want to plow my money into momentum stocks late in the cycle only to have them be crushed when the market corrected.
 
 Unbeknowst to me, the decline would come sooner that I suspected, and in a month, mid March, I had started to become bullish.
 
-![QQQ in mid March 2025](images/image-2.png)
+![QQQ in mid March 2025](../images/image-2.png)
 
 It really didn't take much to make me bullish, and I wasn't really thinking nor particularly interested in why the market had declined. All I knew was that the market was down, and that I should make that the psychological buying point according to the rules. I simply decided that in order to break away from who I was in 2007 - 2014, I need to expand my time horizon significantly in order to escape the noise.
 
@@ -125,21 +125,21 @@ So after screening for appropriate high momentum ETFs, I put in 33% of my accoun
 
 ESPO - Van Eck Sports ETF.
 
-![ESPO in late March 2025](images/image-3.png)
+![ESPO in late March 2025](../images/image-3.png)
 
 ASWC - Future of Defense ETF
 
-![ASWC in late March 2025](images/image-5.png)
+![ASWC in late March 2025](../images/image-5.png)
 
 As you can see on the weekly line charts, both of them had excellent trend persistence, and it felt that having broken out earlier and declining along with the general market that ESPO was a safer bet. 
 
-![daily ASWC in late March 2025](images/image-6.png)
+![daily ASWC in late March 2025](../images/image-6.png)
 
 If you look at the chart of ASWC with daily candles, you'll see that it had some scary selling that looked like climax selling, so I wasn't sure what to think. I thought that if it could show resistance for a 4 more weeks that that it would be a great buy, but I was feeling squeeamish about assuming how strong it would trully so easily. The market can do weird things and didn't want to get crushed by buying into overbought conditions at the wrong time.
 
 I really thought that I could try ESPO now, and if a month down the road it turned out that ASWC's strength is legit, I could always just rotate into it.
 
-![daily ESPO in late March 2025](images/image-4.png)
+![daily ESPO in late March 2025](../images/image-4.png)
 
 I bungled the entry into ESPO very badly, and got in 5% higher than I should. I put in a limit order at 52, watched it go up for nearly 2 weeks without me and not being able to stand it bought the first dip.
 
@@ -153,17 +153,17 @@ On Friday when I lost 2 points, I was miffed, but I dediced that I'd just hold i
 
 Anyway, I didn't know at the time why the market had a decline in the prior month, I thought maybe it was simply overextended after rising for 2 straight years and needed a release, but it might have anticipated the chaos that would be caused by Trump's tariff announcement and dove in anticipation of that.
 
-![retard](images/image-7.png)
+![retard](../images/image-7.png)
 
 In act of brazen idiocy, thanks to Trump, over the next 3 days there was a literal panic in the markets and ESPO got crushed.
 
-![daily ESPO in early April 2025](images/image-8.png)
+![daily ESPO in early April 2025](../images/image-8.png)
 
 I had only 33% of my account in this, and at that time I wasn't even looking at the market. Not so much because I was afraid to look at the screen, but was disinterested in the market and decided to just make it a rule to look at it only every 2 weeks. I didn't want to get emotionally involved in the price action. I just let it ride down and when mid April came, it triggered my time stop rule and I had to decide whether I want to sell or not.
 
 It was an interesting situation since I was ina bad position and needed to think about the solution. And I think at this point is where I actually showed my true skills.
 
-![daily ESPO in mid April 2025](images/image-9.png)
+![daily ESPO in mid April 2025](../images/image-9.png)
 
 First of all, this situation warrants a discussion of loss taking and why one would consider doing it.
 
@@ -181,7 +181,7 @@ I assume that the longer the decline, and the deper it is, the worse my odds are
 
 So yes, it makes complete sense to take losses when you think of it in probabilitic terms like these. The rules to sell fall out of the probabilities you set to different scenarios. You sell when your expected value becomes degraded, or when you're overleveraged and taking too much risk.
 
-![daily QQQ in mid April 2025](images/image-10.png)
+![daily QQQ in mid April 2025](../images/image-10.png)
 
 So in the light of that let's look at the chart of QQQ and think about whether the market is oversold here.
 
@@ -211,11 +211,11 @@ So at that key moment in the chart I simply decided to hold the position for two
 
 A week later...
 
-![daily QQQ in mid-late April 2025](images/image-11.png)
+![daily QQQ in mid-late April 2025](../images/image-11.png)
 
 I thought this was a key moment. The market had a flat week, and I decided to wait one more week according to plan.
 
-![daily QQQ in late April 2025](images/image-12.png)
+![daily QQQ in late April 2025](../images/image-12.png)
 
 The market surged and deciding that we're not in a bear market I decided to hold my position. Had it close down or flat, I would have sold it.
 
@@ -247,13 +247,13 @@ Here in 2025, I was just using a similar kind of reasoning to hold through the d
 
 I had only a 33% position so I wasn't worried about taking a loss.
 
-![ESPO late June](images/image-13.png)
+![ESPO late June](../images/image-13.png)
 
 Anyway, it took a while, but ESPO recovered and I got out below where I bought it for a minor loss. Had I gotten in at a better price point, I would have actually had a profit to show for my effort.
 
 At any rate, I didn't really miss the rally since as soon as I sold ESPO, I also rotated right into ASWC.
 
-![ASWC late June](images/image-14.png)
+![ASWC late June](../images/image-14.png)
 
 I added to it every two weeks until I brough my equity up to 100%. This was actually a huge mistake because it turned out that I had stupidly assumed that the fund has 100% Europe exposure, when it fact 50% North America and 30% Europe, and the actual bull market in defense stocks is in european ones, but more on that later.
 
@@ -279,11 +279,11 @@ With the stock market, it's very risk on/risk off kind of market, so it's easy t
 
 I am currently in DEFS, and it's really hard to get a chart of it as the intraday price action doesn't show all the trades on TradingView like it does in my Interactive Brokers account. I don't want to take a screenshot of it from my account directly as it shows my actual size, but let me show you chart of a similar ETF to it. DEFS also have very little in terms of historical data. I made a mistake buying it instead of the more liquid EUDF.
 
-![daily EUDF late June 2025](images/image-15.png)
+![daily EUDF late June 2025](../images/image-15.png)
 
 When you look at the daily chart like this, it gives the wrong impression as your mind keeps homing in on the peaks and valleys automatically. It can distort your trend evaluation, so let's switch back to line with marker charts.
 
-![EUDF late June 2025](images/image-16.png)
+![EUDF late June 2025](../images/image-16.png)
 
 Much better. Right now it's basically consolidating while the rest of the market is catching up to it, but you can see on these two charts how it went ahead of the market.
 
@@ -295,7 +295,7 @@ When you look at a chart of a big winner, the consolidation gyrations seem minor
 
 First of all, since I got tired last week when writing this document and couldn't cover my exact ASWC buys, let me do so now.
 
-![ASWC early July 2025](images/image-17.png)
+![ASWC early July 2025](../images/image-17.png)
 
 I put 33% of my account into ASWC on each of the buy points market on the chart before selling out completely at 15.2 and putting my entire account into DEFS.
 
@@ -309,7 +309,7 @@ I should have done more research. On a talk with my CTO at the company I work fo
 
 Realizing I had made a mistake (and probably made my CTO think I am retarded) I immedially put a buy order for DEFS at 5.40.
 
-![DEFS mid June 2025](images/image-18.png)
+![DEFS mid June 2025](../images/image-18.png)
 
 I apologize for posting a chart like this without the price levels, but I want to keep my exact sizes a secret. The issue with the TradingView chart is that it's missing most of the volume and so look much more sparse.
 
@@ -325,13 +325,13 @@ What made it so interesting is that I had to make decisions on how long to wait 
 
 When I saw how DEFS traded over the following few days, it made me very please about how I timed the purchases. The blue line marks my average buying price.
 
-![DEFS early July 2025](images/image-19.png)
+![DEFS early July 2025](../images/image-19.png)
 
 I put in another limit to increase my position by 16.6% and it luckily got triggered on the 23rd of June when it retested the lows.
 
 In truth, I rushed in to buy DEFS, and would have been better off with the more liquid WDEF.
 
-![WDEF early July 2025](images/image-20.png)
+![WDEF early July 2025](../images/image-20.png)
 
 But it's fine. I am not going to switch my entire portfolio just so I can see a prettier intraday chart on TradingView.
 
@@ -369,25 +369,25 @@ And on that note, I am starting to really sweat here. The rule is to hold 8 week
 
 First of all, I wasn't really sure last week where to start the count for the decline, so let me resolve that here.
 
-![R3NK early July 2025](images/image-21.png)
+![R3NK early July 2025](../images/image-21.png)
 
 Here is a chart of the hottest stock on the German market right now. The selloff/consolidation period in euro defense stocks started just about the time it topped and started selling off.
 
-![intraday R3NK early July 2025](images/image-22.png)
+![intraday R3NK early July 2025](../images/image-22.png)
 
 Looking at the weekly chart it seems like the selloff is a minor dip, but it has been 30% from the top. Every time the stock made a decisive new low, the euro defense stocks in general got hammered.
 
 So it's fair to say that the decline is at least 4 weeks in.
 
-![RHM early July 2025](images/image-23.png)
+![RHM early July 2025](../images/image-23.png)
 
 RHM is the is the actual leader, and it has been down for 5 weeks.
 
-![intraday RHM early July 2025](images/image-24.png)
+![intraday RHM early July 2025](../images/image-24.png)
 
 It's intraday chart in terms of shape looks identical to the intraday ETF charts that have been posted.
 
-![intraday WDEF early July 2025](images/image-25.png)
+![intraday WDEF early July 2025](../images/image-25.png)
 
 Both DEFS and WDEF have only 10% allocated to RHM, and perhaps it'd have been better to have more.
 
@@ -419,11 +419,11 @@ It will give me some added protection when I start trading individual stocks. I'
 
 I've also added some selling rules to my arsenal for when a stock goes on a tear. If in the future I end up being lucky to be in a multi week move where a stock goes up 100% or more, I am going to tighten the 8 week rule to 2 weeks and sell on the first downweek.
 
-![SEZL early July 2025](images/image-26.png)
+![SEZL early July 2025](../images/image-26.png)
 
 A good example of where I'd put that rule to good use in the current period would be for a stock like SEZL. And of course R3NK.
 
-![R3NK early July 2025](images/image-21.png)
+![R3NK early July 2025](../images/image-21.png)
 
 As a general rule the sharper the upmove, the more you should tighen the stops because the more likely and the more severe the counter trend move will be.
 
@@ -431,21 +431,21 @@ That is what I am going to do.
 
 Some large daily movers for example....
 
-![daily GME May 2025](images/image-27.png)
+![daily GME May 2025](../images/image-27.png)
 
 You can see a sharp rise in GME from 10 to 50, then a single downday from 50 to 40 signaling that the momentum has stalled out. This is actually a very effective short pattern, so you definitely don't want to be stuck holding after short term momentum has stalled out. Too bad these kinds of stocks are so hard to borrow otherwise I'd make playing them my bread and butter.
 
 So for this kind of pattern you could say that the time stop is 2 days rather than 2 weeks. Why 2 days instead of 1? The negative momentum is what pushes them to 1 effectively.
 
-![PHH early July 2025](images/image-28.png)
+![PHH early July 2025](../images/image-28.png)
 
 My TradingView watchlist is filled up so let me note this stock here. We'll revisit it later to see if the 2 week timestop rule would have been effective for it. Incidentally, IPOs have been very good for the past months. I think I am going to add buying new highs from a 4 week basing period to my arsenal.
 
-![CRWV early July 2025](images/image-29.png)
+![CRWV early July 2025](../images/image-29.png)
 
 Right now it's very overextended, but it could work off the short term momentum reversal headwinds and be a good buy a couple of weeks down the road. At the very least, I want to see it build some trading history before I get in.
 
-![FSLR 2007 - 2008](images/image-30.png)
+![FSLR 2007 - 2008](../images/image-30.png)
 
 First Solar might be a good model for when to get in. We want CoreWeave to be at last flat or up a minor 10% for the 4 week period before we try buying.
 
@@ -453,7 +453,7 @@ Pretty much, anywhere in April and May 2007 would have been a good buy point by 
 
 The stock had very good resistance against the Feb 2007 selloff and it consolidated for a bit before taking off again. I hope RHM and Euro defense stocks will act like that.
 
-![daily FSLR 2007 - 2008](images/image-31.png)
+![daily FSLR 2007 - 2008](../images/image-31.png)
 
 It had some pretty nice dips during that period that could have served as entry points.
 
@@ -477,7 +477,7 @@ I think despite my initial intent, I'll go with the 2 week rule.
 
 It might have the benefit of rotating me out of the leaders that are stalling and into fresh opportunities.
 
-![RHM mid 2025](images/image-32.png)
+![RHM mid 2025](../images/image-32.png)
 
 It does look very stretched out doesn't it? Even it doesn't go down specifically, it might have a protracted period of consolidation.
 
@@ -493,9 +493,9 @@ I've decided to sell 40% of DEFS and put them into individual stocks later this 
 
 To be specific in these 3.
 
-![RHM](images/image-45.png)
-![R3NK](images/image-46.png)
-![LTMC](images/image-47.png)
+![RHM](../images/image-45.png)
+![R3NK](../images/image-46.png)
+![LTMC](../images/image-47.png)
 
 I'll put 20% into RHM, 10% into R3NK and 10% into LTMC.
 
@@ -503,7 +503,7 @@ LTMC is a casino stock and not related to defense, but the chart pattern is a hi
 
 R3NK is a bit too volatile, so I don't want to put 20% into it yet.
 
-![DEFS](images/image-48.png)
+![DEFS](../images/image-48.png)
 
 DEFS has done well this week and is up to 5.73.
 
@@ -525,27 +525,27 @@ So in order to ensure my success, I should recognize my weakness, and do somethi
 
 I am going to create market timing indicators. It's really easy. It's just going to be a momentum screen of the big index stocks.
 
-![EU Momo](images/image-78.png)
+![EU Momo](../images/image-78.png)
 
 Currently for example, my EU momentum screen looks like this. I am looking at stocks in Germany, Italy and France. UK only has trash so I eliminated it from observation.
 
 But for market timing, it should be more like this...
 
-![US Timing](images/image-79.png)
+![US Timing](../images/image-79.png)
 
 I have to either look at index stocks or large caps specifically. I'll do the same for Europe.
 
-![Euro Stoxx 600](images/image-80.png)
+![Euro Stoxx 600](../images/image-80.png)
 
 Let me use this one for Europe.
 
-![EU Timing](images/image-81.png)
+![EU Timing](../images/image-81.png)
 
 Perfect. In order to time, all I have to do is pay attention to market momentum and whether these leaders are making new highs on weekly line charts with at least 8 and 12 week regularity. Once they start violating the 8 week rule, that will be a warning sign, and the 12 week rule is the stop out point.
 
 What makes these screens different from regular momentum screens is that I can flip them.
 
-![EU Timing (Losers)](images/image-82.png)
+![EU Timing (Losers)](../images/image-82.png)
 
 Once the market goes sideways, the stocks on this page will start to expand ahead of the market decline. Looking at the chart of an index is only good for gauging sentiment, and not anticipating the decline.
 
@@ -553,7 +553,7 @@ The way panic works in the market is that leaders either on the bear or bull sid
 
 If I am only looking at random momentum stocks, I won't be able to notice the impacts in time. And also, the best momentum stocks aren't necessarily the one in the index. The best performers aren't necessarily the leaders in terms of actually having an impact on the rest of the market. What leads the market is what the big investors are looking at. Small cap companies breaking down isn't going to affect them.
 
-![US Timing (Losers)](images/image-83.png)
+![US Timing (Losers)](../images/image-83.png)
 
 Right now it's a bull market so there aren't many big losers. Europe also has a lot more big winners than the US does. I need to pay careful attention to the top and the bottom of this list.
 
@@ -561,19 +561,19 @@ Every week, I am going to post a screenshot of these two screens which will allo
 
 Let's do it like this.
 
-![EU Timing (6 month winners)](images/image-85.png)
+![EU Timing (6 month winners)](../images/image-85.png)
 
 The EU Timing (6 month winners) screen says 23 symbols.
 
-![EU Timing (6 month losers)](images/image-86.png)
+![EU Timing (6 month losers)](../images/image-86.png)
 
 And its opposite has only 5 on it. That's useful information to have. I'll know whether the universe of losers is expanding through it.
 
 Let's compare that to the S&P.
 
-![US Timing (6 month winners)](images/image-87.png)
+![US Timing (6 month winners)](../images/image-87.png)
 
-![US Timing (6 month losers)](images/image-88.png)
+![US Timing (6 month losers)](../images/image-88.png)
 
 10 vs 5. EU wins again. The EU ones are also far stronger than the US stocks.
 
@@ -604,28 +604,28 @@ When I was starting out in 2007, I had no idea just how connected the stocks in 
 
 To finish today's section off, let me just check out the South Korean indices.
 
-![South Korea Momo](images/image-89.png)
+![South Korea Momo](../images/image-89.png)
 
 The South Korean market is bonkers right now and there are a ton of high quality picks in that market. If I was in Asia or the US, I'd switch to trading that market instead of the US. Because I am in Croatia, it's in my night period.
 
-![wow](images/image-90.png)
+![wow](../images/image-90.png)
 
 Oh, wow. A literal quarter of the stocks in the Kospi 200 are over the 50% line. A lot of them are above 100%. Even in Europe, it's only like 5%. As for the losers...
 
-![South Korea Timing (6 month losers)](images/image-91.png)
+![South Korea Timing (6 month losers)](../images/image-91.png)
 
 Only 4. This is nothing. This is what a bull market looks like.
 
 The actual index itself hasn't gone up by that much...
 
-![KOSPI 200](images/image-92.png)
-![KOSPI 200 %](images/image-93.png)
+![KOSPI 200](../images/image-92.png)
+![KOSPI 200 %](../images/image-93.png)
 
 About 30% in 3 months. Which arguably is a lot for an entire country's index.
 
-![i am paying attention](images/image-94.png)
-![i am paying attention](images/image-95.png)
-![i am paying attention](images/image-96.png)
+![i am paying attention](../images/image-94.png)
+![i am paying attention](../images/image-95.png)
+![i am paying attention](../images/image-96.png)
 
 I am paying attention.
 
@@ -633,7 +633,7 @@ When a stock makes a 30% move, it isn't a big deal, but when the entire market d
 
 I am just joking. I have a full time job, so there is no way I could do that, but if I was trading full time, I'd really consider it.
 
-![KDEF](images/image-97.png)
+![KDEF](../images/image-97.png)
 
 I only noticed this because the South Korean Defense ETF is so hot. 
 
@@ -653,21 +653,21 @@ And even if I knew that would turn out to be the case, I can't quit now as worki
 
 Let me post the timing charts quickly.
 
-![US Win](images/image-116.png)
-![US Los](images/image-117.png)
+![US Win](../images/image-116.png)
+![US Los](../images/image-117.png)
 
-![EU Win](images/image-118.png)
-![EU Los](images/image-119.png)
+![EU Win](../images/image-118.png)
+![EU Los](../images/image-119.png)
 
-![SK Win](images/image-120.png)
-![SK Los](images/image-121.png)
+![SK Win](../images/image-120.png)
+![SK Los](../images/image-121.png)
 
-![HK Win](images/image-122.png)
-![HK Los](images/image-123.png)
+![HK Win](../images/image-122.png)
+![HK Los](../images/image-123.png)
 
 The Hang Seng index isn't the best measure of HK's breadth. Underneath, there is a huge bull market in pharma, IT and retail stocks. When looked at the broader market, around 40% of top 10% stocks by liquidity are above 50% over the last 6 months.
 
-![Hang Seng](images/image-124.png)
+![Hang Seng](../images/image-124.png)
 
 Incidentally Hang seng has 63 stocks in it, so 11 stocks would be 17.5% above the bull line. The US is performing pretty poorly.
 
@@ -729,7 +729,7 @@ This week I've learned the value of using limit orders at the market prices. I'v
 
 Let me go over the screeners.
 
-![SAAB_B](images/image-137.png)
+![SAAB_B](../images/image-137.png)
 
 Damn, I definitely need to get this one. I have no idea how I missed it. Let me see if IBKR has it.
 
@@ -739,23 +739,23 @@ Right now I am filled with defense stocks, but I might sell the laggards to buy 
 
 At any rate, let me post the screens.
 
-![US](images/image-138.png)
-![US](images/image-139.png)
+![US](../images/image-138.png)
+![US](../images/image-139.png)
 
-![EU](images/image-140.png)
-![EU](images/image-141.png)
+![EU](../images/image-140.png)
+![EU](../images/image-141.png)
 
-![HK](images/image-142.png)
-![HK](images/image-143.png)
+![HK](../images/image-142.png)
+![HK](../images/image-143.png)
 
-![SK](images/image-144.png)
-![SK](images/image-145.png)
+![SK](../images/image-144.png)
+![SK](../images/image-145.png)
 
 Nothing too extreme.
 
 I think I'll do some research on the Nordic markets.
 
-![EU momo](images/image-146.png)
+![EU momo](../images/image-146.png)
 
 I've added the SEK and NOK currencies to the mix and I see a lot of stocks being added to the screener with the SEK currency.
 
@@ -771,64 +771,64 @@ I'll just buy new highs at the close on strong volume surges.
 
 I've been avoiding doing that so far, but it would work on bubble stocks.
 
-![GOMX](images/image-147.png)
+![GOMX](../images/image-147.png)
 
 This is hardly the worst of them. You can really see the volume coming in compared to the slow moving stocks I am favoring in my current portfolio.
 
-![ONCO](images/image-148.png)
+![ONCO](../images/image-148.png)
 
 Or this one for example. A lot of the stocks on that market are like this, they have a different character than the euro stocks do.
 
-![ASTOR](images/image-149.png)
-![ASTOR yearly](images/image-150.png)
-![ASTOR earnings](images/image-151.png)
+![ASTOR](../images/image-149.png)
+![ASTOR yearly](../images/image-150.png)
+![ASTOR earnings](../images/image-151.png)
 
 The fundamentals are there to support this kind of move.
 
-![INT](images/image-152.png)
-![INT earnings](images/image-153.png)
+![INT](../images/image-152.png)
+![INT earnings](../images/image-153.png)
 
 The earnings are there.
 
-![PLEJD](images/image-154.png)
+![PLEJD](../images/image-154.png)
 
 I think those momo stocks I showed are mostly there because the volume filter is less restrictive for the swedish krona currency. Once I ramp it up by 10x so it matches the euro turnover it starts to look different. But there are still a lot of great opportunities in Sweeden.
 
-![ACTR](images/image-155.png)
+![ACTR](../images/image-155.png)
 
 Compared to Sweeden there really isn't much in the Norwegian market.
 
-![NORBT](images/image-156.png)
-![NORBT earnings](images/image-157.png)
+![NORBT](../images/image-156.png)
+![NORBT earnings](../images/image-157.png)
 
 Revenue is going up and earnings are going up.
 
-![Sweeden Momo](images/image-158.png)
+![Sweeden Momo](../images/image-158.png)
 
 Let's do the usual winners and losers screen.
 
-![Sweeden Winners](images/image-159.png)
-![Sweeden Losers](images/image-160.png)
+![Sweeden Winners](../images/image-159.png)
+![Sweeden Losers](../images/image-160.png)
 
 12/84 = 14.3%.
 
 Not the South Korea or Hong Kong level, but it give me something to play with.
 
-![Sweeden 100m](images/image-163.png)
-![Sweeden 100m Winners](images/image-161.png)
-![Sweeden 100m Losers](images/image-162.png)
+![Sweeden 100m](../images/image-163.png)
+![Sweeden 100m Winners](../images/image-161.png)
+![Sweeden 100m Losers](../images/image-162.png)
 
 36 / 200 = 18%.
 
 Maybe I could loosen up the volume requirements?
 
-![OTEC](images/image-164.png)
+![OTEC](../images/image-164.png)
 
 Amazingly smooth mover.
 
-![Nordic 200m](images/image-165.png)
-![Nordic 200m Winners](images/image-166.png)
-![Nordic 200m Losers](images/image-167.png)
+![Nordic 200m](../images/image-165.png)
+![Nordic 200m Winners](../images/image-166.png)
+![Nordic 200m Losers](../images/image-167.png)
 
 29 / 206 = 14.1%
 
@@ -836,19 +836,19 @@ It's hard to argue that this is a huge bull market.
 
 Let me try 100m.
 
-![Nordic 100m](images/image-169.png)
-![Nordic 100m Winners](images/image-168.png)
-![Nordic 100m Losers](images/image-170.png)
+![Nordic 100m](../images/image-169.png)
+![Nordic 100m Winners](../images/image-168.png)
+![Nordic 100m Losers](../images/image-170.png)
 
 44 / 278 = 15.8%.
 
 I think I'll just go with 200m as the cutoff.
 
-![GOMX](images/image-171.png)
+![GOMX](../images/image-171.png)
 
 I want to try buying this one. It's really obeying the 8 week rule now.
 
-![QBTS](images/image-172.png)
+![QBTS](../images/image-172.png)
 
 The pattern reminds me of D-Wave.
 

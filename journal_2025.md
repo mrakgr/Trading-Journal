@@ -6767,3 +6767,17 @@ I will get to 100m on the strength of my effort and my beliefs, not because I bo
 I will only get lucky when I get good.
 
 The market is just a random number generator. It's not going to go anywhere. I will be coming back to take care it eventually.
+
+9/16/2025
+
+9:05am. I finally slept well for one night. Thank god.
+
+I am feeling vulnerable. There are a lot of great challenges ahead of me, and I have only so much time. Maybe I'll do a little programming today just to start things off.
+
+I need to start studying Cutlass. I did just a little bit of it while working at Tao Ceti. And there tutorials how to use the Cute backend directly to do my own mat mults. I need to go back to early 2024 and redo the matmult properly, so that it hits peak performance. Last time I only got 70% which is embarassing. The fact that I couldn't figure out how to use Cutlass is also embarassing, but I've learned since then.
+
+So yes, I need to do the matmult properly, which will open the door to doing the fused matmult -> softmax -> matmult kernel properly. If I could do that kernel I could implement the Hopfield dictionaries efficiently. And then it's only a small step towards implementing Hopfield dictionary based CFR with NL Holdem. Another step that will present some difficulty will be implementing subgame solving.
+
+But the hardest part will definitely be the kernel itself.
+
+9:15am. Let's do things one bet at a time. The stock market is a particular kind of RNG. It doesn't deserve to be treated as anything better.

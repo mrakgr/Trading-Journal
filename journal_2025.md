@@ -6822,3 +6822,76 @@ This is all very good info. I could combine it with the VWAP system.
 > Every single trend day has a VOLD above 3, but not every single day with a VOLD reading above 3 is a trend day.
 
 One thing I've realized in 2025 is that the market doesn't reward participation by itself. It rewards only making good bets.
+
+11am. Wow this is a great video. I'd actually like to daytrade like this. It makes sense to me.
+
+![](images/image-521.png)
+
+The way he trades makes sense to me.
+
+![](images/image-522.png)
+
+I could combine all of this with the VWAP system to get something particularly effective.
+
+11:35am. Let me finish this video and I'll take a look at some Cutlass related talks.
+
+There was a great SemiAnalysis article with links to them.
+
+![](images/image-523.png)
+
+He says there is often a gap outside the previous day's range on trend days.
+
+![](images/image-524.png)
+
+Wow, the price action towards the lows wasn't at all confirmed by the tick or the other indicators.
+
+![](images/image-525.png)
+
+If the day is shaping up to be so strong, maybe instead of just putting the stop in at the low of the day, I could also put it below VWAP, but only if closes for a couple of bars below it. Let's say 5 bars.
+
+Or I could just exit and re-enter.
+
+11:55am. No wait, I need to trade these using the OBR and lows for the day. The VWAP line here doesn't start from the open of the day, but from the premarket.
+
+![](images/image-526.png)
+
+No wait, this chart is from the start of the day and the VWAP line is fine here.
+
+![](images/image-527.png)
+
+I really like this kind of trade. The indicators are so clear.
+
+If I could create a bunch of playbook trades like these in regular stocks, perhaps based on news, that would make for a good daytrading system.
+
+![](images/image-528.png)
+> If you're focused on Nasdaq, maybe you go into trading high beta names based on all this information.
+
+52 * 5 = 260 trading days minus the holidays.
+
+Not sure how my holiday trades there is a year.
+
+![](images/image-529.png)
+
+So that comes down roughly to 25 - 50 trend days a year.
+
+I could make a lot of money trading futures on those kinds of days. Just buy them above VWAP and sell below. I could systematize this.
+
+It makes zero sense for me to trade the VWAP system on days that aren't trend days. But even with that the system still made 40% per year with 10% drawdown. How much could it make when the conditions are actually good for it?
+
+https://youtu.be/wkuR2Z0IVhQ?t=4623
+
+Here they are talking about trading options on days like these.
+
+![](images/image-530.png)
+
+On each of these trades, I could risk 1% of my account to make 10%. Maybe even more.
+
+Systematizing breakouts would be a lot harder.
+
+![](images/image-531.png)
+
+On this trend day it dipped below VWAP a few times, but those are all very minor losses. I could easily trade days like these with 500% leverage because the odds are so good.
+
+12:15pm. The trades Lance talks about in his course are much harder than these.
+
+Trend days. I could make these my first playbook trade.

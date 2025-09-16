@@ -6781,3 +6781,35 @@ So yes, I need to do the matmult properly, which will open the door to doing the
 But the hardest part will definitely be the kernel itself.
 
 9:15am. Let's do things one bet at a time. The stock market is a particular kind of RNG. It doesn't deserve to be treated as anything better.
+
+9:35am. https://youtu.be/wkuR2Z0IVhQ
+The Ultimate Trend Day Trading Course (For Beginners & Developing Traders)
+
+Even though, I am dropping trading for the time being, I still feel like watching some of this stuff. It's my vacation, so I'll do what I want.
+
+https://youtu.be/badGHJLDpP8
+Why Farmers Voted For Trump
+
+> I'm a farmer, and I'm always surprised when people say we were "lied to" about what Trump would do to us. We weren't! US farmers knew Trump planned another trade war, and that it would hurt our businesses. And a lot of farmers just voted for him anyway.
+> Want to know why? Get ready for real talk on wealth and entitlement in agriculture. Today's farm country isn't the same common-sense place that so many Americans' grandparents left behind. 
+
+Let me watch this.
+
+https://youtu.be/badGHJLDpP8?t=134
+> Last time Trump did this, he just gave farmers free money. And they assumed he'd just do it again.
+
+Lol.
+
+![](images/image-519.png)
+
+This whole thing makes farmers look really bad.
+
+9:45am. So farmers in the US are not working class, but are actually rich? They bet on Trump knowing full well he would cause a trade war that would hurt the businesses? Wow.
+
+...
+
+Let's leave that aside.
+
+I've been thinking what would Buffet do in my situation. If he had no time to research companies and 'needed' to make money. Would he just start plopping bets at random? No way. He'd stay out until he got the time to do the job right.
+
+If I really wanted to take risk, but I had no time to trade, I could just put the money into S&P. But I don't. I'd only do that if the market crashed.

@@ -6813,3 +6813,12 @@ Let's leave that aside.
 I've been thinking what would Buffet do in my situation. If he had no time to research companies and 'needed' to make money. Would he just start plopping bets at random? No way. He'd stay out until he got the time to do the job right.
 
 If I really wanted to take risk, but I had no time to trade, I could just put the money into S&P. But I don't. I'd only do that if the market crashed.
+
+10:20am. ![market internals](images/image-520.png)
+
+This is all very good info. I could combine it with the VWAP system.
+
+10:30am. https://youtu.be/wkuR2Z0IVhQ?t=1252
+> Every single trend day has a VOLD above 3, but not every single day with a VOLD reading above 3 is a trend day.
+
+One thing I've realized in 2025 is that the market doesn't reward participation by itself. It rewards only making good bets.

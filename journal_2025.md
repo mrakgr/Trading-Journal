@@ -6916,3 +6916,54 @@ News on the other hand...
 I should look into having LLMs trade those perhaps? But interpreting news has a strong discretionary component, so I am not sure if it would be viable.
 
 12:35pm. Let me go have breakfast. This knowledge is a huge gain.
+
+1:05pm. Yeah...let me pull up the chart of the OPEN again.
+
+![OPEN](images/image-533.png)
+
+I am an idiot. I've been busting my head how I could trade those breakouts in the earlier days, how to put stops and all that shit.
+
+But this here is the easy money trade. It only dipped below VWAP twice in the session and in total, I could have made 20% on just this trade along. The volume was there right from the start. There was simply nothing to cast any doubt that this would be a trend day.
+
+The setup is very easy to identify by the huge gap up, it's very easy to see the huge buying coming into the stock by the volume right from the get go, and the VWAP can serve as an indicator when to get in and out.
+
+Just how much money is there in identifying these kinds of trades?
+
+Why do I have to swing trade? Why do I have to position trade? Even a child could trade these.
+
+1:15pm. I wasn't thinking right. I thought I had gotten smarter by extending my time horizon, and a bit more courageous, but I don't need all of that.
+
+I don't need to be burdened by how I'll get 100m, or 10m. Who cares about that?
+
+Isn't my immediate problem protecting myself from expenses and being worried that I'll slip to 50k if I just did nothing?
+
+![OPEN](images/image-534.png)
+
+Looking at this chart of OPEN and trying to figure out how I'd perfectly handle all the individual swings with a system that is roboust is just me repeating the same mistake from 2007 - 2014. How many charts did I look during that time period? How much time did I waste doing that only to conclude that price movements are random?
+
+![OPEN](images/image-535.png)
+
+And then I'd look at these huge trend days, and conclude that they are not worth trading because they happen so infrequently.
+
+Thinking that I have to catch the whole move from 3 to 10 to make the 'big money in the big swing' instead of just the tiny bit that happens on the trend day.
+
+The thought that has been bubbling to the surface is that I'd like to just trade these trend days like the ones in the OPEN. And the ones in the indices.
+
+The VWAP system is profitable even without even any trend day indicators. How good it would be if I reinforced it?
+
+1:25pm. Giving up on being a 'trader' is the right choice. Who cares about the big money? I should just care about the easy money. And focus on pursuing the Singularity.
+
+I already didn't want to become a trader from the start, so what is the point of stressing myself out over it? I was only ever interested in the money it could make me.
+
+The answer is to find the easy money trades, only take those and be done with it.
+
+1:30pm. So this covers trend days. What about the opening drives?
+
+https://www.youtube.com/results?search_query=opening+drive+trading+strategy
+
+SMB has some vids on it.
+
+https://youtu.be/6Z5MLJWDQBg
+The Only Opening Drive Strategy You’ll Ever Need
+
+1:50pm. The vid wasn't much. I'll watch the SMB ones later. Let me go to the beach.

@@ -6895,3 +6895,24 @@ On this trend day it dipped below VWAP a few times, but those are all very minor
 12:15pm. The trades Lance talks about in his course are much harder than these.
 
 Trend days. I could make these my first playbook trade.
+
+https://youtu.be/wkuR2Z0IVhQ?t=5034
+> Overall, this information has incredible edge behind it.
+
+I agree. Change of plans. I am going to do the kernel, and then I'll get back to this and start systematizing it.
+
+My risk capital is 0 and I want to take a break from trading, but I don't need to start out by trading breakouts long term. Qullamaggie made his first million daytrading and I only need one good trade.
+
+![gap and go](images/image-532.png)
+
+Interesting comment. He calls them gap and go days rather than trend days.
+
+12:30pm. You know, maybe I could expand the playbook by simply applying these principles to all the exchanges in different timezones. Maybe Asia will have trend days after the US closes, or Europe will have trend days.
+
+The reality that I am keenly aware of is that some trades are easier systematize than others. This trade is based purely on price and volume so I'll have an easier time.
+
+News on the other hand...
+
+I should look into having LLMs trade those perhaps? But interpreting news has a strong discretionary component, so I am not sure if it would be viable.
+
+12:35pm. Let me go have breakfast. This knowledge is a huge gain.

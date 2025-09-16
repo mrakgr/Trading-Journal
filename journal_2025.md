@@ -6967,3 +6967,23 @@ https://youtu.be/6Z5MLJWDQBg
 The Only Opening Drive Strategy You’ll Ever Need
 
 1:50pm. The vid wasn't much. I'll watch the SMB ones later. Let me go to the beach.
+
+4:50pm. I am back.
+
+The VWAP system has extreme risk control so it should do well on stocks in play. All I have to is line up the indicators so it stays out of rangebound markets.
+
+I was really supposed to be playing games today instead of studying. Let me do a vid or two on the opening drive by SMB and then I'll play Limbus Company. I am yet to do the Spring Cultivation intervallo.
+
+Tomorrow I'll watch the pre-recorded session by WCE of a stream that I missed last time.
+
+4:55pm. Of course, before I do any trading of this system, I'll have to backtest it thoroughly to know how it behaves in various conditions, and write my own indicators. I don't like the AD line or the tick charts. I'll play with my own things.
+
+It's going to be a 90% systematic trading system. I myself will only do some work premarket to select the stocks to trade. And in futures trading I won't even have to do that.
+
+I feel that I've gained quite a bit from WCE just by them telling me about the gamma exposure indicator.
+
+The thing that's so great about this is that prices trend much better intraday than they do on the daily charts.
+
+I have a lot to look forward to.
+
+5pm. I am learning great things in this year of 2025. So the shitty attempt that I had with position trading didn't work, much like the discretionary stuff of 2007 - 2014, but it is possible that the third attempt which will be quant daytrading might end up doing well.

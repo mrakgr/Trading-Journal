@@ -6987,3 +6987,86 @@ The thing that's so great about this is that prices trend much better intraday t
 I have a lot to look forward to.
 
 5pm. I am learning great things in this year of 2025. So the shitty attempt that I had with position trading didn't work, much like the discretionary stuff of 2007 - 2014, but it is possible that the third attempt which will be quant daytrading might end up doing well.
+
+5:25pm. Let me post a comment on that video...
+
+https://youtu.be/L-_lufNM7sI
+The Opening Drive Momentum Trade (reading the tape)
+
+![criticism](images/image-536.png)
+
+Damn, he really roasted them.
+
+https://youtu.be/unPNaGuO9_I
+How to trade a Gap and Go
+
+I think this might be the setup I am looking to trade myself.
+
+https://broadcast.smbtraining.com/smbwebinar1/
+
+Ah, fuck it. Let me sign up for this.
+
+...I'll do it tomorrow, today I am supposed to be resting.
+
+![](images/image-537.png)
+
+So this is how it acted after a gap up. I do want to try the VWAP system on this. Or the ORB system.
+
+7pm. https://youtu.be/fTdxQTsl5go
+One Of The Easiest Ways to Make Money In Trading (for struggling & beginner traders)
+
+Done with that previous video. Ah whatever, let me watch this and the other one and then I'll play Limbus.
+
+https://youtu.be/fTdxQTsl5go?t=86
+> ...It's okay on our desk to go through a period of underperformance, but a lot of fundamentally what we see is...what I've seen is that when people start to gravitate towards just taking the easier trade and making trading as easy as possible on themselves, it's amazing how much more in tune you feel with the market. And how much less you allow the frustration to creep in.
+> A lot of the time when we're talking about working on our trading psychology, you really aren't taking the right setups! You're making things harder than they need to be.
+
+7:15pm. Nevermind that video, the setup is boring.
+
+https://youtu.be/6rqRkSwxAKk
+Two Variables that lead to an A+ trade
+
+Nevermind, I don't feel like watching that right now.
+
+https://youtu.be/QXNyxgbrYro
+Catch EASY Trades by Avoiding this Tape Reading Mistake (with examples)
+
+Let me watch this just for a bit.
+
+![tape](images/image-538.png)
+
+This tape reading stuff feels like nonsense. At least Andrea Cimitan shows heat maps and volume profiles.
+
+https://youtu.be/QXNyxgbrYro?t=127
+
+Like, it changes so quickly, who can possibly catch anything in this? In today's landscape populated by bots?
+
+7:25pm. Nevermind, I am not going to get anything from this. Rather, let me watch the WCE vid for a bit.
+
+https://www.worldclassedge.com/workshop-replay
+
+It can be found here.
+
+Nevermind, I skimmed it and it's the same thing as last time.
+
+7:40pm. I am done for the day here.
+
+I think I can assume that WCE is just looking for traders willing to pay for their training and won't be giving me any new insights.
+
+Or rather, the replay that I got sent in the link is actually different than the live session.
+
+I am super confused. Why are all the replay vids in the emails from WCE pointing to the same thing? I know the replay I recorded last time was different than the one I got in the email.
+
+https://get.worldclassedge.com/event-replay
+
+Ah, this is the one I was thinking about.
+
+Yeah, this is the one I was present at.
+
+7:45pm. Ok, nevermind that. Let me move on. I'd be interested in learning more about their methods, but having a better platform and the volume profile charts isn't an edge by itself. Most of the vids I see of them have them scalp and I am not interested in that.
+
+I guess if I am interested I'll just watch more SMB Capital vids.
+
+Right now, I actually want to play Limbus so let me do it.
+
+7:50pm. Tomorrow I'll really give this a break and look up the SemiAnalysis article.

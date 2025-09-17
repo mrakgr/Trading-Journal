@@ -7148,3 +7148,42 @@ You cannot blame me for wanting to stay out of the market given this experience.
 At any rate, I am done with the *other* SemiAnalysis articles. I am going to focus fully on learing Cutlass and its Cute backend from here on out.
 
 I had issues last time I did that, but I did put in some time during the Tao Ceti job, and made some initial progress in understanding it. The most important thing I discovered was how to compile the project properly, the talks by the Cutlass authors and the fact that Cute has a tutorial series on it. The latter will be the focus of my studies.
+
+5:15pm. Finally done with chores for today. Since my brother and our neighbor is helping us, we'll be done with them much more quickly.
+
+https://youtu.be/8z4NNu1M7P4
+The #1 HIDDEN Trading Mistake (Not what you think)
+
+https://www.youtube.com/shorts/RE72p_9e97I?feature=share
+This setup I learned trading at SMB capital
+
+https://youtu.be/c6AI6kaIis4
+The Japanese Way to Develop an Edge in the Market
+
+Let me watch some of these to chill. Then I'll stop for the day and play some Limbus.
+
+That is how I used to live. I wasn't always stressed out over my work and my future. Nevermind, that last one is an instant close in the 1st minute. Whenever trading gurus start talking about discipline and psychology just go the other way.
+
+Yeah, you know what, let me sign up for the trader workshop. I am super curious what the 3 setups they are teaching their new traders are.
+
+Ugh, it's at 8pm and I need to set aside 2 hours. But I guess it's fine. I'll be sure to record it.
+
+5:55pm. https://youtu.be/8z4NNu1M7P4?t=1685
+
+All of this is really great advice. Yeah, I've decided that once I resume trading I'll be daytrading and leave long term hold for later. I want to fucking trend follow, but just isn't working for me on the daily, weekly and monthly timescales.
+
+![](images/image-544.png)
+
+Buying this cross above VWAP worked amazingly well in NBIS.
+
+Ideally, I'll try to structure the system that work for the get go. News catalyst, volume, gap up, good price action from the start. OPEN that I showed was a very good example of such a pattern.
+
+I'll filter it down to the limit, use the VWAP to have very tiny losses and let my winners run and see how that works out.
+
+The reason why I am so surprised that intraday trend following with VWAP and even OBR works is that, moving averages totally don't work on the dailys. At least I think...
+
+You know maybe they would if I restricted my selection to high volume breakouts...
+
+6pm. Oh my god, is that all profitable trading comes down to? Volume and volume based moving averages?
+
+Let me finish the video.

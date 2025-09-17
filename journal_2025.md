@@ -7070,3 +7070,17 @@ I guess if I am interested I'll just watch more SMB Capital vids.
 Right now, I actually want to play Limbus so let me do it.
 
 7:50pm. Tomorrow I'll really give this a break and look up the SemiAnalysis article.
+
+9/17/2025
+
+8:50am. I am up.
+
+I kind of feel like making a Youtube video to mark the resumption of my journey. If I could only figure out the Cutlass library and how to do that **fucking** matrix multiply properly, I could bring the entire project to a closure.
+
+Before that, let me update my resume and I'll send the brokerage report to my accountant so she can take a look at them and figure out how to do the taxes ahead of time.
+
+9:35am. 
+
+![resume](images/image-539.png)
+
+Updated the resume. It doesn't look too bad, doesn't it? It should improve my employability going forward, if my personal projects don't end up bearing fruit.

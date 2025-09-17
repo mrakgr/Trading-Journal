@@ -7084,3 +7084,9 @@ Before that, let me update my resume and I'll send the brokerage report to my ac
 ![resume](images/image-539.png)
 
 Updated the resume. It doesn't look too bad, doesn't it? It should improve my employability going forward, if my personal projects don't end up bearing fruit.
+
+9:40am. Now let me see how to get those tax reports to my accountant.
+
+...No, it seems I have to wait for the year to finish in order to generate the report.
+
+10:15am. Emailed the necessary info to my accountant. I just sent her the activity statements in .pdf, .html and .csv formats.

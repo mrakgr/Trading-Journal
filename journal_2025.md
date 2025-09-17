@@ -7187,3 +7187,72 @@ You know maybe they would if I restricted my selection to high volume breakouts.
 6pm. Oh my god, is that all profitable trading comes down to? Volume and volume based moving averages?
 
 Let me finish the video.
+
+6:10pm. ![NQ](images/image-545.png)
+
+What amazing price action. I think I am starting to get it. 
+
+![NQ](images/image-546.png)
+
+I could have setup the system to trade either VWAP or the opening range breaks to the downside after a large move up like that in the indices and made decent money. But trying to figure out how to trade these on the dailys never got me anywhere.
+
+I admit, even though I was a failure for 6 years and now leading into 7 I've never tried daytrading. Maybe if I do my preparation properly I might have some success in it?
+
+https://youtu.be/A3vVLJ0JIBU
+Trading Rules: The 3 Types of Trades and How to Execute Them
+
+Ah, let me go have lunch and I'll watch this.
+
+Right now I have 0 desire to start trading again despite the market making new highs, so I am really enjoying just learning.
+
+I think 2025 has fully cured me of the notion that to make money in trading, I have to be in the market. I'll never fall for that again.
+
+If I want to make money I need to do good research and trade good setups.
+
+If I want to make big money, I just need to find the A+ setups and bet big. I am really feeling partial to the VWAP and the OBR trades.
+
+6:50pm. I am back. Let me resume.
+
+I am really amazed at the work that SMB Capital put into trader education. 10/10 firm.
+
+https://youtu.be/A3vVLJ0JIBU?t=17
+> Most traders don't have clarity on the type of trade they are putting on.
+
+This describes me pretty well in 2007 - 2014, and even today.
+
+https://youtu.be/A3vVLJ0JIBU?t=575
+> In a slower volatility markets, you're only going to be able to capture great risk rewards if you're in a trade2holds.
+
+He says that in higher vol markets you get more scalps and move2moves.
+
+7:10pm. Honestly, I am amazed he scalped the CPI release. I didn't know that was even possible. I thought for a move of that velocity only trading bots could handle it.
+
+![](images/image-547.png)
+
+The exits in the move2move trades sort of make sense, but I don't understand the entries at all.
+
+https://youtu.be/A3vVLJ0JIBU?t=1673
+> That's a totally different idea. You can initiate a trade2hold as a scalper.
+
+They are talking that you can get into these kinds of trades with a scalp to get amazing risk reward trades.
+
+https://youtu.be/A3vVLJ0JIBU?t=1814
+> If you're somebody that's just building your trading skills, scalping's a really good way to just build trading skills because you just get the opportunity to make more trading decisions faster that if you're doing move2move trading or if you're doing trade2holds.
+
+10:10pm. The selling pitch at the end of the video is so intense and just doesn't stop.
+
+![](images/image-548.png)
+
+I admit, I am tempted to buy this, but I don't want to spend money at this time.
+
+Sigh, I would have bought this instantly had I not already decided to finish that poker bot. I don't buy it that the bonus won't be there in the future. I'll just go to the webinar again and get the bonus again.
+
+10:20pm. Enough for today. I won't take the offer as that 2k might be better spent on other things.
+
+I'll leave watching: https://www.smbtraining.com/blog/dna-bonus-video
+
+...for tomorrow. Just the way they look at the premarket and the two setups they showed me have great value. The Changing Fundamentals and the Second Day Momentum.
+
+But in return for not buying this training course, I am going to stick to my plan of not trading until I've finished the training completely.
+
+I am on the right track by looking only at gap ups and relative volume. They even have a module on how to swing trade using their methods.

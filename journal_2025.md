@@ -7142,3 +7142,9 @@ In review, what I did was go long the leading group of stocks in a bull market a
 I know its a probabilistic game, but I never thought that this could happen. It's like going long the tech stocks in 1999 after a market panic, and inexplicably having something else go up instead.
 
 You cannot blame me for wanting to stay out of the market given this experience. What a failure.
+
+4:35pm. Damn, these winter prep chores are exhausting.
+
+At any rate, I am done with the *other* SemiAnalysis articles. I am going to focus fully on learing Cutlass and its Cute backend from here on out.
+
+I had issues last time I did that, but I did put in some time during the Tao Ceti job, and made some initial progress in understanding it. The most important thing I discovered was how to compile the project properly, the talks by the Cutlass authors and the fact that Cute has a tutorial series on it. The latter will be the focus of my studies.

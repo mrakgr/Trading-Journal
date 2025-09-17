@@ -7098,3 +7098,21 @@ I want to work with real professionals in the future.
 10:20am. But until then, I'll give the poker project my full attention once more.
 
 Let me track down the SemiAnalysis article.
+
+Here it is: https://semianalysis.com/2025/06/23/nvidia-tensor-core-evolution-from-volta-to-blackwell
+
+10/10 article, chock full with useful references.
+
+While I was working at Tao Ceti, I watched a few of the Cutlass talks, and I should do that again.
+
+10:25am. For now, let me do some light reading. Much like I dove into the trading resources, I'll spend some time updating myself on SemiAnalysis and watching the relevant Cutlass talks again.
+
+I spent so much time on the poker bot, so it's only fair that I make my first million poker botting.
+
+As for the job, I'll follow the principle of least resistance when it comes to making money.
+
+The Tao Ceti job made sense as it got me to 100k from 0. It's a huge gain after I basically had no money for my entire life up to that point. But now the goal has changed to getting to 200k. I could do that in 1.5 years, by working as a software engineer. But getting to 400k after that will take exponentially much effort.
+
+![work vs gamble](images/image-540.png)
+
+As degenerate as this /biz/ meme is, it is correct in principle. You can only have exponential returns by investing, trading or doing business.

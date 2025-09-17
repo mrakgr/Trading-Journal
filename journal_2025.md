@@ -7116,3 +7116,21 @@ The Tao Ceti job made sense as it got me to 100k from 0. It's a huge gain after 
 ![work vs gamble](images/image-540.png)
 
 As degenerate as this /biz/ meme is, it is correct in principle. You can only have exponential returns by investing, trading or doing business.
+
+10:40am. ![SemiAnalysis](images/image-541.png)
+
+I am strongly tempted to apply at SemiAnalysis.
+
+...Let me do it.
+
+11:05am. That was a random application, but I got the job at Tao Ceti in a similar manner, through a Reddit post when I applied to it on a whim. The spraying and praying approach on LinkedIn and elsewhere really got me nowhere for a long time, and when I applied to Tao Ceti I wasn't even looking for one.
+
+It's amazing that my resume does have some overlap with their requirements right now. Who knows, maybe I will get a bite? Most likely not. But doing moves like these to improve my chances in life feel good. The biggest issue is that they are in the US and I am in Europe and they are looking for somebody in the same timezone, so most likely this won't fan out.
+
+I have that job with Thomas lined up anyway.
+
+![](images/image-543.png)
+
+The Tao Ceti job had us hosting LLM models, so this is all good info.
+
+I like how SemiAnalysis produces useful content rather than just investor propaganda.

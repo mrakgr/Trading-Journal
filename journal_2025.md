@@ -7090,3 +7090,11 @@ Updated the resume. It doesn't look too bad, doesn't it? It should improve my em
 ...No, it seems I have to wait for the year to finish in order to generate the report.
 
 10:15am. Emailed the necessary info to my accountant. I just sent her the activity statements in .pdf, .html and .csv formats.
+
+Right...I think getting a job still makes sense to make until I can at least cross the 200k figure mark. Hopefully my next company will be a serious business rather than the idiotic crypto LARP that was Tao Ceti.
+
+I want to work with real professionals in the future.
+
+10:20am. But until then, I'll give the poker project my full attention once more.
+
+Let me track down the SemiAnalysis article.

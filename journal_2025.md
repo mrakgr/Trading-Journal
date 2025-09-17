@@ -7245,7 +7245,7 @@ https://youtu.be/A3vVLJ0JIBU?t=1814
 
 I admit, I am tempted to buy this, but I don't want to spend money at this time.
 
-Sigh, I would have bought this instantly had I not already decided to finish that poker bot. I don't buy it that the bonus won't be there in the future. I'll just go to the webinar again and get the bonus again.
+Sigh, I would have bought this instantly had I not already decided to finish that poker bot. I don't believe it that the bonus won't be there in the future. I'll just go to the webinar again and get the bonus again in the future.
 
 10:20pm. Enough for today. I won't take the offer as that 2k might be better spent on other things.
 
@@ -7264,3 +7264,7 @@ I am on the right track by looking only at gap ups and relative volume. They eve
 I have the 2 simple ones on stocks in play. I also have the trend day setup in the futures market that I could attempt to quantify. That should be enough to get me started.
 
 I have huge amount of leeway to give poker botting a try and then return to trading afterwards if that fails to pan out, or if I get tired of poker botting.
+
+10:45pm. ![ORCL](images/image-549.png)
+
+I wanted to check out the chart of ORCL. It had an opening drive and it rolled over below VWAP eventually. Would've been a profitable trade as long as it was taken on the first minute bar.

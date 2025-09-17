@@ -7258,3 +7258,9 @@ But in return for not buying this training course, I am going to stick to my pla
 I am on the right track by looking only at gap ups and relative volume. They even have a module on how to swing trade using their methods.
 
 10:25pm. Watching trading vids right now is only entertainment for me. I cannot lose track of my goals and make an impulse buy here. Even if by chance the discount goes away, I can always just pay the 5k for it. It'd be worth it regardless.
+
+10:35pm. Yeah, you know what. Forget the SemiAnalysis job, I won't apply to anything else anymore. I have 100k. If I get on that job with Thomas, that will be my last pro software work. Either way, after it's done, I'll close the company and either poker bot or trade bot full time. Now that I've been given the setups, I am not going be a losing trader anymore.
+
+I have the 2 simple ones on stocks in play. I also have the trend day setup in the futures market that I could attempt to quantify. That should be enough to get me started.
+
+I have huge amount of leeway to give poker botting a try and then return to trading afterwards if that fails to pan out, or if I get tired of poker botting.

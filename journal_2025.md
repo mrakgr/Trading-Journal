@@ -7134,3 +7134,11 @@ I have that job with Thomas lined up anyway.
 The Tao Ceti job had us hosting LLM models, so this is all good info.
 
 I like how SemiAnalysis produces useful content rather than just investor propaganda.
+
+12:45pm. Will skip beach time today as the weather is cold. I'll do some winter preparation chores instead.
+
+In review, what I did was go long the leading group of stocks in a bull market and didn't make a dime.
+
+I know its a probabilistic game, but I never thought that this could happen. It's like going long the tech stocks in 1999 after a market panic, and inexplicably having something else go up instead.
+
+You cannot blame me for wanting to stay out of the market given this experience. What a failure.

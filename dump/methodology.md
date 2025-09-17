@@ -994,3 +994,11 @@ I got hurt badly by pretty much all the stocks in my portfolio doing nothing for
 Having a better system like the one Qullamaggie uses would take care of that. Qullamaggie had a 300% per year return for 7 years back in 2021.
 
 At this point I don't trust myself to be able to reason what a profitable strategy could be in the face of market randomness, so having the computer validate all of my actions with backtesting results is something I will be doing before resuming trading again.
+
+9/17/2025
+
+In review, what I did was go long the leading group of stocks in a bull market and didn't make a dime.
+
+I know its a probabilistic game, but I never thought that this could happen. It's like going long the tech stocks in 1999 after a market panic, and inexplicably having something else go up instead.
+
+You cannot blame me for wanting to stay out of the market given this experience. What a failure.

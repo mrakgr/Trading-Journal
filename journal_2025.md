@@ -7256,3 +7256,5 @@ I'll leave watching: https://www.smbtraining.com/blog/dna-bonus-video
 But in return for not buying this training course, I am going to stick to my plan of not trading until I've finished the training completely.
 
 I am on the right track by looking only at gap ups and relative volume. They even have a module on how to swing trade using their methods.
+
+10:25pm. Watching trading vids right now is only entertainment for me. I cannot lose track of my goals and make an impulse buy here. Even if by chance the discount goes away, I can always just pay the 5k for it. It'd be worth it regardless.

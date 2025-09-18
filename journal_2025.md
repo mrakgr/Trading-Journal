@@ -7381,3 +7381,13 @@ It's going to take some time to figure this out. What is that 0 they are composi
 Ah this assert is for location. It's getting the offset at that location.
 
 Gotta go back.
+
+6:15pm. Finally done with the physical labor for today. It's just helping out the finally store wood for the wood burner that we use as a heater during winter. These days we have AC so it's nearly as necessary, but I guess it's cheaper?
+
+Plus it allows me to get some physical work done.
+
+Let me resume the Cute tutorial. I thought it wouldn't be much, but it's a simplified version of Cute so it is illuminating.
+
+I am simply going to have to walk the path that the Cutlass authors outlined for me if I want to master the library.
+
+I cannot say that they didn't put any examples for me to chew on. They made the attempt to teach me, so I have to make the attempt to learn from them.

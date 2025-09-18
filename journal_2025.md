@@ -7309,3 +7309,31 @@ https://www.nvidia.com/en-us/on-demand/session/gtc25-s74639/
 Enable Tensor Core Programming in Python with CUTLASS 4.0
 
 Let me start with this one. I'll just watch vids today to get into the swing of things.
+
+![](images/image-551.png)
+
+![](images/image-552.png)
+
+I wonder how they improved the compilation times so much. Shouldn't the Python program generate C++ that then gets compiled by the C++ compiler?
+
+![](images/image-553.png)
+
+Hmmm, I see. Maybe they're compiling to PTX directly? That would make sense.
+
+11:05am. ![](images/image-554.png)
+
+So they are applying classic staged programming concepts in this DSL here.
+
+...Damn, I want to trade. I keep thinking about VWAP-ing those Stocks In Play. Forget that. I need to think about crushing fish in poker.
+
+**God, I want to crush fish in poker!**
+
+That is what I should be thinking here if I want to bring this project to a fruition.
+
+Once I desire to play poker, I'll get a further boost of motivation. I should learn from Thomas. He logged into the poker room for the first time in ages and crushed some noobs with +EV.
+
+That is the right demeanor to have.
+
+Just think of that smooth line going into millions. You can do it.
+
+Think about how much money you can make playing cards and go for it. If people can win in the markets by using bots, why couldn't I do the same in gambling?

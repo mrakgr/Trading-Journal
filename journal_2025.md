@@ -7337,3 +7337,11 @@ That is the right demeanor to have.
 Just think of that smooth line going into millions. You can do it.
 
 Think about how much money you can make playing cards and go for it. If people can win in the markets by using bots, why couldn't I do the same in gambling?
+
+11:15am.
+
+![](images/image-555.png)
+
+I really need to spend some quality time playing with Cutlass and make sure I understand it thoroughly as it's such a vital part of everything that I want to do.
+
+12:25pm. Let me take a break here. Spent some time writing an email.

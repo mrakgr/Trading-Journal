@@ -7382,7 +7382,7 @@ Ah this assert is for location. It's getting the offset at that location.
 
 Gotta go back.
 
-6:15pm. Finally done with the physical labor for today. It's just helping out the finally store wood for the wood burner that we use as a heater during winter. These days we have AC so it's nearly as necessary, but I guess it's cheaper?
+6:15pm. Finally done with the physical labor for today. It's just helping out the family to store wood for the wood burner that we use as a heater during winter. These days we have AC so it's nearly as necessary, but I guess it's cheaper?
 
 Plus it allows me to get some physical work done.
 

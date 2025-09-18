@@ -7355,3 +7355,9 @@ Let me just go and take what is mine.
 1:45pm. ![](images/image-557.png)
 
 It gets complicated pretty quickly doesn't it? I am going to figure this out one by one. Both the C++ library and the Python DSL. I'll dedicate the time to do it. I'll believe in myself.
+
+2pm. ![perm tiling](images/image-558.png)
+
+I am not sure I understand this. I'll have to play with it.
+
+Let me stop here so I can do the winter prep chores.

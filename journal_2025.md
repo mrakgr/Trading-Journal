@@ -7268,3 +7268,44 @@ I have huge amount of leeway to give poker botting a try and then return to trad
 10:45pm. ![ORCL](images/image-549.png)
 
 I wanted to check out the chart of ORCL. It had an opening drive and it rolled over below VWAP eventually. Would've been a profitable trade as long as it was taken on the first minute bar.
+
+9/18/2025
+
+8:45am. Instead thinking ill thoughts in bed about the Tao Ceti team, I could be either doing productive work or enjoying myself. Let me get started with that.
+
+I've been sleeping really well lately. I still feel really bad about what happened 3 weeks ago, but it's not consuming me anymore.
+
+The answer to the question of this situation is - courage.
+
+If I could get the poker bot to work I will have a positive EV in poker and that will open the gate to true financial independence.
+
+8:50am. It's super annoying that my biggest challenge by far is that shitty C++ library.
+
+Let me just focus on it for now. I've done so much already. If I could really master GPU programming, I could be done with the project in as little as 3 months.
+
+8:55am. Yesterday I did some admin work, but today I will focus on the Cutlass talks. Come to think of it, there is that Big Dawg trade video I have to go through, but nevermind it. I don't feel like watching it. It can be left for later.
+
+9am. Let me read manga for a bit and then I will get started.
+
+9:50am. https://youtu.be/zWSJT0FApfk
+The Quickest Way to Profitable Trading: "Easy Money Trades"
+
+It's only 16m so let me watch this.
+
+10:35am. Lance's easy money trades would be anything but for me. In fact the trades in his course are very hard to do. It's not like the stocks that gap up in the premarket and you have a lot of time to prepare for. The news trading he does make sense, but the market moves very rapidly on them. You have to be Fast, which Lance is. His skill is quite something.
+
+Let me finish the chapter I am reading and I'll watch the Cutlass talks again. Maybe a new one came out in the interim.
+
+10:40am. https://semianalysis.com/2025/06/23/nvidia-tensor-core-evolution-from-volta-to-blackwell
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72720/
+Programming Blackwell Tensor Cores with CUTLASS
+
+![fusing multiple gemms](images/image-550.png)
+
+Oh, this last video seems interesting. Fusing multiple GEMMs.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s74639/
+Enable Tensor Core Programming in Python with CUTLASS 4.0
+
+Let me start with this one. I'll just watch vids today to get into the swing of things.

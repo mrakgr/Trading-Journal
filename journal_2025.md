@@ -7345,3 +7345,13 @@ Think about how much money you can make playing cards and go for it. If people c
 I really need to spend some quality time playing with Cutlass and make sure I understand it thoroughly as it's such a vital part of everything that I want to do.
 
 12:25pm. Let me take a break here. Spent some time writing an email.
+
+1:35pm. ![](images/image-556.png)
+
+I need to train myself to not look at this like work, but like fun. I've been watching those trading videos like a maniac, but there is no reason if I really believe I am going to be a millionaire bot user, then I shouldn't I be looking at Cutlass with simlar interest.
+
+Let me just go and take what is mine.
+
+1:45pm. ![](images/image-557.png)
+
+It gets complicated pretty quickly doesn't it? I am going to figure this out one by one. Both the C++ library and the Python DSL. I'll dedicate the time to do it. I'll believe in myself.

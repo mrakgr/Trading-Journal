@@ -7391,3 +7391,30 @@ Let me resume the Cute tutorial. I thought it wouldn't be much, but it's a simpl
 I am simply going to have to walk the path that the Cutlass authors outlined for me if I want to master the library.
 
 I cannot say that they didn't put any examples for me to chew on. They made the attempt to teach me, so I have to make the attempt to learn from them.
+
+6:25pm. ![cute](images/image-562.png)
+
+I don't get this, but this cannot be any harder than what I did in Spiral. I get the sense they're using the same concepts.
+
+![llvm](images/image-563.png)
+
+Interesting, I had no idea that it allowed inline PTX.
+
+![b100](images/image-564.png)
+
+I had no idea most of these places existed.
+
+6:40pm. I give up, I cannot find the B100 cards on-demand anywhere. I think I'll just develop the kernel for the RTX 5080. Using cheapo consumer GPUs for what I want to do is a decent choice. My personal one is only for dev work, and I'll rent the Vast.ai instances to actually run the bots.
+
+![](images/image-565.png)
+
+Ah so 6 months ago when the video was made it didn't support the RTX 50 series. I wonder if they got it working by now.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72720/
+Programming Blackwell Tensor Cores with CUTLASS
+
+Let me watch this. I watched it months ago, and I need a refresher.
+
+7:05pm. I had no trouble watching all those trading vids, so let me watch this for a bit today and I'll leave finishing it for tomorrow. I am tired from all the labor at this point.
+
+7:10pm. Ah damn it, I am too hungry to focus. Let me go get some meat.

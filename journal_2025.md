@@ -7361,3 +7361,23 @@ It gets complicated pretty quickly doesn't it? I am going to figure this out one
 I am not sure I understand this. I'll have to play with it.
 
 Let me stop here so I can do the winter prep chores.
+
+5:40pm. The physical work doesn't seem to be finishing today. I owe the boys a lunch for helping me with this. They are relentless.
+
+It's a break so I have just a little bit of time to watch the vid.
+
+![](images/image-559.png)
+
+This is very similar to the functionality I build into the Spiral's tensor library.
+
+![swizzle](images/image-560.png)
+
+It's going to take some time to figure this out. What is that 0 they are composing with?
+
+5:45pm. I did my best solo attempt at making the matmult kernel, but I could learn a lot from the Cutlass authors. The problem is that it's just so hard to get into the Cutlass examples directly. I am hoping the Cute will be easier.
+
+![](images/image-561.png)
+
+Ah this assert is for location. It's getting the offset at that location.
+
+Gotta go back.

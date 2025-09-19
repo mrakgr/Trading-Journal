@@ -7578,3 +7578,40 @@ I am going to be starting off by rebuilding the examples from the ground up. Let
 
 But before that, let me take a break so I can have a bath. I need a shave.
 
+5:45pm. Done with the bath. Let me take a look at the Cutlass blackwell_geforce examples.
+
+![](images/image-586.png)
+
+Wait, a threadblock is 128 x 128 x 128 = 2_097_152.
+
+That 2 million threads per block. Wouldn't it be better to launch a single block per grid instead of ...
+
+No wait, a block can be 2k threads at most. What exactly am I looking at here?
+
+Nevermind, I'll figure that out later. A thread block is just a block, and indeed it can have 1-2k threads depending on the arch, so I am not sure what that code is supposed to be doing.
+
+![](images/image-587.png)
+
+They are making good use of what I'd call 'manual' type inference. I used to use this techinque a lot in 2018, in the v1 of Spiral. In the end it was just very hard to program that way so I brought in global type inference in Spiral v2.
+
+During my job at Tao Ceti, I did spend a few days going through the examples in a debugger. I had to rent an instance on Vast.ai to keep the PC from crashing, but I managed to get some debugging done. So what I am looking at here doesn't feel as foreign as it did initially.
+
+6:05pm. ![](images/image-588.png)
+
+Oh, so do these 4-bit matmults have separate vectors with scale factors? Yeah, it makes sense, I had no idea how 4 bits of info could be enough to do anything useful otherwise.
+
+![](images/image-589.png)
+
+To be fair to Cutlass, while it's examples are complicated, they are relatively self contained.
+
+I am going to focus on the latest API and forget 2.x and earlier exists. It's an abomination. At least with the Cute backend they are making an attempt at proper library design.
+
+![](images/image-590.png)
+
+I had no idea B300 GPUs even existed.
+
+![](images/image-591.png)
+
+Oh, is Cuda 13 already out. I need to update.
+
+6:10pm. Lunch time.

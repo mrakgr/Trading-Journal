@@ -7523,7 +7523,7 @@ I am actually very afraid of both rake, and perma banning. I'll inevitably make 
 
 They support crypto, but also have KYC policies. Hmmmm...
 
-It might end up being how Jesse Livermore kept being kicked out of bucket shops, and was forced to trade directly on the market eventually.
+It might end up being like how Jesse Livermore kept being kicked out of bucket shops, and was forced to trade directly on the market eventually.
 
 But I did hear about bot farms in Russia, so how do they evade detection?
 
@@ -7545,3 +7545,36 @@ Oh, this is all good advice.
 Warbot perks my interest. I'll take a look at how much it costs later, but it's good that I have options. I don't care about the profiles, the bot I'll make will be way better than anything they offer.
 
 12:40pm. Let me have breakfast here, and I'll start going through the Cute C++ examples after that.
+
+1:45pm. Let me resume.
+
+2:05pm. https://docs.warbotpoker.com/regularstealth/
+
+![](images/image-582.png)
+
+Ok, let me check out the poker rooms which are high risk level.
+
+2:10pm. This is all very useful info for me. Let me open a thread on the Warbot forums.
+
+![](images/image-584.png)
+
+3:20pm. ![](images/image-583.png)
+
+I am finally looking at them.
+
+Ok, but I can't really run the Blackwell examples locally because those are intended for the datacenter cards which have tensor memory. The consumer cards don't have that. I had hoped I'd find some newer examples that could be run on consumer GPUs.
+
+I guess translating the examples to Blackwell Geforce would be my first homework assignment then. Let me first take my sweet time studying them
+
+3:25pm. And also before I can even begin work, I need to refresh my memory how to even compile Cutlass. I forgot how to use Cmake.
+
+I think I'll keep using this repo as my journal even if it won't be trading related as it's easy to include images unlike with Github commits.
+
+4:15pm. ![](images/image-585.png)
+
+Yeah, it's going to be hard. The examples are 600 LOC long. But I need to roll up my sleeves and dive into them. I am willing to dedicate a whole month to figuring out Cutlass. It won't be a quick attempt like last time. I'll play with it for as long as is needed.
+
+I am going to be starting off by rebuilding the examples from the ground up. Let me also look at the Geforce example.
+
+But before that, let me take a break so I can have a bath. I need a shave.
+

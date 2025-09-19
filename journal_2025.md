@@ -7615,3 +7615,9 @@ I had no idea B300 GPUs even existed.
 Oh, is Cuda 13 already out. I need to update.
 
 6:10pm. Lunch time.
+
+6:40pm. Let me stop here for the day. When the stakes are lower like now, I find it easier to switch off. I have a good pace set for myself.
+
+I'll study the examples more tomorrow, and once I feel like it start a new playlist titled 'Matrix Multiplication With Cutlass'.
+
+Tomorrow I'll start by updating my Cuda toolkit. See you tomorrow. Right now, I want to play Limbus.

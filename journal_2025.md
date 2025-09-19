@@ -7426,3 +7426,122 @@ Let me watch this. I watched it months ago, and I need a refresher.
 8:40am. Uah, I could barely put on my socks due to muscle pain. I need a break from anything physical for a day or two.
 
 8:55am. Ok, let me chill and I'll finish the Cutlass talk. Then I'll start playing with the Cute examples. Once I get a feel for the library, making progress will be much easier. It does have everything I need, I just have to not be a Curtis and take the time to learn it. Learning is painful, but overcoming that pain is the only way you grow.
+
+9:35am. Let me start. Though I want to trade, I am too deep into the poker project and the potential income from it could go into millions of dollars per year, so it makes sense to not give up near the end. Let's begin the ascent. The 100k that I earned from the Tao Ceti job will serve as fuel for making it a success.
+
+Let's start by watching the Cutlass talk and the I will track down the Cute tutorials and try them out.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72720/
+Programming Blackwell Tensor Cores with CUTLASS
+
+![](images/image-566.png)
+
+Ah, wait, this might be why I can't find a 1 GPU configuration for the Blackwell cards. Nvidia might not even be offering those. They might only come in form factors of 2 GPUs per superchip.
+
+![](images/image-567.png)
+
+Ever since I got fired, it feels like I've been stoned out of my mind. What the hell are GPCs?
+
+![answer](images/image-568.png)
+
+GPU Processing Clusters. Ok.
+
+![](images/image-569.png)
+
+I need to go through these tutorials step by step once I am done with the video.
+
+10:40am. ![](images/image-570.png)
+
+Note the filename in the bottom right corner. I'll have to have a direct look at it later.
+
+I am having trouble understanding the code examples. I need to make sure of what the shapes and the strides are exactly. Then it will make sense.
+
+10:45am. What does `tCgA` mean? I know that `gA` is global A, but what about `tC`?
+
+![](images/image-571.png)
+
+I really like the process. It doesn't involve any manual indexing code and feels similar to what I've been doing in Spiral.
+
+If I could only master this library, I could get such huge benefits to my programming skill.
+
+10:50am. Maybe `tC` stands for target C?
+
+Maybe when it comes to naming the Cutlass authors exceeded me?
+
+But is `tC` really necessary?
+
+10:50am. Ah, I see. Maybe they are imagining it as: gA -> sA -> rA -> tC. And then in iterative steps they are applying the args to the left as they get closer to tC.
+
+That is my best guess for what the naming scheme is supposed to represent.
+
+11:05am. ![](images/image-572.png)
+
+I am not sure I really get this...
+
+...Just a sec. If B200 cards come in 2 GPU configuration, what about B100 cards?
+
+![](images/image-573.png)
+
+It seems like that one would be more easily programmable. Ok.
+
+![](images/image-574.png)
+
+He says that the epilogue is completely decoupled from the gemm which is unlike every other architecture that Nvidia has ever released.
+
+At any rate, I cannot follow the presentation at all. I am going to have to get some practical experience through the tutorial code and watch it again. My focus is low.
+
+But once I figure it out, it's going to feel so good, and I'll get into it.
+
+![](images/image-575.png)
+
+I have no idea. What's the difference between block scaled and non-block scaled MMAs? Which is better?
+
+![](images/image-576.png)
+
+Wait, emulated fp32 is done using bf16? I thought it would be done using tf32. How could it possibly be done using bf16?
+
+![](images/image-577.png)
+> If you're doing back to back gemms, you can really do some fancy pipelining and some extra work there.
+
+12pm. You know, I think the main benefit of the Tao Ceti job is getting me this new rig. It cost me 3.5k, which is far from cheap. The fact that I'll be doing the work on a RTX 5080 which is the latest gen card will be of immense benefit.
+
+If the poker project works out, I'll be a millionaire within a year and the income from the Tao Ceti job won't matter in the grand scheme of things, but just this first step will turn out to have been incredibly meaningful.
+
+12:05pm. I got this PC in Feb 2025.
+
+2 years from now I'll have to upgrade the GPU to the RTX 60xx most likely. It'd be best if I just gave this one to my bro instead.
+
+That will set me back 3-5k again. Best keep the money safe for that eventuality.
+
+12:10pm. At any rate, I am done with the video. It was hard to stop my mind from wandering. Nothing left to do, but to dive into it.
+
+There are so many things that could make me stumble. Even if the poker project is very succesful and I have my superhuman agent, maybe the poker rooms will be too hard to beat profitably due to the rake. Maybe I'll have trouble evading detection in my botting efforts. And if I get kicked out of a major room, I might have a lot of trouble getting back in and would lose a major source of income.
+
+I am actually very afraid of both rake, and perma banning. I'll inevitably make mistakes that will get me detected at the start, and I am not a black hat hacker that I could make fake bank accounts and IDs. I can only hope that major rooms support crypto deposits.
+
+![](images/image-578.png)
+
+They support crypto, but also have KYC policies. Hmmmm...
+
+It might end up being how Jesse Livermore kept being kicked out of bucket shops, and was forced to trade directly on the market eventually.
+
+But I did hear about bot farms in Russia, so how do they evade detection?
+
+12:20pm. Yeah, if I get detected, and kicked out, it's not like I'll be able to get back in using the same name. So what should I do?
+
+This is such a huge hassle that I am tempted to just trade instead, but I need to give it a try. There are apps to do UI automation for poker botting. So let me do this project and see how it goes. Poker botting did get me the Tao Ceti job even if indirectly, so I owe it to the past me to see it through.
+
+![](images/image-579.png)
+![](images/image-580.png)
+
+Hmmmm...Some of the links at the top look interesting.
+
+https://www.bacloud.com/en/blog/177/running-poker-bots-on-servers-the-ultimate-guide.html
+
+Oh, this is all good advice.
+
+![](images/image-581.png)
+
+Warbot perks my interest. I'll take a look at how much it costs later, but it's good that I have options. I don't care about the profiles, the bot I'll make will be way better than anything they offer.
+
+12:40pm. Let me have breakfast here, and I'll start going through the Cute C++ examples after that.

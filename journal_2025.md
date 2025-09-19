@@ -7418,3 +7418,11 @@ Let me watch this. I watched it months ago, and I need a refresher.
 7:05pm. I had no trouble watching all those trading vids, so let me watch this for a bit today and I'll leave finishing it for tomorrow. I am tired from all the labor at this point.
 
 7:10pm. Ah damn it, I am too hungry to focus. Let me go get some meat.
+
+8pm. I am back. Phew, what a day. This isn't the time to be working anymore. I am tempted to look at the Big Dawg video, but let me instead play Limbus.
+
+9/19/2025
+
+8:40am. Uah, I could barely put on my socks due to muscle pain. I need a break from anything physical for a day or two.
+
+8:55am. Ok, let me chill and I'll finish the Cutlass talk. Then I'll start playing with the Cute examples. Once I get a feel for the library, making progress will be much easier. It does have everything I need, I just have to not be a Curtis and take the time to learn it. Learning is painful, but overcoming that pain is the only way you grow.

@@ -7671,3 +7671,79 @@ By reaching out with foot and stepping on it.
 2:30pm. Maybe the algorithm won't work. But, if I am destined to fail, it won't be because I was too lazy to put the effort into learning all that is needed.
 
 For the next few months, I will be deep diving into C++. Forget functional programming. I don't want to hear about it. The C with the two plusses is what I will be using!
+
+2:45pm. ![](images/image-592.png)
+
+Installing the Cuda SDK in WSL was easy.
+
+![](images/image-593.png)
+
+Over here I have the needed compilation commands for the project.
+
+3pm. ![](images/image-594.png)
+![](images/image-595.png)
+
+Making progress.
+
+![](images/image-596.png)
+
+Cute has docs. It seems they are reusing a lot of staged FP concepts in C++, so dealing with this should be easy assuming I could get the library to run.
+
+![](images/image-597.png)
+
+How do I get this ifdef to work?
+
+![](images/image-598.png)
+
+Oh, I see.
+
+3:05pm. The beauty of programming is that even if you're depressed, you can make progress in small steps like this.
+
+It might see trivial, but this is real expertise building.
+
+![](images/image-599.png)
+
+Damn, it's not really working during compilation.
+
+![](images/image-600.png)
+
+Hmmmm...
+
+I guess I'll have to set a separate macro for it.
+
+![](images/image-601.png)
+
+![](images/image-602.png)
+
+Hmmm, the code looks like it should work, but it doesn't. Let me try upgrading the driver.
+
+![](images/image-603.png)
+
+The driver has been updated. Let me try the program again.
+
+![](images/image-604.png)
+
+Oh, I was right! The driver was the issue!
+
+Not bad.
+
+3:20pm. You can see just how much trouble there was in compiling a simple program properly. Good thing I am doing it from the start. Now let me put in some includes.
+
+3:30pm. ![](images/image-605.png)
+
+Damn, you can really feel the build times increase when inserting these includes. For my own GPU I don't need the SM100 files...
+
+3:35pm. ![](images/image-606.png)
+
+Ok, I came this far.
+
+I need to come up with a plan of learning. I cannot just copy paste the stuff from the SM100 example.
+
+How about this:
+
+* Create a Cute tensor on host and initialize it with some data.
+* Pass it into a kernel and print it out on the device.
+
+This is the most basic of the basics. I'll learn a lot by doing this. Let me read the Cute docs. I know they have Layout, Shape, Stride and Tensor types. But the example is also using Thrust, so I am not sure what I should be doing.
+
+It needn't be a large tensor. A 5 element tensor is enough.

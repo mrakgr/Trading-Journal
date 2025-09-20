@@ -7612,7 +7612,7 @@ I had no idea B300 GPUs even existed.
 
 ![](images/image-591.png)
 
-Oh, is Cuda 13 already out. I need to update.
+Oh, is Cuda 13 already out? I need to update.
 
 6:10pm. Lunch time.
 
@@ -7621,3 +7621,29 @@ Oh, is Cuda 13 already out. I need to update.
 I'll study the examples more tomorrow, and once I feel like it start a new playlist titled 'Matrix Multiplication With Cutlass'.
 
 Tomorrow I'll start by updating my Cuda toolkit. See you tomorrow. Right now, I want to play Limbus.
+
+9/20/2025
+
+12:55pm. Uah, finally done with winter prep. The back of my right leg feels like it's swelling. I've been moving wood from one place to another for 4 hours straight.
+
+I don't feel like initiating the Cutlass studies right away.
+
+What I am going to do is chill for a while first.
+
+I've had a lot of time to think about both Hopfield Dictionaries and Subgame Solving.
+
+Both are significant challenges that will have to be conquered.
+
+I am going to give myself at least two months to get Hopfield Dictionaries done. I'll leave all other work out of mind and just focus on it. If I get a bite to the SemiAnalysis job application I'll ignore it. I shouldn't have applied to begin with.
+
+I need a strong heart to conquer this challenge.
+
+1:05pm. Once the Hopfield dicts are done, I am going to take my old Leduc game and turn it into a web API. And from that API I'll derive the move probs. I'll compare those probs to the Hopfield dict ones.
+
+If the method doesn't work well, then so be it. I am going to drop poker, sign up to SMB and build my edge the old fashioned way.
+
+But since I do have a lead, I am going to pursue it with my whole heart. There is no reason to give up and there is no reason to doubt.
+
+It will work. And it will make me a lot of money. And it will be a lead to bigger things down the line.
+
+I'll believe in this world, and my place in it. There is no point to the story where I fail.

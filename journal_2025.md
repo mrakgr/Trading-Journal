@@ -7640,10 +7640,18 @@ I need a strong heart to conquer this challenge.
 
 1:05pm. Once the Hopfield dicts are done, I am going to take my old Leduc game and turn it into a web API. And from that API I'll derive the move probs. I'll compare those probs to the Hopfield dict ones.
 
-If the method doesn't work well, then so be it. I am going to drop poker, sign up to SMB and build my edge the old fashioned way.
+If the method doesn't work well, then so be it. I am going to drop poker, sign up to SMB and build up my edge the old fashioned way.
 
 But since I do have a lead, I am going to pursue it with my whole heart. There is no reason to give up and there is no reason to doubt.
 
 It will work. And it will make me a lot of money. And it will be a lead to bigger things down the line.
 
 I'll believe in this world, and my place in it. There is no point to the story where I fail.
+
+1:15pm. It weird. You do need to be a fighter to be a good programmer. The worker bees just floating from contract to contract will never understand this. I am taking significant risk by doing this. I am betting on my own insight and the ability to self improve. I am bearing the weight of the doubts and the uncertainty. I am standing firm and not running.
+
+I am also bearing the pain and the sadness of failure.
+
+I am a leaf pushed around by the winds of fate.
+
+1:20pm. I am searching for my own strenght.

@@ -7655,3 +7655,19 @@ I am also bearing the pain and the sadness of failure.
 I am a leaf pushed around by the winds of fate.
 
 1:20pm. I am searching for my own strenght.
+
+2pm. Let me study the examples a little. I don't feel like doing much today.
+
+2:25pm. Ok. Let me upgrade to Cuda 13.
+
+After that I will start rebuilding the example.
+
+This is going to be my first serious C++ project. I should try to enjoy it. Right now, I am acting like Curtis.
+
+I need to overcome that inertia. If I am aiming for the top programmer spot, there is only one way to get it.
+
+By reaching out with foot and stepping on it.
+
+2:30pm. Maybe the algorithm won't work. But, if I am destined to fail, it won't be because I was too lazy to put the effort into learning all that is needed.
+
+For the next few months, I will be deep diving into C++. Forget functional programming. I don't want to hear about it. The C with the two plusses is what I will be using!

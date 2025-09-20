@@ -7747,3 +7747,74 @@ How about this:
 This is the most basic of the basics. I'll learn a lot by doing this. Let me read the Cute docs. I know they have Layout, Shape, Stride and Tensor types. But the example is also using Thrust, so I am not sure what I should be doing.
 
 It needn't be a large tensor. A 5 element tensor is enough.
+
+3:55pm. ![](images/image-607.png)
+
+I already understand this well enough from my own work. Let me move on. I need to familiarize myself with tensors.
+
+4:10pm. ![](images/image-608.png)
+
+All of this is so ugly and awkward in C++. It's much easier to understand in Spiral. I'll skim this for now.
+
+4:15pm. Ugh, I really should've left the physical labor for another day. Even leading into today, my legs muscles were hurting, but now I am really screwed. It will take me a few days to get over it.
+
+4:35pm. ![](images/image-609.png)
+
+I can barely be bothered to think about this. Let me finish the article and I will close for the day and play some Limbus.
+
+5pm. ![](images/image-610.png)
+
+So much for playing Limbus. The way I am going about this study isn't with a positive mindset, but I am making progress regardless. I think once I conquer Cutlass I'll be able to feel some sort of relief.
+
+Much like how I lost ability to trade the markets, I also don't have the ability to think clearly right now.
+
+I remember during the last week at Tao Ceti I would lie down, try to sleep and have flashes. My brain was so overloaded that I was hearing garbled, screeching sounds during those flash episodes. I hope those 2 times that this happened weren't strokes. It be ironic if being at Tao Ceti damaged my brain and lowered my overall intelligence.
+
+5:05pm. I wish I had the courage to quit in that last week myself instead of the situation forcing it upon myself.
+
+By that point I was just so disgusted at what the founders were doing that my morale was at rock bottom.
+
+It was very difficult. If the salary was 60-90k per year, quitting right then and there would have been an easy decision to make, but the salary was just so damn high, so I had resolved myself to tough it out.
+
+Despite that, the tension between my heart and my brain was tearing me apart.
+
+...
+
+Even right now, my heart is pinning for trading, but my brain wants to do the poker bot. It just makes more rational sense.
+
+If I drop trading completely, but win at poker, I'll be a millionare, and by then it won't matter that I missed on on 8 or 9 figures that trading *could* potentially give me.
+
+5:10pm. Thomas said that if I could get this poker bot done, I could get a job at Meta making millions per year in salary. Not sure how realistic that would be, but it does sound nice.
+
+Literally anybody is stronger than me at the moment.
+
+![](images/image-611.png)
+
+Let me just check whether it has the sm120 ops.
+
+![](images/image-612.png)
+
+Oh, it does. Ok, that's some basic sanity checking out of the way.
+
+5:15pm. I am not sure what I want exactly, but I want to somehow get my confidence back. I don't really need confidence to move forward, but I do need it to enjoy life.
+
+Doing the subgame solving will really be interesting. I'll do it in Spiral, so that challenge is a pure check of my existing skill and imagination. But learning Cutlass is different. It's not a skill check, but a learning check.
+
+If I can pass those two checks, I will have the poker bot that I could not complete despite being at it for over a decade now.
+
+5:45pm. ![](images/image-613.png)
+
+This is a really good tutorial, but I am wasting my time just blindly reading it.
+
+It feels like a scientific paper.
+
+What I have to do is take some code from the Blackwell example and use that to initialize myself. The operations the docs are talking about I need to try out directly. Right now I am still confused as to whether I could even create Cute tensors on host.
+
+5:50pm. Let me stop here and tomorrow I'll create the scaffolding for the example I made. Then I'll be able to experiment with the Cute operations on the device itself. That will really help to familiarize me.
+
+Let me watch that tape reading video. I am curious about it.
+
+https://youtu.be/TiycWxXPfOw
+BATTLE MAGE ⚡CHOIR OF SPELLS 2 Hours Epic Rock & Metal Symphony 🎸 Fantasy for Study Work & Workout
+
+Btw, I am really enjoying KageYume's wizard/mage soundtracks.

@@ -7818,3 +7818,20 @@ https://youtu.be/TiycWxXPfOw
 BATTLE MAGE ⚡CHOIR OF SPELLS 2 Hours Epic Rock & Metal Symphony 🎸 Fantasy for Study Work & Workout
 
 Btw, I am really enjoying KageYume's wizard/mage soundtracks.
+
+5:55pm. ![](images/image-614.png)
+
+Wow, these explanations of tape reading are super educational. But the tape flickers so much. I wonder if they could be replaced with the bid/ask bars that Andrea Cimitan showed in his Youtube series?
+
+https://youtu.be/S1pROkW3XgE?t=600
+> There is some technology that visualize reading the tape and some newer traders use them. They talk about them as if they were magic, this magic bullet. But I don't hear any experience traders using them on a regular basis.
+
+Really?
+
+![](images/image-615.png)
+
+Oh wow, these are real time recordings of the tape. Yeah, it makes sense that they'd have those.
+
+That could be really useful. You know, it's not really the way I want to trade, but maybe I could try scalping just to get a sense of what it is about. It feels like I have 0 trading skills either way so whatever.
+
+6:35pm. Closing here.

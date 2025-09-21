@@ -8091,3 +8091,17 @@ Selecting Trading Strategies
 Let me watch a little of this Stockbee video. I am bored of code reviewing.
 
 In an hour I'll be going out to lunch with my parents.
+
+https://youtu.be/KypmLu7zZEc?t=344
+
+Here he is talking about a scalper who had a full time job and no losing days scalping in 5 years. Wow.
+
+Maybe I am dumb?
+
+![](images/image-645.png)
+
+This is a very good video. He says that the first 3 short term trading strategies allow rapid account growth if you know what you're doing. Also he talks about algo scalping being the biggest business on the street.
+
+1:50pm. https://youtu.be/KypmLu7zZEc?t=2406
+
+Very good video. Let me pause here as I need to go out for lunch.

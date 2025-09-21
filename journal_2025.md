@@ -8044,3 +8044,31 @@ I have a bunch of legacy code left over from the CEM days. What a waste of time 
 Oh my god. What am I going to do with all of this? It's no longer useful, and is a net negative in the codebase. Let me have breakfast here.
 
 I should spend some time reviewing my old code.
+
+11:40am. https://news.ycombinator.com/item?id=45319062
+AI was supposed to help juniors shine. Why does it mostly make seniors stronger?
+
+11:50am. ![](images/image-640.png)
+
+Let me go through the entire codebase from top to bottom. After that I'll be removing chunks out of it and slimming it down. The CEM stuff is definitely getting ejected. Don't know what else. Maybe I'll also remove the ML library since I won't be needing it.
+
+It's great that I can read Spiral code linearly from top to down.
+
+11:55am. ![](images/image-641.png)
+
+To think the Spiral language has GADTs now. I can hardly believe I was the one to do all this work.
+
+I really am an awesome programmer. If I could only establish my foundation properly, maybe I'd be able to look forward to the future.
+
+12:10pm. ![](images/image-642.png)
+
+Yeah, it's good enough if I spend some time in quiet contemplation today. I find myself forgetting what type applications were.
+
+![](images/image-643.png)
+
+It was such a brilliant idea to use nominals for type level computations. It was a stroke of brilliance to use type literal conversions to enable this.
+
+12:25pm. https://youtu.be/TiycWxXPfOw
+BATTLE MAGE ⚡CHOIR OF SPELLS 2 Hours Epic Rock & Metal Symphony 🎸 Fantasy for Study Work & Workout
+
+I think these soundtracks are AI gen'd and they are godly.

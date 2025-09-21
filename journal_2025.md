@@ -8348,3 +8348,16 @@ The video does have them though.
 ![](images/image-661.png)
 
 You knowm, these breakouts could be considered parts of a pullback trade just as it's going to the other side of the V.
+
+9:55pm. https://youtu.be/hFjNHv7DiPs?t=1078
+Gary Stevenson: Bitcoin is Definitely Going to ZERO!
+
+> One day it goes to zero.
+> Bitcoin is musical chairs. Bitcoin is musical chairs.
+> All of these trades are designed so that everybody makes money until everybody is killed.
+
+That is such nice way of putting it lol.
+
+Let me go have dinner.
+
+Really interesting interview. I interested in watching more.

@@ -8105,3 +8105,23 @@ This is a very good video. He says that the first 3 short term trading strategie
 1:50pm. https://youtu.be/KypmLu7zZEc?t=2406
 
 Very good video. Let me pause here as I need to go out for lunch.
+
+4:20pm. I am back. Let me finish the video.
+
+Let me just take it slow and steady. I need to re-internalize the codebase that I wrote myself and plan out the necessary changes. It's not going to happen in 5m. I need to let the ideas come to me.
+
+The insight that my initial conception of HD-CFR was wrong and that I need the original CFR regret updates is key.
+
+4:25pm. I have the HD-CFR updates down, and I am pretty sure the method is right.
+
+Ironically, I forgot how the VR-MCCFR reward updates work. I am going to have to read the papers, and maybe even watch my own videos on the subject.
+
+4:30pm. Sigh, I don't feel like it right now. Let me watch the Stockbee videos.
+
+I must have woken up at 7am and lounged in bed just thinking about my moves. Since I've been awake for over 9h, it's fine if I stop for the day. The best work hours are in the morning anyway.
+
+What's important is that I cultivate my obsession.
+
+I need to make finishing the HD-CFR program, my life's goal.
+
+If I can manage to do it, I am going to put behind my financial worries behind me for good.

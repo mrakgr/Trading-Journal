@@ -8312,3 +8312,39 @@ But if I am doing that, that's already into daytrading territory. So I might as 
 Michael Burry's Biggest Bet Just Made Him a Fortune
 
 Let me watch this for a bit.
+
+https://youtu.be/U12pOYIn8oQ
+There is money in news #stocktradingtips #swingtrading #stocktrading101
+
+https://youtu.be/tLTauVJTTp0
+Do not buy stocks up 2 days in a row
+
+> If you can follow this one single rule, you will be very successful in swing trading.
+
+![narrow green candles](images/image-658.png)
+
+Let me stop here with trading. Time for play. Tomorrow I resume programming.
+
+9:15pm. Done with the Spring Cultivation intervallo. It feels like the next canto will be Ryoshu's.
+
+As the time goes by, the Sinners are getting stronger. I am looking forward to seeing how the world will treat them once their levels are all pushing 80 and more.
+
+https://youtu.be/R6w0RZ1H9p4
+What to look for in good breakout
+
+Let me watch this.
+
+![](images/image-659.png)
+
+https://stockbee.blogspot.com/2014/01/how-to-identify-a-quality-setup.html
+How to identify the A quality setup
+
+Unfortunately the images are broken now.
+
+![](images/image-660.png)
+
+The video does have them though.
+
+![](images/image-661.png)
+
+You knowm, these breakouts could be considered parts of a pullback trade just as it's going to the other side of the V.

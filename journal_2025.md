@@ -8036,3 +8036,11 @@ Finally did it.
 ![](images/image-638.png)
 
 I have a bunch of legacy code left over from the CEM days. What a waste of time that was. There is no way any optimization based algorithms will work on poker. I was just so desperate back then.
+
+11:10am. You could say that I took the Tao Ceti job in order to escape from the failure of the latest attempt to make an algorithm I came up with work on poker.
+
+![](images/image-639.png)
+
+Oh my god. What am I going to do with all of this? It's no longer useful, and is a net negative in the codebase. Let me have breakfast here.
+
+I should spend some time reviewing my old code.

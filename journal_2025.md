@@ -8125,3 +8125,190 @@ What's important is that I cultivate my obsession.
 I need to make finishing the HD-CFR program, my life's goal.
 
 If I can manage to do it, I am going to put behind my financial worries behind me for good.
+
+4:40pm. https://youtu.be/_MwO1re0_Sc
+Why is swing trading so popular style #stocktradingtips #stockmarket #stocktrading101
+
+> This is the reason why most of the traders after trying out many things invariably become swing traders.
+
+https://youtu.be/HeRrl3i3hUA
+Swing trading requires creativity and innovation
+
+Pradeep is great. My biggest problem with trading seems to be that no matter how much effort I put in, I just couldn't develop a feel for it.
+
+Not sure how I'll resolve that going into the future.
+
+https://youtu.be/I4vi75U0F0k
+We Went to a Crypto Conference: We Left Terrified
+
+Logris said to me the people putting money into treasury companies are endowments and pension funds. No matter how you look at it, giving money to companies so they can buy BTC cannot be anything other than a sign of a bubble. It's going be carnage when the bubble pops. I feel fine staying out of the market for now.
+
+https://youtu.be/hppSMZpc6Nk
+Don't use 8% stop
+
+> Unless you are position trading , 8% stop is too wide a stop for swing trading. It will lead to bigger drawdowns.
+> Find setups and entry points where your stops are tiny.
+
+At some point I find Pradeep's broken English endearing.
+
+Yeah, I think this is key. I know that I could use tiny stops with swing positions initiated on gap ups. I am just not sure what about entering later in the day.
+
+![bo](images/image-646.png)
+
+He mentioned he uses half a day's gain as a stop sometimes.
+
+![](images/image-647.png)
+
+He says he got into this trade in the first 10m. I wonder what his entry trigger was?
+
+![](images/image-648.png)
+
+162.46?
+
+Wow, how the hell is that even a breakout? That's deep in the range!
+
+If that's how he is trading and if that's the correct way to trade, no wonder I couldn't figure out swing trading!
+
+https://youtu.be/hppSMZpc6Nk?t=342
+> If you watchlist is good and you're waiting for volume confirmation to buy. A lot of people are waiting for volume confirmation to buy...
+> The cost of waiting for a volume confirmation is that your stops are going to be wider.
+> If you're trading very low prices stocks...not even 8% is going to be enough on those kinds of stocks.
+
+https://youtu.be/ELPaYyt8cMc
+How to put stops for swing trading
+
+I am just having fun watching this.
+
+https://youtu.be/ELPaYyt8cMc?t=312
+> As I got experience, I don't even put the stop at the low of the day, but half of the breakout bar.
+
+![](images/image-649.png)
+> If you can find setups where there is a big contraction or where there is a very tiny narrow range day....
+
+https://youtu.be/ELPaYyt8cMc?t=1015
+> ...I focus on entering in the first 15-20m as they are breaking out, and all of this is to reduce my stop.
+
+Yeah, the OBR strategy is where it is at for swing trading.
+
+https://youtu.be/ELPaYyt8cMc?t=1053
+> Or they have a setup problem. Or they have a process problem that they're working so that they enter late in the day. Or they enter next day. As a result they need to have a wider stop.
+
+Damn it. I didn't think of this at all during the 2007 - 2014 period. I was so foolish.
+
+But my biggest problem is simply that I didn't want to work for my money.
+
+I like thinking up solutions, but I hate executing on them, so of course I'd want to avoid anything that looks like execution. But as a consequence of that, my solutions themselves ended up being poor. If I knew programming and had the resolve to work hard today and automate tomorrow and be lazy the day after that, I could have won.
+
+![](images/image-650.png)
+
+What is this anticipation setup?
+
+But I sort of get it.
+
+If you enter at 15m in the day, put the stop at the low, and come back at the 1h mark, the breakout days act very different from range days and down days. I bet you could fish for breakouts in this manner.
+
+6:15pm. Let me continue watching learning about trading is simply fulfilling to me now in ways nothing else compares.
+
+![](images/image-651.png)
+
+https://youtu.be/3vZYjW6aa6o
+The Truth about How Much Traders Actually Make
+
+![](images/image-652.png)
+![](images/image-653.png)
+
+> If you been trading for 20 years, you're an absolute dinosaur in this business.
+
+https://youtu.be/NIDENZQSDdk
+Swing traders should focus on magnitude moves
+
+> There are magnitude moves and there are duration moves. Investors focus on duration moves. Swing traders should focus on magnitude moves. 
+
+More great advice.
+
+> Some traders are cut out for duration moves and some traders are cutout for magnitude moves. Especially those of you who are looking for exponential returns, you will have to trade magnitude moves.
+
+![](images/image-654.png)
+> You need to develop the ability to sell into strength basically.
+
+https://youtu.be/NIDENZQSDdk?t=465
+> If you're looking to make a killing, go for magnitude moves. If you're looking for steady returns, go for duration moves.
+
+https://www.youtube.com/playlist?list=PL3KzO3yXSIrN5WQ4UfBnAnqO1ofx-Jyot
+Anticipation setups
+
+This channels gets too little views.
+
+This material is new to me. I knew about his EP work 1.5 decades ago, but ironically his regular swing trading work is new to me.
+
+https://youtu.be/S6ob7CKnDMM
+Various ways to enter swing trades
+
+https://youtu.be/S6ob7CKnDMM?t=112
+> When I enter on a breakout, most of my entries are in the first half an hour.
+
+![](images/image-655.png)
+> If you're trying to enter the setup the next day, it's too late.
+
+Agggggghhhhhh...if only somebody could go back in time and smack me and tell me to enter breakout in the first 15-20m that could have made such a huge difference.
+
+I have so many regrets to work through.
+
+The Tao Ceti firing...I think I could handle Tony spaz firing me out of the blue due to him discovering the shit I wrote about the founders in the company Discord, or it being due to the artistic disagreement between me and Logris, but what happened between me and Curtis was unbearable. I will learn from this **fucking** experience. The next time I run into a junior trying to compete with me, I will crush him and drive him under the ground instead being patient and trying to teach him.
+
+Was my behavior and policy wrong? You bet it is!
+
+His behavior just made zero sense to me, and I didn't recognize him as competition due to his low skill level. I just didn't see the point of competing when we were a company of 7 and there were only me and him as devs on the team.
+
+Getting fired in this way caused me a lot of emotional damage.
+
+Next time if it happens, I'll give the junior a chance once, and if he opts not to take it and starts working behind my back, I am going to be looking into getting rid of him or having him sidelined.
+
+I could blame Logris for misleading me about Curtis, but it was my job to recognize the threats to myself and I didn't. At least I had enough marbles not to take Logris' trade recommendations. I have Reminiscences of a Stock Operator to thank for that, but I missed the deeper principle it seems.
+
+But all in all, the future value of the company was all but destroyed to me at that point, so it would have been fine to stop at that point out of my own volition.
+
+Do I regret the way it happened though? Absolutely!
+
+I cannot stop thinking about it.
+
+6:55pm. Let me finish that video and I'll play Limbus.
+
+![](images/image-656.png)
+
+Really, these reversals are valid signals?
+
+https://youtu.be/S6ob7CKnDMM?t=314
+> If I am running a reversal kind of a scan, I am running it at 3 oh clock in the afternoon.
+
+https://youtu.be/S6ob7CKnDMM?t=531
+
+Here he is talking about using OPG orders.
+
+https://youtu.be/S6ob7CKnDMM?t=577
+> Sometimes the entire move happens in just one day.
+
+![](images/image-657.png)
+> Entering early on a breakout is a significant edge.
+> If you want higher return and closer stops, earlier entry is a better entry.
+
+https://youtu.be/S6ob7CKnDMM?t=709
+> Reversal is a low risk entry if the reversal works out immediately.
+
+https://youtu.be/S6ob7CKnDMM?t=757
+> If you're going to be doing swing trading on the second day of entry, you might as well not do it.
+
+Damn. Daaaaammmmmnnnnn...
+
+It's just as I thought!
+
+I need to get into breakouts much earlier than the close of the day if I want to make buying them work. He talks about how for many breakouts the most of the move happens on the first day.
+
+In fact, OPEN recently is a good example.
+
+But if I am doing that, that's already into daytrading territory. So I might as well consider swing trading slighly extended daytrading.
+
+7:15pm. https://youtu.be/_XzOYh1t_5Y
+Michael Burry's Biggest Bet Just Made Him a Fortune
+
+Let me watch this for a bit.

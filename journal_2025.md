@@ -7835,3 +7835,87 @@ Oh wow, these are real time recordings of the tape. Yeah, it makes sense that th
 That could be really useful. You know, it's not really the way I want to trade, but maybe I could try scalping just to get a sense of what it is about. It feels like I have 0 trading skills either way so whatever.
 
 6:35pm. Closing here.
+
+9/21/2025
+
+8am. Yeah, my heart is weak. I talk about making millions, but if I really believed it, I wouldn't be acting tepidly like this.
+
+Even so I've been making progress overnight on building up my motivation.
+
+I realized some things.
+
+Much like I blamed Logris for overstepping his bounds in demanding breaking changes to the codebase he didn't even review for architectural reasons, right now, by trying to go into GPU programming straight off the bat, I am making the same mistake.
+
+8:10am. Just what the hell am I thinking by jumping straight into a GPU based implementation?
+
+You know what would motivate me to work on the algorithm? The knowledge that it works.
+
+Isn't that the main problem? If I knew for sure that it worked, I'd spare no expense to bring it to fruition.
+
+I've been talking to Thomas about making millions, and he retorted that we should aim smaller, but all of that is besides the point. It doesn't matter whether you're aiming for 10m or 10k a year, if the algorithm doesn't work.
+
+I need to prove that it works first on a smaller scale.
+
+I realized during the night that I could implement the HD-CFR updates in the tabular algorithm. And also, I could implement it on the CPU first using a lin alg library. Yes, it would be much slower than a GPU based implementation, but it would serve as a prototype and proof concept.
+
+8:15am. Also, the updates I had in mind for HD-CFR were wrong. I thought that I'd just take the max of the values and average that, but now that I am focusing intently upon the problem, I can see that I can implement the regular CFR updates instead. And that should work!
+
+I once (during the F# Youtube series) experimented with using the average policy instead of the current policy, and it worked horribly.
+
+8:20am. I won't be able to use the CFR+ updates with the HD-CFR algorithm, but the original update rule will work fine. And it will certainly work much better than averaging the normalized maxes of the expected reward predictions.
+
+Besides that, I've also realized that I need to go from the top.
+
+In the F# series I did a separate tab that displayed all the sequences and their probabilities after the training is done. That made it much easier to debug the algorithm.
+
+I don't have to create the UI like I did in the F# series, but since I am experimenting, what I should do is dump all the sequences into a .json file for comparison.
+
+8:25am. The Tao Ceti job caught me just as I came up with the idea for the HD-CFR, so I didn't have time to think too deeply about it.
+
+But now that I am focusing and am feeling the pressure to perform, it's coming into clarity and I can see the issues with both my algorithmic ideas and my approach.
+
+Here is the plan:
+
+* Reimplement the original CFR+ algorithm and dump its converged policy into a json file.
+* Reimplement the VR-MCCFR algorithm and dump its converged policy into a json file.
+* Create charts to compare the resulting policies.
+* Implement the tabular approximation of HD-CFR algorithm. Dump its converged policy into a json file.
+* Compare the policies on a chart.
+* If the results are good, implement the actual HD-CFR prototype using a linear algebra library in F#.
+* Compare the policies on a chart.
+* If the results are good, I have the green light to proceed with a GPU based implementation.
+* Once the GPU based implementation is done, because I have the testing harness established from the previous steps, I will be able to ensure its correctness by comparing its policies with the policies from the other algos.
+* Once the implementation is correct, only then will I be able to begin work on subgame solving.
+* And once that is implemented and verified to be correct, then I will have a top of the line agent that I can consider using in the real world. That is where I can start to think about monetizing it.
+
+This is the plan. It isn't to dive straight into programming the GPU. That would just be putting my head through the noose.
+
+8:35am. What Logris did in the last week was sheer arrogance and he had the gal to threaten my job when I refused him.
+
+The are proper steps that need to be followed in programming and nobody is an exception to that. The plan needs to be followed to ensure success. That applies to me, Logris and anybody else.
+
+8:40am. I don't want to ever feel so weak like I did in that final week at Tao Ceti.
+
+Act like a mediocrity and you will get mediocre results. That applies to me and everybody working there.
+
+I can't help about being a poor trader right now.
+
+But if I choose to, I can act like an elite programmer.
+
+8:45am. Forget trading. So the method I came up on the spur of the moment didn't work. Big deal.
+
+That was just me without the use of computers to assist my trading. One day I will come back and give it my full effort with the aid of machines.
+
+One day, I will tackle trading not as a hobbyist, but as the elite programmer that I am.
+
+First comes poker.
+
+8:50am. The first two steps should work, but as for the tabular approximation and the prototype...
+
+If the prototypes of HD-CFR don't work, I'll wash my hands of poker and sign up for the SMB Capital trader training.
+
+...But most likely, it will work.
+
+It just won't work if I start straight with the GPU implementation.
+
+I need to tackle the problem like a real scientist.

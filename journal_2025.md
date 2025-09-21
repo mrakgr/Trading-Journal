@@ -7919,3 +7919,23 @@ If the prototypes of HD-CFR don't work, I'll wash my hands of poker and sign up 
 It just won't work if I start straight with the GPU implementation.
 
 I need to tackle the problem like a real scientist.
+
+8:55am. Logris in one of our meetings once told me that we're the only hope of making the investors whole (since the token price was near zero.)
+
+But that would have also made the founders a lot richer. As much as I symphatized with the investors and I myself still have a lot of token in the company, the thought that Tony who saw me as some shit on the side of the road would benefit from my work disgusted me greatly. I want to see those people be poorer in the future, and I certainly don't want to work for their benefit.
+
+Honestly, as soon as Logris started pulling the investors into the picture, I started to feel that he was just saying anything he could to lift my spirits.
+
+If he was really serious about the ICF project, he could have taken me and Curtis and skipped town, rather than work with that kind of bad crowd. I have no idea why he didn't just take the job offer at Meta he mentioned he got in our initial interview. Logris really like the crypto space for some reason, so that might have had something to do with it. The company right now is a ticking time bomb and will go under if the price of BTC dips. It's just wasted effort working there.
+
+If I work anywhere ever again, I want it to be a company that is run competently by owners who are actually interested in the business and its stated mission rather than milking the clueless crypto rubes.
+
+Just how incompetent the management can be to not be able to open an account with a payment provider for 4 months straight? Just how stupid are they?
+
+9:05am. Well, it's good enough outcome for my first full time job. I got a huge salary, got in as it was good, and got out when it was bad, though it wasn't in the way I wanted.
+
+I want to do AI.
+
+9:05am. ![](images/image-616.png)
+
+I guess we won't be using Warbot.

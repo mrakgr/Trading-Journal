@@ -7939,3 +7939,9 @@ I want to do AI.
 9:05am. ![](images/image-616.png)
 
 I guess we won't be using Warbot.
+
+9:15am. ![](images/image-617.png)
+
+Oh my god, there is so much stuff here. I even forgot that the games had a web UI.
+
+Maybe I should do the regular CFR implementation in Python after all?

@@ -8072,3 +8072,22 @@ It was such a brilliant idea to use nominals for type level computations. It was
 BATTLE MAGE ⚡CHOIR OF SPELLS 2 Hours Epic Rock & Metal Symphony 🎸 Fantasy for Study Work & Workout
 
 I think these soundtracks are AI gen'd and they are godly.
+
+12:30pm. ![](images/image-644.png)
+
+Mhhh, I am going to have to figure out what I am going to do with the native Cuda backend. For now, I'll just forget it exists.
+
+Come to think of it, did I replace the 3rd party Ordered dict with the std lib .NET one?
+
+...Yes, I did.
+
+1:05pm. Let me take a break.
+
+https://youtu.be/KypmLu7zZEc
+Selecting Trading Strategies
+
+> If you started trading in the 80s or 90s, CANSLIM was the most popular trading strategy.
+
+Let me watch a little of this Stockbee video. I am bored of code reviewing.
+
+In an hour I'll be going out to lunch with my parents.

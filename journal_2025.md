@@ -7945,3 +7945,94 @@ I guess we won't be using Warbot.
 Oh my god, there is so much stuff here. I even forgot that the games had a web UI.
 
 Maybe I should do the regular CFR implementation in Python after all?
+
+9:20am. https://www.youtube.com/shorts/cFdpMAshkiw?feature=share
+> If you're a daytrader you need to stop relying on candlestick charts and start relying on order flow.
+
+![depth of market](images/image-618.png)
+![delta](images/image-619.png)
+![aggressive selling at the low, but no downside followthrough](images/image-620.png)
+![footprint chart](images/image-621.png)
+![heatmap](images/image-622.png)
+
+To be honest, using these tools makes more sense than looking at the L2 box.
+
+9:25am. Nevermind this, I was supposed to be chilling. Let me do so and then I will start programming.
+
+I'll begin work on a separate branch and go over the library from the top in order to implement what I need.
+
+10:10am. Let me begin. Time to make the `hd-cfr-prelims` branch.
+
+10:15am. ![](images/image-623.png)
+
+It's good to be back.
+
+It's really been a while since I worked on this last. Amazing that I had time to put even a little effort into Spiral due to my Tao Ceti job.
+
+![](images/image-624.png)
+
+My brain cells feel like they are dead from what happened during the last week. How do I even call this script with the given args?
+
+10:20am. Yeah, I did have time to put some effort. Before the Stripe shit, I was actually enjoying the job. And it only really became a grind after the Bitcoin revelation.
+
+![](images/image-625.png)
+
+No, not like this.
+
+![](images/image-626.png)
+
+Ah...
+
+![](images/image-627.png)
+
+How do boolean args work again?
+
+![](images/image-628.png)
+
+Yeah, this is how I thought they should work.
+
+![](images/image-629.png)
+
+Maybe the issue is that I am using bash to call the script?
+
+![](images/image-630.png)
+
+No that wasn't it. It turns out that I have to execute the script directly.
+
+![](images/image-631.png)
+
+My god, these booleans are such a handful. Let me change them to switches.
+
+![](images/image-632.png)
+
+Switches work great. Passing 0 or 1 didn't work for me either. Ok, let me move on.
+
+![](images/image-633.png)
+
+Come to think of it, I never managed to publish the prerelease to OVSX. Let me try it.
+
+![](images/image-634.png)
+
+I think I lost the OVSX key at some point.
+
+![](images/image-635.png)
+
+This is super annoying, I cannot reset the password for the Eclipse Foundation account.
+
+Nevermind, I'll try it another time. It feels that OVSX is perma-broken for some reason.
+
+![lol](images/image-636.png)
+
+Ok, this is how you don't do website design.
+
+11am. I finally managed to sign the agreement. Let me see if I can get that token. Maybe I should just drop OVSX from maintenance. It wastes so much of my time.
+
+![](images/image-637.png)
+
+Finally did it.
+
+11:05am. It was a minor update, but I am finally working on the Spiral language again.
+
+![](images/image-638.png)
+
+I have a bunch of legacy code left over from the CEM days. What a waste of time that was. There is no way any optimization based algorithms will work on poker. I was just so desperate back then.

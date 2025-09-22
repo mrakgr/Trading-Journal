@@ -8451,3 +8451,15 @@ Even before swing trading, some stocks can make 100% in a single day. If I could
 Let's leave this aside. Focus on programming.
 
 Poker could get me to 10m just as trading could.
+
+11:15am. All I need is just one good algorithm.
+
+![](images/image-673.png)
+
+Here is the reward propagation function. Amazing that I managed to implement tabular CFR on the GPU.
+
+I know this equation is supposed to represent X - E[X], but I am very confused how that could be so.
+
+Ok, so the `reward / sampling_prob * action_prob` is just the standard importance sampling update. But how does the value offsetting work?
+
+...This is ridiculous. Let me take a look at some of my old vids.

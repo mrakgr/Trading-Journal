@@ -8499,3 +8499,11 @@ It may turn out to be the case that main lesson of this return to trading (if yo
 Maybe I should just dedicate myself to probabilistic programming and see which path it will lead me down?
 
 It would only be fair that secrets of intelligence be unearthed through the power of rational reasoning - one step at a time.
+
+11:55am. Let me stop here so I can have breakfast. It's been slow going. But that is fine.
+
+That is how it usually goes for my own projects. It can be a grind, and I have to push myself to keep going forward.
+
+The times when I am in the zone and on autopilot are precious and only happen once I've grinded through the initial difficulties.
+
+12pm. Today I'll try to finish the review and then I'll start a new Youtube playlist. I'll call it 'Hopfield Dictionary CFR Preliminaries'.

@@ -8361,3 +8361,25 @@ That is such nice way of putting it lol.
 Let me go have dinner.
 
 Really interesting interview. I interested in watching more.
+
+10:30pm. https://youtu.be/hFjNHv7DiPs?t=2543
+
+Let me pause here.
+
+9/22/2025
+
+8:05am. Maybe deep down I just miss those guys now. In truth, I am tired of programming. All my accomplishments in PL design and functional programming aside, programming hasn't been very rewarding for me at an emotional level. I've been seeking AI and with the exception of the Hopfield Dictionary idea, all my past attempts have been duds.
+
+8:10am. If I cannot make HD-CFR work, I think I'll leave programming aside for a while. I am starting to not want to pursue the Singularity. I want to focus more on the earthly matters.
+
+Beset I am by emotion. This loneliness just won't go away.
+
+Let me watch the interview by Gary Stevenson.
+
+8:15am. Yeah, I've been losing sight of things. I need to make HD-CFR work. I need to make the first step into the world of AI in my own way.
+
+I need a single step to cement my foothold.
+
+8:20am. It feels like I've been trying to open the door for over a decade now. Doing random things. Very much like with trading.
+
+I need to just go in and do it. Thankfully the first few steps which is to implement CFR+ and VR-MCCFR are easy enough. Tao Ceti demolished my brain and simple tasks like those will rebuild it.

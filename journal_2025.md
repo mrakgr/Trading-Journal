@@ -8383,3 +8383,11 @@ I need a single step to cement my foothold.
 8:20am. It feels like I've been trying to open the door for over a decade now. Doing random things. Very much like with trading.
 
 I need to just go in and do it. Thankfully the first few steps which is to implement CFR+ and VR-MCCFR are easy enough. Tao Ceti demolished my brain and simple tasks like those will rebuild it.
+
+8:25am. Forget the video by Gary. I don't feel like watching it. Let me chill a bit and I'll resume studying my own codebase.
+
+8:45am. Let me start. Pursue the Singularity. Seek omnipotence. Go!
+
+8:50am. ![](images/image-662.png)
+
+What the hell is this for?

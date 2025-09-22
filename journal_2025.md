@@ -8463,3 +8463,13 @@ I know this equation is supposed to represent X - E[X], but I am very confused h
 Ok, so the `reward / sampling_prob * action_prob` is just the standard importance sampling update. But how does the value offsetting work?
 
 ...This is ridiculous. Let me take a look at some of my old vids.
+
+![](images/image-674.png)
+
+Ah, it X - Y + E[Y].
+
+Ahhhh, yeah, that makes much more sense.
+
+11:25am. ...Wow, I made video 2.5 years ago.
+
+Amazing that I am still plugging away at it.

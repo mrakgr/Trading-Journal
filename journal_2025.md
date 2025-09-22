@@ -8391,3 +8391,63 @@ I need to just go in and do it. Thankfully the first few steps which is to imple
 8:50am. ![](images/image-662.png)
 
 What the hell is this for?
+
+![](images/image-663.png)
+
+Ah, it seems I left a comment in by accident.
+
+9:25am. ![](images/image-664.png)
+
+Amazing how much I've worked on. Merge sort for poker hands that can be evaluated in registers.
+
+![](images/image-665.png)
+
+Am I not doing the tf32 conversion in the matmult anymore? It doesn't matter right now, but I'll keep it in mind. Maybe I forgot to comment it in after some test.
+
+![](images/image-666.png)
+
+I sure did some crazy things during my time working on the ML library.
+
+9:40am. ![](images/image-667.png)
+
+I've gone over the core library functions. Next up are the ML library and the games.
+
+![](images/image-668.png)
+
+Forgot that I had a blockwise transpose in the library. I have grid and block ops strewn throughout the library. The kernels need to be better organized.
+
+![](images/image-669.png)
+
+Since I need to go the Cutlass route, a lot of this doesn't even feel like an asset anymore, but a burden.
+
+10:10am. ![](images/image-670.png)
+
+Making these kernels was truly brilliant coding. Too bad I don't have an use for it anymore.
+
+11:05am. I am just doing some minor chart reading to iron out my swing trading perspective.
+
+![OKLO](images/image-671.png)
+
+The OKLO breakout worked out spectacularly well.
+
+Yeah, I think I get it now. I need to make my watchlist, and I should just come in the first 15m, buy the stock if it's breaking out and put a stop at the low of the day.
+
+I'll definitely code such a system up just to make sure it makes sense.
+
+![RGTI](images/image-672.png)
+
+This worked out great as well.
+
+Yeah, my best bet is to master swing trading in the future.
+
+11:10am. Forget this for now.
+
+The charts look way different if you assume that you have better entries than simply the close of each breakout day.
+
+It's just very hard to look at a chart and understand how a particular system would have done.
+
+Even before swing trading, some stocks can make 100% in a single day. If I could get a handle on tape reading I could make a lot of money on those.
+
+Let's leave this aside. Focus on programming.
+
+Poker could get me to 10m just as trading could.

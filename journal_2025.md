@@ -8525,3 +8525,47 @@ I'll skip reviewing the NL Holdem parts.
 At any rate, I cannot reuse a lot of the things here. I am going to have to start from scratch and reinitialize myself.
 
 I guess I'll start with a random agent that is hooked to the existing web UI. I forgot I even had those.
+
+6:35pm. I am back.
+
+7:05pm. And I am done with lunch.
+
+Had a lot of time to think.
+
+Some ideas for how to tackle subgame solving are coming to me.
+
+7:10pm. And more than that. I see that I could have done this long ago, but my real goal was to try and push towards the Singularity.
+
+Instead what I should have done from the start is focus on rational reasoning within the confines of poker.
+
+I came for the Singularity.
+
+And I learned functional programming and machine rationality.
+
+7:15pm. My weakness seems to be that I just can't take a profit to save my life. How about I take it for once?
+
+Being able to program what I have in mind is far from trivial. Being able to plan out what I have is far from trivial.
+
+Instead of lamenting my lack of power, how about I recognize just how far my effort has brought me?
+
+And recognize the power that I do have?
+
+Maybe in the future some genius will enlighten us to the secrets of intelligence, but for now, the only tools I have are those I created.
+
+It's enough. They are enough to protect myself.
+
+7:25pm. I have to follow the proper steps, but this plan won't fail. Everything is right there.
+
+Compared to trading, poker is low hanging fruit for machines. Forget trading until you've picked the low hanging fruit. Maybe it's not the low hanging fruit for others, but it is for me.
+
+7:35pm. I'll abandon the pursuit of Singularity in favor of the pursuit of machine rationality.
+
+Just like I once abandoned the dream of omnipotence in favor of the dream of entering the self improvement loop, so will I once again change.
+
+The self improvement loop is the Singularity.
+
+It's too hard for me to pursue.
+
+So the only answer is to cultivate my understanding of probability theory through the use of machines.
+
+And there is no better game for that than poker.

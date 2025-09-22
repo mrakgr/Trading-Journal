@@ -8569,3 +8569,31 @@ It's too hard for me to pursue.
 So the only answer is to cultivate my understanding of probability theory through the use of machines.
 
 And there is no better game for that than poker.
+
+8:05pm. https://youtu.be/ueykJWcO14o
+How to find and trade anticipation setups
+
+I'll watch this tomorrow. It 50m and I don't feel like it right now.
+
+8:55pm. https://youtu.be/hFjNHv7DiPs?t=3369
+> For me, if you want to do due diligence on an investment the first thing you want to check is does it exist.
+
+He is talking smack about Bitcoin. I love it.
+
+![NBIS](images/image-677.png)
+
+I had a feeling if it could go up above 92.5 which was the offering price, that it could explode. It seems I was right.
+
+I don't really care about this right now. It's just curiosity.
+
+If I take what RNG does personally, then I'll be really fucked.
+
+That the market is a RNG or rather, a probability distribution doesn't mean it doesn't have patterns. It very well does. It's just that I should forget the ticker names and trade only those patterns.
+
+What kinds of patterns could 8 - 12 week rules possibly capture?
+
+I'll save the big winners for later.
+
+https://youtu.be/hFjNHv7DiPs?t=3963
+> Hatred of immigrants is the only thing standing between Elon Musk and other billionaires and higher taxes.
+> So of course they're going to fund it.

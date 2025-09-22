@@ -8508,3 +8508,20 @@ The times when I am in the zone and on autopilot are precious and only happen on
 
 12pm. Today I'll try to finish the review and then I'll start a new Youtube playlist. I'll call it 'Hopfield Dictionary CFR Preliminaries'.
 
+1:25pm. Let me resume.
+
+1:35pm. I am not going to focus too much on the cem stuff. Let me just go through the games.
+
+2:15pm. ![](images/image-676.png)
+
+Uah, I am looking at this in a daze. Just what am I going to do with all of this?
+
+2:35pm. Let me stop here for now. It's beach time. This might be the last time I ever get to do it this summer, so I should take the chance before the weather turns sour.
+
+My legs are a bit better today anyway.
+
+I'll skip reviewing the NL Holdem parts.
+
+At any rate, I cannot reuse a lot of the things here. I am going to have to start from scratch and reinitialize myself.
+
+I guess I'll start with a random agent that is hooked to the existing web UI. I forgot I even had those.

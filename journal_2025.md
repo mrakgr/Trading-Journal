@@ -8507,3 +8507,4 @@ That is how it usually goes for my own projects. It can be a grind, and I have t
 The times when I am in the zone and on autopilot are precious and only happen once I've grinded through the initial difficulties.
 
 12pm. Today I'll try to finish the review and then I'll start a new Youtube playlist. I'll call it 'Hopfield Dictionary CFR Preliminaries'.
+

@@ -8473,3 +8473,29 @@ Ahhhh, yeah, that makes much more sense.
 11:25am. ...Wow, I made video 2.5 years ago.
 
 Amazing that I am still plugging away at it.
+
+11:30am. ![](images/image-675.png)
+
+The intricate reasoning needed to make this work is truly next level.
+
+I don't have the slightest feel for it now.
+
+The failure of the CEM method really screwed me over. But I didn't have anything better to do at that point. I knew deep learning based methods wouldn't work. And my own ideas didn't either. So I wanted to try evolutionary aglos once even though I had low expectations of them.
+
+I had so much expectation about what I could accomplish if I could dedicate myself to AI.
+
+I only really got better at programming.
+
+And implementing CFR is like working on your own probabilistic programming library.
+
+So in the end, my path towards AI is only ever leading me toward functional probabilistic programming. I thought that I would instead find some better algorithms that could emulate the capabilities of the natural brains, but that was never the case.
+
+11:35am. Still, HD-CFR while lacking in ways forward, is quite a good compromise.
+
+I like it.
+
+It may turn out to be the case that main lesson of this return to trading (if you could call it that) is that I don't need to trade at all myself.
+
+Maybe I should just dedicate myself to probabilistic programming and see which path it will lead me down?
+
+It would only be fair that secrets of intelligence be unearthed through the power of rational reasoning - one step at a time.

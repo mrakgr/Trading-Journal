@@ -8792,3 +8792,5 @@ The generations take so damn long. Maybe I'll keep using DALLE 3 for the thumbna
 Intro To The Hopfield Dictionary CFR Playlist
 
 Nice. This is the first video that I posted on my channel in nearly a year. I had some unlisted ones while I was working with Tao Ceti, but they're not worth publishing.
+
+Let me take a break here and I'll start working on the plan.

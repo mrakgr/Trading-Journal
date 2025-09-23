@@ -8787,3 +8787,8 @@ Anyway, here are the images.
 The generations take so damn long. Maybe I'll keep using DALLE 3 for the thumbnails as is usual.
 
 2:50pm. Since I have a new rig the rendering is much faster. I also have fibre optic now so the uploads are much faster too.
+
+3:15pm. https://youtu.be/W7f2PSOY5dA
+Intro To The Hopfield Dictionary CFR Playlist
+
+Nice. This is the first video that I posted on my channel in nearly a year. I had some unlisted ones while I was working with Tao Ceti, but they're not worth publishing.

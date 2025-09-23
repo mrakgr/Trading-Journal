@@ -8798,3 +8798,29 @@ Let me take a break here and I'll start working on the plan.
 3:25pm. Let me get some exercise.
 
 I don't know about 10 years, but I've earned a year of vacation at least. It should be spent working on projects dear to me. Let's finish this by the end of 2026 so there are no regrets regardless of which path I go down after that.
+
+5:45pm. I've began work on the start of the next video.
+
+Let me stop here for the day. I'll continue it tomorrow. I've done a fair amount today.
+
+6:05pm. https://youtu.be/5B-KOmpEOg8
+Timeless Advice for New Traders…Scalp!
+
+https://youtu.be/5B-KOmpEOg8?t=300
+> Easy money trades for active traders are made up mostly of scalps.
+> These trades visit every day for active traders.
+> Let me say it again, flat is not flat for an active trader.
+
+6:20pm. I don't know how to recognize scalps though.
+
+But if feels pretty convincing when Bella says it. What do I have to lose? If the latest poker attempt fails, I can spend some time on the demo, trying to scalp.
+
+I mean, what do I have to lose? My trading was always hugely inconsistent and not really profitable. The fact that I have 100k now is just raising the stakes.
+
+My biggest wish is that I could build some kind of foundation for my trading.
+
+I am already at the point where I wasn't in the 2007 - 2014, namely that I am actually willing to work to be successful at trading. I won't place dumb restrictions like don't daytrade and shit like that on myself anymore. If I have to stare 8h at the screen to be successful then so be it.
+
+If I could sign up to SMB training, I'll probably have some mentors to look over my trading.
+
+6:30pm. I'll leave that for 1-2 years down the line. Right now I have to do this Hopfield Dictionary experiment and see if botting gets me anywhere.

@@ -8597,3 +8597,193 @@ I'll save the big winners for later.
 https://youtu.be/hFjNHv7DiPs?t=3963
 > Hatred of immigrants is the only thing standing between Elon Musk and other billionaires and higher taxes.
 > So of course they're going to fund it.
+
+9/23/2025
+
+9:05am. ![](images/image-678.png)
+
+Got this email, and it is 100% a scam. How do I email Github?
+
+![](images/image-679.png)
+
+Ah it was already taken down.
+
+9:10am. Scammers sure are hard working these days, aren't they?
+
+At any rate, I will finish up the review today and get to work.
+
+9:45am. https://mangadex.org/title/ff442aab-7908-40bc-8d10-93c6bb318466/becoming-a-witch-in-a-world-full-of-monster-stories
+
+Let me read this for a bit and then I will get started for the day.
+
+10am. Let me just start. I already started writing the slides.
+
+10:55am. I recorded the intro video, but the audio was too loud for some reason. 
+
+The MIC gain is simply too large now for some reason.
+
+11:10am. Whatever, I'll just use the loudness control in RX Audio to normalize it. The fact that I have the Nvidia....
+
+![](images/image-680.png)
+
+The fact that I have the Nvidia filters in OBS makes my life a lot easier. They work really well.
+
+You know, how about instead of reading the text in monotone from the screen, I do it off the cuff? The way it comes out now is boring.
+
+11:40am. Let me install the Clip Studio Paint so I can make the thumbnails. Maybe I'll pay 50$ for the full version this time around.
+
+12am. Made the thumbnail. But you know what?
+
+Since I did experiment with ComfyUI during my stay at Tao Ceti, and I do have a RTX 5080 in my rig how about I install ComfyUI, and generate some intro and outro images?
+
+Ah, it has an installer. Ok. I guess I'll just follow that path. And then I do have the latent upscaling script that I created.
+
+![](images/image-681.png)
+
+So much for installing it.
+
+![](images/image-682.png)
+
+It's working now. I tried putting in Program Files, but I guess my user folder is a better place for it.
+
+12:10pm. Hopefully I'll be able to run the fp8 version of Flux Dev.
+
+12:15pm. ![](images/image-683.png)
+
+Nice, it worked.
+
+12:25pm. ![](images/image-684.png)
+
+Here is an adaption of the script I did for Tao Ceti. Now how do I load these missing models?
+
+https://docs.comfy.org/tutorials/image/hidream/hidream-i1
+
+It can be found here.
+
+![](images/image-685.png)
+
+Damn it, how the hell did I install this last time?
+
+Ah fuck it, let me go get breakfast.
+
+![](images/image-686.png)
+
+Ah, I see. When I opened the workflow, it offered to do it for me automatically.
+
+Given that it's 16gb, I am not sure my GPU will be able to hold the model. I'll give it a try.
+
+![](images/image-687.png)
+
+I could also try the NF4 version.
+
+https://github.com/hykilpikonna/HiDream-I1-nf4
+
+I'll have to figure out how to get it.
+
+1:20am. Let me resume. Generating that image was just too slow due to lack of RAM so I closed ComfyUI.
+
+![](images/image-688.png)
+
+Agh, this is so annoying I so don't want to mess with model downloads.
+
+azaneko/HiDream-I1-Fast-nf4
+https://huggingface.co/azaneko/HiDream-I1-Fast-nf4/resolve/main/transformer/diffusion_pytorch_model.safetensors
+
+Let me try changing the model to this.
+
+1:30pm. No, it's still very slow.
+
+![](images/image-689.png)
+
+Let me try Omnigen2 instead of messing with those large models. Where are even my model folders?
+
+![](images/image-690.png)
+
+Ah here.
+
+1:40pm. ![](images/image-691.png)
+
+Finally it loaded.
+
+![](images/image-692.png)
+
+The cat has been generated. Let me upscale it.
+
+1:50pm. ![](images/image-693.png)
+
+Ok, let me try this out.
+
+![](images/image-694.png)
+
+It finished.
+
+Let me paste them here.
+
+![](images/image-695.png)
+![](images/image-696.png)
+
+Oh, not bad. Not bad at all.
+
+> A robot adventurer grasping for the stars, climbing the heavenly staircase. Amber ocean. High quality, 4k, painterly style.
+> blurry, low quality, distorted, ugly, bad anatomy, deformed, poorly drawn
+
+![](images/image-697.png)
+![](images/image-698.png)
+
+I messed up and made the denoise factor far too large. Because of that the image gen didn't take the original image into account, but that having said the result is pretty good idea way.
+
+![](images/image-699.png)
+
+I like this.
+
+Let me crop the 4 pixels on either side to make the width exactly 1080.
+
+![](images/image-700.png)
+
+Mmhhhh, here it is.
+
+![](images/image-701.png)
+
+2:10pm. I'll back up the workflows in this journal.
+
+![](images/image-702.png)
+
+Let me also try generating a thumbnail image.
+
+![](images/image-703.png)
+
+The results are poor.
+
+![](images/image-704.png)
+
+Lol, this prompt was a bit better.
+
+![](images/image-705.png)
+
+I like the above one in particular.
+
+![](images/image-706.png)
+![](images/image-707.png)
+![](images/image-708.png)
+
+Maybe I should merge the intro and outro generation into a single workflow?
+
+![](images/image-709.png)
+
+No, I thought it would maybe do the in parallel, but I was wrong.
+
+![](images/image-710.png)
+![](images/image-711.png)
+
+Anyway, here are the images.
+
+2:40pm. Let me post the intro video online.
+
+![](images/image-712.png)
+![](images/image-713.png)
+![](images/image-714.png)
+![](images/image-715.png)
+
+The generations take so damn long. Maybe I'll keep using DALLE 3 for the thumbnails as is usual.
+
+2:50pm. Since I have a new rig the rendering is much faster. I also have fibre optic now so the uploads are much faster too.

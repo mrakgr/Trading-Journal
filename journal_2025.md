@@ -8824,3 +8824,13 @@ I am already at the point where I wasn't in the 2007 - 2014, namely that I am ac
 If I could sign up to SMB training, I'll probably have some mentors to look over my trading.
 
 6:30pm. I'll leave that for 1-2 years down the line. Right now I have to do this Hopfield Dictionary experiment and see if botting gets me anywhere.
+
+6:35pm. Oh, there is a WCE live event. I'll take a look at it for a bit.
+
+6:40pm. I don't want to get baited into this during my rest period.
+
+7:10pm. Ah, my god, is it just going to be rerun of last time?
+
+7:30pm. Enough, I don't want to waste my time on this anymore. It's 30m in and he is essentially still just shilling.
+
+I'd recommend people skip these webinars and just look at his order flow vids on Youtube.

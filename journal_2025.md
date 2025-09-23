@@ -8794,3 +8794,7 @@ Intro To The Hopfield Dictionary CFR Playlist
 Nice. This is the first video that I posted on my channel in nearly a year. I had some unlisted ones while I was working with Tao Ceti, but they're not worth publishing.
 
 Let me take a break here and I'll start working on the plan.
+
+3:25pm. Let me get some exercise.
+
+I don't know about 10 years, but I've earned a year of vacation at least. It should be spent working on projects dear to me. Let's finish this by the end of 2026 so there are no regrets regardless of which path I go down after that.

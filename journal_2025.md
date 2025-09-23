@@ -8834,3 +8834,11 @@ If I could sign up to SMB training, I'll probably have some mentors to look over
 7:30pm. Enough, I don't want to waste my time on this anymore. It's 30m in and he is essentially still just shilling.
 
 I'd recommend people skip these webinars and just look at his order flow vids on Youtube.
+
+7:35pm. I was kind of interesting when Andrea dropped out and Tom started talking instead. He mentioned that we might see volatility in the next 2-3 months. And as you know volatility happens when markets start to sell off.
+
+Unless the panic is substantial...no even then I don't really have any risk appetite right now.
+
+I want to hang on to the money that I have rather than waste it on recklessly.
+
+I'll focus on poker. Trading education is just fun for me now.

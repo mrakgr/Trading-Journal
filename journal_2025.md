@@ -8845,6 +8845,142 @@ I'll focus on poker. Trading education is just fun for me now.
 
 9/25/2025
 
-1:40pm. Went to Rijeka and got the calcificate in my right shoulder treated with an injection. It should be healed in 5-7 weeks. Finally.
+1:40pm. Went to Rijeka and got the calcificate in my right shoulder treated with an injection. It should be healed in 5-7 days. Finally.
 
 Now that I've done that and also had breakfast let me put in a programming session. The poker bot won't make itself.
+
+7:15pm. https://youtu.be/vhx3yeFBlNA?t=2459
+The Purely Systematic Wizard Trader · Marsten Parker
+
+> I was still trading fixed shares rather than fixed % at that time.
+
+What the fuck? Like 1000 shares in every position? And he was doing that nearly 2 decades? And this guy's a market wizard?
+
+At any rate, I am going to do the games in pure C++. I had enough of Python.
+
+I guess it's a pattern with me. I like to follow my heart as much as my brain. I don't want to deal with Python's issues anymore. The CuPy library still didn't implement cluster sizes, and it would be great if I could get rid of some of the serialization between host and device and close the gap between the game implementations on the host and the device.
+
+Oh by the way, I completely forgot to post a link to the new playlist:
+https://www.youtube.com/playlist?list=PL04PGV4cTuIUwzFPqC-zPEMU-2U82JubO
+
+Also I see that Limbus Company has new OSTs posted. I wonder if the collab started?
+
+Let me finish the interview and I'll check.
+
+8pm. https://youtu.be/vhx3yeFBlNA?t=3581
+> So basically I am no longer achieving market wizard results.
+
+He's says he had his last equity peak 2.5 years ago from the time the interview was made. Poor guy.
+
+I am starting to imagine the market as a deeply nested probability distribution. I would probably model it as such as well.
+
+I am not really into backtesting, but rather I am into modeling.
+
+8:05pm. I need to be very cautious in how I approach the markets.
+
+Dumb systems won't really work, I need to get a sense for what is moving them.
+
+https://youtu.be/vhx3yeFBlNA?t=3720
+> A part of my results are flat is that I've been neglecting my own trading system research recently.
+
+He says that he had a few standout years recently so his results are reverting to the mean.
+
+https://mhptrading.com/
+
+Here is the software he is workig on that has 700 users.
+
+He is def not worried, so that's good, but 2.5 years of drawdowns would kill me.
+
+8:10pm. I am looking at some of the biggest winner in the past month and they all had high volume gaps. It suggests that if I want to swing trade that I need to look for gaps. I need to go for news. I might not buy random shit and hope it continues the momentum.
+
+I need to become more active when I get back into the game.
+
+8:15pm. The key isn't necessarily to use the OBR strategy, but to be very close to the breakout time which is usually in the morning and then use short stops. The daily lows are a great spot to put them for momentum trades.
+
+Simple price actions strats like the ones that Parker uses are bound to underperform. Ironically, he says he started out using high volume breakouts and then that stopped working.
+
+The reason is probably because he is simply getting in too late like I did.
+
+![NEGG](images/image-716.png)
+
+Damn this has so many good breakouts along the way. You really need to watch these and wait for volatility contractions, and they buy the breakouts early in the day.
+
+Sure, it went 66% in two weeks in the end, but that isn't scary if you're swing trading with a short stop.
+
+![OKLO](images/image-717.png)
+
+Yeah, here is a pullback.
+
+How would I trade this if my aim was to use a daily low stop?
+
+I'd wait for it to selloff for a few days before trying to get back in.
+
+![](images/image-718.png)
+
+Had such a perfect early morning breakout.
+
+Yeah, all I need to trade are:
+
+* Tight stops.
+* Perspective on the market.
+* My time based re-entry rules.
+* To know how to sell into strength.
+
+Right now I am tempted to buy this pullback, but buying this much weakness after a strong runup is usually a huge mistake. The best buys are reversal days and also morning breakouts after volatility contraction.
+
+Yeah, I think that given the fact that I am thinking this, I am starting to sense my risk appetite coming back.
+
+But risk appetite doesn't necessarily just have to mean trading.
+
+It means believing that I could get back to even if my stake goes to 70k.
+It means believing that I could turn a profit even if I decide to take a year off to program the trading bot.
+
+My father and I were talking during the drive and he mentioned he wants to renowate the roof of the house next year and it would cost 20k. I've offered to foot the bill even though it would cut into my trading capital.
+
+It doesn't matter.
+
+If I am trying to swing trade and I have the correct rule and perspective that is going to come back to me quickly.
+
+Not to mention the poker bot could bring me into millions. So I just have to believe and spend that money on things that would be necessary for our daily life. It's better to spend the trading capital on useful things rather than stockpile it.
+
+8:40am. I am really starting to become partial to the bar low/high system Lance showed me. I had no idea it was possible to be profitable using such a simple system in the right spots.
+
+I really learned a ton from him. I am going to resume watching his course vids on a recreational basis.
+
+It actually takes a lot of courage to trade a system like that, to risk getting taken out by noise.
+
+8:45pm.
+
+![WULF](images/image-719.png)
+
+This could be a good setup. This is one of those stocks that drops before turning around and breaking out.
+
+In fact, I need to do is as Pradeep does and look to put the stop even more tightly than the daily low.
+
+![](images/image-720.png)
+
+Gaps, early morning breakouts, 1 day bar systems...
+
+8:55pm. Once I start trading for real, every morning I should be looking at gaps up and the stocks in play. Every day I should go over the charts of at least 500 different stocks in order to be prepared.
+
+That is how I will win.
+
+![CRWV](images/image-721.png)
+
+With the knowledge that Qullamaggie and Pradeep imparted upon me. I am starting to see the swing timings.
+
+Right now for example, CRWV is an anticipation setup. It's seting up for a breakout above 140.
+
+![ALAB](images/image-722.png)
+
+I don't like this setup. I don't like buying these kinds of reversals, I'd rather be on the right side of V rather than at the bottom.
+
+![QBTS](images/image-723.png)
+
+The whole market is making these sorts of sequential upday moves.
+
+9:15pm. Let me stop here for the day, I want to go back to reading Max Level Priestess.
+
+That's enough chart reading exercise. I guess it all depends on what kind of perspective you're trying to impose on the charts.
+
+That's the essence of a trading system. With the daily bar system, you are forced to play the swings just as they are starting or you'll get nowhere. This is exactly how Pradeep is teaching us to trade.

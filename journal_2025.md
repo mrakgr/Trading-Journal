@@ -8842,3 +8842,9 @@ Unless the panic is substantial...no even then I don't really have any risk appe
 I want to hang on to the money that I have rather than waste it on recklessly.
 
 I'll focus on poker. Trading education is just fun for me now.
+
+9/25/2025
+
+1:40pm. Went to Rijeka and got the calcificate in my right shoulder treated with an injection. It should be healed in 5-7 weeks. Finally.
+
+Now that I've done that and also had breakfast let me put in a programming session. The poker bot won't make itself.

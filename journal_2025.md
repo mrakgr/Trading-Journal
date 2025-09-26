@@ -8984,3 +8984,17 @@ The whole market is making these sorts of sequential upday moves.
 That's enough chart reading exercise. I guess it all depends on what kind of perspective you're trying to impose on the charts.
 
 That's the essence of a trading system. With the daily bar system, you are forced to play the swings just as they are starting or you'll get nowhere. This is exactly how Pradeep is teaching us to trade.
+
+9/26/2025
+
+8am. If I want to take risks, I should focus on my best trades. That means finishing the poker bot.
+
+8:35am. Let me start.
+
+I think ultimately that my decision to make up the 8 - 12 week rules and follow them makes sense. I was right that I was too tight during the previous decade. But 8 - 12 weeks simply wasn't the right system in this environment.
+
+Every little thing matters, and I haven't even imagined that stops could be placed at the daily lows.
+
+I've realized that the system one is using is the perspective on the market. If you're using a swing trading system, you're looking at the market very differently than a position trader would.
+
+I've gotten ahead of myself yesterday. I'd, of course, need to backtest a swing trading system first and systematize instead of eyeballing it. 

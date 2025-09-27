@@ -9033,3 +9033,12 @@ I've told him to get more sleep.
 6:45pm. I have to give Marsten Parker his due, he said something really good in his podcast interview.
 
 Namely that there is no point in creating a system for a single stock as it won't behave as it did in the past.
+
+7:55pm. ![](images/image-726.png)
+![](images/image-727.png)
+
+It's scary being long here. I might want to swing trade, but position trading would be out of the question for me.
+
+https://gideons.substack.com/p/are-we-in-an-ai-bubble-i-suspect
+https://www.ai-supremacy.com/p/the-ai-bubble-grows-ponzi-scheme-symptoms-to-meet-compute-demands
+

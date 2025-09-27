@@ -9012,3 +9012,7 @@ Smart, dumb; young, old; rich, poor...none of that matters.
 It doesn't matter how far along one is on his path.
 
 What matters is if he has the strength to make a single step forward.
+
+4:50pm. I guess I'll stop programming for the day. I need to think more how to handle C++ reference types in Spiral.
+
+Before I start work on the new language features I'll take some time to think about them.

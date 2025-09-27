@@ -8997,4 +8997,18 @@ Every little thing matters, and I haven't even imagined that stops could be plac
 
 I've realized that the system one is using is the perspective on the market. If you're using a swing trading system, you're looking at the market very differently than a position trader would.
 
-I've gotten ahead of myself yesterday. I'd, of course, need to backtest a swing trading system first and systematize instead of eyeballing it. 
+I've gotten ahead of myself yesterday. I'd, of course, need to backtest a swing trading system first and systematize instead of eyeballing it.
+
+9/27/2025
+
+8:45am. Amazing, my right shoulder seems to be completely healed. No more pain at all when I move my arm.
+
+I've been going to that ultrasound treatment for months and then spent a year exercising, but a simple injection was all it took to take care of it in 2 days.
+
+9:05am. Let me start the session.
+
+Smart, dumb; young, old; rich, poor...none of that matters.
+
+It doesn't matter how far along one is on his path.
+
+What matters is if he has the strength to make a single step forward.

@@ -9016,3 +9016,20 @@ What matters is if he has the strength to make a single step forward.
 4:50pm. I guess I'll stop programming for the day. I need to think more how to handle C++ reference types in Spiral.
 
 Before I start work on the new language features I'll take some time to think about them.
+
+6:20pm. ![](images/image-724.png)
+
+Oh, Lance will be in the next market wizards book.
+
+...He looks kind of washed out in this video though.
+
+![](images/image-725.png)
+> Trading is literally fucking killing me.
+
+Oh lol, didn't expect that.
+
+I've told him to get more sleep.
+
+6:45pm. I have to give Marsten Parker his due, he said something really good in his podcast interview.
+
+Namely that there is no point in creating a system for a single stock as it won't behave as it did in the past.

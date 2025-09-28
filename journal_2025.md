@@ -9042,3 +9042,82 @@ It's scary being long here. I might want to swing trade, but position trading wo
 https://gideons.substack.com/p/are-we-in-an-ai-bubble-i-suspect
 https://www.ai-supremacy.com/p/the-ai-bubble-grows-ponzi-scheme-symptoms-to-meet-compute-demands
 
+9/26/2025
+
+8:20am. I am up. Let me chill and I'll start work on the new features afterwards.
+
+9:05am. ![BREA](images/image-728.png)
+
+I really owe Lance Breitstein a lot for introducing me idea of using a simple system on complex setups. For a guy who made 100m, I never would have expected that he would be using a simple trend following 2 min bar hi/lo system for long and short positions respectively.
+
+Trading like that would get you killed 99% of the time, but he is using it the 1% of the time where there is a catalyst and he can make it work to great effect.
+
+So the chart of BREA here is a price acceptance type of consolidation, an anticipation setup. If I were swing trading, what I'd go for is a morning breakout entry with a stop at the daily lows and then trailing it up using 2 day bar lows. I like that the short consolidation here on the dailies establishes what the support level is.
+
+This is easy money. Certainly easier than the 8 - 12 week system I came up with last time.
+
+![INT](images/image-729.png)
+
+This is a weekly chart, but just look at how it makes higher lows once it finally gets going. And then it got crushed once it started making lower lows.
+
+That is what is really important.
+
+I've been struggling so hard to understand, but it couldn't be simpler.
+
+![NBIS](images/image-730.png)
+
+Higher lows, higher highs. Despite the recent dip, it's still making higher lows.
+
+![EXA](images/image-731.png)
+
+I can really see it now.
+
+![RHM](images/image-732.png)
+
+Higher lows.
+
+![R3NK](images/image-733.png)
+
+I bought the euro defense stocks just as they were making lower lows on the weekly charts. And I sold out as soon as they finished their selloff on the way up.
+
+9:15am. I know I said I would be backtesting things, but it feels like a veil has been lifted from my vision.
+
+What about market bottoms on QQQ on the weekly chart. Would the 1 week system work on it?
+
+![QQQ](images/image-734.png)
+
+I just wasn't there for the market after I gave up on trading past 2014, but generally yeah. If the market is in an uptrend it starts making higher lows on the weeklies.
+
+The trouble is that this happens only after large panics and most of the time it's rangebound and only dip buying works.
+
+![QQQ](images/image-735.png)
+
+It doesn't work that well though.
+
+Yeah, unless you come up with a theory that this particular system should work and set out to make it work, it won't work.
+
+Looking at daytrading, I am shocked that sometimes there would be good trends on the 2 min charts. Never would have expected that to be possible.
+
+![QQQ](images/image-736.png)
+
+Amazing how it was making lower highs leading up to the crash.
+
+Using the weekly higher lows system to hold from the market bottom wouldn't have worked that well. Would have gotten me stopped out on the first pullback in May.
+
+9:30am. All I can say is that it could work some of the time if you can pick the spots well, but I wouldn't want to be trading the indexes directly either way.
+
+Sometimes it works after panic lows, but a lot of the time the market is simply rangebound and volatile after them, so you have to take care.
+
+It actually works best when the volatility is low and the market is just slowly grinding higher. I actually wouldn't trade it post crash lows.
+
+Yeah, trading is confusing. The system you're using never really works on any one thing, but should be applied to particular setups.
+
+I failed in 2007 - 2014, no doubt about it. I couldn't figure out a general theory of how trading works. I was just doing things at random hoping the insight would come to me, much like in my Singularity pursuit I hoped that secrets of intelligence would come to me if I just put in the effort.
+
+It doesn't matter that I didn't lose money. I failed at the one thing that could have made me profitable.
+
+I failed to learn from Pradeep Bonde back then. I failed to make the next step from O'Neil's book. I couldn't disentangle the conflicting urges inside myself.
+
+9:40am. Next time, I'll do it properly and I will win.
+
+Let me go back to reading Murim's Crazy Bitch and then I will do some coding.

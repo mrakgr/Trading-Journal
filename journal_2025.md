@@ -9121,3 +9121,7 @@ I failed to learn from Pradeep Bonde back then. I failed to make the next step f
 9:40am. Next time, I'll do it properly and I will win.
 
 Let me go back to reading Murim's Crazy Bitch and then I will do some coding.
+
+10:15am. It's not like I can actually see the results of following such a system, so these words should be taken more as a reflection of my sentiment.
+
+The mentality of a monk is probably ideal for a trader.

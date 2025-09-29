@@ -9260,3 +9260,71 @@ In the end, I really was just a contractor.
 If I had 100k going into it, I'd have bailed after the Stripe nonsense, but I got attached to the company despite my dislike of it. I thought that I'd take a vacation and patch things up with the team, but that opportunity never came.
 
 3pm. Let me just stare at the project. Before the breakfast I managed to get some flow going and reactivated some of my old brain areas. Let's do that for a bit longer.
+
+3:10pm. I'll only focus on getting the 2 tabular CFR algos done. I won't force myself.
+
+Let's take it nice and easy. A part of me doesn't appreciate my year long vacation being cut, but maybe the next job will be good?
+
+3:20pm. ![](images/image-742.png)
+
+You know, I really dislike the pervasive use of the ref type in the library. Also given the number of layout types, maybe it would be time that I introduce a deref unary operator to the language that is polymorphic in layout types.
+
+The I hate how sometimes I have to strip the ref type away and while still generating a reference in the compiled code.
+
+If it's like that I should just put everything into an layout type and be done with it.
+
+But, the `stack_refs` type while it supports reference indexing, still takes values into the contructor. Not sure if that is fine.
+
+3:35pm. I really wish I could improve the coherence of ref handling in Spiral.
+
+4:05pm. ![refm](images/image-743.png)
+
+You know what would really improve this? If I could remove everything above `to_local.`
+
+![](images/image-744.png)
+
+Ohhh, there are no type errors when I do this.
+
+But there are plenty of errors when I comment out `to_local` and `from_local`.
+
+Yeah, ok. This is true progress.
+
+These reference types are for interop anyway.
+
+I feel like introducing even more layout types which have all the fields ref types wouldn't be the right choice.
+
+But at the same time I don't like that I have to create a value type and then copy it into the `stack_refs` instance.
+
+4:30pm. ![](images/image-745.png)
+
+Why the hell has this still not been fixed?
+
+![](images/image-746.png)
+
+Here it is.
+
+![](images/image-747.png)
+
+Ah, why am I using the average here again?
+
+The softmax needs a max in order to calculate the baseline that will be subtracted from all the elements for numerical stability. The average while it does help is also less stable than the max.
+
+![](images/image-748.png)
+
+Cannot be sure this works correctly and I am not going to bother testing it right now.
+
+4:35pm. I've realized something.
+
+Progrmming is hard.
+
+I thought trading was hard, but the amount of faith, effort and insight needed to tackle a project like this is probably enough to make anyone a profitable trader.
+
+I am so foolish.
+
+Had I in 2007 - 2014 bothered to build a model of the market and tried to derive the actual EV for the setups, that would have been a real effort.
+
+Proposing a system and then going into trading it such pitiful effort. Of course I am not going to be able to win so easily.
+
+Lance talks about EV, but EV can only be relative to a particular model. Without a model, there is no EV.
+
+Make the model. Then you will have your edge. You will have the EV that you seek.

@@ -9323,8 +9323,21 @@ I am so foolish.
 
 Had I in 2007 - 2014 bothered to build a model of the market and tried to derive the actual EV for the setups, that would have been a real effort.
 
-Proposing a system and then going into trading it such pitiful effort. Of course I am not going to be able to win so easily.
+Proposing a system and then going into trading it is such pitiful effort. Of course I am not going to be able to win so easily.
 
 Lance talks about EV, but EV can only be relative to a particular model. Without a model, there is no EV.
 
 Make the model. Then you will have your edge. You will have the EV that you seek.
+
+4:45pm. ![](images/image-749.png)
+![](images/image-750.png)
+
+Yes. It's not like returning from a long absence with a new system will automatically make me profitable in the market. Rather, what my programming skills allow me is to actually follow the path leading to profitability properly.
+
+Instead of just eyeballing charts, I have so many more choices now, don't I?
+
+Isn't going from 0 to 100k an achievement on its own? Why am I in such a hurry to get to a million?
+
+I am already doing my best aren't I?
+
+There is no point in pressuring myself to work harder.

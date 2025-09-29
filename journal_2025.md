@@ -9341,3 +9341,21 @@ Isn't going from 0 to 100k an achievement on its own? Why am I in such a hurry t
 I am already doing my best aren't I?
 
 There is no point in pressuring myself to work harder.
+
+4:55pm. ![](images/image-751.png)
+
+Yeah, it's exactly the same. It might be that I am pursuing the Singularity with the power of programming, but making all of this only for it to get me nowhere is exactly like my trading effort.
+
+In the end, the only significant wins it got me is in paid work.
+
+...
+
+If the solution to finding an edge is creating a model of the market, then wouldn't the solution to the problem of transcendence be to create a model of intelligence?
+
+Probabilistic programming is not the same thing as intelligence. It's more like a framework for building it.
+
+The issue of the inference algorithm for such a model aside, what would the model program be like? How would one even attempt to write it?
+
+I've never really said to myself that probabilistic programming is the axiom and then tried to reason from that point. There are plenty of good reasons for it, but if I suspended my disbelief, how would one attempt to predict the world? If personality is genetically determined, how would one program the personality of a being? Its instincts?
+
+5:10pm. Well, it's not like it got me only that. I've made a few connections thanks to it. And I got these skills. I could do a lot in the next decade with them. Let's just keep going forward.

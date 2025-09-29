@@ -9159,3 +9159,63 @@ Right now the question isn't whether I can do this or not. The question is wheth
 It's a question of faith.
 
 8:30am. Time to program. I am going to switch gears and do a time lapse.
+
+11:30am. Sigh....
+
+I feel so bad about Tao Ceti.
+I feel bad about my previous poker algo attempt.
+I feel bad about my 6 year long trading attempt.
+
+It's kind of hard to read my old code right now.
+
+I want to change.
+
+I want to be able to think about what I am doing rationally from now on.
+
+Easier said than done.
+
+11:35am. I think I understand just what is causing me so much emotional harm.
+
+All my life I've been making bets. I've been forced to make bets, but I could never get a feel for it. I could never build proper confidence as a result. I could never grasp true insight.
+
+This doesn't just go for the market, but life in general.
+
+More than money, more than anything else, I want the ability to think properly. Just how can I get good at it?
+
+11:35am. ![](images/image-738.png)
+
+Sigh, is this function correct. Why am I getting the policy probs and then not using them?
+
+11:40am. I could have quit myself. And this firing didn't necessarily have to hurt at all.
+
+The rational thing is to move on.
+
+The issue is the gap between my heart and my mind.
+
+11:45am. Let me do it just one more time.
+
+I'll take on the hardship of betting on my ideas just one more time. I want it.
+
+I want to do things that are sensible rather than wild bets towards transcendence. It's just so hard being mired in darkness.
+
+![](images/image-739.png)
+
+Why am I doing a pure eval run here?
+
+I know it's to get the proper path probs and the rewards using the average policy, but what does it mean that the trace state isn't updated?
+
+...Hmmm, does `calculate_updates` reset the trace?
+
+![](images/image-740.png)
+
+Ah there is a `reset_trace_state` hiding in here.
+
+Goddamit. This heavily imperative codebase is so hard to understand.
+
+12:20pm. Ok, I think I get it. Brilliant work, old me.
+
+I had trouble getting back into it, but the CFR updates are definitely good work. I'll be using parts of the code and the general architecture definitely.
+
+12:30pm. Let me have breakfast here. Let's just take it easy, step by step.
+
+My confidence will come back once I re-establish the bond with the old codebase.

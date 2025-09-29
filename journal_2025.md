@@ -9228,3 +9228,35 @@ The proof that I am a weak trader is that I cannot really distinguish the trade 
 How I built a $100,000 strategy that transformed my trading.
 
 Interesting vid.
+
+2:40pm. My heart is really not in it today, so I am just going to chill and study the old codebase. I am feeling depressed.
+
+Maybe the fact that I'll be starting work again in 2 weeks is acting to put the hamper on my momentum. It won't even be paid work initially, but I have to do it regardless to bring closure to the price prediction project. It might turn into something big depending on how the presentation at the converence goes next week. I am hoping to hear there will be some buyin from investors.
+
+Given that I'll get some responsibilities and have a chance to build connections, I am thinking about just doing the easy parts of implementing the tabular CFR in the native Cuda backend, and leaving the complicated GPU parts for later.
+
+2:45pm. I remember how it was during the first month at Tao Ceti. I was working Sunday and Saturdays and I liked it. The CEO though was ignoring me on Signal and dragging out the contract conclusion. That burned some trust. It might have been a power play done on purpose.
+
+After 3 weeks, I had treatened to stop unless I get paid by the end of the month.
+
+I had thought that I might be cheated and might have to close the company.
+
+But as I said, even though I was doing a lot of overtime to get up to speed, those early months were what was great. I was very motivated to work and enjoying the process.
+
+What wasn't great was all the founder incompetence around the payment provider accounts and then putting my bonus into Bitcoin without my consent. That killed my morale.
+
+The payment provider fiasco was when I started suspecting that the company was incompetent, and the Bitcoin episode was when I just started forcing myself for the paycheck. It really became a grind. I am depressed about it, but I can only give my thanks to my old bosses from cutting me off when the value of the company to me was lowest and when the value of my skills to the company were the greatest.
+
+2:50pm. I really need some friends I think. It just feels so bad to be cut off like that.
+
+...It was a big loss though. It was a high paying job and I thought I'd be able to continue working in crypto, but given how Logris was 'Ok, bye. Nice knowing you.' and the fact that the company basically validated the poor reputation crypto has, I don't think I'd ever want to work in it even given the chance.
+
+Crypto is a devil's bargain.
+
+In the end, I really was just a contractor.
+
+2:55pm. Sigh, the 100k just made it barely worth it.
+
+If I had 100k going into it, I'd have bailed after the Stripe nonsense, but I got attached to the company despite my dislike of it. I thought that I'd take a vacation and patch things up with the team, but that opportunity never came.
+
+3pm. Let me just stare at the project. Before the breakfast I managed to get some flow going and reactivated some of my old brain areas. Let's do that for a bit longer.

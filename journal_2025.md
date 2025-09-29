@@ -9219,3 +9219,7 @@ I had trouble getting back into it, but the CFR updates are definitely good work
 12:30pm. Let me have breakfast here. Let's just take it easy, step by step.
 
 My confidence will come back once I re-establish the bond with the old codebase.
+
+12:50pm. ![alt text](images/image-741.png)
+
+The proof that I am a weak trader is that I cannot really distinguish the trade quality.

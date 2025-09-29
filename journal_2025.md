@@ -9375,3 +9375,67 @@ Ah no wait. I should just flatten the tensor first before extracting the array.
 ![](images/image-755.png)
 
 Ah whatever. Since these functions are specifically described to be dangerous, I might as well leave them.
+
+5:35pm. ![](images/image-756.png)
+
+No let me improve them a bit.
+
+![](images/image-757.png)
+
+Good.
+
+5:45pm. ![](images/image-758.png)
+
+It's really embarassing to come back after a year and not even be able to remember what this functionality is for. I think it's for binary serialization from global tensors, but in that case what is the pickler for?
+
+...The pickler is for one hot encodings.
+
+Ah, I see. I remember now. The pickler is for inputs to a NN, while serializer is for moving data between the Python side host code and the Cuda kernels.
+
+![alt text](images/image-759.png)
+
+`seriazer_main` should be `serializer_main`.
+
+6pm. ![](images/image-760.png)
+
+For interop purposes? Really?
+
+![](images/image-761.png)
+
+Ah yes, it's true. I'd turn the model pointers into something that can be passed onto the Python side and then back into the model again when a new request comes in.
+
+6:05pm. I can't really remember though why I went for that construction instead of something simpler.
+
+6:10pm. I really did put a shitload of effort into the ML library.
+
+The past me did a really wonderful job of functional programming.
+
+It feels like I am not the same person as the one who made this.
+
+6:15pm. I'll stop here for the day.
+
+I think the main reason ultimately why I am down over the Tao Ceti job is that those are very hard to come by these days. Especially ones that have TOC of 250k.
+
+Hell, I could barely get offers for 60k before getting this. So it's inevitable that I'd come to regret losing it.
+
+Staying vs quiting became a lose-lose proposition.
+
+The job market has been tough since end of Covid, and I am not sure if a financial crash that's incoming will help much. It'd suck to have to wait until 2030s until I can get similar kinds of opportunities.
+
+So I am going to have to make them.
+
+I need to line up the petrol station price prediction job. I need to work on the poker agent.
+
+I need to overcome the loss and go forward. As I do, the opportunities will come to me.
+
+Let's look forward a year from now. If that job didn't manifest, a year from now the HD CFR agent with subgame solving will have long been done and ready, and I will be making income using it. I'll have finished it, made some poker botter connections and have given it a try. If that failed, yeah, that is another failure to add to the list, but it would give me freedom to start work on trading systems.
+
+At worst, I'll lose another year before moving onto the path of success.
+
+I am risking a year to create an opportunity that will make millions thereafter. It's a good trade.
+
+6:25pm. Ok, as for the petrol station job, it's fine to do pro bono work for a month.
+
+But I need to think about why I am doing this for and what my expectations are. When I meet with the PM, I'll say that I want 150,000 euro a year base salary and equity on top of that if the project gathers interest from investors.
+
+How about I do some research at how much software engineers are paid at Implico?

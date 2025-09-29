@@ -9439,3 +9439,43 @@ I am risking a year to create an opportunity that will make millions thereafter.
 But I need to think about why I am doing this for and what my expectations are. When I meet with the PM, I'll say that I want 150,000 euro a year base salary and equity on top of that if the project gathers interest from investors.
 
 How about I do some research at how much software engineers are paid at Implico?
+
+6:55pm. https://youtu.be/AyarPY6CEyU
+Find and Enter Early
+
+![](images/image-762.png)
+
+This is a quote from Toby Crabel's book.
+
+![](images/image-763.png)
+
+He entered MOS 2 mins within of the open.
+
+Yeah, I can only curse my own stupidity for not thinking of this. In fact, I did read Toby's book, but it never occured to me to put his advice to use. I was afraid of the PDT rule and wanted to find something better. As if the effort of placing trades would give me insight.
+
+![](images/image-764.png)
+
+I wonder how he managed to pick this one near the open? Probably because there was a contraction the previous day.
+
+![](images/image-765.png)
+
+Interesting comments on position trading.
+
+Yes, in the future, I definitely need to be organized and anticipate which stocks I will be buying once they breakout.
+
+https://youtu.be/Hkj4oGDPDQg
+What I learned from talking to losing traders
+
+7:15pm. ![](images/image-766.png)
+
+Here are Implico salaries.
+
+It's decent. 150k/year for a big project wouldn't be too much to ask for.
+
+https://youtu.be/Hkj4oGDPDQg?t=305
+
+Pradeep should have much more subscribers than he does.
+
+He is saying that losing traders should first try to make swing trading work if daytrading isn't working for them. A lot the losing traders he is talking to are daytraders. A common pattern is that they don't have a setup and they aren't even aware of it.
+
+He also talks about their body language and dress style.

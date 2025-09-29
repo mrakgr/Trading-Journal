@@ -9125,3 +9125,37 @@ Let me go back to reading Murim's Crazy Bitch and then I will do some coding.
 10:15am. It's not like I can actually see the results of following such a system, so these words should be taken more as a reflection of my sentiment.
 
 The mentality of a monk is probably ideal for a trader.
+
+9/29/20255
+
+7:55am. Sure money is better than big money. Yesterday I watched a vid by Qullamaggie from 2022 and I was struck when he said that he still isn't consistently profitable because he has 3-6 month periods where he isn't making any money.
+
+Even if I make a breakout trading kind of system, I need to systematize it. Then that will tell me if I am doing a good job of trading it or not.
+
+But even before that, why not forget the current way entirely and go the scalping route? There is still a lot of untapped potential and I shouldn't let my old way hinder me. I can do a lot with programming. I still haven't even touched upon the machine perspective.
+
+I can learn a lot more that I couldn't before.
+
+None of that matters. I should be working on poker. That is the sure money.
+
+That is the money where the EV can be inferred with certainty.
+
+8am. In two weeks though, I'll have to stop work on this and turn my attention towards petrol station price prediction. I'll touch up the money that I made, and integrate it with the relevant API. It might end up being pro-bono work initially. I'll see how Thomas' presentation with the investors goes.
+
+8:05am. It feels like that project was destined to be made.
+
+It might be my last paid work so I might as well dedicate myself to it.
+
+8:25am. https://www.youtube.com/shorts/mq-9boX5bjU?feature=share
+
+![](images/image-737.png)
+
+Something like this I could automate. Yeah, why swing trade when I could easily program a bot to do this. And then build on top of that.
+
+Later. I'll leave this for later.
+
+Right now the question isn't whether I can do this or not. The question is whether I could dedicate myself to the machine perspective fully.
+
+It's a question of faith.
+
+8:30am. Time to program. I am going to switch gears and do a time lapse.

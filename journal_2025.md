@@ -9359,3 +9359,19 @@ The issue of the inference algorithm for such a model aside, what would the mode
 I've never really said to myself that probabilistic programming is the axiom and then tried to reason from that point. There are plenty of good reasons for it, but if I suspended my disbelief, how would one attempt to predict the world? If personality is genetically determined, how would one program the personality of a being? Its instincts?
 
 5:10pm. Well, it's not like it got me only that. I've made a few connections thanks to it. And I got these skills. I could do a lot in the next decade with them. Let's just keep going forward.
+
+![](images/image-752.png)
+
+Why isn't it checking if it's contiguous?
+
+5:25pm. ![](images/image-753.png)
+
+I think this function is for the randomly inited and untrained models.
+
+5:30pm. ![](images/image-754.png)
+
+Ah no wait. I should just flatten the tensor first before extracting the array.
+
+![](images/image-755.png)
+
+Ah whatever. Since these functions are specifically described to be dangerous, I might as well leave them.

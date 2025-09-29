@@ -9223,3 +9223,8 @@ My confidence will come back once I re-establish the bond with the old codebase.
 12:50pm. ![alt text](images/image-741.png)
 
 The proof that I am a weak trader is that I cannot really distinguish the trade quality.
+
+12:55pm. https://youtu.be/1FQp0SislAo
+How I built a $100,000 strategy that transformed my trading.
+
+Interesting vid.

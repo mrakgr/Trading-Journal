@@ -9622,3 +9622,7 @@ I have so many conflicting desires. If I can make poker botting 80%, and just ke
 There is no need to attach my hope and ego to it.
 
 The poker agents on which I am working on is what I have true control over.
+
+7:40pm. Despite how I described it, I really like how Mike was 'burn the bridges'. Assuming you do actually have the starting capital, that's how a real man would do it.
+
+I really liked the book, I should read his other one too.

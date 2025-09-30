@@ -9479,3 +9479,29 @@ Pradeep should have much more subscribers than he does.
 He is saying that losing traders should first try to make swing trading work if daytrading isn't working for them. A lot the losing traders he is talking to are daytraders. A common pattern is that they don't have a setup and they aren't even aware of it.
 
 He also talks about their body language and dress style.
+
+9/30/2025
+
+10:05am. I've had some time to properly think about what my job requirements should be. If I am going to be doing pro bono work for 1-2 months in order to create the prototype, I am going to ask the 2.5 times the yearly salary. It's going to be a call option kind of arrangement between me and Marko2 (the manager who Thomas is doing work for.)
+
+Given my situation and the fact that I'll most likely be able to make a lot of money either poker botting or trading and want to do those things, and the fact that I want a vacation, getting paid in the 100-150k range after my stint at Tao Ceti isn't very motivating.
+
+It's not like I can't work for 150k, or 100k, or even 50k per year. But I am 2-3 times more skilled than the average software engineeer, so it makes sense that I get paid a premius rate if I can get it. And I should be able to get it here. This oil price prediction project is something I've been involved from the start, so while I wouldn't ever accept a month long take home assignment, he's been treating Thomas well and I am inclined to extend my trust to him.
+
+I am still yet to meet him.
+
+The offer will be that I'll do the prototype for free, and if the company is founded it will pay my premium salary and give me usual bonuses such as equity.
+
+Nice and simple. I don't have to worry about how low to go in order to get this job.
+
+I want to filter out this opportunity if it isn't good.
+
+Since Thomas showed concern for me and we're friendly, even if they're not willing to accept such terms, I can just charge the company a fixed lump for the prototype according to my hourly rate if it's funded and we can part on friendly terms and I'll shut down my company.
+
+10:20am. Getting paid 250k USD per year base wouldn't be that bad. There'd be no reason for me to refuse such an offer. I should be aiming up after Tao Ceti rather than down. If I got 125k instead, would I be motivated to work, or would it just turn into a grind really quickly?
+
+It not like I am even motivated by money. It just sits there in my brokerage account doing nothing.
+
+It's just, why else would I do work? I could just work on my own projects instead.
+
+10:25am. I want to clear things up. Either this will be a good opportunity and I'll take it, or won't be and I will not.

@@ -9544,3 +9544,40 @@ Right now I am trying to focus enumerative CFR and not having any traction. I gu
 4:05pm. I think based on a recent conversation, my parents will just force me to wear myself out regardless of circumstances. It's like the money I made on this recent job means nothing to them. I need to leave them out of consideration when I plan out my future moves.
 
 The most important thing this money buys me is a rest period to recharge. I should not waste it.
+
+4:25pm. The only thing on their mind is what will I do after they are gone, and the only answer to their earnest concern is to wageslave relentlessly.
+
+4:30pm. Sigh, getting that Tao Ceti job was such an accomplishment, and if I did it once I can do it again. Next time though, I'll find a company that isn't filled to the brim with mediocrities.
+
+Let's not commit to anything. I said, that I'd be willing to put in some pro bono work to get that prototype out of the ground, but I'll make the final decision once I meet with Thomas' companion. If he really believes in the project I'll do what needs to be done. In the worst case, I'll keep to my word to just do the prototype. It's not like I've obligated myself to work for the next 5 years.
+
+This job suits me just well. Medium risk and high reward. It's a bet that needs to be made.
+
+4:35pm. My heart is really damanged and when I am acting egoistic like this it's more like a sign of weakness than strength. But I just don't know how to leave it behind.
+
+Should I believe that the Tao Ceti job was once in a lifetime opportunity that I squandered?
+Should I believe that my personal projects are destined to end in failure?
+Should I believe that there is no time and that I need to spend every waking moment wageslaving in order to secure my future?
+
+Of course not.
+
+Living in abundance means thinking:
+
+I did it once and I can do it again.
+Just because I haven't done it doesn't mean that I can't.
+There is enough time to do what I truly want.
+
+I need to believe that I have the time, the skill and the money. That the failures aren't defeats, but temporary setbacks.
+
+I just need to put in the effort.
+
+4:45pm. Just what do my parents know? They think that I got lucky. And maybe I did back then given my rejection rate. But the job market cannot be bad forever. I can ride out the bad patches. It's worth it to take the time to get something good the next time around.
+
+The job market could be bad for a couple of years, but the lack of jobs for mediocrities will eventually drive them out to whenever they perceive the easy money to be.
+
+At any rate, that is irrelevant to my current circumstances. I can be a programmer, I can be a poker botter, I can be a trader. I won that possibility for myself.
+
+Let me take a nap and watch some anime. Play Limbus or something else. Recharge. Take it easy. I still haven't touched the games that are waiting for me.
+
+Let me just listen to the music first.
+

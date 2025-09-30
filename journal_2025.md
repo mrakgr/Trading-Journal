@@ -9533,3 +9533,11 @@ Ah, it's this.
 At any rate, I'd definitely be paying for this if I wasn't occupied with other things. I am convinced of the value of what SMB offers.
 
 But much like I ignored the offer from the workshop, so will I ignore this. I'll just let the ad vids run in the background in the future in order to get this discount.
+
+2:15pm. Let me chill.
+
+I've had no troubles falling asleep for the past few weeks, but my mornings have been heavy. Let me just chill and maybe I'll resume from where I left off in the morning.
+
+3:30pm. Updated the readme and implemented all the new features of Spiral I had planned for the day.
+
+Right now I am trying to focus enumerative CFR and not having any traction. I guess I'll just do my daily exercises since I forgot to do them and take a nap. I need to recharge my motivation.

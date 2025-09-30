@@ -9581,3 +9581,34 @@ Let me take a nap and watch some anime. Play Limbus or something else. Recharge.
 
 Let me just listen to the music first.
 
+6:45pm. Done with lunch. Taken a nap.
+
+I've realized that if my parents are going to pound me with insecurity, then I should probably reduce my investment into renovating the roof to something more reasonable, from 20k to 5k. My dad can foot most of the bill if they're going to act like that.
+
+I should keep my money closer.
+
+And if I really wanted to screw over my old company, I could take the tech I developed and offer it to its competitors. It never even occured to me. But the ICF system isn't very useful without the demand sources which I don't have and which the company expects to come out of thin air.
+
+Given the incompetence they displayed, I doubt it's going to go anywhere.
+
+6:50pm. No, what I need to do is burn my bridges.
+
+That project that is coming up is a burden. It's making it hard for me to focus on my programming because I have to keep it in mind in the future.
+
+It's a whole new job coming up when I want to work on my own projects and want to learn trading.
+
+Hell, if I managed to get poker botting to work, will I even care about trading afterwards?
+
+6:55pm. The best results are achieved by focusing on one thing rather than flirting from job to job.
+
+Forget about making 250k/year. Even if the guy promises me that and get free work out of me, how can I possibly trust a business person? I'd be retarded to do it.
+
+Just how motivated will I be abandoning an opportunity to make millions per year to make 250k per year?
+
+7pm. I said to Thomas I'd do it pro bono, but fuck it.
+
+I'll quote him 125 euro/h and if he doesn't like it, tough luck. A bird in the hand is worth 2 in the bush.
+
+I need to pursue my own interests first and foremost.
+
+I think pro bono work is wrong after all.

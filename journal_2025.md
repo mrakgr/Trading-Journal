@@ -8635,7 +8635,6 @@ You know, how about instead of reading the text in monotone from the screen, I d
 12am. Made the thumbnail. But you know what?
 
 Since I did experiment with ComfyUI during my stay at Tao Ceti, and I do have a RTX 5080 in my rig how about I install ComfyUI, and generate some intro and outro images?
-
 Ah, it has an installer. Ok. I guess I'll just follow that path. And then I do have the latent upscaling script that I created.
 
 ![](images/image-681.png)
@@ -9541,3 +9540,5 @@ I've had no troubles falling asleep for the past few weeks, but my mornings have
 3:30pm. Updated the readme and implemented all the new features of Spiral I had planned for the day.
 
 Right now I am trying to focus enumerative CFR and not having any traction. I guess I'll just do my daily exercises since I forgot to do them and take a nap. I need to recharge my motivation.
+
+4:05pm. I think based on a recent conversation, my parents will just force me to wear myself out regardless of circumstances. It's like the money I made on this recent job means nothing to them. I need to leave them out of consideration when I plan out my future moves.

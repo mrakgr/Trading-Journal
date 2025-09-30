@@ -9522,3 +9522,14 @@ I need to stop thinking of Tao Ceti as some unique thing and move on. Regardless
 
 Sigh, wouldn't it be nice if I could just shut out the world instead of having to work on my own psychology in this journal?
 
+2pm. Uah, I spent nearly an hour watching an ad by SMB.
+
+Agh, fuck, while I was writing this I missed the link to the cheat sheets. I think Mike spoke it out loud. I have it in the recording.
+
+https://www.smbtraining.com/bonussheets
+
+Ah, it's this.
+
+At any rate, I'd definitely be paying for this if I wasn't occupied with other things. I am convinced of the value of what SMB offers.
+
+But much like I ignored the offer from the workshop, so will I ignore this. I'll just let the ad vids run in the background in the future in order to get this discount.

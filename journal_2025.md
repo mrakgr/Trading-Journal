@@ -9505,3 +9505,15 @@ It not like I am even motivated by money. It just sits there in my brokerage acc
 It's just, why else would I do work? I could just work on my own projects instead.
 
 10:25am. I want to clear things up. Either this will be a good opportunity and I'll take it, or won't be and I will not.
+
+10:30am. It's important that I think about what exactly I want in my future. Nobody is going to come and give me 250k/year if all I am looking for is 150k or 125k.
+
+10:35am. With that out of the way, I also thought about reference types and how to handle them more to my liking. I am going to change the semantics of the `stack_refs` types so it holds references in its fields. I didn't want to do that at first, but I really need a way to catch references to other objects in the C++ backends and I don't like the idea of putting even more layout types into the language just to meet this need. I should also put in an unique dereferencing operator just to simplify things.
+
+I'll change the language later.
+
+Because this job is lining up, I need some time to clear my head, getting rid of the Tao Ceti baggage and move on.
+
+It's as I said, if a person has a harem of 10 beauties, he woulnd't miss losing one or two. But when he has only a single one, that would result in a lot of heartbreak.
+
+I need to stop thinking of Tao Ceti as some unique thing and move on. Regardless of how it went, it's a great addition to my resume and will improve my employability in the future should I require it.

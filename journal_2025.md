@@ -9612,3 +9612,13 @@ I'll quote him 125 euro/h and if he doesn't like it, tough luck. A bird in the h
 I need to pursue my own interests first and foremost.
 
 I think pro bono work is wrong after all.
+
+7:05pm. I'll do paid work like a true pro, and if they want to hire me afterwards then so be it. I'll consider it then. Every step should be done properly for this to be worth it to me.
+
+Just forget this exists and focus on poker botting.
+
+I have so many conflicting desires. If I can make poker botting 80%, and just keep an open mind to doing the rest, that would be for the best. Who knows how that business opportunity will go?
+
+There is no need to attach my hope and ego to it.
+
+The poker agents on which I am working on is what I have true control over.

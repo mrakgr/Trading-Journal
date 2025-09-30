@@ -9517,3 +9517,8 @@ Because this job is lining up, I need some time to clear my head, getting rid of
 It's as I said, if a person has a harem of 10 beauties, he woulnd't miss losing one or two. But when he has only a single one, that would result in a lot of heartbreak.
 
 I need to stop thinking of Tao Ceti as some unique thing and move on. Regardless of how it went, it's a great addition to my resume and will improve my employability in the future should I require it.
+
+11:30am. Let me do some programming work.
+
+Sigh, wouldn't it be nice if I could just shut out the world instead of having to work on my own psychology in this journal?
+

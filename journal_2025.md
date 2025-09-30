@@ -9542,3 +9542,5 @@ I've had no troubles falling asleep for the past few weeks, but my mornings have
 Right now I am trying to focus enumerative CFR and not having any traction. I guess I'll just do my daily exercises since I forgot to do them and take a nap. I need to recharge my motivation.
 
 4:05pm. I think based on a recent conversation, my parents will just force me to wear myself out regardless of circumstances. It's like the money I made on this recent job means nothing to them. I need to leave them out of consideration when I plan out my future moves.
+
+The most important thing this money buys me is a rest period to recharge. I should not waste it.

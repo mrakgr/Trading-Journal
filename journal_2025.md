@@ -9626,3 +9626,58 @@ The poker agents on which I am working on is what I have true control over.
 7:40pm. Despite how I described it, I really like how Mike was 'burn the bridges'. Assuming you do actually have the starting capital, that's how a real man would do it.
 
 I really liked the book, I should read his other one too.
+
+10/1/2025
+
+10am. I spent a lot of time in bed thinking. I am still not over my firing.
+
+It's like this. I have great regret and it feels my heart has been crushed, but at the same time I wouldn't go back even if they offered me 50% over my previous compensation.
+
+I think I now understand better why that is, and what really drives me.
+
+I really cared about the money initially, but after a couple of months I began to care more about the business and about winning.
+
+Imagine I was a player at the soccer match. I am being payed 5m, so there is nothing to complain about there. But for some fucking reason my teammates are making own goal after own goal and generally fucking up. And then I get mad and call them out and become rude. And then they kick me out of the team.
+
+That's what this all was.
+
+I respected Logris a lot and sure he was smart, but his mindset in the end was closer to the founders and Curtis' than my own. He didn't like the own goals, but he felt no need to shake the boat or follow me out in sympathy. He sided with the team.
+
+I remember well how in a talk he told me that the founders got tired of answering tough question about their failures from investors and then simply started ignoring them.
+
+And during the Stripe payment provider fiasco, he told me how he was doing good work and had a lot to show for it, so it was not his reputation that was taking a hit. 
+
+I don't know. It felt wrong to me to think like that. If somebody wrecks the house you're in, is it fine as long as you're not the maniac doing it?
+
+10:05am. I cared about the money. I got some lowball offers in the past that made me berserk. I do care about it.
+
+But if I really cared about it that much, I wouldn't have challenged Tony openly in the Signal group. I wouldn't have been talking shit in the Discord group, setting up bombs for myself. I wouldn't have written things that could potentially get me fired. Curtis was a much better role model in that regard.
+
+But no. I don't want to live like that.
+
+I want to live the way I want. Money is a necessary lubricant, but I wasn't in that job to collect a paycheck. I wanted to go all the way through.
+
+I wish that I could have worked Saturdays and Sundays all the way through, like in that first month. That would have been the ideal job for me.
+
+I remember how filled with expectation was for the Venice deal with Morpheus. During the early day I spent a lot of my time setting up the models and doing integration with Morpheus in anticipation of all the revenue the company would get. When it fell through, I didn't at all hold it against the company and was prepared to pivot to OpenRouter only get screwed over by Austin's incompetence. Instead of wasting months of our time waiting for the Stripe approval which didn't come, he could have set up a shell company in the US just to hold the earnings from the model serving.
+
+Instead he just twiddled his thumbs and even up to my firing the company still had no way of making revenue due to its inability to charge customers.
+
+Why would I stay at such a company?
+
+The only reason would have been if I was so pathetic to think that I could never get anything better. That I had to tough it out as some slave.
+
+I didn't expect much from the founders, it's fine if their job was to spout bullshit to investors. But their incompetence ran far deeper than that.
+
+10:20am. And I...feel like I've been crapped on. All of this could have easily been avoided with some care and effort from everyone involved.
+
+I must avoid being placed on teams filled with mediocrities in the future. This is what that leads to. Heartbreak.
+
+I'll never get to fix this. I'll never get to make it right. All I have is 100k more and some new skills.
+
+I can count my lucky stars that the upcoming petrol station price prediction job ended up being the residual of it. That is an actually good opportunity where I will have proper control over the techical direction. And it has potential to grow bigger and into a quant trading job eventually.
+
+I myself got screwed over, but at least I managed to make it right for Thomas so far.
+
+10:25am. I'll take a break today. I just don't feel like doing any work until my heart has settled.
+

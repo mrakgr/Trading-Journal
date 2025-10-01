@@ -9637,7 +9637,7 @@ I think I now understand better why that is, and what really drives me.
 
 I really cared about the money initially, but after a couple of months I began to care more about the business and about winning.
 
-Imagine I was a player at the soccer match. I am being payed 5m, so there is nothing to complain about there. But for some fucking reason my teammates are making own goal after own goal and generally fucking up. And then I get mad and call them out and become rude. And then they kick me out of the team.
+Imagine I was a player at the soccer match. I am being payed 5m, so there is nothing to complain about there. But for some fucking reason my teammates are making own goal after own goal and generally fucking up. The fans have pretty much left the stadium in disgust. And then I get mad and call them out and become rude. And then they kick me out of the team.
 
 That's what this all was.
 
@@ -9675,9 +9675,10 @@ I must avoid being placed on teams filled with mediocrities in the future. This 
 
 I'll never get to fix this. I'll never get to make it right. All I have is 100k more and some new skills.
 
-I can count my lucky stars that the upcoming petrol station price prediction job ended up being the residual of it. That is an actually good opportunity where I will have proper control over the techical direction. And it has potential to grow bigger and into a quant trading job eventually.
+I can count my lucky stars that the upcoming petrol station price prediction job ended up being the residual of it. That is an actually good opportunity where I will have proper control over the technical direction. And it has potential to grow bigger and into a quant trading job eventually.
 
 I myself got screwed over, but at least I managed to make it right for Thomas so far.
 
 10:25am. I'll take a break today. I just don't feel like doing any work until my heart has settled.
 
+11:15am. Let me finish catching up to Frieren and I might do some programming today. I can just pass the rng and the dicts into the training loop. I can do random action selection. Just a little bit to break the ice.

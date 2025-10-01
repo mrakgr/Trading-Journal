@@ -9690,3 +9690,31 @@ I myself got screwed over, but at least I managed to make it right for Thomas so
 Surprised to see a job ad by an quant firm in the middle of it.
 
 https://youtu.be/KxIeJjEGLdo?t=4070
+
+5:40pm. Yeah, I think it's finally time I take that vacation that I should have last month when I got fired. I just couldn't sit still after my firing, but now I need to chill for a week or two.
+
+I meant to program today, but I have my issues, and moreover I don't want to go to bed every single day dreading that I have to work tomorrow.
+
+It worked out in the end. I made huge gains in understanding of swing trading last month and that will eventually come to fruition and make me big money. Just not right now.
+
+I've gotten started on the HD CFR project, but I can leave that for later.
+
+Remember the vacation Logris gave me at the end of last year and how much fun I had playing Dark Souls 2.
+
+I need some of that.
+
+I need to not feel boxed. I need to give myself leeway to enjoy life. Not every day should be a programming grind.
+
+Especially given that a new job will be upcoming in 2 weeks.
+
+Just rest dude, play games, watch anime, read those gb novels you like.
+
+Take a break and then get into it later. Sleep well. That is what is most important.
+
+Take a week off and then take off two if that is needed to recharge.
+
+Those 100k prove that you've earned it.
+
+You have the abundance and the flexibility not to grind yourself away.
+
+The pursuit of the Singularity should be done of a free heart.

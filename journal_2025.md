@@ -3760,7 +3760,7 @@ Putting the quality of your work above the job itself is how a true programmer s
 
 Sure, it was my two teammates who put me on tilt which culminated in my firing, but to say that I failed to control my emotions doesn't go to the meat of the matter. I simply made a mistaken assumption from the start that I stubbornly refused to correct in the face of all evidence.
 
-From the very first PR in the early months at the company where C(urtis) rewrote part of my F# codebase in shitty Python, ignoring my advice to use types as well as other requirements I explicitly told him he should do, and I ripped his work in the review, and he started withdrawing as a result, I thought that with criticism and guidance, he could grow into a software dev that I could work with. When he started withdrawing, both me and L(ogris) treated him with velvet gloves and excused his unfriendly behavior. I was doing all my work very publically in the `team-dev` channel on Discord, making 100s of posts a day, literal walls of text like in this journal, while he had always set his status on invisible and there were many days where didn't bother to even login to say hi. This culminate in us doing the ICF project independently in two separate repos. I had my own work done publically in a repo owned by Ceti, but C was doing his work in his own private repos that me and L weren't even aware existed.
+From the very first PR in the early months at the company where Curtis rewrote part of my F# codebase in shitty Python, ignoring my advice to use types as well as other requirements I explicitly told him he should do, and I ripped his work in the review, and he started withdrawing as a result, I thought that with criticism and guidance, he could grow into a software dev that I could work with. When he started withdrawing, both me and Logris treated him with velvet gloves and excused his unfriendly behavior. I was doing all my work very publically in the `team-dev` channel on Discord, making 100s of posts a day, literal walls of text like in this journal, while he had always set his status on invisible and there were many days where didn't bother to even login to say hi. This culminate in us doing the ICF project independently in two separate repos. I had my own work done publically in a repo owned by Ceti, but C was doing his work in his own private repos that me and L weren't even aware existed.
 
 When this came out, we made a deal that he would learn some F#, and the very next week (the one where I got fired), he snubbed me and broke his deal.
 
@@ -4477,19 +4477,19 @@ You should NOT work at a startup
 > I just spent two weeks, this was really hard, I am really proud of the solution, to which you manager says: "Oh. That's cool. Can you get that ticket closed? It's been there for two weeks."
 > It's the worst feeling ever. It will take great people and churn them so fast it's unbelievable. Agh.
 
-Sigh. Ok, change of plans. I don't owe L(ogris) anything. I said I did in our last communication, but fuck it. I wasn't at all wrong to consider quiting myself on Friday, it's a good thing I got fired instead. 
+Sigh. Ok, change of plans. I don't owe Logris anything. I said I did in our last communication, but fuck it. I wasn't at all wrong to consider quiting myself on Friday, it's a good thing I got fired instead. 
 
-Friday, 10 days ago was simply the worst. I couldn't sleep the entire night, and after morning came, I spent 6 hours in bed feeling enraged at both C(urtis) and L(ogris) trying to calm my fury. I finally managed to fall asleep and take a nap for a few hours and refreshed my mind, only to log into my computer and find out I was fired, completely locked out of the company channels. Then I spent the next few days in shock.
+Friday, 10 days ago was simply the worst. I couldn't sleep the entire night, and after morning came, I spent 6 hours in bed feeling enraged at both Curtis and Logris trying to calm my fury. I finally managed to fall asleep and take a nap for a few hours and refreshed my mind, only to log into my computer and find out I was fired, completely locked out of the company channels. Then I spent the next few days in shock.
 
-This is going to be a grudge that is going to last for years at the entire T(ao) C(eti) company and everyone involved.
+This is going to be a grudge that is going to last for years at the entire Tao Ceti company and everyone involved.
 
 The rational thing would be to sweep it under the rug and move on, and that is what I am trying to do, but it's going to take time for the wound to heal. I am going to win a true victory in the stock market and wipe that sour feeling that way.
 
-8:40pm. L(ogris) is very smart, so I can't tell whether he is bad at programming or not. Maybe his praise of C(urtis)' work might have not been mere smoothing over and flattery? I'll never get an answer to that, and I haven't seen him do dev work even once. I have no idea whether he counts as an engineering manager, but I get the sense that the people he worked with in the past had amazingly low skills. 
+8:40pm. Logris is very smart, so I can't tell whether he is bad at programming or not. Maybe his praise of Curtis' work might have not been mere smoothing over and flattery? I'll never get an answer to that, and I haven't seen him do dev work even once. I have no idea whether he counts as an engineering manager, but I get the sense that the people he worked with in the past had amazingly low skills. 
 
 ...I don't think anybody at the company recognized how good I really was.
 
-Hmmm...well nevermind that. I should try not to think about it. The emotion overpowers all of my rationality when it comes to this subject. But, if I am going to owe L(ogris) a debt of gratitude then I should really feel it rather than try to force it out from the depths of my heart.
+Hmmm...well nevermind that. I should try not to think about it. The emotion overpowers all of my rationality when it comes to this subject. But, if I am going to owe Logris a debt of gratitude then I should really feel it rather than try to force it out from the depths of my heart.
 
 8:45pm. Going into that job I was really desperate for validation from the job market, and that gave me a much needed boost. I had started thinking that it would be impossible for me to ever get a job, and getting into the company gave me the feeling that I had some value.
 
@@ -4554,9 +4554,9 @@ There are all kinds of opportunities in the market everywhere you look. Bayesian
 
 Let me go back to the psychology lessons with Lance.
 
-10am. I am struck of how he says that GOAT athletes call out their teammates for underperforming. Reminds me of me and C(urtis). When he broke our deal, that really pissed me off. And he had the temerity to snub me by saying his trash work could replace mine. L(ogris) didn't back me, and in fact started arguing with me, and the rest was history.
+10am. I am struck of how he says that GOAT athletes call out their teammates for underperforming. Reminds me of me and Curtis. When he broke our deal, that really pissed me off. And he had the temerity to snub me by saying his trash work could replace mine. Logris didn't back me, and in fact started arguing with me, and the rest was history.
 
-Those two are mediocrities. I did my best to repay L(ogris) by letting him not be involved in technical matters too much. He made his own mistake by sticking his nose into it.
+Those two are mediocrities. I did my best to repay Logris by letting him not be involved in technical matters too much. He made his own mistake by sticking his nose into it.
 
 10:30am. Ok, I think I got something. The course I am watching is incomplete and I'll have to get the real one from Lance directly at some point. In the first video he introduces Jonathan Katz and then spends doing interviews with Tom Crawford. The previous module only had a single video too.
 
@@ -9682,3 +9682,11 @@ I myself got screwed over, but at least I managed to make it right for Thomas so
 10:25am. I'll take a break today. I just don't feel like doing any work until my heart has settled.
 
 11:15am. Let me finish catching up to Frieren and I might do some programming today. I can just pass the rng and the dicts into the training loop. I can do random action selection. Just a little bit to break the ice.
+
+1:10pm. No trading done so far. I am instead watching a historical talk by Sarah Paine.
+
+![](images/image-767.png)
+
+Surprised to see a job ad by an quant firm in the middle of it.
+
+https://youtu.be/KxIeJjEGLdo?t=4070

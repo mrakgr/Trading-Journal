@@ -9683,7 +9683,7 @@ I myself got screwed over, but at least I managed to make it right for Thomas so
 
 11:15am. Let me finish catching up to Frieren and I might do some programming today. I can just pass the rng and the dicts into the training loop. I can do random action selection. Just a little bit to break the ice.
 
-1:10pm. No trading done so far. I am instead watching a historical talk by Sarah Paine.
+1:10pm. No programming done so far. I am instead watching a historical talk by Sarah Paine.
 
 ![](images/image-767.png)
 

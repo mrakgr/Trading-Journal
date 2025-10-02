@@ -9718,3 +9718,49 @@ Those 100k prove that you've earned it.
 You have the abundance and the flexibility not to grind yourself away.
 
 The pursuit of the Singularity should be done of a free heart.
+
+10/2/2025
+
+9:10am. Let me chill today. Regardless of various grievances over my betrayed expectations, it's not the fault of the company my reaction is so bad.
+
+If it wasn't for the upcoming venture, what I'd do is probably want to trade.
+
+Really, if I had nothing else going for me my heart is telling me to sideline poker for a bit and just trade. I thought about it and while there is a long path to pro expertise, there is no reason why I wouldn't want to trade 500-1000$ positions, only a single stock at a given time and build my expertise that way.
+
+I've learned about momentum bursts now, and I don't need backtesting or a trading assistant for this. I just have to be organized and enter during the first 10-15 minutes of the day and look for gaps premarket on the stocks on my watch list as well as in general. I could enter, put a hard stop and exit the platform and then just let it roll, only a single position active at a given time.
+
+My stomach shouldn't be churing at the thought of this, and it's not the fault of the company I am feeling this way.
+
+It's my greed that is out of control.
+
+9:20am. But since the job is coming closer, it's not a bad thing to slow down, leave trading aside and prep mentally.
+
+It's absolutely worth sacrificing trading opportunities for this. Trading won't be giving me a guaranteed 10% per month at this juncture, so I can just leave it aside.
+
+If it wasn't for the job, I'd swing trade lightly during market hours simply as an exercise to get my greed in check and gain experience and put most of my effort into the HD CFR project.
+
+But now I should just focus on paid work and do some of the easier parts of the HD CFR project.
+
+That is the way to go here.
+
+I'll want to avoid the emotional volatility associated with trading until I can build some proper expertise and make sure it won't interfere with the rest of my life.
+
+9:25am. So yeah. These jobs are bonuses that I should gladly take.
+
+I wanted to do much more for the Tao Ceti company, but it betrayed my trust by putting my crypto equity into Bitcoin and acting incompetently all the way through. But it was a good trade and there were good times while it lasted. Like the job with Aman, it will have a special place in my heart as my first full time work.
+
+For this upcoming job I also plan to do my best and I will make it a success. I'll put in as much effort as I did into the Tao Ceti job originally.
+
+I hope the parties I'll be working with will be worthy of my trust, and I will give them the benefit of the doubt until proven otherwise just like with Tao Ceti.
+
+If they can keep proving themselves to be competent, I'll continue giving them my all.
+
+That is my way of life.
+
+This might be my last job before the poker bot project is brought to completion and before my trading skills have bloomed, so I should enjoy it just like I did the Tao Ceti job originally.
+
+I shouldn't fear the market, and I shouldn't fear betting 500-1000$ on momentum burst opportunities. I don't want to position trade anymore after the euro defense stock failure, but it's not like I don't know how to read charts. I should have the will to give the system a try.
+
+It's just that I'd want to avoid doing that now in order to rest. The market will be there in the future.
+
+9:35am. Let me read that succubuss gb novel on FuckNovelpia.

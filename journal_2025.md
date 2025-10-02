@@ -9839,3 +9839,57 @@ In order to be able to do that, and so that I am in a better negotiating positio
 Maybe Curtis didn't take me seriously due to how desparate I might have seem to get into the company initially? Maybe that translated to me being a junior dev in his mind and he wasn't interested in learning from me? Though either way it was his own fault for not thinking through my advice.
 
 Ah, whatever. Let me go back to chilling.
+
+4:50pm. https://www.mangaread.org/manga/mookhyang-dark-lady-manhwa/chapter-264/
+
+Mookhyang Dark Lady might be the best GB series. I really like the dragons.
+
+Yeah, this is the life. I'll catch up with this, the latest Limbus canto, and play some games. I might do some minor programming tomorrow if I feel like it, but otherwise forget it.
+
+Maybe I'll just experiment with the data structures.
+
+It's very weird.
+
+Much like I really wanted to quit, but didn't want to get fired, I really do want to program, but what...?
+
+I don't want the stress of it.
+
+I feel like I've been doing it for too long without a break.
+
+Remember in 2023 how great it was to get back to it after studying art?
+
+I need build up the urge for a while.
+
+Sometimes, the stress of it can actually be fun, but too much of it can cause indigestion.
+
+Yes, programming is like exercise.
+
+It's like really loving soccer. Imagine you loved soccer. Well, you cannot run across the field the entire day. Your body will wear out.
+
+4:55pm. Yeah, you know what. My situation is actually pretty severe right now.
+
+Rather than being worried about the HD CFR project, I should be worried about whether I'll be in proper shape for the next job.
+
+As a professional, I need to be in the proper mental condition for the task at hand.
+
+I need to rest and relax. That should be my primary priority.
+
+It's not like before where if I pushed myself too hard on my own projects I could take a break whenever I wanted.
+
+Ironically, I slept well ever since my firing, but it has been getting worse again in the past 2 days.
+
+As the next job comes nearer, it's raising my tension. It's a mental burden that I need to carry and deal with properly. So yeah, let me just continue having fun. Catching up is something I've missed greatly.
+
+Once I am able to balance work and play properly without obsessing about work, then I should do work.
+
+5pm. Thankfully so far with the HD CFR project I worked on very choice areas like the compiler so it won't be too much of a loss if I drop it again for a while.
+
+My intuition seems to be guiding me well. It feels like that instinct that is leading me is good at taking my mental state into account.
+
+Aborting trading immedially was the right choice. And even studying trading gave me some much needed gains. Then after that I worked on exactly the right things, that I'll be able to pick up later if I need to take another break on.
+
+Plus even though I got fired, it was only a few days after I got paid. So it could be said that the position was closed out near the top.
+
+5:15pm. I'll make large gains on the next job in terms of skill. Of course, if it doesn't happen the preparation will just flow naturally into the HD CFR project. So I'll be set either way.
+
+Let me rest for 11 days and I'll be off to the game after that.

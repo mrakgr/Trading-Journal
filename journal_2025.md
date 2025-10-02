@@ -9768,3 +9768,74 @@ It's just that I'd want to avoid doing that now in order to rest. The market wil
 11:20am. I really should play games a little, at least for a few hours a day to properly unwind. When I am reading novels or manga, I am always thinking about work.
 
 I should try System Shock and resume Ghostrunner. I keep saying that I would, but never get around to that.
+
+12:20pm. https://youtu.be/Znk5QINe01A
+Sarah Paine — Why Japan lost WWII (lecture & interview)
+
+I am really enjoying this lecture. I also liked the previous one on the Ruso-Japanese war.
+
+When I hear her talk about the Japanese, I keep drawing a comparison between them and myself.
+
+If I am to be blamed for anything on the Tao Ceti job it would be entering a trade and not knowing where the stop is.
+
+In hindsight it's the founders plowing the treasury into Bitcoin, but I lingered on. And I got stopped out of the job against my will, essentially getting liquidated via a margin call, and I am very lucky that this happened when it did. I got out at the ideal time, just to give me some RR for the upcoming job.
+
+I think the Tao Ceti job is huge luck coming my way through and through.
+
+Wow, I just didn't expect the things they would do. Originally, me and Logris were afraid of them simply stealing the money and bailing. I never imagine the Stripe fiasco would ever be a thing or that they would bet the farm on Bitcoin. Because who in the right mind would be their entire company on crypto? They don't give a shit about it or the investor money. Why would I stay at a company like that?
+
+I am amazed at one of the meetings subsequent to that event Logris told me that we're the only hope of making the investors whole.
+
+And to be honest, hearing him say that lowered my evaluation of him. Like is worrying about making the investors whole really what we should be doing? My 25% stake really is worth 0, and so is the rest of investor money with those kinds of founders.
+
+Even if we succeeded, do we really want to make the founders rich as a result? I sure as hell didn't.
+
+He has 15 times my net worth and is an investor making 40% per year, so why is he protective of those lowlives? I'll never understand that.
+
+There are absolutely isn't anything to be done to save that company. It's going to be cleaned up by the market eventually, investors including myself would learn a costly lesson about who to trust with their time and money, and my morale was dead low and was in grieving mode at that point due to the realization that the founders were stupid, crazy gamblers.
+
+I tried to resolve to just ignore the company's future and focus on the paycheck when the conflict with Curtis made my dissatisfaction explode and that was that.
+
+12:30pm. The trading analogy is that everyone has a plan. If you don't put a stop in a trade, it's in there somewhere and your heart will tell you when to stop.
+
+I wonder, as mad as I am at Curtis, what else did he have to do but work on his own version of the ICF system? I had to take my own approach and he had to take his as mediocre as it was.
+
+Even if he had been more open and wasn't such a brat, I am not sure I would have had time to guide him as I was trying to figure out the general design of the system myself and needed time to think, while Curtis just used the whitepaper design Logris hastily made and without any thinking whether it made sense, started implementing them as separate services.
+
+Logris knew that I was doing my own thing because I was extremely open at what I was doing so I thought I had green light to go ahead with everything, but Curtis might have had a point when he asked me whether I was sure whether we'd go with my own version of the client. It infuriated me that he would insinuate that, but given the kinds of changes Logris stated requesting after he started becoming more active during the last week, it does seem like he hasn't been paying attention to what I was doing. He most likely just skimmed the walls of text without bothering to think about them.
+
+Up to that point, I made too easy for Logris to not have to manage me and he ignored the team conflict until it was too late. On my side, I wasn't aware of what Curtis was doing because he barely interacted in the `team-dev` channel. I thought Logris was taking care of it, and was clearing the road for me, but he didn't do shit.
+
+12:35pm. The SMB Capital culture of consistently training to get better is very appealing to me after experiencing the mediocrity of Tao Ceti. It doesn't have to be SMB, but I want to be on a team of high performers in the future, rather than with guys who tune out whenever they hear something they don't like and start ignoring you.
+
+That is the dream.
+
+Money is important, but I think in the end if the company is bad you just have to move on. It will water down your expertise.
+
+I was very lucky.
+
+I had full freedom at Tao Ceti up to that point, and I wasn't subjected to working on any insane ideas up to that point. That was a part of my luck.
+
+I picked up a lot of useful skills too.
+
+They will be useful in the future.
+
+12:50pm. Let me go back to watching the talk and they I'll do the exercises. I skipped them yesterday.
+
+The Tao Ceti episode is going to be a trauma for me until I managed to surmount it. I think after I get paid on the next job I'll put it behind me. Because why would I give a shit about a shitty job, if I have a good one at that time? I'd be retarded to think about my ex while I was in bed with another girl.
+
+1pm. Yeah, my mother doesn't get it.
+
+It's not like her job as a lowly bank teller. My decisions at the company would have decided whether it succeeded or failed. It's not a job shoveling shit that's so easily replaceable.
+
+I am going to tell here that.
+
+I wasn't the owner, but for a brief moment I did my duty and treaded the company as if it were my own. And that is how I am going to do it in the future regardless of the heartbreak it will bring me. Next time though, I'll move earlier to minimize the loss of time.
+
+I am going to bail straight away the future bosses do something equivalent to the founders betting the farm on Bitcoin.
+
+In order to be able to do that, and so that I am in a better negotiating position in the future, I better just stick to the money that I have.
+
+Maybe Curtis didn't take me seriously due to how desparate I might have seem to get into the company initially? Maybe that translated to me being a junior dev in his mind and he wasn't interested in learning from me? Though either way it was his own fault for not thinking through my advice.
+
+Ah, whatever. Let me go back to chilling.

@@ -9764,3 +9764,7 @@ I shouldn't fear the market, and I shouldn't fear betting 500-1000$ on momentum 
 It's just that I'd want to avoid doing that now in order to rest. The market will be there in the future.
 
 9:35am. Let me read that succubuss gb novel on FuckNovelpia.
+
+11:20am. I really should play games a little, at least for a few hours a day to properly unwind. When I am reading novels or manga, I am always thinking about work.
+
+I should try System Shock and resume Ghostrunner. I keep saying that I would, but never get around to that.

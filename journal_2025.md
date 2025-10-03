@@ -9983,3 +9983,11 @@ If that is the case, I'll just enjoy the journey. Why not try going from win to 
 12:45pm. My ultimate goal might be the pursuit of the Singularity, but the era of making wild bets and seeing where they land is over for me. I need break from losing.
 
 If a completely new path gets opened due to advances in neuroscience for example, I might go back to my old approach, but right now I feel fatigue creeping in just thinking about it.
+
+1:15pm. Yeah, this firing fatigue hit something deep inside of me. Even if it's for the sake of the Singularity, I never want to do random moves again in hopes that they hit. I never want to be involved in failed ventures again.
+
+I think compared to how I was before, I now have the experience to make better judgements what ventures will succeed and won't. My past moves might have been irrational with the benefit of hindsight and experience, but I believed in them at the time.
+
+So it's fine. I should forgive myself.
+
+The same mistakes won't get made again and I will change. I will focus on making gains, and hope that along the way I'll be able to reach the post-Singularity era.

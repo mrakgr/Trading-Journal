@@ -10007,3 +10007,22 @@ Realizing the truth of the self improvement loop made me too desperate to enter 
 I don't want to keep repeating that cycle over and over again. I will change my policy to exploitation rather than exploration.
 
 Yes, these skills didn't come from nowhere, but I should challenge myself to become successful. And finally earn my peaceful nights and mornings.
+
+8:05pm. Phew, managed to beat the Limbus x Arknights colab. The final boss was quite difficult and I wouldn't have been able to beat it without Rodya's Rime Shank ego.
+
+But I like being in a bad position and having to figure a way out.
+
+8:15pm. https://youtu.be/3oqxklw9zuU?t=241
+Wallstreet Trader reveals: How Hedgefunds ACUTALLY trade!
+
+> Tom: So our listeners over there are really eager to understand, does this institutional edge that you've been able to get to know still give you an advantage in today's markets?
+> Sergey: Absolutely. Definitely.
+> Because you don't just see some crucial information from the visual chart itself, but in a certain significant way you also see this dynamic interplay and movement within the order books which can also provide you with certain distinct advantage.
+> For example if somebody is buying very heavily or selling aggressively.
+> That is something you cannot see on a chart. Even if for example...
+
+It seems that World Class Edge is getting serious.
+
+> You have a sideways phase and in a sideways phase we all know something is being accumulated. 
+
+Ok, I won't transcribe the entire interview. You can watch it yourselves.

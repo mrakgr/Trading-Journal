@@ -9991,3 +9991,5 @@ I think compared to how I was before, I now have the experience to make better j
 So it's fine. I should forgive myself.
 
 The same mistakes won't get made again and I will change. I will focus on making gains, and hope that along the way I'll be able to reach the post-Singularity era.
+
+1:20pm. I will hone this determination into a blade and grasp its hilt once more.

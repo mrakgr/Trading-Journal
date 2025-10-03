@@ -9993,3 +9993,17 @@ So it's fine. I should forgive myself.
 The same mistakes won't get made again and I will change. I will focus on making gains, and hope that along the way I'll be able to reach the post-Singularity era.
 
 1:20pm. I will hone this determination into a blade and grasp its hilt once more.
+
+1:30pm. It might seem lame, but even in the 2007 - 2014, I never really tried to win at trading. I discovered some good strategies based on momentum, but tossed them aside as they weren't good enough. I think that is the main reason why I gave the OBR breakouts a pass. The main reason for that is because I was always placing restrictions upon myself.
+
+I keep thinking to the story of Qullamaggie's turning point. It was a parabolic short trade on FNM.
+
+His own path has sharp contrast to my own. I also tried Tim Sykes method of shorting parabolic rises, but could never find borrows for the good trades on IBKR so I gave up on that method.
+
+Qullamaggie simply wanted it so much more than I did, and put in the necessary work. What I wanted simply didn't exist and I misallocated my attention and effort. It feels like I repeated that mistake in programming.
+
+Realizing the truth of the self improvement loop made me too desperate to enter it.
+
+I don't want to keep repeating that cycle over and over again. I will change my policy to exploitation rather than exploration.
+
+Yes, these skills didn't come from nowhere, but I should challenge myself to become successful. And finally earn my peaceful nights and mornings.

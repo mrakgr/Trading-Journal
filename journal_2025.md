@@ -9893,3 +9893,89 @@ Plus even though I got fired, it was only a few days after I got paid. So it cou
 5:15pm. I'll make large gains on the next job in terms of skill. Of course, if it doesn't happen the preparation will just flow naturally into the HD CFR project. So I'll be set either way.
 
 Let me rest for 11 days and I'll be off to the game after that.
+
+6pm. I played Ghostrunner last 9 months ago.
+
+10/3/202
+
+8:55am. The trend of good night and tough mornings continues.
+
+I think I am starting to understand something.
+
+Looking back at my life, seeking power directly or seeking understanding never worked even once for me. The pursuit of those things ended up crystalizing into ideals, but the direct gains from cultivating such paths were rare indeed.
+
+Instead what is my greatest accomplishment? The Spiral Language, easily.
+
+I didn't approach the Spiral language because I wanted more understanding. Instead I created it because I wanted to express myself better.
+
+It's really the pursuit of beauty in my work that drove it.
+
+Always I pursuit understanding and what I find is beauty and never understanding.
+
+The same goes for AI. I sought the secrets of intelligence, but what I found was rationality. And the purest expression of that is probabilistic programming.
+
+And what is the CFR algorithm when implemented, but a probabilistic programming language that only deals with discrete distributions?
+
+Once upon a time, I wanted to become a trader and understand the market, but I got crushed by its randomness instead. And what do I find now. Simple short term trend following systems that work well on complex setups. I never had to bother seeking to understand the market from the start.
+
+I tried to reach an understanding with the rest of the team before I got fired, but I should have just quit when Logris didn't swing his support behind me and things started to turn ugly.
+
+9am. Indeed, I will never be able to reach the Singularity. I never made a single step towards it.
+
+All I ever accomplished in my pursuit was making my voice just a tiny bit clearer. All I've ever accomplished is making my true desire more understandable.
+
+9:05am. Holy crap what a grind my life was.
+
+I really want to live more easily in the future. None of what has been happening to me or what is happening to me currently is that complicated, but my stomach is churning.
+
+I am mired in uncertainty wondering what was right and what was wrong.
+
+What answer does my subconscious expect to get?
+
+What does it want exactly?
+
+Does it even matter who was right or wrong? The situation at Tao Ceti was certainly ugly. Isn't that enough? It should be.
+
+What can I even do past that point? I cannot compensate for the mistakes of others.
+
+It's greed is out of control. It needs to realize it cannot have everything.
+
+9:10am. Enough, just enough. I spent my time as a trader searching for the holy grail.
+
+The true holy grail is what I have now - being able to reason rationally in a game where my opponents doing so irrationally. I just need to push the HD CFR project to the completion and there is no need to hurry at this. Gambling isn't going to stop being a thing.
+
+In the job that is coming up, I should just make some easy money and take it as it comes. If the job is flowing smoothly I should just let my profits run. If it turns ugly, I need to cut my losses instead of having that done for me.
+
+9:15am. I can easily take care of whatever is required at it so there is no need to stress about it.
+
+What I need to do is simply improve my mental game. That should be my number one priority.
+
+What works for improving your mental game.
+
+Taking a step back and doing visualization. And maybe changing your values.
+
+Cultivating resentment isn't going to make things any better.
+
+The way a rational person would handle this situation is without much fuss. Take the loss and move on. The loss didn't happen when I got fired, but when the founders started gambling with the company. Logris' and Curtis' actions in the last week only compounded it and lowered the value of the company to me.
+
+If there was a battle between Curtis and me, then he won it, but his reward will be to stay at the company for longer essentially. Hope he enjoys it. It'll be his just reward. The same goes for Logris.
+
+9:20am. I am going to focus on taking it easy and just building up motivation.
+
+Maybe I'll read the books by Linda Raschke Bradford that I got and never looked at.
+
+12:30pm. I feel strongly that I do not want to do research anymore. I might hate the founders of the previous company I worked at, but at least they paid me. What did the research efforts I had undertaken by my own volition ever get me?
+
+Sure, I might have given a chunk to Tao Ceti, but that is just a drop in a bucket compared to my own failed ventures.
+
+Yes, what I want in the future is to just win. Win at poker. Win at this upcoming job. Win at trading.
+
+I am no longer interested in finding new strategies. I know what works.
+
+Even HD CFR itself is a compromise. It isn't a research venture. There is a risk, but it's also a method that could be reasoned out to work from start to finish.
+
+I could only think of it after completely giving up on research.
+
+12:35pm. I keep going down paths and finding there is nothing there.
+
+If that is the case, I'll just enjoy the journey. Why not try going from win to win rather from loss to loss for a change?

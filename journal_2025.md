@@ -9979,3 +9979,7 @@ I could only think of it after completely giving up on research.
 12:35pm. I keep going down paths and finding there is nothing there.
 
 If that is the case, I'll just enjoy the journey. Why not try going from win to win rather from loss to loss for a change?
+
+12:45pm. My ultimate goal might be the pursuit of the Singularity, but the era of making wild bets and seeing where they land is over for me. I need break from losing.
+
+If a completely new path gets opened due to advances in neuroscience for example, I might go back to my old approach, but right now I feel fatigue creeping in just thinking about it.

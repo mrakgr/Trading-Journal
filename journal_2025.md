@@ -10067,3 +10067,23 @@ HD CFR could work, but I just don't feel like doing it right now. A part of me r
 I really do want to at least get the enumerative CFR done before the next job starts.
 
 10:15am. After I've gotten this far and after I've gained all these skills, maybe I am the one who really wants to learn from others. I really wish I could ask nature what the secrets of intelligence are.
+
+I think I'll make the HD CFR agent and use that as the key to get in touch with the poker botting community. I'll be curious what they have to say about it.
+
+Sure they might be competitors, but at this time I am well beyond the point of caring about money.
+
+A key realization is that this loneliness that I feel cannot be cured by being with other people. Even if I had 100m right now, that would do nothing for me. Instead I am looking for some kind kind of acceptance that might simply be understanding. I want people to contribute to my advancement in ways that isn't necessarily money.
+
+I want them to give me the most expensive thing of all - inspiration.
+
+That is what I am most impoverished of.
+
+I am worthless right now. I don't have any ideas.
+
+Right now if I had a 100m, and was negotiating with an Oracle for that inspiration, she'd be able to squeeze me very hard. I am so desperate for it.
+
+I am starved for it that I forgot what it even tastes like. What it even looks like. What it feels like.
+
+I don't even know that I want it.
+
+Just what do I have to do to get it?

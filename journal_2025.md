@@ -10093,3 +10093,24 @@ Just what do I have to do to get it?
 Let me take today off as well, and maybe I'll try putting in a small programming session tomorrow in the morning? I won't obligate myself to do it.
 
 10:55am. Maybe the reason why I am in so much despair is because deep down I believe that I cannot get any better as a programmer? That would explain the loneliness and the regret. Maybe that isn't true, but I don't feel like changing my heart through reason. It never works. Instead what I will have to do is put in the effort and show concrete proof of it being wrong. Then the veil of despair drapped over me will be lifted.
+
+11:10am. Yeah, I'll just chill for a while until I build up the desire for some real training. That is the way to go. Let's not be in a hurry.
+
+I've learned not to underestimate the psychological factors in programming. Much like regular muscle, the mind can get tired and require rest after a period of strain.
+
+If the real cure for loneliness is to just get better at programming, then some proper training to get it back into shape will be required, but it is fine to just let it rest for now. When it is time to get back into it, I'll do it full force. I am yet to see how demanding the petrol station job will be, but I feel like it will be on the easier side. Since I'll be paid an hourly rate, I won't be obligated to work all the time like with the Tao Ceti job. In general, vacations exist in full time employment jobs for the benefit of company as much as they do for the benefit of the worker, and the one with the Tao Ceti company didn't have such clauses in the contract. Instead everything was left up to discretion of my bosses.
+
+I remember once in the Signal group how I asked Tony to review a DomeTrain Kubernetes course and purchase it for me, and he dunked on me. Instead of refusing or just doing what is asked, the imbecile put 'k8s course' into Youtube, gave that to me and said that it's the same course. I openly thumbed him down in the group and said that this wasn't the course I had asked him to review.
+
+And even before that when at the start of the day I asked him whether I reviewed it, his attitude was to get irritated and tell me that I am not his boss.
+
+Episodes like these are why I was pushing the boundaries with how I acted, which eventually got me fired.
+
+As for that course, after getting punked by Tony what I did was is to put its name into Yandex and found it in 5m, but the point of that request was to test Tony. I wanted to know through some minor interaction whether he is capable of acting like a sane human being and whether his clowing around was just his way of humor. No, he is a moron through and through. Very much in line how he bet the farm on Bitcoin a couple of weeks down the line. I was shocked that he did that, but I really shouldn't have been. The signs were all there. He's a guy with a 80-90 IQ that investors gave millions of dollars to with no strings attached.
+
+The only thing I'd say to him is that if he wants his ass licked he should hire a whore, not a software engineer.
+
+11:30am. In some ways Logris mislead me the most since he is so smart and completely out of place with the company. It's caused me to place higher priors on the rest higher than they should have been and misjudge situations and characters. 
+
+The bar for that whole crypto company was just so much lower than I ever thought would even be possible. It do it all over again to get from 0 to 100k, sure, but I wouldn't to get from 100k to 200k.
+

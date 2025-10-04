@@ -10171,3 +10171,37 @@ Even so, this is kind of obvious and even if not a monthly system, a weekly syst
 But for that I need to do quant research first. Forget it.
 
 I have some good principles in the monthly system. If I could chain that together with short term principles I could have explosive performance. I already basically know how to time the market on the longer timescales, I just need to master the short term.
+
+2:35pm. This volatility contraction in RHM is very similar to how NVDA was in April/May and also back in 2021. It's a strong pattern. I'll be sad to see it go without me once it breaks out, but I shouldn't get attached to the stocks that I am trading.
+
+For a short term trader these broader macro trends shouldn't matter. I'll be able to find many more edges once I dig deeper.
+
+The monthly system that I traded this year without much success should just be considered to have been an experiment. Forget the market for a couple of months.
+
+The fact that I might be tempted to jump in is a strong signal that I should not be trading this shit.
+
+RHM is just one of 10,000. I need to keep that in mind.
+
+![COIN](images/image-770.png)
+
+Just look at these swings from a low point. I need to target these kinds of patterns.
+
+![1min](images/image-771.png)
+
+Note how it gapped open up and never looked back.
+
+![5min](images/image-772.png)
+
+I need to look for these patterns.
+
+Just betting big on a single one of them could set my account up 10-30% with very limited risk. Why bother holding RHM for weeks?
+
+Think about that.
+
+![1min](images/image-773.png)
+
+I could have risked 1$ on this ORB to make 60. COIN isn't a special stock like RHM. It isn't anything. These patterns just happen over and over. I've been noting a lot of these failed high volume breakouts setting up for harsh rebounds. At this point it's almost predictable. I should be taking advantage of them in the future.
+
+Don't listen to that systems guy. Who knows by what system he is using and by what criteria he is judging the trades.
+
+Unless I know that and can verify for myself that there are profitable crypto patterns, I should just ignore everything he says.

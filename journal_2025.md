@@ -10026,3 +10026,44 @@ It seems that World Class Edge is getting serious.
 > You have a sideways phase and in a sideways phase we all know something is being accumulated. 
 
 Ok, I won't transcribe the entire interview. You can watch it yourselves.
+
+10/4/2025
+
+10am. My sleep has been good last night. During the morning I've been thinking about my regrets.
+
+I regret the Tao Ceti job and the firing, but what do I exactly regret about it?
+
+* Losing the paycheck? If I had really prioritized that I wouldn't have acted in ways that would jepardize it. So not really. 
+* Losing touch with my teammates? Even though I was active in the Discord, I can't say I was very friendly with them. So no.
+* That I liked the owners? Hell no.
+* That I believed in the mission? The first few months leading up to the Venice arrival and subsequent pivot to OpenRouter that never happened were good, but I don't believe in the ICF project. The company is destined to fail. So no.
+
+Yeah, I feel strong loneliness and desperation, but it's not due to any tangible reason that's directly related to the job.
+
+Instead, my mindset has reverted more to how it was before I started the job. I had failed at making evolutionary methods work, and was desperate. Then a lifeline was tossed to me.
+
+Fulfilling work and high salary that I had never experienced before is what the Tao Ceti job meant to me at the outset. I had no qualms about giving it 100%.
+
+I thought I was getting into a classy place where people knew what they were doing. But the constant failures of the company sparked those old insecurities inside myself and even intensified them.
+
+10:05am. And the fact that I said yesterday that I no longer want to do research is just rubbing salt in my wounds.
+
+Even if that is true, there is simply no way I'd be happy with just collecting a paycheck, trading, poker or otherwise.
+
+Deep down I know that I've reached the limits of how much I can do to grasp the Singularity on my own so, I feel like connecting with people.
+
+That is what this loneliness is telling me.
+
+I think that is one of the reasons why Curtis' unfriendliness hit me so hard.
+
+I wanted to be a part of the group that is focused on cultivating their skills, and find a way to improve myself. If I working on a team with a petulant little kid who is undercutting me, that really lowers the value of the job for me.
+
+I want to be challenged and pushed to improve, but not ambushed like what happened in the last week.
+
+10:10am. The Tao Ceti job really came at an ideal time when my own project wasn't doing well.
+
+HD CFR could work, but I just don't feel like doing it right now. A part of me really does, but I want to overcome my mental inhibitions and get my thoughts in order before I resume.
+
+I really do want to at least get the enumerative CFR done before the next job starts.
+
+10:15am. After I've gotten this far and after I've gained all these skills, maybe I am the one who really wants to learn from others. I really wish I could ask nature what the secrets of intelligence are.

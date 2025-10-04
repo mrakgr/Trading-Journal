@@ -10205,3 +10205,11 @@ I could have risked 1$ on this ORB to make 60. COIN isn't a special stock like R
 Don't listen to that systems guy. Who knows by what system he is using and by what criteria he is judging the trades.
 
 Unless I know that and can verify for myself that there are profitable crypto patterns, I should just ignore everything he says.
+
+4:10pm. ![](images/image-774.png)
+
+Let me screencap this quote that's burried at the bottom of the comments thread.
+
+> Honestly, during the dotcom bubble at least workers were getting paid and jobs were abundant. Things didn't start getting bad for workers until it popped. We're supposed to be in the 'positive' part of the AI bubble and people already seem desperate and out of hope.
+> Everyone not directly involved seems to want AI to pop. I'm not sure if that says anything about its longevity. Not very fun to have a bubble that feels bad on both sides.
+

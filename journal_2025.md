@@ -10240,4 +10240,8 @@ Let me go back to casual reading. I don't feel like going through such a heavy s
 7:25pm. https://youtu.be/LrTd6SsBa_g
 AAA Rated Junk: What Tricolor and First Brands Reveal About Credit Markets!
 
-Just as I finished telling Thomas that this is nothing like 2008, I see this.
+Just as I finished telling Thomas that this year is nothing like 2008, I see this.
+
+![](images/image-778.png)
+
+Funnies comment award goes to this guy.

@@ -10091,3 +10091,5 @@ Just what do I have to do to get it?
 10:45am. At any rate, my quest has always been accompanied by some degree of desperation. The RSI that developed raised the stakes, but I have it under control with steady exercise.
 
 Let me take today off as well, and maybe I'll try putting in a small programming session tomorrow in the morning? I won't obligate myself to do it.
+
+10:55am. Maybe the reason why I am in so much despair is because deep down I believe that I cannot get any better as a programmer? That would explain the loneliness and the regret. Maybe that isn't true, but I don't feel like changing my heart through reason. It never works. Instead what I will have to do is put in the effort and show concrete proof of it being wrong. Then the veil of despair drapped over me will be lifted.

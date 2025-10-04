@@ -10213,3 +10213,12 @@ Let me screencap this quote that's burried at the bottom of the comments thread.
 > Honestly, during the dotcom bubble at least workers were getting paid and jobs were abundant. Things didn't start getting bad for workers until it popped. We're supposed to be in the 'positive' part of the AI bubble and people already seem desperate and out of hope.
 > Everyone not directly involved seems to want AI to pop. I'm not sure if that says anything about its longevity. Not very fun to have a bubble that feels bad on both sides.
 
+6:40pm. Reading Linda's Trading Sardines book currently.
+
+![low volatility](images/image-775.png)
+
+Here is what Linda has to say about low volatility in a rising trend.
+
+On my own end, for swing trading I really want to try doing mean reversion trades from oversold situations. But not by buying down, but by being long the opening range breakouts on the way up with minimal risk.
+
+Still I think the time based longer term momentum system would still be useful for gauging the market.

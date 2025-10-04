@@ -10129,3 +10129,45 @@ Don't accept tokens if they aren't tied to equity stakes in the company. If they
 11:55am. > “He thought about leaving the company then, he testified, but worried that his departure could cause everything to fall apart. He felt that if he stayed, maybe he could help the companies make back what they owed.”
 
 Reminds me of what Logris said to me, that we're the only hope for investors to make back what is owed. This kind of talk is manipulation and a red flag. When the company's owners are an adversary to its success it's time to leave.
+
+12:25pm. https://hyperliquid.gitbook.io/hyperliquid-docs/about-hyperliquid/core-contributors
+
+In that video I posted a while ago, he mentioned he trades on HyperLiquid and that the momentum trades in crypto are better in today's market. I am just wondering that the fuss is about.
+
+The fees are low if you're active, but are pretty sizable if you have low volume or HYPE staked.
+
+One thing I am confused about is what times would be good to trade when the instruments are traded 24h a day.
+
+Nevermind, forget this. The institutions don't trust the exchanges for a good reason. The stock market will give me a more structured experience. Do I want to trade 24h markets?
+
+The answer is no.
+
+I'll consider it seriously when the fees go down. 
+
+![RHM](images/image-768.png)
+
+This volatility contraction in RHM is quite impressive.
+
+I've lost my marbles when I got fired, but what would I do here according to the old system?
+
+Well, after you get out for a loss, you wait 2-4 weeks according to it. 5 weeks have elapsed since I got out. So what is happening now with this volatility contraction is definitely a buy signal.
+
+Do I take it? No. I just don't want to trade like that anymore.
+
+The problem with the monthly system is that I'll have some pretty hefty losses. One issue is that I'll ride the market crashes all the way down.
+
+You need a lot of conviction to trade like that and euro defense stocks did already betray me once by not rising for months in a bull market.
+
+It's a buy here, to be sure, but I want to trade a better system. A more consistent system.
+
+The market is there for me to use it. It should not be using me.
+
+![RHM](images/image-769.png)
+
+Even so, this is kind of obvious and even if not a monthly system, a weekly system should work on it.
+
+12:40pm. But you know, if I extend the principle and look for short term volatility contractions and momentum breakout trades, I'd have a lot more opportunity and wouldn't need to depend on stocks like RHM. I could even feasibly trade crypto.
+
+But for that I need to do quant research first. Forget it.
+
+I have some good principles in the monthly system. If I could chain that together with short term principles I could have explosive performance. I already basically know how to time the market on the longer timescales, I just need to master the short term.

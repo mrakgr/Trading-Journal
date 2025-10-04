@@ -10125,3 +10125,7 @@ Had I got the cash instead, I wouldn't have gotten so invested in the work.
 Yes, I was very much not happy that the token price was that low. Even now I have 100k of them and am worried that I'll have to pay capital gains which would make their value negative to me.
 
 Don't accept tokens if they aren't tied to equity stakes in the company. If they don't have ownership, but are only dependent on trust in the company owners you'd be a fool to buy those. It's not a new model of financing; it's a scam.
+
+11:55am. > “He thought about leaving the company then, he testified, but worried that his departure could cause everything to fall apart. He felt that if he stayed, maybe he could help the companies make back what they owed.”
+
+Reminds me of what Logris said to me, that we're the only hope for investors to make back what is owed. This kind of talk is manipulation and a red flag. When the company's owners are an adversary to its success it's time to leave.

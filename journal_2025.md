@@ -10114,3 +10114,14 @@ The only thing I'd say to him is that if he wants his ass licked he should hire 
 
 The bar for that whole crypto company was just so much lower than I ever thought would even be possible. It do it all over again to get from 0 to 100k, sure, but I wouldn't to get from 100k to 200k.
 
+11:40am. https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/
+
+What the founders did at Tao Ceti would have landed them in jail in most other place, but from what I understand the token investors have no equity rights in the company, so it's just money given to the founders to do as they see fit. The founders can be the farm on Bitcoin, they can just sell the machines and scram with it and the investors would have no legal recourse. And I picked the option to have 25% of my salary in such tokens.
+
+Originally I had a pick of 225k in cash, or 187.5k in cash and 62.5k in tokens which sums up to 250k. It seemed like a good deal at the time since the token hit highs of 2 and was at a low of 0.5 at the time and a big deal was upcoming which would pump the price. When that failed getting revenue from OpenRouter could have turned things around, but then the payment provider trouble happened and the price just slid 90% from where I got the tokens.
+
+Had I got the cash instead, I wouldn't have gotten so invested in the work.
+
+Yes, I was very much not happy that the token price was that low. Even now I have 100k of them and am worried that I'll have to pay capital gains which would make their value negative to me.
+
+Don't accept tokens if they aren't tied to equity stakes in the company. If they don't have ownership, but are only dependent on trust in the company owners you'd be a fool to buy those. It's not a new model of financing; it's a scam.

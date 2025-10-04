@@ -10222,3 +10222,22 @@ Here is what Linda has to say about low volatility in a rising trend.
 On my own end, for swing trading I really want to try doing mean reversion trades from oversold situations. But not by buying down, but by being long the opening range breakouts on the way up with minimal risk.
 
 Still I think the time based longer term momentum system would still be useful for gauging the market.
+
+7:10pm. That book is really her biography.
+
+![](images/image-776.png)
+
+The `Professional Trading Techniques` is more on the actual trading tactics. At any rate, I didn't know the last hour of trading method.
+
+Let me leave this for later.
+
+![](images/image-777.png)
+
+Right now I am just skimming the middle, but just this little bit is enough to get me interested.
+
+Let me go back to casual reading. I don't feel like going through such a heavy subject this late.
+
+7:25pm. https://youtu.be/LrTd6SsBa_g
+AAA Rated Junk: What Tricolor and First Brands Reveal About Credit Markets!
+
+Just as I finished telling Thomas that this is nothing like 2008, I see this.

@@ -10310,3 +10310,21 @@ This is so fucking annoying. It worked so well for me up to now.
 1pm. Oh, yeah, when I go to the previous version it shows all the passwords and the bookmarks.
 
 Yeah, it seems that reinstalling worked to fix it. I don't need to keep it on the previous version.
+
+3:35pm. https://youtu.be/nWaChuvW614?t=164
+Qullamaggie's honest take on viewers of his stream v9 wIGPHYOM
+
+> EU investors aren't allowed to trade US ETFs. Genius move. But EU investors are allowed to buy all these scam products like CFDs and all these, ehhh, fuck are they called? These leveraged bullshit products.
+
+https://youtu.be/1FQp0SislAo?t=373
+How I built a $100,000 strategy that transformed my trading.
+
+Ah, so this is supposed to be him crypto momo strategy video? Eh, it's 10m so let me watch it to the end.
+
+He says that gold is amazing. Ok, so maybe he isn't doing swing or short term trading of shitcoins.
+
+Him saying that gold is amazing tells me a lot of how he looks at the markets. I'd guess he is probably focusing on BTC, that is where money in trend following is. It's not on those pump and dumb tokens.
+
+https://youtu.be/zgNNf0YL0wo
+Ranking every market by profit potential (EP 33)
+

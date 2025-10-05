@@ -10547,3 +10547,5 @@ These narrow day lows could serve as stop points.
 10:20pm. I can really sense it now. The weekly charts really show the momentum for the fast stocks.
 
 How about I keep reviewing the markets just to test out that theory?
+
+10:25pm. If my confidence rises, not only will I be able to trade again, but I will also be able to just let the market go without it affecting me. I have better trades coming up than in stocks after all.

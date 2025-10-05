@@ -10292,3 +10292,5 @@ Ah, the passwords setting is turned off for some reason.
 It might be having trouble syncing with the server after an update.
 
 ...No, fiddling with this didn't fix it. I think I'll just switch to Chrome.
+
+...Oh yeah, Google banned Ublock. Nevermind. I'll think about it later.

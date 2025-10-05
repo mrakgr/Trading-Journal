@@ -10266,3 +10266,11 @@ And it cannot be helped that I have to go from the top. It's like a roguelike. I
 
 I'll get started on this tomorrow. I don't care about getting rid of the hangups. I'll just accept these feelings and swim upwards. That is my way.
 
+10:55am. https://www.youtube.com/watch?v=2gTzid5Jl-w
+The AI Bubble Is About To Burst
+
+I found the Bezos space data center parts hillarious.
+
+https://youtu.be/21EYKqUsPfg?t=3251
+
+So Hudson River Trading is an open trading firm. I didn't realize that. I'll keep it in mind just for that reason.

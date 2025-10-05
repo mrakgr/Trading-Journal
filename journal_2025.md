@@ -10274,3 +10274,21 @@ I found the Bezos space data center parts hillarious.
 https://youtu.be/21EYKqUsPfg?t=3251
 
 So Hudson River Trading is an open trading firm. I didn't realize that. I'll keep it in mind just for that reason.
+
+12:10pm. Wow, what the hell happened to the Edge browser?
+
+Why did I lose my main account? Is this a botched update or some kind of hack attack?
+
+I am looking at the password manager and it seems I lost all my passwords. Wtf?
+
+https://learn.microsoft.com/en-us/answers/questions/5520908/all-of-my-edge-passwords-have-disappeared
+
+Son of a bitch. I was going to log into Udcourse, but nevermind that.
+
+![](images/image-779.png)
+
+Ah, the passwords setting is turned off for some reason.
+
+It might be having trouble syncing with the server after an update.
+
+...No, fiddling with this didn't fix it. I think I'll just switch to Chrome.

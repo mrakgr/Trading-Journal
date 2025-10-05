@@ -10362,3 +10362,76 @@ Pretty much any choice is better than what I am doing now which is wallowing in 
 Everything is a trade, so I don't have to worry about the markets.
 
 Even though I quit trading over a decade ago, I haven't made the wrong choice to cultivate my own skills instead. If that is the wrong choice I will accept the consequences gladly.
+
+8:20pm. ![](images/image-781.png)
+
+I've been meaning to play games, but I just don't feel like it. I've just been reading novels and I've felt like watching a video or two of Lance's course.
+
+Here he is doing a breakout dissection, and he says that most retail doesn't pay attention to news or have good news sources.
+
+Yeah, that applies to me and I don't know if I could afford a good news source or even what they are.
+
+![](images/image-782.png)
+
+He says that it's possible to buy at 7.60 and due to the tight spread only risk a single cent. Based on his system he'd get stopped out 60c higher.
+
+Crazy.
+
+This is maddening.
+
+Should I really just learn to tape read in the future?
+
+In some ways, Lance is very encouraging, but it's also very demotivating. It's making me wonder what the hell am I doing and have been doing if this is possible.
+
+The way I look at the market is so amateurish. I am completely blind to the possibilities.
+ 
+![](images/image-784.png)
+
+He mentiones NewsEdge and NewsWare.
+
+8:45pm. He also mentions web scrapers and Bloomberg. Maybe trading shitcoins according to news would work?
+
+Damn it, that unbiased trading guy broke me when he keeps talking about crypto alpha.
+
+I feel like I am just getting a handle on equities.
+
+I get the sense how the long term fundamentals affect the short term price action now and where I was going wrong before.
+
+But what are the crypto fundamentals? BTC is going to 0 in the next bear market.
+
+I think ETH and some other useful crypto tokens will survive as they are becoming an alternative financial system.
+
+It's fair to compare BTC to gold. Long term, gold price tracks inflation. I mean, over a 100 year span. And that's only because gold is a commodity with limited real world supply. What does BTC track? BTC might have a limited supply, but there is an infinite number of forks you can make of it, most of which would be better than it.
+
+It's running purely on blind faith.
+
+9pm. I just googled crypto news and found the following:
+
+![](images/image-785.png)
+
+Crazy.
+
+Yeah, I am thinking about crypto all wrong. Instead of reading charts, I should be following mentions of tokens on Twitter.
+
+![](images/image-786.png)
+![](images/image-787.png)
+
+Yeah, no shit the smart traders bought it. While here I am reading charts and scratching my head how to trade some of these tickers.
+
+![](images/image-788.png)
+
+This is like the dotcom bubble and I am completely missing and unprepared for it.
+
+News trading, huh? I never ever considered it, but what Chris Camillo does is kind of like it.
+
+Lance talks about the news trades. Half of the trades he covers are news trades.
+
+9:05pm. Ok, enough of that. Let me go back to resting. I am almost done for the day.
+
+What I said about BTC is more why I wouldn't use a monthly system on it, but weekly systems should still do fine.
+
+9:10pm. Anyway forget trading for the time being. The upcoming job is worth 100% per year.
+
+A system that does that much would be hard to find in trading, so until jobs make me less than 50% per year, I should just stick to regular work.
+
+It's going to be a contract job making around 125 euro an hour, which is worth 250k euro per year in salary. It's not going to be a full time thing unless the investors get on board with the project, but the AI money is still sloshing around so I give us decent odds. The negatives are that the customers we're trying to reach are conservative and it might be hard to sell them on the project.

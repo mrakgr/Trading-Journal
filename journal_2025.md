@@ -10244,4 +10244,25 @@ Just as I finished telling Thomas that this year is nothing like 2008, I see thi
 
 ![](images/image-778.png)
 
-Funnies comment award goes to this guy.
+Funniest comment award goes to this guy.
+
+10/5/2025
+
+10:20am. I have no idea how I'd possibly trade crypto, but for me trading is all about volatility. Enter when there is a volatility contraction, exit when it increases.
+
+I could look for those kinds of patterns. In fact, since it is a 24h market, creating a bot to trade those is the only choice unless I want to give up sleep.
+
+I hate how it doesn't have a defined open and close. I cannot trade ORBs with it and don't have gaps to give me signals.
+
+I'd have to rely on pure volume that could come in at any time.
+
+10:25am. Yeah, forget this. Stop looking at the charts. You'll create a proper automated system later to sweep this all up.
+
+Let me finish my morning reading and then what I will do is play some games.
+
+All this regret is caused by one thing - not finishing the poker bot. I have to accept that punishment and complete the damn thing.
+
+And it cannot be helped that I have to go from the top. It's like a roguelike. I died and went to the main menu.
+
+I'll get started on this tomorrow. I don't care about getting rid of the hangups. I'll just accept these feelings and swim upwards. That is my way.
+

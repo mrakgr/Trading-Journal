@@ -10328,3 +10328,11 @@ Him saying that gold is amazing tells me a lot of how he looks at the markets. I
 https://youtu.be/zgNNf0YL0wo
 Ranking every market by profit potential (EP 33)
 
+https://youtu.be/zgNNf0YL0wo?t=182
+
+He talks about making returns by farming points. What is that?
+
+https://youtu.be/zgNNf0YL0wo?t=439
+> You're not going to get anything in crypto like finding an obscure opportunity and doing an 100x for example.
+
+Ok, I guess he isn't just trading BTC then.

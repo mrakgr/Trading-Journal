@@ -10435,3 +10435,115 @@ What I said about BTC is more why I wouldn't use a monthly system on it, but wee
 A system that does that much would be hard to find in trading, so until jobs make me less than 50% per year, I should just stick to regular work.
 
 It's going to be a contract job making around 125 euro an hour, which is worth 250k euro per year in salary. It's not going to be a full time thing unless the investors get on board with the project, but the AI money is still sloshing around so I give us decent odds. The negatives are that the customers we're trying to reach are conservative and it might be hard to sell them on the project.
+
+9:25pm. ![NBIS](images/image-789.png)
+
+I really let a big one get away with NBIS. As it turns out buying once it exceeded the 92.5 offering price had done far better than I expected.
+
+The 2 day system would have exited prematurely. The weekly system is where it's at.
+
+![ATRO](images/image-790.png)
+
+These setups where the offerings get absorbed work well don't they?
+
+I knew that NBIS in particular would work well since it is a the type of news that the market would like. An AI play in an AI themed market. That is why it blew up.
+
+Imagine had I bet 30% of my account. If I tuned my entries that could be entirely possible in the future.
+
+![CIFR](images/image-791.png)
+
+Sometimes it pays off to risk the prior week lows. A month is too high, and in truth I don't feel like getting stopped out at the daily lows. I'd rather wait for the Friday's close.
+
+![NEGG](images/image-792.png)
+
+But maybe trailing the stop wouldn't be bad either.
+
+![UUUU](images/image-793.png)
+
+Ok, let's wait for a panic at least so I am not stupidly chasing the market anymore.
+
+At that time I can think of trying out some weekly cascade style of trades. Fuck reading Twitter to catch flying shit, but NBIS style trades could be great. I could even add on the way up to them.
+
+![UNH](images/image-794.png)
+
+Amazing gap and go trade for how clean it is.
+
+![UNH](images/image-795.png)
+
+It doesn't look special on the daily.
+
+![UNH](images/image-796.png)
+
+I expected it would be a cascade style trade.
+
+Ok, I admit it.
+
+Minervini was completely right. Make 100% per year consistently it's necessary to play the risk/reward game well. I understand one part of the game which is to let the profits run.
+
+But I didn't realize just how much the gap trades could get me.
+
+Forget crypto. A while back I looked at crypto and there were very few tokens with consistent trends in them.
+
+![BTC](images/image-797.png)
+
+Ironically, BTC is the exception. I feel like I could do a lot with using dailies to enter and using weeklies to manage my exits.
+
+...Isn't that how Peter Brandt does it?
+
+What I could do is find days with narrow ranges, enter near the end and use tight stops.
+
+If I look at the chart of BTC it really has wide swings doesn't it? Tight stop on days like those would work.
+
+![BTC](images/image-798.png)
+
+Look at this breakout right here in the middle.
+
+If BTC could narrow down at a pivot point, that would be the low risk entry. Risk 3k to make at least 30k.
+
+In fact today is Sunday, so maybe if Monday can avoid a decline that could be an entry?
+
+![BTC](images/image-799.png)
+
+Not on ETFs. I'd want to in the 24h market if the price dips.
+
+The reason why BTC has this many gaps is because ETFs only capture a part of its price action.
+
+Let me check out CME futs.
+
+![](images/image-800.png)
+
+Yeah, ok, this is passable. I don't need Saturday and Sunday trading. How much would once contract be in notional value?
+
+![](images/image-801.png)
+
+Oh, these are big contracts.
+
+Right now, what I'd look for in BTC is exactly what RHM has done in the past 3 weeks. A volatility contraction. You certainly don't want to buy it after a huge rise like in the past week right into resistance.
+
+10:05pm. This is just armchair trading at this point, but it is an useful exercise.
+
+I am taking a stepback and saying to myself what I would do if I had to trade.
+
+![NVDA](images/image-802.png)
+
+Nvidia is the master of weekly cascades.
+
+![NVDA](images/image-803.png)
+
+The dailies look like shit, but the weeklies have a consistent higher lows kind of pattern.
+
+I could have bought on Friday and put a stop at the weekly lows. What is the worst that could have happened?
+
+![](images/image-804.png)
+
+Monday would have been the best entry point. The gap low could have served as a stop level. The stock never bothered testing it even though it sold off during the day after the opening drive.
+
+10:10pm. This really wouldn't be that hard to trade. It's straightforward enough on the weeklies.
+
+![OKLO](images/image-805.png)
+
+These narrow day lows could serve as stop points.
+
+10:20pm. I can really sense it now. The weekly charts really show the momentum for the fast stocks.
+
+How about I keep reviewing the markets just to test out that theory?

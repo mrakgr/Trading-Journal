@@ -10294,3 +10294,19 @@ It might be having trouble syncing with the server after an update.
 ...No, fiddling with this didn't fix it. I think I'll just switch to Chrome.
 
 ...Oh yeah, Google banned Ublock. Nevermind. I'll think about it later.
+
+12:50pm. Son of a bitch. Let me try uninstalling it.
+
+https://www.microsoft.com/en-us/edge/business/download?form=MA13FJ
+
+Here is the business version I'll try getting v140.
+
+Agh, I run it and it tries updating automatically. How do I stop that?
+
+![](images/image-780.png)
+
+This is so fucking annoying. It worked so well for me up to now.
+
+1pm. Oh, yeah, when I go to the previous version it shows all the passwords and the bookmarks.
+
+Yeah, it seems that reinstalling worked to fix it. I don't need to keep it on the previous version.

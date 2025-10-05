@@ -10336,3 +10336,29 @@ https://youtu.be/zgNNf0YL0wo?t=439
 > You're not going to get anything in crypto like finding an obscure opportunity and doing an 100x for example.
 
 Ok, I guess he isn't just trading BTC then.
+
+4:15pm. Nevermind, let me focus a bit more on programming.
+
+I figure out the web framework, but what should I do after that?
+
+Agh, it's so fucking annoying, having to mess with UIs in C++.
+
+You know, why don't I focus on just implementing the two dictionary based algos first, just the training for them, and then worry about the rest after that.
+
+Just get the fun stuff out of the way first and then deal with the annoying shit after that?
+
+I could have long been done with this, but I keep putting it off.
+
+I think I'll get started with it tomorrow. Today was just an ice breaker.
+
+4:50pm. I am just so torn between so many different options.
+
+I've decided. I'll forget user interaction and just focus on creating the training loops and dumping their results in JSON.
+
+By this point I've implemented CFR so many times it's in my blood already. I'll be able to see in the policy probabilities whether the implementation is correct.
+
+Pretty much any choice is better than what I am doing now which is wallowing in indecision.
+
+Everything is a trade, so I don't have to worry about the markets.
+
+Even though I quit trading over a decade ago, I haven't made the wrong choice to cultivate my own skills instead. If that is the wrong choice I will accept the consequences gladly.

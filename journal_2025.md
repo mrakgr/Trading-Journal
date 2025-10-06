@@ -10706,3 +10706,85 @@ I've been thinking about subgame solving and I am going to need rejection sampli
 ...Wait, but if I do it like that would I even need the usual sampling way of doing it? I need to think about it more. It's hard to reason about probabilities. I have to do it by instinct and that can lead to errors. I'll need to make sure everything is tested properly.
 
 I don't need to be original. I just have to do it right.
+
+4:35pm. ![work hard](images/image-810.png)
+
+Interesting. I've been talking with Thomas over email and I've sent him this video:
+
+https://youtu.be/Ij7gT34BQCs
+You should NOT work at a startup
+
+I've watched 3/4ths of the way months ago, and am just finishing it.
+
+https://youtu.be/lWsZT-2pQL4
+The painful truth about startups (my story)
+
+Let me also watch this. The thumbnail is pretty funny.
+
+9:05pm. ![FCT](images/image-811.png)
+
+I am looking at 6 month EU momentum and this is near the top again. I guess I should have just placed my stops at the low instead of selling out.
+
+Yeah, that is how it usually is in bull markets.
+
+![AVIO](images/image-812.png)
+
+I put this screenshot in a while ago and forgot what I meant to say.
+
+![TKA](images/image-813.png)
+
+Yeah, now this thing is making a cascade. That selloff sure wrecked me didn't it?
+
+Since I want to trade the continuation patterns, I should just do it in the future.
+
+I really am drawn to the momentum screens, but I had misapplied them.
+
+I don't really want to trade the way Pradeep does which is to sell the stocks on short term pops. I want to go long and try to catch the best of the best trends.
+
+![RENK](images/image-814.png)
+
+Damn, this one is strong.
+
+![HAG](images/image-815.png)
+
+My old favorites are doing well. They have nice and wide swings. HAG unfortunately has nasty wicks.
+
+9:35pm. I still feel drawn to my old method of doing things from the top down. Get familiar with the news, get familiar with the momentum of the market, find out what the market leaders are and hold those long accordingly.
+
+I made the mistake using the 8 - 12 week system instead of just using tight stops.
+
+The thing about true leaders is that they rarely give you trouble even with non ideal breakouts.
+
+You can have a style that is very diversified, but it could also be possible to hold concentrated portfolios.
+
+9:40pm. God, TradingView is shitty today.
+
+![SAAB.B](images/image-816.png)
+
+This one isn't very good.
+
+![RHM](images/image-817.png)
+
+Surprised to see that RHM is wicking out.
+
+![RHM 1 min](images/image-818.png)
+
+Good thing I didn't buy it yesterday because it would have smashed straight through my stop. Had I bought the breakout a few weeks ago, this is where I would've gotten stopped out.
+
+9:50pm. Ok, enough for today.
+
+These kinds of chart readings are good enough to review the market. But I am missing the crucial morning plan.
+
+That part is what I lacked in 2007 - 2014. I'd really need to get up early and scan the premarket action.
+
+![extended hours](images/image-819.png)
+
+And would you look at that? I never clicked on this tab before, but when you need something it automatically comes to you. This tab was literally invisble to me up to now.
+
+9:55pm. At any rate, I am not a fan of trading random stocks.
+
+I'd want to momentum trade, but I'd want to do so according to a theme, and you can't really backtest market themes.
+
+Forget this for now. Maybe I could find scalp trade setups I could scan for and backtest? Lance mentioned it would be possible.
+
+I see no point in backtesting weekly strategies.

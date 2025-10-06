@@ -10549,3 +10549,106 @@ These narrow day lows could serve as stop points.
 How about I keep reviewing the markets just to test out that theory?
 
 10:25pm. If my confidence rises, not only will I be able to trade again, but I will also be able to just let the market go without it affecting me. I have better trades coming up than in stocks after all.
+
+10/6/2025
+
+9:10am. A bunch of chapters of Destiny Unchain Online got released so let me have at them. It's been 5 months since the last batch.
+
+I've been thinking how I will do subgame solving. I have some ideas, and it's going to be difficult to implement so the sooner I start exploring the field the better.
+
+Forget stonks, focus on poker and rational machine reasoning.
+
+I can trade after I make 10 mil from card games.
+
+9:30am. But to do that first, I need to implement the agent.
+
+Sigh. I have all the time in the world for it. Contrary to 10 years ago, I have the skills and the understanding to do it to. So I should just work on it.
+
+9:50am. What is disappointing is that my current methods will not lead to the next great step forward. Despite 10 years of effort, my pursuit of the Singularity is dead in the water.
+
+It's not really moving forward.
+
+Everything that I ever did was in the hopes that I might get some crucial insight for how to do AI right.
+
+But in the end, all I will end up doing is messing with probability distributions.
+
+But that is fine.
+
+I feel completely defeated, but maybe this cultivation even though it will be a token effort is the best I can do. I'll cultivate my probabilistic programming skills and see where that gets me.
+
+Let's just take it easy for the next few years while I establish my foundation for survival.
+
+The 100k I have might not be enough to live on long term, but it's enough to survive short term regardless how bad things get.
+
+9:55am. Today I feel like taking some time to just reflect on where I want to be in 1-3 years.
+
+At the very least, I want the agent to be done in the next year if the job doesn't manifest.
+
+If it does, then it's fine if I just focus on the job while working on the agent lightly on the side.
+
+10:05am. 
+
+![CRWV daily](images/image-807.png)
+![CRWV weeekly](images/image-806.png)
+
+It's very weird that I never spotted the pattern back in 2007 - 2014, but even though the daily pattern for CRWV is a mess, it's actually making consistent higher lows on the weekly.
+
+And when I say this, I mean from bar to bar. It's not some subjective tech analysis thing where you draw lines on a chart.
+
+![CRWV 1min](images/image-808.png)
+
+This is a good pattern. Short term it's oversold, and it has a habit of poking below the gap before rallying.
+
+There are a shitton of opportunities in stocks. Ignore that guy telling you to trade crypto.
+
+10:10am. One thing I keenly understand is that stock trading on the weekly timescales isn't about statistics, but about courage.
+
+Right now I don't have it, but if I did I'd be buying this stock.
+
+It's not that complicated, you just have to ride the trends if you're holding on these time scales. Figure out what themes are hot and take advantage of them.
+
+10:15am. I've been really spewy when it comes to trading.
+
+One day I say that I am going to backtest and test out these systems before betting anything, and now I am going back to saying it's all about courage.
+
+One day I am thinking about daily bar lows, and now I am back to the weeklies.
+
+One day I am thinking about scalping, and the other about swing trading.
+
+10:15am. That is what having poor psychology is doing to me.
+
+I shouldn't trade until I can at least convince myself to stick to a single method.
+
+10:20am. Even though what I did since the start of the year didn't work, I do feel like there is some real insight behind my moves now.
+
+Like in April, I had an actual system in mind that I had wanted to trade. I had rules that I stuck to.
+
+This is completely unlike the 2007 - 2014 period where I was perenially searching for something better. I don't have the ability to do so now, but in 2025 I finally managed to step forward and accepted the risk of trading.
+
+I didn't know the correct entries, and I should have traded according to weekly cascades.
+
+But the intent was there.
+
+10:20am. Back then, holding stock for a month would have been unthinkable, and by doing so I did get rid of one of my restrictions.
+
+![BTC](images/image-809.png)
+
+Even for a rally like this, getting stopped out a few times below the weekly lows would still have been a good system. Yeah you know what, buying on Friday even if I am stopped out on that same week and putting a stop below the weekly low would have worked great.
+
+10:35am. Yeah, there is no need to be hung up about specific entries. There are plenty of times where just getting in would work. But still, it'd be best no to buy after a stock has been rallying for a few days. Instead just wait for a narrow week or a dip.
+
+I really like this. When you remove a restriction the way you look at charts changes.
+
+There is nothing in the charts themselves.
+
+Rather you have an inner model and you're looking at the charts relative to that.
+
+All EV estimates are relative to that model. It's a pity that no trading educator really teaches a specific model, but they just teach tricks instead. Or setups.
+
+Yeah, forget backtesting. I am just going to make the time in the future, get organized and trade according to the weeklies. I'll make sure to enter within the first 10-15 mins after they gap up and use a tight stop. That will be it.
+
+Also I'll make sure to have a market read so I don't get chopped up.
+
+It's a pity that I am missing this great bull market rally, but that is how things are.
+
+I'll have a job soon, and the project I am working on also needs finishing.

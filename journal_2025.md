@@ -10652,3 +10652,17 @@ Also I'll make sure to have a market read so I don't get chopped up.
 It's a pity that I am missing this great bull market rally, but that is how things are.
 
 I'll have a job soon, and the project I am working on also needs finishing.
+
+11am. This job that I am doing shouldn't count against my own project.
+
+The Tao Ceti job was simply bad with all the pivots which wore me down.
+
+At a regular company I'd have a task and I'd be moving towards building up a the bigger system rather than moving from fuck-up to another fuck-up by the owners. One useless partneship with companies who will never have customers to another.
+
+Once the bigger system has been built, I'd have more time since it'd go into maintenance mode, but that wasn't the case at Tao Ceti and I was always trying to swim above water.
+
+11am. This project is going to be different. Me and Thomas will build it, and it will most likely go in spurts. I won't have to work 40h per week every week.
+
+So I will be splitting the time between paid work and the job with Aman.
+
+Also this project will have real purpose and substance behind it so that will raise my spirits.

@@ -10666,3 +10666,23 @@ Once the bigger system has been built, I'd have more time since it'd go into mai
 So I will be splitting the time between paid work and the job with Aman.
 
 Also this project will have real purpose and substance behind it so that will raise my spirits.
+
+11:10am. I think I just need to accept simple facts.
+
+I should only be swing trading long in bull markets.
+
+In other words, I should only be trading when the conditions are right.
+
+So...why shouldn't the same apply to AI research?
+
+It's just so very difficult for me to do anything now. I can wait a couple of years for the conditions to change before I try the pursuit again.
+
+I can wait for a stock to breakout from a range before buying.
+
+Why shouldn't I do the same when it comes to getting AI insights.
+
+If it weren't 2025, but 1995 I wouldn't even be able to do what I am doing now.
+
+In the future it will be much easier.
+
+Can't I just believe in the future?

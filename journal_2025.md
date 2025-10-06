@@ -10686,3 +10686,23 @@ If it weren't 2025, but 1995 I wouldn't even be able to do what I am doing now.
 In the future it will be much easier.
 
 Can't I just believe in the future?
+
+1pm. I've been thinking about the aspects of the CFR algorithm in the sampling regime.
+
+I think I don't need to multiply the expected value estimates by any kind of probability. Like I did in the sketch, I think it should be fine to just plop the update as it is.
+
+And since the average policy doesn't have any multiplication by self probabilities, it probably isn't necessary either.
+
+Years and years later, I still don't get why enumerative CFR has that.
+
+Let me think and read Crim's manga a bit more.
+
+I guess I am just not up for video games these days. Games are something I can only do when I am secure in the future, but right now I am filled with insecurity. So the lighter forms of entertainment which allow my thoughts to wander seem to sit better.
+
+1:05pm. It is a good sign that I am thinking about the CFR algorithm and the needed implementation.
+
+I've been thinking about subgame solving and I am going to need rejection sampling to make that work. It has a recursive structure, and I am going to have to fold the potential private states through the program.
+
+...Wait, but if I do it like that would I even need the usual sampling way of doing it? I need to think about it more. It's hard to reason about probabilities. I have to do it by instinct and that can lead to errors. I'll need to make sure everything is tested properly.
+
+I don't need to be original. I just have to do it right.

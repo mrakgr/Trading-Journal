@@ -10980,3 +10980,33 @@ I can do better now.
 ![](images/image-822.png)
 
 I need to sell my soul to the programming devil. And then punch it in the face.
+
+5:20pm. Somebody said that Nia Liston's adaptation is elder god tier and they are right. The author knows what I like. I am almost tempted to buy a subscription to MangaUp so I could read ahead, but I have no interest in any other series on the site so it's a waste of time.
+
+At any rate, I've been thinking about JSON serialization in C++.
+
+That is what I am going to start things off.
+
+But one thing that popped to mind is whether Spiral is allocating the recursive union types correctly on the heap.
+
+Right I think I might have messed up and the compiler is allocating the size of the entire union type, which might max out at the size of the largest element.
+
+I think I should've implemented it as classes that inherit from a base class with a tag instead of having a single class that holds an union. Why did I do it like I did?
+
+I can't recall this at all. I guess that's something to work on in the codegen, but nevermind that for now. I am not going to redesign the codegen to care of this minor thing.
+
+5:25pm. I don't want to start programming right now. Let me watch the interview by Schwager. I said I wouldn't, but maybe I hold the same feelings towards traders that a sports fan does to athletes.
+
+Just this once and then I'll be done with it. I'll try to avoid consuming any more trading related content.
+
+Tomorrow, maybe I'll look into how strings are supposed to be built.
+
+I am thinking about it. And I do hold feelings of wanting to resume the project even if it isn't right now.
+
+Once I put my ego on the line, and get my taste to work and take risks again, I will definitely resume.
+
+Generally, you put the ego on the line and the other things come along.
+
+It's important not to force it otherwise you can get sick from work.
+
+The purpose of work should be to escape the cage. Work shouldn't be the cage itself.

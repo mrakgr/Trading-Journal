@@ -10901,3 +10901,51 @@ Sure, I might not have been interested in this before, but I am a different pers
 I have a chip on my shoulder and want to wipe the feel of failure clinging to me. I should consider that even though I understand trading at some level, maybe I am not suited for it?
 
 1:55pm. In terms of getting rich, doing it by building a business worked for a lot more people than stock trading did.
+
+2:50pm. Done with exercises and chores, let me resume.
+
+Let me catch up with Nia Liston and then I will watch that interview. Damn it.
+
+Yeah, if somebody came up to me and said to me that I am not suited to trading I am not sure how I'd respond.
+
+To be sure, all the programming skills I've cultivated aren't necessarily the best fit for it.
+
+The deep, intricate planning I am capable of aren't the best fit for the market. The market values simplicity rather than depth and understanding.
+
+Maybe that is why I failed to begin with in 2007 - 2014. The urge to find a silver bullet might have come from something deeper than a small account. Rather than resolving to behave simplistically and cultivate a particular style, I should find a better place for my skills.
+
+The poker bot is one idea. It's a pretty good idea since it is right at the intersection of ML and probabilistic programming. And every single bet the bot will be making will have a positive EV. So over a million hands it will just be a smootly sloping upwards trendline.
+
+Right now I am torn between scalping and various other styles, but how about I forget that and aim to restart trading once I am above 10m? That way I'll be able to get started right away with swing trading. No need to daytrade. If the poker bot works, I will be able to hit that level eventually.
+
+This 100k that I have is ultimately chump change. I should be able to do much better than it.
+
+3pm. There is nothing wrong with sure money. There is nothing wrong with big money.
+
+Maybe I'm just not interested in making trades? Marsten Parker said as much about himself and I completely agreed with him. I am like that. At some level I consider trading beneath me.
+
+![THEON](images/image-820.png)
+
+Haha, the 1 day low system would have worked great on this.
+
+![THEON](images/image-821.png)
+
+The weekly too, but you have to be careful how you trade this stock. Selling when it's down on Friday works, but this stock has nasty wicks. It's not the kind of stock where you can drag the stop along the weekly lows. Daily reversals work damn great. So did the recent breakout after the 2 month long selloff.
+
+You have to anticipate how a particular system would work on a particular stock.
+
+3:10pm. The euro stocks had a selloff and different stocks rebounded at different times. That is a source of edge. I should recognize that instead literally assuming that there are leaders.
+
+Yeah, enough. I won't look at this shit anymore.
+
+Let me read manga.
+
+I'll leave trading off the table until either market crashed and it gives me an easy buying opportunity that I could handle by averaging up every 2 weeks or either I hit 10m in net worth.
+
+There is no reason why I couldn't trade with 1m or 5m or 50k, but 10m just gives me a concrete line in the sand.
+
+Simply put, I have better things to do that to read charts and bet on the markets.
+
+Programming might be lame in the current timeline, but it's still the nearest link to transcendence.
+
+If I died tomorrow with my dreams unfulfilled, it wouldn't mean that my pursuit of the Singularity was wrong. It would only mean that my luck wasn't strong enough to get me to the end of the tutorial stage.

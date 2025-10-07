@@ -11010,3 +11010,25 @@ Generally, you put the ego on the line and the other things come along.
 It's important not to force it otherwise you can get sick from work.
 
 The purpose of work should be to escape the cage. Work shouldn't be the cage itself.
+
+5:45pm. https://youtu.be/cG5f6QT7NB8?t=986
+
+He is talking about how Qullamaggie was 100m at his peak and suffered a big drawdown. I had no idea this happened. I wonder how it unfolded?
+
+Also there will be an interview with anonymous trader who is a musician who went from 50k to 500m. Crazy.
+
+https://youtu.be/cG5f6QT7NB8?t=2402
+
+The pattern he is talking about is what Tim Sykes was teaching over a decade ago. I could never find good borrows on IBKR. I should have looked closer.
+
+Fuck, if I had a job like Qullamaggie, maybe things would have been different, but I live in a rural village in the middle of nowhere. There are no jobs here, so becoming a programmer in 2015 was also a way of compensating for that.
+
+Trading was simply out of the question. I had no stake.
+
+I did try playing poker long ago, but I hated it and stopped after a few days each of my attempts. It destroyed me mentally to try and make money and have my opponents fighting back.
+
+7:45pm. Jack mentioned Toby Crabel is a very good money manager.
+
+Never knew anything about him till now.
+
+Ok, I am done for the day. Let me go back to doing things unrelated to trading.

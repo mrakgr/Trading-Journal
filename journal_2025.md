@@ -11032,3 +11032,162 @@ I did try playing poker long ago, but I hated it and stopped after a few days ea
 Never knew anything about him till now.
 
 Ok, I am done for the day. Let me go back to doing things unrelated to trading.
+
+9:20pm. ![EGL](images/image-823.png)
+
+I am looking at 1y leaders. This one has amazing trends.
+
+![EGL](images/image-824.png)
+
+Take a look at how the morning of the second day looked for this. I could have bought in the first 10mins, put a stop at the low and prospered.
+
+But buying either at the close of the first day or the second is very scary. This is the second day momentum trade.
+
+When it comes to crypto, I think I should consider the trading date to be wherever most of the traders are. Which I am guessing at the US hours. I bet a lot of lazy people would come after work and just buy.
+
+I need to put attention to something. Ignore the last bar and focus on this in the middle.
+
+Imagine I buy at the close with a time based stop. Wouldn't work well, and I'd lose a shitload of money. But intraday...
+
+![EGL](images/image-825.png)
+
+I could just come at the open with a tight stop. And in this case I would have even bought since it would be below the 1h range of the previous day.
+
+9:30am. ![](images/image-826.png)
+
+I am just falling into the old pattern again. Forget this.
+
+9:55am. Enough for today. I have to admit, I didn't appreciate what good setups these long selloffs were.
+
+Some of these european stocks are very well behaved. They aren't constantly spiking below previous day lows or weekly lows.
+
+10pm. ![](images/image-827.png)
+
+I am embarassed to say that I never looked at the TradingView crypto screeners.
+
+![FARTCOIN](images/image-828.png)
+
+So FARTCOIN was an actual coin? I thought it was satire when I heard about it elsewhere. Why don't these charts have volume?
+
+![](images/image-829.png)
+
+This might be a swap for my old company. The name for it is misspelled.
+
+10:20pm. https://youtu.be/v3abanT7d3M
+I Tried Crypto Trading With Insider News… [INSANE PROFITS]
+
+Let me watch this.
+
+Maybe I am thinking about this all wrong. I've been thinking about chart based approaches like with stocks, but in crypto the entire ledger is open. I could potentially keep track of who is buying and when. Like, I could do good social analysis and trade with the insiders. If they turn out to be lazy and don't hide their tracks well, that could lead to massive profits. It would also be inline with my computerized approach.
+
+That would take some effort, but it seems a lot more sane than chart patterns in the crypto arena.
+
+Let me actually watch that video.
+
+https://youtu.be/v3abanT7d3M?t=389
+
+Lol, I am actually surprised it's possible to short.
+
+At any rate, yeah, this is a very interesting platform. Makes more sense to trade the news on crypto than chart patterns given how distributed the volume is across time.
+
+https://youtu.be/N9Y1pZTPLwA
+Is Crypto Just Insider Trading? Sure, So Be One
+
+Let me watch this.
+
+...Not quite what I meant.
+
+What I meant was to figure out which wallets below to good traders and aping them.
+
+https://youtu.be/E_QphsiSE7I
+Polymarket Insider Trading Tool!
+
+Let me watch this and then I'll get dinner. It's great not having a job. I can go to bed whenever I want. It feels like I am more free after 9pm.
+
+Not quite what I had in mind, but it's a good idea.
+
+https://youtu.be/xNNljScalK8
+Easily Identify Large Funds Wallets on Ethereum using On-Chain Analysis
+
+How about this?
+
+https://youtu.be/tvW9VKJ58Lg
+A Guide to On-Chain Analysis and How It Works
+
+Not really.
+
+![CAKEUSD](images/image-830.png)
+
+If it's possible to short these tokens, then Tim Sykes' strat could work on crypto.
+
+But the kind of rise we see here is barely even B tier. No it's C. The gradual rise make the uptrend strong.
+
+![](images/image-831.png)
+
+This one is better, I'd put it at B tier.
+
+![](images/image-832.png)
+
+I do like the rollover in the middle. This would have been a good trend trade for 3h.
+
+![](images/image-833.png)
+
+This is a perpetual contract and it has quite a bit of volume. So it'd be a short. There is a possibility it might pump further, but I wouldn't hold this.
+
+I really do like Sykes strategy because it's very easy to spot the setups. But I've learned from Lance that the opposite works as well.
+
+![](images/image-834.png)
+
+Check out this flush out here.
+
+![](images/image-835.png)
+
+Oh now this...
+
+![](images/image-836.png)
+
+Check out these flush outs.
+
+![](images/image-837.png)
+![](images/image-838.png)
+
+Nice. You could make a strategy shorting these when the upside momentum turns down.
+
+![](images/image-839.png)
+
+Looks very smooth on the 1m chart.
+
+![](images/image-840.png)
+
+Holy crap.
+
+https://youtu.be/KuVLaQfvXYE?t=11
+Can ChainOpera AI Gain +1000% 🤩 COAI Crypto Token Analysis
+
+> Is it just a pump and dump orchestrated by the whales?
+
+Is this a rhethorical question? Of course it is.
+
+https://youtu.be/KuVLaQfvXYE?t=61
+> People that were involved in related projects did dump the token massively afterwards.
+
+Not surprised to hear that.
+
+https://youtu.be/KuVLaQfvXYE?t=229
+
+This is actually a very good analysis video. These hyperbolic gainers I'd definitely approach from the short side though. Maybe I could play the breakouts, but it'd be rough.
+
+https://youtu.be/KuVLaQfvXYE?t=587
+> It's really not that complicated to make money with falling altcoins when most alts perform like this.
+
+![](images/image-841.png)
+
+11:45am. Ok, so that opens some more possibilities for me. I didn't know there were perpetual futures on pretty much every piece of crap token in existence.
+
+That opens the possibility of a parabolic short strategy on the shittiest market in existence.
+
+As I said, my biggest problem in previous decade was simply not being able to find shorts once I found out about Tim Sykes' strategy. To think the crypto bros would invent perp futures.
+
+11:50am. Let me go get that dinner, I am way overdue on it.
+
+This is a huge find. The Sykes parabolic short strategy would work on crypto.

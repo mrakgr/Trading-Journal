@@ -10804,3 +10804,17 @@ I can bring the poker project to fruition. I just need to take on the risk of do
 Creating a large software project isn't that different from trading. There is effort, time and financial risk involved either way. I just have to decide what is the better trade.
 
 Everything is trading. I should not put buying and selling of financial instruments on a pedestal.
+
+9:20am. Why do I even want to get back into trading? That would be in order to have a rematch with 2007 - 2014.
+
+But that is wrong.
+
+I won't beat my old self just by trading a different system.
+
+I'll beat my old self by surpassing trading entirely.
+
+Do you think that making a project that generates millions, tens of millions or even 100s of millions in value is being less of a trader than somebody who flips stocks for profits even for those same amounts?
+
+In fact, it's more likely I'll be able to make 100m with a software project than via trading.
+
+I can let my desire to trade stocks hinder me, or I can learn and let it elevate my programming game to a completely new level.

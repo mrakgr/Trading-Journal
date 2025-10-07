@@ -10818,3 +10818,7 @@ Do you think that making a project that generates millions, tens of millions or 
 In fact, it's more likely I'll be able to make 100m with a software project than via trading.
 
 I can let my desire to trade stocks hinder me, or I can learn and let it elevate my programming game to a completely new level.
+
+9:30am. Even if I can train my trading game to the tune where I am making 100% per year and more, why let the market decide my success and failure? I can just go and take what I want anyway. How many projects can turn 50$ into 5m in a few years like poker botting can?
+
+And since that will be leveling up my probabilistic programming skills, it will well position me to take advantage of any future developments in ML.

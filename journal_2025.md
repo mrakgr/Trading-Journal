@@ -10860,3 +10860,28 @@ I'd honestly be hyped to be a CTO on a venture that could be worth tens and 100s
 But if it doesn't pan out I'll just focus on my own projects.
 
 I am starting to feel it just a bit. I'll get bored of leisure soon enough. And to be fair, I am not even occupied by leisure, I am just trying to resolve my emotions most of the time.
+
+11:50am. https://youtu.be/S4PgNaVcFD0
+The TRUTH About AI I Learned from 12 Years at Amazon
+
+I am 4m in and this is pretty interesting. He talks about fragmentation and organizational amnesia.
+
+12:30pm. https://youtu.be/cG5f6QT7NB8
+$5k to $100 Million - The Untold Stories of Market Wizards
+
+It seems Jack Schwager is working on a new book and Qullamaggie is going to be in it. That's just based on the preview.
+
+12:45pm. https://youtu.be/cG5f6QT7NB8?t=2368
+> A number of traders started by shorting small cap stocks...
+
+Aghhhhhhhhhh...that should have been meeee!
+
+Tim Sykes' influence is profound.
+
+He is talking about how a lot of the traders in the book started.
+
+I just skipped ahead, but I think I am going to close this interview, do the execises and get back to reading. I just remembered that I need to catch up to Nia Liston.
+
+And then if I feel so badly about it, I should work on my projects.
+
+Rather than be green with envy, I should prove that I am not inferior by dedicating myself and taking the risk that I need to take.

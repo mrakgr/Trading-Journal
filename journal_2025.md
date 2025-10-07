@@ -10949,3 +10949,30 @@ Simply put, I have better things to do that to read charts and bet on the market
 Programming might be lame in the current timeline, but it's still the nearest link to transcendence.
 
 If I died tomorrow with my dreams unfulfilled, it wouldn't mean that my pursuit of the Singularity was wrong. It would only mean that my luck wasn't strong enough to get me to the end of the tutorial stage.
+
+3:25pm. Yeah, I might have failed in 2007 - 2014, but after that I worked very hard to cultivate the skills that I have now. I got rid of all the dumb restrictions and really did my best.
+
+I worked hard and I can be proud of that. I am not the lazy person I sought to be all that time ago.
+
+Yeah, I wanted to beat the market in a lazy manner to satisfy my ego. I put all kinds of restrictions on myself along the way.
+
+So when I gave up on trading and began programming in 2015, I got rid of those restrictions.
+
+3:30pm.
+
+* I want to work hard.
+* I am willing to take risks.
+
+Once I can say those two things from the bottom of my heart, that is when my programming journey will resume.
+
+I might be working hard in reading trading books for the past month, but does that even close work that I've put into my own programming?
+
+RIght now I am 38 years old, and I've been programming for a decade.
+
+If I did it for another decade just how far could I reach?
+
+Instead of wondering how good of a trader I could become, shouldn't I be seeking the upper limit of programming skill?
+
+Who cares about the money. If the average trader could make millions per year programming, you can bet he would sure as hell do it. So why am I envious of them?
+
+I can do better now.

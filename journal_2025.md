@@ -10788,3 +10788,19 @@ I'd want to momentum trade, but I'd want to do so according to a theme, and you 
 Forget this for now. Maybe I could find scalp trade setups I could scan for and backtest? Lance mentioned it would be possible.
 
 I see no point in backtesting weekly strategies.
+
+10/7/20255
+
+9:15am. I am up.
+
+After some thought I think my main problem is that I don't have any risk appetite right now. Much like I cannot trade stocks, I cannot take on the risk of doing my own project.
+
+And rather, I think now I am actually taking trading less lightly now and that is good.
+
+Forget trading. The principle should be that I take everything I do seriously. If I am going to trade, I should focus on that. If I am going to program I should focus on that.
+
+I can bring the poker project to fruition. I just need to take on the risk of doing so.
+
+Creating a large software project isn't that different from trading. There is effort, time and financial risk involved either way. I just have to decide what is the better trade.
+
+Everything is trading. I should not put buying and selling of financial instruments on a pedestal.

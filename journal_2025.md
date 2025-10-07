@@ -10885,3 +10885,17 @@ I just skipped ahead, but I think I am going to close this interview, do the exe
 And then if I feel so badly about it, I should work on my projects.
 
 Rather than be green with envy, I should prove that I am not inferior by dedicating myself and taking the risk that I need to take.
+
+1:45pm. I think maybe my most radical trade of all is the Tao Ceti token position which is currently down 90% and which I am not selling.
+
+It's much different from all my trades up to now.
+
+A completely new way of looking at trading would instead of trying to trade the market, I should just make the stock go up. If I become a co-founder at the startup I'd very much like to wipe the failure that way.
+
+1:50pm. Forget JSON serialization. I just don't feel like it. I won't even think about it until I meet with the person doing the raise who is also named the same as me. I'll call him Marko2 from here on out.
+
+You know, but instead of watching all of these trading videos, maybe I should be watching videos on how to be an entrepreneur?
+
+Sure, I might not have been interested in this before, but I am a different person now I was 10 years ago.
+
+I have a chip on my shoulder and want to wipe the feel of failure clinging to me. I should consider that even though I understand trading at some level, maybe I am not suited for it?

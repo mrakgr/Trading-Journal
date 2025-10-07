@@ -10899,3 +10899,5 @@ You know, but instead of watching all of these trading videos, maybe I should be
 Sure, I might not have been interested in this before, but I am a different person now I was 10 years ago.
 
 I have a chip on my shoulder and want to wipe the feel of failure clinging to me. I should consider that even though I understand trading at some level, maybe I am not suited for it?
+
+1:55pm. In terms of getting rich, doing it by building a business worked for a lot more people than stock trading did.

@@ -10842,3 +10842,21 @@ If I cannot put in the necessary effort to be profitable in the market, I should
 Just how effective will I be at my future work if half of myself is drawn to the market and thinks that I could be long some stock and making money the easy way instead of writing code?
 
 Didn't really work out with euro defense stocks did it?
+
+10:55am. I guess I'll be chilling today as well. That's for the best. I am just reading novels, not even playing games and thinking.
+
+As for finishing that video, I really should make a random player and dump the messages into JSON. That could take care of it. I meant to implement enumerative CFR training, but I don't feel like it.
+
+Maybe I'll manage to gather some will later in the day.
+
+11:30am. Yeah, you know what I don't feel like messing with the game or CFR at this time. How about I just deal with JSON serialization?
+
+That is one simple task that needs to be done either way. Then I'll be able to close the video and see what happens next week.
+
+Will I be a CTO in the upcoming startup if the money gets raised for it? Will I get hired as a contractor at an hourly rate instead? There are too many unknown variables.
+
+I'd honestly be hyped to be a CTO on a venture that could be worth tens and 100s of millions.
+
+But if it doesn't pan out I'll just focus on my own projects.
+
+I am starting to feel it just a bit. I'll get bored of leisure soon enough. And to be fair, I am not even occupied by leisure, I am just trying to resolve my emotions most of the time.

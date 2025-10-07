@@ -10822,3 +10822,9 @@ I can let my desire to trade stocks hinder me, or I can learn and let it elevate
 9:30am. Even if I can train my trading game to the tune where I am making 100% per year and more, why let the market decide my success and failure? I can just go and take what I want anyway. How many projects can turn 50$ into 5m in a few years like poker botting can?
 
 And since that will be leveling up my probabilistic programming skills, it will well position me to take advantage of any future developments in ML.
+
+9:35am. The same line of thought applies to the oil price prediction project. If me and Thomas can become the co-founders of that company and get a large equity stake, and draw a salary, and the company does well, we could make millions or even tens of millions and more. So the project would be worth doing. If not, if we're just going to be paid an hourly rate as contractors, then that is fine. We can do it for a bit and then get back to what really matters.
+
+If I can rich via that route, who cares about poker or trading?
+
+What matters is that I have spirit and take on risk again.

@@ -10828,3 +10828,17 @@ And since that will be leveling up my probabilistic programming skills, it will 
 If I can rich via that route, who cares about poker or trading?
 
 What matters is that I have spirit and take on risk again.
+
+10:05am. During the night I've been thinking and yes, I should not return to the market unless I am willing to go through a 30% drawdown. It's extreme, but it illustrates the picture. Right now I wouldn't even be able to stand a 1% drawdown.
+
+10:10am. I shouldn't have dived into the market this year even though it gave ma an extra 4.5k in the end. I had the Tao Ceti job and that was enough risk on its own. I got the sense that the montly system could give me huge drawdowns when I was looking at the stock charts by William O'Neil. It was really grim how the RSA stock broke out just before the crash happened. A montly system would have given me a 90% drawdown, but a weekly system would have gotten stopped out long before.
+
+So I need to find the exceptional momentum breakouts that would work on the weeklies.
+
+Before I can do that, I need to spend the necessary time reviewing charts and working on my opening game, which means looking at gaps earlier in the day.
+
+If I cannot put in the necessary effort to be profitable in the market, I shouldn't be trading. Even if I break even that would just be friterring away my psychological capital and time that could be better invested elsewhere.
+
+Just how effective will I be at my future work if half of myself is drawn to the market and thinks that I could be long some stock and making money the easy way instead of writing code?
+
+Didn't really work out with euro defense stocks did it?

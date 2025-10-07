@@ -10976,3 +10976,7 @@ Instead of wondering how good of a trader I could become, shouldn't I be seeking
 Who cares about the money. If the average trader could make millions per year programming, you can bet he would sure as hell do it. So why am I envious of them?
 
 I can do better now.
+
+![](images/image-822.png)
+
+I need to sell my soul to the programming devil. And then punch it in the face.

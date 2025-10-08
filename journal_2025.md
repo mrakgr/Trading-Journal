@@ -11223,3 +11223,9 @@ I need to work hard at it.
 For today, I can at least make some progress on serializing Spiral types into JSON and back. I am a programmer, so I should act like one.
 
 I give the poker bot project a 80-90% chance of success.
+
+10/8/2025
+
+1:30pm. ![](images/image-842.png)
+
+The MC of Apocalypse Loner is fucking savage. I didn't expect she'd be killing the civilians she ran across. To be honest, I kind of like it. It's fresh.

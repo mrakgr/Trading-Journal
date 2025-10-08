@@ -11191,3 +11191,35 @@ As I said, my biggest problem in previous decade was simply not being able to fi
 11:50am. Let me go get that dinner, I am way overdue on it.
 
 This is a huge find. The Sykes parabolic short strategy would work on crypto.
+
+10/8/2025
+
+10:25am. It's not an easy strategy by any means though. Crypto being 24/7 just makes it harder.
+
+Yawn, I didn't get enough sleep last night. I think I want to do some programming today. I am going to do JSON serialization of C++ types in Spiral.
+
+10:30am. I do not know how useful it will be, but at least I did get the chance to fix my playbook in the last 5 weeks.
+
+In the old decade it was breakouts at the wrong time, and parabolic shorts that I couldn't find borrows for. I didn't even have enough money to properly open a margin account in those times. I had to lie to IBKR about my net worth.
+
+The Tao Ceti and the upcoming job caught me in just the right time. I think all the Youtubing that I did for a year and a half paid off in the end.
+
+But I still need to complete the poker project. It's my best bet.
+
+I think it's been enough resting and I should focus on completing it.
+
+One change I will make is to leave the GPU programming parts to the very end. I am going to implement HD CFR on the host and also try it out on HU NL Holdem. I want to make sure I have subgame solving right before I try anything else.
+
+I want to do absolutely everything right this time around even if it means futzing around with C++ on the host.
+
+10:35am. Once it is done, I will begin my business.
+
+I'll ignore the fact that I might need to resume paid work next week.
+
+10:40am. Let me just play around. Hurrying the money making will not make it happen faster. I can spend a year just on this project. If it doesn't work so be it. I'll take a break and then do something else, perhaps trading.
+
+I need to work hard at it.
+
+For today, I can at least make some progress on serializing Spiral types into JSON and back. I am a programmer, so I should act like one.
+
+I give the poker bot project a 80-90% chance of success.

@@ -11296,3 +11296,46 @@ Let's use a bit of logic. Suppose that crypto shitcoin > small cap stocks > larg
 Then it should hold that OTC stocks > small caps. But that isn't the case.
 
 I have to be reasonable about this. The daily patterns are the same as for penny stocks. That tells me all that I need to know about the alpha. It's on the short side and not on buying them long.
+
+7:30pm. https://youtu.be/9KgTFrzMM-Y?t=732
+> On balance it is going to be a great innovation for all of finance.
+
+Yeah, I think an understanding of that perps do is a definite add to my toolkit. He says that it's going to be adopted into trad-fi and yeah, that could be interesting.
+
+https://youtu.be/9KgTFrzMM-Y?t=759
+
+So these instruments aren't available to US investors. Very interesting info. That means combined with the fast that most of volume is in perps the moves will happen in the Asian and EU sessions.
+
+7:35pm. ![QBTS](images/image-848.png)
+
+Entering within the first 10 mins worked fantastic on QBTS.
+
+![QBTS](images/image-849.png)
+![QBTS](images/image-850.png)
+
+That's enough of that.
+
+7:40pm. Yeah, I am going to ignore crypto.
+
+I should follow my heart and go where the best trends are. In stocks. It's always stocks.
+
+![](images/image-851.png)
+
+Lance makes a really good point about the panics being shorter now. In fact he is going to be the greatest finance Youtuber at this rate.
+
+9:50pm. I want to post the chart of INT just once. I've been keeping an eye on it, but never got around to talking about it.
+
+![INT](images/image-852.png)
+![INT](images/image-853.png)
+
+This decline was so insane. If I'd used the montly system, I'd have gotten obliterated on this stock.
+
+I shouldn't go beyond the weekly one.
+
+![INT](images/image-854.png)
+
+The 13 day VWMA would have been too fast and gotten me out too early more that a few times. I find the moving average systems hard to deal with.
+
+The only thing a weekly system I should mess with is whether to sell only on Friday closes or to trail the stop more tightly.
+
+9:55am. I did a dangerous thing with the monthly system. I should be happy that I got away scot free.

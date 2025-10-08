@@ -11229,3 +11229,70 @@ I give the poker bot project a 80-90% chance of success.
 1:30pm. ![](images/image-842.png)
 
 The MC of Apocalypse Loner is fucking savage. I didn't expect she'd be killing the civilians she ran across. To be honest, I kind of like it. It's fresh.
+
+6:20pm. https://youtu.be/q-jwEXbNSBs
+10 Ways Markets Have Changed in My 15 Years of Trading
+
+![](images/image-843.png)
+
+Yeah, if I am going to be catching any of these big moves in crypto, I need to look at volume.
+
+![](images/image-844.png)
+
+It wasn't an isolated thing. I am sorting the screener by volume and am finding these kinds of rises.
+
+Ok, nevermind that. Forget it.
+
+You really need to be a sniper to find good day trades. It's pretty hard.
+
+Just looking at charts won't be enough. I'd need to quantify it and created my own screeners, instead of rely on what is on TradingView.
+
+Ok, forget about that. I am still far further along in my understanding of swing and position trading. Crypto isn't that great for that style outside of BTC.
+
+I just didn't know much about it and I am impressed by perpetual futures. It'd be great if something like that had existed on hard to short stocks in the old decade of 2007 - 2014.
+
+6:35pm. I am starting to question whether there is even a point to trading. Why try to hit millions when you could just start a company and sell it to dumb money crypto investors?
+
+It'd be much easier to improve your presentation that your trading skills.
+
+6:40pm. Yeah, I don't like crypto. If it's that high alpha, you'd see a lot of clean trends on the dailies and the weeklies, but generally the crypto patterns are the same kind of nonsensical volatility you see in penny stocks.
+
+Maybe the `Unbiased Trading` guy found alpha in high volume breakouts, who knows? He said there is alpha, but he didn't say in what exactly.
+
+Jack Schwager said in his interview that one of the traders got very high returns trading just agricultural futures.
+
+So maybe instead of carring so much about the markets, it's really more about the intersection of the style and the instruments you're trading.
+
+6:45pm. If you really wanted high alpha in penny stocks, then shorting them long term is definitely a way towards that. And yesterday the guy from the COAI video was doing exactly that. Though that isn't necessarily the 100% per year kind of alpha. I'd rather not have to deal with short squeezes.
+
+But let's say that the old company wanted me to invest and I was restricted to crypto trading, I'd give that kind of strategy a try for them. It'd certainly be far better than donk betting the entire treasury on Bitcoin.
+
+https://youtu.be/5vW7hX6k5ho
+What Are Crypto Derivatives? (Perpetual, Futures Contract Explained)
+
+https://youtu.be/9KgTFrzMM-Y
+What Are Perpetual Futures Contracts?
+
+How exactly do perpetuals work? I am interested in how exactly is it possible to short token without having to borrow them? I don't understand the funding rate mechanism.
+
+6:55pm. In the past few days I've taken a bit of time review intraday charts and they certainly don't feel easier than regular stocks.
+
+That first video is to simplistic.
+
+![perpetuals](images/image-845.png)
+![perpetuals](images/image-846.png)
+![perpetuals](images/image-847.png)
+
+The second video said something that perked my ears. Compared to regular futures, it seems that with perpetuals you cannot lose more than you account balance!
+
+Oh, crap. That makes the crypto exchanges insanely risky. If BTC has a fast crash, they'll all go bust. Institutions are right to mistrust them!
+
+I think I am just going to stick to stocks and instruments that don't cost me anything to own.
+
+7:20pm. Yeah, I don't think the alpha is in crypto tokens.
+
+Let's use a bit of logic. Suppose that crypto shitcoin > small cap stocks > large cap stocks.
+
+Then it should hold that OTC stocks > small caps. But that isn't the case.
+
+I have to be reasonable about this. The daily patterns are the same as for penny stocks. That tells me all that I need to know about the alpha. It's on the short side and not on buying them long.

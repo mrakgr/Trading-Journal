@@ -11196,7 +11196,7 @@ This is a huge find. The Sykes parabolic short strategy would work on crypto.
 
 10:25am. It's not an easy strategy by any means though. Crypto being 24/7 just makes it harder.
 
-Yawn, I didn't get enough sleep last night. I think I want to do some programming today. I am going to do JSON serialization of C++ types in Spiral.
+Yawn, I didn't get enough sleep last night due to staying up late. I think I want to do some programming today. I am going to do JSON serialization of C++ types in Spiral.
 
 10:30am. I do not know how useful it will be, but at least I did get the chance to fix my playbook in the last 5 weeks.
 

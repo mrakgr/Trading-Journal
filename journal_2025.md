@@ -11576,3 +11576,16 @@ I am looking forward to programming tomorrow. I'll finish the serializer at leas
 7:30pm. https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it
 
 I'll show this to Logris if we ever talk about Python again. He didn't believe me when I told him how slow Python is.
+
+8:30pm. https://www.youtube.com/shorts/5lmPQL4DcsA
+The Trend Isn’t Always Your Friend
+
+This short is fascinating.
+
+![](images/image-861.png)
+
+Yeah, I've been missing out on a lot of things.
+
+![](images/image-862.png)
+
+Let me find another novel to read. Or maybe I'll catch up to Murim's Crazy Bitch.

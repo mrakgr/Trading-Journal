@@ -11526,7 +11526,7 @@ TLDR: insider trading.
 
 Oh, it's for data that's live. He says that delayed data is cheaper.
 
-5:55pm. The idea to build these insider trading bots for prediction markets is interesting. I think I posted some vids on that yesterday.
+5:55pm. The idea to build these insider trading bots for prediction markets is interesting. I think I posted some vids on that yesterday, but didn't take it seriously.
 
 This is actually a 10/10 video. He pretty much spells it out for me how to get high alpha. Something to do if both the job and the trade bot don't pan out.
 

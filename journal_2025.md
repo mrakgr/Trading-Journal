@@ -11547,3 +11547,28 @@ This is wonderful. It's so different from the chart reading that I used to do. I
 Using Liquidity to Gauge Momentum
 
 Interesting short.
+
+7:10pm. Wow, looking at these examples makes me realize I really did waste my time reading charts.
+
+Andrea Cimitan talked about order flow trading and even showed the heatmaps, but never name dropped the platform.
+
+Learning to use this would be so much easier than reading the tape.
+
+https://youtu.be/TaY1wePhJ5Q
+Tape Reading Strategies: How to Add to Your Winning Trades
+
+![](images/image-860.png)
+
+There is so much useless info on this tape. Aggregating that shit out would be the first thing I'd want to do.
+
+7:20pm. Damn I am tired. I'll leave this video for tomorrow.
+
+It isn't a bad thing that I am learning bits and pieces here and there. It's very interesting that they are entering trades as scalps and turning those into move2move trades.
+
+I like that. It's similar to how Qullamaggie turns ORBs into swing trades into position trades.
+
+7:25pm. It adds some spice to my life. I think I like learning about trading more than I do trading itself.
+
+Compared to in the old decade I am much more aggressive in leaning on technology and seeking out learning resources. That all a part of building my edge.
+
+I am looking forward to programming tomorrow. I'll finish the serializer at least, and maybe even the deserializer.

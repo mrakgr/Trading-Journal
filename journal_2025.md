@@ -11596,3 +11596,16 @@ Should You Become a Quant? Ex-Jane Street Trader Answers
 Interesting story about enjoying reading 70 page financial prospectuses. Yeah, I definitely don't enjoy that.
 
 I like learning new tools personally.
+
+https://youtu.be/vcRGc7iPyfA
+Charlie Munger: Why The First $100,000 Is So Hard And The Next Is Easy?
+
+> They think wealth comes from brilliance. It doesn't. It comes from surviving long enough for compounding to do its work.
+
+This is a very good talk stitched together from Munger's old talks.
+
+> If you want to guaranee your own misery, start comparing yourself to other people.
+
+9:50am. No, this is probably AI gen'd, but I'll be damned if Munger didn't say these things.
+
+9:55am. Ok, 12m is enough. I don't want to spent 37m on this. Maybe I'll listen to this tomorrow.

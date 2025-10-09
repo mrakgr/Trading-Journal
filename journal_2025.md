@@ -11350,3 +11350,151 @@ I loled at Buffet's Charlie Munger sex change joke.
 I played 1k hands of online poker and built a web app with Cursor AI (rchase.com)
 
 Some interesting convo here on poker botting.
+
+5pm. I asked a few question of ChatGPT. I had a pretty good programming session today so I am just chilling.
+
+///
+
+> What would be good ways of visualizing order flow?
+
+Excellent question — visualizing **order flow** (the real-time interaction of market orders, limit orders, and liquidity) is crucial for understanding how price forms and reacts to buying/selling pressure.
+
+Let’s go through the **main types of order flow visualizations**, from the most traditional to advanced quantitative ones — and what each helps you *see*.
+
+---
+
+## 🧱 1. Depth of Market (DOM) / Order Book Ladder
+
+**Shows:** Live bids, asks, and executed trades at each price level.
+
+* **Columns:**
+
+  * Bid size at each price (buyers waiting)
+  * Ask size (sellers waiting)
+  * Last traded size and direction
+* **Highlights:** Where liquidity is stacked, where large orders absorb or pull back.
+
+🖼 **Good visualization styles:**
+
+* Vertical price ladder with color-coded volume bars.
+* Heatmaps for liquidity concentration (brighter = thicker liquidity).
+
+📈 **Tools:** Bookmap, Sierra Chart, NinjaTrader, Quantower.
+
+---
+
+## 🌊 2. Order Book Heatmap (Liquidity Heatmap)
+
+**Shows:** Historical evolution of liquidity and trades over time.
+
+* **X-axis:** Time
+* **Y-axis:** Price
+* **Color intensity:** Resting order size (limit liquidity)
+* **Overlay:** Real-time trade dots (bubbles), sized by trade volume and colored by aggressor side (buy/sell).
+
+🧠 **Insight:** How large orders *influence* price — are they real support/resistance or spoofing?
+You can see liquidity shifting *before* a move.
+
+📊 **Tool example:** Bookmap’s signature visualization.
+
+---
+
+## ⚔️ 3. Footprint Chart (Volume Imbalance Chart)
+
+**Shows:** Detailed volume and aggressor info per candle.
+
+* Each price level in the candle displays:
+
+  * Bid volume vs Ask volume (e.g. `120x300`)
+  * Or their difference / delta
+* **Color-coded** to show which side was more aggressive.
+
+🧠 **Insight:** Who’s in control within each bar — buyers or sellers?
+You can see absorption, exhaustion, or trapped traders.
+
+📈 **Popular software:** Sierra Chart, ATAS, NinjaTrader, Exocharts.
+
+---
+
+## ⚖️ 4. Cumulative Delta
+
+**Shows:** Net difference between aggressive buys and sells over time.
+
+* **Positive slope:** More aggressive buying → bullish pressure
+* **Negative slope:** More aggressive selling → bearish pressure
+* Combine with price to see **divergences** (e.g. price up, delta flat → weak rally).
+
+🧩 Often paired with:
+
+* Footprint charts
+* VWAP or volume profiles
+
+---
+
+## 🧩 5. Volume Profile / Market Profile
+
+**Shows:** How much volume traded at each price level (horizontal histogram).
+
+* **Volume Profile:** Total volume per price
+* **Market Profile (TPO):** Time spent at each price (letters per time period)
+
+🧠 **Insight:**
+
+* Value areas (where most trade happens)
+* High-volume nodes (support/resistance)
+* Low-volume nodes (areas price moves quickly through)
+
+---
+
+## 🔁 6. Trade Tape / Time & Sales Stream
+
+**Shows:** Individual prints of executed orders.
+
+* Useful when **correlated with DOM or footprint chart**
+* Lets you “feel” the market tempo — bursts of buying/selling, iceberg detection, etc.
+
+🧠 **Tip:** Filter by size to spot large trades (institutional activity).
+
+---
+
+## 🧮 7. Custom Quantitative Visualizations
+
+If you’re coding your own analytics (Python / JS / Rust etc.), here are creative quantitative views:
+
+* **Cumulative Liquidity Map:** Time–price–volume cube; integrate to get liquidity changes.
+* **Volume Delta Heatmap:** Show imbalance intensity per price/time tile.
+* **Order Flow Histogram:** Count of market buys vs sells per interval.
+* **Liquidity Dynamics Graph:** Animate add/remove events in the limit order book.
+
+Libraries like **Plotly**, **Bokeh**, or **matplotlib** can be used to render these interactively.
+
+---
+
+## ⚙️ Summary Table
+
+| Visualization      | Focus                     | Best For                          | Type                   |
+| ------------------ | ------------------------- | --------------------------------- | ---------------------- |
+| DOM Ladder         | Static liquidity snapshot | Reading immediate depth           | Real-time              |
+| Order Book Heatmap | Liquidity evolution       | Watching hidden orders & spoofing | Historical + real-time |
+| Footprint Chart    | Aggressive volume         | Reading absorption/exhaustion     | Per-bar                |
+| Cumulative Delta   | Net aggressor flow        | Spotting divergence               | Continuous             |
+| Volume Profile     | Volume concentration      | Structural analysis               | Aggregated             |
+| Trade Tape         | Executed trades           | Tempo & confirmation              | Real-time              |
+
+---
+
+Would you like me to show you **an example visualization** (like a simplified order book heatmap or footprint chart) in a plot, so you can see how they look mathematically?
+
+///
+
+I keep watching World Class Edge videos and they are pushing putting your nose to the grindstone.
+
+I also found this:
+
+![](images/image-856.png)
+
+https://bookmap.com/
+
+It's actualy a pretty cheap platform for what it offers. It's especially targetted at crypto.
+
+It might be interesting to play with it.

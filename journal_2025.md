@@ -11542,3 +11542,8 @@ https://youtu.be/3m_Stn4hxCQ?t=2595
 ![](images/image-859.png)
 
 This is wonderful. It's so different from the chart reading that I used to do. It really does give a lot more info.
+
+7:10pm. https://www.youtube.com/shorts/GcLEXbU-pZ8?feature=share
+Using Liquidity to Gauge Momentum
+
+Interesting short.

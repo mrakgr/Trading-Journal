@@ -11502,3 +11502,18 @@ It might be interesting to play with it.
 5:05pm. https://bookmap.com/learning-center/en
 
 They have tutorials here.
+
+https://youtu.be/3m_Stn4hxCQ?t=1316
+
+Pretty interesting.
+
+![](images/image-857.png)
+
+He is talking about this being algo activity. If you're the first guy to build Bookmap you could probably get an edge from that. It makes more sense to buy it now.
+
+5:35pm. Tomorrow, I am going to figure out the serialization of dictionaries and add that to the JSON serializer and then deal with deserialization. Then I'll post the video.
+
+I've been really enjoying the slow pace today and yesterday, but over the weekend I should get a report on how the presentation went and whether the investor interest is there for the upcoming venture.
+
+Thomas really wants this to happen. I want to help him, but I also wouldn't mind a year long vacation either, so I am not stressed about it. I'll do my best if it happens and drop what I am doing here otherwise tough luck.
+

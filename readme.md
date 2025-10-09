@@ -2,6 +2,10 @@
 
 I like how unlike in git commit messages I can also insert images in the markdown. I'll be using this for my journaling needs.
 
+## 10/9/2025
+
+[Bookmap](https://bookmap.com/learning-center/en) has a large number of good tutorials.
+
 ## 9/25/2025
 
 Hopfield Dictionary CFR

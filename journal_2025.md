@@ -11533,3 +11533,12 @@ This is actually a 10/10 video. He pretty much spells it out for me how to get h
 Let me go back to watching the Bookmap video.
 
 This is wonderful. It's so much fun learning new things like this. It's why I wouldn't mind a vacation. In contrast to before, everything that I am learning about now is actionable advice.
+
+6:05pm. ![](images/image-858.png)
+
+This is actually super informative. It's the kind of info I wanted from the WCE guys instead of constant streams of pep talks.
+
+https://youtu.be/3m_Stn4hxCQ?t=2595
+![](images/image-859.png)
+
+This is wonderful. It's so different from the chart reading that I used to do. It really does give a lot more info.

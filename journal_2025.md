@@ -11589,3 +11589,10 @@ Yeah, I've been missing out on a lot of things.
 ![](images/image-862.png)
 
 Let me find another novel to read. Or maybe I'll catch up to Murim's Crazy Bitch.
+
+9:35pm. https://youtu.be/_83v-QPJF-g
+Should You Become a Quant? Ex-Jane Street Trader Answers
+
+Interesting story about enjoying reading 70 page financial prospectuses. Yeah, I definitely don't enjoy that.
+
+I like learning new tools personally.

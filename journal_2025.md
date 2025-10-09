@@ -11517,3 +11517,7 @@ I've been really enjoying the slow pace today and yesterday, but over the weeken
 
 Thomas really wants this to happen. I want to help him, but I also wouldn't mind a year long vacation either, so I am not stressed about it. I'll do my best if it happens and drop what I am doing here otherwise tough luck.
 
+https://youtu.be/VAUaeYw0BQo
+Quant explains how to actually get rich quick
+
+TLDR: insider trading.

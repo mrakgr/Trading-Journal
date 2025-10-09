@@ -11498,3 +11498,7 @@ https://bookmap.com/
 It's actualy a pretty cheap platform for what it offers. It's especially targetted at crypto.
 
 It might be interesting to play with it.
+
+5:05pm. https://bookmap.com/learning-center/en
+
+They have tutorials here.

@@ -11345,3 +11345,8 @@ The only thing a weekly system I should mess with is whether to sell only on Fri
 9:10am. ![](images/image-855.png)
 
 I loled at Buffet's Charlie Munger sex change joke.
+
+12:50pm. https://news.ycombinator.com/item?id=45520154
+I played 1k hands of online poker and built a web app with Cursor AI (rchase.com)
+
+Some interesting convo here on poker botting.

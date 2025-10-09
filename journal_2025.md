@@ -11517,7 +11517,19 @@ I've been really enjoying the slow pace today and yesterday, but over the weeken
 
 Thomas really wants this to happen. I want to help him, but I also wouldn't mind a year long vacation either, so I am not stressed about it. I'll do my best if it happens and drop what I am doing here otherwise tough luck.
 
-https://youtu.be/VAUaeYw0BQo
+5:40pm. https://youtu.be/VAUaeYw0BQo
 Quant explains how to actually get rich quick
 
 TLDR: insider trading.
+
+5:45pm. He just mentioned that a Bloomberg terminal is a couple of thousand dollars a month. Definitely beyond my price range.
+
+Oh, it's for data that's live. He says that delayed data is cheaper.
+
+5:55pm. The idea to build these insider trading bots for prediction markets is interesting. I think I posted some vids on that yesterday.
+
+This is actually a 10/10 video. He pretty much spells it out for me how to get high alpha. Something to do if both the job and the trade bot don't pan out.
+
+Let me go back to watching the Bookmap video.
+
+This is wonderful. It's so much fun learning new things like this. It's why I wouldn't mind a vacation. In contrast to before, everything that I am learning about now is actionable advice.

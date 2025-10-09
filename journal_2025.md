@@ -11572,3 +11572,7 @@ I like that. It's similar to how Qullamaggie turns ORBs into swing trades into p
 Compared to in the old decade I am much more aggressive in leaning on technology and seeking out learning resources. That all a part of building my edge.
 
 I am looking forward to programming tomorrow. I'll finish the serializer at least, and maybe even the deserializer.
+
+7:30pm. https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it
+
+I'll show this to Logris if we ever talk about Python again. He didn't believe me when I told him how slow Python is.

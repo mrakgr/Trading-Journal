@@ -11339,3 +11339,9 @@ The 13 day VWMA would have been too fast and gotten me out too early more that a
 The only thing a weekly system I should mess with is whether to sell only on Friday closes or to trail the stop more tightly.
 
 9:55am. I did a dangerous thing with the monthly system. I should be happy that I got away scot free.
+
+10/9/2025
+
+9:10am. ![](images/image-855.png)
+
+I loled at Buffet's Charlie Munger sex change joke.

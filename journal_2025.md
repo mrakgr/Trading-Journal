@@ -11631,3 +11631,246 @@ Why Warren Buffett Said No to Lehman and AIG in 2008
 Enough of this.
 
 11:10am. Let me start the programming session.
+
+7:55pm. I got an update on the upcoming job.
+
+It seems it won't be starting next week. The funding needs to be gathered before they can hire me and they love the project. My friend offered to split the pay and the work hours in the short term until the funding gets here, but they are unsure what they want to do for phase two, so we both need to wait.
+
+This serves me fine, I have more time to do my own things.
+
+https://youtu.be/WO6OfKvVQVA
+Decide your trading timeframe
+
+Here is a StockBee vid in the meantime.
+
+8:15pm. If I am going to be trading, I should first work on my scanning game.
+
+![ZENA](images/image-864.png)
+
+Here is a random stock that had decent volume today.
+
+It opened with a gap, did very decently and went up.
+
+![ZENA](images/image-865.png)
+
+I tried sorting stocks by 6 month momo, but too many overextended stocks float to the top.
+
+![](images/image-866.png)
+
+Nothing premarket.
+
+It'd be quite hard to catch these.
+
+![MP](images/image-867.png)
+
+Good breakout. I could go for a second day trend day trade on this one.
+
+I guess it's best to just look at 100s of charts very single day. I wish trading view didn't force me to keep opening them one by one.
+
+![WWR](images/image-868.png)
+
+Imagine I went for a follow through trade on this.
+
+Even if the immediate burst on MP for example fails, it might turn into this pattern.
+
+High volume breakouts that fail often turn into future upswings.
+
+![ASPI](images/image-869.png)
+![ASPI](images/image-870.png)
+
+This be a decent ORB trade tomorrow.
+
+Based on the weekly pattern of steady rising volume, it feels like this stock is getting ready to blow up. Reminds me of SMCI.
+
+8:35pm. ![CCCX](images/image-871.png)
+
+Damn, check out how it acted in the morning. Yeah, I am sold on the gap and go method. I just need to find the best stock amongst the many of these.
+
+![AREC](images/image-872.png)
+
+This stock has good follow through.
+
+![AREC](images/image-873.png)
+
+All of the 10m entries were good.
+
+![BABA](images/image-874.png)
+![BABA](images/image-875.png)
+![BABA](images/image-876.png)
+
+Weekly, daily and 5 mins.
+
+The sooner you enter the better. Ok. And weekly lows are a great place to exit.
+
+![CABA](images/image-877.png)
+
+Imagine I entered at the close and held. I would have gotten crushed. This is why I don't trust breakouts. But if...
+
+![CABA](images/image-878.png)
+
+Suppose I just took the strong upday as a signal and planned to wait out the first 10 mins after the open the next day to see if it's worth getting in?
+
+I'd never have touched it and I'd have avoided the carnage.
+
+But even so, I need to look ahead. This could be a good long setup a couple of days down the road.
+
+![REAL](images/image-879.png)
+![REAL](images/image-880.png)
+![REAL](images/image-881.png)
+
+The sept 3rd breakout was wonderful.
+
+![NBIS](images/image-882.png)
+
+NBIS was a buy on Sept 18th once it decisively held above 92.5 during the morning hours. That means it absorbed the offering.
+
+I could have bet big and made a lot of money.
+
+8:55pm. The important thing is that this is going to happen.
+
+It's not going to happen by working 1h a day, I am going to have to put in full time work at some point reading 100s of charts, checking the news drivers, and thinking about my upcoming trades and creating a game plan for the upcoming day.
+
+Also checking the gaps and the premarket volume before the market opens.
+
+This all so I could be effective during the first 10m of the day.
+
+I only need to focus on that.
+
+I absolutely have to setup the charts so the show relative volume properly. Once I build my watchlist I need to see the volume coming in during the first 10 minutes.
+
+MP and ASPI could be good follow through trades on Monday. At any given day there should be at least one good breakout trade. I just need to find it.
+
+9pm. During my final days as a trader in the old decade, my focus was on trying to find stocks that have good follow through and I was trading illiquid garbage at the time.
+
+If it occured to me to trade in the first 10 mins, I would never have done it due to the fear of the PDT rule so I always aimed to enter at the close. It was simply pitiful. I had no idea I could have worked around that using a cash account.
+
+But with the right perspective, the market seems a lot more beatable.
+
+9:05pm. Nevermind that. Let's stop here.
+
+![](images/image-883.png)
+
+Oh wow, TradingView does have screener view. Damn.
+
+Yeah, I forgot to mention ZENA as a follow through opportunity.
+
+![USAR](images/image-884.png)
+
+Yeah, look at this morning breakout.
+
+I could've bought it at 20 during the first hour and it would have immediately gone up 15%.
+
+![USAR](images/image-885.png)
+
+This is how the daily chart looks. You just need to pay attention and buy stocks as they are breaking out, not when they are overextended.
+
+The first 10 mins are often ideal, but the first hour generally has the best opportunities.
+
+![SERV](images/image-886.png)
+
+They don't always work well. This one would have had me puking into the lows.
+
+![SERV](images/image-887.png)
+
+But it was very overexended coming into the breakout.
+
+![SERV](images/image-888.png)
+
+The breakout at the start of the month was much better.
+
+![UAMY](images/image-889.png)
+![UAMY](images/image-890.png)
+
+The breakout at the start of the month was very nice. Now it's overextended.
+
+![SRFM](images/image-891.png)
+
+Very unusual behavior. Like CABA I'd consider it a potential long setup a couple of days down the road, but now I'd sell everything and probably at a loss.
+
+It keep poking below the gaps though. I hate it when stocks do that.
+
+![BBAI](images/image-892.png)
+
+Here is a failed breakout in BBAI.
+
+It would have been great if I could have exited a bit earlier at 7.65 instead of at the low.
+
+![SPCE](images/image-893.png)
+
+No idea what is going on here. A of buying in the morning than then dies. But that could be a part of the bigger pattern. If the buying continues and it holds above 4.5 during the first hour, then that could be the signal to get in. It's similar to NBIS.
+
+9:40pm. It's not about whether something is a buy or not. It's what's the right time to do it.
+
+The fact that there are 6.5 trading hours in stocks as opposed to 24h like in crypto makes the act of trading so much easier.
+
+Also nwm, this stock did hold during the first 1h but then sold off. Make the rule 2 hours for it.
+
+![WULF](images/image-894.png)
+
+What a nasty stock. But it's important not to give up. This selloff could fade in a couple of days and be a good long trade.
+
+![SES](images/image-895.png)
+
+Upswing, fade, upswing.
+
+![SMR](images/image-896.png)
+
+SMR is one of my frequent watches.
+
+![SMR](images/image-897.png)
+
+Here is that high volume breakout which failed. It was possible to cut the loss at a fraction of the time.
+
+The worst of all would have been to enter at the close.
+
+If I were smart I'd have exited on Wednesday's close.
+
+At a loss, yes. But that would have been a great trade.
+
+![SMR](images/image-898.png)
+
+The stock is not dying. It's setting up. 43 is roughtly the breakout point. It's not 46, that would be too late.
+
+![NVTS](images/image-899.png)
+
+Oh, NVTS is rallying. And it's even attempting to break out.
+
+![NVTS](images/image-900.png)
+
+The first 10 mins are so crucial.
+
+The closer I get to the open, the better.
+
+![NVTS](images/image-901.png)
+
+It would even have been nice enough to tell me premarket that I should prepare to buy.
+
+![NVTS](images/image-902.png)
+
+Yeah, now it's making higher lows on the weekly.
+
+Shit, I get it now!
+
+I really do!
+
+There is one good day to enter, and the rest is all noise. There is one good chance to get in the first 10 mins, and put a stop near the lows, and the rest is much higher risk.
+
+10:05pm. Enough. Let me catch up with Murim's Crazy Bitch.
+
+Reading charts and prepping isn't the hardest job in the world, but it isn't the easiest either.
+
+Ok, on Monday, I am going to take an hour or two before the open just to check out TradingView's premarket capabilities. I want to see whether it's displaying the gaps and the premarket volume correctly.
+
+If that works, it would actually be worth the monthly subscription fee. I could also make great use of its alerts. I could trade directly from TradingView too.
+
+![OKLO](images/image-903.png)
+
+The Oct 2nd breakout really worked out well. I'd need alerts to catch that one.
+
+I am really closing here. I love strategizing most of all.
+
+10:15pm. If I am really this into it, how about I test myself? I don't need to make buy and sell decisions right now. Next week, how about I just be present during the morning hour and see whether I can spot the gaps and the high volume movers during the first 10 mins.
+
+If I can do that, I'll have a trading basis to work off.
+
+I should just trade in sim mode for a bit.

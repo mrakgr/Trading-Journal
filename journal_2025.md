@@ -11609,3 +11609,25 @@ This is a very good talk stitched together from Munger's old talks.
 9:50am. No, this is probably AI gen'd, but I'll be damned if Munger didn't say these things.
 
 9:55am. Ok, 12m is enough. I don't want to spent 37m on this. Maybe I'll listen to this tomorrow.
+
+10/10/2025
+
+10:05am. I've decided. If this upcoming job doesn't happen, after I close my company, I'll open a personal account with IBKR and resume trading that way. My risk appetite is coming back, but I don't want to trade if I have a full time job.
+
+I want to take it easy and save up. A job is also a risk, and I recognize that I went over the line with trading by doing it during the Tao Ceti job. I'll be better off shielding my mind and focusing on saving up.
+
+10:55am. ![](images/image-863.png)
+
+Agh, let me watch this for a bit and then I will start the programming session. I had no idea the China stock market is having a resurgence.
+
+https://youtu.be/JJB4lLjA6jQ
+The Chinese Stock Market Is Cooked
+
+This is pretty funny.
+
+https://youtu.be/1QeUcfqkUzc
+Why Warren Buffett Said No to Lehman and AIG in 2008
+
+Enough of this.
+
+11:10am. Let me start the programming session.

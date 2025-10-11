@@ -12379,3 +12379,16 @@ It's 8:40pm for god's sake. I think I'll forget about the market for a while and
 I want to be completely in sync, rather than chasing shit.
 
 If I can start off as it rebounds, that would give me a nice profit cushion coming into a potential top like this.
+
+9:50pm. https://youtu.be/dptLxhs2hr4
+Peel your position
+ 
+Hmmm...I'll seriously consider peeling 50% like Qullamaggie suggests. I am not saying I'll do it though.
+
+10pm. I need to watch all of Pradeep's videos at some point. I deeply regret not being able to use his methods in my youth. 
+
+It's a given - I don't have any talent in trading. I might have it in programming, but not in trading.
+
+10:05pm. Moving forward, I plan for trading to be my side job while I am either working part time or on my own projects. If I have a full time job, I'll sideline it unless the market environment is really good. Right now it isn't with the crypto panics and the trump tarrif selloffs. Even though the market is near the highs the volatility is increasing.
+
+It selling of 2.7% in a day isn't normal behavior.

@@ -12142,3 +12142,222 @@ I absolutely don't want to run my screeners in the first 10 mins of the day and 
 So with that as a goal, I need a platform that could fulfil those needs.
 
 Let's not hurry with this. I'll take my time to set things up properly.
+
+2:25pm. https://youtu.be/HGChEgQXYAU
+Best trading platforms in EUROPE in 2025 🇪🇺 and which to avoid! ❌
+
+...No TradingView might be good for research, but I cannot customize it properly. Maybe I can find a way to customize IBKR itself?
+
+TWS while outdated is very customizable.
+
+https://youtu.be/rJj4ZbnzEGs
+How To Use TradingView For BEGINNERS [Full 2025 Tutorial]
+
+I am going to watch tutorials for all of these platforms. In the worst case, I could just use TC2000 since that's what Qullamaggie is using.
+
+2:40pm. TradingView is useless.
+
+Forget it.
+
+I need to look more broadly.
+
+https://youtu.be/PJ7Lv_7rK1o
+Ranking the 12 Best Stock Charting Platform in 2024 (TradingView, ThinkorSwim, IBKR & more)
+
+2:50pm. Come to think of it...
+
+![](images/image-920.png)
+
+Oh, I see. I could create my own screener that filters according to a watchlist. That could meet my requirements. Some of them at least.
+
+3:05pm. ![](images/image-921.png)
+
+IBKR has a lot of stuff, but it isn't configurable.
+
+![](images/image-922.png)
+![](images/image-923.png)
+![](images/image-924.png)
+
+3:30pm. Holy crap, this is such a simple goal, but it seems so hard to hit.
+
+Don't tell me I'll have to build my own dashboard?
+
+Doesn't ThinkOrSwim have IBKR integration?
+
+I guess not.
+
+3:35pm. ![](images/image-925.png)
+
+Feels like something out of the 90s.
+
+3:40pm. Ah for fuck's sake. IBKR doesn't have relative volume.
+
+3:45pm. https://youtu.be/R3H_tIpfY0Y
+How to create anticipation watchlist using TC2000
+
+This is going to take some work. I don't want to spend time creating my own dashboard.
+
+Right now the TradingView screener idea is the best one.
+
+Let me do some research on TC2000. Youtube is so damn useless.
+
+///
+
+If your broker is Interactive Brokers (IBKR) and you’re looking for a good platform (or front end) that supports swing-trading workflows (charting, strategy execution, order management, alerts, etc.), here are some good options and what to watch out for. If you tell me your priorities (charts, automation, cost, ease of use, or programming), I can narrow further.
+
+---
+
+## Key considerations / requirements
+
+Before listing platforms, here are features you’d ideally want (especially for swing trading) and constraints when working with IBKR:
+
+* Real-time + historical market data (you’ll need the appropriate market data subscriptions from IBKR). ([Interactive Brokers][1])
+* Ability to place orders (market, limit, stop, OCO, bracket orders) and manage those orders (modify, cancel) via the platform’s connection to IBKR.
+* Reliable, low latency execution / minimal slippage.
+* Charting / indicator / scanning capabilities suited for holding trades over days/weeks.
+* (Optionally) backtesting, strategy automation, alerts, etc.
+* Compatibility with IBKR APIs / integration (TWS API, Web API, or via third-party connectors). ([Interactive Brokers][2])
+* Stability, bug handling, support for IBKR’s multiplexed instruments (stocks, futures, options, forex, etc.).
+
+IBKR itself offers powerful native platforms:
+
+* **Trader Workstation (TWS)** is IBKR’s flagship desktop platform, with advanced order types, algos, charting, and full IBKR connectivity. ([Interactive Brokers][3])
+* **IBKR Desktop / Client Portal / IBKR Mobile** for more streamlined interfaces. ([Interactive Brokers][4])
+* Also, IBKR offers APIs (TWS API, Web API, FIX) which third-party tools use to integrate. ([Interactive Brokers][2])
+
+But many traders prefer external platforms for better charts, scripting, UI, or automation. Below are good third-party / alternate platforms that integrate (or can integrate) with IB.
+
+---
+
+## Good external / third-party platforms that integrate (or can) with IBKR
+
+Here are several platforms known to work or connect with IBKR (via TWS API or other connection). Always confirm specific version / plugin support for your region/instruments.
+
+| Platform                                  | Strengths for swing trading                                                                                    | Notes / caveats & IBKR integration details                                                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MultiCharts**                           | Strong charting, strategy backtesting, scripting (PowerLanguage), order execution capabilities                 | MultiCharts supports connecting to brokers via APIs. It’s widely used and can interface via IB’s API connections. ([Wikipedia][5])              |
+| **Quantower**                             | Modern UI, multi-broker support, good charting, plugin architecture                                            | It is cited among tools used with IB. ([Reddit][6])                                                                                             |
+| **Sierra Chart**                          | Robust technical analysis tools, good performance, supports many asset classes                                 | Sierra Chart is often listed in IBKR third-party software lists. ([Reddit][6])                                                                  |
+| **DAS Trader Pro**                        | Lightweight, fast interface, used by active traders                                                            | It is sometimes used with IB (though depending on your OS / region may have limitations). ([Reddit][6])                                         |
+| **Sterling Trader / Sterling Trader Pro** | Execution tools, institutional features                                                                        | Also cited as a possible interface with IB. ([Reddit][6])                                                                                       |
+| **ProRealTime**                           | Good charting, scanning, and alerts                                                                            | Known to integrate (or be used in conjunction) with IBKR by some users. ([Reddit][6])                                                           |
+| **TradingView**                           | Very good charts, community, alerts                                                                            | IBKR integration allows placing live trades from TradingView (depending on region) ([YouTube][7])                                               |
+| **Custom / self-built using IBKR APIs**   | Maximum flexibility: you can build exactly what your swing trading style needs (custom signals, UI, execution) | IBKR’s APIs (TWS API, Web API) let you build or connect applications for trading, market data, order management etc. ([Interactive Brokers][2]) |
+
+---
+
+## Recommendations based on style / priority
+
+Here are some “best picks” depending on what you value:
+
+* **If you want a balance of power + ready features**: Stick with **TWS** (IB’s own platform) combined with a third-party chart/analysis tool (or a plugin) if needed. The advantage is full support, minimal compatibility issues.
+
+* **If charting / analysis is your bottleneck**: Use **TradingView** (for charts, alerts) plus IBKR trading integration. Then use another tool for order execution (or direct via IBKR).
+
+* **If your style includes semi-automation / signals / scanning**: Platforms like **MultiCharts** or **Quantower** give you a better bridge: you can code strategies, run them, and send orders via IBKR.
+
+* **If you’re comfortable coding / customizing**: Build your own GUI or strategy module over IBKR’s APIs (especially Web API or TWS API). That gives you full control, lightweight UI, tighter execution logic.
+
+* **Consider stability and support**: Some of the third-party tools may lag behind IB’s API changes or have quirks (e.g. market data sync, order delays). Always test in paper mode first.
+
+---
+
+If you like, I can filter the list of platforms to ones that are supported in Croatia / Europe (or your exchanges), and provide links / pricing. Do you want me to do that?
+
+[1]: https://www.interactivebrokers.com/campus/ibkr-api-page/market-data-subscriptions/?utm_source=chatgpt.com "Market Data Subscriptions | IBKR API | IBKR Campus"
+[2]: https://www.interactivebrokers.com/en/trading/ib-api.php?utm_source=chatgpt.com "IBKR Trading API Solutions | Interactive Brokers LLC"
+[3]: https://www.interactivebrokers.com/en/trading/tws.php?utm_source=chatgpt.com "Global Trading Platform - IB Trader Workstation - Interactive Brokers"
+[4]: https://www.interactivebrokers.com/campus/trading-lessons/student-trading-lab-ibkr-platforms/?utm_source=chatgpt.com "IBKR's Platforms | Trading Lesson | Traders' Academy"
+[5]: https://en.wikipedia.org/wiki/MultiCharts?utm_source=chatgpt.com "MultiCharts"
+[6]: https://www.reddit.com/r/interactivebrokers/comments/1atx86u/3rd_party_trading_software_for_ibkr/?utm_source=chatgpt.com "3rd party trading software for IBKR : r/interactivebrokers - Reddit"
+[7]: https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=4YfwPxORf2M&utm_source=chatgpt.com "How To Trade Live On TradingView With Interactive Brokers"
+
+///
+
+3:50pm. Bing is being incredibly obnoxious today with ads. I do a search for 'DAS Trader Pro' and it shows me what I looking for 2 pages down.
+
+5:25pm. Done with exercises.
+
+At any rat, I haven't tested most of the platforms, but Multicharts did leave an impression. Quantower as well.
+
+But nothing really comes close to TradingView in terms of value per dollar.
+
+Multicharts for example requires a 100/month subscription. Can I make enough trading to make it worth the 1.2k per year price tag?
+
+So now what I am leaning towards is using TradingView for the short term, and long term building my own dashboard. It'd be worth it.
+
+The only question remaining is whether I want to trade directly from TV or do I want to have the IBKR AWS app open in the background and do it through it.
+
+...TradingView. It'd be less hassle that way.
+
+I'll want to check out the desktop app.
+
+https://youtu.be/0qVpWatnaro
+Your trade execution has to be better (Trade Review)
+
+Let me take a look at this. I really want to see what platforms pro daytraders use.
+
+I really like the US bundle that TradingView is offering. It's great value. The fees all the different exchanges require would really add up so getting them for less than 10$ a month is great.
+
+6:15pm. ![](images/image-927.png)
+![](images/image-926.png)
+
+Out of most of my requirements, TradingView basically meets only a few of them.
+
+TC2000 had those custom scripts Pradeep was writing, I thought that TradingView would allow the same amount of customizability.
+
+![](images/image-928.png)
+
+What a ripoff. It requires an eSignal data feed to even use.
+
+![](images/image-929.png)
+
+Y High is exactly what I want, and it requires a subscription to eSignal.
+
+6:40pm. https://youtu.be/2rYWdSK5Ecg
+Tradingview vs TC2000: Which Trading Platform is Better? (2025)
+
+7:20pm. Uah...
+
+![](images/image-930.png)
+
+These tool vendors are really out to destroy me.
+
+If things are like this I'd have no choice but to compromise.
+
+8pm. ![](images/image-931.png)
+
+Ok, let's go with this setup. Excluding the stocks I reviewed yesterday, it has everything that I need. Relative volume in time will be especially useful. 
+
+I'll loosen up my requirements from entering within first 10m to entering within first 20m. I'll just screen the stocks premarket, and then during the first 5-10m and focus on the high volume gainers relative to ATR and past volume. That's what the purpose of this screen is.
+
+No need to get too fancy with it.
+
+The TradingView subscription and the US bundle will cost me around 20-25$ per month and I am willing to take that kind of expense.
+
+8:05pm. That was another issue back in 2007 - 2014. I had no money to pay for any of the platforms or the data.
+
+I felt very much restrained in my trading.
+
+It wasn't fun at all.
+
+But now, just forget about the hard stuff.
+
+I can make a view on the market and trade these opening range breakouts during the first 5-20m. I'll cut my losses quickly and let my winners run.
+
+8:05pm. Next week I am not going to trade because the market is being skittish.
+
+But if it panics, you can be I am going to be getting in aggressively during the rebound just like I did in April.
+
+That will be my way.
+
+Hopefully my current way of doing it will be better.
+
+8:25pm. Ok, enough. I've had enough to plan things out. I am going to have to pick my stocks carefully when the time comes. There are plenty of ways all of this could go wrong, and I'll need some luck to beat the market.
+
+The worst of my damage will come from slow movers, so I have to be especially careful of those.
+
+Tomorrow, I'll clean up my watchlist and start filling it out with stocks that have potential.
+
+I'll consider getting the essential subscription for TradingView. I can just get the free tier. No biggie.
+

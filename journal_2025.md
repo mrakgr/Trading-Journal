@@ -12080,3 +12080,65 @@ Vicious.
 
 Not sure why this spiked, but weird things happen during market dislocations.
 
+1:25pm. I don't have any ideas how I want to approach this. I need to research trading platforms. I'll even try out the TradingView desktop app.
+
+It'd be great if I could setup everything on IBKR instead.
+
+During the first 5 mins, I need to run the screeners and cycle through the stocks quickly. I need a perfect overview.
+
+https://youtu.be/eRUEqQmQoP0
+The Chainsaw Stalls: Can Milei Cut Through Argentina’s Currency Collapse?
+
+I had no idea Argentina is collapsing.
+
+1:50pm. https://www.youtube.com/results?search_query=trading+platforms
+
+Ah whatever, let me start here.
+
+I have a goal which is to become effective at trading the opening breakouts.
+
+My usual method of just scrolling through stocks on a screener won't work.
+
+As a stopgap measure, I could make a watchlist of 100 stocks and just watch for breakouts after pullbacks on those.
+
+In fact, that might not be a bad idea.
+
+I don't want to trade crappy out of the blue breakouts on stocks I never thought about before.
+
+2:10pm. I am imagining exactly what I need.
+
+Something like the TradingView screener.
+
+During the first 10 mins, I shouldn't even trade according to charts. If I'm properly prepared then reading the charts would just waste my time.
+
+I just a need a watchlist with all the tickers there, and all the important data such as:
+
+* Premarket relative volume
+* Premarket gap %
+* Relative volume
+* Change % relative to previous day high
+* Change %
+* Price
+* Daily high
+* Daily low
+* Avg daily Volume
+* 14 day ATR
+* 14 day ADR
+
+I'll also need a way to quickly place trades with a single click. I don't want to be wasting my time entering them manually.
+
+Will probably want some buttons on the watchlist for that. 1-click + Enter to buy a certain % of my account calculated automatically.
+
+I need two separate watchlists. One would be 'To Buy' and the other 'To Watch'.
+
+I'd only buy from the first one.
+
+Yeah, this is the way to do it.
+
+I need to setup absolutely everything so that when the opportunities are there, I'd be the first one to take advantage of them. Speed comes from preparation.
+
+I absolutely don't want to run my screeners in the first 10 mins of the day and trade based off of that. That'd be ridiculous. I need to plan what my buy points are ahead of time and just act once they are triggered.
+
+So with that as a goal, I need a platform that could fulfil those needs.
+
+Let's not hurry with this. I'll take my time to set things up properly.

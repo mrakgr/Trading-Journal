@@ -11997,3 +11997,86 @@ Would you like me to give you a **specific setup recommendation** (hardware + so
 10:55am. My very first challenge as a pro trader would be to figure out how to configure the tools I am using for the maximum effectiveness during those first 10m after the market open.
 
 11am. Ok, nevermind. Let me watch the crypto video.
+
+![](images/image-909.png)
+
+Holy crap this is such a crash. Soy crashed 80% before recovering most of its value. He is saying these aren't retail investors doing it.
+
+![market makers making bank](images/image-910.png)
+
+Wow, the market makers made bank on this.
+
+![](images/image-911.png)
+
+Lol, there is fear in the markets!
+
+Niiice.
+
+I think if I was aware of what was happening, I'd have closed out all of my positions that are showing profits.
+
+The strategy right now would be to just sit and wait. And when there is panic, then flip long.
+
+That chart of how much the market makers made is fucking insane. Maybe I should be running automated market making strategies on crypto?
+
+11:35am. Yeah, if you're running a short term strategy like I would be doing, then who cares. Just get out of the market when there is fear.
+
+If I was running a montly strat like before, I'd be getting killed.
+
+https://youtu.be/LnqpYcpTu9w
+CRYPTO CRASH SOON? ⚠ Why Is Everyone SILENT?
+
+I want to watch this.
+
+Wait, at what time exactly did this flash crash happen?
+
+An hour after the us market closed.
+
+![](images/image-912.png)
+
+Lance would have made bank on this with his system. Good luck anticipating this though. Just who is going to watch every tick possible in order to take advantage of it?
+
+Yeah, I think trading in a pod would be massively advantageous just to be aware of when shit is happening.
+
+![](images/image-913.png)
+
+Oh, he has a liquidations chart.
+
+![](images/image-914.png)
+
+/biz/ is fun today.
+
+11:40am. My keyboard's battery is starting to die.
+
+I should've bought the twin cable for the Glove80.
+
+![](images/image-915.png)
+
+![](images/image-916.png)
+
+Damn, can I buy this in Croatia somewhere. When I ordered the Glove80 last time it took a month for it to get here.
+
+11:50am. Damn it, I want to order the cable from the shop, but the card keeps getting declined. Nevermind.
+
+![](images/image-917.png)
+
+![](images/image-918.png)
+
+More humor.
+
+https://boards.4chan.org/biz/thread/61084723/crypto-breakdowns-thread#p61086787
+
+///
+
+>>61084723 (OP)
+>lost my money
+>made sure I'm about to lose my wife as well
+kek, rope soon
+
+///
+
+Vicious.
+
+1:10pm. ![](images/image-919.png)
+
+Not sure why this spiked, but weird things happen during market dislocations.
+

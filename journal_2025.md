@@ -11874,3 +11874,126 @@ I am really closing here. I love strategizing most of all.
 If I can do that, I'll have a trading basis to work off.
 
 I should just trade in sim mode for a bit.
+
+10/11/2025
+
+10:25am. Damn, I didn't realize that S&P went down 2.7% yesterday. Haha, nice.
+
+At any rate, I am going to resume trading even if it's only sim mode. I want to test out early morning breakout entries combined with weekly trend following.
+
+![](images/image-904.png)
+
+Is everything going down? Amazing that I didn't even notice.
+
+https://youtu.be/7VwWYq-nnzw
+⚠ CRYPTO COLLAPSE - What Is Next?
+
+10:45am. ![](images/image-905.png)
+
+Ah, it has a desktop app. Maybe I could make TradingView work for my needs. I saw that it had a split chart.
+
+The fact that the market went down nearly 3% might turn into a deeper correction. They usually starts as small ones and then the panic spreads.
+
+![](images/image-906.png)
+
+It cannot be a corpo account. Whatever, maybe they just mean the TradingView account in particular? I can open it in my own name.
+
+![](images/image-907.png)
+
+Ah, TradingView has widgets.
+
+During the night I had trouble falling asleep as I was excited.
+
+I am so free right now. I can do anything I want. I have so many options to choose from.
+
+![](images/image-908.png)
+
+It also has libs.
+
+///
+
+That’s a great starting point — early-morning breakout trading in U.S. stocks has very specific platform needs.
+Let’s walk through what matters most for that style, then I’ll tell you exactly how **TradingView** compares and what other platforms might suit you better.
+
+---
+
+## 🎯 What You Need for U.S. Stock Breakout Trading
+
+1. **Fast, reliable real-time data**
+
+   * You’ll need **NYSE/NASDAQ Level 1 or 2 quotes** — ideally tick-by-tick.
+   * Pre-market and post-market data are **critical** since many breakouts happen around 7 – 9:30 AM ET.
+
+2. **Good charting and fast order entry**
+
+   * You’ll be watching **multiple tickers at once**, setting alerts, and reacting within seconds.
+   * Hotkeys and one-click trading can make or break execution speed.
+
+3. **Stock scanners**
+
+   * You need a way to instantly spot stocks gapping up, breaking highs, or with abnormal volume at open.
+
+4. **Broker integration / direct routing**
+
+   * Since breakouts can move fast, direct order routing or at least a broker with fast fills is important.
+
+---
+
+## 💡 How TradingView Fits This
+
+| Feature             | How It Performs                                                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Charting**        | Excellent — fast, clean, lots of indicators, very customizable.                                                                                  |
+| **Data speed**      | Real-time possible **only with paid U.S. data add-ons** (few dollars/month per exchange). By default, delayed.                                   |
+| **Pre-market data** | Available with paid data feed.                                                                                                                   |
+| **Scanning**        | Stock screener works well for daily setups, but **not ideal for ultra-short-term real-time scans** (can’t auto-refresh as fast as pro scanners). |
+| **Order execution** | Limited — only a few brokers (e.g. TradeStation, Interactive Brokers) integrate, and order routing is basic.                                     |
+| **Hotkeys / speed** | No true Level 2 or hotkey-based order entry; slower for scalping.                                                                                |
+| **Alerts**          | Excellent — you can set price, indicator, or trendline alerts easily.                                                                            |
+
+🟢 **Summary:** TradingView is great for **analysis, planning, and alerting**, but it’s **not ideal for fast breakout executions** unless you use it alongside a dedicated broker platform.
+
+---
+
+## ⚖️ Platforms to Consider for This Strategy
+
+| Platform                                         | Strengths for Early Breakouts                                                                    | Notes                                                       |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **ThinkorSwim (TD Ameritrade / Charles Schwab)** | Strong U.S. stock coverage, live pre-market data, customizable scanners, and good order routing. | Heavy software; charting less fluid than TradingView.       |
+| **TradeStation**                                 | Fast execution, hotkeys, integrates with TradingView, good real-time scanner (RadarScreen).      | Requires funded account for live data.                      |
+| **Lightspeed / CenterPoint / Cobra Trading**     | Designed for **day traders** — ultra-fast order entry, Level 2 data, hotkeys, direct routes.     | Expensive commissions/minimums, but ideal if speed matters. |
+| **Interactive Brokers (IBKR)**                   | Excellent global coverage, low commissions, works with TradingView.                              | Slight learning curve, TWS interface is dated but powerful. |
+| **TrendSpider**                                  | Automated technical scanning, real-time alerts, multi-timeframe breakouts.                       | Weaker execution (analysis-only).                           |
+
+---
+
+## 🧭 Practical Setup for You
+
+If you’re focusing on **U.S. morning breakout trading**, a common and effective workflow is:
+
+1. **TradingView or TrendSpider** → for overnight analysis, alerts, and pre-market watchlist building.
+2. **Execution Platform (IBKR, TradeStation, or Lightspeed)** → for live order entry, hotkeys, and real-time Level 2.
+3. Optional: **Scanner (e.g. Benzinga Pro, Trade Ideas)** → for real-time gap and volume alerts at 9:30 AM.
+
+---
+
+## 🚀 Recommendation
+
+If you’re still new and testing:
+
+* Start with **TradingView (Pro plan)** + **Paper trading** or **IBKR demo** — it’s affordable and educational.
+* When you’re ready to trade live, move your execution to **TradeStation** or **IBKR** and keep TradingView for charting/alerts.
+
+If you’re already confident and speed matters:
+
+* Skip straight to **Lightspeed** or **CenterPoint Securities** — built for breakout scalpers.
+
+---
+
+Would you like me to give you a **specific setup recommendation** (hardware + software combo + broker) for this breakout strategy — beginner or advanced version?
+
+///
+
+10:55am. My very first challenge as a pro trader would be to figure out how to configure the tools I am using for the maximum effectiveness during those first 10m after the market open.
+
+11am. Ok, nevermind. Let me watch the crypto video.

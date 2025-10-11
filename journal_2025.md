@@ -12361,3 +12361,21 @@ Tomorrow, I'll clean up my watchlist and start filling it out with stocks that h
 
 I'll consider getting the essential subscription for TradingView. I can just get the free tier. No biggie.
 
+8:30pm. ![](images/image-932.png)
+
+Oh what the hell, the US data is actually free by default. But I'll buy the bundle so I have the full picture of volume.
+
+It's going to come out to 25 euro/month. But I am just being a nit if I cannot pay that when the time comes.
+
+https://youtu.be/0qVpWatnaro
+Your trade execution has to be better (Trade Review)
+
+Now let me watch this...
+
+No nevermind. I don't feel like it.
+
+It's 8:40pm for god's sake. I think I'll forget about the market for a while and come back later when the market has corrected. It might take months, it might take a few weeks. That was the plan when I exited.
+
+I want to be completely in sync, rather than chasing shit.
+
+If I can start off as it rebounds, that would give me a nice profit cushion coming into a potential top like this.

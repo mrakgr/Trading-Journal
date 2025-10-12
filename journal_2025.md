@@ -12522,3 +12522,9 @@ Maybe it makes sense for Pradeep, but'd I'd never touch the kinds of stocks he i
 Let me do my exercises and then I will do some programming. I need to give trading a break.
 
 But well, the most important thing is that I am having fun. Trading should be an expression of freedom.
+
+2pm. The biggest mistake I made in the 2007 - 2014 period was trying to make money instead of enjoying the game.
+
+I need to do this. Trading could set me up for life I do it correctly, and who knows when the poker bot will be done. Eventually I'll get good enough at trading to do it only 2-3h a day. And the rest I'll be able to spend on programming.
+
+When the upcoming job starts, I'll just change the time I spend on my own projects into paid work.

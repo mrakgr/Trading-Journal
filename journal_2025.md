@@ -12392,3 +12392,28 @@ It's a given - I don't have any talent in trading. I might have it in programmin
 10:05pm. Moving forward, I plan for trading to be my side job while I am either working part time or on my own projects. If I have a full time job, I'll sideline it unless the market environment is really good. Right now it isn't with the crypto panics and the trump tarrif selloffs. Even though the market is near the highs the volatility is increasing.
 
 It selling of 2.7% in a day isn't normal behavior.
+
+10/12/2025
+
+9:55am. I am up.
+
+https://boards.4chan.org/biz/thread/61084723/crypto-breakdowns-thread#p61091572
+![risk management experts](images/image-933.png)
+
+Jesus Christ. Some of them got absolutely wiped.
+
+There was that period where I became accidentally 130% long in euro defense stocks and I was shitting myself.
+
+To be fair, being even 110% long during this flash crash without stops wouldn've been fatal.
+
+![](images/image-934.png)
+
+Clown world.
+
+https://www.forbes.com/sites/kylemullins/2025/10/06/how-19-year-old-barron-trump-is-worth-150-million/
+
+Seems legit.
+
+![](images/image-935.png)
+
+I admit, I was wrong. I thought the exchanges themselves were risky, but they managed to liquidate everybody just fine and even profit from this kind of event.

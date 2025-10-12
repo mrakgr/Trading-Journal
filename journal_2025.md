@@ -12417,3 +12417,95 @@ Seems legit.
 ![](images/image-935.png)
 
 I admit, I was wrong. I thought the exchanges themselves were risky, but they managed to liquidate everybody just fine and even profit from this kind of event.
+
+10:10am. ![](images/image-936.png)
+
+Ok, enough of this.
+
+What's the play here?
+
+When it comes to market panics, they happen in daily cascades, so to avoid them you have to sell into small dips and buy in 2 days later. The problem is that this kind of activity is negative EV.
+
+Statistically, buying into 2.7 declines in the S&P like the one on Friday is +EV.
+
+But the problem is that 20-30% of the time you get killed as the market keeps falling. It's also hard to figure out where to put stops if you're just catching falling knives.
+
+So yeah, unless you're a huge trader, there are easier trades out there. I'll focus on the gap and go trades when the market recovers and see where that gets me.
+
+With the BTC liquidation, that could cause the panic to spread, so I am just fine waiting it out.
+
+In a bull market there should be one good gap and go setup a day.
+
+10:15am. Let me chill. I think I'll leave the market aside for a week or two, and then I am going to commit. I'll get the TradingView subscription and start researching stocks instead of wasting my time like on Friday.
+
+Once I get the sub, I'll be able to create a proper watchlist. That should make my work productive.
+
+Really, just why am I hesitating to pay 25 euro/month. I have to be crazy.
+
+I will however just test out this system briefly on Monday with the paper trading mode. I want to make sure that everything is set when the market sets up.
+
+https://youtu.be/JazyTKxlk4s
+Gap, Give, Go Trading Strategy Explained (in 3 minutes)
+
+https://youtu.be/xSTiLbl9jj8
+The 4 Best Gap Up Setups You Need to Know
+
+https://youtu.be/PmWWH7xAQq0
+How to use stops
+
+https://youtu.be/PmWWH7xAQq0?t=757
+> What works, stops never come into play.
+
+Yeah, I've noticed that stocks which poke below gap lows tend to have lower momentum.
+
+![CRWV](images/image-937.png)
+
+So it's best to just avoid stocks like CRWV and UUUU.
+
+![UUUU](images/image-938.png)
+![UUUU](images/image-939.png)
+
+I considering switching to high low charts since it makes it easier to see the vertical grid lines.
+
+To be honest this one wasn't so bad despite it poking below the gaps.
+
+I'll consider also trading pullbacks with a stop placed at the low of the day.
+
+UUUU in particular constantly fades the opening drives and even pokes below the gaps, while it gets bought up if it's quietly down on the day. I saw this pattern in OPEN as well.
+
+It might not be a bad idea to buy 1h after the open for some of these, or even at the close and with a stop below the 1h closing range.
+
+11:10am. The overall idea is to hold losers for a short period of time, and winners for a lot longer.
+
+The opening pullback setup would be something like this....
+
+![UUUU](images/image-940.png)
+
+The stocks opens down on high volume and trades near support in the first 10m, and then for the next 20-50m trades quietly without making new lows. Get in with a stop at the low of the day.
+
+11:15am. For entries. UUUU is simply the kind of stock in which you need to fade the morning weakness. Get in 1t 4:30 - 5pm after a large selloff when the volatility dies down, put a stop at the low.
+
+![UUUU](images/image-941.png)
+
+It might seem hard intraday, but check out its weekly pattern.
+
+As a general rule, I have to be buying weakness.
+
+The crucial idea is to sell in 5-10m if the trade is a loser, but hold for much longer if it's above the stop. Selling losers within minutes and holding winners for weeks.
+
+I need to find big movers and apply such a strategy on them.
+
+https://youtu.be/PSniMLuQJnY
+End of day breakout setups analysis
+
+![](images/image-942.png)
+
+11:40am. He says he really like setups like these.
+
+11:55am. Ok, enough of that. Really. I need to keep the principle of having tight stops in mind. If the opening range is too wide on a stock, I should just consider skipping it or maybe entering on a narrow range day.
+
+12pm. Yeah, I know I said that I need to backtest various ideas, but it'd be very difficult to do so for all of this.
+
+So I'll leave that aside for the time being.
+
+Let me take a break here and I will focus on programming instead. I need to deal with the deserializer.

@@ -12509,3 +12509,16 @@ End of day breakout setups analysis
 So I'll leave that aside for the time being.
 
 Let me take a break here and I will focus on programming instead. I need to deal with the deserializer.
+
+12:30pm. https://youtu.be/y8-JR91gRX4
+How to exit positions when swing trading
+
+Let me watch this while I am having breakfast.
+
+1:20pm. Yeah, very insightful. I am still not into peeling my position. I'd rather aim to convert them to trend following trades, but we'll see how things go.
+
+Maybe it makes sense for Pradeep, but'd I'd never touch the kinds of stocks he is trading as they have weak momentum.
+
+Let me do my exercises and then I will do some programming. I need to give trading a break.
+
+But well, the most important thing is that I am having fun. Trading should be an expression of freedom.

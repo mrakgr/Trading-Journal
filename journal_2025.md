@@ -12528,3 +12528,9 @@ But well, the most important thing is that I am having fun. Trading should be an
 I need to do this. Trading could set me up for life I do it correctly, and who knows when the poker bot will be done. Eventually I'll get good enough at trading to do it only 2-3h a day. And the rest I'll be able to spend on programming.
 
 When the upcoming job starts, I'll just change the time I spend on my own projects into paid work.
+
+5:15pm. Done with today's programming session. Got the deserialization dealt with. I did a large amount of work on the language itself during the video. While it's being rendered and uploaded let me watch Lance's take on cryptocalypse.
+
+https://youtu.be/-tVBKkFZVAM
+Top Wall St Trader Discusses Friday's Carnage, Cryptopocalypse, & the Week Ahead!
+

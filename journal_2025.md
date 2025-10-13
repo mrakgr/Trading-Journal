@@ -12616,3 +12616,32 @@ Ok.
 Easy game.
 
 I'll get the full subscription in 2 weeks. I am very happy with TradingView. It's super easy to select a date going back on the shart directly and see the price action at that time. 2m is quite sufficient for my needs.
+
+9:40am. https://youtu.be/VK1acZv_p68
+2nd Day Trade: One of the easiest trades to learn
+
+At any rate, let me study this.
+
+I am going to keep the pattern RHM showed me in mind. It seems when a big shakeout happens followed by a strong, low volatility reversal, the odds of it following through the next day go up significantly.
+
+Before I start the video, let me finally showcase a trade that would have failed big time.
+
+![PHH](images/image-955.png)
+
+Back when I showcased this, I had no idea that Chinese liquidations were a thing. I didn't expect it would completely break my system because it would get sold down 80% in minutes.
+
+![PHH](images/image-956.png)
+
+The rise was obviously manipulated, so I am going to make it a trading rule to sell into strength if a stock runs up 10 days in a row.
+
+![PHH](images/image-957.png)
+
+The volume pattern is very unusual on this stock. Usually when the volume goes up, the volatility should increase, but on this stock it actually decreased!
+
+It shit on the old adage of letting your profits run.
+
+I probably would have missed this trade due to no volume on the initial breakout and it being overextended by the time it came in.
+
+Back in June was wondering whether selling on the first down week would have been a good system. I had no idea this was just one of the many in the series of Chinese scams.
+
+The lesson from this chart is that real stocks have uncertainty to them. They don't smoothly go up. If they start behaving weirdly just run.

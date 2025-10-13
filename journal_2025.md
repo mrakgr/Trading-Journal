@@ -13094,3 +13094,272 @@ I was so convinced about the correctness of that and so eager to apply the corre
 It's much better to buy breakouts after a stong selloff than anything else.
 
 My chasing behavior always led me to buying short term tops in the market.
+
+12:05pm. They started talking about hotkeys, so I asked ChatGPT about it.
+
+///
+
+Yes — **you can use hotkeys to trade in TradingView**, but with some important conditions depending on your setup:
+
+---
+
+### 🔹 1. **Hotkeys for chart trading**
+
+If you’re using **TradingView’s native broker integration** (like IBKR, TradeStation, Alpaca, etc.), you can:
+
+* Place and manage orders directly on the chart.
+* Use **hotkeys** for order actions (like buy, sell, cancel, reverse position, etc.).
+
+👉 To enable and customize them:
+
+1. Go to **Settings ⚙️ → Trading → Hotkeys**.
+2. You’ll see bindings for actions like:
+
+   * **Buy / Sell market**
+   * **Buy / Sell limit**
+   * **Close position**
+   * **Reverse position**
+   * **Cancel all orders**
+   * **Flatten position**
+3. You can assign any keyboard shortcut you like (e.g., `Shift+B` to buy).
+
+---
+
+### 🔹 2. **Hotkeys in Paper Trading mode**
+
+Even if you’re not using a live broker, **hotkeys work fully in Paper Trading mode**, letting you practice with simulated orders.
+Perfect for testing your setup before going live.
+
+---
+
+### 🔹 3. **Broker limitations**
+
+Not every broker supports TradingView hotkeys — they only work if:
+
+* The broker’s integration supports chart trading.
+* The Trading Panel shows that broker (e.g., IBKR, Pepperstone, Capital.com, etc.).
+
+IBKR specifically:
+
+> TradingView supports **order entry and modification** for Interactive Brokers, but as of now **hotkeys may be limited** to actions within the chart trading interface (you can’t yet hotkey arbitrary complex TWS-style macros).
+
+---
+
+### 🔹 4. **Alternative: external automation**
+
+If you want more advanced hotkey or scripting capabilities:
+
+* **IBKR TWS** or **IB Gateway + third-party tools** (like **NinjaTrader**, **Motley**, or **HotkeyNet**) can give you more flexibility.
+* TradingView’s **webhooks + scripts** can trigger orders via API, though not directly by keyboard.
+
+---
+
+Would you like me to list **which hotkey actions are currently available in TradingView (buy/sell, modify, flatten, etc.)**?
+
+///
+
+![](images/image-970.png)
+
+Oh, wow, you can put in risk based orders, as well as % of balance in TradingView.
+
+12:20pm. ![](images/image-971.png)
+
+Yeah, I can put in a stop first and then decide how much of my balance to risk based on that. Would be a better system than risking a flat 10% per each position like I've been doing up to now.
+
+![](images/image-972.png)
+
+I see. Here are the shortcuts.
+
+12:40pm. ![](images/image-973.png)
+
+It's actually possible to bring up the menu and then drag the limit orders and the stop losses around. It's super impressive. It's very easy to place stops on the chart with TradingView.
+
+12:45pm. Ok, I see. The best way of entering orders is to set something like 0.5% or 1% risk, drag the stop loss below the lows and then switch the tab to a market order.
+
+12:50pm. Let me go have breakfast. I think I might miss today's open at this rate.
+
+1:15pm. No, I should be using risk % to stop. Maybe that would work for a daytrader, but not me. I should be using ATR to determine how much to bet. That's the best way.
+
+I'll think about it later, time for breakfast.
+
+2pm. Ok, let me take a look at the gaps.
+
+![gaps](images/image-974.png)
+
+![GWH](images/image-975.png)
+
+Not interested in this.
+
+![](images/image-976.png)
+
+What I am looking for is a stock that is neutral or oversold on the charts in the past month.
+
+![BE](images/image-977.png)
+
+BE is sort of okay on the 1 month chart, but on the 3 month one it's overextended.
+
+![MP](images/image-978.png)
+
+MP is the only one that I'd play in the first 10 mins. The plan would be to see how it acts during that time and buy it if there is an opening drive.
+
+2:15pm. Mhhh, instead of using 6 month performance, could I instead get a measure of how far off the lows it is instead.
+
+In fact, let me just take off the momentum screener. Gap and volume is all that I need.
+
+![HL](images/image-979.png)
+
+Take a look at this one. Breaks out on earnings...
+
+![HL](images/image-980.png)
+![HL](images/image-981.png)
+
+Makes new weekly lows 10 weeks in a row.
+
+2:25pm. ![RZLV](images/image-982.png)
+
+Oh, like this one. It's very oversold and near support. If volume can come 10m into the open, I could see this being a swing trade to the upside.
+
+The problem is that the market is wrong for this.
+
+Only RZLV and MP is what I'd look for setups. All the other gaps are way overextended.
+
+And I don't want to trade these as the market is bad for long momentum.
+
+2:30pm. I think I am going to get rid of the momentum perf figures entirely from the screener.
+
+They are just filtering out good trades. I should be looking at volume instead and the overall price pattern after that. Less is more.
+
+2:35pm. The market is also gapping up. Ok.
+
+I am actually pretty tired right now.
+
+Let me watch two more vids and I'll take a break for the rest of the day.
+
+https://youtu.be/iGab0nsrS10
+How to trade the open
+
+https://youtu.be/YXcqxryI3gE
+Why Do Stocks Completely Reverse On Day 2
+
+https://youtu.be/xYUto1XlJwA
+Powerful Gap Trading Strategy (For Active Day Traders)
+
+https://youtu.be/xSTiLbl9jj8
+The 4 Best Gap Up Setups You Need to Know
+
+I want to start with the last one. I watched it yesterday and I think I saw the patterns covered in it a large number of times so it struck a chord.
+
+![](images/image-983.png)
+> Use a stop from 1/3rd of the VWAP to low of day.
+
+I feel becoming an expert at gaps.
+
+https://youtu.be/3ywp25ZQhUA
+How to Chase a Breakout Trade
+
+Done.
+
+Let me watch `Powerful Gap Trading Strategy (For Active Day Traders)` next.
+
+3:10pm. Figured out multi chart layouts. I ran into some trouble due to one of the layouts not working, but dealt with it by creating new ones.
+
+Let me watch the video.
+
+Set an alarm for the market open.
+
+Instead of switching time periods, I should be switching layouts.
+
+![](images/image-984.png)
+
+This is how it looks like right now. If I was trading for real, I'd just follow this process. I'd check out the gaps, see if the ones I want to buy are acting right and then in addition to that also switch to looking at the relative volume screener 5 min after the market open.
+
+![](images/image-985.png)
+
+I should put the short float and inst ownership on the screener.
+
+...Unfortunately, TradingView doesn't have those figures. But whatever, I am not aiming for short squeezes.
+
+https://youtu.be/xYUto1XlJwA?t=549
+> Super large gaps up can be really hard to trade as there is more indecision to the trade and people are less inclined to chase.
+
+Uah, I am pretty tired right now. It's like I put in a full workday already.
+
+Their discussion is very awesome though.
+
+![](images/image-986.png)
+
+Oh, it's open. I've never actually watched the market open up to now. Gary Smith of 'How I trade for a living' said that this was one of his bad habits that he needed to break.
+
+Of course I read his book and didn't take any of his advice in the old decade.
+
+![](images/image-987.png)
+
+MP has great volume. RZLV has shitty volume.
+
+I could buy a bit of MP here and then keep buying more every 2 mins.
+
+![](images/image-988.png)
+
+Oh wow, this volume is beyond awesome. Maybe it's worth a buy despite it being a bad market?
+
+3:35pm. Oh fuck. I accidentally fired 3 orders in paper trading mode because a single one wasn't triggering and now I have 30% of my account in the stock instead of 10%!
+
+![](images/image-989.png)
+
+Ah whatever, if it was a real position I'd exit, but I might as well just hold here until it hits my stop. 
+
+This is a great lesson. I must make sure not to make this mistake with real money.
+
+If the order doesn't trigger right away, I must make sure to wait a few mins. If the order is sent, don't send another if it doesn't fill within a minute.
+
+![](images/image-990.png)
+
+Also, I've realized that it isn't necessary to set the stops right away. I can just drag it after the position is established.
+
+3:40pm. Note how low the volume for RZLV is and how it faded right away.
+
+Ok, now I have to look at the relative volume screener. I should've done it after the 5 mins.
+
+The relative volume display which I put at the bottom is fantastic.
+
+![ASPI](images/image-991.png)
+
+This one could be another buy.
+
+![AGX](images/image-992.png)
+
+![](images/image-993.png)
+
+Agh, who cares about analyst upgrades.
+
+![MP](images/image-994.png)
+
+At least for the time being it looks like a good trade.
+
+4:05pm. ![MP](images/image-995.png)
+
+Just look at this. I bought a stock (in paper trading) and it actually went up.
+
+One day that will be with real money.
+
+Today was just a test run.
+
+TradingView is actually quite comfortable to trade with. Just make a buy and then drag a stop loss on the chart.
+
+I'll remember this pattern. The volume was really coming in massively at the open. I really felt the urge to buy when I saw it.
+
+4:10pm. At any rate, let me stop here for the day.
+
+Pretty much all the stocks on the screener are...
+
+No wait, one of the reasons they are overstretched is because I still had the volume criteria enabled. I thought I got rid of that?
+
+4:20pm. Ok enough.
+
+At any given time there are really a lot of stocks that are in play aren't they? I'll have to do some real research on what is in play.
+
+4:30pm. Let me watch those videos. I need to close down TradingView.
+
+https://youtu.be/YXcqxryI3gE
+Why Do Stocks Completely Reverse On Day 2
+

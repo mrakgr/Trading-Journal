@@ -13363,3 +13363,65 @@ At any given time there are really a lot of stocks that are in play aren't they?
 https://youtu.be/YXcqxryI3gE
 Why Do Stocks Completely Reverse On Day 2
 
+5:25pm. ![MP](images/image-996.png)
+![ASPI](images/image-997.png)
+
+Great trades. Entering in the first 5-10 mins really does work!
+
+Thanks to these videos I also have a plan for when there is a fade in the opening minutes. That would be to buy the reclaim of VWAP or I could even get in simply when it stops going down for 20m or so.
+
+Always just put a stop on the lows and let it ride.
+
+Most likely, I will get stopped out of both of these trades if the market starts acting out. Right now there is volatility, but not so much panic yet.
+
+I am going to absolutely kill it in the bull phase after then next panic.
+
+I am going to make 100% and more in 2026.
+
+I just wasn't really in 2025. I had a stupid mental model and too many laziness related throwbacks to the old decade.
+
+You can see it in how I barely researched the ETFs in 2025 even though I plowed my entire net worth into them. It's great that I didn't make any money.
+
+Why would such a lazy stupid approach ever have worked?
+
+5:30pm. I am done for the day. I didn't even have the chance to do the daily exercises or take a bath. And last night I spent a lot of time thinking instead of resting. Reminds me of the programming tension.
+
+The MP was so good. The gap pretty much told me the move was coming. And then the volume combined with the opening drive in the first 5 mins was the buy signal.
+
+I absolutely never did something like this in the old decade.
+
+6:35pm. But how would I handle these two trades now that they've been placed? I suppose I could just peel 50% of them at the close.
+
+https://youtu.be/7kvRTdU3FMo
+Qullamaggie - Why Short Selling Can Be A Nightmare!
+
+Lol. People being stuck in short positions.
+
+I am never shorting. Imagine being stuck in a short position, not being able to close it out and paying borrow fees all the time.
+
+https://youtu.be/OUcBAxQguh8
+Lessons from a $20 billion flash crash in crypto (how to survive the next one) (EP 36)
+
+7:20pm. I've been reviewing charts for a bit and literally nothing looks good.
+
+![QSI](images/image-998.png)
+![QSI](images/image-999.png)
+
+This perhaps? The chance to buy it has passed though. The ideal buypoint was roughly 1.5 hours after the open. And the setup itself isn't that great. The stock lacks liquidity.
+
+No, it's a decent setup given how the market was acting. It's somewhere between B and C. Which isn't that good. MP really was an A setup.
+
+And I am actually pretty good to be able to recognize that.
+
+https://youtu.be/OUcBAxQguh8
+Lessons from a $20 billion flash crash in crypto (how to survive the next one) (EP 36)
+
+Let me watch this.
+
+If you really think about it, how could I possibly backtest this system? MP was literally one stock out of 1000 that I picked out. I was just in tune with what the market was thinking and picked it.
+
+7:55pm. I am gushing about the MP trade too much. Given the nature of the market, I'll be stopped out of both of them within the next few days for all I know.
+
+I think I am fine tradingwise for now. I should refocus on programming and forget about the market. I can come in during half an hour before the open and be there for an hour in the future.
+
+There is no need to obsess so much about it. If I can master that I will have made it.

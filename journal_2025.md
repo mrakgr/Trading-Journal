@@ -13425,3 +13425,27 @@ If you really think about it, how could I possibly backtest this system? MP was 
 I think I am fine tradingwise for now. I should refocus on programming and forget about the market. I can come in during half an hour before the open and be there for an hour in the future.
 
 There is no need to obsess so much about it. If I can master that I will have made it.
+
+9:50pm. ![ASPI](images/image-1000.png)
+![MP](images/image-1001.png)
+
+I want to enshrine these two stocks. Just for one day I did the right thing.
+
+I've been thinking about the OPEN breakouts. I'll add them to my arsenal.
+
+![OPEN](images/image-1002.png)
+![OPEN](images/image-1003.png)
+
+Or this one here. I can pay attention to hot momo stocks.
+
+![](images/image-1004.png)
+
+Enough momo reviews. Thinking of the market as an RNG really makes it easier for me to deal with the FOMO.
+
+If I think about the program that would be needed to generate these distributions instead of considering them as living beings that makes trading a lot easier.
+
+I thought about closing the paper trading positions, but I'll keep them around just to normalize my mind and get used to trading. I need some skin in the game. I need to get used to trading this kind of system.
+
+Those opening drives in MP were just so good.
+
+They were exactly like in RHM.

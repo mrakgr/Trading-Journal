@@ -12534,3 +12534,85 @@ When the upcoming job starts, I'll just change the time I spend on my own projec
 https://youtu.be/-tVBKkFZVAM
 Top Wall St Trader Discusses Friday's Carnage, Cryptopocalypse, & the Week Ahead!
 
+10/13/2025
+
+8:45am. Last night I decided that since there is a job upcoming that I have to deprioritize the poker bot project in favor of improving my trading.
+
+* Buy the TradingView sub.
+* Study gaps-go trades more.
+* Study 2nd day follow through.
+
+https://youtu.be/VK1acZv_p68
+2nd Day Trade: One of the easiest trades to learn
+
+Before that, let me show the gap and go in NBIS.
+
+![](images/image-943.png)
+
+Before that, just what is this nonsense about only allowing 10k bars even on the premium version?
+
+I want to see the intraday price action even further back.
+
+9am. Damn the TradingView subscription will cost me 200 euro/year. And I have no idea whether it will even allow me to look back to select dates. But whatever, let me try the free trial.
+
+9:10am. ![](images/image-944.png)
+
+Oh my god, I really didn't want to pay the expensive anual plan, and they offered me a 70% discount as soon as I started the montly trial.
+
+I bet that wouldn't have happened had I tried it off the bat.
+
+Let me just see how far I can go back intraday on the 1 min chart.
+
+![](images/image-945.png)
+
+This is what I wanted to show. I was really surprised yesterday that one of their trades was reclaiming VWAP and that was exactly the pattern here. I also forgot that the low on this day was lower than on subsequent days.
+
+![](images/image-946.png)
+
+So this is the limit. Can I just pick a date range that goes back further than this?
+
+Nope. What a ripoff.
+
+At any rate, the trial lasts until Nov 13th, and that is also when the offer will expire. I should get it, it's great value.
+
+![](images/image-947.png)
+
+Oh, wait, it is possible to go back using replay. How does that work?
+
+![RHM](images/image-948.png)
+
+Let me check out the price action in mid February for RHM.
+
+![RHM](images/image-949.png)
+
+It's actually really easy to use! I can just select a bar on the daily and then switch to 5 min like now.
+
+And now I can see it!
+
+![RHM](images/image-950.png)
+
+It doesn't have the 1 min data, but it does 2 min and here it is.
+
+Amazing trade on the second day. First 5-10 mins would never have given me any trouble at all. I could have went long and strong without any issue. 25% of my account risked against the low and holding overnight would have made me a shitload of cash.
+
+![R3NK](images/image-951.png)
+
+Let me also study the Feb price action here.
+
+![R3NK](images/image-952.png)
+
+It moved very quickly off the open, so buying this one on the 5 min mark would have been reasonable.
+
+![R3NK](images/image-953.png)
+
+Here is the other breakout. This one didn't perform well during the day.
+
+![R3NK](images/image-954.png)
+
+But it still marked a low.
+
+Ok.
+
+Easy game.
+
+I'll get the full subscription in 2 weeks. I am very happy with TradingView. It's super easy to select a date going back on the shart directly and see the price action at that time. 2m is quite sufficient for my needs.

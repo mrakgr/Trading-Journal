@@ -12645,3 +12645,452 @@ I probably would have missed this trade due to no volume on the initial breakout
 Back in June was wondering whether selling on the first down week would have been a good system. I had no idea this was just one of the many in the series of Chinese scams.
 
 The lesson from this chart is that real stocks have uncertainty to them. They don't smoothly go up. If they start behaving weirdly just run.
+
+9:50am. Now let me finally watch that video.
+
+https://youtu.be/VK1acZv_p68?t=55
+
+He says that when there is a strong opening drive with good follow through they look to make second day plays.
+
+Good advice. I need to keep it in mind.
+
+10am. https://youtu.be/W0UeJlPCne8
+The Second Day Play $TSN
+
+Let me watch a bunch of these.
+
+///
+
+For individual European equities, real-time or indicative pre-opening data is considerably less accessible than in U.S. markets, primarily because most European exchanges operate *auction-based openings* rather than continuous pre-market trading. Consequently, platforms such as TradingView generally do not provide comprehensive “gap-up/gap-down” information for European securities prior to the official market open.
+
+Nevertheless, there are several methods to approximate this information:
+
+---
+
+### 1. **Indicative Opening Prices via Exchange Feeds**
+
+Most major European exchanges publish indicative auction data during the *pre-opening phase*. This information includes the **Indicative Opening Price (IOP)** and **Indicative Matched Volume (IMV)**, both of which reveal where the stock would open if the auction ended immediately.
+
+Examples:
+
+* **XETRA (Germany)** – Displays indicative prices from 08:50 to 09:00 CET on [boerse-frankfurt.de](https://www.boerse-frankfurt.de).
+* **Euronext (Paris, Amsterdam, Brussels, etc.)** – Provides similar data from 07:15 to 09:00 CET on [live.euronext.com](https://live.euronext.com/en).
+* **London Stock Exchange (LSE)** – Publishes indicative prices and imbalance data for its *Opening Auction* (07:50–08:00 local time) on [londonstockexchange.com](https://www.londonstockexchange.com/).
+* **Nasdaq Nordic** – Offers indicative matching prices via [nasdaqomxnordic.com](https://www.nasdaqomxnordic.com/).
+
+Monitoring these feeds enables a real-time view of which stocks are likely to open significantly higher or lower relative to their previous close.
+
+---
+
+### 2. **Integration with TradingView**
+
+TradingView itself does not natively surface IOP or IMV data. However, two workarounds exist:
+
+* **Broker or data-feed integration**: Some professional TradingView data packages (e.g., Xetra or LSE Level 2 feeds) may expose limited pre-auction data, though coverage varies by exchange and subscription tier.
+* **Custom watchlists**: You can manually track symbols and compare indicative opening prices from exchange websites against previous closes to infer relative gap magnitude.
+
+---
+
+### 3. **Alternative Platforms with Pre-Open Screening**
+
+If pre-open gap detection is central to your workflow, consider platforms that offer full Level 2 or auction data integration:
+
+* **Interactive Brokers (IBKR)** – Provides indicative opening data for European equities within Trader Workstation (TWS) under the “Auction” columns.
+* **Refinitiv Eikon**, **Bloomberg Terminal**, or **Infront Professional Terminal** – Offer comprehensive European pre-auction order book and gap screening functionality.
+
+---
+
+Would you like me to outline a **TradingView-compatible workflow** that leverages IBKR data or external exchange feeds to automatically flag large expected gaps before the European open?
+
+///
+
+I was just wondering about the gaps in european stocks.
+
+///
+
+Perfect — here’s how you can automatically **pull preopen indicative data (auction prices)** for European stocks using the **Interactive Brokers API**, compute the **gap %**, and list the **top 10 gap-ups and gap-downs** before the market opens.
+
+This script can run in early morning Europe time (around 08:50–09:00 CET) and print a clean summary you can paste into your TradingView notes or watchlist.
+
+---
+
+## 🧰 Requirements
+
+Install the official IBKR Python client:
+
+```bash
+pip install ibapi
+```
+
+---
+
+## 🧩 Example: `ibkr_gap_scanner.py`
+
+```python
+from ibapi.client import EClient
+from ibapi.wrapper import EWrapper
+from ibapi.contract import Contract
+from ibapi.common import *
+import time
+
+class GapScanner(EWrapper, EClient):
+    def __init__(self, tickers):
+        EClient.__init__(self, self)
+        self.tickers = tickers
+        self.indicative_prices = {}
+        self.closing_prices = {}  # You can preload yesterday's closes here manually or via API
+        self.req_id = 1
+
+    def nextValidId(self, orderId: int):
+        # Once connected, request market data for all tickers
+        for symbol in self.tickers:
+            contract = Contract()
+            contract.symbol = symbol
+            contract.secType = "STK"
+            contract.exchange = "SMART"
+            contract.currency = "EUR"  # or GBP/CHF depending on your region
+            self.reqMktData(self.req_id, contract, "", False, False, [])
+            self.req_id += 1
+
+    def tickString(self, reqId: int, tickType: int, value: str):
+        # Tick type 84: Auction match price (indicative open)
+        if tickType == 84:
+            self.indicative_prices[reqId] = float(value)
+
+    def stop(self):
+        self.disconnect()
+
+def main():
+    # Example: German and French tickers
+    tickers = ["SAP", "SIE", "AIR", "BNP", "SAN", "BMW"]
+
+    app = GapScanner(tickers)
+    app.connect("127.0.0.1", 7497, clientId=1)
+
+    app.run()
+
+    # Let the connection run for ~30 seconds to receive auction data
+    time.sleep(30)
+    app.stop()
+
+    # Example manually entered previous closes
+    prev_close = {
+        "SAP": 181.50,
+        "SIE": 163.20,
+        "AIR": 157.00,
+        "BNP": 69.40,
+        "SAN": 3.86,
+        "BMW": 96.80
+    }
+
+    # Compute gaps
+    gaps = []
+    for i, symbol in enumerate(tickers, start=1):
+        if i in app.indicative_prices:
+            ind_open = app.indicative_prices[i]
+            close = prev_close.get(symbol, None)
+            if close:
+                gap_pct = (ind_open - close) / close * 100
+                gaps.append((symbol, ind_open, gap_pct))
+
+    # Sort and show top movers
+    gaps_sorted = sorted(gaps, key=lambda x: x[2], reverse=True)
+    print("\nTop Gap Ups:")
+    for sym, price, pct in gaps_sorted[:5]:
+        print(f"{sym:6} | {price:.2f} | +{pct:.2f}%")
+
+    print("\nTop Gap Downs:")
+    for sym, price, pct in reversed(gaps_sorted[-5:]):
+        print(f"{sym:6} | {price:.2f} | {pct:.2f}%")
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+## ⚙️ How it works
+
+1. Connects to your local IBKR TWS or Gateway (`localhost:7497`).
+2. Requests real-time market data for each ticker.
+3. IBKR sends **tick type 84** — the *Auction Match Price* (indicative open).
+4. The script compares this price to your stored previous close.
+5. Prints top gap-ups and gap-downs.
+
+---
+
+## 🧭 Notes
+
+* Run this **between 08:50–09:00 CET** (preopen phase).
+* Ensure **IBKR TWS is open and logged in** with *market data permissions* for the relevant exchanges.
+* You can easily expand `tickers` to DAX40, CAC40, FTSE100 components, or read them from a CSV.
+* For automation, schedule it with Windows Task Scheduler or `cron`.
+
+---
+
+Would you like me to extend this script to **automatically fetch yesterday’s close prices** (so you don’t have to input them manually)?
+
+///
+
+///
+
+Excellent — here’s an enhanced version of the **IBKR European preopen gap scanner** that:
+
+✅ automatically fetches **yesterday’s closing price** for each stock
+✅ retrieves the **indicative opening price** from the auction
+✅ calculates the **gap %**
+✅ lists **top gap-ups and gap-downs**
+
+---
+
+## 🧩 Full Script: `ibkr_gap_scanner_auto.py`
+
+```python
+from ibapi.client import EClient
+from ibapi.wrapper import EWrapper
+from ibapi.contract import Contract
+from ibapi.common import *
+import time
+import datetime
+
+class GapScanner(EWrapper, EClient):
+    def __init__(self, tickers):
+        EClient.__init__(self, self)
+        self.tickers = tickers
+        self.indicative_prices = {}
+        self.close_prices = {}
+        self.req_id = 1
+        self.symbol_map = {}  # reqId → symbol
+        self.finished_close = False
+        self.finished_open = False
+
+    def nextValidId(self, orderId: int):
+        print("Connected. Requesting historical close prices...")
+        self.request_closes()
+
+    def request_closes(self):
+        """Request previous day's closing prices for all tickers"""
+        end_date = datetime.datetime.now().strftime("%Y%m%d %H:%M:%S")
+        for symbol in self.tickers:
+            contract = Contract()
+            contract.symbol = symbol
+            contract.secType = "STK"
+            contract.exchange = "SMART"
+            contract.currency = "EUR"
+            self.symbol_map[self.req_id] = symbol
+            # "1 D" of daily bars ending now
+            self.reqHistoricalData(self.req_id, contract, end_date, "1 D", "1 day", "MIDPOINT", 0, 1, False, [])
+            self.req_id += 1
+        # Give time for data to flow
+        time.sleep(5)
+        self.finished_close = True
+        print("Closing prices collected.")
+        self.request_auction_data()
+
+    def historicalData(self, reqId, bar):
+        symbol = self.symbol_map.get(reqId)
+        if symbol:
+            self.close_prices[symbol] = bar.close
+
+    def request_auction_data(self):
+        """Request auction indicative prices (tickType 84)"""
+        print("Requesting indicative opening prices...")
+        for symbol in self.tickers:
+            contract = Contract()
+            contract.symbol = symbol
+            contract.secType = "STK"
+            contract.exchange = "SMART"
+            contract.currency = "EUR"
+            self.symbol_map[self.req_id] = symbol
+            self.reqMktData(self.req_id, contract, "", False, False, [])
+            self.req_id += 1
+        # Give time for auction data
+        time.sleep(30)
+        self.finished_open = True
+        self.stop()
+
+    def tickString(self, reqId: int, tickType: int, value: str):
+        if tickType == 84:  # Auction match price
+            symbol = self.symbol_map.get(reqId)
+            if symbol:
+                try:
+                    self.indicative_prices[symbol] = float(value)
+                except ValueError:
+                    pass
+
+    def stop(self):
+        self.disconnect()
+
+def main():
+    tickers = ["SAP", "SIE", "AIR", "BNP", "SAN", "BMW"]
+
+    app = GapScanner(tickers)
+    app.connect("127.0.0.1", 7497, clientId=2)
+
+    app.run()
+
+    # Wait until auction phase done
+    while not app.finished_open:
+        time.sleep(1)
+
+    # Compute gaps
+    results = []
+    for symbol in tickers:
+        close = app.close_prices.get(symbol)
+        open_price = app.indicative_prices.get(symbol)
+        if close and open_price:
+            gap_pct = (open_price - close) / close * 100
+            results.append((symbol, open_price, close, gap_pct))
+
+    results_sorted = sorted(results, key=lambda x: x[3], reverse=True)
+
+    print("\n=== TOP GAP UPS ===")
+    for sym, open_p, close_p, pct in results_sorted[:5]:
+        print(f"{sym:6} | IndicOpen {open_p:8.2f} | PrevClose {close_p:8.2f} | +{pct:5.2f}%")
+
+    print("\n=== TOP GAP DOWNS ===")
+    for sym, open_p, close_p, pct in results_sorted[-5:]:
+        print(f"{sym:6} | IndicOpen {open_p:8.2f} | PrevClose {close_p:8.2f} | {pct:5.2f}%")
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+### 🧭 How it works
+
+1. Connects to **IBKR TWS** (`localhost:7497`).
+2. Fetches **yesterday’s close** via `reqHistoricalData`.
+3. Subscribes to **auction indicative prices** (tick type `84`).
+4. Waits ~30 seconds to receive data.
+5. Prints the top movers sorted by gap percentage.
+
+---
+
+### 🧰 Notes and setup
+
+* Run it **shortly before market open** (e.g., 08:50–09:00 CET).
+* Ensure your IBKR account has **market data subscriptions** for the relevant European exchanges (Xetra, Euronext, LSE, etc.).
+* You can add more tickers — up to IBKR’s market data limits (~100 simultaneous requests for most retail accounts).
+* If you’re scanning many tickers, consider staggering requests or using IBKR’s snapshot mode.
+
+---
+
+### 🧩 Optional Enhancements
+
+Would you like me to modify it so it:
+
+* outputs a **CSV file** with the results (for import into TradingView or Excel), and/or
+* automatically **skips symbols without auction data** to keep the output clean?
+
+///
+
+10:15am. Ok, nevermind this. I should avoid trading European stocks. Just for this I'd need to pay for real time feeds and so on.
+
+Instead what I will do remember the pattern of strong stocks cracking and just buy the etf.
+
+![DFEN](images/image-958.png)
+
+This is super ironic. My montly system would have worked on this ETF even if it didn't on the stocks I was trading.
+
+Nevermind that.
+
+![DFEN](images/image-959.png)
+
+Here is how the european stocks acted during the crash.
+
+![RHM](images/image-965.png)
+
+It's be hard to prepare for this without the gap scanner.
+
+![](images/image-961.png)
+
+Son of a bitch. It wouldn't allow me to export the watchlists without paying double a month.
+
+![](images/image-962.png)
+
+And the savings aren't 70% for essential, but go up.
+
+![](images/image-963.png)
+
+Ah no, I was wrong, the export button is here in Advanced View.
+
+![](images/image-964.png)
+
+It's the pie chart button.
+
+Ok...
+
+10:35am. Adding some automation via the IBKR API could be good. But I don't want to strain myself trying to follow to many different markets.
+
+Forget this for now. The RHM selloff is one and done. I wouldn't be able to catch it properly even if it happened again.
+
+I'll just focus on the ETFs.
+
+https://youtu.be/AYYOdhznnbk
+A Common Setup for a Second-Day Trade
+
+Let me watch all of these.
+
+https://youtu.be/o6K9nt_35gY
+How to Enter a trade BEFORE an explosive move (with high accuracy)
+
+https://youtu.be/o6K9nt_35gY?t=239
+> Big volume will occur on a breakout and big volume will occur on a capitulation.
+
+https://youtu.be/o6K9nt_35gY?t=307
+
+Oh, it never occur to me to calculate the standard deviation for volume. That could be useful to have in a screener.
+
+11:05am. I didn't realize that just 50% higher volume could be very significant for a stock like Nvidia.
+
+![NVDA](images/image-960.png)
+
+What was the follow through like on the second day play in January.
+
+![NVDA](images/image-966.png)
+
+Some selling off the open, but otherwise it would have been a great buy past the first 10 mins. I could have bough, put a stop at the low and it would never have been an issue.
+
+It seems TV doesn't have intraday data for Nvidia going this far back. I wonder if I bought the US bundle it would become available?
+
+I can't imagine that it wouldn't.
+
+11:10am. Those VWAP reclaims after the opening selloff are a strong pattern. I want to add them to my playbook.
+
+Hmmm, ideally you'd buy the Nvidia on the initial breakout, but it'd be easy to miss that trade due to no gap.
+
+Plus, I don't really need to trade Nvidia.
+
+![NVDA](images/image-967.png)
+
+I didn't realize it will show the highs and lows when you zoom in. Super cool.
+
+Let me continue watching the videos.
+
+Note how the Nvidia breakout was a strong opening drive with strong follow through. It didn't drop down to reclaim, instead it was strong throughout the day.
+
+https://youtu.be/wgNeIgTM2GQ
+A Super Easy Second Day Trade
+
+https://youtu.be/O7vFTo_2-Js
+Trade Execution Rules (the secrets of order types)
+
+11:45am. ![CRWV](images/image-968.png)
+
+I don't like Coreweave. It's too whippy. I shouldn't be trading stocks that constantly challenge the gap lows. Gaps should be strong buy signals and shouldn't be constantly heavily sold into.
+
+![THEON](images/image-969.png)
+
+Oh by the way, I saw both Pradeep and Qullamaggie trade this breakout pattern where the stock sells off for a month and then breaks out. At this point I've seen it working quite a few times in momentum leaders. It's a huge challenge to my mental model of 2007 - 2014. Back then I was a fool constantly chasing highs after runups. I had a very flawed model of the market.
+
+In fact, the assumption that the market is random is a much better starting point than what I had before.
+
+I read those fucking books by O'Neil and Darvas and it greatly harmed me. I came up with a model of buying stocks making new highs, and then wondering why most stocks went nowhere after that happened.
+
+I was so convinced about the correctness of that and so eager to apply the correct principles that I couldn't come up with the momentum burst method that Pradeep was trying to teach me.
+
+It's much better to buy breakouts after a stong selloff than anything else.
+
+My chasing behavior always led me to buying short term tops in the market.

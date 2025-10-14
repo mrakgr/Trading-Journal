@@ -13616,3 +13616,401 @@ Don't take the trend being your friend too literally. 50-100% on a trade is big 
 Also sell on 10 updays instead of getting caught in Chinese liquidations.
 
 2:05pm. Let me go do my exercises before the market opens.
+
+2:55pm. Done with exercises. Let me do my premarket prep.
+
+![NVTS](images/image-1020.png)
+
+I think I've been too nitty when it comes to some of these patterns. NVTS was a buy.
+
+![NVTS](images/image-1021.png)
+
+It's gapping up huge premarket.
+
+![](images/image-1022.png)
+
+A lot of these stocks which are gapping up are the overextended momentum leaders.
+
+This could be the top.
+
+![ACI](images/image-1023.png)
+
+Huge volume in this.
+
+![ACI](images/image-1024.png)
+
+This is the pattern, so it might be my main long for the day.
+
+The rest of the overextended momo leaders I'd look into as shorts.
+
+![POWI](images/image-1025.png)
+
+Nvidia deal. I'd look this as another momentum drive second day play.
+
+![POWI](images/image-1026.png)
+
+I'd consider this as a second day play as well.
+
+![LITM](images/image-1027.png)
+
+Also a potential second day play.
+
+![NVTS](images/image-1028.png)
+
+As for this one I don't like it as much as a second day play. Even in a volatile stock, it's best when the gap is only about 5%. 20-30% is too large of a gap.
+
+![NUKK](images/image-1029.png)
+![HII](images/image-1030.png)
+![VOR](images/image-1031.png)
+
+Not that good. These are just very illiquid.
+
+![MTRN](images/image-1032.png)
+
+Illiquid, not that good.
+
+![BBAI](images/image-1033.png)
+
+This is quite good.
+
+3:20pm. ![](images/image-1034.png)
+
+These 4 at the top would be my main targets. NVTS I'd generally give a pass. It was a buy yesterday at 1h.
+
+I've made a mistake underestimating the relative volume due to how good the day before it was.
+
+3:25pm. The market will open soon. Let's just ignore what is happening during the first 5 mins, and then I will act after that.
+
+I'll ignore my general market read when deciding what to buy and sell.
+
+I'll just hit the offers if the volume is coming in size.
+
+I admit I made a mistake thinking some of the stocks that have been consolidating for 2 weeks or more as being overextended. I overlooked NVTS.
+
+I've been too bearish.
+
+https://www.youtube.com/watch?v=B_KaAZcOT3w
+
+I'll keep this vid in mind for later. Not the time to be watching it.
+
+First check out the stocks on my watchlist and then start looking at the screener.
+
+3:30pm. It's open!
+
+3:32pm. ![PII](images/image-1035.png)
+
+Already strong volume off the open.
+
+3:33pm. ![NVTS](images/image-1036.png)
+
+NVTS is weak off the open. Might be a gap give and go type of trade. Let me turn on the VWAP.
+
+![](images/image-1037.png)
+
+Damn, don't tell me the relative volume is linked to whether the extended hours are turned on?
+
+![](images/image-1038.png)
+
+Yeah, it is. Damn.
+
+3:45pm. ![BBAI](images/image-1039.png)
+
+Not a good trade. It would have been one yesterday, but buying here is gambling.
+
+![ACI](images/image-1040.png)
+
+ACI I do like.
+
+![POWI](images/image-1041.png)
+
+I am not interested in this after all.
+
+![NUKK](images/image-1042.png)
+
+Would have been a good trade on the initial breakout. Let's move on.
+
+![HII](images/image-1043.png)
+
+The opening drive is in the wrong direction.
+
+![PII](images/image-1044.png)
+
+4pm. ![MNTS](images/image-1045.png)
+
+Oh, this is nice.
+
+![MNTS](images/image-1046.png)
+
+Got 2.5%. This is actually very good practice since at this point it seems I am just plowing money at random.
+
+![MNTS](images/image-1047.png)
+
+I really like the breakdown followed by a breakout pattern. I only put a 2.5% bet into this stock as it's so volatile.
+
+![DPZ](images/image-1048.png)
+
+Not really interested in this right now.
+
+![AREC](images/image-1049.png)
+
+Def not a buy today.
+
+![QQQ](images/image-1050.png)
+
+Ah the market is down today. That explain why some of the stocks are selling off the open.
+
+![PZZA](images/image-1051.png)
+
+No, I can't just buy every trash stock in hope of it rallying.
+
+![KOPN](images/image-1052.png)
+
+This one is a buy.
+
+4:15pm. ![](images/image-1053.png)
+
+Here are all the open trades.
+
+4:20pm. ![INDI](images/image-1054.png)
+
+Let me also get this one.
+
+![](images/image-1055.png)
+
+It's a 6x relative volume breakout through long term resistance.
+
+4:25pm. ![GIG](images/image-1056.png)
+
+GIG is too new and it's a fresh IPO.
+
+![](images/image-1057.png)
+
+Don't want to touch it.
+
+![](images/image-1058.png)
+
+Wow, let me take a look at the chart of CRML intraday.
+
+![CRML](images/image-1059.png)
+
+Nasty gap!
+
+But this initial rise was 50%, so I guess it shouldn't be too surprising.
+
+![CRLM](images/image-1060.png)
+
+The second breakout which is more controlled worked out much better.
+
+![HR](images/image-1061.png)
+
+Nah, HR is more of a stock for Pradeep.
+
+4:45pm. ![](images/image-1062.png)
+
+Done for the day here.
+
+1h past the open is enough. Instead of putting 1h of work, I put in nearly 2.
+
+Keeping the workload under control is important if I am going to be doing this part time.
+
+4:45pm. The position that I've put on aren't the problem right now.
+
+The main problem is that if this happens tomorrow, I am going to run out of buying power pretty quickly.
+
+4:50pm. There are too many options to choose from.
+
+4:55pm. ![BBAI](images/image-1063.png)
+
+I've decided to move my BBAI stop to break even.
+
+It will very likely get hit. The pattern is loose. I got in at today which is the wrong time. It should have been yesterday.
+
+![PII](images/image-1064.png)
+
+I also pulled up the PII stop below the structural low rather than the low of the opening range.
+
+It isn't a bad idea to come in and pull up the stops after 1.5 hours from the open.
+
+Ok, that's 2 hours a day.
+
+Let me go back to watching Lance's course.
+
+I put on a variety of trades. Let me write down the reasons first.
+
+![ACI](images/image-1065.png)
+
+Positive earnings report on 20x relative volume in a downtrend might lead to follow through due to surprise.
+
+I wouldn't have bought this had it been a 3x or even 5x volume.
+
+Not sure how long to hold this, so I might use the 3-5 day rule.
+
+![BBAI](images/image-1066.png)
+
+Second day play, but it's bad because I should have bought it yesterday instead. Momentum breakout. AI stock.
+
+Trend following rule.
+
+![PII](images/image-1067.png)
+
+Positive news catalyst on massive volume. Earnings guidance.
+
+![](images/image-1068.png)
+
+Lol'd at the price target. The market is far above it.
+
+![KOPN](images/image-1069.png)
+![KOPN](images/image-1070.png)
+
+High rel volume breakout. 3.2m order. 600m company.
+
+![MNTS](images/image-1071.png)
+
+High volume breakout on news catalyst. 15m order. 20m company.
+
+![MNTS](images/image-1072.png)
+
+Let me lift the stop.
+
+![INDI](images/image-1073.png)
+
+Breakout above long term resistance on massive volume. Autotech company. Driver assistance.
+
+5:15pm. One thing that hasn't changed compared to how I operated in 2007 - 2014 is how much care I am putting in per each trade.
+
+Compare what I am doing here to SMB trader reviews and you'll see it's very lacking.
+
+I am just trying to go by feel, but that isn't really good enough.
+
+Ok, so I have the volume.
+
+I have the refined process where I look at gaps and am making early morning entries. That is all good enough.
+
+But what ranking the news catalysts.
+
+For example the MNTS is clearly better than KOPN.
+
+Why buy KOPN in that case?
+
+![](images/image-1074.png)
+
+I am going to pull up the stop. No reason to let it go back to the low.
+
+Back to KOPN, you know what this pattern reminds me off....
+
+![KOPN](images/image-1075.png)
+![R3NK](images/image-1076.png)
+
+A large breakout, a pullback, and then another breakout.
+
+Though R3NK wasn't on high volume, but high volume here shouldn't be a negative.
+
+5:25pm. So how would I rank all these trades?
+
+Only MP is an A trade.
+
+...As for the rest, I honestly am not sure.
+
+If I was trading with real money in a bull market, would I just spray and pray like this or would I do it differently?
+
+Every day there will be high volume breakouts. How do I sift through them?
+
+One option would be to only trade gap + opening drives that work out smoontly. If not exit by the end of the day.
+
+That could act as a filter.
+
+5:35pm. If I don't want to think about the news quality too much that is one thing, but I need to make the filter more strict during the pivot point to get rid of the non-movers.
+
+I cannot chew with too much in my mouth. That is the thing.
+
+![MNTS](images/image-1077.png)
+
+Got stopped out on the spike.
+
+5:50pm. ![MNTS](images/image-1078.png)
+
+What a rip.
+
+6pm. ![MP](images/image-1079.png)
+![ASPI](images/image-1080.png)
+
+I've moved the stops up to the lows of the current day.
+
+6pm. Hmph, at this rate I'll end up using the daily low system.
+
+![MNTS](images/image-1081.png)
+
+Oh, holy shit. I didn't realize the long term chart would look like this.
+
+Ok, new rule. Forget momentum trading these scam companies. I need to pare down the number of trades I am taking anyway, and filtering out MNTS seems like a good thing.
+
+![MNTS](images/image-1082.png)
+
+Here is the log chart.
+
+![ACI](images/image-1083.png)
+
+Let me pull the stop even closer.
+
+![ACI](images/image-1084.png)
+
+No, I shouldn't have taken this trade. Look how rangebound the stock is.
+
+Just what am I thinking is going to happen in it?
+
+It has zero momentum and one news event isn't enough to change things.
+
+![ASPI](images/image-1085.png)
+
+Since I have a fetish for volume, why don't I only focus on stocks with strong momentum?
+
+![PII](images/image-1086.png)
+
+I don't like this one either from a momentum perspective.
+
+6:20pm. Let me go have lunch.
+
+6:55pm. I've thought about it. Let me sell. PII and ACI.
+
+I sold ACI because even though it had a catalyst, the market environment isn't conducting for momentum in stocks like it.
+
+Maybe it will rally up, maybe it will go down, but let's see...
+
+![ACI](images/image-1087.png)
+
+This is the long term chart of it. Just what is my realistic best case? That it takes 2 months to hit 22?
+
+And PII.
+
+![PII](images/image-1088.png)
+
+It also keeps getting sold off when high volume comes into them. Even though it's in an uptrend, it's not in a group that is hot right now.
+
+The market themes are minerals, energy, AI. That is what is hot.
+
+I need to buy stocks that much that profile on their high volume breakouts.
+
+I need to trade stocks with high momentum, not these things.
+
+NVTS for example....
+
+![NVTS](images/image-1089.png)
+
+I noted the breakout back when I was working at Tao Ceti. It had a huge deal with Nvidia. It's a stock in play.
+
+ACI and PII aren't and good news isn't going to change things.
+
+7:05pm. With MP, I actually made the correct move by sizing it up so large even though it was by accident. It's in the hotest sector possible.
+
+There was no weird price action.
+
+7:10pm. TradingView is so laggy right now.
+
+7:15pm. Nevermind, let me close, I am done for the day. I sort of get it now. Everything is so overextended so it's hard to find good candidates.
+
+https://youtu.be/FnlPQFwAe0A
+⚠ They Scam Everyone...
+
+Let me watch this.
+
+I need to get better at this. No way can I 

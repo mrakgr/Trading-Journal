@@ -13544,3 +13544,75 @@ If I can do well, and build up my track record over the years, that will open so
 As good as programming is, I cannot make exponential gains as a software engineer, unless I literally crack AI.
 
 In order to life, I need some level of skill in trading. That is the reality of this world.
+
+12:05pm. ![](images/image-1009.png)
+
+https://news.ycombinator.com/item?id=45570973
+
+I love reading the comments on HN.
+
+![](images/image-1010.png)
+
+Milton Friedman sounds very convincing when he says this.
+
+1:05pm. ![](images/image-1011.png)
+
+Holy shit. Back in December 2023, ZJYL squeezed from 20 to 500 in the span of minutes. For me that'd be instant death.
+
+You can't really size down in this. Especially newbie retail traders, they'd end up in debt many times their account value.
+
+![](images/image-1012.png)
+
+Here is what Lance has to say:
+
+> This was just to some degree unavoidable other than sizing down.
+> And its very easy to always say that in retrospect and with hindsight, but I would have never imagined that this opened up and traded in the 100s.
+> My bigger thought is that this displays that it's nearly impossible to control your risk in this type of setup.
+> So keep in mind that in the hierarchy of risk short are generally very dangerous versus a long. And low float shorts are even more dangerous.
+> And in this market where you've seen something like this, it opens a new paradigm of what's possible.
+> I've never seen a gap like that.
+> Super brutal.
+
+1:30pm. ![NCL](images/image-1013.png)
+
+Another PHH. He calls them Chinese Liquidation. I have no idea why the Chinese traders just slam the bids all the way into the ground. But at least this is better than a stock going from 20 to 500.
+
+![](images/image-1014.png)
+
+Oh, I see. This one went down in an orderly manner.
+
+![](images/image-1015.png)
+
+Damn it. It seems the further I go back, the harder it is to get historical data on TradingView.
+
+![AI](images/image-1016.png)
+
+Ok, at least I have 10 min bars. Good enough.
+
+And I can see here that the opening drive breakout worked really well.
+
+![AI](images/image-1017.png)
+
+Breakout and then breakdown.
+
+Yeah, I think price stops are a necessary evil here.
+
+Better to get stopped out of the trade for a minor profit or loss than to get destroyed.
+
+![AI](images/image-1018.png)
+
+This stock had a ton of action. 5x relative volume off the open is such a strong buy signal.
+
+I didn't need to complicate things at all. Buy high volume off the open, but a stop at the low, rinse and repeat. The stock also had a 5% gap to tell me in advance that I should pay attention to it.
+
+![AI](images/image-1019.png)
+
+Look at how it acted.
+
+If a stock is moving very fast, and the climaxes like it did on the move to 40 on massive volume, just forget about the weekly system. Sell it right away.
+
+Don't take the trend being your friend too literally. 50-100% on a trade is big money by any stretch of imagination.
+
+Also sell on 10 updays instead of getting caught in Chinese liquidations.
+
+2:05pm. Let me go do my exercises before the market opens.

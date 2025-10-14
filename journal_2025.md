@@ -13494,3 +13494,24 @@ But I feel like watching the rest of Lance's course and taking it easy. I'll als
 9:20am. ![](images/image-1007.png)
 
 Won't lie, this was pretty funny.
+
+11:05am. ![](images/image-1008.png)
+> If it were not run up prior to the news release it would have easily run up another 10%.
+
+Lance wisdom. Let me just chill for a bit and watch the entirety of the module. Not sure if I'll be interested in the deep dives though.
+
+11:30am. Done with breakfast.
+
+I am really happy right now.
+
+The fact that I can come up with a simplified program of the stock market in my head, and base my decisions on that is such a huge change from what I had before.
+
+I get it now.
+
+Humiliation and regret doesn't matter.
+
+That I am concerned with the past is proof that I am not rational.
+
+It's not the humiliation that matters. Rather, irrational thought is humiliation itself.
+
+Rational thinking is the absolution of sin and the vanquishment of regrets.

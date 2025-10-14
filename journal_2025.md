@@ -13449,3 +13449,48 @@ I thought about closing the paper trading positions, but I'll keep them around j
 Those opening drives in MP were just so good.
 
 They were exactly like in RHM.
+
+10/14/2025
+
+8:30am. I am up. I slept very well tonight.
+
+https://youtu.be/biyOHYua-1w
+The United States Is Buying Stocks (China’s Playbook 2.0)
+
+Let me watch some of these. I set a alarm to 3pm so that I can check out the gaps, and I'll be looking at relative volume leaders during the first half hour of the market from here on out. From what I've seen yesterday I can restrict my attention to stocks having 3x relative volume and those are pretty rare. There are less 60 stocks a day I have to look at. That makes things easy.
+
+![](images/image-1005.png)
+
+Crazy times.
+
+Ok, I am not going to bother watching all of that.
+
+https://youtu.be/i_QhRe0_hp4
+How One of the Biggest Quant Hedge Funds Thinks About Trading (EP 34)
+
+Skip.
+
+https://youtu.be/BJFmRLInXno
+The Man Who Broke WallStreetBets: SirJackALot's 35k to 8M Journey
+
+![](images/image-1006.png)
+
+Note: This isn't how one should trade. Gamblers go broke and die young.
+
+8:55am. Nevermind these videos. I am not going to get much out of studying the methods of a crazy gambler with no concept of risk management. There are too many Jesse Livermore wannabes and they'll end up the same as him in the end.
+
+https://youtu.be/PEzszQDPFVU
+Slayers NEXT OP/ Give a Reason [Ballade Version]
+
+https://youtu.be/m9D-NhE2yYI
+Killing The Last Knight without attacking [Limbus Company]
+
+Let me see how this is done. I barely won the Last Knight battle in Limbus.
+
+9am. For today I have the option of programming.
+
+But I feel like watching the rest of Lance's course and taking it easy. I'll also see whether I can find more on gap trades on SMB's channel, but really it goes up in the 10m or it goes down. I don't need anything more now that I've found out about the fashionably late trade (VWAP reclaim).
+
+9:20am. ![](images/image-1007.png)
+
+Won't lie, this was pretty funny.

@@ -14032,3 +14032,7 @@ Pick some super growth stock and the alpha will look very different in the post-
 As a rule, I am going to avoid high volume breakouts in low momentum stucks. Period. There is enough opportunity in high momentum vehicles that I don't need the slower ones.
 
 I trade the markets, not the individual stocks. I trade the system.
+
+7:40pm. Those earnings breakout trades that I did in PII and ACI remind me of the trading I used to do in 2007 - 2014. They have the same feel. I need to stop doing them. I need to focus on the regular breakouts, not the huge gappers unless the news catalyst is really extraordinary. Like 100% sales increase or something like that. Otherwise forget it. Just avoid them. There are so many of these meaningless earnings trades and I am drawn to them like moth to flame. I need to find the right balance of price action and volume.
+
+Sorting by relative volume puts me in the wrong state. I need to scroll down the list.

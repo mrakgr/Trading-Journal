@@ -14017,6 +14017,18 @@ Let me watch this.
 
 This guy is quite impressive. He does good analysis.
 
-7:20pm. As a principle I should only be buying high volume breakouts in stocks that I'd otherwise want to hold using my longer term momentum system. If it's not in a part of the theme, then it shouldn't be in my portfolio either way. Volume coming in is just fuel, and the entry points and tight stocks are just an enhancement of my risk control protocols.
+7:20pm. As a principle I should only be buying high volume breakouts in stocks that I'd otherwise want to hold using my longer term momentum system. If it's not in a part of the theme, then it shouldn't be in my portfolio either way. Volume coming in is just fuel, and the entry points and tight stops are just an enhancement of my risk control protocols.
 
-I need to get better at this. No way can I 
+7:30pm. ![](images/image-1091.png)
+
+I can't believe he is trying to sell me on a moving average system, and he says he doesn't like some of those indicators he never explained because they can go down.
+
+Moving averages are clearly overfitting. I mean, yes, BTC worked great using monthly momentum systems in the past, but that doesn't mean it will work in the future.
+
+Pick some super growth stock and the alpha will look very different in the post-growth period.
+
+7:35pm. Damn I am tired, it was such a busy day.
+
+As a rule, I am going to avoid high volume breakouts in low momentum stucks. Period. There is enough opportunity in high momentum vehicles that I don't need the slower ones.
+
+I trade the markets, not the individual stocks. I trade the system.

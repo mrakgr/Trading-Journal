@@ -14013,4 +14013,10 @@ https://youtu.be/FnlPQFwAe0A
 
 Let me watch this.
 
+![](images/image-1090.png)
+
+This guy is quite impressive. He does good analysis.
+
+7:20pm. As a principle I should only be buying high volume breakouts in stocks that I'd otherwise want to hold using my longer term momentum system. If it's not in a part of the theme, then it shouldn't be in my portfolio either way. Volume coming in is just fuel, and the entry points and tight stocks are just an enhancement of my risk control protocols.
+
 I need to get better at this. No way can I 

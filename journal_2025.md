@@ -13515,3 +13515,32 @@ That I am concerned with the past is proof that I am not rational.
 It's not the humiliation that matters. Rather, irrational thought is humiliation itself.
 
 Rational thinking is the absolution of sin and the vanquishment of regrets.
+
+11:45am. https://youtu.be/aRKuP_Wgms0
+This one deficiency won't get you hired on our desk
+
+I might not be putting enough effort to join SMB right now, and also they are daytrading focused.
+
+Forget that. I just want to enjoy my life with the markets in the background rather than make that my all consuming passion. I enjoy learning how to trade, and making theories about it. I don't necessarily enjoy trading itself.
+
+The more I detach and think rationally, the long I will last as a trader.
+
+https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether
+
+I want the markets to be a part of my life. I just want to put on the trades, put in the stops and let them run. Every week I'll move them up. There is no need to complicate things any further.
+
+And during that time I will be working on the poker bot, or doing my paid work.
+
+I won't be the best trader, but I don't need to be one. I just need a way to limit my risk and compound my money exponentially. That's it.
+
+I don't need to go from 100k to 10m in a year like some degens. Even adding an extra 100k a year from trading would make a huge difference to my life. Even 50 and even 30k.
+
+I want to get to a million, but I don't need it. I must not lose sight of that.
+
+11:55am. For now, let me just see if I can paper trade successfuly. Back in 2007 - 2014, I never actually did better than break even, even while paper trading. And now in 2025, I am up 4.4%. So that's still about breakeven.
+
+If I can do well, and build up my track record over the years, that will open some doors.
+
+As good as programming is, I cannot make exponential gains as a software engineer, unless I literally crack AI.
+
+In order to life, I need some level of skill in trading. That is the reality of this world.

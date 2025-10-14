@@ -14036,3 +14036,24 @@ I trade the markets, not the individual stocks. I trade the system.
 7:40pm. Those earnings breakout trades that I did in PII and ACI remind me of the trading I used to do in 2007 - 2014. They have the same feel. I need to stop doing them. I need to focus on the regular breakouts, not the huge gappers unless the news catalyst is really extraordinary. Like 100% sales increase or something like that. Otherwise forget it. Just avoid them. There are so many of these meaningless earnings trades and I am drawn to them like moth to flame. I need to find the right balance of price action and volume.
 
 Sorting by relative volume puts me in the wrong state. I need to scroll down the list.
+
+9:25pm. https://youtu.be/DQ5MIQTJEVY
+An Easy Earnings Strategy You Can Learn Quickly
+
+Let me watch this and I'll head to bed. I've been out of energy for a while.
+
+9:30pm. Done for the day. I need to get less fancy and kick out the bad earnings trades from my playbook.
+
+I learned the trade from Pradeep a decade and a half ago. He trades episodic pivots on stocks that have a lot of neglect and rapid earnings acceleration. I remember him mentioning 50-100% sales increases.
+
+I on the other hand after learned about it proceded to trade every single earning breakout regardless their actual content. As long the volume was there and the price was going up rapidly I would go in.
+
+I need to be more selective this time around.
+
+Even on NBIS for example which had a huge contract with MSFT there was an offering and only then did the stock rally.
+
+Even if I kicked the +30% news gapper trades from my playbook, I think I could find enough opportunity elsewhere.
+
+9:35pm. Tomorrow I'll do it better. Focus on high volume breakouts in momentum stocks.
+
+This journal is really great. The fact that I can put in images makes a real difference.

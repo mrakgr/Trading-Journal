@@ -14469,3 +14469,95 @@ At this rate, maybe I should just become a daytrader.
 
 It's really good that I am paper trading. Earlier this morning I thought how I'll get to millions. Right now I am thinking that maybe regular jobs aren't such a bad thing.
 
+6:50pm. I'll leave the video for later I don't feel like it.
+
+![GLD](images/image-1161.png)
+
+Gold is going parabolic.
+
+![SMR](images/image-1162.png)
+
+Between SMR and ASPI retracing their gains, to the EDU platform mistake and GEVO incorrect buy, now SMR is acting poorly as well.
+
+Thank god I am paper trading.
+
+I should finish today down to 95k from a 100k starting point.
+
+7:10pm. ![GEVO](images/image-1163.png)
+
+This really was a short.
+
+I admit, when I saw MP go up I did think I might be making profits doing long momentum, but it's as I anticipated. The market is overbought and it's starting to get sold into. Even breakouts that aren't overstretched are starting to get dragged down.
+
+![MVST](images/image-1164.png)
+
+There really is something to this system of weekly lows. It gets obeyed a lot more often that I thought it would by chance.
+
+![RGTI](images/image-1165.png)
+![RGTI](images/image-1166.png)
+![RGTI](images/image-1167.png)
+
+It would have been hard to catch this breakout.
+
+![RGTI](images/image-1168.png)
+
+I think I understand the delayed reaction episodic pivot. There is an absurd gap, a decline the next day and then the rebound.
+
+NBIS had a similar pattern. I should be buying on the rebound and use the weekly lows to trail the stop.
+
+7:25pm. These high volume breakouts are often the start of the bigger move. They give the initial burst of momentum to it. The first push that gets the ball rolling.
+
+![SMR](images/image-1169.png)
+
+Some of the stocks like SMR are very close to the low of the day.
+
+![BZAI](images/image-1170.png)
+
+In BZAI I got stopped out already.
+
+![BZAI](images/image-1171.png)
+
+Too bad I was buying the second breakout instead of the first.
+
+![NVTS](images/image-1172.png)
+
+This one I let get away.
+
+![NVTS](images/image-1173.png)
+
+Here is the weekly. Note the rising lows.
+
+![RMCO](images/image-1174.png)
+![RMCO](images/image-1175.png)
+
+Once again this was making higher lows for quite a few weeks.
+
+![RMCO](images/image-1176.png)
+
+Here is how the initial breakout looked like.
+
+![RMCO](images/image-1177.png)
+
+Here is the full move.
+
+![](images/image-1178.png)
+
+Ok enough of this. Pretty much all the momentum leaders here had unbroken chains of higher weekly lows.
+
+I don't know why I never noticed this pattern in 2007 - 2014 on the stocks I was trading back then.
+
+7:50pm. This also reminds me why exactly I quit trading in 2014.
+
+Enough, looking at charts isn't going to help. Sometimes the breakouts work. Sometimes they don't. All I have to do is play the odds.
+
+For the paper trading account, I'll ignore the market conditions and just play the stocks as intended. Buy them earliest as possible in the morning, put the stop in, and let them run. Trail the stops along weekly lows.
+
+I've gotten very emotionally involved despite trading only for a few days.
+
+Maybe for my real account, I have to do as Kris says, which is to set aside some money as risk capital.
+
+Last night I've been thinking that I should think of the trades that have been made as already a being lost. The exact loss I should consider according to the stop.
+
+7:55pm. I have to get a grip on myself. This is only paper trading. If I am getting emotionally involved with paper trading, how much worse could trading with real capital be?
+
+Let me do something else.

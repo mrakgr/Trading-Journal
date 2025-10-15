@@ -14175,3 +14175,20 @@ I coul have entered with a very tight stop in the first 20m. Maybe not the first
 
 But I'd need to understand the importance of the headline. It's isn't like the PII headline where they just spun off one of their losing divisions. It was a huge sales increase due to a government policy change.
 
+![VFS](images/image-1104.png)
+
+Wow, what a momentum move off the open.
+
+1:45pm. ![](images/image-1105.png)
+
+Oh wow, he is talking about the option / warrant arbitrage.
+
+He is so good. How the hell does he have the time to figure out all of this?
+
+1:50am. One more video left in the course, but I need to do the exercises and do the chores. I'll leave it for after the midday hours.
+
+Yeah, I don't think I can add stocks like VFS into my playbook unfortunately. But this insight that optiosn can be used for arbs and also to get around lack of shorts is really interesting. I really need to learn more about options trading.
+
+![MNTS](images/image-1106.png)
+
+I'll put this stock on my watchlist again as the news catalyst is really strong, but it's most likely a scam. So I need to give the market time to decide.

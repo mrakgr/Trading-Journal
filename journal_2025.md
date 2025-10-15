@@ -14688,3 +14688,10 @@ Paper trading is king. It's giving me a chance to really think about how I do sc
 ![MNTS](images/image-1197.png)
 
 This stock was shit as expected. All the volume from yesterday and the buying momentum just vanished.
+
+9:50pm. https://youtu.be/uW95Cj44cLk
+Delayed reaction Episodic Pivots
+
+I'll watch this tomorrow.
+
+I've been working super hard, but this is more like a game. I am having a lot of fun. Beats playing video games.

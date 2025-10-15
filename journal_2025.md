@@ -14152,3 +14152,7 @@ Limit risk tightly. That is the true path.
 So the relative volume was 5. Ok. That's going to be my threeshold for A trades.
 
 MP was like that so I am lucky that I put in 30%.
+
+12:40pm. Time for breakfast. You know, there is no real reason to ever allow big winning trades to go back to breakeven like it would have happened in OPEN. I don't need that shit. I'll use the weekly lows at the last ditch effort, but if I get 10x my risk, I should strongly consider closing out the trade.
+
+Just take it easy in the market. The breakouts will be there every day.

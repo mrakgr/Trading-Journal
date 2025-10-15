@@ -14420,3 +14420,9 @@ I guess maybe that is the most important thing I need to figure out.
 Now let me watch the last vid in module 8.
 
 5:45pm. For the record GEVO had a loan extension as a catalyst. That can't be that good. I should've ignored it.
+
+![](images/image-1156.png)
+
+Yeah, let's put the change above 5%. It's not worth bothering with anything less.
+
+Now that I have these positions, the most important thing is to hold them.

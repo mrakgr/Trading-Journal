@@ -14426,3 +14426,46 @@ Now let me watch the last vid in module 8.
 Yeah, let's put the change above 5%. It's not worth bothering with anything less.
 
 Now that I have these positions, the most important thing is to hold them.
+
+6pm. ![MP](images/image-1157.png)
+
+Now the only question is whether I made a mistake pulling up the stop rather than leaving it below Monday's low.
+
+That was most likely a mistake.
+
+Had I a 10% position maybe I wouldn't have been tempted to pull them up.
+
+6:05pm. Agh, whatever. Let me just continue doing this and I'll see where it gets me.
+
+I had a hunch that I might have made a mistake pulling up the stops on MP and ASPI. Pulling up stops in this manner wasn't a part of my plan at all and yet I did it.
+
+Lessons so far:
+
+* Check the position value before placing an order. EDU
+* Don't pull up stops for second day trades. MP
+* Don't buy stocks up too much compared to the overall value area of the past month even if they aren't overextended on a daily basis. GEVO.
+
+6:05pm. It's pretty brutal when stocks go down. Why can't they just keep going up?
+
+6:20pm. ![MP](images/image-1158.png)
+
+I don't like selling out here. Let me buyin for 10% of my position.
+
+Today is a good refresher just how much of a beast the market is. It gives and it takes away.
+
+It's a good reminder that I need to hold my winning position in order to get value from them instead of running.
+
+![CRWV](images/image-1159.png)
+
+I need to watch Coreweave carefully for breakouts.
+
+6:35pm. ![ASPI](images/image-1160.png)
+
+Damn it, the stop was going to get hit definitely so I am moving away to Monday's low where it was originally.
+
+If it wants to hit it there then so be it.
+
+At this rate, maybe I should just become a daytrader.
+
+It's really good that I am paper trading. Earlier this morning I thought how I'll get to millions. Right now I am thinking that maybe regular jobs aren't such a bad thing.
+

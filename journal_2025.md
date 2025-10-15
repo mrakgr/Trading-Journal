@@ -14673,4 +14673,18 @@ This move would actually be pretty hard to trade due to all the epic flushouts. 
 
 Don't be a pig.
 
-Some things are just to volatile to deal with even if they go up a lot. I shouldn't base my entire strategy on catching the BTC move. It's the outlier of outliers.
+Some things are just too volatile to deal with even if they go up a lot. I shouldn't base my entire strategy on catching the BTC move. It's the outlier of outliers.
+
+It was actually a pretty hard trade, and basing your system on doing the hard things leads you to buying and holding. It's absolutely certain that the reason people are buying and holding BTC is because the market trained them to do it.
+
+You know how the weak poker bots trained using policy gradients don't understand the game so they converge to a policy of raising non-stop or calling non-stop? That's current day crypto investors. The market pretty much broke them psychologically, and then next thing that will happen is that it will kill them financially outright.
+
+9:35pm. ![MP](images/image-1196.png)
+
+It came quite close to testing the lows.
+
+Paper trading is king. It's giving me a chance to really think about how I do screening and what system I really want to use.
+
+![MNTS](images/image-1197.png)
+
+This stock was shit as expected. All the volume from yesterday and the buying momentum just vanished.

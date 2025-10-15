@@ -14057,3 +14057,24 @@ Even if I kicked the +30% news gapper trades from my playbook, I think I could f
 9:35pm. Tomorrow I'll do it better. Focus on high volume breakouts in momentum stocks.
 
 This journal is really great. The fact that I can put in images makes a real difference.
+
+10/15/2025
+
+9:50am. I am up. After some thought, I've realized that I haven't bet enough on KOPN and INDI. If the volume is good, I'll try going for a second day play with them.
+
+It's good that I am making these fuckups now instead of with real money.
+
+It's truly time well spent.
+
+I am afraid that the bubble might pop and lead to a multi year bear market. But you know, maybe there will just be a regular panic before a much bigger bubble. In that case I'll have the opportunity to make some really big money.
+
+We might be in 97 instead of 99.
+
+10am. Paper trading right now is ideal. I am getting a ton of value from TradingView. It gives me a chance to work on my method before I use it with real cash.
+
+Next month, if it turns out that the startup fund raising is starting to lag, I'll initiate the process to close the company and transfer the assets into my personal ownership. I'll have to close and open a personal IBKR account, but that is fine.
+
+Initially when I open an account, I am going to trade 50% of my full size just to build up a profit cushion.
+
+10:05am. At any rate, let me chill until 3pm. Then the workday starts for real again. I want to bet more on regular breakouts instead of earnings gappers.
+

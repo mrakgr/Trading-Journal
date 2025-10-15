@@ -14561,3 +14561,116 @@ Last night I've been thinking that I should think of the trades that have been m
 7:55pm. I have to get a grip on myself. This is only paper trading. If I am getting emotionally involved with paper trading, how much worse could trading with real capital be?
 
 Let me do something else.
+
+8:25pm. No, I have to admit something.
+
+![RHM](images/image-1179.png)
+![EXA](images/image-1180.png)
+
+Trailing the stops along the weekly lows would have worked horribly in these stocks!
+
+And to think I spent so much time studing them, and basing my entire system on taking advantage of them.
+
+They and BTC are what caused me to go into the 8 - 12 week momentum systems initially.
+
+![](images/image-1181.png)
+
+Let me setup the screener like this. Now I won't have to pay attention to flying trash. Breakouts above 30% per day can be avoided. I don't have to pay attention to them. I might miss some earnings breakout that goes up way more than expected, but whatever. Let's focus on what is the common case for high volume momentum breakouts. That is where the real money is.
+
+![HLIO & BLFS](images/image-1182.png)
+
+Damn, I didn't see these two at all.
+
+They are super illiquid. Nwm.
+
+![TGEN](images/image-1183.png)
+
+This one was good.
+
+Let me buy it. I didn't even notice the market is open.
+
+![TGEN](images/image-1184.png)
+
+I've only put 5% of my account into it to limit risk.
+
+Note how once the high volume breakout came, the weekly lows system worked very well.
+
+It actually works more often than not on these momentum moves.
+
+Agh, why did I spent time thinking about EXA and RHM?
+
+![BZAI](images/image-1185.png)
+
+This thing hit my stop and recovered. That was super annoying. But it's a good lesson.
+
+Don't pull up stops.
+
+![WTTR](images/image-1186.png)
+
+Now this is breaking out in the middle of a day. Skip. No long term momentum.
+
+![ARRY](images/image-1187.png)
+
+Why is this stock even on the screener?
+
+![BZAI](images/image-1188.png)
+
+I'll try this again this time with a the stop at the low of the day.
+
+![SMR](images/image-1189.png)
+
+This feels good. It found support exactly at the low of the day. Had I been just a little bit smarter and put my stops tighter I would have gotten stopped out.
+
+9pm. ![](images/image-1190.png)
+
+Let me go with this screen for now. Only 26 stocks to look at. Just the way I like it.
+
+I've been wasting too much time looking at stocks that don't move.
+
+I'll have to figure out what to do with stocks like RHM and EXA. Probably I'll just switch to a system of selling only on Friday closes if I can anticipate being in such stocks, but who knows?
+
+I think if I am using such a system, I'll cut the position size in half to compensate for the increased risk.
+
+It's a minor change, but not having a hard stop to protect profits could be rough.
+
+Well, trend following systems which sell into lows are rough in general.
+
+9:05pm. I should learn my lesson well from today's selloff. While pulling up stops can make you feel safer, they tend to be hit much more often.
+
+Back in April and May I had such a strong mindset of letting profits run. I need to get back to it.
+
+![EXA](images/image-1191.png)
+
+Yeah, I want to have a hard stop in place. If I get shoved out of the trade once, how about I just trail the stop using the previous week's low rather than the current one?
+
+And if the previous week's low is higher than the Friday's close, just sell?
+
+![BTC](images/image-1192.png)
+
+Yeah, instead of raising it to the current's week's low over the weekend, just raise it to the previous week's low.
+
+And if the current's week's low is lower than the previous week's low, raise it to that instead.
+
+![BTC](images/image-1193.png)
+
+Wow, I really like this rule. I have no idea why I was hung up on the notion that I had to raise it to the current week's low. I can be more flexible.
+
+This system would still protect almost as much profits as the previous weekly system would, but would not get out prematurely during the types of moves that RHM, EXA and BTC had.
+
+But at the same time it would work much better than the 8 - 12 week rules and the weekly system I had in mind.
+
+![BTC](images/image-1194.png)
+
+Now on fucking this, I don't know.
+
+This is the kind of price action that ends up training you to never sell.
+
+![BTC](images/image-1195.png)
+
+This move would actually be pretty hard to trade due to all the epic flushouts. It's not like you can just cleanly trend follow it like with some other moves.
+
+9:30pm. Yeah, if I am going to be using stops, I also need a strategy of selling into strength. Best to base it on volume. When volume explodes, like 2x higher than it was on the breakout day that started the move, then that should be a reason to sell.
+
+Don't be a pig.
+
+Some things are just to volatile to deal with even if they go up a lot. I shouldn't base my entire strategy on catching the BTC move. It's the outlier of outliers.

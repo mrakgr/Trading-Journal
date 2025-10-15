@@ -14156,3 +14156,22 @@ MP was like that so I am lucky that I put in 30%.
 12:40pm. Time for breakfast. You know, there is no real reason to ever allow big winning trades to go back to breakeven like it would have happened in OPEN. I don't need that shit. I'll use the weekly lows at the last ditch effort, but if I get 10x my risk, I should strongly consider closing out the trade.
 
 Just take it easy in the market. The breakouts will be there every day.
+
+![HKIT](images/image-1101.png)
+
+Chinese liquidation.
+
+1:30pm. ![MSOS](images/image-1102.png)
+
+Let me study this chart.
+
+...Damn, I can't find the chart for it on TradingView. Is it bust?
+
+![MSOS](images/image-1103.png)
+
+Ah, it's an ETF. Would have been an amazing second day play.
+
+I coul have entered with a very tight stop in the first 20m. Maybe not the first 10, I would've waited for the breakout to happen first.
+
+But I'd need to understand the importance of the headline. It's isn't like the PII headline where they just spun off one of their losing divisions. It was a huge sales increase due to a government policy change.
+

@@ -14449,7 +14449,7 @@ Lessons so far:
 
 6:20pm. ![MP](images/image-1158.png)
 
-I don't like selling out here. Let me buyin for 10% of my position.
+I don't like selling out here. Let me buyin back for 10% of my position.
 
 Today is a good refresher just how much of a beast the market is. It gives and it takes away.
 

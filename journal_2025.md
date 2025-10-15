@@ -14138,3 +14138,17 @@ Forget Pradeep's rule about not buying a stock when it's up 3 days in a row. Whe
 These trades had such limited risk and such upside to them.
 
 There wasn't even a strong opening drive off the open, instead it just trended up for the duration of the day.
+
+This is how an A trade looks like.
+
+I need to put 30% into A trades, 10% into B trades and 3% into C trades.
+
+For A trades, I am going to put 30% in the first 10 mins and then reduce it to 10% if the trade doesn't take off within the morning hour, in effect treating it as a B tier trade.
+
+Never let the trades break below the weekly low.
+
+Limit risk tightly. That is the true path.
+
+So the relative volume was 5. Ok. That's going to be my threeshold for A trades.
+
+MP was like that so I am lucky that I put in 30%.

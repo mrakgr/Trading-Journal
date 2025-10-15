@@ -14078,3 +14078,63 @@ Initially when I open an account, I am going to trade 50% of my full size just t
 
 10:05am. At any rate, let me chill until 3pm. Then the workday starts for real again. I want to bet more on regular breakouts instead of earnings gappers.
 
+10:15am. Just a little bit more.
+
+A big question I need to answer is which earnings plays or rather breakouts I want to enter on the first, and on the second instead.
+
+11:25am. Watching Lance's course.
+
+Going by the 2 day criteria, it doesn't seem the panic is going to happen. So yes, I'll continue to push my luck. My stops are tight, so the losses are limited. In paper trading mode I don't have to worry about liquidity, and that wouldn't be a worry either way given the small size of my real money account.
+
+I really do have a lot to learn from Pradeep. He trades those low volatility high priced stocks and is making bank, but I on the other hand am drawn to all kinds of crap.
+
+I need to lower my volatility threshold. It doesn't matter how much the stock moves in absolute terms. What matters is the risk to reward.
+
+Those huge gappers even they have good opening drives that sustain, can drop like a rock the next day.
+
+A stock opening near the high of the previous day is much safer. I need to focus on those.
+
+Just one specific setup is what I need to master. Don't be lured by euphoria. Be lured in by smooth and clean breakouts.
+
+![MNTS](images/image-1092.png)
+
+The whole reason I am not trading shitcoins is because there are no tokens with good momentum. So why put my money into this?
+
+Why did I put my money into ACI?
+
+![ACI](images/image-1093.png)
+![ACI](images/image-1094.png)
+
+Would have been a good daytrade, but that isn't what I am looking for. Where is the longer term momentum.
+
+![PII](images/image-1095.png)
+
+This is actually kind of okay. Maybe a B-C trade, but certainly not A.
+
+It's not a huge gap, it opened near the previous day's high.
+
+![PII](images/image-1096.png)
+
+Has second day play potential.
+
+![PII](images/image-1097.png)
+
+It's actually a pretty good trading stock. It's not a swing momentum stock in this environment. If I was daytrading I'd look for OBRs the next day.
+
+![BBAI](images/image-1098.png)
+
+This had such a good breakout earlier in the month. Take a look at the volume.
+
+![BBAI](images/image-1099.png)
+
+You can see how it started building on the dailies. ASPI is having the same pattern which is why I bought it. What about the Feb breakout?
+
+![BBAI](images/image-1100.png)
+
+Simply fucking fantastic!
+
+Forget Pradeep's rule about not buying a stock when it's up 3 days in a row. When it breakout out of long term resistance for the first time on massive volume in the first 10 mins I should be getting in either way.
+
+These trades had such limited risk and such upside to them.
+
+There wasn't even a strong opening drive off the open, instead it just trended up for the duration of the day.

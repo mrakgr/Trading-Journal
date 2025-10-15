@@ -14192,3 +14192,231 @@ Yeah, I don't think I can add stocks like VFS into my playbook unfortunately. Bu
 ![MNTS](images/image-1106.png)
 
 I'll put this stock on my watchlist again as the news catalyst is really strong, but it's most likely a scam. So I need to give the market time to decide.
+
+3pm. Made it barely in time. I thought it would be been 3:30pm by now. Time to check out the premarket.
+
+![MNTS](images/image-1107.png)
+
+There goes the stop for the low of the day. Shit stock.
+
+3:05pm. ![STEM](images/image-1108.png)
+
+I'll put this on my watchlist just in case.
+
+![LWLG](images/image-1109.png)
+
+Let me put this on the chart.
+
+![UMAC](images/image-1110.png)
+![UMAC](images/image-1112.png)
+
+Worth it to try buying high volume breakouts in this.
+
+![SKYT](images/image-1111.png)
+
+This one is interesting. Nice tight consolidation.
+
+![NUS](images/image-1113.png)
+
+Needs watching.
+
+![BWXT](images/image-1114.png)
+
+Oh my god, look at this earnings breakout. So much gap, went nowhere.
+
+![AMPX](images/image-1115.png)
+
+3:32pm. ![](images/image-1116.png)
+
+Crap the screener is acting up. It's showing too much relative volume for most of these.
+
+![](images/image-1117.png)
+
+Damn, the volume here is 0.2, but it's showing 50 in the screener.
+
+![SMR](images/image-1118.png)
+
+This one might be a buy.
+
+![AMPX](images/image-1119.png)
+
+This one is a buy. 10%.
+
+![GEVO](images/image-1120.png)
+
+Also bought this. 10%.
+
+It's a bit run up so I wasn't confident putting 30%.
+
+![TE](images/image-1121.png)
+
+TE's gap is too large.
+
+![](images/image-1122.png)
+
+Even though GEVO has been up in anticipation of this, it's a very steady stock, which is why I felt confident in buying it.
+
+![BBAI](images/image-1123.png)
+
+BBAI stopped me out for break even.
+
+![SMR](images/image-1124.png)
+
+Oh, this is a buy. 15%.
+
+![GEVO](images/image-1125.png)
+
+No, I might have made a mistake. GEVO is still up 30% from its range.
+
+![GEVO](images/image-1126.png)
+
+Ah whatever, it only 300 more to the stop. No point in bailing here. 
+
+![AMPX](images/image-1127.png)
+
+Compare this one to ...
+
+![GEVO](images/image-1128.png)
+
+If it wasn't for the previous 2 days, would I have bought it given what I was saying about gaps?
+
+Ok, that's one thing which I need to fix. I must not be swayed by the last few days of price action when determining the size of the gap.
+
+![FIGS](images/image-1129.png)
+
+Analyst upgrade. Skip.
+
+![AEVA](images/image-1130.png)
+
+I am considering this one.
+
+The volume is hardly extraordinary though. The pattern isn't that good either.
+
+C tier. Skip.
+
+![INDI](images/image-1131.png)
+![KOPN](images/image-1132.png)
+
+Should've bought more of these yesterday. They deserved to be 10% each instead of 2.5.
+
+Oh yeah, how are ACI and PII doing?
+
+![PII](images/image-1133.png)
+![ACI](images/image-1134.png)
+
+Neutrally.
+
+Mhhh, that's fine. Yeah, you have these huge earnings breakouts and then the market cools down right the next day. Trash.
+
+![GEVO](images/image-1135.png)
+
+Stop! Noooooo!
+
+![GEVO](images/image-1136.png)
+
+Got stopped out. What a miss. I've made a mistake. High volume won't save me if the setup is bad.
+
+![EDU](images/image-1137.png)
+
+This is also a buy.
+
+Yeah, it's weird that somebody is buying this big after the tarrif increases.
+
+Oh, fuck!
+
+I just lost 1k due to making a too huge position I had to close it out immediatelly!
+
+![](images/image-1138.png)
+
+What the fuck!
+
+I put in 10% balance. Why did it buy 500k?
+
+![](images/image-1139.png)
+
+Oh Jesus, what the fuck was that?
+
+I thought there was something weird going on given that it was showing margin, but it never occured to me to look at trade value.
+
+![](images/image-1140.png)
+
+Now this is a 11k position. 
+
+Thank god I am paper trading. This was 1% of my account down the drain.
+
+New rule. Always look at the trade value.
+
+![MP](images/image-1141.png)
+
+MP is selling off hard today. Not that far from my stop. 
+
+![](images/image-1142.png)
+
+The market is doing well today too.
+
+![](images/image-1143.png)
+
+Why is this order so weird. Why is it showing me Margin USD instead of just USD?
+
+![BZAI](images/image-1144.png)
+
+Let's also get this one.
+
+![BZAI](images/image-1145.png)
+
+It seems I bought it just as it was breaking out.
+
+![BZAI](images/image-1146.png)
+
+Breakout above long term resistance. No news catalyst.
+
+![BZAI](images/image-1147.png)
+
+Unlike GEVO, this one has support at a far higher level than the last two days would indicate because it was blasting off from a low point rather than a high point.
+
+![GEVO](images/image-1148.png)
+
+Check the difference.
+
+![SMR](images/image-1149.png)
+
+Hmmm, what is this timer to the right of the bar? Ah, it's counting down its length. Never noticed it before.
+
+![PLD](images/image-1150.png)
+
+Sometimes TradingView can be weird. I can't actually type in PLD into the search bar.
+
+![IRBT](images/image-1151.png)
+
+Suddenly volume came into this. Don't want to buy it here.
+
+I'll add it to the watchlist and try it tomorrow as a second day play.
+
+I still have no idea why EDU was displayed as margin USD and % of balance was far more than it says it should.
+
+![](images/image-1152.png)
+
+As if losing 1k for no reason wasn't enough, it's turning around again.
+
+![GEVO](images/image-1153.png)
+
+My god, look at this rolling over. I thought of putting in a short, and that might have been a good idea, but I am not a daytrader.
+
+5:35pm. At any rate, let me stop here for the day. The setups that are in play have been bought. Especially glad that I managed to catch SMR. I should put in a filter so it only shows those up at least 4% and less that 20%. It might also not be a bad idea to just make these decisions off the momentum screener.
+
+![](images/image-1154.png)
+![](images/image-1155.png)
+
+I think I am long 90% right now. Those GEVO and EDU trades wrecked me.
+
+You know, maybe that upcoming job is what I need.
+
+5:40pm. Seeing my equity go down like this isn't a pleasant feeling. It's rough. But I should remember the spirit of holding profits that I had back in March and just do it.
+
+Though now that I am 90% long, how will I handle tomorrow. I won't have any buying power left.
+
+I guess maybe that is the most important thing I need to figure out.
+
+Now let me watch the last vid in module 8.
+
+5:45pm. For the record GEVO had a loan extension as a catalyst. That can't be that good. I should've ignored it.

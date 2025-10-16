@@ -14827,3 +14827,32 @@ A big bear market will happen eventually, but those kinds of markets don't happe
 Maybe a big bull market like between 1997 - 1999 will precede it first and I shouldn't miss it.
 
 My stops are tight so I shouldn't worry about prolonged bear markets happening. I'll be long gone from the market by the time they happen.
+
+11:15am. Now that this is out of the way, I should focus on resting. Yesterday I was so busy I forgot to even do my shoulder exercises.
+
+https://youtu.be/ecMOtP5T1KU
+CRYPTO CRASH: I'm done, crypto is all a SCAM.
+ 
+The comments section in this video is hillarious.
+
+![](images/image-1205.png)
+![](images/image-1206.png)
+![](images/image-1207.png)
+![](images/image-1208.png)
+![](images/image-1209.png)
+
+Lol.
+
+![](images/image-1210.png)
+
+> Forgive me for being so brutal, but anyone that trades BTC with leverage is stupid. Bitcoin trades with roughly 4–6× the volatility of the S&P 500 and 5–8× that of gold. In other words, just owning spot BTC is already like trading a 5× leveraged equity ETF. And you want to lever that vol? The chances of being knocked out of a leveraged position before the long-term move plays out are very high. Many traders lose money in bull markets simply because they were forced out on volatility spikes. Bitcoin IS leverage. You don't trade it. You OWN it.
+
+Key comment.
+
+![](images/image-1211.png)
+
+The replies to it are literally braindead.
+
+11:30am. ![](images/image-1212.png)
+
+This guy is such a douchebag, it's amazing.

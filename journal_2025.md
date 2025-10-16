@@ -14866,3 +14866,39 @@ This guy is such a douchebag, it's amazing.
 Very good comment.
 
 11:55am. I didn't feel like watching the entirety of that delusional video. Let me have breakfast.
+
+2:20pm. Now that I've pared down the screener, I should have an easier time with the opening. I thought that the `Relative Volume At Time` column was dependent on the setting inside the chart, but that it wrong. Most likely it considers the volume in the premarket either way and also it only updates itself every 5 mins.
+
+That's why some stocks have such absurt relative volume near the open.
+
+Just forget about it during the first 5-10 mins.
+
+The first thing I have to do during the open I pay attention to IRBT. I want to see whether volume comes in the second day or whether this was a random 1 day spike.
+
+If it starts acting well, I'll take a position in it.
+
+2:30pm. Time for a lesson. Let me show a chart.
+
+![CROX](images/image-1215.png)
+
+This was a chart that originally gave me a lot of trouble, but is now completely transpared to me.
+
+![CROX](images/image-1216.png)
+
+In particular note this part here. Note how in the easy part of the upmove the stock was continually making new higher lows on the weekly for 20 bars straight.
+
+And then once that pattern was broken, the stock still continued going up, but the 2 week system starts to be continually violated.
+
+The stock would break the 2 week low, make new highs, and then break the 2 week lows again. Even though the uptrend was still intact by some definition, the momentum was dying. And then the stock finally cracked.
+
+I finally understand it. I want to be in a stock when it smoothly making higher lows on the weekly charts, and I can just skip the hard part of the upmove.
+
+I should be trading weekly trends, not the monthlies.
+
+That is my edge.
+
+I finally get it!
+
+Lance Breitstein made a huge impact on me. I think something just clicked when I saw him use a 2 minute bar trend following system in the right contexts.
+
+I think I'll be able to take it easy in the stock market from here on out.

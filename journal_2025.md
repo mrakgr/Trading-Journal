@@ -15113,3 +15113,48 @@ Not my kind of setup.
 
 Made a bunch of trades today, we'll see how they do.
 
+4:50pm. ![](images/image-1259.png)
+
+THe market itself is doing well.
+
+Yeah, this is nice. This is how I wanted to trade all along I think.
+
+Just open a bunch of lottery tickets and hold them to fruition. Pull up the stops at the end of every weekend.
+
+None of the positions should be large enough to cause me worry. It cannot be simpler than this.
+
+4:55pm. I have to pay attention more to what the indices are doing in case fear comes into the market. Let me put QQQ IWM and SPY on the watchlist.
+
+![](images/image-1260.png)
+
+Yeah, like this.
+
+I keep forgetting to monitor the overall market.
+
+Let me stop for real here.
+
+Every day I make an improvement to the system.
+
+Hmmm, let me also add the VXX.
+
+![INCY](images/image-1261.png)
+
+Got stopped out on INCY. Forget this trade. It was only a 3k position.
+
+![IRBT](images/image-1262.png)
+
+I wonder if I'll get stopped out on this too?
+
+I'll come back to see at the end of the day.
+
+5:25pm. ![](images/image-1263.png)
+
+Here is some fun reading on Reddit stocks. I don't really like the Wall Street Bets crowd.
+
+5:35pm. ![](images/image-1264.png)
+
+Yeah, remember how I was in 2007. In 2007 I thought that all I needed a was a big stock market bubble and I'd be the next Dan Zanger or the next Darvas.
+
+All I'd need to do is buy stocks making new highs and then I'd make money.
+
+Back then I had no idea how much patience was necessary to turn a profit, and instead of a bubble I got a financial crisis in the following year. I had zero idea how to trade it.

@@ -14807,3 +14807,23 @@ At a certain point the broker's minimum comissions per order would start to both
 11:05am. Forget beating the market. I really just want to live with it. A farmer doesn't try to beat the earth and the sky.
 
 I need some humility as a trader.
+
+11:10am. My biggest priority right now should be to just get into the swing of things. To maintain an even mind when paper trading. Because if I cannot control myself when doing imaginary trades, how am I going to do it with real ones?
+
+And along the way, I can elaborate the method, get familiar with the screeners and the platform like I have been doing. I really like TradingView so far.
+
+I need to just work at it.
+
+I've been absent from the market for the past 1.5 months for emotional reasons entirely. I shouldn't sell just yet.
+
+Rather, another 2% down day like the one we had on Monday should be the sell signal to close out all my trades. That's how Gary Smith would have done it.
+
+When that happens, just go to cash and wait it out. Alternatively, I could also just ignore that and let my stops decide, but I'd rather get out early.
+
+And once an actual panic happens, I will put this system into motion with actual money.
+
+A big bear market will happen eventually, but those kinds of markets don't happen because you want them or because you are afraid they might happen. I am wasting my time even thinking about them.
+
+Maybe a big bull market like between 1997 - 1999 will precede it first and I shouldn't miss it.
+
+My stops are tight so I shouldn't worry about prolonged bear markets happening. I'll be long gone from the market by the time they happen.

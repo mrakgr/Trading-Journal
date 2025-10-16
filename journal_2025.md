@@ -14803,3 +14803,7 @@ When you're trading 3k, just how much can you split your positions into? 500$ po
 300$?
 
 At a certain point the broker's minimum comissions per order would start to bother me. I had all these hangups that I shouldn't have. I was obsessed about finding a system better than could never possibly exist. And along the way I was just making random trades and wasting my time. It's really sad when you think about it.
+
+11:05am. Forget beating the market. I really just want to live with it. A farmer doesn't try to beat the earth and the sky.
+
+I need some humility as a trader.

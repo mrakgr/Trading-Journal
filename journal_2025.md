@@ -14695,3 +14695,111 @@ Delayed reaction Episodic Pivots
 I'll watch this tomorrow.
 
 I've been working super hard, but this is more like a game. I am having a lot of fun. Beats playing video games.
+
+https://youtu.be/ieKRxpoh_1c
+How to enter Episodic Pivots
+
+10/16/2025
+
+10:10am. Yeah, you know what? I want to use the 2 week bar low system. Every week after Friday's close I will move the stop according to the following formula:
+
+`max current_stop (min prev_week_low cur_week_low)`
+
+In other words, move the current stop up to the minimum of the last two weekly bars.
+
+It's a simple, braindead trend following system anyone could use.
+
+Since it is trend following, I recalled during the night that actual trend followers and position traders diversify broadly.
+
+So what I am going to do is cut my position size to 10k for A trades and 3k for B trades. 1k for C trades I am not going to even bother with.
+
+A trades will be second day plays like in MP.
+
+Enter the stock and drag it along the lows after that.
+
+You can see how I started pulling up the stops in MP when my position was 30% of my portfolio.
+
+At 30%, I am definitely scared of the gap risk.
+
+But at the same time I am taking these position, I am swimming in too many opportunities and don't know what to do with them all.
+
+10:15am. I need to treat stocks like lotteries.
+
+Once it's paid for assume the money is lost. Only down the road might the system stop me out and then the winnings will be tallied.
+
+![BBAI](images/image-1198.png)
+
+Since I will be cutting my position size down, I want to add some pullback buying to my arsenal.
+
+![BBAI](images/image-1199.png)
+
+I've put in a buy limit here.
+
+![BBAI](images/image-1200.png)
+
+I have no idea why I always miss the pattern of higher lows on the weekly charts. They are so obvious once you look for them.
+
+I am starting to understand why Qullamaggie has such a boner for moving averages. Personally, moving averages are too much work.
+
+It's really shitty, but I doubt the limit order will trigger. We'll see. I've set the duration for the other to a week.
+
+![CRWV](images/image-1201.png)
+
+I really want to just buy CoreWeave so let me do it.
+
+![CRWV](images/image-1202.png)
+
+Who knows maybe it will dip.
+
+![CRWV](images/image-1203.png)
+
+In fact, let me put the stop below the previous week's low.
+
+![BBAI](images/image-1204.png)
+
+I'll also move the stop for BBAI below the prev week's low.
+
+10:35am. This is how I am going to operate.
+
+I thought about it for a while and I've come to accept my own inferiority as a trader. Real traders should trade with conviction, but I myself know nothing and understand nothing about the market so how could I ever have it?
+
+I am just making these random shitty bets based on the charts.
+
+And yet I am getting emotionally involved in the outcomes of the trades and how my stocks are behaving even though I know it is mostly noise.
+
+10:40am. I want a simple trading system that I could follow without much issue. And I think I have such a system right now.
+
+With 3k bets, I'll be able to use such a system even with real money on the line. I just need to wait for the market to setup.
+
+The work I am doing now will be extremely useful in setting up my future success. Then I will just grab my lottery tickets and see how they do.
+
+I'll aim for 30% per year.
+
+I need to stop daydreaming about 100% per year and more returns.
+
+If I want those I should do some real work and create daytrading systems. Or figure out how to make a LLM trade the news. Or a bot that can read the tape.
+
+This will give me high returns.
+
+10:50am. I need the current system so I can compound my wealth over time while I work on other things like actual paid work and poker bots.
+
+Who knows, maybe after I've used this system for a few years, maybe then will I approach some actual skill. But for now, I should just do what I need to do to make some returns.
+
+10:55am. Most importantly, I need to stop losing sleep over trading.
+
+I'll cut my position size down and adopt a diversified trend following approach in high momentum stocks.
+
+In the past I've talked about various reasons for my failure in the 2007 - 2014 period such as:
+
+* Not being able to find borrows for parabolic shorts.
+* Looking for a silver bullet due to the small account size and discarding existing good systems.
+
+But maybe my biggest issue that I haven't mentioned is that my account back then was simply too small to properly diversify!
+
+I forgot about that.
+
+When you're trading 3k, just how much can you split your positions into? 500$ positions at minimum maybe?
+
+300$?
+
+At a certain point the broker's minimum comissions per order would start to bother me. I had all these hangups that I shouldn't have. I was obsessed about finding a system better than could never possibly exist. And along the way I was just making random trades and wasting my time. It's really sad when you think about it.

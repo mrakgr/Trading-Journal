@@ -14856,3 +14856,13 @@ The replies to it are literally braindead.
 11:30am. ![](images/image-1212.png)
 
 This guy is such a douchebag, it's amazing.
+
+11:35am. ![](images/image-1213.png)
+
+![](images/image-1214.png)
+
+> I get your point but it is an entire banking system that requires no human intervention. An individual coin might not have any value but the blockchain concept is worth the entire banking industry.
+
+Very good comment.
+
+11:55am. I didn't feel like watching the entirety of that delusional video. Let me have breakfast.

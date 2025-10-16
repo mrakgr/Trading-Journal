@@ -15237,3 +15237,60 @@ As I watch this, I can only think - it's not that high volume breakout don't wor
 After the market gets hammered, that is when I should start making those kinds of trades.
 
 In fact, any system will start to work after a panic.
+
+6:50pm. To be honest, if I had been long in this situation, I probably would have shat myself out of the market at this juncture and had gone to cash.
+
+I am just wondering whether it is better to play momentum or buy dips?
+
+In MP for example I got stopped out. Would it have been better to instead have put my stop at a 2 weekly low instead for example?
+
+I think after a panic and near the start of the move, it would be a mistake to buy dips as the market will just take the stocks higher. But as the market starts to top, the dips will become more frequent, even as the market is making new highs. Then it cracks.
+
+If you only got a clean trendline break, trading would be easy, but it isn't like that. You need patience and perseverance.
+
+7:10pm. Still this experiment was way worse than I expected. The entire market is correlated in selling.
+
+I was specifically picking stocks that were recently breaking out because I was afraid of this selloff and I still got destroyed.
+
+![CRWV](images/image-1280.png)
+
+Lol'd at Coreweave. I put in a buy limit order at the exact low of the day it seems, and now the stock had rallied 5%.
+
+7:15pm. I am not sure what to think. Am I just being affected by short term sentiment?
+
+Is this the real top, or is my strategy of buying breakout fundamentally flawed at some level? Should I have put my stops at weekly lows instead of daily ones?
+
+![NVDA](images/image-1281.png)
+
+Nvidia has such nasty wicks.
+
+7:20pm. ![AMPX](images/image-1282.png)
+
+Very easy to imagine this being just a short term dip.
+
+![BTCUSD](images/image-1283.png)
+
+Bitcoin is breaking down below 110k.
+
+![XME](images/image-1284.png)
+
+Holy shit.
+
+![QBIT](images/image-1285.png)
+![QTUM](images/image-1286.png)
+
+QBIT which I've been watching for a breakout is down big, but QTUM is fine...
+
+7:45pm. Ok, let me stop this.
+
+I can't really square this out. What my own stocks and the momentum screeners are saying isn't at all the same as what the broader indices and ETFs are saying.
+
+I guess we'll see what happens next week. I think I should stop focusing so much on the market and resume programming. I haven't done it for nearly a week already.
+
+I have a big problem.
+
+Breakouts aren't without their risk. I think today demonstrates just how badly you can get hurt if you buy them at the wrong time.
+
+7:55pm. Yeah, that chart of CROX explains it all.
+
+The only question I need to answer is whatever I want to do short term betting on breakouts in order to do my entries or do I want to enter at the end of each week like before.

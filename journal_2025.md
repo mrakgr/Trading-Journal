@@ -14902,3 +14902,56 @@ I finally get it!
 Lance Breitstein made a huge impact on me. I think something just clicked when I saw him use a 2 minute bar trend following system in the right contexts.
 
 I think I'll be able to take it easy in the stock market from here on out.
+
+2:35pm. Let me watch this:
+
+https://youtu.be/_qA3yFjdTuA
+The Definitive Stock Trading Guide (for Beginners)
+
+I am just going to watch this to relax while I wait for the open.
+
+I had trouble sleeping last night. I was too excited to dream properly.
+
+2:55pm. ![](images/image-1217.png)
+
+I didn't know the penultimate one at all, and I thought Bloomberg was just for news.
+
+![](images/image-1218.png)
+
+Hmmm, for the premarket instead of relative volume at time, I might be better off just using relative volume directly. Often stocks don't have any volume at all premarket, so the volume figures are skewed. I'd be better to instead judge the buzz of relative volume.
+
+![](images/image-1219.png)
+
+Made this screener. Look how easy it is now.
+
+![](images/image-1220.png)
+
+Oh, nice, two of my holdings are on the list.
+
+![AREC](images/image-1221.png)
+
+I wonder if I should just be buying these stocks on declines?
+
+![AREC](images/image-1222.png)
+
+Sure it went from 7 to below 5 yesterday, but it's not like the uptrend according to my system has been violated.
+
+![WYFY](images/image-1223.png)
+
+Many stocks which seem insanely volatile according to the dailies have a streadily rising weekly low pattern.
+
+![WYFY](images/image-1224.png)
+
+I used to read charts like these as a beginning trader and though that this is impossible, nobody can trade it. 
+
+This is because I'd look at what happens when the stocks close at their high. I got it hammered into me in those early books that I read that stocks should be bought when they make new highs. This did a lot of damange. Darvas, O'Neil, Livermore all mislead me.
+
+What I should have done is taken a step back and realized that the higher lows on the weekly are really what matters.
+
+The trouble is that back then I had no idea of the market context or how to judge it.
+
+There are many ways to define an uptrend, but in my opinion the best one is to take a timeframe like the weekly, and then look for a series of higher lows. I am talking about sequential bars, not arbitrary chart patterns.
+
+That's also the simplest way to do it.
+
+There is no confusion in how long to hold or when to get out. Even if I get transported in the early 20th century without computers I could still easily trade this system.

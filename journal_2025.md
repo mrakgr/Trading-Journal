@@ -15158,3 +15158,9 @@ Yeah, remember how I was in 2007. In 2007 I thought that all I needed a was a bi
 All I'd need to do is buy stocks making new highs and then I'd make money.
 
 Back then I had no idea how much patience was necessary to turn a profit, and instead of a bubble I got a financial crisis in the following year. I had zero idea how to trade it.
+
+I think I need some of that blindly bullish mindset in this environment. Bubbles can become very intense before they pop. But unlike back then I will keep my eyes open. I won't blindly hope that a bull market comes my way. 2026 might be 2008 all over again or it could be 1998.
+
+All I hope is that a correction won't take too long so the market can reset and the stocks can setup properly again.
+
+Bullish or not, right now the leaders are just way too stretched out. I cannot possibly chase them even with paper trades.

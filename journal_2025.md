@@ -15164,3 +15164,76 @@ I think I need some of that blindly bullish mindset in this environment. Bubbles
 All I hope is that a correction won't take too long so the market can reset and the stocks can setup properly again.
 
 Bullish or not, right now the leaders are just way too stretched out. I cannot possibly chase them even with paper trades.
+
+![](images/image-1265.png)
+
+Damn, that is some momentum.
+
+![](images/image-1266.png)
+
+Yeah, it's unusual to have manias in several places at the same time.
+
+When the market is like this, the panics will be very sharp, but so will the rebounds. The rebounds will be quick and I'll have to pay attention to intraday reversal days as signals to begin buying. Gary Smith's strategies in the How I Trade For A Living book might be a good reference for the kind of bubble environment we might have in the next few years.
+
+It's good that I am game planing for this ahead of time.
+
+5:50pm. ![BZAI](images/image-1267.png)
+
+Ah goddamit.
+
+![IRBT](images/image-1268.png)
+
+I am also very close from getting stopped out in IRBT.
+
+![MP](images/image-1269.png)
+
+I didn't expect I'd be stopped out in MP.
+
+![IRBT](images/image-1270.png)
+
+Hmmm, I did get stopped out of IRBT.
+
+![AMPX](images/image-1271.png)
+
+In the end these were good shorts once they broke below the gap low.
+
+![](images/image-1272.png)
+
+Oh my god, I am down 7.5% in less than a week.
+
+I think I was at 98k at the start of the day and now I am at 92k.
+
+6:30pm. ![](images/image-1273.png)
+
+This is something my strategy in the middle of the year aimed to defense against. It feels like I am buying a stock, getting stopped out, buying a stock getting stopped out and so on.
+
+So to protect again this kind of churn, the earlier strategy would only rotate periodically.
+
+These high volume breakouts feel like just short term highs in the market. Let me check out how momentum stocks are behaving today.
+
+![](images/image-1274.png)
+
+Oh, the weakness that I see in the portfolio has been spreading to the overall market as well.
+
+![](images/image-1275.png)
+![](images/image-1276.png)
+![](images/image-1277.png)
+![](images/image-1278.png)
+
+This is roughly what I'd expect to see amongst the high momentum stocks on a day like this. They are all down huge. I'd be very surprised if only the stocks that I picked were down this much. That'd be some skill in reverse.
+
+Thank god I am paper trading.
+
+![GEVO](images/image-1279.png)
+
+I got stopped out in GEVO again.
+
+6:40pm. This situation confirms my bearish thesis overall.
+
+Will the market just shrug this off and rebound like nothing's the matter, in essence playing me for a fool?
+
+As I watch this, I can only think - it's not that high volume breakout don't work. I just need to make use of them at the start of a move, not at the end like I've been doing.
+
+After the market gets hammered, that is when I should start making those kinds of trades.
+
+In fact, any system will start to work after a panic.

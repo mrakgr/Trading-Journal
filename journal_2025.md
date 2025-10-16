@@ -14955,3 +14955,161 @@ There are many ways to define an uptrend, but in my opinion the best one is to t
 That's also the simplest way to do it.
 
 There is no confusion in how long to hold or when to get out. Even if I get transported in the early 20th century without computers I could still easily trade this system.
+
+3:15pm. ![SANA](images/image-1225.png)
+
+I don't know why the screener is so much different compared to what I see on the chart, but relative volume at time does work on premarket data. You can see how yesterday it had no volume premarket.
+
+3:20pm. ![IRBT](images/image-1226.png)
+
+This stock has a decent amount of premarket volume. I'll get it within the first 5-10 mins if the opening shows strong momentum backed by volume.
+
+Let me watch that video until the market opens. There isn't much to study right now.
+
+I have my plan. I just need to execute it. First see if IRBT has momo. And then look for other stocks having strong momo gains off the open after the first 5 mins have elapsed and the screener has updated its relative vol calculation.
+
+3:30pm. Time to pay attention to the market.
+
+![](images/image-1227.png)
+
+Now that I've tightened up the criteria, here is how it looks like off the open. I only have 21 stocks to look at. Much easier to deal with compared to what I had before.
+
+![QSI](images/image-1228.png)
+
+Should have gotten 3 days ago yesterday.
+
+![IRBT](images/image-1229.png)
+
+The volume is there, nice.
+
+I'll get 10% with a tight stop.
+
+![IRBT](images/image-1230.png)
+
+Now it might turn around and stop me out. If so fine. It might even shake me out and then make another attempt. If that happens, I'll wait for the next opening range break to get in.
+
+![QSI](images/image-1231.png)
+
+Probably the reason why I didn't buy this is because the volume wasn't there on the day itself. But it was there on the previous day and it was still elevated on the day itself, so I should have done so.
+
+Also Monday I had a completely different mindset, I thought stocks like these were overstretched.
+
+![](images/image-1232.png)
+
+Here is the screener at the current time which is 3:39pm.
+
+![IRBT](images/image-1233.png)
+
+Oh it doesn't look good.
+
+![EPAC](images/image-1234.png)
+
+Earnings breakout, but remember what I said. I need 50% sales increase, not 5%. Otherwise I am better off just buying breakouts in regular momentum leaders.
+
+![IRBT](images/image-1235.png)
+
+Wow, what a tense range. Who is going to win? The bulls or the bears?
+
+![SNA](images/image-1236.png)
+
+Another minor earnings beat. Won't lead to a large move.
+
+![INCY](images/image-1237.png)
+
+Oh, what about this?
+
+![INCY](images/image-1238.png)
+
+Got it right away as it is so clean.
+
+![](images/image-1239.png)
+
+Oh, wow, it has a relative volume alerts.
+
+![](images/image-1240.png)
+
+And this is a VWAP crossing alert!
+
+![GWRE](images/image-1241.png)
+
+No, I don't like these kinds of patterns. They are hard to trade.
+
+They are what Pradeep calls duration moves rather than magnitude moves.
+
+![IRBT](images/image-1242.png)
+
+Oh, here is the VWAP reclaim.
+
+![IRBT](images/image-1243.png)
+
+Oh wow, you really have to be watching this and react quickly to the breakout once it happens. It sure didn't wait for me to get in.
+
+4:10pm. ![MUX](images/image-1244.png)
+
+What a nice pattern. I like volatile stocks.
+
+The 2 weekly bar low system is in fact consistent with my previous views that you need to look at sequences of two weeks to get a sense of the trend and that anything else was noise. Back then though I thought that should be applied to the weekly closes rather than the lows.
+
+I am glad I had that misconception corrected.
+
+![MUX](images/image-1245.png)
+
+Here is how it looks on the daily.
+
+![NVTS](images/image-1246.png)
+
+I really missed NVTS. I won't let this happen again with real capital on the line.
+
+![IRBT](images/image-1247.png)
+
+Now it's back in the red again.
+
+4:15pm. Ok, let me stop here. There aren't any particular stocks on the screener that I need to look at.
+
+![GEVO](images/image-1248.png)
+
+Do I want to try GEVO again?
+
+![GEVO](images/image-1249.png)
+
+Let me give it a shot, this time with a 3% position.
+
+![QUBT](images/image-1250.png)
+
+This is going to break out fiercely so I might as well get a notification.
+
+![LQDA](images/image-1251.png)
+
+This one could be good.
+
+![LQDA](images/image-1252.png)
+
+On the daily it might not seem like a big deal, but on the weekly it has excellent trend persistence.
+
+![LQDA](images/image-1253.png)
+
+I am somewhat chasing it here.
+
+4:35pm. Enough. I am done for the day. I'll check the screener once more towards the close to see if any 2 day plays like IRBT need to be prepped for.
+
+Really, this is pretty easy. The only thing I might want to change is getting rid of the upper bound on the % change, just so I can see big gappers like NBIS.
+
+![](images/image-1254.png)
+
+That only added a few more stocks to the screen. It's not a big deal that I have to ignore some pennies in the process of being pumped and dumped.
+
+![SLNH](images/image-1255.png)
+![SLNH](images/image-1256.png)
+
+No forget this one. I hate it when stocks play games with the opening range.
+
+![SLNH](images/image-1257.png)
+
+Not my kind of setup.
+
+4:45pm. No, I am done. Not much of interest happening today.
+
+![](images/image-1258.png)
+
+Made a bunch of trades today, we'll see how they do.
+

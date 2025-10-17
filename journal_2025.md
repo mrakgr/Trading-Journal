@@ -15722,3 +15722,51 @@ Let me watch this while I have breakfast. The bigger lesson from all of this is 
 12:20pm. ![](images/image-1336.png)
 
 Wow, really? 5x levered ETFs for single stocks?
+
+https://youtu.be/vktuePfNEf4?t=2133
+> Tim:
+> It might have something to do with the trend that that started with Covid.
+> You know, a lot more retail participation.
+> It adds a dynamic, especially in these kinds of breaking news moments.
+
+> Garret:
+> It's true and did I read somewhere that retail put more money into the market in the last month or so than ever before?
+> I don't know. I don't know how much it is and people have been talking about that.
+> And I think...something that keeps coming to my mind, and I might just start waving a flag for this.
+> Everyone loves to say that retail's the dumb money.
+> Like, that's like the old school interpretation, right?
+> Like, retail just bought, it's got to be the end.
+> I mean, retail's been buying since the April low.
+> So I am going to start saying that retail's not the dumb money.
+> I think that with today's technology, the information flow out there, there are a lot of really talented retail traders.
+> And I think it's just missing something to just assume.
+> And of course, we're talking about people who're overleveraged, and there's the good and the bad.
+> But you know, these days what if retail's not wrong all the time anymore?
+
+Yeah, I've been thinking that as well lately. It amazing that he said it out loud. Even I myself while being far from good, and not making dumb mistakes with my money. I am managing to keep what I've earned.
+
+I am going to refocus on the poker bot.
+
+And I think what I am going to do when the panic comes is buy euro defense stocks again and see where that gets me. I am still bullish on europe. European military related companies are one growth area that's been underperfoming.
+
+I admit, I made a mistake buying those stocks after a huge rise, and used a trend following system that had overly long periods which prevented me from rotating my money in a timely manner.
+
+But even if this is the start of a bear market, after the panic lows, there will be a rally lasting for a few months. I can dip my money into euro defense stocks during that time.
+
+Though maybe I should just stay away entirely. That is also an option rather than having to risk bear markets on the long side. If there is a real crash, then I will have the option to get in with very strong conviction.
+
+Conviction is the one thing I lack at the moment.
+
+Ignore panics, wait for crash, buy euro defense stocks, and use the 2 week bar system to trail the stops. I only need that one trade to make big money. Though by that point, there would be a lot of value stocks rallying off the market lows, so I guess it wouldn't matter. Ah whatever, just forget.
+
+Just forget about the market, focus on the poker bot.
+
+If any good thing came from this week's trading episode it will be that I'll be able to ignore the market better going into the future.
+
+![](images/image-1337.png)
+
+I posted that article a few times.
+
+https://www.ft.com/content/094ebfb0-bbd8-42c4-9e93-0116d1f896de?sharetype=blocked
+Short sellers blame retail investors for worst returns since 2020
+

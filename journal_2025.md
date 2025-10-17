@@ -15770,3 +15770,11 @@ I posted that article a few times.
 https://www.ft.com/content/094ebfb0-bbd8-42c4-9e93-0116d1f896de?sharetype=blocked
 Short sellers blame retail investors for worst returns since 2020
 
+![](images/image-1338.png)
+
+RGTI's CEO sold all his stock according to this comment. Smart guy.
+
+https://youtu.be/Sz6jp04Sv7Y
+Top Wall St Trader Discusses - IS THE TOP IN FOR MARKET FROTH!? ($OKLO, $QBTS, $RGTI, $BITF)
+
+Here is Lance.

@@ -16053,3 +16053,31 @@ This is why I need to resume work on the poker bot. I'll give trading a rest for
 9:35pm. ![](images/image-1366.png)
 
 They might not be the smartest, but /biz/ posters are definitely the funniest.
+
+10:40pm. ![KRE](images/image-1367.png)
+
+I forgot how batshit insane the KRE ETF was in 2008.
+
+As a new trader trying to follow the trend, having read up on books and best practices, I found the rally insane. I wanted to short it when I was paper trading, but decided not to as that wouldn't be going with the trend. It was very confusing.
+
+https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html
+
+Anyway, this is the first crack in the US banking sector.
+
+https://www.reddit.com/r/stocks/comments/1o90opl/moodys_says_the_banking_system_private_credit/
+
+![](images/image-1368.png)
+![](images/image-1369.png)
+![](images/image-1370.png)
+![](images/image-1371.png)
+
+![KRE](images/image-1372.png)
+
+It's not down that much yet. The bear market hasn't started yet.
+
+I am going to bed here.
+
+10:40pm. It's ironic that it took me two decades before I could even define what a trend is.
+
+For me it's the current and the previous weekly bar above or below a stop price. Anything else is momentum.
+

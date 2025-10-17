@@ -15778,3 +15778,133 @@ https://youtu.be/Sz6jp04Sv7Y
 Top Wall St Trader Discusses - IS THE TOP IN FOR MARKET FROTH!? ($OKLO, $QBTS, $RGTI, $BITF)
 
 Here is Lance.
+
+![ALAB](images/image-1339.png)
+
+Look at that breakout in the middle and how the next day it poked out the lows.
+
+![ALAB](images/image-1340.png)
+
+This is so ridiculous. The tight stops aren't protecting me at all.
+
+![ALAB](images/image-1341.png)
+
+Getting poked out of that trade might mean the difference between losing 10% and making 100%. All because you couldn't give it a week or two to let the trend manifest.
+
+![APP](images/image-1342.png)
+
+Breakout, shakeout and then a large move.
+
+![APP](images/image-1343.png)
+
+Yeah, I've decided. Forget putting the stops on daily lows. I need to put them on 2 week lows, which means they will be decently away from any gap pokes.
+
+But they'll be moved up quickly enough.
+
+And having them be at 2 week lows will make me more realistic about how I am sizing my positions. If the risk is 2% of my account, the, maybe I'll be enouraged to size them smaller to make it 1%.
+
+1:35pm. https://youtu.be/Sz6jp04Sv7Y?t=698
+
+Very insightful commentary. His reasoning why OKLO might not have topped makes sense.
+
+![](images/image-1344.png)
+
+Lol'd at this tweet.
+
+2pm. ![](images/image-1345.png)
+
+I am really struggling right now.
+
+Yes, the 2 week bar trend following system would work.
+
+But I am looking at the 5 min charts on IONQ and am thining just how good some of these trend days are.
+
+The risk vs reward is just so crazy for some of these trades.
+
+You can make 10 times your risk in a single day, meanwhile with the 2 week system, you'd be lucky if you could do that in a few months.
+
+![IONQ](images/image-1346.png)
+
+Just take a look at this breakout.
+
+2:05pm. So yeah, I am against placing stops at the daily low. I guess precision entries simply aren't for me. But the real conflict is between daytrading and trend following using the 2 weekly bar system.
+
+The real problem is that I've been looking forward to trying out ORBs in order to get good entries in some big winners and to increase my RR that way. But if that cannot be done effectively, that makes the system a lot worse for me.
+
+It absurd that I got stopped out so many times before the market even broke.
+
+![](images/image-1347.png)
+> If you're not looking at CRML, you're doing yourself an injustice.
+
+2:15pm. ![](images/image-1348.png)
+
+Looked at where it is premarket.
+
+![ABAT](images/image-1349.png)
+
+Bad idea to hold this when it breaks prior lows.
+
+2:30pm. Let me do the chores here as well as the exercises.
+
+I am strongly agains trading right now. I won't look at the paper trading account for a few weeks. I'll just let those positions be stopped out.
+
+Once it is time to resume trading, I'll do it with increased awareness of what it entails.
+
+I think I'll go back to my end of week trading once it is time to do so.
+
+I think in an uptrend it is something like 70-80% chance that the weekly lows will be higher next week, so it's worth doing it.
+
+2:40pm. Forget making millions that way, it will only be to tide me over once I get the poker bot and the daytrading systems in place. Those are what will make me big money. Or the upcoming job.
+
+4:25pm. I have an idea for how to make this system work...
+
+4:35pm. ![EURUSD](images/image-1350.png)
+
+I started out with forex come to think of it. I changed to stock trading pretty rapidly.
+
+If I look at the chart and consider how the 2 week system would have worked, the answer would be horribly.
+
+![FCT](images/image-1351.png)
+![FCT](images/image-1352.png)
+
+These high/low charts are so good. They make it to eyeball how a trend following system would have done.
+
+Ok, here is what I want to try out.
+
+On the next rebound, I could try to risk 5% of my account. I could put the stops at 2 week lows and risk only 1% of my account on each position.
+
+So that would start me off with 5 positions where I risk 1% on each.
+
+Then if the trades work, if I move the stops to above breakeven, let's say two weeks later, my risk is essentially null.
+
+So I can risk another 5% of my account on 5 new positions. I could even add to my existing positions with this sort of system.
+
+In a strong bull market like the one we had, that could have made me a lot of money.
+
+I could go up to 200% and 300% long with this kind of system if all my positions start working out!
+
+4:45pm. During the initial part of the rebound off the lows, the volatility is the highest and the bars would be stretched so I'd size my positions down to compensate for the volatility. And as it contracts and the trend establishes I could size them up to account for the decreased risk.
+
+![](images/image-1353.png)
+
+Incidentally, if you look at the bar to the right. I got stopped out of nearly everything.
+
+![](images/image-1354.png)
+
+I think I'll use the old 2 week rule for re-establishing positions in the same stock, but really, I'd be much better off looking for different candidates instead. Getting stopped out at a 2 week low means the stock has weak momentum to begin with. Realistically, even a 1 week system should be enough let alone the 2 week one.
+
+![BBAI](images/image-1355.png)
+
+This whole episode make me realize that I should absolutely ignore where the stock is closing and what it's been doing during the day. Rather, the upthrust and the volume is what is important.
+
+I've been gotten screwed by these strong intraday rallies so many time this week. I think learning my lesson is proper.
+
+4:55pm. Lance is right. There is no need to be bearish on the market here. It's not like the downtrend has been established in any meaningful way. Who knows how long these manias will last.
+
+What matters is having a system to take advantage of them.
+
+5pm. I think I should just skip this system though. Long momentum is a hard game.
+
+If I want to go the length of trading professionally, I should take the time to learn how to daytrade. Scratch a successful trend follower, and you'll see a daytrader underneath. Even Livermore started out that way in bucket shops.
+
+I'll have time to think about it.

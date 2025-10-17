@@ -15687,3 +15687,7 @@ I wrote this last one.
 You know, maybe I am not that bad as a trader as it seems. Sure I fucked up and put my money into euro defense stocks when they were topping which caused me to miss the bull run profits, but I seem to be decently resistant to the fear of missing out. I am much more concerned with keeping my money.
 
 So I might be able to do okay long term if I can get my shit together.
+
+![](images/image-1335.png)
+
+Fun.

@@ -15709,3 +15709,16 @@ This bubble has been fueled by a handful of megacaps, which I don't feel like bu
 What I really want to do is just step away from the market and wait for a 2008 style crash and in the meantime enjoy the entertainment.
 
 Come to think of it, I hate calling this the AI bubble. It's not AI. It's just chatbots. It's a chatbot bubble.
+
+11:10am. I am going to refocus on the poker bot work.
+
+This was just me testing myself.
+
+https://youtu.be/vktuePfNEf4
+How to PROFIT from market crashes (Survive & Thrive)
+
+Let me watch this while I have breakfast. The bigger lesson from all of this is that if I had a daytrading system, I could have profited from some of these rises. But if I am going to be daytrading, that's a full time job, and I wanted something I could do part time.
+
+12:20pm. ![](images/image-1336.png)
+
+Wow, really? 5x levered ETFs for single stocks?

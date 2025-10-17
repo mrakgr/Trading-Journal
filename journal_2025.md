@@ -15962,3 +15962,90 @@ That's it.
 I just want to do my best this time around.
 
 Because I've already failed at trading.
+
+8:40pm. ![EXA](images/image-1363.png)
+
+Instead of outright price stops, maybe having stops that only sell on the close would be better. I remember that being one of Qullamaggie's rules for moving average closes.
+
+8:45pm. 
+
+///
+
+Yes — but not directly with a standard *stop order*.
+Interactive Brokers (IBKR) doesn’t have a built-in “stop that only activates near market close” order type. However, there are a few **practical ways to achieve that behavior**:
+
+---
+
+### 🧩 Option 1: Use a **Conditional Order**
+
+You can create a **conditional stop order** in TWS (Trader Workstation) or IBKR’s web app.
+
+**How:**
+
+1. Create a **STOP** (or **STOP-LIMIT**) order.
+2. Set it as **inactive** initially.
+3. Add a **time-based condition**, e.g.:
+
+   * *"Activate at 15:45 Eastern Time"* (15 minutes before market close).
+4. Once the time condition is met, the stop becomes active and will trigger if the price hits your stop level.
+
+**Pros:** Fully automated.
+**Cons:** You must set the time condition manually each day (or via an advanced API/algorithm).
+
+---
+
+### 🧩 Option 2: Use **IBKR API or Algo Order**
+
+If you’re comfortable with code or third-party tools:
+
+* Through the **IB API**, you can submit an order that activates only after a certain time.
+* For example, a script could:
+
+  * Check the time continuously.
+  * Submit a stop order at 15:45.
+  * Cancel it at 15:59 if it didn’t trigger.
+
+**Pros:** Full flexibility.
+**Cons:** Requires programming or a third-party automation tool (e.g., AlgoTrader, QuantConnect, or IBinsync).
+
+---
+
+### 🧩 Option 3: Manual Alternative
+
+If you’re managing swing trades:
+
+* You can set a **GTC stop** to protect you during the day.
+* Then near market close, **cancel/replace** it manually with a **Market-on-Close (MOC)** or **Limit-on-Close (LOC)** order if you want to guarantee exit.
+
+**Pros:** Simple and reliable.
+**Cons:** Manual action required each day.
+
+---
+
+### 🧠 Summary
+
+| Method                         | Automatic? | Works daily?         | Notes                        |
+| ------------------------------ | ---------- | -------------------- | ---------------------------- |
+| Conditional order (time-based) | ✅          | ⚠️ Needs daily setup | Easiest no-code method       |
+| IB API script                  | ✅✅         | ✅                    | Most flexible                |
+| Manual replacement (MOC/LOC)   | ❌          | ✅                    | Easiest human-managed method |
+
+---
+
+Would you like me to show exactly how to set up the **conditional stop order** in IBKR TWS (step-by-step)?
+
+///
+
+Hmmm, interesting. I think at some point I'll program such a system, but not right now.
+
+8:50pm. Yeah, you know what, forget going 200% just what was I thinking when I wrote that.
+
+I'll risk 3% and gradually bring that up to when I have only 100% invested at most.
+
+![](images/image-1364.png)
+
+Hmmmm...yes I am being lazy in how I trade.
+
+![](images/image-1365.png)
+
+This is why I need to resume work on the poker bot. I'll give trading a rest for a while.

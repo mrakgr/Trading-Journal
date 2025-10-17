@@ -16049,3 +16049,7 @@ Hmmmm...yes I am being lazy in how I trade.
 ![](images/image-1365.png)
 
 This is why I need to resume work on the poker bot. I'll give trading a rest for a while.
+
+9:35pm. ![](images/image-1366.png)
+
+They might not be the smartest, but /biz/ posters are definitely the funniest.

@@ -15542,3 +15542,148 @@ I got destroyed by the market this week buying breakouts and using stops put at 
 This is just paper trading. I am going to reset my account tomorrow and what I will do is place some bets on the stocks that I want to see breakout with stops at the weekly lows.
 
 Breakouts are just as bad as I thought they were back in the old decade.
+
+10/17/2025
+
+9:30am. ![RHM](images/image-1302.png)
+
+Wow, it's really getting destroyed. Same goes for EXA.
+
+![EXA](images/image-1303.png)
+![EXA](images/image-1304.png)
+
+Momentum trading can be perilous to one's wealth.
+
+![R3NK](images/image-1305.png)
+
+Yikes, best to drag those stops along the weekly lows.
+
+![R3NK](images/image-1306.png)
+
+The biggest problem though is those long wicks that stop you out and then reverse.
+
+![NVDA](images/image-1307.png)
+
+Yes, on the fakeouts, the next weekly low ends up being higher than the previous weekly low.
+
+![NVDA](images/image-1309.png)
+
+69 to 66 to 77.
+
+![NVDA](images/image-1308.png)
+
+Yeah, in a strong uptrend there can be these wicks, but every time the lower low has given way to a higher low higher than the previous week's low.
+
+![NVDA](images/image-1310.png)
+
+Hmmmm...
+
+Yeah, I called this the nasty wick, but momentum wasn't that great here.
+
+![MSTR](images/image-1311.png)
+
+I really should be following MSTR because it's a great proxy for investor sentiment.
+
+![SMR](images/image-1312.png)
+
+Is it really that surprising that SMR declined? It did that the last 2 times on these high volume breakouts.
+
+![SMR](images/image-1313.png)
+
+These would have made such great daytrades.
+
+I've just been buying high and selling low.
+
+![QUBT](images/image-1314.png)
+
+I don't know, these high volume breakouts failing like this is horror material.
+
+10am. Ok, enough. I need a break from the market. I couldn't sleep properly last night.
+
+I stared paper trading to test out the ORB system on high volume breakouts, and it's been a complete failure as far as making swing trades is concerned. It's not giving me good entries. It's been getting me in at the highs and then the stock either goes down the next day or melts over the next few.
+
+I am down nearly 10% in just 4 days.
+
+![KOPN](images/image-1315.png)
+
+What seems to be working are patterns like these where it breaks out and then sells off near previous support.
+
+![KOPN](images/image-1316.png)
+
+I believe in trend following using the 2 week bar system, but I am not sure about this business of buying breakouts.
+
+I did write how it was the wrong thing to do and yes, my results right now confirm it. I'd have been far better off buying pullbacks.
+
+![AREC](images/image-1317.png)
+
+Would've been better off shorting these stocks the day after their large volume breakouts.
+
+![AREC](images/image-1318.png)
+
+Seems like a climax top.
+
+![CRML](images/image-1319.png)
+
+Would have made pretty good daytrades. In fact the ORB would have cleaned up on them.
+
+Maybe holding till the close would have been ideal, but it'd have been way better than losing 10%.
+
+![CRLM](images/image-1320.png)
+
+These 2 down days look like the classic right side of the V.
+
+10:20am. ![MSTR](images/image-1321.png)
+
+Pre market it's down 4% now.
+
+![BTCUSD](images/image-1322.png)
+
+That's because Bitcoin is getting wrecked.
+
+![BTC](images/image-1323.png)
+![BTC](images/image-1324.png)
+
+Take note of the lower lows. This would have gotten me out according to the 2 week system.
+
+Given the bullish sentiment prior to this, and how the breakout above 120 seems to have failed, I'd be surprised if this doesn't lead to some kind of correction in the markets.
+
+10:30am. Yeah, I need a break from the markets.
+
+![VXX](images/image-1325.png)
+
+VIX is going up.
+
+![NVDA](images/image-1326.png)
+
+NVDA is the most important stock in the market where it goes, so will the market.
+
+10:40am. ![biz](images/image-1327.png)
+
+It's not like I even anticipated this. It's just that I didn't see much edge being in the market when it's this bullish. There was a lot of risk of losing.
+
+![](images/image-1328.png)
+![](images/image-1329.png)
+
+> This but in reverse.
+
+![](images/image-1330.png)
+
+> It wasn't brains that got me here. I can assure you of that.
+
+Lol.
+
+![](images/image-1331.png)
+
+This is funny, but I am so tired.
+
+![](images/image-1332.png)
+> Deaths. Deaths are coming.
+
+10:55am. ![](images/image-1333.png)
+![](images/image-1334.png)
+
+I wrote this last one.
+
+You know, maybe I am not that bad as a trader as it seems. Sure I fucked up and put my money into euro defense stocks when they were topping which caused me to miss the bull run profits, but I seem to be decently resistant to the fear of missing out. I am much more concerned with keeping my money.
+
+So I might be able to do okay long term if I can get my shit together.

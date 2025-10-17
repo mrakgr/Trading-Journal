@@ -15691,3 +15691,21 @@ So I might be able to do okay long term if I can get my shit together.
 ![](images/image-1335.png)
 
 Fun.
+
+11am. Ok, here is the plan. I am going to stop trading the open. Given this environment there is zero reason to do so. I am not obligated to be in the market when BTC is breaking down, the sentiment is at an extreme and there is major panic risk.
+
+The last 4 days have been an extremely good lesson for me. If you're buying fresh breakouts near market tops, you're going to lose a shitload of money.
+
+To be honest, all of this reduces my desire to trade significantly.
+
+I mean, what am I even supposed to buy on the rebound after the market panic?
+
+NVDA? Miners? Gold? Bitcoin?
+
+All speculative bubbles. It's not even like the Internet bubble when there was genuinely transformational tech being created.
+
+This bubble has been fueled by a handful of megacaps, which I don't feel like buying.
+
+What I really want to do is just step away from the market and wait for a 2008 style crash and in the meantime enjoy the entertainment.
+
+Come to think of it, I hate calling this the AI bubble. It's not AI. It's just chatbots. It's a chatbot bubble.

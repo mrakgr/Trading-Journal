@@ -15908,3 +15908,57 @@ What matters is having a system to take advantage of them.
 If I want to go the length of trading professionally, I should take the time to learn how to daytrade. Scratch a successful trend follower, and you'll see a daytrader underneath. Even Livermore started out that way in bucket shops.
 
 I'll have time to think about it.
+
+7:45pm. Done with lunch.
+
+![COAI/USDT](images/image-1356.png)
+
+I remembered this token and looked up how it's doing. Ok, maybe Tim Sykes' strategy would work on these tokens. This is batshit insanity. I thought the move from 0.2 to 2 was extreme, but these crypto tokens exceed my wildest expectations.
+
+![COAI/USDT](images/image-1357.png)
+
+Here is the daily.
+
+https://youtu.be/8oEQy8zKfjo
+ChainOpera Crash Soon? 💀 COAI Crypto Token Analysis
+
+Timely vid. I wonder why it didn't get cracked during the crypto liquidation?
+
+![](images/image-1358.png)
+
+Huh, what? Ah, maybe he is looking at the spot price. Meanwhile I was only posting the futures price.
+
+![OM/USDT](images/image-1359.png)
+
+This is how it looked like when the liquidation of OM started.
+
+![OM/USDT](images/image-1360.png)
+
+It's a scam token similar to COAI. My guess is that the liquidation of COAI won't take nearly as long because the interest and the trading volume for it is so high.
+
+The chart reminds me of those Chinese liquidations.
+
+![OM/USDT](images/image-1361.png)
+
+My weekly system would have worked well to get me out far in advance. Not that I'd ever trade shit like this to begin with.
+
+8:35pm. ![](images/image-1362.png)
+
+This is a good question. Why do I want to trade?
+
+* Challenge?
+* Rematch?
+* Exponential returns?
+* Wealth?
+
+It feels like these are just excuses. I am ultimately doing it for my ego.
+
+Back then I wanted to beat the market in a simple way and prove my ability, and I failed. That left a hole in my heart.
+
+So now, I am not sure. It feels like I am too late to meet my true goals, but I still want to do my best.
+
+That's it.
+
+I just want to do my best this time around.
+
+Because I've already failed at trading.

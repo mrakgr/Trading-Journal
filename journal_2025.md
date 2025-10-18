@@ -16081,3 +16081,48 @@ I am going to bed here.
 
 For me it's the current and the previous weekly bar above or below a stop price. Anything else is momentum.
 
+10/18/2025
+
+9:05am. I think I'll do a little elaboration of my method. I'll do the usual early morning entries, but I'll exit the position if the volume isn't there. That is the way to go.
+
+After the panic, I am going to look for stocks which hold up. NBIS, CRWV, NVTS...
+
+I have some expectations of those 3. If I sort by 6 month and 12 month momentum, I should be able to find other candidates. Also I'll keep an eye on the volume screen and see what pops up there as well. I should be buying stocks which are having high volume breakouts and also have high 6 - 12 month momentum as the opportunities comes. Hell, I don't have to go back that far. 1-3 month momentum would also work if they've put in a decent consolidation prior to the breakout.
+
+SMR. I need to keep an eye on it.
+ASPI.
+MP.
+
+There will be opportunities.
+
+As I was saying earlier in the year, when you get these sell signals, just get out of the market and wait 2 weeks to see if anything bad happens. Hopefully it will and the market will shake out the weak hands and set up for a further rise.
+
+Don't worry about the invidual price action, it's just noise.
+
+Also a breakout doesn't have to be to new highs specifically, it can just be a high volume day greater than 4% from a low point. Yeah, I'll do it like that.
+
+9:20am. There is no point in backtesting this sytem simply because I cannot account for my personal reads of the market. There is no point in backtesting it when simple systems work well in specific situations, and don't work otherwise.
+
+9:40am. One other change I will make to the 2 week system is that I am going to switch to 1 week and even 1 day system when the stock starts going parabolic in order to protect my profits.
+
+Especially if we get 8 updays in a row in stock, once the daily low is broken, that tends to lead to significant declines. It's not worth waiting for the 2 week low to get broken.
+
+![INT](images/image-1373.png)
+
+Take INT for example. It had a huge trending move and then retraced nearly the entirety of it. At 8 upweeks in a row, I should at least switch to the 1 week system.
+
+Damn, what happened last week was pure capitulation.
+
+![INT](images/image-1374.png)
+
+The longs got destroyed.
+
+Imagine what would've happened had I been using my old 8 - 12 week system on this. This is why I don't want to use it anymore.
+
+Yes it would have rode up BTC all the way, but it would also ride down the declines like these. It would catch all the crashes.
+
+But even the 2 week system would have protected me on INT. Switching to the 1 week system on the final narrow week would have been ideal.
+
+Some stocks with weak momentum tend to poke the lows, but even the 1 week system would work on stocks with strong momentum. Ultimately, I need to be flexible and switch between the 2 week, 1 week and 1 day as the stock accelerates to the upside.
+
+A good rule of the thumb would be 8. 8 up weeks and 8 up days to switch.

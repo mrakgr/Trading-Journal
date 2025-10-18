@@ -16181,4 +16181,64 @@ Unfortunately, my accountant's son died 10 days ago, so she'll be out of action 
 
 Well, whatever. If I miss a few weeks in the market due to that then so be it.
 
-12pm. Sent an email to Thomas.
+12pm. Sent an email to Thomas to ask about an update. Gave him a little stock trading tutorial on the side.
+
+1:30pm. ![](images/image-1379.png)
+
+Watching some of Lance's old vids. I had no idea that breakout was due to the S&P addition announcement and that high volume day was the actual day of the addition. He says those often turn out to be local highs.
+
+1:45pm. ![](images/image-1380.png)
+> This is the definition of finding excess edge by moving into stocks.
+> This is why forex to some degree is mostly bullshit.
+> Futures to some degree are mostly bullshit.
+
+Lance is god. I should be watching all of his vids.
+
+Let me finish this and I'll do my exercises and the chores.
+
+1:55pm. ![](images/image-1381.png)
+> This is a very late stage bull market.
+> My feed used to be politics. I don't know how, but my feed now is people posting mostly their year to date returns.
+
+https://youtu.be/i4D7WNkB1MI?t=1943
+> The early 2000s were the slowest trading markets in the last 25 years.
+
+This review video is way more interesting than I thought it would be.
+
+![](images/image-1382.png)
+> This is not the chart you see at the early stages of a bull market.
+
+Let's hope it lasts for a good while longer. Maybe it will have another leg or two.
+
+I didn't fail in 2025. I was simply too busy to trade properly. I failed in 2007 - 2014. I didn't learn the proper methods.
+
+![](images/image-1383.png)
+> I am infinitely more scared to play this stock than I am to play IONQ.
+
+Wow, that was a really good call.
+
+![](images/image-1384.png)
+> This chart equals shitty.
+
+I didn't lose money on QUBT, but I probably would have gambled on the breakout just to test out the new system and had lost it.
+
+I have to think head of time which breakouts do I want to try.
+
+Oh, yeah, I remember in the Hedge Fund Market Wizards, one of the traders said that in bull markets, you open weak and close strong. In bear markets you open strong and close weak. That is why I was losing so much money this week.
+
+2:20pm. Yeah, when buying volume breakouts, I have to remember to do that only on the clean charts. Clean charts show low volatility and large swings relative to that volatility.
+
+![SMR](images/image-1385.png)
+![MP](images/image-1386.png)
+![ASPI](images/image-1387.png)
+
+I think these are decetly clean.
+
+![QUBT](images/image-1388.png)
+
+Hmmmm, I don't think QUBT is actually that bad, but the exploding volatility needs to go away. It's too volatile compared to something like...
+
+![QBTS](images/image-1389.png)
+
+It's similar to how QBTS was back in July. QUBT could tighten up the pattern and go through a volatility contraction. Then I can go long momentum on it. Maybe it will get accumulated during the upcoming correction and then break out properly?
+

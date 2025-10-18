@@ -16282,3 +16282,8 @@ I hope we get another upleg in this crazy bull market after a panic reset, becau
 It's official. I am a fan of Lance. Let me do some exercise.
 
 Tomorrow, I'll try to do some programming.
+
+6:55pm. https://youtu.be/bfUOPDOLHvE
+Private Equity’s Quiet Crisis!
+
+Here is more Patrick Boyle.

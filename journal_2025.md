@@ -16387,3 +16387,9 @@ I should be using a system that is very unambiguous and requires the least amoun
 I could even fuck up and forget that there might be holidays on some days.
 
 It happened to me on 2007 - 2014, I rarely remember to look at the trading calendar.
+
+9:25pm. Let me get back to Lance's vid...
+
+No, let me skip it. Who feels like watching it right now.
+
+Maybe I'll watch it tomorrow if I don't feel like programming. I should be getting ready for bed. Let me read that manga.

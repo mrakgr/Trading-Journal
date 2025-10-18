@@ -16258,3 +16258,7 @@ He talks about paying attention to thesis busting headlines as a sign that the b
 
 This is really good point that I wasn't thinking about. Yeah, you can anticipate what the headlines will be like ahead of time in different environments and trade off of that.
 
+https://youtu.be/i4D7WNkB1MI?t=3646
+> I am debating a doing a signed copy of Market Wizards for every member of the course, or every loyal follower, and I'll still do signed copies if I ever run into you or at a meetup like Traders4Cause.
+
+Not going to get the course just for this, but if I get to 1m in trading profits, I'll get his course. Promise.

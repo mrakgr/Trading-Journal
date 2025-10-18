@@ -16242,3 +16242,19 @@ Hmmmm, I don't think QUBT is actually that bad, but the exploding volatility nee
 
 It's similar to how QBTS was back in July. QUBT could tighten up the pattern and go through a volatility contraction. Then I can go long momentum on it. Maybe it will get accumulated during the upcoming correction and then break out properly?
 
+![NVDA](images/image-1390.png)
+> This had news, it could have broken out and we didn't.
+> This breakout so far, we've gone nowhere.
+> This is kind of a sign.
+> Look, I am not saying Nvidia won't go.
+> But it's interesting to me that in other markets Nvidia should really be ripping.
+> Nvidia should be at 200$ right now.
+
+Wow, he is right. I didn't pick up on this at all. The large caps leaders are stalling.
+
+2:45pm. https://youtu.be/i4D7WNkB1MI?t=3404
+
+He talks about paying attention to thesis busting headlines as a sign that the bull market is over.
+
+This is really good point that I wasn't thinking about. Yeah, you can anticipate what the headlines will be like ahead of time in different environments and trade off of that.
+

@@ -16287,3 +16287,9 @@ Tomorrow, I'll try to do some programming.
 Private Equity’s Quiet Crisis!
 
 Here is more Patrick Boyle.
+
+![](images/image-1392.png)
+
+7:30pm. The banks making loans to the PE firms are screwed.
+
+![](images/image-1393.png)

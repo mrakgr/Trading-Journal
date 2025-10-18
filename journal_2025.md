@@ -16262,3 +16262,23 @@ https://youtu.be/i4D7WNkB1MI?t=3646
 > I am debating a doing a signed copy of Market Wizards for every member of the course, or every loyal follower, and I'll still do signed copies if I ever run into you or at a meetup like Traders4Cause.
 
 Not going to get the course just for this, but if I get to 1m in trading profits, I'll get his course. Promise.
+
+3pm. Let me write a comment.
+
+///
+
+Hi Lance, you made a really good point that Nvidia should be 20 points higher than it is currently. Very timely advice on QUBT at the time of shotting this video 2 weeks ago, as the breakout failed spectacularly. I've been looking for ways to improve my entries into swing positions, so I've been trying high volume breakouts within first 10 mins as Stockbee suggests, and I've lost 10% of my paper trading account in 4 days. I bought so many stocks up strong on high volume in the morning, had the sell program kick in and then gotten stopped out at the daily low the same day or a few days later. I think this is due to the environment. I remember in the Hedge Fund Market Wizards, one of the traders said that in bull markets, you open weak and close strong. In bear markets you open strong and close weak. I have a rule that when volatility spikes like it's doing currently that I stay out of the market for two weeks and wait until two weeks after the bottom.
+
+I think the recent extreme volatility in QUBT is similar to QBTS in July, there is a possibility that it might base for a few months, absorb the market correction, then volatility will contract and then it will have a working breakout. The chart is bad now, but it might not be in the future.
+
+I really like your reminder that I should be looking at thesis busting headlines for the current bull market. In the course you were talking about thesis busting headlines for individual stocks, but it slipped my mind to apply the principle to the market itself with regards to AI and quantum names. The main thing I am paying attention to now is headlines related to bank failures. There was a recent headline about some regional bank failure related to subprime loans like its early 2007 all over again, so I am definitely on the lookout if more news about bank failures come out. In 2008 before the crash, the financial stocks were trending down for 3 consecutive quarters and we're nowhere that level yet, the potential bear market has nowhere near started.
+
+I hope we get another upleg in this crazy bull market after a panic reset, because I missed the bullrun of the last couple of months despite being long for most of it. I came back into trading after a decade long hiatus and had a bad system, and now I came up with a better one which is inspired by your previous bar trend following one. Studying past leaders, I've realized that during uptrends they poked below the weekly bar lows far less than I'd expect so that is an edge. Hope that I get a chance to make up for the mistake. Egh, but if I am unfortunate enough that a bear market happens and have to stay out for year, the bull market after a crash is easy money.
+
+///
+
+![](images/image-1391.png)
+
+It's official. I am a fan of Lance. Let me do some exercise.
+
+Tomorrow, I'll try to do some programming.

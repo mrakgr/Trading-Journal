@@ -16293,3 +16293,97 @@ Here is more Patrick Boyle.
 7:30pm. The banks making loans to the PE firms are screwed.
 
 ![](images/image-1393.png)
+
+7:40pm. ![](images/image-1394.png)
+
+Weird, didn't I already watch this video?
+
+Anyway, let me watch the last one of the course videos still on my backlog. July 2023 ops disected. I only watched them halfway last time.
+
+7:45pm. You never know where life will lead you. I could be watching anime, reading manga or playing games, instead I am learning from Lance's course. I am having fun in this way.
+
+Yeah, the bull market won't end just like that. 
+
+We'll have a panic, I'll risk 3% of my account, if that works, I'll keep increasing my risk and ride the next wave up. In the meantime I'll work on the poker bot.
+
+![](images/image-1395.png)
+
+I absolutely need to learn what he says about consolidations. It trends nicely during the initial part and then it starts getting choppy. That breakout at around 10:10am he says he isn't interested in due to lack of consolidation.
+
+...Yeah, this is such an important principle. If I can internalize it, it will spare me a lot of chasing momentum and rebuying back in at inappropriate times.
+
+I've studied the charts and I've come to a conclussion is that after the 2 week low is broken for the first time, it's rarely worth it to buy back in.
+
+Lance would require a long consolidation before he got back in, and that consolidation to him should be proportional to the length of the move. It's a very interesting heuristic that I never thought of before.
+
+A large part of my plan is still ambiguous it seems.
+
+Maybe I should just avoid the breakout days until I get a better sense for what I am doing. Deciding over the weekend might make it a bit safer and give me time to think.
+
+8:05pm. ![GEV](images/image-1396.png)
+
+A system that could be particularly powerful and simple to use would be prior weekly bar low, and only sell if it closes below the low.
+
+![EXA](images/image-1397.png)
+
+I have no idea why I never considered this. On something like EXA that could be extremely powerful. It even would have held through the entire April correction!
+
+![NVDA](images/image-1398.png)
+
+Oh wow. Those nasty wicks I've been complaining about?
+
+![NVDA](images/image-1399.png)
+
+The system would have caught the entire move from Jan to August.
+
+Insane. The only condition is for it to close below the prior bar low
+
+![APP](images/image-1400.png)
+
+Holy crap, it even would have caught the APP breakout despite the huge wick.
+
+8:15pm. ![R3NK](images/image-1401.png)
+
+Oh, I see it now. This is actually a great system.
+
+8:20pm. I guess it depends on whether you want to take on some open ended risk, and I do.
+
+8:50pm. ...No, I don't think I do after all. I like locking in profits.
+
+![CRWV](images/image-1402.png)
+
+It would get you utterly destroyed on some types of trades.
+
+![CRWV](images/image-1403.png)
+
+They are similar systems, but they differ strongly when it comes to edge cases.
+
+8:55pm. Ah whatever. I should just pick what is simplest, which is the 2 week bar with hard stops. Basically, I'd only ever get wicked out in Nvidia, and that's it. That's the only stock in which that turned out to be a problem, and in that part of the move the momentum wasn't that good.
+
+I won't get wicked out on trades that have actual good momentum. And as for EXA, I shouldn't be holding through market panics either way.
+
+In bull markets, nobody is going to try and push up the stock on purpose in order to stop me out. The only way that will happen is if the momentum is vaning.
+
+I can have some confidence in the system. Though, it will be tough as often the stock will stop me out and continue going forward. I'll miss some trades like the Nvidia one.
+
+One thing I could do is more to a 3 bar system if the momentum is bad enough to require it, but really, I should just trade better stocks instead of taking on open ended risk.
+
+9:10pm. I think the ultimate decising factor is that hard stops have no abiguity to them. 
+
+Imagine I was trading a stock 10 minutes to the Friday close, the stop is 10.5 and the price is 10.49. 5 minutes later it 10.51. 3 mins later it 10.48. 1 min later it's 10.5 exactly.
+
+What the fuck do I do in that case if I want to sell on the close of the bar?
+
+With a hard stop, there is zero ambuguity. If the price ever crosses the stop price, the market order gets send out, no doubt whatsoever.
+
+So I should be using hard stop with a min level of the last two weekly bar lows.
+
+`new_stop_price = max current_stop_price (min current_week_low previous_week_low)`
+
+Here is the formula once more. It would get applied after the end of the trading week.
+
+I should be using a system that is very unambiguous and requires the least amount of work. Imagine being stuck having to decide whether to sell for a couple of different stocks near the market close on Friday. Mistakes would get made.
+
+I could even fuck up and forget that there might be holidays on some days.
+
+It happened to me on 2007 - 2014, I rarely remember to look at the trading calendar.

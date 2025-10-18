@@ -16393,3 +16393,8 @@ It happened to me on 2007 - 2014, I rarely remember to look at the trading calen
 No, let me skip it. Who feels like watching it right now.
 
 Maybe I'll watch it tomorrow if I don't feel like programming. I should be getting ready for bed. Let me read that manga.
+
+9:30pm. https://youtu.be/8OcegOGAGIs
+Warren Buffett’s Most Iconic Interview Ever
+
+Surprised how more fuild Warren was when he was younger. In his recent interview he keeps stuttering, but here he speaks quickly and without pauses.

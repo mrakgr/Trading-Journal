@@ -16126,3 +16126,45 @@ But even the 2 week system would have protected me on INT. Switching to the 1 we
 Some stocks with weak momentum tend to poke the lows, but even the 1 week system would work on stocks with strong momentum. Ultimately, I need to be flexible and switch between the 2 week, 1 week and 1 day as the stock accelerates to the upside.
 
 A good rule of the thumb would be 8. 8 up weeks and 8 up days to switch.
+
+10:10am. Mhhhh...
+
+I slept well tonight. I know I said I would refocus on programming, but let me chill for today. I want to relax.
+
+Yesterday I had trouble sleeping and it's very fun today.
+
+10:25am. https://mangabuddy.com/i-punched-the-angel-who-was-supposed-to-guide-me-and-became-a-necromancer-super-cute-gothic-loli-demon-lord-youre-the-best/chapter-1-1
+
+This is kind of hillarious. I just checked it out at random and the art is way better than I thought it would be.
+
+Right...I need think about one more thing. Should I short the VXX if it spikes 3x or something like that? Yeah, you know what, I'll risk 1% on the right side of the V trades.
+
+![VXX](images/image-1375.png)
+
+Meh. Sometimes you get a good setup in VXX, but these spikes have been crap.
+
+![VXX](images/image-1376.png)
+
+This one has been good.
+
+...But that was covid and it took forever to retrace and go into profit.
+
+Even if I had shorted the very top here, I'd have much better places to put my money in stocks directly, as it resulted in an insane momentum market afterwards.
+
+Yeah....
+
+Ignore VXX. It won't lead to any good trades.
+
+![VXX](images/image-1377.png)
+
+Uah...
+
+![VXX](images/image-1378.png)
+
+Imagine I shorted here with a stop at the previous day's highs. Not only would I get stopped out, but if I shorted the exact stop afterwards it wuold have taken ages for the trade to turn profitable.
+
+Whatever money there is in volatility trading doesn't come from timing the spikes.
+
+It was just an idea. A few days ago I saw the 2020 rise and I thought that maybe shorting the VXX wouldn't have been a bad idea, but it's just be a waste of time even if I could short at the exact highs ahead of time.
+
+I see that now.

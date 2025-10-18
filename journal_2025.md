@@ -16168,3 +16168,17 @@ Whatever money there is in volatility trading doesn't come from timing the spike
 It was just an idea. A few days ago I saw the 2020 rise and I thought that maybe shorting the VXX wouldn't have been a bad idea, but it's just be a waste of time even if I could short at the exact highs ahead of time.
 
 I see that now.
+
+10:45am. It's not beyond reason to expect a correction at this juncture in the market, but a bear market is a far bigger thing to anticipate. They don't come around just because you want them.
+
+I'll change my mind if more bank busts happen. Those are a sure sign of an upcoming bear market.
+
+The froth in the market needs some time to cool down, but the most likely scenario is that the strong momentum market will resume after that. I'll have my chance to make a lot of money.
+
+10:55am. In that case, I really want to close the firm as soon as possible if the job doesn't manifest next month so I can put a lid on expenses.
+
+Unfortunately, my accountant's son died 10 days ago, so she'll be out of action for a while. Right now I couldn't begin even if I wanted to.
+
+Well, whatever. If I miss a few weeks in the market due to that then so be it.
+
+12pm. Sent an email to Thomas.

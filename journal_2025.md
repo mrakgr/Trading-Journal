@@ -16584,3 +16584,57 @@ https://youtu.be/LeDXXOHsUYI
 Most reliable pattern in stocks
 
 This is probably Pradeep's most important video.
+
+12:50pm. Planning time.
+
+I think I have the basics on technical trading down. Ignoring the ETF trades that I did, even though stocks like RHM and R3NK topped much earlier than expected into the move after shrugging off the panic, they could have been very good trades using my current system. Holding them for 12 weeks was just bad trading in the end.
+
+This week I did some experimentation with high volume breakout and yes, what happened was complete spew. It revealed to me just how easy it is to lose money buying random shit.
+
+What the 2 week low system will allow me to do is get me out of bad stocks much more quickly.
+
+As for what I should be buying, that would be high volume breakouts. But not just any breakout. Not just any earnings breakout. Forget about those.
+
+I need to trade story stocks. Forget about fundamentals.
+
+I need to trade high volume breakouts in thematic stocks.
+
+NVTS is such a great example of such a stock. It had a huge Nvidia contract, and recently it broke out. It might be my main buy if it can shrug off the incoming market correction. I'll buy it 10% to start, drag the stop along the lows, maybe buy another 10% in two weeks, and drag the stop along.
+
+I don't have to buy the breakouts. I just need to watch them for hints of where the market is moving.
+
+Significant news, significant changes will always have volume accompanying it, and that will tell me where to look. Then I have to evaluate the news and the story to see if it's the right kind.
+
+In the current cycle anything related to AI has worked great.
+
+I just have to do that.
+
+Keep track of the market psychology, put my money where the money is going, and stay out of dangerous periods like now. Drag the stops along the 2 week lows.
+
+The basic of techical trading is that in a bull market stocks are likely to go up in the next month so if I diversify, that will give me some protection.
+
+You can see how that fucking earnings reaction in PRM was like. Just forget that shit. At least of those story stocks go down, I don't have to be pissed about it since I know they're crap.
+
+I'll put in like 5% if I find a really good earnings accelerator that has been neglected, but otherwise forget it.
+
+1pm. I can start with 5% positions in the next bullrun too if I don't feel like it.
+
+Oh yeah, let me comment on that more.
+
+Last month I was fired, and my mind was in the dumps so I closed out my positions and stayed out and did research.
+
+So far, I am up 4% on the year.
+
+I am yet to ever achieve consistency in my trading and exceed 30% per year. My main focus should just be on building confidence. Let the experience of the current week be a warning. Don't put 30% positions in single stocks. I am not that good yet. I can't tell A, B and C setups apart yet.
+
+Just learn to live with the market and take it as it comes.
+
+That should be my only goal.
+
+And besides that, I need to bring the poker bot adventure to a close so I can get on with my life. I need to refocus on that next week.
+
+Forget finishing Lance's course. Just focus on what really needs to be done. It's not going to help me find good long term trades any further. I can just watch his weekly reviews on his Youtube channel.
+
+Most likely, I am not going to be trading for the next few months, so forget about the market for a while. Studying charts isn't going to be doing me any good. There is nothing in them to study. I should just take note of the volume gainers and take note of the news that is coming out.
+
+I want to forget about the market for a while and focus on programming. This is a full time job at this rate.

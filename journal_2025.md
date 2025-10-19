@@ -16724,3 +16724,8 @@ I don't need to trade the open. I want to hold trades for weeks. I can afford to
 For real money, I should create a real system in the future. No matter how I trade on this timeframe, my ROI is going to be limited. I need to do it smarter.
 
 Take a look at Barron Trump. 19 and has a net worth of 150 million. How many Dan Zangers would it take to match him?
+
+3:45pm. ![](images/image-1435.png)
+> Humans hallucinating about AI.
+
+It's not the AI that's hallucinating. It's the humans. Top comment.

@@ -16739,3 +16739,440 @@ Maybe I should change my mindset a little? I've been way too focused on trading.
 Maybe I'd do better as an entrepreneur? I've never ever even considered it.
 
 I'll focus on the poker botting of course, but maybe I should change my mindset a little?
+
+4:15pm. https://youtu.be/Ogce5D2XMZ0
+How I became an entrepreneur at 66 | Paul Tasner
+
+If I had a really good idea for my own business would I be bothering with stock market investing?
+
+https://youtu.be/36OBX5lQjGc
+Reinforcement learning is terrible – Andrej Karpathy
+
+https://youtu.be/lXUZvyajciY
+Andrej Karpathy — “We’re summoning ghosts, not building animals”
+
+4:40pm. I cannot watch the entire interview with Andrej right now.
+
+https://youtu.be/kxLmeUIXXtU
+Entrepreneurship Expert: How To Build A $1m Business Without Hard Work!
+
+4:45pm. No, I don't feel like it. Let me leave this out of mind.
+
+Tomorrow I will focus on what I am really good at.
+
+![TLT](images/image-1436.png)
+
+This is interesting. When I looked at forex it was crap, but treasuries have good 2 week trends. I was thinking for a while whether to put my money into treasuries.
+
+It's a lot better idea to do this that to buy VXX for example. Nevermind that for now.
+
+I don't want to buy USD.
+
+4:55pm. Regarding the alternative system that only sells on the close, I could in fact do what ChatGPT suggested an put in day stop orders half an hour before the close, but that would be a more elaborate application of the system.
+
+I'd need to create a trading bot for it.
+
+Now that's one thing. It wouldn't be hard at all.
+
+But I'd have to trade through the bot then instead of through the charts. It might help me avoid some insane situations like with PRM, but those happen very rarely, and it's not worth my time messing with that.
+
+5pm. Regarding the poker bot, I keep looking at my stash as unecessary, but really, how long would it take me to get from say 50$ to 100k assuming the bot's winare is 2bb/100? Wait, I have to have it wrong. 2bb/100 seems a lot. I'll ask ChatGPT about it.
+
+![](images/image-1437.png)
+![](images/image-1438.png)
+![](images/image-1439.png)
+![](images/image-1440.png)
+![](images/image-1441.png)
+
+Wow, it would take 2 years for somebody good playing 2k hands a month. Holy crap. I was assuming it would be a lot quicker than that.
+
+![](images/image-1442.png)
+![](images/image-1443.png)
+![](images/image-1444.png)
+
+I see. So I'd have to start it out at NL200. That bb of 2$. 200 stakes. It would require a bankroll of about 5k for 25 buyins.
+
+It would have been difficult before, but now I just have about enough.
+
+Keep in mind this is just on a single platform. On multiple platforms, I might need far more bankrolls.
+
+![](images/image-1445.png)
+![](images/image-1446.png)
+
+Ah, fuck screenshotting all of this. Let me just paste it. This reply is hillarious. I am laughing here.
+
+///
+
+A “good” win rate in online poker depends on the **stakes**, **game type**, and **sample size**, but here’s a solid breakdown:
+
+---
+
+### 💰 **Cash Games (No-Limit Hold’em)**
+
+Win rate is usually expressed in **bb/100** — big blinds won per 100 hands.
+
+| Level                         | Typical Range   | Comments                                                       |
+| ----------------------------- | --------------- | -------------------------------------------------------------- |
+| **Microstakes (NL2–NL25)**    | **5–10 bb/100** | A solid regular often achieves this.                           |
+| **Small Stakes (NL50–NL200)** | **2–5 bb/100**  | Games are tougher; even 3 bb/100 is strong.                    |
+| **Mid–High Stakes (NL400+)**  | **1–3 bb/100**  | Beating the rake and regs is hard — anything positive is good. |
+
+> 🔹 *For context:* Many long-term winners at higher stakes average **2–3 bb/100**. Anything above that is elite.
+
+---
+
+### 🧠 **Tournaments (MTTs/SNGs)**
+
+Measured by **ROI (Return on Investment)** — average profit per buy-in.
+
+| Level           | Typical ROI | Comments                             |
+| --------------- | ----------- | ------------------------------------ |
+| **Low stakes**  | **20–40%**  | Beating fields and rake well.        |
+| **Mid stakes**  | **10–25%**  | Tougher competition reduces ROI.     |
+| **High stakes** | **5–15%**   | Edges are smaller; variance is huge. |
+
+> In MTTs, variance dominates — even great players can run below EV for months.
+
+---
+
+### 🃏 **General Guidelines**
+
+* **Sustainable, long-term win rates** (after ~100k hands or more) are what matter — short-term data is noisy.
+* A “good” win rate is one that **beats the rake** and **produces stable profit**.
+* Many breakeven or slightly winning players earn most of their income from **rakeback or bonuses**.
+* The higher you move up, the lower your achievable win rate — but the **dollar earnings** rise.
+
+---
+
+If you tell me your **game type (cash/tournament)** and **stake level**, I can give a more precise benchmark (e.g., “good win rate at NL25 Zoom on PokerStars”).
+
+Would you like that?
+
+///
+
+///
+
+Excellent question — and a realistic one.
+Let’s unpack it carefully, because it depends on a lot more than just skill.
+
+---
+
+## 🪙 **The Goal**
+
+Turn **$50 → $100,000**
+That’s a **2,000× bankroll increase**, so the key is **time + win rate + bankroll management + variance**.
+
+We’ll assume:
+
+* The player is *decent*, not world-class but disciplined and improving.
+* Plays online **No-Limit Hold’em cash games** (MTTs would take longer due to variance).
+* Follows proper bankroll management (no all-in shots).
+
+---
+
+## 🧩 **Step-by-Step Realistic Path**
+
+| Stage            | Stakes     | Bankroll Needed | Monthly Profit (est.) | Time to Next Level |
+| ---------------- | ---------- | --------------- | --------------------- | ------------------ |
+| 1️⃣ Microstakes  | NL2–NL10   | $50 → $500      | $50–150               | ~3–6 months        |
+| 2️⃣ Small Stakes | NL25       | $500 → $2,000   | $200–400              | ~4–6 months        |
+| 3️⃣ Mid Stakes   | NL50–NL200 | $2k → $10k      | $500–2,000            | ~1 year            |
+| 4️⃣ High Stakes  | NL400+     | $10k+           | $3,000–10,000+        | 1–2 years          |
+
+🧮 **Total time:** ~**2–3 years** for a skilled, disciplined, and continuously improving player.
+For most players (including solid winners), **4–6 years** is more realistic.
+
+---
+
+## ⚖️ **Factors That Matter**
+
+### 1. **Skill Growth**
+
+Each jump in stakes is not linear — NL10 to NL25 is easy, but NL200 to NL500 is a war zone.
+Progress slows dramatically after NL100.
+
+### 2. **Volume**
+
+* A serious grinder playing **50k hands/month** can progress much faster than a casual player doing 10k/month.
+* The biggest winners are usually full-time or semi-pro.
+
+### 3. **Discipline & Bankroll**
+
+* No “shots” or tilting away bankroll = slower, steadier climb.
+* Occasional shots can accelerate progress *if* backed by strong bankroll control.
+
+### 4. **Rakeback & Bonuses**
+
+At micro/small stakes, rakeback can easily double your actual win rate.
+
+---
+
+## 💡 **Real-World Examples**
+
+* **Fast track (rare):** Talented grinder → $50 to $100k in **2 years**, usually by playing 100k+ hands/month and moving aggressively.
+* **Solid path (common among serious regs):** $50 → $100k in **3–5 years**.
+* **Recreational / part-time:** May never reach $100k purely from playing — many stall around NL50–NL100.
+
+---
+
+## 🧠 **Summary**
+
+| Category                          | Estimate             |
+| --------------------------------- | -------------------- |
+| Fastest possible (top 1%)         | ~2 years             |
+| Realistic for good, steady player | 3–5 years            |
+| Recreational / casual pace        | 5–10 years (if ever) |
+
+---
+
+If you tell me your **current skill level**, **available playtime per week**, and **game type (cash, Zoom, MTTs, etc.)**,
+I can give you a *personalized roadmap* — with realistic stake targets, bankroll milestones, and expected timelines.
+
+Would you like me to sketch that out?
+
+///
+
+///
+
+Excellent — now we’re getting into the theoretical limits of online poker.
+Let’s reason it through carefully.
+
+---
+
+## 🧠 Scenario: A **True GTO Poker Bot**
+
+You have a bot that plays **perfect Game Theory Optimal (GTO)** strategy in online No-Limit Hold’em.
+
+That means:
+
+* It never makes exploitable mistakes.
+* It perfectly balances its ranges and frequencies.
+* It can play millions of hands without tilt or fatigue.
+
+---
+
+## ⚙️ 1. **Can a GTO bot beat the rake?**
+
+### ✅ *Short answer:* **Yes — but only slightly, and not at all stakes.**
+
+Here’s why:
+
+* GTO *minimizes losses* against perfect opponents.
+  Against other GTO players, you break even **before rake**.
+* Since online poker charges **rake per hand**, even perfect GTO play will lose money **if everyone else also plays close to GTO**.
+
+So the only way to *beat the rake* is:
+
+* To play **exploitatively better** than the pool average, or
+* To have **rake low enough** that your equilibrium edge still leaves a margin.
+
+---
+
+## 💰 2. **By Stakes: GTO Bot vs Rake**
+
+| Stakes                  | Typical Rake | Can GTO Beat It? | Notes                                                    |
+| ----------------------- | ------------ | ---------------- | -------------------------------------------------------- |
+| **NL2–NL10**            | 10–15 bb/100 | ❌ No             | Rake too high; even perfect play loses slowly.           |
+| **NL25–NL100**          | 6–10 bb/100  | ⚠️ Barely        | Might break even or win slightly, depends on pool leaks. |
+| **NL200–NL1000**        | 3–6 bb/100   | ✅ Yes            | Rake low enough; GTO can beat weaker regs.               |
+| **High stakes (NL2k+)** | 2–4 bb/100   | ✅ Easily         | Against non-perfect humans, large edge.                  |
+
+So at **low stakes**, even a GTO bot **loses to the rake**.
+At **mid to high stakes**, it **beats the pool modestly** (perhaps 2–4 bb/100).
+
+---
+
+## ⏱️ 3. **Time to $100k (if it could play freely)**
+
+Let’s assume:
+
+* GTO bot beats mid-high stakes (NL200–NL500) for **3 bb/100**.
+* It plays **24/7**, ~1 million hands/month.
+
+Then:
+
+> 💵 3 bb/100 × NL500 = $15 profit per 100 hands → $150 per 1k hands.
+> → $150 × 10,000 (per million hands) = **$150,000/month**.
+
+That’s pure theoretical — in reality:
+
+* Sites ban bots.
+* Volume would be throttled by table limits.
+* Rakeback caps and detection risk apply.
+
+But it shows that **given perfect play and unlimited access**,
+such a bot could make **$100k in less than a month** at mid-high stakes.
+
+---
+
+## 🔒 4. **Reality Check: Rake and Detection**
+
+In the real online poker ecosystem:
+
+* **Micro and small stakes**: Even perfect bots lose long term due to rake.
+* **Mid stakes+**: Rake becomes manageable, but the **bot would be banned quickly** — all major sites (PokerStars, GG, etc.) use statistical and behavioral detection.
+* **Private or unregulated sites**: Possible, but still risky and ethically gray.
+
+---
+
+## 🧮 5. **Summary Table**
+
+| Factor                                | Outcome                              |
+| ------------------------------------- | ------------------------------------ |
+| Can GTO beat humans?                  | Yes, clearly.                        |
+| Can GTO beat rake at microstakes?     | No.                                  |
+| Can GTO beat rake at mid-high stakes? | Yes, small but consistent edge.      |
+| Time to $100k (theoretical)           | Weeks if unrestricted.               |
+| In practice                           | Impossible — bot detection and bans. |
+
+---
+
+Would you like me to run a **numerical simulation** (step-by-step bankroll growth over time) showing how fast a GTO bot would reach $100k under realistic constraints (e.g., limited stakes, volume, and rake)?
+
+///
+
+///
+
+Nice — I ran a short simulation illustrating how fast a **GTO bot** could (or couldn’t) grow $50 → $100k under a few realistic sets of assumptions. I produced timelines and bankroll curves for three volume scenarios and uploaded the results (timeline table + plots).
+
+### TL;DR (quick answer)
+
+* **Under plausible assumptions that a true-GTO bot loses money at microstakes because of rake**, the bankroll **shrinks** and it *never* reaches $100k — increasing volume doesn’t fix a negative expectation at the starting stakes.
+* If the bot *can* play at stakes where it has a **positive expected value after rake** (e.g. mid/high stakes where rake impact is small and the bot has a few bb/100 edge), then it can reach $100k fairly quickly — possibly months if allowed large volume and stake access.
+* In practice this is **theoretical only**: real sites ban bots and enforce limits, so unlimited-volume growth is unrealistic.
+
+---
+
+### What I simulated (assumptions)
+
+* Start bankroll: **$50**.
+* Stakes ladder: NL0.02 → NL0.05 → NL0.10 → NL0.25 → NL0.50 → NL1 → NL2 → NL5 → NL10 → NL25 → NL100 (I used the big-blind in $ for each step).
+* **Move-up rule:** move up one stake when bankroll ≥ **40 buy-ins** at the *current* stake (buy-in = 100bb).
+* **Winrate per stake (bb/100)** — illustrative assumptions for a GTO bot (rake + pool strength included):
+
+  * Microstakes: **negative** (e.g. −10, −5, −1 bb/100)
+  * Mid/high stakes: **small positive** (0.5 → 4 bb/100 as stake increases)
+* Three volume scenarios:
+
+  1. Conservative: **20k hands / month**
+  2. High volume: **200k hands / month**
+  3. Unlimited: **1,000,000 hands / month**
+* Simulation length: up to 240 months (20 years) or until bankroll ≥ $100k.
+
+I showed a summary table and plotted bankroll vs month for each scenario.
+
+---
+
+### What the simulation showed (main findings)
+
+* **Conservative (20k hands/month):** bankroll declines and never approaches $100k because the bot loses on the low-stakes raked games it must play early on.
+* **High volume (200k hands/month):** same effect — starting negative EV at microstakes makes the bankroll shrink; more hands just magnify the losses.
+* **Unlimited (1,000,000 hands/month):** still negative under those microstake winrate assumptions; you can’t bootstrap to profitable stakes if early stakes are net negative after rake.
+
+(Plots and the “High Volume” timeline table are visible in the outputs I generated.)
+
+---
+
+### Why this happens (short explanation)
+
+* **Rake kills small edges.** A pure GTO strategy against other near-GTO players yields ~0 EV before rake. At microstakes the rake structure is proportionally large relative to pot sizes, so a perfect GTO approach can be **net negative** even if the bot makes no mistakes.
+* **You must accumulate enough bankroll to access stakes where the post-rake EV becomes positive.** That requires either (A) starting larger than $50, (B) having an exploitative edge vs the pool (not pure GTO), or (C) playing on sites with extremely light rake / rakeback / promotional credits that change the economics.
+* **Volume matters only once you have positive expectation per hand.** If EV per hand < 0, more hands accelerate losses.
+
+---
+
+### Concrete numerical example (positive-case)
+
+If the bot **has** a 3 bb/100 edge at a stake with BB = $2 (i.e., $2 per big blind) and it can play **200k hands/month**, monthly expected profit:
+
+`profit = hands * (bb/100) * winrate_bb_per_100 = 200000 * (3/100) * $2 = $12,000/month.`
+
+At that rate, $100k is achievable in under **9 months**, ignoring variance and practical limits. So the critical question is **where** the bot has +EV *after rake*, not how many hands it plays.
+
+---
+
+### Practical constraints (why theory rarely becomes reality)
+
+1. **Poker sites ban bots.** Automated play is detected and prohibited on major sites — accounts are closed, funds confiscated in many cases.
+2. **Table access & stake caps.** You can’t realistically run unlimited tables at high stakes without detection and liquidity limits.
+3. **Rake/rakeback limits.** Microstakes rakeback can help humans but is often insufficient for pure GTO bots.
+4. **Variance & bankroll rules.** Even with positive EV, you need proper bankroll to avoid ruin while moving up.
+5. **Ethical/legal issues.** Running bots is against terms and in many places against platform rules.
+
+---
+
+### Bottom line / practical advice
+
+* With a **$50 start** and a **pure GTO bot that is negative at micros due to rake**, it will **not** reach $100k — bankroll will decline.
+* To reach $100k you need at least one of:
+
+  * Start at a **higher bankroll** so you can buy into mid stakes where the bot is +EV after rake, or
+  * Have the bot play **exploitatively** (not pure GTO) to extract leak edges vs humans at low stakes, or
+  * Play on a platform with **very low rake** or generous bonuses/rakeback that change economics.
+* Even if the math looks good, **practical site rules and detection** make running a high-volume winning bot effectively impossible on reputable sites.
+
+---
+
+If you want, I can:
+
+* Rerun the simulation with **different winrate assumptions** (e.g., making the bot slightly exploitative at low stakes), or
+* Show a scenario where the bot starts with a **$500** or **$5,000** bankroll to see how quickly it could reach $100k, or
+* Produce a breakdown of the **minimum winrate** needed at each stake to be break-even after a given rake.
+
+Which of those would you like me to run next? (I can re-simulate immediately with your preferred numbers.)
+
+///
+
+///
+
+Here’s the updated simulation starting from **$5,000**.
+I uploaded the results as two tables — a **summary** for all volume scenarios and a **detailed 60-month timeline** for the *High Volume* case — plus bankroll-growth charts for each.
+
+### 🧩 What the simulation shows
+
+With a $5k start, the GTO bot can skip the rake-heavy micro stakes and immediately play **NL100–NL200**, where its modeled win rate becomes slightly positive.
+
+---
+
+### **Summary of outcomes**
+
+| Scenario                              | Result                                                          |
+| ------------------------------------- | --------------------------------------------------------------- |
+| **Conservative (20k hands/month)**    | Slow but steady climb; reaches $100k in roughly **9–12 years**. |
+| **High Volume (200k hands/month)**    | Reaches $100k in roughly **1–1.5 years**.                       |
+| **Unlimited (1,000,000 hands/month)** | Reaches $100k in about **3–4 months**.                          |
+
+---
+
+### **Interpretation**
+
+* The larger starting bankroll **bypasses the unprofitable microstakes**, so the bot now grows steadily.
+* As stakes rise (NL200+), winrate improves (2–4 bb/100), compounding monthly profit faster.
+* Higher volume massively shortens the timeline — it’s purely linear scaling once EV per hand is positive.
+
+---
+
+Would you like me to rerun it assuming the bot is **slightly exploitative** (e.g., +3 bb/100 extra at low stakes) to see how much faster it could grow from $50 or $5k?
+
+///
+
+It seems copying just the text leave out the charts.
+
+![](images/image-1447.png)
+
+As you can see it screwed them up.
+
+This is weird. It feels far too slow. Let me calculate it in Python. Or actually, let me write an F# script.
+
+![](images/image-1448.png)
+
+So it would take 1m hands to get to 60k at NL200, or 5 months.
+
+![](images/image-1449.png)
+
+This chart is obviously messed up.
+
+6:20pm. https://youtu.be/aZlFYDenz38
+this experiment could END the AI hype
+
+Thomas linked me this. If I was them, I'd have the models read the news instead.

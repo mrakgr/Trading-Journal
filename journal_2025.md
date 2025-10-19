@@ -16670,3 +16670,17 @@ Complete the pokerbot and bring that story to a close.
 Just have one good trading year and then for all you care, just stop entirely. Who cares about gambling in the market?
 
 You have the Singularity to pursue. You have bigger fish to fry. Overcome it!
+
+2:55pm. Trading has been such a net negative to my life overall.
+
+The only real benefit is that is shows me just how much I am lacking as a person. What my weaknesses are.
+
+For position sizing, I'll keep it as usual. Pradeep calculates position sizes based of the distance from the stop, but I don't want to do it like that. I'll consider my position sizes independently from the stop because stops or volatility aren't the real measure of risk.
+
+It's still a portfolio that will move with the market in aggregate. That is the real risk.
+
+Let's focus on just turning a proper profit in the next bull run, but as for millions, that will be the job of the poker bot and whatever job comes up next.
+
+I must not make the mistake of putting my hopes and dreams into trading again. For all I know the next 10 years might be the second great depression and there might be no opportunities in the market whatsoever. Instead do that pokerbot. Put it to work. Watch the money roll in.
+
+Resume the screencasting tomorrow.

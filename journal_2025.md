@@ -16638,3 +16638,35 @@ Forget finishing Lance's course. Just focus on what really needs to be done. It'
 Most likely, I am not going to be trading for the next few months, so forget about the market for a while. Studying charts isn't going to be doing me any good. There is nothing in them to study. I should just take note of the volume gainers and take note of the news that is coming out.
 
 I want to forget about the market for a while and focus on programming. This is a full time job at this rate.
+
+1:35m. I am delusional. As if wanting to make 100% per year will make me achieve it.
+
+I should first focus on finding ways to not be a losing trader. Right now I am barely above breakeven.
+
+I cannot think of myself as a winner at all.
+
+Yesterday I posted the laws of trading video and as the first point it asked about my motivation.
+
+I said that it's to do my best, but that isn't it. It has to be a lie. If it was to do my best, why was I so lazy in 2007 - 2014? Why didn't I get a job and get a proper trading stake?
+
+If I really want to make money consistently I should sign up for SMB training learn to daytrade.
+
+That will work much better than my current methods and I could probably master them.
+
+Rather, that's not it.
+
+What I want to do isn't to make money.
+
+What I want to do is to overcome the humiliation.
+
+I am suffering from humiliation so badly. The firing was a huge insult to me, and giving up in 2014 on trading was a bigger insult still. Becoming a daytrader wouldn't have any meaning to me even if it could make me millions.
+
+It doesn't matter if on the next bullrun all I end up making is 20-30% with the current system.
+
+Just stop being such a fool, start making rational decisions and overcome the past hangups in trading.
+
+Complete the pokerbot and bring that story to a close.
+
+Just have one good trading year and then for all you care, just stop entirely. Who cares about gambling in the market?
+
+You have the Singularity to pursue. You have bigger fish to fry. Overcome it!

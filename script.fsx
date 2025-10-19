@@ -3,6 +3,6 @@ let f (x : {|bb : float; hands : float; winrate_per_100_bb : float|}) =
 
 f {|
     bb = 2
-    hands = 200_000
+    hands = 100_000
     winrate_per_100_bb = 3
 |}

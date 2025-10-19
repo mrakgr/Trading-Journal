@@ -16684,3 +16684,43 @@ Let's focus on just turning a proper profit in the next bull run, but as for mil
 I must not make the mistake of putting my hopes and dreams into trading again. For all I know the next 10 years might be the second great depression and there might be no opportunities in the market whatsoever. Instead do that pokerbot. Put it to work. Watch the money roll in.
 
 Resume the screencasting tomorrow.
+
+3:15pm. I had an idea for a trading system based on news. It should be possible to train an LLM to trade those. I could even put a few existing examples in its context window and have it already primed to read the document. Or I could pretrain it. It could work...
+
+There are all kinds of ways to make big money in the market that don't involve swing trading.
+
+Those news trading examples Lance showed me were quite something.
+
+![](images/image-1432.png)
+
+Let me watch this. Some of the products this guy sells are trash, but he does interesting analysis. I bet he makes bank.
+
+I myself on the other hand am trying to make money from the market in the stupidest way possible - by trading.
+
+I am going to go on a record and say this, and this is fully what I belive.
+
+The big money in the market isn't trading. It's selling. It's not buy low and then selling high, but just selling something created from 0.
+
+Companies. Services. Products.
+
+I might be mad at the dumbass founders, but they sold a company to investors for millions of dollars. And I am just a techie.
+
+Sure they'll get cleaned out in the upcoming crypto crash, but for a moment they cracked the code.
+
+![](images/image-1433.png)
+
+Wow, half the traders got wiped out on Hyperliquid. And they are coming back for more it seems?
+
+![](images/image-1434.png)
+
+It'd really be great if we could have charts like these in stocks. It sounds like it could be a great indicator.
+
+3:40pm. I'll take a break from the market next week. I'll only look at the volume screener at the end of the day to see if any interesting stocks are there that I need to watch for during the next bull run.
+
+I'll focus on my real business.
+
+I don't need to trade the open. I want to hold trades for weeks. I can afford to miss some of them. What I need is better analysis most of all.
+
+For real money, I should create a real system in the future. No matter how I trade on this timeframe, my ROI is going to be limited. I need to do it smarter.
+
+Take a look at Barron Trump. 19 and has a net worth of 150 million. How many Dan Zangers would it take to match him?

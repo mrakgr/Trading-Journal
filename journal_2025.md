@@ -17176,3 +17176,16 @@ This chart is obviously messed up.
 this experiment could END the AI hype
 
 Thomas linked me this. If I was them, I'd have the models read the news instead.
+
+7:35pm. https://youtu.be/OS4jayba9V4
+ABSOLUTE CINEMA - Girls Frontline 2 | Spark Of Sin ALL Cutscenes
+
+I think reinstall GF2 just so I can watch the cutscenes.
+
+8:15pm. ![](images/image-1450.png)
+
+You know, maybe I should put my preconceptions aside, and have ChatGPT help me trade.
+
+10pm. As great as the cutscenes are, the game itself is really boring. I'll hunt them down on Youtube.
+
+What a letdown given how good Reverse Collapse was. Reverse Collapse is a 10/10 game.

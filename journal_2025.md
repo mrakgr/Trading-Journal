@@ -16398,3 +16398,189 @@ Maybe I'll watch it tomorrow if I don't feel like programming. I should be getti
 Warren Buffett’s Most Iconic Interview Ever
 
 Surprised how more fuild Warren was when he was younger. In his recent interview he keeps stuttering, but here he speaks quickly and without pauses.
+
+10pm. ![](images/image-1404.png)
+
+Got this book from Libgen. I'll take a look at it.
+
+This is the joy of being free. You're free to explore and let your interests guide you. You don't have grind out something or the other.
+
+10:40pm. ![](images/image-1405.png)
+
+This is my first time seeing Paul Tudor Jones. I only read his interview in the Market Wizards book. Didn't expect he'd be still active.
+
+https://youtu.be/2U6bJEFC97c
+the state of the ai bubble
+
+> the benefits to society will be gigantic
+
+Makes sense.
+
+10/19/2025
+
+9:50am. I am up. I am still thinking about trading. In particular I am thinking about position sizing.
+
+9:55am. I thought about using various volatility measures, but those are a bad way to determine size. I don't want to size based on distance from my stop either.
+
+So the usual 5 - 10 - 20% depending on my read of EV seems to be the only reasonable choice.
+
+I can't think of a better way at the moment. With stops at the daily low, you can lose money very quickly and get shut out of profitable trades.
+
+Let me watch some of Pradeep's videos.
+
+https://youtu.be/BzgIFJIKvTU
+How many positions
+
+> 3 - 5 is the best option.
+
+In fact, let me watch the episodic pivot vids.
+
+https://youtu.be/uW95Cj44cLk
+Delayed reaction Episodic Pivots
+
+https://youtu.be/ieKRxpoh_1c
+How to enter Episodic Pivots
+
+![FIP](images/image-1406.png)
+
+This is pretty good setup.
+
+![PGEN](images/image-1407.png)
+![PGEN](images/image-1408.png)
+![PGEN](images/image-1409.png)
+
+Here is the big breakout.
+
+![PGEN](images/image-1410.png)
+
+Ah, so it was an FDA approval.
+
+![PRM](images/image-1411.png)
+
+It might be worth keeping an eye on.
+
+https://youtu.be/AtYhsY8b4KA
+Drawdowns are function of setup you select
+
+Interesting talk. Let me watch the episodic pivot videos as I said I would.
+
+![](images/image-1412.png)
+![](images/image-1413.png)
+
+Yeah, it's tricky how that happens.
+
+Ohhhh, so he is saying the the move most of the time gets priced in the first day, or the 1-2 days after that after which the stock does nothing.
+
+Yes, that has been my observation. That's why I hate trading earnings breakouts.
+
+But he is saying that after it consolidates for a month or two, then it starts going up smoothly. Yeah, I think I wrote that exact thing in this journal.
+
+![](images/image-1414.png)
+![](images/image-1415.png)
+![](images/image-1416.png)
+![](images/image-1417.png)
+![](images/image-1418.png)
+
+Yeah, that is exactly how it is. It's why I wasn't getting anywhere a decade ago.
+
+![](images/image-1419.png)
+![](images/image-1420.png)
+![](images/image-1421.png)
+![](images/image-1422.png)
+![](images/image-1423.png)
+
+> Many EP offers a better and lower risk entry post the Episodic Pivots.
+
+This is the video description. Ok...
+
+10:35am. ![](images/image-1424.png)
+
+11am. 
+
+![PRM](images/image-1425.png)
+
+This earnings reaction was beyond crazy.
+
+![PRM](images/image-1427.png)
+![PRM](images/image-1426.png)
+
+Oh wow. This is the kind of EP I'd expect to go up a lot too. I'd get completely fucked on it.
+
+![](images/image-1428.png)
+
+I keep seeing these reversal patterns and they work very well.
+
+The reversal on this EP was an A trade. The EP itself was a huge trap.
+
+Let me watch the other videos.
+
+https://youtu.be/yidu6gURSlI
+Find setups with high win rate
+
+https://youtu.be/yidu6gURSlI?t=194
+> When you're new unfortunately, you don't have enough understanding of this industry, you don't have enough understanding of perspective and you can get carried away or somebody tells you can look at a something which is longer duration, longer term trade and it appeals to you because human psychology is like that. But when you actually practically start trading these low winrate kind of methods... 
+
+https://youtu.be/2sLgXHLLFWA
+How much time commitment is needed
+
+https://youtu.be/2sLgXHLLFWA
+> At that time there is a lot of confusion.
+> At that time, everything looks plausible.
+> At that time, you don't have enough understanding of the market.
+
+He says he spends 2h a day on trading. He comes in half an hour before the open, and is trading an hour into it.
+
+https://youtu.be/LeDXXOHsUYI
+Most reliable pattern in stocks
+
+He says the most important pattern is news plays.
+
+https://youtu.be/LeDXXOHsUYI?t=75
+> If you're just a chart pattern kind of a reader you'd say that this is just because of a chart pattern.
+> But if you go back and see where the major move start, it's always because of news.
+> News led breakouts are the ones which have legs basically.
+> Whenver a stock has been neglected there is a turnaround or a potential turn around.
+> You can make a lot of money by tracking news in biotechnology stocks.
+
+https://youtu.be/LeDXXOHsUYI?t=330
+> Story stocks are a category of stocks which are the biggest movers in the market.
+> The story stocks tend to dominate in the technology sector and biotechnology sector.
+> You're not going to find them in industrial stocks, you're not going to find them in consumer staples, you're not going to find them in other sectors.
+> If you want to make money from this news kind of phenomena, two things:
+> You can look at it as short term phenomena. You can look at it as a short term pattern in which immediatelly that day the stock goes up a lot and immediatelly reacts.
+> There is another pattern which is short term the stock reacts. And then watch the stock how it reacts.
+> Post news, it can give you an opportunity to enter a second time.
+> 3rd type kind of a setup is just pure story stocks. These are stocks which are pure stories. In order to do this, you need to be really attuned to the market.
+> Thematic or story stocks are always going to make bigger moves than stocks with earnings or sales.
+
+https://youtu.be/LeDXXOHsUYI?t=454
+> The most reliable pattern in the market is how stocks are going to react to news, both short term and in the long term. And you can play them both by taking a short term profit on a move and keeping some of it for a longer term move. But this one of the most reliable patterns for short term traders. And if you do some research on it, you can convince yourself that this is the way you can find a lot of big moves in the market.
+
+11:45am. Let me go have breakfast.
+
+![NEM](images/image-1429.png)
+
+Wow, these really broke out cleanly.
+
+![NEM](images/image-1430.png)
+
+They would have stopped me out post the earnings day.
+
+![GOLD](images/image-1431.png)
+
+Ok, enough. I am just wasting my time looking at the charts.
+
+11:50am. If I am going to beat the market I need to stop looking at prices moving and start reading the news. Anticipate the news flow. Anticipate how the others will react to it. That is the way to go to the next level.
+
+For example, I am currently brearish on AI, but suppose a new algorithm gets discovered which works much better than existing ones? That could immediatelly flip the whole scenario to bullish.
+
+AI is in a bubble and such a algorithm is very unlikely to get discovered in a timely manner, but the chance of it happening isn't 0 and is 100% in the long term.
+
+This is one of the ways in which the AI bubble is different from all the other bubbles. None of the bubbles in history had a possibility of magically becoming much more valuable by simple knowledge improvements. A single paper being published could add trillions of dollars of value to the market.
+
+This is a difference from any other time in history.
+
+https://youtu.be/LeDXXOHsUYI
+Most reliable pattern in stocks
+
+This is probably Pradeep's most important video.

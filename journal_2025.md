@@ -16729,3 +16729,13 @@ Take a look at Barron Trump. 19 and has a net worth of 150 million. How many Dan
 > Humans hallucinating about AI.
 
 It's not the AI that's hallucinating. It's the humans. Top comment.
+
+3:50pm. Yeah, what I want is to be rewarded for my own effort. I want to live in a world where scams aren't rewarded, but my own labor. I just have to go forward and get it.
+
+https://www.youtube.com/results?search_query=how+to+be+an+entrepreneur
+
+Maybe I should change my mindset a little? I've been way too focused on trading.
+
+Maybe I'd do better as an entrepreneur? I've never ever even considered it.
+
+I'll focus on the poker botting of course, but maybe I should change my mindset a little?

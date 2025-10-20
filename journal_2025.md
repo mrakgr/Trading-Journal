@@ -17263,3 +17263,42 @@ I just have to use the simplest strategy that works. Forget ATR. Even a baby cou
 3pm. ![The /biz/ tiers of financial independence.](images/image-1459.png)
 
 The /biz/ tiers of financial independence.
+
+8:45pm. ![](images/image-1460.png)
+
+This guy developed an ATR based indicator that also takes into account the speed and direction.
+
+8:50pm. ![](images/image-1461.png)
+
+The fear that was there yesterday might as well never been there. The market just keeps grinding higher.
+
+Agh, whater. I guess it just a matter of patience until it cracks eventually. It might be months from now, but I sure as hell am not going to be buying the overextended trash.
+
+I am not in a hurry here.
+
+9:20pm. https://youtu.be/nLqvRl9sWmE
+Scalping Is Hard (Until You See This)
+
+I had a great programming session today and I was really into it. Let me watch this now that I am done.
+
+I put some of the positions I got stopped out in paper trading back on again, this time with stops at the 2 week lows. Nevermind OBR and that crap. I have to hold these trades as long as the trend is up. If I get stopped out, who cares. It's only paper trading.
+
+Once the market sets up, I'll do it with real money and pyramid on the way up.
+
+9:25pm. Those stop out at the daily lows I've suffered through honestly feel pointless, and to get a real sense of whether the trade works, I need to use the two week lows.
+
+I will admit, I was impressed by the ATR trailing stops. There is something to them.
+
+![MP](images/image-1462.png)
+
+![AXON](images/image-1463.png)
+
+I guess whether it would have caught TASR is always the true test.
+
+9:45pm. ![NVDA](images/image-1464.png)
+
+It's actually very good at catching long term trends. Pradeep calls them duration moves.
+
+9:55pm. Nevermind this. I guess I can consider paper trading entertainment for now.
+
+I really wish I knew why these moves are happening and who is trading them. That would make the game way easier. But really, so much of trading comes down to the upwards bias that stocks have. As long as I can protect myself from catastrophic losses I'll be able to make money in the long run.

@@ -17189,3 +17189,45 @@ You know, maybe I should put my preconceptions aside, and have ChatGPT help me t
 10pm. As great as the cutscenes are, the game itself is really boring. I'll hunt them down on Youtube.
 
 What a letdown given how good Reverse Collapse was. Reverse Collapse is a 10/10 game.
+
+10/20/2025
+
+9:50am. ![](images/image-1451.png)
+
+Let me do my morning chilling and then I will get started. This guy in the screenshot is right by the way.
+
+Yesterday I bothered thinking for the first time exactly how much a 3bb/100 winrate is, and was surprised to find out it is 100% per month ROI. That gave me some motivation to work on this, let's get on with it. 
+
+After the break. I need to some time to prime my mind for programming again.
+
+It doesn't seem I'll be paid work for quite a while, so I'll have plenty of time to do this project.
+
+I just need to dedicate myself to it.
+
+10:15am. Amazing how they are making fun of the guy on /r/stocks. I didn't expect that and I think their reaction to that post is a good bubble indicator. It's not the permanently high plateau yet, but it's definitely bullish. People see it more risky to stay out of the market than to stay in. When you see posts like in BTC where people are saying they will buy and hold even if it gets cut in half, that is when there is serious top potential.
+
+I spent some time playing with TradingView indicators. Nevermind that for now.
+
+10:30am. I need to focus on my greed.
+
+100% a month. Stock trading cannot compare to this. Also since the bots play GTO, they should be more recession proof. I imagine in bear market scenarios only regs will be left on the sites.
+
+I need to focus on just how good that will be.
+
+11:20am. I've decided.
+
+![PRM](images/image-1452.png)
+
+These types of reversals like in PRM here and RHM in the past are such strong buy signals. Even if I get stopped out on them, I should just buy back in the same day with a stop at the lows.
+
+It will add some to my bottom line in the long haul. They happen very rarely, but when they do....
+
+![APP](images/image-1453.png)
+
+They work really well.
+
+![APP](images/image-1454.png)
+
+Here is how they look like intraday. It's best if they are preceeded by a breakout.
+
+11:30am. With that rule in place, I am set. Let me start programming. I need to get into the swing of things.

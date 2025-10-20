@@ -17259,3 +17259,7 @@ The breakouts here were so nasty, but never came to the point of violating the 2
 I have plenty of that to go around.
 
 I just have to use the simplest strategy that works. Forget ATR. Even a baby could follow the 2 week strategy.
+
+3pm. ![The /biz/ tiers of financial independence.](images/image-1459.png)
+
+The /biz/ tiers of financial independence.

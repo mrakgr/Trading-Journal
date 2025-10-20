@@ -17231,3 +17231,31 @@ They work really well.
 Here is how they look like intraday. It's best if they are preceeded by a breakout.
 
 11:30am. With that rule in place, I am set. Let me start programming. I need to get into the swing of things.
+
+![](images/image-1455.png)
+
+The ATR stop loss strategy could be a replacement for Donchian.
+
+Still it's not that much better. The 2 week donchian strategy would have caught the entirety of the move in TASR.
+
+![TASR](images/image-1456.png)
+
+The only place it would ever wick you out is here.
+
+![TASR](images/image-1457.png)
+
+The rest of the time it would have kept you in for the entirety of the move.
+
+Yeah this is it.
+
+The strategy that can catch all of the biggest winners.
+
+![TASR](images/image-1458.png)
+
+The breakouts here were so nasty, but never came to the point of violating the 2 weekly lows.
+
+1:30pm. Yes, I am going to focus on this and give it patience.
+
+I have plenty of that to go around.
+
+I just have to use the simplest strategy that works. Forget ATR. Even a baby could follow the 2 week strategy.

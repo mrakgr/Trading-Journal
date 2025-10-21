@@ -17349,3 +17349,31 @@ Why am I even looking at trading? Looking at the high volume breakouts isn't goi
 I don't want volatility.
 
 I need sure money. I need a job - a job poker botting!
+
+9:50am. Instead of trying to predict the market, try looking inside and predicting yourself.
+
+Could you honestly trade this system? When you are afraid of a bear market? When you are afraid that the rally after the panic might flalter? When your priority is protecting your money?
+
+When you know that you could make far better returns just learning to scalp?
+
+Mike Bellafiore convinced you of that last one.
+
+Last monday, that MP trade sure was great wasn't it? Even the GEVO trade which was awful, you recognized it going down in a smooth line for the entire day. That's the market saying something to you.
+
+You are small. You don't need to take long term risk if you're really will to put in the effort of learning how to trade.
+
+Most importantly, is there going to be anything in the market that will increase your conviction in trading?
+
+The answer is no. There isn't going to be anything.
+
+Rather, you simply need more money to trade the weaker system.
+
+If you didn't have the poker botting path, then it might be reasonable to trade on a weekly timeframe, but you'd probably just decide to use the money to pay for data and the Bookmap platform and simply trade in demo mode. Isn't that right?
+
+You know...
+
+![RHM](images/image-1465.png)
+
+Maybe I ended up losing money on the euro defense stock trades. But I did 10/10 on predicting my own reaction to market movements.
+
+Had not stopped looking at the market, I would have shat myself when it had that high volume earnings breakdown. I would have sold below 1550.

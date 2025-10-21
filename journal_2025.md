@@ -17302,3 +17302,50 @@ It's actually very good at catching long term trends. Pradeep calls them duratio
 9:55pm. Nevermind this. I guess I can consider paper trading entertainment for now.
 
 I really wish I knew why these moves are happening and who is trading them. That would make the game way easier. But really, so much of trading comes down to the upwards bias that stocks have. As long as I can protect myself from catastrophic losses I'll be able to make money in the long run.
+
+10:25pm. I'll take a look at the scalp workshop tomorrow maybe. I am just so curious what they are doing.
+
+10/21/2025
+
+9:35am. https://youtu.be/Ay1BJ1fI7WI
+Peter Lynch on AI and the Contradiction of Wall Street (Korean-English Subtitles) | The Leaves
+
+Glad to see Peter Lynch is still alive. Read his book while I was at Tao Ceti.
+
+After some thought, I think I'll avoid trading altogether until I get the poker bot dealt with.
+
+I've realized something - and this is what Chris Camillo and the rest of the market wizards are trying to teach me. Trading is all about conviction. At some level I should I understand this. I do no research. I know nothing about the market. All I see are some chart patterns. Even if they have a positive edge, I mean the trades with the 2 week bar low trend following system, that doesn't mean it's worth trading.
+
+With poker botting, I could be making 100% per month. Absolutely nothing will come even close to that in trading.
+
+The best system is to find stupid people and bet against them. Not to compete in an arena where people have far better info than me.
+
+Even Qullamaggie got to 1m daytrading and then he switched to swing trading.
+
+Jeffrey Neumann did a similar thing as well. They built their nests and then started trading longer term and doing hardcore research.
+
+9:40am. 100k ultimately isn't that much in the grand scheme of things.
+
+The reaosn why losing the job hurt that much is because I was still using it to increase my net worth at a clip of 10% per month roughly, and even though the dumbass founders bet their company on Bitcoin, it was still a 170k euro/year job. It was just so bad what had happened.
+
+I wish I had the power to quit. Had I 150k by the time they had put their treasury into Bitcoin, I'd have delivered my resignation at the start of next month.
+
+9:45am. Now I am feeling pressured to trade, but the difference between what I am doing now and the euro defense stock trades is that I have no conviction in what I should be doing now.
+
+Holding those super volatile stocks for weeks would be difficult.
+
+I might not have noticed the series of weekly lows in 2007 - 2014, but I surely have noticed the daily volatility!
+
+I wasn't dumb. I knew about the Turtle system back then!
+
+I just couldn't deal the volatility. The more I have to wait to ride it out, the smaller my edge is.
+
+With poker I don't have to ride it out. I just need to increase my volume.
+
+With bots, I could easily put in 1m hands per month, more that most regs do in a year.
+
+Why am I even looking at trading? Looking at the high volume breakouts isn't going to tell me anything. I spent years looking at charts in the old decade.
+
+I don't want volatility.
+
+I need sure money. I need a job - a job poker botting!

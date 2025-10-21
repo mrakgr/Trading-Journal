@@ -17418,3 +17418,50 @@ https://youtu.be/pNFIG0wWpho
 Implementing The Enumerative CFR Algorithm For Leduc Poker In Spiral's Host Cuda Backend
 
 Incidentally, here is the link to the latest screencast. I keep forgetting to post these in the journal.
+
+7:30pm. ![](images/image-1471.png)
+
+Goddamit, I don't even feel like watching this right now as I am tired from my programming session.
+
+Let me go take a batch. I'll set the recording on.
+
+9:45pm. ![](images/image-1472.png)
+
+These guys are such salesmen. I'll just let the webinar run again and get the discount in the future.
+
+10:05pm. Oh, my god, when will this webinar end? 25m long sales pitch.
+
+For the record, I am convinced of the value of the scalp radar. If I weren't working on the pokerbot, I'd jump on this.
+
+Bookmap, scalping.
+
+This is something I couldn't even dream of 2007 - 2014 because I was so undercapitalized.
+
+Right now I am hung up on waiting for that panic so I could go long, but if I have to stay out of the market for months just to find an opportunity, just how much could the weekly momentum strategy be worth?
+
+Having good RR trades come up several times a day is much better than it happening several times per year.
+
+![](images/image-1473.png)
+
+10:10am. https://smbtraining.com/cheatsheets
+
+Here they are. This is why I hung around till the end. The scalp radar cheat sheets. I missed the first 40m of the webinar.
+
+![](images/image-1474.png)
+
+Ah damn it, I just went to take a bath, but the audio was blocked by this box. It only started once I click on it.
+
+Nevermind, I'll have to watch the first 40mins at a later time.
+
+10:15pm. Damn it, if only the weekly momentum strategy didn't have so much volatility to it.
+
+![](images/image-1475.png)
+
+Just look at this shit.
+
+10:25pm. Let me go have dinner.
+
+![CRTV](images/image-1476.png)
+
+I get the feeling CRTV will have good follow through. This chart is good. Too bad the market's closed.
+

@@ -17465,3 +17465,7 @@ Just look at this shit.
 
 I get the feeling CRTV will have good follow through. This chart is good. Too bad the market's closed.
 
+https://youtu.be/0Z4ynrXiouQ
+My Risky $18M Bet — Going All In On Margin
+
+Holy crap, I can't believe Chris Camillo maxed out his credit card debt to go long a stock and it turned out to be a fraud. He says it put him in debt for several years.

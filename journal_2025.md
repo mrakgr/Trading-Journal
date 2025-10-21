@@ -17379,3 +17379,8 @@ Maybe I ended up losing money on the euro defense stock trades. But I did 10/10 
 Had not stopped looking at the market, I would have shat myself when it had that high volume earnings breakdown. I would have sold below 1550.
 
 10am. Let me chill for a bit, and then I am going to focus on programming for good. Forget about the market. Just do the weekend reviews at the end. I can just look at the weekly volume gainers. Who cares about the insignificant daily breakouts.
+
+10:40am. Let me start.
+
+Conviction! Perseverance! Pursuit!
+

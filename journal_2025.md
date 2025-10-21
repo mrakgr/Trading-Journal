@@ -17384,3 +17384,37 @@ Had not stopped looking at the market, I would have shat myself when it had that
 
 Conviction! Perseverance! Pursuit!
 
+6:40pm. Another good session today.
+
+![CRWV](images/image-1466.png)
+
+CRWV stopped me out.
+
+![](images/image-1467.png)
+
+The fact that the market keeps going up and yet my paper trading porfolio is going down proves that something isn't right.
+
+My intuition just keeps saying to stay away.
+
+The daily lows strategy should work in the beginning stages of a bull market. But I haven't been using it for a long time so I am not sure if I am being smashed due to simply trading the wrong stocks.
+
+![](images/image-1468.png)
+
+I think I might just want to get the CSP full version before closing the company. I am only using it for thumbnails, but that's useful enough.
+
+Or I could just give Krita a try, but I don't want to go through the hassle of switching.
+
+![](images/image-1469.png)
+
+I have some leftover coins from the donations to my Patreon account, but as usual Paypal has it locked up. I can never log into my Paypal account, and there is no recourse for it.
+
+![](images/image-1470.png)
+
+Thanks to my fans for sponsoring Simulacrum: Heaven's Key. Sorry for not writing in a while.
+
+I'll keep this here for the time being, in case I need it. Nwm. I thought that I might need to transfer it out via Paypal. Hopefully, I'll be able to since it's Patreon at some point.
+
+https://youtu.be/pNFIG0wWpho
+Implementing The Enumerative CFR Algorithm For Leduc Poker In Spiral's Host Cuda Backend
+
+Incidentally, here is the link to the latest screencast. I keep forgetting to post these in the journal.

@@ -17469,3 +17469,24 @@ https://youtu.be/0Z4ynrXiouQ
 My Risky $18M Bet — Going All In On Margin
 
 Holy crap, I can't believe Chris Camillo maxed out his credit card debt to go long a stock and it turned out to be a fraud. He says it put him in debt for several years.
+
+10/22/2025
+
+10:20am. Let me start. I want to do programming. I had time to chill and now is the time to work. I am not sure whether I'll be able to make the next part work so I have to challenge myself. I'll probably manage it, but there is some risk involved.
+
+7:05pm. ![](images/image-1477.png)
+
+Another great programming session today. As for the stock market, I see that it's sending me a message. The message says:
+
+"Get fucked!"
+
+Is this really not the market top? What does the momentum screen say?
+
+![](images/image-1478.png)
+![](images/image-1479.png)
+![](images/image-1480.png)
+![](images/image-1481.png)
+
+You cannot see the fear in the indices, but momentum stocks are getting absolutely destroyed.
+
+This panic could spread to the rest of the market and drag it down.

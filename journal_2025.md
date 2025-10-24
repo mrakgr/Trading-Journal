@@ -17510,3 +17510,35 @@ I had a great idea on how to improve the Hopfield Dictionary, so I want to make 
 The stock market torments me so. Long term trading really is the worst. If I had a daytrading system, I wouldn't be worrying about taking time off. Yeah, it's ridiculous. It's really easy to see big winners that broke out in hindsight, but in practice there are a tons of breakouts which give only mediocre performance.
 
 I'd rather work for my money than have to rely on the market conditions or any of that crap.
+
+2:30pm. https://libeigen.gitlab.io/eigen/docs-nightly/group__TutorialSlicingIndexing.html
+
+I can't deal with this crap right now. I want to play!
+
+Let me do so. I'll play today, get a good night's sleep tonight and wrap up the two videos tomorrow. One was already uploaded. The second one I'll finish when the benchmark rounds are over.
+
+You know what the worst thing about the market is. I've learned news plays and parabolic setups, but none of that is useful to my current style.
+
+I could be making such high % plays with good RR, but the only thing I have are those super volatile breakouts that need to be held for weeks.
+
+Just what kind of a fool am I?
+
+That MP trading during the opening drive was so good. If I had taken it, and closed it out at the end of the day I would have made so much bank. Instead I have to set those wide stops and suffer through the volatility.
+
+I have a 100k account now. I can daytrade. I can create a system to find the shorts for those parabolic upside moves.
+
+I know probabilistic programming so I could create a trading system based on that. I could do my work and gather data.
+
+I could quantify the scalp setups SMB gave me. I could make a system to trade the trend days in the market.
+
+I could train LLMs to trade the news.
+
+I could work for my money now.
+
+So what if there is only a 5 second window to reserve the shorts before Steven Dux takes them all? That's enough for my computer to act.
+
+It's hard. I spend 2/3rds of a decade trading only to get nowhere with momentum trading. It's so hard after all this time to just throw all of that away and say that I want to be a daytrader.
+
+But who am I?
+
+When have I ever avoided doing hard things?

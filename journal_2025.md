@@ -17504,3 +17504,9 @@ Yesterday I got kicked out of the CZN game due to there being maintenance, so I 
 10:15am. Let me finish the Nia Liston chapter and then I will start for they day.
 
 I had a great idea on how to improve the Hopfield Dictionary, so I want to make a live video and adjust the sketch. I need to explain it first.
+
+2:15pm. Today the weather was awful. And because of my back pain I had trouble sleeping. Let me just finish the benchmark run and go through the Eigen docs and I will call it a day.
+ 
+The stock market torments me so. Long term trading really is the worst. If I had a daytrading system, I wouldn't be worrying about taking time off. Yeah, it's ridiculous. It's really easy to see big winners that broke out in hindsight, but in practice there are a tons of breakouts which give only mediocre performance.
+
+I'd rather work for my money than have to rely on the market conditions or any of that crap.

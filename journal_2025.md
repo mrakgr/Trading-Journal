@@ -17490,3 +17490,17 @@ Is this really not the market top? What does the momentum screen say?
 You cannot see the fear in the indices, but momentum stocks are getting absolutely destroyed.
 
 This panic could spread to the rest of the market and drag it down.
+
+10/24/2025
+
+9:55am. Uah, my back hurts. I need to stop doing those rubber band exercises, it's ruining me. 2 days ago I also had pain below my right shoulder that was keeping me up at night.
+
+Also the market isn't cracking. If I wanted to trade actively this would be a significant problem, but right now who cares.
+
+Let me chill a bit and then I will start.
+
+Yesterday I got kicked out of the CZN game due to there being maintenance, so I had to play Limbus instead. It was annoying.
+
+10:15am. Let me finish the Nia Liston chapter and then I will start for they day.
+
+I had a great idea on how to improve the Hopfield Dictionary, so I want to make a live video and adjust the sketch. I need to explain it first.

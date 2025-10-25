@@ -17542,3 +17542,16 @@ It's hard. I spend 2/3rds of a decade trading only to get nowhere with momentum 
 But who am I?
 
 When have I ever avoided doing hard things?
+
+10/25/2025
+
+9:05am. Let me chill and then I will get started. I need to create the descriptions for those videos, the thumbnail for the later one and then post them.
+
+https://youtu.be/XrBPzF1J3nU
+This Character BREAKS THE GAME! | Chaos Zero Nightmare Beryl Guide
+
+I've been playing this game yesterday. For some reason the Save Data mechanic doesn't work properly for me, and it's breaking how Rin works.
+
+9:50am. I'll leave Rin for later. I'll try the Beryl and Orlea combo today. I even got her first dupe.
+
+Let me start.

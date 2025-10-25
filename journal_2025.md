@@ -17602,3 +17602,34 @@ None of this is beyond my ability. I just have to go for it. I have to take the 
 What the hell is happening in CS2? Never heard that you could trade items for real money in it.
 
 Nwm, let me get back to the docs. I need to focus.
+
+11:50am. ![](images/image-1485.png)
+
+I don't understand these columnwise and rowwise operations. When ChatGPT showed me how to implement the softmax, after fixing some minor errors, the program worked, but I couldn't understand why that was. That is why I am going through the docs now.
+
+12pm. Oh yeah, I realized one thing.
+
+```spiral
+                        match x with
+                        | Some action when i = action_index =>
+                            inl action_prob = {policy = index current_policy_probs i; sampling = index sampling_probs i}
+                            inl reward_for_pl0 = 
+                                using_path_prob table.player_turn action_prob fun () =>
+                                using_message PlayerAction(table.player_turn, action) fun () => 
+                                loop (T_game_round (table, action))
+                            // Inverts the rewards if the player isn't 0.
+                            reward <- if table.player_turn = 0 then reward_for_pl0 else -reward_for_pl0
+                            (*reward - ev) / action_prob.sampling + ev
+                        | _ => 
+                            ev
+```
+
+Right now returning the ev here works, but this will end up giving wrong results when we use Hopfield dicts.
+
+No wait, I am wrong. It doesn't matter either way since the probabilities of taking that action will be zero, so it will be masked out in the ev calculations. Nwm.
+
+12:15pm.
+
+![](images/image-1486.png)
+
+Taking this nice and easy is the best.

@@ -17641,3 +17641,69 @@ Taking this nice and easy is the best.
 There isn't much here. Ok, let me stop here so I can have breakfast and then I will revisit that code ChatGPT gave me and see if I can understand it. It did a lot of weird things when calculating the softmax. I might have to ask it to explain certain parts as I go through it step by step.
 
 After that I'll resume the screencast and implement the new Hopfield dictionary function that is based on exponentiation rather than softmax.
+
+3:35pm. I am almost ready to resume after breakfast, chores and exercises.
+
+https://youtu.be/F9oM0a4ZWGk
+Where To Farm? - DON'T Waste Your TIME or ENERGY!!! [Chaos Zero Nightmare]
+
+So this is why I am losing my Save Data. What a rip-off. I wasted my time in Chaos mode.
+
+![](images/image-1488.png)
+> That is why it's not worth mindlessly getting into Chaos to get upgrades.
+
+3:55pm. Let me resume.
+
+![](images/image-1489.png)
+
+I need to figure out what this code does.
+
+`exps.array().colwise()`
+
+The only part I don't really get is this.
+
+Hmmm....
+
+![](images/image-1490.png)
+
+Previously I fixed this by removing the rowwise from the first one.
+
+![](images/image-1491.png)
+
+This is one way of doing it, but is replicating the array like this really necessary. Eigen has broadcasting capability. So maybe...
+
+![](images/image-1492.png)
+
+Yeah, got it.
+
+![](images/image-1493.png)
+
+This makes sense.
+
+![](images/image-1494.png)
+
+This works, I just don't know why.
+
+![](images/image-1495.png)
+
+What does `array().colwise()` do?
+
+![](images/image-1496.png)
+
+Good luck figure out what the template error is.
+
+![](images/image-1497.png)
+
+ChatGPT is being retarded as always. It doesn't understand what it's writing.
+
+![](images/image-1498.png)
+
+Ah so this works...
+
+![](images/image-1499.png)
+
+Ah, I get it. So the array is necessary for the `/` operator to work. I guess you cannot divide a vector by a vector natively. They have to be converted to array views.
+
+Didn't understand you can have colwise and rowwise array matrices.
+
+Let me start the recording.

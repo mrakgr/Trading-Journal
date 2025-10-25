@@ -17555,3 +17555,38 @@ I've been playing this game yesterday. For some reason the Save Data mechanic do
 9:50am. I'll leave Rin for later. I'll try the Beryl and Orlea combo today. I even got her first dupe.
 
 Let me start.
+
+10:20am. ![](images/image-1482.png)
+
+Let me watch this video. I've posted the MC-CFR video and scheduled the Improving HD CFR one.
+
+https://www.youtube.com/watch?v=NbL7yZCF-6Q
+Is AI’s Circular Financing Inflating a Bubble?
+
+Let me watch this and then I'll start going through the Eigen docs. I've rested better tonight. Even though my body feels wrecked, I don't have the spinal pain anymore. Just some tightness in my chest.
+
+Just how hard did I exercise for this to happen?
+
+///
+
+Two economists are walking in the forest, and see a pile of sh*t. 
+
+The first economist says to the other, "I’ll pay you $100 to eat that pile of sh\*t." The second economist smiles, takes the $100 and eats the pile of sh\*t.
+
+They continue walking until they come across a second pile of sh*t. 
+
+The second economist turns to the first and says, "I’ll pay you $100 to eat that pile of sh*t." 
+
+The first economist laughs, takes the $100 and eats a pile of sh*t.
+
+Walking a little more, the first economist looks at the second and says, "You know, I gave you $100 to eat sh\*t, then you gave me back the same $100 to eat sh\*t. I can't help but feel like we both just ate sh\*t for nothing."
+
+"That's not true", exclaims the second economist. "We increased the GDP by $200!"
+
+///
+
+Lol.
+
+![](images/image-1483.png)
+
+Love the comments.

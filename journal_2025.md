@@ -17633,3 +17633,11 @@ No wait, I am wrong. It doesn't matter either way since the probabilities of tak
 ![](images/image-1486.png)
 
 Taking this nice and easy is the best.
+
+12:20pm. 
+
+![](images/image-1487.png)
+
+There isn't much here. Ok, let me stop here so I can have breakfast and then I will revisit that code ChatGPT gave me and see if I can understand it. It did a lot of weird things when calculating the softmax. I might have to ask it to explain certain parts as I go through it step by step.
+
+After that I'll resume the screencast and implement the new Hopfield dictionary function that is based on exponentiation rather than softmax.

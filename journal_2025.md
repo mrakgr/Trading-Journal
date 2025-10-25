@@ -17590,3 +17590,15 @@ Lol.
 ![](images/image-1483.png)
 
 Love the comments.
+
+10:45am. Let me get started with the docs.
+
+https://libeigen.gitlab.io/eigen/docs-nightly/group__TutorialSlicingIndexing.html
+
+None of this is beyond my ability. I just have to go for it. I have to take the risk of believing in myself.
+
+11:25am. ![](images/image-1484.png)
+
+What the hell is happening in CS2? Never heard that you could trade items for real money in it.
+
+Nwm, let me get back to the docs. I need to focus.

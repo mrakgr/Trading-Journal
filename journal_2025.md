@@ -17707,3 +17707,24 @@ Ah, I get it. So the array is necessary for the `/` operator to work. I guess yo
 Didn't understand you can have colwise and rowwise array matrices.
 
 Let me start the recording.
+
+10/26/2025
+
+8:25am. https://youtu.be/h3JfOxx6Hh4
+WTF Is Going On?
+
+9am. Damn it, why the hell am I not going to bed earlier?
+
+Let me chill a bit and then I will get started.
+
+It's actually 10am right now, the clock moved backwards today.
+
+9:20am. Let me get started.
+
+This is the endgame. In a few months I will know where I stand, and if this fails, I won't have bother with personal projects again. It's been a 10 year journey for me that I just cannot seem to find a win.
+
+The Tao Ceti job was great while it lasted, but it was so ephemeral and turned to shit near the end.
+
+Every single step that I am taking has the potential to fail. During the Monte Carlo implementation, I had wondered whether something would trip me up there.
+
+Now...once we try out the Hopfield dictionaries we'll know for real whether there is any use for them.

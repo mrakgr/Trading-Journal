@@ -17728,3 +17728,14 @@ The Tao Ceti job was great while it lasted, but it was so ephemeral and turned t
 Every single step that I am taking has the potential to fail. During the Monte Carlo implementation, I had wondered whether something would trip me up there.
 
 Now...once we try out the Hopfield dictionaries we'll know for real whether there is any use for them.
+
+10/29/2025
+
+1:35pm. https://youtu.be/ASVWWYvsIzY?t=1370
+Trading STRATEGIES Tier List
+
+> If you're really really smart and you have a little insider information or you have really advanced sentiment analysis, you can make a crazy shit amount of money with memecoins...
+
+Yeah, I think that I need to ditch the momentum strategies and do something really really smart in trading instead.
+
+But for now I'll focus on poker and save my ammunition for situation that really matter.

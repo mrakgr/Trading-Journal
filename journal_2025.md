@@ -17739,3 +17739,11 @@ Trading STRATEGIES Tier List
 Yeah, I think that I need to ditch the momentum strategies and do something really really smart in trading instead.
 
 But for now I'll focus on poker and save my ammunition for situation that really matter.
+
+11:40pm. 
+
+![](images/image-1500.png)
+
+I didn't play CZN much today, but I found this really good comment. I had no idea that playing a card rerolls the mental breakdown cards.
+
+That is a massive tip.

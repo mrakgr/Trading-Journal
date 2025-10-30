@@ -17787,3 +17787,10 @@ First comes finishing the project. I have lots of time to do it.
 Today I am going to test the new pickler.
 
 10:05am. It might be simply that the breakouts worked really badly becase 2 weeks ago the market was jiterry. I think they should work a lot better in the current environment.
+
+12:50pm. https://youtu.be/_xH6YG1dtHA
+Binary Serialization For The Hopfield Dictionary
+
+The video is out.
+
+Let me go have breakfast.

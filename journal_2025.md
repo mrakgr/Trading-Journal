@@ -17794,3 +17794,19 @@ Binary Serialization For The Hopfield Dictionary
 The video is out.
 
 Let me go have breakfast.
+
+3:10pm. Let's start the afternoon session. I had time to think about it.
+
+In the past I had to give up on trading, but this time around I will put a proper stop to it.
+
+Thinking back to the Tao Ceti job, I should have just quit after getting that last salary instead of dragging it out and getting tilted by my teammates.
+
+Do I want a repeat of that in the stock market? Either I should give my 100% to trading or I should give 0% to it.
+
+Kick out trading on the side and focus on what is really important.
+
+That is the true path.
+
+Repeat more of what got you to that first 100k. Trading wasn't it.
+
+If you can do poker, you can apply the same process to the financial markets later.

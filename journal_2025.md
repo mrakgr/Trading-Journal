@@ -17801,7 +17801,7 @@ In the past I had to give up on trading, but this time around I will put a prope
 
 Thinking back to the Tao Ceti job, I should have just quit after getting that last salary instead of dragging it out and getting tilted by my teammates.
 
-Do I want a repeat of that in the stock market? Either I should give my 100% to trading or I should give 0% to it.
+Do I want a repeat of that in the stock market? Either I should give my 100% to trading or I should give 0% to it. No inbetween.
 
 Kick out trading on the side and focus on what is really important.
 

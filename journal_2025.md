@@ -17766,3 +17766,24 @@ I will focus on the pokerbot, which is a system that could make me 30-100% per m
 
 Next month I'll be closing the company most likely, so I don't want to be long under those circumstances.
 
+10am. My paper trading account is down to 80k currently. I am not exactly enticed to go long given that. While it is true that I picked some marginal trades during the trial, that I would lose 20% in 2 weeks is ridiculous and has turned me off from the strategy of buying high volume breakouts.
+
+I think for serious trading I should immerse myself in the market, read the news and only trade leading stocks in the strongest groups which was my original strategy, except this time I'll use the 2 week low system. I should also pyramid up so I don't get killed on the breakouts.
+
+STX and WDC are breakout and those are tempting me, but forget it.
+
+Poker will give me 50% a month so I don't have to give a shit about this.
+
+Also, during the night I've been thinking about the principle of letting winners run and cutting losses more broadly.
+
+What got me to my first 100k isn't trading, but paid work as a software engineer.
+
+If I really want money and poker botting fails I should do more of that.
+
+I got the 200k/year job once, and I'll do it again.
+
+First comes finishing the project. I have lots of time to do it.
+
+Today I am going to test the new pickler.
+
+10:05am. It might be simply that the breakouts worked really badly becase 2 weeks ago the market was jiterry. I think they should work a lot better in the current environment.

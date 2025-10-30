@@ -17747,3 +17747,22 @@ But for now I'll focus on poker and save my ammunition for situation that really
 I didn't play CZN much today, but I found this really good comment. I had no idea that playing a card rerolls the mental breakdown cards.
 
 That is a massive tip.
+
+10/30/2025
+
+9:25am. ![NVDA](images/image-1501.png)
+
+Oh, NVDA is breaking out. Ok, forget the bear perspective. If I cared about trading I'd go long here.
+
+I think I am going to cancel the TradingView trial over the weekend so I don't accidentally get charged 150$ for the yearly subscription. I am also going to stop paying attention to stocks so I can enjoy my game time.
+
+It's been two months and I feel zero desire to take on risk.
+
+Forget ever beating the market as a trader.
+
+If I am going to make money in stocks, I'll do it as a programmer, period.
+
+I will focus on the pokerbot, which is a system that could make me 30-100% per month on my current capital level.
+
+Next month I'll be closing the company most likely, so I don't want to be long under those circumstances.
+

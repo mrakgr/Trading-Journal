@@ -17810,3 +17810,16 @@ That is the true path.
 Repeat more of what got you to that first 100k. Trading wasn't it.
 
 If you can do poker, you can apply the same process to the financial markets later.
+
+10/31/2025
+
+10:10am. 
+
+https://youtu.be/3Mh0T35XxQY
+How To Make Beryl Deal INSANE DAMAGE! | UPDATED Beryl Guide & Showcase | Chaos Zero Nightmare
+
+Beryl's also my main, so I'll try out the strat here. It never occured to me to pack her hand with retain cards. The team I have now with Orlea and Maybel is so slow to ramp up.
+
+At any rate, let me catch up with J <=> M and I'll get started on programming.
+
+Today I need to do some research on C++ compilation.

@@ -17823,3 +17823,41 @@ Beryl's also my main, so I'll try out the strat here. It never occured to me to 
 At any rate, let me catch up with J <=> M and I'll get started on programming.
 
 Today I need to do some research on C++ compilation.
+
+11/1/2025
+
+4:25pm. I need some time to think about what is next.
+
+Incidentally, it seems whatever fear there was 2 weeks ago in the markets, it's gone now, and the bull run is resuming. I'll pass. I'll be closing the company either way in two weeks, so this isn't a time to be taking on risk.
+
+Plus I decided no to trade until I am done with the poker bot.
+
+https://www.mangaread.org/manga/shangri-la-frontier/chapter-239/
+
+Let me take a break while I catch up to Shangri-La. The part I am now on in my programming work isn't hard, but I am feeling blocked and would rather take some time off to chill.
+
+4:35pm. Oh yeah, because there are 50 high volume breakouts showing up on the scans now, it's useless to make for trade selection. I put in some limit orders in my TradingView paper trading account, but given that I can't even remember on what, that's not going to work well.
+
+I just have to make sure not to forget to cancel the subscription next week.
+
+![INCY](images/image-1502.png)
+
+Oh yeah, it was on INCY. It had this huge earnings selloff and reversal.
+
+![LASR](images/image-1503.png)
+
+Also on LASR because it's having this long sequence of higher lows. It might pop next week on earnings.
+
+But these aren't great setups.
+
+The only really good setups that I know are after panic breakouts on top momo stocks, which is what I tried doing incorrectly back in April and May.
+
+What this bull run has revealed to me though is that I don't know how to switch from one leader group to the next during a bull run.
+
+I need a better trading system and high volume breakouts aren't it.
+
+Lance is probably right that I need to improve my news game.
+
+If you look at Qullamaggie's charts, they are full of annotations regarding news.
+
+If I make a quantitative system in the future, forget price action. I should focus on trading text. In other words news. That is where the alpha is.

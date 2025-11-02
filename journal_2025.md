@@ -17861,3 +17861,16 @@ Lance is probably right that I need to improve my news game.
 If you look at Qullamaggie's charts, they are full of annotations regarding news.
 
 If I make a quantitative system in the future, forget price action. I should focus on trading text. In other words news. That is where the alpha is.
+
+11/2/2025
+
+12:30pm. https://youtu.be/kYX05qESJMs
+These 2 Orderflow Patterns Got Me Funded
+
+Very promising video. He actually goes into detail what his strategies are.
+
+2:30pm. Amazing vid. Now I have no excuse. He gave me a mechanical system that I can use to do order book scalping.
+
+When it's time to do trading, I should backtest it and make use of it.
+
+There is no reason why I couldn't be successful with just this single setup.

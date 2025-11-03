@@ -17874,3 +17874,18 @@ Very promising video. He actually goes into detail what his strategies are.
 When it's time to do trading, I should backtest it and make use of it.
 
 There is no reason why I couldn't be successful with just this single setup.
+
+11/3/2025
+
+1:45pm. The CZN drama is insane.
+
+![](images/image-1504.png)
+![](images/image-1505.png)
+
+Damn, this is really sad because I really am enjoying the game.
+
+![](images/image-1506.png)
+![](images/image-1507.png)
+
+The director is saying they are going to rewrite the story entirely.
+

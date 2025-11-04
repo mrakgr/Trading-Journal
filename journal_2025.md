@@ -17904,3 +17904,27 @@ It's doing decently well relative to 2 weeks ago, but is down decently for the d
 To be honest, it really bothers me how my portfolio is doing. Why are my picks so bad?
 
 I think I am going to computerize the chart patterns at some point because it doesn't seem like I am contributing much when it comes to stock picks.
+
+10:05pm. ![](images/image-1510.png)
+
+I don't know why, but was very funny.
+
+![](images/image-1511.png)
+
+10:15pm. ![](images/image-1512.png)
+
+WSB is hillarious.
+
+I really am happy that I paper trading instead of real money trading.
+
+I have no idea, maybe that does mean I have at least a modicum of skill.
+
+My paper trades lost money, but at least I recognized that this is a dangerous market to be in.
+
+Anyway, next week I am going to call up my accountant and start closing shop. I'll pay the tax, get the money into my own possession and it's bye bye to Rajnet for now.
+
+I'll reopen it in the future when some other job comes along.
+
+10:20pm. The market is just too dangerous to challenge it without the use of a computer. I understand that much at least.
+
+The real money is made after there is a panic, not after it's been running up for over 6 months.

@@ -17889,3 +17889,18 @@ Damn, this is really sad because I really am enjoying the game.
 
 The director is saying they are going to rewrite the story entirely.
 
+11/4/2025
+
+8:15pm. ![BTC](images/image-1508.png)
+
+BTC along with my (paper trading) porfolio is sliding into the dirt again.
+
+BTC is a really good risk sentiment indicator. What about NVDA?
+
+![NVDA](images/image-1509.png)
+
+It's doing decently well relative to 2 weeks ago, but is down decently for the day.
+
+To be honest, it really bothers me how my portfolio is doing. Why are my picks so bad?
+
+I think I am going to computerize the chart patterns at some point because it doesn't seem like I am contributing much when it comes to stock picks.

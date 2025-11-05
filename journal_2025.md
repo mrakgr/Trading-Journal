@@ -17928,3 +17928,17 @@ I'll reopen it in the future when some other job comes along.
 10:20pm. The market is just too dangerous to challenge it without the use of a computer. I understand that much at least.
 
 The real money is made after there is a panic, not after it's been running up for over 6 months.
+
+11/5/2025
+
+11:30pm. https://youtu.be/80BXR4zX2EE
+How Martin Shkreli Became a Wallstreetbets Legend
+
+This is hillarious.
+
+https://youtu.be/80BXR4zX2EE?t=215
+> At this point he realized that in order to make it as a big fund on Wall Street, he needed to develop risk averse strategies that found investments with wide margins of safety.
+> How did he do that?
+> By getting jacked to tits in short positions in volatile biotech companies and then trash talking them on SeekingAlpha.
+
+Lol. Based.

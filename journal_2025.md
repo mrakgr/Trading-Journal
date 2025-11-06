@@ -18089,3 +18089,7 @@ Without a doubt it's this. It's linked in the references section.
 10:25pm. ![](images/image-1522.png)
 
 This is good advice. I should stay away from Stars and other monolithic sites at the beginning. The other sites will probably be softer too.
+
+![](images/image-1523.png)
+
+The life of a poker botter sounds harsh. I admit, I wanted to start on Stars.

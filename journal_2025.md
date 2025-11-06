@@ -17974,3 +17974,114 @@ How to Spot & Crush Poker BOTS (Before They Beat You)
 Behind the Swings: The Legend of Isildur1
 
 Is Viktor Bloom dead? I hope not. But it sure feels like a documentary on a dead famous person.
+
+9:20pm. ![NVDA](images/image-1514.png)
+
+Oh my god, I hate these shit breakouts. Even thoug stocks are making new highs, the easy part was definitely during the first 6 months of the rally.
+
+We simply need a proper flush out in order for the market to setup.
+
+![NBIS](images/image-1515.png)
+
+NBIS really got dipped.
+
+The dip 2 weeks ago would have just broke through all the stops.
+
+My weekly momentum method is pretty much dead in this market.
+
+It's fucking ridiculous.
+
+The method has its benefits, and would have looked really good had I cought some of those big moves, but I didn't.
+
+I should be trading ORBs, gap fills, VWAP daytrading systems to begin with.
+
+I should code up the systems to trade capitulations like Lance teaches.
+
+I should train LLMs to trade the news.
+
+I should put some effort into prowling the OpenHoldem forums.
+
+9:30pm. https://documentation.help/OpenHoldem/
+
+![](images/image-1516.png)
+
+Pretty dead forum. The docs aren't loading properly either. The last update on Github was 4 years ago.
+
+![](images/image-1517.png)
+
+WTF? Did the author just dump the source on Github and scrammed?
+
+9:50pm. https://youtu.be/f-tEa4dGmEw
+How on earth did I SURVIVE all these CRAZY SWINGS...
+
+![](images/image-1518.png)
+
+Oh my god, these AIs are so annoying.
+
+https://venice.ai/
+
+Let's try the Venice models.
+
+Venice was the big provider that was supposed to come in on the Morpheus platform and give us the much needed customers at Tao Ceti, but then they bailed. I guess they decided to just run their own models.
+
+![](images/image-1519.png)
+
+At least it's not complaining about this being illegal.
+
+///
+
+To interface your own research bot with online poker clients, you can consider using a framework or application that provides the necessary tools and flexibility. One such option is **OpenHoldem**, which is a widely used framework for developing and running poker bots. OpenHoldem is designed to work with various poker clients and offers a range of features that can help you integrate your bot effectively.
+
+**OpenHoldem** allows you to create custom bots by writing scripts in a language like Visual Basic Script (VBScript) or C++. It provides a rich set of functions for interacting with the poker client, such as reading the game state, making decisions, and executing actions. OpenHoldem supports multiple poker clients, including PokerStars, Full Tilt, and others, making it a versatile choice for your research bot ^1,2^.
+
+Another option is to use **WarBot**, which is a commercial poker bot that offers a high degree of customization. WarBot operates as an overlay, visually analyzing the poker table to make decisions. It provides a user-friendly interface for creating and modifying bot strategies, which can be particularly useful for research purposes. WarBot also supports a wide range of poker clients and offers features like stealth technology to help your bot avoid detection ^3,4^.
+
+If you prefer a more hands-on approach, you can develop your own interface using **screen scraping** techniques. This involves capturing and interpreting the visual data displayed on the poker client's screen. You can use tools like **Tesseract OCR** (Optical Character Recognition) to extract text from the screen, allowing your bot to read the game state and make decisions accordingly. This method requires more development effort but offers a high degree of flexibility and can be tailored to any poker client ^5,6^.
+
+Additionally, you can explore **API-based solutions** if the poker clients you are targeting offer APIs. Some poker platforms provide APIs that allow for direct communication with their software, enabling you to build a bot that interacts with the game in a more controlled and reliable manner. This approach often requires less screen scraping and can be more robust against changes in the poker client's interface ^7,8^.
+
+In summary, **OpenHoldem** and **WarBot** are two applications that can help you interface your research bot with online poker clients, offering a range of features and customization options. For a more tailored solution, consider developing your own interface using screen scraping or API-based approaches.
+
+///
+
+///
+
+You are correct in noting that most poker rooms are against the use of bots on their platforms. This is because bots can disrupt the natural flow of the game and provide an unfair advantage to those using them. Many poker rooms actively work to identify and ban bot-controlled accounts ^1^.
+
+However, there are some platforms and services that offer APIs or integration solutions for poker games. For example, **3UP Gaming** provides a Poker API that allows developers to integrate poker games into their platforms. This API is designed for both new developers and casino operators looking to add a poker offering to their existing services ^2^. Similarly, **iSoftGamble** offers a Poker API Software Solution that can be used to create custom poker rooms with branded and customizable interfaces ^3^.
+
+Additionally, some poker bot services, like those offered by **3UP Gaming** and **PokerBros**, provide integration with multiple poker rooms, suggesting that they may use APIs or other forms of direct integration to connect their bots with these platforms ^4,5^.
+
+It's important to note that while these APIs and integration services exist, their availability and the extent to which they can be used for bot development may vary. Poker rooms often have strict policies against bots, and using an API to create a bot might still violate their terms of service. Therefore, it's crucial to check the specific terms and conditions of each poker room to ensure compliance.
+
+In summary, while some APIs and integration solutions are available, their use for bot development can be limited by the policies of the poker rooms themselves.
+
+5 Citations
+
+Poker Bot AI+ | AI Poker Bot Software for Online Play
+https://pokerbotai.com/
+
+Poker API | Integration Online Casino Platforms | 3UP Gaming
+https://www.3upgaming.com/pages/api/
+
+Online Poker API Room Software Solution
+https://isoftgamble.com/poker-software/
+
+Poker Robot AI 🤖 Best AI Poker bot Price 2025 | 3UP Gaming
+https://www.3upgaming.com/pages/robot-ai/
+
+PokerBros Bot AI — Advanced Poker Bot for Automated Play
+https://pokerbrosi-bot-ai.com/
+
+///
+
+![](images/image-1520.png)
+![](images/image-1521.png)
+
+I guess I'll have to give OpenHoldem a try.
+
+https://github.com/OpenHoldem/openholdembot/releases
+
+Without a doubt it's this. It's linked in the references section.
+
+10:20pm. The docs are working just fine now.

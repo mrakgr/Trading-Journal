@@ -17951,3 +17951,26 @@ Martin Shkreli Says Quantitative Investing Is The Future Of Finance
 I should listen to this man.
 
 Lol'd at him trimming with a scissor.
+
+11/6/2025
+
+7:30pm. https://youtu.be/2t38gImghoo
+Is AI Killing Poker?
+
+Pretty good video.
+
+To be honest, I want to play CZN more, but I am bored of it. For the same reason I am turned off of GF2. The story is boring, and it burying me in chores.
+
+They have such a good thing in the Chaos runs, but instead they are making me waste my time with side quests. It's why I dropped Punishing Gray Raven.
+
+Not sure what I want to do now.
+
+https://www.youtube.com/watch?v=nhuWF-8CK1E
+How to Spot & Crush Poker BOTS (Before They Beat You)
+
+![](images/image-1513.png)
+
+8:30pm. https://youtu.be/rZ1ij7Za7HA
+Behind the Swings: The Legend of Isildur1
+
+Is Viktor Bloom dead? I hope not. But it sure feels like a documentary on a dead famous person.

@@ -18085,3 +18085,7 @@ https://github.com/OpenHoldem/openholdembot/releases
 Without a doubt it's this. It's linked in the references section.
 
 10:20pm. The docs are working just fine now.
+
+10:25pm. ![](images/image-1522.png)
+
+This is good advice. I should stay away from Stars and other monolithic sites at the beginning. The other sites will probably be softer too.

@@ -18093,3 +18093,15 @@ This is good advice. I should stay away from Stars and other monolithic sites at
 ![](images/image-1523.png)
 
 The life of a poker botter sounds harsh. I admit, I wanted to start on Stars.
+
+12am. https://youtu.be/-DGepUhr6cA
+Podcast Ep. 7 - Will AI Bots Kill Online Poker?
+
+He says here that Stars will require pros to submit recordings of themselves from multiple angles.
+
+Also today I learned that the online poker economy is only 6 billion. That's pretty low.
+
+12:05pm. Whatever. I'll try small sites, big sites. If I get banned here or there it's not a big deal as long as I can beat the variance.
+
+![](images/image-1524.png)
+

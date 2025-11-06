@@ -17942,3 +17942,12 @@ https://youtu.be/80BXR4zX2EE?t=215
 > By getting jacked to tits in short positions in volatile biotech companies and then trash talking them on SeekingAlpha.
 
 Lol. Based.
+
+11/6/2025
+
+6:30pm. https://youtu.be/0B_Y-_mPdoU
+Martin Shkreli Says Quantitative Investing Is The Future Of Finance
+
+I should listen to this man.
+
+Lol'd at him trimming with a scissor.

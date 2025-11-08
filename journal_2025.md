@@ -18105,3 +18105,14 @@ Also today I learned that the online poker economy is only 6 billion. That's pre
 
 ![](images/image-1524.png)
 
+11/8/2025
+
+10:25am. Hopfield Dictionary CFR is pretty much dead and I need to move on. The results that I got from testing it are horrible. I'll try the max activation just to see how it does.
+
+To be honest, I am kind of burnt out on poker at this point and half of me really wants to move to trading. I want to test out various trading systems and start building out my business there.
+
+But it isn't the time to stop just yet.
+
+Let me finish my morning reading.
+
+Then I'll do a live video.

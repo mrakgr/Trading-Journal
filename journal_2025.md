@@ -18116,3 +18116,15 @@ But it isn't the time to stop just yet.
 Let me finish my morning reading.
 
 Then I'll do a live video.
+
+11/9/2025
+
+12:35pm. Managed to get Arrayfire installed and a basic example going.
+
+https://youtu.be/H1u-eqS-g9I
+My Incredibly Easy Trading Strategy (that works nearly every day)
+
+Let me watch this SMB video. I think I am going to start with ORBs as well.
+
+I'll create a system based on the ORB paper and I am going to add some memory to enhance that system.
+

@@ -18128,3 +18128,6 @@ Let me watch this SMB video. I think I am going to start with ORBs as well.
 
 I'll create a system based on the ORB paper and I am going to add some memory to enhance that system.
 
+3:15pm. https://www.youtube.com/@nvforex/videos
+
+I'll check out this guy later.

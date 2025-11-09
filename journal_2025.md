@@ -18131,3 +18131,11 @@ I'll create a system based on the ORB paper and I am going to add some memory to
 3:15pm. https://www.youtube.com/@nvforex/videos
 
 I'll check out this guy later.
+
+3:25pm. Thomas recommended me that guy and I've never heard about him before. I tend to turn off whenever I see forex in the name.
+
+But if he's recommending him, he might be legit. It's at least worth checking out.
+
+https://atas.net/
+
+Here is another software similar to Bookmap courtesy of Thomas.

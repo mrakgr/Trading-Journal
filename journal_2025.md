@@ -18178,3 +18178,10 @@ Martin Shkreli Reveals If Quant Trading Is Better Than Fundamental Investing
 
 > It shouldn't be a surprise that investors who are using computers help them do their job are doing better than those that aren't.
 
+9pm. Yeah, it's such a grind. I'll probably fail at beating Slumbot so I am not very motivated, but it's more important to develop these skills than anything else. That is that got me that 100k. Forget money and just focus on the process.
+
+Thinking about poker botting gives me such a feeling of fatigue. I'd rather go into trading, but poker gave me everything even if indirectly, so I should pay my respect to it and give it my best shot.
+
+Just this method is enough.
+
+I already have tabular CFR implemented on the GPU and the poker games. I just have to go a bit further and it will be done.

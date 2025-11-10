@@ -18145,3 +18145,31 @@ Here is another software similar to Bookmap courtesy of Thomas.
 2:50pm. https://asuracomic.net/series/surviving-the-game-as-a-barbarian-433fa130
 
 I've been following Surviving The Game as a Barbarian for a while and it's great.
+
+8:35pm. https://youtu.be/nq9bfdbEgzw
+Part 5: learning representations in bayesian confidence propagation neural networks
+
+Some of the work by Lansner caught my eye recently. I'll showcase some of the papers in an upcoming video, but for now let me watch this video.
+
+8:45pm. Ok, nevermind I am done for the day. The video is to technical so I'll leave it for later. I absorbed bits and pieces from the papers. I wasn't really focused today as I spent most of it reading manga, but for the past few hours, I spent only staring and reading the papers.
+
+My conclussion is that hierarchical biological learning isn't a big deal yet. They are still testing on toy datasets.
+
+Forget that shit.
+
+If I am going to be using linear dictionaries, I should just focus on getting the data into proper shape myself.
+
+At some point, somebody is going to figure out how to deal with real deep memory systems, but for now I should focus on shallow memory systems.
+
+DMS, SMS...
+
+SMS even kids can use, so I should accept that and give them a try. I might just like it.
+
+It's fine if just getting closer to the simplest kinds of memory system is the best I can do. It's fine if that turns out to be the pinnacle of my accomplishment.
+
+Because right now this really is my best.
+
+Even if my life is at stake, this really is my best.
+
+If my journey ended here that would not be a bad score, but since it looks like it will continue for many more years, my goal for the next few months will be to take shallow memory systems and challenge Slumbot.
+

@@ -18139,3 +18139,9 @@ But if he's recommending him, he might be legit. It's at least worth checking ou
 https://atas.net/
 
 Here is another software similar to Bookmap courtesy of Thomas.
+
+11/10/2025
+
+2:50pm. https://asuracomic.net/series/surviving-the-game-as-a-barbarian-433fa130
+
+I've been following Surviving The Game as a Barbarian for a while and it's great.

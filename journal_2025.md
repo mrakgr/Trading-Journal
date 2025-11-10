@@ -18173,3 +18173,8 @@ Even if my life is at stake, this really is my best.
 
 If my journey ended here that would not be a bad score, but since it looks like it will continue for many more years, my goal for the next few months will be to take shallow memory systems and challenge Slumbot.
 
+8:55pm. https://youtu.be/eXDiimHmTrM
+Martin Shkreli Reveals If Quant Trading Is Better Than Fundamental Investing
+
+> It shouldn't be a surprise that investors who are using computers help them do their job are doing better than those that aren't.
+

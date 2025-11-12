@@ -18185,3 +18185,15 @@ Thinking about poker botting gives me such a feeling of fatigue. I'd rather go i
 Just this method is enough.
 
 I already have tabular CFR implemented on the GPU and the poker games. I just have to go a bit further and it will be done.
+
+11/12/2025
+
+9:05am. https://youtu.be/2rZ3UXbRvoI
+The Private Credit Panic: Why Wall Street’s Big Winners are Now Losing | Real Eisman Playbook Ep 33
+
+Yesterday it was another failure so let me take it slowly today. I have an idea of how I want to proceed with poker. I'll do a video after finishing watching this.
+
+https://youtu.be/pO9L1HRqQLQ
+Red Flags at OpenAI — How One Company Could Burst the AI Bubble | Prof G Markets
+
+Maybe also this.

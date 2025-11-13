@@ -18197,3 +18197,11 @@ https://youtu.be/pO9L1HRqQLQ
 Red Flags at OpenAI — How One Company Could Burst the AI Bubble | Prof G Markets
 
 Maybe also this.
+
+11/13/2025
+
+12:15pm. ![](images/image-1525.png)
+
+> One weird thing about software development is that there are plenty of things which motivated individual developers can achieve which large companies can't even write the requirements for, let alone achieve.
+
+I'll keep this quote in mind.

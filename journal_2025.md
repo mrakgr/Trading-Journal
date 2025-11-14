@@ -18205,3 +18205,27 @@ Maybe also this.
 > One weird thing about software development is that there are plenty of things which motivated individual developers can achieve which large companies can't even write the requirements for, let alone achieve.
 
 I'll keep this quote in mind.
+
+11/14/2025
+
+12:40pm. ![](images/image-1526.png)
+
+Finally fear is coming into the market. I am using Reddit /r/stocks as a sentiment indicator and when people are saying don't fold, you know deep down they are scared.
+
+Incidentally, I just made the request to pull all my money from my trading account as I am in the active process of closing my company. I'll open a personal IBKR account later, but I am not in the least hurry to trade.
+
+I'll have to make a judgement call if I want to trade the biweekly momentum after the next market panic.
+
+![](images/image-1527.png)
+
+I've been losing money hand over fist over the past month in my paper trading account.
+
+![](images/image-1528.png)
+
+Down to 75k. Impressive.
+
+It seems that at market tops, high volume breakouts are a good short signal.
+
+I honestly had no idea the market worked like this. You wouldn't be able to see this on a chart.
+
+I don't want to sell stocks short, but paper trading long to get in tune with the market seems to be really useful. I'll want to develop an indicator based on the momentum volume system.

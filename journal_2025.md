@@ -18235,3 +18235,10 @@ I don't want to sell stocks short, but paper trading long to get in tune with th
 10:15am. ![](images/image-1529.png)
 
 In my own programming, I seem to be getting fucked over by ML algos all over again. It's the same recurring story over the past 10 years. I am going to try out neural gas, and if that doesn't work, just hand craft the score function. I want to wrap up poker.
+
+8pm. ![](images/image-1530.png)
+Open RL problems to be solved.
+
+At any rate, I've thrown in the towel on the clustering algos. We'll be doing things the old fashioned way from here on out.
+
+This kind of waste of time is as usual for me. I am not going to be scammed by ML again. I know my own limits better now if nothing else.

@@ -18242,3 +18242,11 @@ Open RL problems to be solved.
 At any rate, I've thrown in the towel on the clustering algos. We'll be doing things the old fashioned way from here on out.
 
 This kind of waste of time is as usual for me. I am not going to be scammed by ML again. I know my own limits better now if nothing else.
+
+8:15pm. https://www.argmin.net/p/cool-kids-keep
+
+My RSI is coming back so I'll keep my writing short.
+
+![](images/image-1531.png)
+
+Good posts in this thread.

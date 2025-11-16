@@ -18229,3 +18229,9 @@ It seems that at market tops, high volume breakouts are a good short signal.
 I honestly had no idea the market worked like this. You wouldn't be able to see this on a chart.
 
 I don't want to sell stocks short, but paper trading long to get in tune with the market seems to be really useful. I'll want to develop an indicator based on the momentum volume system.
+
+11/16/2025
+
+10:15am. ![](images/image-1529.png)
+
+In my own programming, I seem to be getting fucked over by ML algos all over again. It's the same recurring story over the past 10 years. I am going to try out neural gas, and if that doesn't work, just hand craft the score function. I want to wrap up poker.

@@ -18250,3 +18250,10 @@ My RSI is coming back so I'll keep my writing short.
 ![](images/image-1531.png)
 
 Good posts in this thread.
+
+11/16/2025
+
+11:40pm. https://youtu.be/cpTwCuLi7tI
+How Did Online Poker Bots Get This Redline?
+
+This guy is studying online poker bots. I'll watch this video tomorrow.

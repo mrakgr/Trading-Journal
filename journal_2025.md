@@ -18307,3 +18307,7 @@ Amazing content. This is very useful to me.
 1:55pm. An amazing video. He says it's horrifying what it's possible to with MDA (Mass Data Analysis).
 
 I am almost done with it.
+
+2pm. ![](images/image-1535.png)
+> Ignition has 25% of the player base as bots.
+

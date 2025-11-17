@@ -18303,3 +18303,7 @@ Yeah, I need to change my ways. I need to change my approach.
 The Poker Iceberg
 
 Amazing content. This is very useful to me.
+
+1:55pm. An amazing video. He says it's horrifying what it's possible to with MDA (Mass Data Analysis).
+
+I am almost done with it.

@@ -18299,3 +18299,7 @@ Yeah, I need to change my ways. I need to change my approach.
 > Pool tends to be very good at "GTO" frequencies on the surface
 > But players fall apart on the rivers and under the mental pressure
 
+12pm. https://youtu.be/Jjs04xXFLMI
+The Poker Iceberg
+
+Amazing content. This is very useful to me.

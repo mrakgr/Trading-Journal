@@ -18257,3 +18257,23 @@ Good posts in this thread.
 How Did Online Poker Bots Get This Redline?
 
 This guy is studying online poker bots. I'll watch this video tomorrow.
+
+11/17/2025
+
+11am. This recent failure to make ML work is interesting because I can no longer hide. Poker aside, this begs the question of how exactly do I intend to do quant trading?
+
+Will I try training a NN? Or will I do something else? If so what?
+
+The answer is obvious.
+
+Tabular methods.
+
+Nothing else works. Nothing else comes close to working.
+
+I can make poker work with tabular methods.
+
+I can do proper data science with tabular methods.
+
+Why don't I leave 'ML' aside and focus on what I am really good at?
+
+The integer pickler that I did is the world telling me which way I should go.

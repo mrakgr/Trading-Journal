@@ -18314,3 +18314,23 @@ I am almost done with it.
 ![](images/image-1536.png)
 
 I wonder if the WPN challenge is still live? Maybe I could take it?
+
+2:15pm. ![](images/image-1537.png)
+
+https://youtu.be/2dWOIMJyEtw
+💀 This Crypto Crash Is Different...
+
+He makes a great point that Bitcoin never went through a global financial crisis like in 2008 or the dotcom bubble bust. It only existed during the span of the 20 year long bull market.
+
+I have a big choice to make. Do I put more effort into poker, or do I go into trading?
+
+The approach I should take in poker now is the same one I intend to take for trading.
+
+I am not motivated to put even more effort into poker only to have to switch to trading later and give up all that work. I want to make trading my main career.
+
+2:25pm. What do I want to do? I want to learn how to trade.
+
+I got enough out of poker.
+
+I got my programming language skills.
+And I got Spiral.

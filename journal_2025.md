@@ -18277,3 +18277,25 @@ I can do proper data science with tabular methods.
 Why don't I leave 'ML' aside and focus on what I am really good at?
 
 The integer pickler that I did is the world telling me which way I should go.
+
+11:10am. Let me watch that video.
+
+![](images/image-1532.png)
+
+200m hands in this database? That is a goldmine depening on your approach. I need to get this.
+
+![](images/image-1533.png)
+
+This is great info.
+
+https://youtu.be/MyG5d-TWbLc
+MDA + GTO + EQ = Profit
+
+This is the video by the way.
+
+Yeah, I need to change my ways. I need to change my approach.
+
+![](images/image-1534.png)
+> Pool tends to be very good at "GTO" frequencies on the surface
+> But players fall apart on the rivers and under the mental pressure
+

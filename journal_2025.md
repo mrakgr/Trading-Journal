@@ -18311,3 +18311,6 @@ I am almost done with it.
 2pm. ![](images/image-1535.png)
 > Ignition has 25% of the player base as bots.
 
+![](images/image-1536.png)
+
+I wonder if the WPN challenge is still live? Maybe I could take it?

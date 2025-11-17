@@ -18334,3 +18334,14 @@ I got enough out of poker.
 
 I got my programming language skills.
 And I got Spiral.
+
+2:30pm. https://youtu.be/sYei2qjhaAo
+Top Wall St Trader's In-Play Tickers ($TSLA, ???, ???)
+
+I need to take a break for a while because my hands and fingers hurt.
+
+It's time to move on to the next phase. I'll drop ML entirely in favor of hand crafted function approximations.
+
+That is what I'd do for poker, and that is what I am going to do for trading.
+
+I am going to take the poker lesson very seriously.

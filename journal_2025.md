@@ -18488,3 +18488,24 @@ One of his 3 paths is algorithmic trading. That's not going to be covered in the
 > Algorithmic systematic edges at some point stop working.
 
 Yeah, the same would be true for poker. I'll have to keep in mind that the market is dynamic.
+
+6:10pm. 11m in and this is a really good video.
+
+6:45pm. https://youtu.be/QBbKEa52NW8
+Trading Is Becoming an ESPORT — And No One Is Ready
+
+7:45pm. ![](images/image-1558.png)
+
+He says that Alt coins can be traded with market sentiment.
+
+8:10pm. ![](images/image-1559.png)
+
+Actually, I wasn't aware that in the US you could exchange cash for gold in banks as far as 1971.
+
+8:30pm. ![](images/image-1560.png)
+
+This is pretty interesting. But the thing I really have to do is learn to take stats. The thing that made Jesse Livermore successful in the bucket shops. I need to learn to count the moves.
+
+I am going to look for patterns and see if I can find where momentum follows through or reverses.
+
+I know what the big challenge of it is.

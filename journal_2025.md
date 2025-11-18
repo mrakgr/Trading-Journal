@@ -18367,4 +18367,21 @@ Here are some tools. I'll probably have to get the data from one of these.
 
 1:20pm. ![](images/image-1539.png)
 
-He's setting the step wrong on these slides.
+He's setting the step wrong on these slides. `==` is the equality operator.
+
+1:30pm. They say CloudQuant has a free version. Ok, I guess I'll start there.
+
+It's as good a place as any. I do have a Python backend in Spiral, so that would take care of that need as well, in case they don't have C++.
+
+1:35pm. ![](images/image-1540.png)
+
+What the fuck, is this really it?
+
+![](images/image-1541.png)
+
+I think maybe the CloudQuant firm changed it's business model. I could try QuantConnect instead?
+
+https://youtu.be/t2ceon0vNZg
+Backtesting Trading Systems - Everything You Need To Know
+
+Let me watch this.

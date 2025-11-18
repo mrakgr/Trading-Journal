@@ -18345,3 +18345,22 @@ It's time to move on to the next phase. I'll drop ML entirely in favor of hand c
 That is what I'd do for poker, and that is what I am going to do for trading.
 
 I am going to take the poker lesson very seriously.
+
+11/18/2025
+
+12pm. https://youtu.be/J0WT9jAAjDM
+How to Backtest a Trading Strategy (Getting Started)
+
+Now that I've decided to go onto the path of trading, I need to figure out where to get the data and how to start backtesting. I have an idea how I want to approach the design of trading systems.
+
+But the very first step is to figure out where to get the data. I also ideally want to figure out where to get the news data because news has huge influence on prices.
+
+I've been working very hard for the last 2 months, so I need to slow down a bit first.
+
+My hands are a good indicator for when I've been going forward too hard.
+
+In fact, my approach to the market will be the same as if I were doing poker. Not the way I've been doing it which is to try to find a ML method, but solely using tabular RL.
+
+1:05pm. ![](images/image-1538.png)
+
+Here are some tools. I'll probably have to get the data from one of these.

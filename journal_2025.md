@@ -18446,3 +18446,34 @@ I am interestedin watching this. Let me take the time to do the chores.
 
 Oh, QuantConnect has an interactive bootcamp. Change of plans. I'll do these tutorials.
 
+4:40pm. ![](images/image-1553.png)
+
+The ORB seems to be a popular strategy unfortunately.
+
+![](images/image-1554.png)
+
+I'll start going through this tomorrow.
+
+https://youtu.be/n5acv8R-lN8?t=364
+> We do not apply statistical learning models directly to the price series or the return series. And we will see why later on.
+
+I know myself that it won't work, but I am not sure exactly why myself, so I am curious.
+
+![](images/image-1555.png)
+
+The reason why it would be a bad idea to use ML to predict prices directly according to Roman Paolucci is because their generating distribution is violently unstable, so the expectation that ML models learn is of little value. I guess that applies to people too.
+
+> Our models are only going to be effective as the stability of the space.
+
+5:55pm. https://youtu.be/KfjjHv7DB8o
+The Ultimate Guide to PRO Trading
+
+Holy shit, Andrea Cimitan made a 5h video. I guess he really is the real deal. The system he showed last time seemed legit too.
+
+5:55pm. I'll leave it for tomorrow.
+
+Fuck, I am pissed. I spent so much time on AI going nowhere with that. Had I used simple tabular representations I would be so much further along.
+
+At least, I am now number one in the world on those. Spiral itself is just one big dynamic programming exercise, so it trained me well for it.
+
+I am going to kill the markets with the perfect hashing pickler. And after I am done I'll come back for poker to wipe away the humiliation.

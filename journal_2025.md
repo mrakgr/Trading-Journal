@@ -18385,3 +18385,8 @@ https://youtu.be/t2ceon0vNZg
 Backtesting Trading Systems - Everything You Need To Know
 
 Let me watch this.
+
+1:50pm. ![](images/image-1542.png)
+> You'd be surprised how many strategies from books like these just don't work.
+
+I think quant trading is the true technical analysis.

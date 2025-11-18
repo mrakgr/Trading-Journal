@@ -18406,7 +18406,13 @@ He is using Norgate and Metastock for data sources.
 
 He also mentioned a few portfolio testing software. He says his favorite at the moment is RealTests.
 
-https://youtu.be/izuZqWz-Dpg
+3pm. https://youtu.be/izuZqWz-Dpg
 Books that Made Me a Quant
 
-Ok, let me watch this and 
+Ok, let me watch this and tomorrow I am going to stop messing around and just get the data and get to work on it.
+
+I'll start with QuantConnect and then move from there.
+
+Those SMB Capital setups won't systematize themselves.
+
+I'll start with the VWAP system and the ORB systems and then move from there.

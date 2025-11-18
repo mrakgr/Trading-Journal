@@ -2,6 +2,13 @@
 
 I like how unlike in git commit messages I can also insert images in the markdown. I'll be using this for my journaling needs.
 
+## 11/18/2025
+
+https://youtu.be/KfjjHv7DB8o
+The Ultimate Guide to PRO Trading
+
+This video by Andrea Cimitan lives up to its name. Since Hopfield dictionaries failed, I'll be going into trading. It really hurts to drop poker, but I want to take some time to work on trading systems. I think I would have enjoyed hand crafting the cost functions if I put my mind to it. I'll make up for it by applying the process to trading instead.
+
 ## 10/9/2025
 
 [Bookmap](https://bookmap.com/learning-center/en) has a large number of good tutorials.

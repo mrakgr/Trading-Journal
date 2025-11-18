@@ -18509,3 +18509,13 @@ This is pretty interesting. But the thing I really have to do is learn to take s
 I am going to look for patterns and see if I can find where momentum follows through or reverses.
 
 I know what the big challenge of it is.
+
+![](images/image-1561.png)
+
+This is really good info. I had no idea markets followed these kinds of cycles so closely.
+
+9:25pm. https://youtu.be/KfjjHv7DB8o?t=9432
+
+At this rate I'll watch the entirety of this video today.
+
+Let me add it to the readme.

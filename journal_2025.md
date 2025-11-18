@@ -18519,3 +18519,11 @@ This is really good info. I had no idea markets followed these kinds of cycles s
 At this rate I'll watch the entirety of this video today.
 
 Let me add it to the readme.
+
+9:35pm. ![](images/image-1562.png)
+
+Wow, great call.
+
+I didn't know that forex pairs anticipate the spreads in interest rates.
+
+9:40pm. He says that dollar dropped because Trump got into power and his agenda was to cut rates.

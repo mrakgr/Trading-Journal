@@ -18477,3 +18477,14 @@ Fuck, I am pissed. I spent so much time on AI going nowhere with that. Had I use
 At least, I am now number one in the world on those. Spiral itself is just one big dynamic programming exercise, so it trained me well for it.
 
 I am going to kill the markets with the perfect hashing pickler. And after I am done I'll come back for poker to wipe away the humiliation.
+
+6pm. Let me watch it just a little bit.
+
+![](images/image-1556.png)
+
+One of his 3 paths is algorithmic trading. That's not going to be covered in the guide and that is where I am going.
+
+![](images/image-1557.png)
+> Algorithmic systematic edges at some point stop working.
+
+Yeah, the same would be true for poker. I'll have to keep in mind that the market is dynamic.

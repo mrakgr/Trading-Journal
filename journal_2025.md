@@ -18527,3 +18527,21 @@ Wow, great call.
 I didn't know that forex pairs anticipate the spreads in interest rates.
 
 9:40pm. He says that dollar dropped because Trump got into power and his agenda was to cut rates.
+
+9:45pm. https://youtu.be/KfjjHv7DB8o?t=10134
+
+I need to rewatch this stuff about the gold. I didn't really get why it's moving in the opposite direction of the bonds.
+
+Ah because of real yields. When real yields are low then gold rallies as an inflation hedge.
+
+![](images/image-1563.png)
+
+Oh, so he is putting 5 year yields minus 5 year inflation rates. I had no idea you could do that on TradingView.
+
+9:55pm. https://youtu.be/KfjjHv7DB8o?t=10401
+
+Yeah, let me stop here. Since he is taking a break, I might do it as well.
+
+This is amazing content.
+
+10:10pm. I'll go to bed early so I can watch this fresh.

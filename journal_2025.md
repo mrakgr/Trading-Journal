@@ -18416,3 +18416,33 @@ I'll start with QuantConnect and then move from there.
 Those SMB Capital setups won't systematize themselves.
 
 I'll start with the VWAP system and the ORB systems and then move from there.
+
+![](images/image-1545.png)
+
+I know nothing about options so I'll keep this one in mind.
+
+![](images/image-1546.png)
+![](images/image-1547.png)
+
+This is worth keeping in mind.
+
+![](images/image-1548.png)
+
+He actually has a lot of good suggestions.
+
+![](images/image-1549.png)
+
+Linear algebra.
+
+![](images/image-1550.png)
+![](images/image-1551.png)
+
+3:20pm. https://youtu.be/n5acv8R-lN8
+Neural Networks for Quant Finance
+
+I am interestedin watching this. Let me take the time to do the chores.
+
+3:25pm. ![](images/image-1552.png)
+
+Oh, QuantConnect has an interactive bootcamp. Change of plans. I'll do these tutorials.
+

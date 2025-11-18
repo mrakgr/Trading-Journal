@@ -18390,3 +18390,13 @@ Let me watch this.
 > You'd be surprised how many strategies from books like these just don't work.
 
 I think quant trading is the true technical analysis.
+
+![](images/image-1543.png)
+> It gave a 40% improvement in expectancy.
+
+He is talking about stopping out next day on open vs in-market like I am doing in my paper trades.
+
+https://youtu.be/t2ceon0vNZg?t=2031
+
+Here he is talking about trading software. He already mentioned Portfolio123.
+

@@ -18545,3 +18545,7 @@ Yeah, let me stop here. Since he is taking a break, I might do it as well.
 This is amazing content.
 
 10:10pm. I'll go to bed early so I can watch this fresh.
+
+https://www.youtube.com/@KoleFuturesTrading
+
+Let me save this channel for later.

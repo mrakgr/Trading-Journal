@@ -18368,7 +18368,7 @@ Here are some tools. I'll probably have to get the data from one of these.
 1:20pm. ![](images/image-1539.png)
 
 He's setting the step wrong on these slides. `==` is the equality operator.
-
+5
 1:30pm. They say CloudQuant has a free version. Ok, I guess I'll start there.
 
 It's as good a place as any. I do have a Python backend in Spiral, so that would take care of that need as well, in case they don't have C++.
@@ -18400,3 +18400,13 @@ https://youtu.be/t2ceon0vNZg?t=2031
 
 Here he is talking about trading software. He already mentioned Portfolio123.
 
+![](images/image-1544.png)
+
+He is using Norgate and Metastock for data sources.
+
+He also mentioned a few portfolio testing software. He says his favorite at the moment is RealTests.
+
+https://youtu.be/izuZqWz-Dpg
+Books that Made Me a Quant
+
+Ok, let me watch this and 

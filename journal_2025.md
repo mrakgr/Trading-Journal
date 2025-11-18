@@ -18364,3 +18364,7 @@ In fact, my approach to the market will be the same as if I were doing poker. No
 1:05pm. ![](images/image-1538.png)
 
 Here are some tools. I'll probably have to get the data from one of these.
+
+1:20pm. ![](images/image-1539.png)
+
+He's setting the step wrong on these slides.

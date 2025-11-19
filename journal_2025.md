@@ -18562,3 +18562,10 @@ During the first month I worked Saturdays and Sundays to prove myself, but hones
 
 11:45am. Made a dentist's appointment tomorrow at 3pm. I guess I'll be out during that time. My dad's been sick for the past few days, I guess my mom will give me a ride.
 
+12:55pm. ![](images/image-1564.png)
+
+I am going to code up these strategies. I'll also back up the course locally once I am done with it. It'd be a big loss if it was ever taken down. I read Larry Williams' books in the past. Also the one by Toby Crabel. Didn't do me much good.
+
+![](images/image-1565.png)
+
+Rule of 4 I've never heard about.

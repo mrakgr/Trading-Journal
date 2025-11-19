@@ -18559,3 +18559,6 @@ This manga is pretty fun. I should have been going into the course, but I'll lea
 Sigh, the first few months at Tao Ceti were the best, but now I am back in the wilds.
 
 During the first month I worked Saturdays and Sundays to prove myself, but honestly that was the most enjoyable part of the job.
+
+11:45am. Made a dentist's appointment tomorrow at 3pm. I guess I'll be out during that time. My dad's been sick for the past few days, I guess my mom will give me a ride.
+

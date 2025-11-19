@@ -18706,3 +18706,8 @@ Yeah, maybe just coding in isolation for a few weeks would do me good. I don't n
 7:55pm. ![](images/image-1579.png)
 
 Today BTC finally slipped below 90k and the markets are getting more fun. During days like this I think of how things are at Tao Ceti.
+
+9pm. https://youtu.be/06R-ebyOhDI?t=154
+How To Find The BEST Entry Zones
+
+I don't get it, why is that a super strong area. There is nothing there basically?

@@ -18685,3 +18685,20 @@ Yeah, that would be a perfect hashing scheme.
 Then the total number of histories would be 288 * 3 = 864.
 
 5:35pm. Ok, that answers that mystery. The way I was going to perfect hash Leduc would have been inefficient. It's much better to count the raises for each player separately and also pass in the player id.
+
+7:10pm. https://youtu.be/EeSrQdab0s0?list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxMLad
+Algorithmic Trading Using Python - Introduction
+
+I think I should put off Youtubing until I've gotten though the basics.
+
+Tomorrow, I should do the QuantConnect exercises.
+
+https://github.com/QuantConnect/Lean
+
+Hmmm, QuantConnect has this platform which is based on .NET. I could't find a way to use F# with it, but nwm that.
+
+7:35pm. ![](images/image-1578.png)
+
+Quantpedia. I'll keep it in mind. Let me finish this vid and I'll take a bath.
+
+Yeah, maybe just coding in isolation for a few weeks would do me good. I don't need to Youtube everything.

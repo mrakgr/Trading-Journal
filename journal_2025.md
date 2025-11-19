@@ -18600,3 +18600,7 @@ This is amazing.
 4:30pm. Finished the vid a while ago. Let me download it.
 
 The only weakness is that I don't really think the macro stuff has much to do with the daytrading stuff. But all of this will make me a large amount of money once I get to the big leagues in my account.
+
+4:45pm. Done with chores and exercises. Let me just investigate why the number of infosets in Leduc for one player is only 144.
+
+I am thinking how it would be under a perfect hashing scheme and it should be more...

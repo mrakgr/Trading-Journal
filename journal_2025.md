@@ -18582,3 +18582,21 @@ When did options become so huge. I don't know how to trade them at all though. I
 2:05pm. ![](images/image-1568.png)
 
 Option strat, long call strategy. This could be useful for me. I did say repeatedly, that unlike with regular stocks where you can pick points on a chart to get a sense of how a strategy would have worked, with options it's much harder to backtest it by hand.
+
+2:30pm. ![](images/image-1569.png)
+
+Yeah, I already showcased GEX in this journal. I learned about it from Andrea.
+
+https://youtu.be/KfjjHv7DB8o?t=17343
+
+![](images/image-1570.png)
+
+This is new. He is talking about the effect of 0DTEs on the market.
+
+![](images/image-1571.png)
+
+This is amazing.
+
+4:30pm. Finished the vid a while ago. Let me download it.
+
+The only weakness is that I don't really think the macro stuff has much to do with the daytrading stuff. But all of this will make me a large amount of money once I get to the big leagues in my account.

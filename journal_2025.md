@@ -18569,3 +18569,7 @@ I am going to code up these strategies. I'll also back up the course locally onc
 ![](images/image-1565.png)
 
 Rule of 4 I've never heard about.
+
+![](images/image-1566.png)
+
+Pbd is also new to me.

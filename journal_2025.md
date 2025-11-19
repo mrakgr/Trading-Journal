@@ -18702,3 +18702,7 @@ Hmmm, QuantConnect has this platform which is based on .NET. I could't find a wa
 Quantpedia. I'll keep it in mind. Let me finish this vid and I'll take a bath.
 
 Yeah, maybe just coding in isolation for a few weeks would do me good. I don't need to Youtube everything.
+
+7:55pm. ![](images/image-1579.png)
+
+Today BTC finally slipped below 90k and the markets are getting more fun. During days like this I think of how things are at Tao Ceti.

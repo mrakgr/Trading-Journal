@@ -18573,3 +18573,12 @@ Rule of 4 I've never heard about.
 ![](images/image-1566.png)
 
 Pbd is also new to me.
+
+1:55pm. ![](images/image-1567.png)
+> All of this is combined not as big as the option market.
+
+When did options become so huge. I don't know how to trade them at all though. It's really good that this course has a section on options.
+
+2:05pm. ![](images/image-1568.png)
+
+Option strat, long call strategy. This could be useful for me. I did say repeatedly, that unlike with regular stocks where you can pick points on a chart to get a sense of how a strategy would have worked, with options it's much harder to backtest it by hand.

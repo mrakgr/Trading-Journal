@@ -18604,3 +18604,84 @@ The only weakness is that I don't really think the macro stuff has much to do wi
 4:45pm. Done with chores and exercises. Let me just investigate why the number of infosets in Leduc for one player is only 144.
 
 I am thinking how it would be under a perfect hashing scheme and it should be more...
+
+![](images/image-1572.png)
+
+Yeah, the preflop is 18 as expected.
+
+![](images/image-1573.png)
+
+270 states on the flop in total.
+
+Yeah, here it seems I am counting infosets for both players, but that is fine.
+
+90 states for each of the community card.
+
+![](images/image-1574.png)
+
+Here are the 30 states isolated to just the King. Why 30? Let me study it.
+
+Ok so...
+
+[Call, Raise, Raise]
+[Call, Raise]
+[Call]
+[Raise, Riase]
+[Raise]
+[]
+
+6 * 18. That should be quite a few states more than there actually are here.
+
+Oh I see...
+
+Pl 1 gets
+
+[Raise]
+[Call, Raise, Raise]
+[Call]
+
+That is 3. Because pl 0 is the first to go. The other player gets the rest.
+
+So there are only 5 possibilities for every action.
+
+![](images/image-1575.png)
+
+Hmmm, what if I filtered out the triplicates?
+
+![](images/image-1576.png)
+
+Let me think about this. Why aren't there 18 possible preflop states represented here?
+
+![](images/image-1577.png)
+
+I think I got it. The perfect hashing schem I had in mind would have some states that that unrepresentable.
+
+For example 
+[
+    Preflop {
+        is_pl0_call = false
+        num_raises = 0
+    }
+    Flop {
+        is_pl0_call = false
+        num_raises = 0
+    }
+]
+
+You cannot get to the flop if pl0 doesn't call and there are no raises. But the schema can represent such a state which is why there are more of them than expected.
+
+That explains it. Hmmm...
+
+How would you get perfect hashing on Leduc in that case? Rather how would you get perfect hashing for NL Holdem?
+
+I guess a much better representation would be to count the number of raises by each player.
+
+Yeah, that would be a perfect hashing scheme.
+
+4 different combinations of raises on every street (for a total of 16), 3 cards preflop, 3 cards on the flop, and 2 player turns.
+
+16 bets, 9 cards and 2 players = 288 different possible infosets.
+
+Then the total number of histories would be 288 * 3 = 864.
+
+5:35pm. Ok, that answers that mystery. The way I was going to perfect hash Leduc would have been inefficient. It's much better to count the raises for each player separately and also pass in the player id.

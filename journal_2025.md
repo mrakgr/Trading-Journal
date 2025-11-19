@@ -18549,3 +18549,13 @@ This is amazing content.
 https://www.youtube.com/@KoleFuturesTrading
 
 Let me save this channel for later.
+
+11/19/2025
+
+11:05am. https://bato.to/title/206615-i-became-the-academy-s-villain-s-daughter-siren-scans/3751594-ch_4
+
+This manga is pretty fun. I should have been going into the course, but I'll leave it for later. Maybe it's the anxiety, but I am back to my old patterns.
+
+Sigh, the first few months at Tao Ceti were the best, but now I am back in the wilds.
+
+During the first month I worked Saturdays and Sundays to prove myself, but honestly that was the most enjoyable part of the job.

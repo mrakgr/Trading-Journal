@@ -18804,3 +18804,8 @@ It's really hard to believe that Chris Camillo makes 70% per year given how dumb
 6:45pm. Sigh, I'd be just like him though if I didn't know how these algorithms actually work and what their limits are. Chris is really living the pre-Singularity life.
 
 I know that the name of the channel is supposed to be ironic, but it's literal.
+
+7:55pm. https://youtu.be/I6miH54lao0
+Xi's Silent Scream: $15 Billion Vanishes, and Beijing's Blaming Uncle Sam | Digging into China
+
+Lel.

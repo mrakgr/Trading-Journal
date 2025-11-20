@@ -18791,3 +18791,12 @@ This one is by Bertsekas. It has something on POMDPs.
 Nvidia is really getting killed intraday.
 
 This would have been such a great ORB trade.
+
+6:20pm. https://youtu.be/vdRG-EbcNGw?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan&t=888
+
+Let me stop here. I'll watch this tomorrow.
+
+6:40pm. https://youtu.be/qYZxI9KN3jI
+The Biggest Risk After Nvidia Earnings
+
+It's really hard to believe that Chris Camillo makes 70% per year given how dumb his takes are.

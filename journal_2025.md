@@ -18800,3 +18800,7 @@ Let me stop here. I'll watch this tomorrow.
 The Biggest Risk After Nvidia Earnings
 
 It's really hard to believe that Chris Camillo makes 70% per year given how dumb his takes are.
+
+6:45pm. Sigh, I'd be just like him though if I didn't know how these algorithms actually work and what their limits are. Chris is really living the pre-Singularity life.
+
+I know that the name of the channel is supposed to be ironic, but it's literal.

@@ -18711,3 +18711,83 @@ Today BTC finally slipped below 90k and the markets are getting more fun. During
 How To Find The BEST Entry Zones
 
 I don't get it, why is that a super strong area. There is nothing there basically?
+
+11/20/2025
+
+3:40pm. ![](images/image-1580.png)
+
+I am looking up info on immitation learning in POMDPs.
+
+Despite everything I've said, I haven't completely decided to go into trading. At first I did, but now I am thinking about how I could train an agent to immitate fish, regs and other bots based on some dataset. I have no idea how actually, my best idea is reward shaping currently.
+
+![](images/image-1581.png)
+
+Hierarchical policies...
+
+I actually don't know much about that.
+
+https://www.youtube.com/watch?v=K5MlmO0UJtI&list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan
+Hierarchical Reinforcement Learning
+
+![](images/image-1582.png)
+
+Oh, here is a RL course that focuses on making a trading bot.
+
+https://www.udacity.com/course/reinforcement-learning--cd13651
+
+Damn, where is the old course by Litman and Leeslie?
+
+https://www.youtube.com/watch?v=5J1m5NcVm_c
+
+It's not a part of a playlist on Udacity.
+
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp
+
+Here it is.
+
+https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2
+
+Ah, nwm, somebody backed it up. Udacity botched it completely.
+
+4:10pm. ![](images/image-1583.png)
+
+Nevermind, it's just so more deep learning shit.
+
+https://www.youtube.com/playlist?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan
+
+Let me focus on this playlist.
+
+4:10pm. It's true. When one door closes another opens. Now that I've decided to ditch ML completely in favor of tabular representations that gives me a lot.
+
+![](images/image-1584.png)
+
+Belief representation learning. Predictive state representations.
+
+https://takaosa.github.io/paper/algorithmic-perspective-imitation.pdf
+
+This paper.
+
+4:20pm. Ah whatever. Let's just take it easy. I'll go back to my early years and put in the rookie hours. I'll become a god of look up tables.
+
+https://youtu.be/K5MlmO0UJtI?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan
+Hierarchical Reinforcement Learning
+
+Let me start here.
+
+https://youtu.be/pyLuioRAbfA
+RLDM, Lesson 10: Partially Observable MDPs
+
+Let me back up the course by Litman and the black dude here.
+
+https://www.youtube.com/playlist?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj
+Reinforcement Learning Course at ASU
+
+This one is by Bertsekas. It has something on POMDPs.
+
+5:05pm. I need to chill. I didn't get to finish the exercises before I went to the dentist, but let me do it right now.
+
+5:50pm. ![NVDA](images/image-1585.png)
+
+Nvidia is really getting killed intraday.
+
+This would have been such a great ORB trade.

@@ -18809,3 +18809,11 @@ I know that the name of the channel is supposed to be ironic, but it's literal.
 Xi's Silent Scream: $15 Billion Vanishes, and Beijing's Blaming Uncle Sam | Digging into China
 
 Lel.
+
+10pm. ![NVDA](images/image-1586.png)
+
+This NVDA earnings related selloff is unbelievable, it dragged the entire market down 1.5%. It looked so good in the morning too. I'll be quite surprised if this doesn't turn into the rout I was expecting.
+
+According to my rules, I should be out of the market and waiting for two weeks since the last low.
+
+I can't say I am too surprised by the NVDA selloff though, the high volume breakouts have routinely been reversing for the past month. If I had an ORB system active, I definitely would've taken the trade on the short side.

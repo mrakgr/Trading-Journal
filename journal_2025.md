@@ -18874,3 +18874,12 @@ Deep learning is a really good proof of concept. If it could be tightened up, ma
 I'll just focus on filling the gaps like with this video now.
 
 Do the mundane programming and the transcendent will follow.
+
+4:30pm. https://youtu.be/05u4nF-ePrY
+💀 This Crypto Crash Is Bad...
+
+This guy does really good BTC analysis.
+
+5:20pm. https://youtu.be/1iACStiJQBs?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan&t=570
+
+This part is a bit tricky. I actually cannot reason out how reward propagation should work in hierarchical RL. So it's a good thing I am watching this video.

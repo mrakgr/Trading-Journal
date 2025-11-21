@@ -18830,3 +18830,10 @@ I also made this post, but I am expecting negative feedback.
 12:15pm. ![](images/image-1587.png)
 
 He really needs some AC in the classroom. On every video his shirt is damp with sweat.
+
+3pm. https://youtu.be/rVhb6f6G-1M?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan&t=1833
+Hierarchical Abstract Machines
+
+This is starting to get a bit interesting and does give me food for thought. I am going to be using hierarchical methods heavily so it's not a bad idea to slow down and think about them more in depth before I start churning out code.
+
+As an aside, I think I should start making plans to get some serious exercise because my hands really do hurt. I should get a gym membership and get my bro to go with me.

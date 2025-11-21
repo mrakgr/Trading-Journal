@@ -18891,3 +18891,11 @@ Yeah, maybe that would be a good idea? I guess in that case the tricky part woul
 5:40pm. I am just thinking here. Having the core reward affect the subtasks does make things more complicated. But there are plenty of ways I could do credit assignment. Let's not fret too much.
 
 Just how much effort did I put into programming? I can think of ways to deal with this even if it's global tables on the GPU or nested closures on the host.
+
+5:55pm. ![](images/image-1590.png)
+
+Yeah, this is what occured to me. If you only using task specific (pseudo) rewards, there is no way you can achieve hierarchical optimality, only recursive one.
+
+But it really depends on how you define the subtasks though. It might be possible to achieve hierarchical optimality regardless with careful design despite only using pseudorewards.
+
+I am not sure that propagating the core rewards through the entire trace is the way to go.

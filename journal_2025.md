@@ -18916,3 +18916,7 @@ https://youtu.be/uJ0oNtDG6ro?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan
 Option Discovery
 
 Only this video is left. I need to go have lunch.
+
+6:55pm. I had an idea. Rather than propagate rewards upwards, it'd be best to have a stack of HAMs and just execute them all in turn. If they are in the call state, the answer would be to just log the rewards for those in the stack that are in the call state and do it like that.
+
+Another idea is to derive it from the state transitions entirely thereby eliminating the need to propagate it through subtasks.

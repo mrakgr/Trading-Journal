@@ -18817,3 +18817,16 @@ This NVDA earnings related selloff is unbelievable, it dragged the entire market
 According to my rules, I should be out of the market and waiting for two weeks since the last low.
 
 I can't say I am too surprised by the NVDA selloff though, the high volume breakouts have routinely been reversing for the past month. If I had an ORB system active, I definitely would've taken the trade on the short side.
+
+11:25am. https://youtu.be/EbTIQqVDJsg?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan
+Types of Optimality
+
+Finished the first vid, let me watch this one.
+
+https://www.reddit.com/r/reinforcementlearning/comments/1p2uz9c/is_there_an_algorithm_that_can_do_imitation/
+
+I also made this post, but I am expecting negative feedback.
+
+12:15pm. ![](images/image-1587.png)
+
+He really needs some AC in the classroom. On every video his shirt is damp with sweat.

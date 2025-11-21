@@ -18865,7 +18865,7 @@ Sigh...my feeling are so hurt. Over the betrayed expectations in ML. Over the Ta
 
 3:25pm. Brain like dictionaries would boost my capacities by orders of magnitude, but in many respects as a programmer, I am already up there. Maybe I don't need that much more to cause the Singularity?
 
-Maybe it would require actual magic, but maybe the staged functional programming concepts I've developed will be enough.
+Maybe it will require actual magic, but maybe the staged functional programming concepts I've developed will be enough.
 
 Deep learning is a really good proof of concept. If it could be tightened up, made stable and move to a pipeline parallelism style of AI accelerator, it could give enormous benefits and allow me to use the style I've envisioned.
 
@@ -18883,3 +18883,11 @@ This guy does really good BTC analysis.
 5:20pm. https://youtu.be/1iACStiJQBs?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan&t=570
 
 This part is a bit tricky. I actually cannot reason out how reward propagation should work in hierarchical RL. So it's a good thing I am watching this video.
+
+5:35pm. Actually, the pseudo rewards are the easy parts. The core MDP rewards are what is tricky. If the subcall terminates, how am I supposed to propagate the reward into it? Am I intended to keep a global trace?
+
+Yeah, maybe that would be a good idea? I guess in that case the tricky part would be how to keep pseudo rewards from flowing out.
+
+5:40pm. I am just thinking here. Having the core reward affect the subtasks does make things more complicated. But there are plenty of ways I could do credit assignment. Let's not fret too much.
+
+Just how much effort did I put into programming? I can think of ways to deal with this even if it's global tables on the GPU or nested closures on the host.

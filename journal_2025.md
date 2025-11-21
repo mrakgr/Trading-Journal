@@ -18907,3 +18907,12 @@ Wow the notation is confusing. I didn't realize that `i` and `a` are supposed to
 6pm. ![](images/image-1592.png)
 
 Is this even Q learning at this point? I guess it is since he's asuming the policy is deterministic.
+
+6:25pm. So they have two completion functions, one internal that uses pseudo rewards, and one just for propagating core rewards.
+
+Feels clunky. Why not just assume reward scopes and have an infinite stack of rewards? That is how they deal with type universes in type theory.
+
+https://youtu.be/uJ0oNtDG6ro?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan
+Option Discovery
+
+Only this video is left. I need to go have lunch.

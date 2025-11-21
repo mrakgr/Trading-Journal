@@ -18899,3 +18899,11 @@ Yeah, this is what occured to me. If you only using task specific (pseudo) rewar
 But it really depends on how you define the subtasks though. It might be possible to achieve hierarchical optimality regardless with careful design despite only using pseudorewards.
 
 I am not sure that propagating the core rewards through the entire trace is the way to go.
+
+6pm. ![](images/image-1591.png)
+
+Wow the notation is confusing. I didn't realize that `i` and `a` are supposed to be subtasks. Ugh, what are the types for all these things supposed to be, I wish they'd write that out.
+
+6pm. ![](images/image-1592.png)
+
+Is this even Q learning at this point? I guess it is since he's asuming the policy is deterministic.

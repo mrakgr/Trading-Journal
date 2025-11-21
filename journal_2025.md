@@ -18836,4 +18836,41 @@ Hierarchical Abstract Machines
 
 This is starting to get a bit interesting and does give me food for thought. I am going to be using hierarchical methods heavily so it's not a bad idea to slow down and think about them more in depth before I start churning out code.
 
-As an aside, I think I should start making plans to get some serious exercise because my hands really do hurt. I should get a gym membership and get my bro to go with me.
+As an aside, I think I should start making plans to get some serious exercise because my hands really do hurt. I should get a gym membership and get my bro to go with me. I'll need him to drive me there, and he could get some exercise himself as well instead of being on break time.
+
+3:10pm. https://youtu.be/4mmW0kYmK3I?list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan
+MAXQ
+
+I can't imagine what this will be. Let me have a look.
+
+![](images/image-1588.png)
+
+He says that this is an ideally written paper, and that everybody should read it (Max Q Value Function Decomposition).
+
+3:25pm. ![](images/image-1589.png)
+
+Yeah, you know what. I never wanted ML to begin with. What I wanted to learn all along was to understand how a brain like architecture could be programmed effectively.
+
+How could I program a human brain the way nature did?
+
+Messing with linear algebra isn't going to get me any closer to that ideal.
+
+If I am going to accomplish anything, it's going to be by ditching the ML framework and thinking in terms of dictionaries.
+
+I'll just get better dictionary structures in the future and that will be it.
+
+If it takes literal magic to program the brain, then I won't be able to do it.
+
+Sigh...my feeling are so hurt. Over the betrayed expectations in ML. Over the Tao Ceti firing.
+
+3:25pm. Brain like dictionaries would boost my capacities by orders of magnitude, but in many respects as a programmer, I am already up there. Maybe I don't need that much more to cause the Singularity?
+
+Maybe it would require actual magic, but maybe the staged functional programming concepts I've developed will be enough.
+
+Deep learning is a really good proof of concept. If it could be tightened up, made stable and move to a pipeline parallelism style of AI accelerator, it could give enormous benefits and allow me to use the style I've envisioned.
+
+3:30pm. If that is the case, all I have to do is just keep exercising, sharpening my skills and I will get there. It's fine if all I do is keep getting better as a programmer.
+
+I'll just focus on filling the gaps like with this video now.
+
+Do the mundane programming and the transcendent will follow.

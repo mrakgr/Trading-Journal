@@ -18955,3 +18955,49 @@ I do have the option of simply focusing on trading until better algos come out.
 Yeah, I need a powerful non-linear clustering method that can adopt to high dimensional data in a both fast and stable manner. Forget DL and the insertions into linear dictionaries like I've tried.
 
 I need a revolution in ML.
+
+10:30am. https://www.reddit.com/r/reinforcementlearning/comments/1p2uz9c/is_there_an_algorithm_that_can_do_imitation/
+
+Didn't get an answer here as expected. Yeah, it would be really cool if I could get my hands on the complete dataset from a poker room. That'd make it very easy to make an exploitative agent.
+
+10:40am. https://youtu.be/ERF1wQCM46o
+Day Trader Turned $3000 Into $2.1Million Using Data & Statistics
+
+Let me watch this for a bit.
+
+https://youtu.be/2dNp7QyoF_k
+Lecture 15 Partially Observable MDPs (POMDPs) -- CS287-FA19 Advanced Robotics at UC Berkeley
+
+https://youtu.be/pyLuioRAbfA
+RLDM, Lesson 10: Partially Observable MDPs
+
+Then I'll go for these.
+
+11/22/2025
+
+11am. https://youtu.be/_xyfBkf9QYY
+Why All 1 Minute Timeframe Traders Are Broke.
+
+Forget these dumb opinions, but let me see what he says.
+
+![](images/image-1593.png)
+
+I feel like this guy is fake.
+
+11:05am. You can't have long winning streaks unless you're daytrading.
+
+Yeah, forget this guy. It's just the usual daytrading is bad meme.
+
+No wait, where is the vid by Bertsekas?
+
+https://www.youtube.com/playlist?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj
+
+Let me focus on this.
+
+https://www.youtube.com/watch?v=AdxhPj0PDHM&list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&index=1
+
+Actually let me go through this from the start.
+
+11:25am. ![](images/image-1594.png)
+
+You know, maybe instead of quantizing everything, I could learn a little MPC?

@@ -19001,3 +19001,29 @@ Actually let me go through this from the start.
 11:25am. ![](images/image-1594.png)
 
 You know, maybe instead of quantizing everything, I could learn a little MPC?
+
+11:30am. ![](images/image-1595.png)
+
+So AlphaZero only did offline training for the value net?
+
+11:50am. ![](images/image-1596.png)
+
+Ah whatever, let me go through the entire thing.
+
+3:05pm. https://youtu.be/ERF1wQCM46o?t=2807
+> 30 min rule. If I enter a trade I want to be within the green in 30 minutes.
+
+https://youtu.be/ERF1wQCM46o?t=3905
+> With the recent PDT removal...
+
+The PDT rule got removed? Really?
+
+3:35pm. What did Peter Brandt say about profit factors? Which PF is good? ...I can't find anything quoted in my journal. Nevermind.
+
+3:45pm. https://youtu.be/ERF1wQCM46o?t=5158
+
+Here he is talking about how Tim Sykes' video got him into trading. Fuck, I really regret not getting his strategy to work. But it doesn't matter.
+
+Everyone has his own path. The one I am now should do better.
+
+I really am going to make some changes as due to the programming I did in the last two months my RSI is acting up.

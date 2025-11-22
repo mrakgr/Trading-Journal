@@ -19027,3 +19027,10 @@ Here he is talking about how Tim Sykes' video got him into trading. Fuck, I real
 Everyone has his own path. The one I am now should do better.
 
 I really am going to make some changes as due to the programming I did in the last two months my RSI is acting up.
+
+3:50pm. I'll keep Kris Verma in mind. One thing I don't know yet is how I'll find shorts for those big gappers, so maybe I'll pop into their chat room and ask them if I am having trouble. I'll leave this for later. Finding borrows was my biggest issue in trading these patterns over a decade ago.
+
+https://youtu.be/AdxhPj0PDHM?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=4057
+Lecture 1, 2025, course overview: RL and DP, AlphaZero, deterministic DP, examples, applications
+
+Let me get back to this. Or rather let me pause so I can exercise. My time is going in a flash since I am just watching stuff. I want to get past this and back into programming.

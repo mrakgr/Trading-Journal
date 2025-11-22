@@ -19052,4 +19052,15 @@ Lecture 2, 2025, Stochastic finite and infinite horizon DP, approximation in val
 
 Let me stop here. I should consider this my vacation. Take a vaction while watching these vids and prep, and then start coding.
 
-I've been thinking how to design the system, and I think it will have to be on rates of change. If I designt he hash function based on individual price bars, it gets unrully very quickly.
+I've been thinking how to design the system, and I think it will have to be on rates of change. If I design the hash function based on individual price bars, it gets unrully very quickly.
+
+11/22/2025
+
+11:25pm. https://youtu.be/_ypqb_7qbos
+Options Flows After the Crash
+
+This could be interesting.
+
+https://www.youtube.com/watch?v=N6wPbV95XMQ
+I Sold Puts in TQQQ for 1400 days. Here is What Happened.
+

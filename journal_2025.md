@@ -19034,3 +19034,22 @@ https://youtu.be/AdxhPj0PDHM?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=4057
 Lecture 1, 2025, course overview: RL and DP, AlphaZero, deterministic DP, examples, applications
 
 Let me get back to this. Or rather let me pause so I can exercise. My time is going in a flash since I am just watching stuff. I want to get past this and back into programming.
+
+4:50pm. Done with the exercises. Now this is boring me to death.
+
+5:15pm. ![](images/image-1597.png)
+
+Interesting. It never occured to me to try dynamic programming for the travelling salesman.
+
+5:45pm. Done with lunch. I think it wouldn't be a bad idea if I simply took my time going through the course. I am not in a hurry to start trading. I can afford to take the time to update myself on RL every few years.
+
+6pm. ![](images/image-1598.png)
+
+They can convert POMDPs to perfect information MDPs?
+
+6:20pm. https://youtu.be/JiTWTFajYNg?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=143
+Lecture 2, 2025, Stochastic finite and infinite horizon DP, approximation in value and policy space
+
+Let me stop here. I should consider this my vacation. Take a vaction while watching these vids and prep, and then start coding.
+
+I've been thinking how to design the system, and I think it will have to be on rates of change. If I designt he hash function based on individual price bars, it gets unrully very quickly.

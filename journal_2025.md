@@ -18920,3 +18920,38 @@ Only this video is left. I need to go have lunch.
 6:55pm. I had an idea. Rather than propagate rewards upwards, it'd be best to have a stack of HAMs and just execute them all in turn. If they are in the call state, the answer would be to just log the rewards for those in the stack that are in the call state and do it like that.
 
 Another idea is to derive it from the state transitions entirely thereby eliminating the need to propagate it through subtasks.
+
+1:25am. https://youtu.be/ERF1wQCM46o
+Day Trader Turned $3000 Into $2.1Million Using Data & Statistics
+
+This guy's the real deal.
+
+11/22/2025
+
+10:10am. Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering
+
+Let me read this paper again and they I'll watch the POMDP vids.
+
+10:20am. No, nwm that shit.
+
+I remember years ago in a course learning about a an unsupervised learning rule that essentially takes an outer product of the output and pushes it towards the identity. Maybe in the future there will be something simple like that.
+
+I feel that it could be possible to combine deep learning and my clustering ideas into one, but it'd have to be done, not online, but by populating a dataset with examples and training the net separately in SL mode.
+
+It's simply too risky for me to waste my time experimenting with it.
+
+But yeah, tabular methods might be top, but by going down this route I'd be giving up the power of deep learning. If I had to learn an agent which plays Go, I'd be in deep shit using this approach. I can count myself lucky that I don't need to.
+
+10:20am. If I had to learn Go, I guess I'd try the insertion approach and move from there.
+
+10:25am. Sigh, it's so difficult. Yeah, trading is unique in that it forces me to come up with my own representations and ML methods wouldn't work on it.
+
+But the representations themselves in the trading space are actually easy!
+
+I can consider myself very lucky!
+
+I do have the option of simply focusing on trading until better algos come out.
+
+Yeah, I need a powerful non-linear clustering method that can adopt to high dimensional data in a both fast and stable manner. Forget DL and the insertions into linear dictionaries like I've tried.
+
+I need a revolution in ML.

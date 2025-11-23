@@ -19131,3 +19131,7 @@ I have to admit, I didn't really understand rollout, but I did have a hunch it w
 6:40pm. https://youtu.be/oQNN292Q4jI?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=4315
 
 Ah fuck it, let me stop here for the day. I am going through this vids slower than I'd like, but watching lectures is boring. I'll be done in 3 days at most. Then I am going to go through the QuantConnect tutorials and start implementing some of my ideas.
+
+8:45pm. https://youtu.be/VDlSo_MJIpc
+How SMB Traders Use CODE to Build Million-Dollar Trading Teams
+

@@ -19064,3 +19064,40 @@ This could be interesting.
 https://www.youtube.com/watch?v=N6wPbV95XMQ
 I Sold Puts in TQQQ for 1400 days. Here is What Happened.
 
+11/13/2025
+
+10:40am. Let me resume. Time to watch the rest of the lectures. I want to get through this course in the next few days and then I'll start going through the QuantConnect tutorials.
+
+![](images/image-1599.png)
+
+I need to go over this from the top. How is it selection the actual actions. I get that the blue lines are only using the nearest neighbor heuristic, but...
+
+11:15am. Ok, I see it. This is actually a pretty interesting method. In fact I'd do something similar for poker.
+
+12:15pm. ![](images/image-1600.png)
+
+Actually, I didn't know this. So for poker, NNs could be used as crutches for rollouts?
+
+Yeah, because definitely updating them inplace worked like shit for me.
+
+Yeah, I have a poker plan, but I know that without NNs it wouldn't be good enough. To really hit the limit I'd need to go the extra mile.
+
+Mhh...
+
+1pm. ![](images/image-1601.png)
+
+Let me pause here, I need to take a break. The infinite horizon stuff makes no sense as expected.
+
+Surprised that they'd say PI is faster than VI and is Newton's method for computing the VI. I wonder what they mean by this?
+
+4:15pm. Jesus, where does the time go? Let me finally resume.
+
+![](images/image-1602.png)
+
+I am having serious difficulty focusing on these parts. Maybe I'll start skimming.
+
+![](images/image-1603.png)
+
+What is a Newton step?
+
+I know that it's possible to build a transition matrix and then solve it like in Zap Q algorithm, but I don't see anything beyond that.

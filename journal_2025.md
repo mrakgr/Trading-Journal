@@ -19147,4 +19147,4 @@ Why would this affect the PDT rule?
 10pm. https://youtu.be/1EIYyPVfSBQ
 Steps to Systematic Trading
 
-These videos are pretty interesting, I'll leave them for tomorrow.
+These videos are pretty interesting, I'll leave them for tomorrow. Let me play some CZN. Ironically, I am using a controller to do it.

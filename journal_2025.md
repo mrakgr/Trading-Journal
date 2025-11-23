@@ -19118,3 +19118,6 @@ He is explaining why RL divergence happens in the context of Netwon's method. If
 
 Wait what really? Multi step lookehead is equivalent to applying the Riccati operator many times?
 
+5:15pm. ![](images/image-1607.png)
+
+Ah so only the first one is exact. Actually, this is a really good course. I am learning a lot. And gives me time to think on how to structure my approach.

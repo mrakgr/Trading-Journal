@@ -19101,3 +19101,20 @@ I am having serious difficulty focusing on these parts. Maybe I'll start skimmin
 What is a Newton step?
 
 I know that it's possible to build a transition matrix and then solve it like in Zap Q algorithm, but I don't see anything beyond that.
+
+4:45pm. ![](images/image-1604.png)
+
+I didn't know about this even though it makes intuitive sense. What this is saying that approx errors in the value net cause exponential errors in the policy.
+
+![](images/image-1605.png)
+
+Ah, I often read about these Lyapunov equations, but I never saw what they were.
+
+5:10pm. https://youtu.be/oQNN292Q4jI?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=1656
+
+He is explaining why RL divergence happens in the context of Netwon's method. If you're very far away from the solution, there is no guarantee of convergence, but if you're close enough, you can converge very quickly.
+
+![](images/image-1606.png)
+
+Wait what really? Multi step lookehead is equivalent to applying the Riccati operator many times?
+

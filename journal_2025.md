@@ -19121,3 +19121,9 @@ Wait what really? Multi step lookehead is equivalent to applying the Riccati ope
 5:15pm. ![](images/image-1607.png)
 
 Ah so only the first one is exact. Actually, this is a really good course. I am learning a lot. And gives me time to think on how to structure my approach.
+
+![](images/image-1608.png)
+
+It's very impressive how they connected RL to the travelling salesman problem.
+
+I have to admit, I didn't really understand rollout, but I did have a hunch it was a good technique. The only thing the RL community gets wrong is not doing VR-MCCFR style variance reduction in its MC methods.

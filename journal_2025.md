@@ -19139,3 +19139,12 @@ How SMB Traders Use CODE to Build Million-Dollar Trading Teams
 NASDAQ's Announcement on Tokenization of Stocks
 
 Whoa, Nasdaq is tokenizing its securities? Logris talked about this.
+
+https://youtu.be/au2QK1uso9U?t=188
+
+Why would this affect the PDT rule?
+
+10pm. https://youtu.be/1EIYyPVfSBQ
+Steps to Systematic Trading
+
+These videos are pretty interesting, I'll leave them for tomorrow.

@@ -19135,3 +19135,7 @@ Ah fuck it, let me stop here for the day. I am going through this vids slower th
 8:45pm. https://youtu.be/VDlSo_MJIpc
 How SMB Traders Use CODE to Build Million-Dollar Trading Teams
 
+9:45pm. https://youtu.be/au2QK1uso9U
+NASDAQ's Announcement on Tokenization of Stocks
+
+Whoa, Nasdaq is tokenizing its securities? Logris talked about this.

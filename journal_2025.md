@@ -19127,3 +19127,7 @@ Ah so only the first one is exact. Actually, this is a really good course. I am 
 It's very impressive how they connected RL to the travelling salesman problem.
 
 I have to admit, I didn't really understand rollout, but I did have a hunch it was a good technique. The only thing the RL community gets wrong is not doing VR-MCCFR style variance reduction in its MC methods.
+
+6:40pm. https://youtu.be/oQNN292Q4jI?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=4315
+
+Ah fuck it, let me stop here for the day. I am going through this vids slower than I'd like, but watching lectures is boring. I'll be done in 3 days at most. Then I am going to go through the QuantConnect tutorials and start implementing some of my ideas.

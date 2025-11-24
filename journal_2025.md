@@ -19169,3 +19169,12 @@ I'd express this more as a OR problem than a RL problem.
 1:05pm. https://youtu.be/ooaG6k0phsU?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=4152
 
 Let me stop here for breakfast. Maybe in the limit, OR and RL is the same.
+
+2:35pm. https://youtu.be/8F3mdBtygzQ
+Scalping: An effective and highly profitable trading strategy
+
+Let me watch this and then I'll do exercises and chores.
+
+![](images/image-1611.png)
+
+Pradeep says that algorithmic scalping is the hotest business on the Street and I definitely want in. I wonder how I'll deal with tape reading. I'll figure something out.

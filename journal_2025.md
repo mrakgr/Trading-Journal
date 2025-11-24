@@ -19208,3 +19208,14 @@ Ah, I see. `x_k` might be a car speed, and `u_k` is the acceleration. `u_k` is s
 5:10pm. ![](images/image-1616.png)
 
 I only realized that there is a difference between lookahead and rollout during the previous slide. Yeah, it's possible to combine the two. I actually never considered it for poker even though I should have.
+
+5:35pm. https://youtu.be/y4j-hFdmcKk?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj
+Lecture 5, 2025, Revisit Finite Horizon DP Problems - Deterministic Rollout and Animations
+
+Finally done with the first 4 lectures.
+
+![](images/image-1617.png)
+
+I like how gung-ho this course is about rollout. None of the other courses were this practical.
+
+The benefits of rollout and lookahead the big ideas of this course.

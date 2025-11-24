@@ -19148,3 +19148,24 @@ Why would this affect the PDT rule?
 Steps to Systematic Trading
 
 These videos are pretty interesting, I'll leave them for tomorrow. Let me play some CZN. Ironically, I am using a controller to do it.
+
+11/24/2025
+
+11:10am. Let me resume the RL course.
+
+11:40am. https://youtu.be/ooaG6k0phsU?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj
+Lecture 4, 2025, POMDP, Systems with Changing Parameters, Adaptive Control, Model Predictive Control
+
+Finally got to this point.
+
+11:50pm. ![](images/image-1609.png)
+
+Here he is saying that it's necessary to pay attention to math because you make a coding mistake it's very easy to get figures that look reasonable. Mhhhh...
+
+12:45pm. ![](images/image-1610.png)
+
+I'd express this more as a OR problem than a RL problem.
+
+1:05pm. https://youtu.be/ooaG6k0phsU?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=4152
+
+Let me stop here for breakfast. Maybe in the limit, OR and RL is the same.

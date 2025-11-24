@@ -19253,3 +19253,14 @@ This paper seems amazing. It's really great that they are testing it during the 
 ![](images/image-1621.png)
 
 The posts here are pretty low quality and give a fish feeling. Like the regs here are lost.
+
+![](images/image-1622.png)
+
+This is interesting. I think I'd best skip QuantConnect longer term and interface with IBKR directly.
+
+9:35pm. https://youtu.be/DtePicx_kFY
+"I Invented the Transformer. Now I'm Replacing It."
+
+![](images/image-1623.png)
+
+Thomas linked me to this talk and it's indeed interesting.

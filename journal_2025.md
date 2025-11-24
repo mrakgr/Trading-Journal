@@ -19204,3 +19204,7 @@ Wtf, I don't get this shit at all?
 ![](images/image-1615.png)
 
 Ah, I see. `x_k` might be a car speed, and `u_k` is the acceleration. `u_k` is selected by the user. I was thinking of it as some constant. And yeah, if you set x_k so it's a value > 1 then it wouldn't be possible to bring it back to 0 anymore. It's like a car going out of control.
+
+5:10pm. ![](images/image-1616.png)
+
+I only realized that there is a difference between lookahead and rollout during the previous slide. Yeah, it's possible to combine the two. I actually never considered it for poker even though I should have.

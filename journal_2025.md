@@ -19178,3 +19178,14 @@ Let me watch this and then I'll do exercises and chores.
 ![](images/image-1611.png)
 
 Pradeep says that algorithmic scalping is the hotest business on the Street and I definitely want in. I wonder how I'll deal with tape reading. I'll figure something out.
+
+2:55pm. ![](images/image-1612.png)
+
+I could code these scalping bullet points up. I need to remember this video in the future.
+
+https://youtu.be/Hnq8-iSHuL0
+Scalping: An Effective And Highly Profitable Trading Strategy (part II)
+
+I'll leave this for later, I need to do the exercises. I really want to code a scalping system up.
+
+Sure I want the trend days, but a scalping system would be super effective as well.

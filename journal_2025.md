@@ -19219,3 +19219,25 @@ Finally done with the first 4 lectures.
 I like how gung-ho this course is about rollout. None of the other courses were this practical.
 
 The benefits of rollout and lookahead the big ideas of this course.
+
+5:55pm. https://youtu.be/y4j-hFdmcKk?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=816
+
+Ok, let me start skimming from here. I cannot take it anymore.
+
+6:20pm. https://youtu.be/pdEItwxgQ2Q?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj
+Lecture 11, 2024: On-line training, neural networks, and other approximation architectures
+
+Done with lunch. Let just peek at this one.
+
+6:30pm. Maybe I'll look at it tomorrow, but otherwise, I need to get starting working on the trading bots. I need to make the first step.
+
+I think I'll start with the scalping bot since the potential reward is greater there.
+
+7:15pm. https://www.reddit.com/r/algotrading/comments/1osz7u6/my_lifes_pride_and_joy_is_completed/
+
+Found the algo trading subreddit.
+
+![](images/image-1618.png)
+
+> My unsolicited take: Momentum returns tend to exhibit catastrophic drawdowns
+

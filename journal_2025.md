@@ -19241,3 +19241,15 @@ Found the algo trading subreddit.
 
 > My unsolicited take: Momentum returns tend to exhibit catastrophic drawdowns
 
+https://www.sciencedirect.com/science/article/abs/pii/S0927539821000979?utm_source=perplexity
+
+![](images/image-1619.png)
+![](images/image-1620.png)
+
+This paper seems amazing. It's really great that they are testing it during the 1928-1945 period.
+
+7:40pm. Reading the sub...
+
+![](images/image-1621.png)
+
+The posts here are pretty low quality and give a fish feeling. Like the regs here are lost.

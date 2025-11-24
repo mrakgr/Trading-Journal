@@ -19189,3 +19189,9 @@ Scalping: An Effective And Highly Profitable Trading Strategy (part II)
 I'll leave this for later, I need to do the exercises. I really want to code a scalping system up.
 
 Sure I want the trend days, but a scalping system would be super effective as well.
+
+3:55pm. ![](images/image-1613.png)
+> 1 Minute Open Range Breakout at market open is my go to scalp play. 1st 1minute candle opening above VWAP ride the upward momentum as momentum stalls I’m out. If pulls back with low volume holds support and momentum picks back up I’m back in for the ride until it stalls.
+
+Need to keep this ORB idea in mind.
+

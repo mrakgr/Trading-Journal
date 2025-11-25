@@ -19349,3 +19349,13 @@ Veilcore is making music too fast for me to actually listen to.
 https://pub.sakana.ai/ctm/#method
 
 This paper has amazing presentation.
+
+6:55pm. ![](images/image-1633.png)
+
+Ah so this is the representation they use for synchronization. As usual the transformer authors have interesting ways of thought.
+
+I has to think for a bit what Z_t * Z_t.T is, but it makes sense.
+
+7:05pm. ![](images/image-1634.png)
+
+So this model also uses the transformer attention on the inputs. I see.

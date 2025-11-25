@@ -19323,3 +19323,21 @@ https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=5051
 5:45pm. ![](images/image-1629.png)
 
 Wow, this is pretty cool. I'll give tldraw a try later.
+
+6:35pm. ![](images/image-1630.png)
+
+Ah for fuck's sake, I should just look at the paper instead of wasting time with this video. Let me do it. Just what am I supposed to get from this infographic? All I understand is that they are modeling individual neuros as RNNs.
+
+https://arxiv.org/abs/2505.05522
+Continuous Thought Machines
+
+6:40pm. https://youtu.be/aR20FWCCjAs
+Ilya Sutskever – We're moving from the age of scaling to the age of research
+
+Here is the interview with Hinton's student who is a big deal now.
+
+I'll leave it for later, let me focus on the paper.
+
+6:40pm. ![](images/image-1631.png)
+
+It's actually has been quite a long time since I've read a paper last. I used to do this all the time back in the 10s.

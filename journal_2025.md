@@ -19345,3 +19345,7 @@ It's actually has been quite a long time since I've read a paper last. I used to
 ![](images/image-1632.png)
 
 Veilcore is making music too fast for me to actually listen to.
+
+https://pub.sakana.ai/ctm/#method
+
+This paper has amazing presentation.

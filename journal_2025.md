@@ -19341,3 +19341,7 @@ I'll leave it for later, let me focus on the paper.
 6:40pm. ![](images/image-1631.png)
 
 It's actually has been quite a long time since I've read a paper last. I used to do this all the time back in the 10s.
+
+![](images/image-1632.png)
+
+Veilcore is making music too fast for me to actually listen to.

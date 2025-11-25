@@ -19274,3 +19274,52 @@ I only got up recently.
 I guess I'll finish those videos and then resume coding.
 
 My motivation has been very low. I need to get it up.
+
+3:50pm. Done with breakfast, chores and exercises. Let me start. I watched the...
+
+https://youtu.be/DtePicx_kFY
+"I Invented the Transformer. Now I'm Replacing It."
+
+...video today. Let me watch more of the RL course then then I will watch the...
+
+https://youtu.be/5X9cjGLggv0
+Continuous Thought Machine Deep Dive | Temporal Processing + Neural Synchronisation
+
+I am curious what this is doing. Regardless, I am fundamentally changing my approach to AI so I won't be using this.
+
+4pm. https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj
+Lecture 12 2024; Off-line training with neural nets for approximate VI and PI. Aggregation
+
+I am curious what aggregation is.
+
+4:10pm. ![](images/image-1624.png)
+https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=2624
+> There are some really big challenges here.
+
+https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=2677
+> As you all know training a neural network has its own issues and can be very difficult to get to work well.
+
+https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=2794
+> You may see papers that use off policy methods, and there have been some successes, but what you don't see is the enormous amount of failure that people go through with off policy methods. They are notoriously flakey.
+
+![](images/image-1625.png)
+
+This last part is interesting to hear about. Parameters converge, but policies don't. It happens in poker, but that's the reason why we average the policies instead.
+
+4:25pm. ![](images/image-1626.png)
+
+I see. So aggreggation is basically what I will be doing. I thought it might be.
+
+4:40pm. ![](images/image-1627.png)
+
+So hard aggreggation is what I'll be doing to be more precise.
+
+5:05pm. ![](images/image-1628.png)
+
+Yeah, this is exactly it. You need domain knowledge, but I do have just the thing for trading.
+
+https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=5051
+
+5:45pm. ![](images/image-1629.png)
+
+Wow, this is pretty cool. I'll give tldraw a try later.

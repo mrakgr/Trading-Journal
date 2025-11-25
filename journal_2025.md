@@ -19264,3 +19264,13 @@ This is interesting. I think I'd best skip QuantConnect longer term and interfac
 ![](images/image-1623.png)
 
 Thomas linked me to this talk and it's indeed interesting.
+
+11/25/2025
+
+11:55am. I've played CZN until way too late yesterday and lounged in bed. Agh...
+
+I only got up recently.
+
+I guess I'll finish those videos and then resume coding.
+
+My motivation has been very low. I need to get it up.

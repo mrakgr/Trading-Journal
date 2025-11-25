@@ -19359,3 +19359,11 @@ I has to think for a bit what Z_t * Z_t.T is, but it makes sense.
 7:05pm. ![](images/image-1634.png)
 
 So this model also uses the transformer attention on the inputs. I see.
+
+7:20pm. ![](images/image-1635.png)
+
+They aren't using positional embeddings. That is something.
+
+7:30pm. Ok, I am done. Starting tomorrow, I am going all-in on trading. QuantConnect, Bookmap vids, I also need to finish Lance's course at some point.
+
+I boldly proclaimed that'd I'd pay him back with my daytrading profits, so that is what I will do. Though I should avoid making any more crazy posts on his Youtube channel. 2 is enough.

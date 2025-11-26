@@ -19395,3 +19395,7 @@ It doesn't matter if I don't end up using it in the end. What's imporant is that
 It's fine if I make only 5k from trading in 2026. I'll make 100k in 2027 if I can go to break even in 2026 and then into millions in 2028.
 
 Right now there is no doubt that I have the skills to be a quant trader. I just have to put them to good use.
+
+12:20pm. ![](images/image-1636.png)
+
+It's very basic, but even the best programmer has to make the baby steps before he learns to walk. So let me get cracking.

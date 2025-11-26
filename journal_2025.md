@@ -19399,3 +19399,9 @@ Right now there is no doubt that I have the skills to be a quant trader. I just 
 12:20pm. ![](images/image-1636.png)
 
 It's very basic, but even the best programmer has to make the baby steps before he learns to walk. So let me get cracking.
+
+![](images/image-1637.png)
+
+This is pretty easy, but these kinds of tasks are ideal for familiarizing myself with the platform.
+
+For the actual bot, I'd probably want to host it on a public cloud that's closest to the exhange and run it there. But in that case it'd also have to run through the broker. I bet IBKR will have something close to the exhange suitable for high frequency trading.

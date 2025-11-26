@@ -19407,3 +19407,32 @@ This is pretty easy, but these kinds of tasks are ideal for familiarizing myself
 For the actual bot, I'd probably want to host it on a public cloud that's closest to the exhange and run it there. But in that case it'd also have to run through the broker. I bet IBKR will have something close to the exhange suitable for high frequency trading.
 
 12:25pm. Let me stop for breakfast here. I know I barely started, but it cannot be helped.
+
+4:50pm. Just how are my breaks so large?
+
+Let me resume.
+
+5:25pm. ![](images/image-1638.png)
+
+This feels a bit like I am doing HackerRank easies, but it's not bad to do it. I could benefit a lot from getting familiar with the platform. I might even be able to make use of it for my own strategy if I could somehow upload large tables to it.
+
+![](images/image-1639.png)
+
+Working with event handles directly is pretty rough. I'd want to abstract these using channels.
+
+5:45pm. ![](images/image-1640.png)
+
+Let me go to lesson 3.
+
+6:05pm. https://youtu.be/gb7nNveNBjg
+15 Years of Trading Risk Management in 15 Minutes
+
+Let me watch this I'd don't feel like doing the easy tasks anymore today.
+
+6:15pm. ![](images/image-1641.png)
+
+Wow, I am so glad he's covering this. ZJYL went from 10 to 500 in a span of 2 minutes. Seeing that example in his course and also noting that risks of shorting low floats have gotten far higher in the last decade, will make me think hard about whether I ever want to touch shorting.
+
+7:10pm. ![](images/image-1642.png)
+
+Let me stop here for real. I am done for the day.

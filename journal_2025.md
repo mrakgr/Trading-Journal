@@ -19367,3 +19367,31 @@ They aren't using positional embeddings. That is something.
 7:30pm. Ok, I am done. Starting tomorrow, I am going all-in on trading. QuantConnect, Bookmap vids, I also need to finish Lance's course at some point.
 
 I boldly proclaimed that'd I'd pay him back with my daytrading profits, so that is what I will do. Though I should avoid making any more crazy posts on his Youtube channel. 2 is enough.
+
+11/26/2025
+
+11:40am. I went to bed earlier, but I still ended up lounging in bed for very long. I might be stressed out.
+
+I guess it's normal to fear trading and want to delay it, but today I will be starting. I need to lay down the first brick instead of just thinking about it.
+
+12:10pm. My hands hurt, my drive is low, but I need to keep going.
+
+A large part of my performance anxiety while at the Tao Ceti job was the lack of time to trade. And now I have it.
+
+I've finished the poker project and now it's the time to take revenge for my 2007 - 2014 failure.
+
+This time I will do it with the power of the machines!
+
+It's been 9 days since my last Youtube video, that's how long I've been watching these lectures. I am just wasting time. I need to get started.
+
+I need to make the first step and break the ice.
+
+Even if it's not a real system, I need to start testing out various ideas. There is a huge difference between having a system that works only during backtesting and having nothing at all.
+
+12:15pm. I don't need to go all-in on GPU programming during the very first session. It's good enough if I get slightly familiar with the QuantConnect platform today.
+
+It doesn't matter if I don't end up using it in the end. What's imporant is that I start having fun.
+
+It's fine if I make only 5k from trading in 2026. I'll make 100k in 2027 if I can go to break even in 2026 and then into millions in 2028.
+
+Right now there is no doubt that I have the skills to be a quant trader. I just have to put them to good use.

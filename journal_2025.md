@@ -19772,3 +19772,8 @@ Oh, it can spit out stats. Nice.
 
 I am curious about how NNs can be used with QuantConnect, but to be honest I've had enough.
 
+6:35pm. I'll check out `vectorbt` tomorrow. I've gone down the wrong path with QuantConnet. Maybe I'll get back to it when it's time to deploy my algos.
+
+To be honest, I am super tired of lectures and these super basic tutorials. I want to build my own things in a bigger way. Even if it takes longer, I'd like to get down and dirty.
+
+I'll stop here for the day. Let me go have lunch.

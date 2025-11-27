@@ -19536,3 +19536,214 @@ The start and the end date is only 60 trading days, but we're using 200 day EMAs
 5pm. ![](images/image-1657.png)
 
 Ah, fuck it let me move on to this. The bootcamp example isn't the right place to experiment with EMA systems.
+
+5:35pm. https://www.reddit.com/r/algotrading/comments/1p86jju/which_trading_platforms_should_i_be_looking_into/
+
+![](images/image-1658.png)
+![](images/image-1659.png)
+![](images/image-1660.png)
+
+ChatGPT's answers here are really good.
+
+5:40pm.
+
+///
+
+Short answer: **QuantConnect *can* handle intraday strategies, but for true scalping-style pattern testing it will very likely feel too slow and too restrictive**, unless your strategies are extremely lightweight and you’re okay with backtests that take a long time.
+
+Let me break it down clearly so you can decide before investing a lot of time into the platform.
+
+---
+
+# 🔍 **1. What “intraday scalping” implies computationally**
+
+If you’re trying to model SMB-style intraday tape-reading / micro-pattern setups, this usually includes things like:
+
+* reading microstructure (bid/ask, spreads, liquidity shifts)
+* reacting to order flow (even at a summarized level)
+* using 1-second or sub-second data
+* evaluating dozens of small features on each bar
+* monitoring many symbols at once
+
+Even if you only use 1-second bars, you're in “high-event” territory:
+
+* 1 symbol → ~23,400 events/day
+* 20 symbols → ~468,000 events/day
+* A month → ~10 million events
+
+If you add fine-resolution data, multiple indicators, or ML features → compute grows fast.
+
+---
+
+# ⚠️ **2. Where QuantConnect struggles for scalping-type work**
+
+## **A. Backtest speed**
+
+LEAN (the engine behind QuantConnect) is event-driven and *serially processes every tick/bar*.
+For scalping-level granularity, three issues show up:
+
+* backtests with 1-second data are **slow**
+* tick-level data is **extremely slow** (hours → days)
+* any ML + high-frequency combo can become essentially unusable
+
+You also can’t parallelize many strategies the way you could on your own machine or a Dask/Ray cluster.
+
+**For daily/hourly strategies QuantConnect is great.
+For scalping, especially multi-symbol → it’s painful.**
+
+---
+
+## **B. Data footprint & I/O bottlenecks**
+
+High-event backtests generate huge volumes of data movement:
+
+* internal deserialization overhead
+* C#/Python boundary overhead (Python user → C# engine)
+* slow iteration over millions of bars
+
+QC’s cloud environment is optimized for *ease* not *throughput*.
+
+If you tried to test:
+
+* 1-second bars
+* across even 50 stocks
+* with 5 years of data
+
+…it will choke unless you simplify heavily.
+
+---
+
+## **C. You can’t easily customize the low-level engine**
+
+If you find a bottleneck, you cannot:
+
+* rewrite the event loop
+* compile critical sections in C++
+* change the way data is streamed
+* use faster formats like parquet
+* run multi-process custom pipelines
+* use GPUs for feature computation
+
+You’re inside a sandbox.
+
+This alone limits most serious intraday-system research.
+
+---
+
+# 🟩 **3. Where QuantConnect *is* fine for intraday work**
+
+It works if your strategies are:
+
+* **single-symbol**
+* **1-minute bars**
+* only a few signals
+* no order-flow/special datasets
+* no ML feature generation
+
+If you're testing simple mean-reversion or momentum ideas, QC is okay.
+
+But for *actual scalping behavior* — where you want to test the *timing and microstructure nuances* taught by SMB or other prop firms — you need far more raw speed and flexibility.
+
+---
+
+# 💡 **4. What people who trade intraday professionally actually use**
+
+For anything touching tape-reading / micro patterns, most quants and independent researchers use:
+
+### **A. Python-native backtesters with vectorization or JIT**
+
+* **vectorbt / vectorbt PRO**
+* **numba-optimized custom code**
+* **pandas + numba loops**
+* **polars**
+
+These can run millions of events *orders of magnitude faster* than event-driven engines.
+
+### **B. Custom engines built on**
+
+* **pyarrow / parquet**
+* **Dask or Ray for parallelism**
+* **Zarr / memory mapped arrays**
+
+These let you test 10–100× faster than QuantConnect.
+
+### **C. C++ / Rust backtesters for real microstructure work**
+
+If you go deep (L1/L2 order book), almost nobody uses QuantConnect — too slow by multiple orders of magnitude.
+
+---
+
+# 🧭 **5. What you should do given your goal**
+
+Since you explicitly said:
+
+> “I want to design intraday scalping strategies and test if the SMB-style patterns have anything to them”
+
+Then I strongly recommend the following path:
+
+---
+
+## **Option A (Best for research velocity): Use a Python-native local environment**
+
+### You will need:
+
+* 1-second NASDAQ or NYSE data (Polygon / Intrinio / Kibot / AlgoSeek Lite)
+* vectorized backtester (vectorbt)
+* optionally numba for micro-pattern scans
+
+### Benefits:
+
+* **Runs 20–200× faster**
+* **Full control over data formats**
+* **Perfect for experimental pattern testing**
+* **Easy to prototype alternative feature sets**
+
+---
+
+## **Option B (Hybrid): Develop locally → deploy using LEAN only for execution**
+
+You do research using your own fast backtesting engine.
+When you have a working low-frequency execution model (1-minute bars or event based), you can port the idea to QC for live deployment.
+
+Many users do exactly that.
+
+---
+
+## **Option C (If you want the easiest intraday pipeline): QuantRocket**
+
+Unlike QuantConnect:
+
+* natively Python
+* data is local (no cloud sandbox)
+* backtests faster
+* integrates well with pandas / NumPy
+* works with multiple data sources
+
+Good middle ground if you want a platform but also speed.
+
+---
+
+# 🎯 Final Verdict
+
+### **For true intraday scalping research — QuantConnect will feel too slow and too restrictive.**
+
+You'll get frustrated before you reach meaningful experiments.
+
+Use QuantConnect later as a *deployment* platform if necessary.
+Do the *research* elsewhere.
+
+---
+
+If you want, I can also outline:
+
+* **A fast Python workflow for evaluating tape-reading / scalping patterns**
+* **Example architecture for a high-speed intraday backtester**
+* **A scalable data pipeline for large intraday datasets**
+
+Would you like a blueprint for that?
+
+///
+
+Hmmmm...
+
+https://pypi.org/project/vectorbt/

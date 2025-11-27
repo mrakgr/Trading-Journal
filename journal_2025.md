@@ -19460,3 +19460,39 @@ But I will try it using hand crafted features first and foremost.
 Let me finally start. I am constantly am thinking about this, but am having trouble just committing to going forward.
 
 But it's fine. Even if I cannot run, I can walk. Even if I cannot walk, I can crawl.
+
+11:50am. ![](images/image-1644.png)
+
+Ah, this only places one trade. I'd ideally want to close it before the close.
+
+![](images/image-1645.png)
+
+Lol, great system.
+
+But yeah, this is what you'd expect. The ORB paper only found it to work on Stocks In Play.
+
+12:15pm. ![](images/image-1646.png)
+
+Time to learn gap fading strats.
+
+![](images/image-1647.png)
+
+This assignment is actually pretty tough because I don't know the types of anything. I'll have to look at the solution.
+
+12:55pm. ![](images/image-1648.png)
+
+Oh, the opening gap trade has quite a decent edge. What if I put the the deviation as 2?
+
+![](images/image-1649.png)
+
+More trades, and even higher profit.
+
+![](images/image-1650.png)
+
+Though the 2k extra isn't really worth it. With deviations set to 4, this is what I get.
+
+I guess mean reversion strategies do work. You could do strategy chaining. Gap fades into ORB and so on.
+
+1:10pm. ![](images/image-1651.png)
+
+Let me stop here.

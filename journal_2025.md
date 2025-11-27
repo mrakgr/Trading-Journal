@@ -19777,3 +19777,7 @@ I am curious about how NNs can be used with QuantConnect, but to be honest I've 
 To be honest, I am super tired of lectures and these super basic tutorials. I want to build my own things in a bigger way. Even if it takes longer, I'd like to get down and dirty.
 
 I'll stop here for the day. Let me go have lunch.
+
+![](images/image-1665.png)
+
+There are plenty of resources going down this path.

@@ -19436,3 +19436,14 @@ Wow, I am so glad he's covering this. ZJYL went from 10 to 500 in a span of 2 mi
 7:10pm. ![](images/image-1642.png)
 
 Let me stop here for real. I am done for the day.
+
+10pm. https://youtu.be/Hnq8-iSHuL0
+Scalping: An Effective And Highly Profitable Trading Strategy (part II)
+
+Decided to skip playing games and watched this instead.
+
+A thought come to me that it really could be a good idea to test my stock market model not just on aggregation methods, but also on transformers and the CTM (Continuous Thought Machine).
+
+Ah fuck, here we go again. But at least that will be a supervised learning method rather than RL, so they should do somewhat decently.
+
+But I will try it using hand crafted features first and foremost.

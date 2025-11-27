@@ -19747,3 +19747,28 @@ Would you like a blueprint for that?
 Hmmmm...
 
 https://pypi.org/project/vectorbt/
+
+5:55pm. ![](images/image-1661.png)
+
+Yeah, I think I'll study QuantConnect for a while longer, but I am really chomping to try backtesting what I have in mind, and am starting to run of of patience with these simplistic tutorials.
+
+6:20pm. https://www.reddit.com/r/algotrading/comments/1p7rzz5/finally_built_real_infrastructure_for_my_trading/
+
+![](images/image-1662.png)
+
+What is NATS?
+
+> Biggest “blow-up” causes I’ve seen: optimistic fills, no stale-feed checks, no kill-switch, and conflicting strategies fighting the same book.
+
+Stale feed checks? Didn't think about that.
+
+I definitely am going to build a daily loss limit/kill switch.
+
+6:25pm. ![](images/image-1663.png)
+
+Oh, it can spit out stats. Nice.
+
+6:30pm. ![](images/image-1664.png)
+
+I am curious about how NNs can be used with QuantConnect, but to be honest I've had enough.
+

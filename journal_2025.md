@@ -19447,3 +19447,16 @@ A thought come to me that it really could be a good idea to test my stock market
 Ah fuck, here we go again. But at least that will be a supervised learning method rather than RL, so they should do somewhat decently.
 
 But I will try it using hand crafted features first and foremost.
+
+11/27/2025
+
+10:45am. I was reading manga and went to bed at 2am again. Damn, I really don't feel like doing the work I am doing currently it seems. No that is wrong. It's not like I find it boring, but I guess deep down I just feel a lot of resistance. No choice, but to just keep going forward.
+
+11am. https://youtu.be/ThUNhjblo24
+"we are not enron"
+
+11:35am. ![](images/image-1643.png)
+
+Let me finally start. I am constantly am thinking about this, but am having trouble just committing to going forward.
+
+But it's fine. Even if I cannot run, I can walk. Even if I cannot walk, I can crawl.

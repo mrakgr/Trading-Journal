@@ -19513,8 +19513,26 @@ The WCE guys are interesting.
 
 So he is saying that most of the time prices outside the value area return to it.
 
-4:10pm. To be honest, this volume stuff isn't nearly as relevant to me as specific patterns like gap fills, ops, and ORBs are. The 5 setups Andreas showed me could make my career. Also today I learned about gap fades. Though that probably just is gap fill.
+4:10pm. To be honest, this volume stuff isn't nearly as relevant to me as specific patterns like gap fills, ops, and ORBs are. The 5 setups Andrea showed me could make my career. Also today I learned about gap fades. Though that probably just is gap fill.
 
 4:15pm. ![](images/image-1653.png)
 
 Let me resume.
+
+4:45pm. Need to stop wasting my time with Reddit. Focus on the task at hand.
+
+4:55pm. ![](images/image-1654.png)
+
+I am not sure why, but this isn't running.
+
+![](images/image-1655.png)
+
+What are these errors?
+
+![](images/image-1656.png)
+
+The start and the end date is only 60 trading days, but we're using 200 day EMAs. Let me set the start date to 6 years earlier.
+
+5pm. ![](images/image-1657.png)
+
+Ah, fuck it let me move on to this. The bootcamp example isn't the right place to experiment with EMA systems.

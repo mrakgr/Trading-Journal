@@ -19496,3 +19496,25 @@ I guess mean reversion strategies do work. You could do strategy chaining. Gap f
 1:10pm. ![](images/image-1651.png)
 
 Let me stop here.
+
+2:55pm. https://www.youtube.com/watch?v=oa8kxSLLkAo
+The ONLY Footprint-Trading-Video you will EVER need (Trading World Champion reveals)
+
+To be honest, I don't really understand what he is talking about or how I could quantify this.
+
+https://youtu.be/YmygDgtoxO8
+The ONLY Volume-Profile-Video you will EVER need (Trading World Champion reveals)
+
+Let me also watch this.
+
+The WCE guys are interesting.
+
+![](images/image-1652.png)
+
+So he is saying that most of the time prices outside the value area return to it.
+
+4:10pm. To be honest, this volume stuff isn't nearly as relevant to me as specific patterns like gap fills, ops, and ORBs are. The 5 setups Andreas showed me could make my career. Also today I learned about gap fades. Though that probably just is gap fill.
+
+4:15pm. ![](images/image-1653.png)
+
+Let me resume.

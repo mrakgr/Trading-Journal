@@ -19856,3 +19856,108 @@ The only question is whether I'd be able to use `vectorbt` with a lookup table. 
 https://vectorbt.dev/
 
 Here is the link to it.
+
+4:10pm. ![](images/image-1672.png)
+
+Oh, it doesn't?
+
+![](images/image-1673.png)
+
+Wow, is nobody using the GPU for trading system design?
+
+4:15pm. Hmmmm, ok this is very informative.
+
+I think I'll be better off just building my own.
+
+![](images/image-1674.png)
+
+Oh some of them have news! Yeah, that would be very useful to have.
+
+4:20pm. 
+
+///
+
+Good question. Because you’re building an **intraday scalping** system, the quality (latency, granularity, coverage) of your data matters a lot. There is no “one best place for everyone,” but there *are* several data providers / APIs that are widely used and recommended — especially by developers building algorithmic trading or scalping systems. Below is a breakdown of the best places to get stock-market data, what they’re good for, and trade-offs you should watch out for.
+
+---
+
+## ✅ Top Data API / Feed Providers for Intraday Trading
+
+Here are the most recommended data sources if you want to build a scalping or intraday system:
+
+| Provider / API                                          | What it offers / Strengths                                                                                                                                        | Best use-case for scalping / intraday trading                                                                                   |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Polygon.io**                                          | Real-time + historical data; raw tick and aggregated bars; WebSocket streaming; broad coverage (stocks, crypto, forex). ([Howik][1])                              | Very good for high-frequency, low-latency strategies — streaming tick/bar data is ideal for scalping.                           |
+| **Finnhub**                                             | Global coverage (equities, forex, crypto), real-time + historical, fundamentals, news, even sentiment; supports WebSocket & REST. ([blog.apilayer.com][2])        | Great for prototyping, building systematic strategies; useful if you also want news or fundamentals data alongside price.       |
+| **IEX Cloud**                                           | Real-time and delayed quotes for U.S. stocks; fundamentals, earnings, news; API is developer-friendly. ([insightease.com][3])                                     | Good for simpler U.S.-focused scalping / trading systems.                                                                       |
+| **Alpha Vantage**                                       | Real-time + historical prices, technical indicators built-in, free tier, easy to access via Python/REST. ([blog.apilayer.com][2])                                 | Excellent for starting out, backtesting, prototyping — less ideal for very high-frequency scalping (rate limits, data latency). |
+| **Marketstack**                                         | Intraday, historical, real-time data via simple REST API; global coverage. ([quartr.com][4])                                                                      | Decent for lower-frequency intraday / swing strategies, or for markets outside the US.                                          |
+| **Financial Modeling Prep (FMP)**                       | Many endpoints (real-time quotes, historical chart, fundamentals, earnings, financials), REST or websocket; support for many exchanges globally. ([Geekflare][5]) | Good if you want not only price data but also fundamental data, for a more comprehensive trading system.                        |
+| **Enterprise-grade vendors (FactSet, Bloomberg, etc.)** | Ultra-high quality, normalized data from many global exchanges; very low latency; full depth (Level 1 + 2), multi-asset coverage. ([go.factset.com][6])           | Best if you build a professional or institutional-level system — but costly.                                                    |
+
+---
+
+## 💡 What “Best” Depends On — Key Tradeoffs
+
+* **Latency / granularity vs. cost**: For scalping, you want tick-level or very fine bar-level data — ideally via a streaming (WebSocket / real-time feed) API. That usually comes with higher cost. Free or cheap APIs (e.g., Alpha Vantage) are often fine for backtesting or low-frequency strategies, but less ideal for high-frequency scalping.
+* **Coverage (market + exchange + instruments)**: Make sure the provider covers the markets and tickers you intend to trade (US, EU, small-cap, large-cap, etc.).
+* **Data depth**: Do you need just OHLCV bars (open-high-low-close-volume)? Or do you also need order-book data (Level 2), trade-by-trade (tape), volume, bid/ask spread, etc.? High-frequency scalping often benefits from order-book and tick data.
+* **Reliability and uptime**: For intraday trading, even small data outages or delays can kill a strategy. Enterprise vendors tend to offer higher SLAs, but are expensive.
+* **Ease of integration & ecosystem**: Depending on your stack (Python, C++, etc.), you want a data feed with good documentation, libraries, and stable APIs.
+
+---
+
+## 📈 My Recommendation (Given You Want to Build a Scalping System)
+
+If I were you and building a **retail / semi-pro intraday scalping system** (on a budget), here is what I would do:
+
+1. **Start with a mid-tier API like Polygon.io or Finnhub** — they offer real-time / WebSocket, have reasonable pricing, and are developer-friendly. Good balance between cost, latency, and ease-of-use.
+2. Use **Alpha Vantage or IEX Cloud or FMP** alongside for fundamentals, backtesting, or less frequent data needs. They’re good for building out the non-tick-data parts of your system (e.g., filtering tickers, building screening logic, storing history, technical indicators).
+3. As your system evolves (or if you scale up), consider **enterprise-grade data feeds** (like FactSet, Bloomberg, or other institutional vendors) — especially if you need Level 2 / depth-of-book data, or extremely low latency and reliability.
+4. Architect your system so it's modular: separate **data acquisition**, **signal generation / backtest**, and **execution** — so you can swap or upgrade data providers later without reworking your core logic.
+
+---
+
+## ⚠️ What Many New Scalpers Underestimate
+
+* **Free or cheap APIs often don’t give true “tick-by-tick” data** (or give delayed / batched data). That can limit scalping performance.
+* **Market microstructure matters**: At the tick-level, noise, bid–ask spread, latency, slippage, and order-book effects dominate profits/loss. If you don’t get high-quality data + fast execution, your strategy may look good in backtests but perform poorly in live conditions. (See, for example, academic work on the challenges of modeling high-frequency covariance dynamics with noisy / asynchronous tick data. ([arXiv][7]))
+* **Cost vs. benefit**: Real-time, high-frequency data feeds (especially with order book / Level 2) are often expensive — sometimes prohibitively so for a retail trader.
+
+---
+
+## 🎯 My Strong Picks (for a Scalper Starting Out)
+
+* **Polygon.io** — for real-time / tick-level data + WebSocket streaming — best “all-around” for algo scalping.
+* **Finnhub** — nice all-in-one API (price, fundamentals, news) — great for building and testing multi-factor or hybrid strategies.
+* **Alpha Vantage** — for prototyping, backtesting, building dashboards — especially if you want cheap or free access.
+* **Financial Modeling Prep** — if your strategy also depends on fundamentals or broader financial data beyond just price.
+
+---
+
+If you like, I can **show you 5–10 data sources** that are especially good for **European / global markets** (since you are based in Croatia), not just US stocks — that way you get data for exchanges that are relevant to you.
+Do you want me to build that list for you now?
+
+[1]: https://howik.com/the-best-real-time-stock-data-api-for-developers?utm_source=chatgpt.com "Choosing the Best Real-Time Stock Data API for Developers - Howik"
+[2]: https://blog.apilayer.com/12-best-financial-market-apis-for-real-time-data-in-2025/?utm_source=chatgpt.com "APIs for Financial Data: Top 12 Real-Time Market Tools 2025"
+[3]: https://insightease.com/blog/best-stock-trading-apis-for-custom-trading-platforms/?utm_source=chatgpt.com "Best Stock Trading APIs for Custom Trading Platforms -"
+[4]: https://quartr.com/insights/investor-relations/top-5-finance-and-stock-market-apis?utm_source=chatgpt.com "Top 5 Finance and Stock Market APIs (2025)"
+[5]: https://geekflare.com/dev/best-stock-market-api/?utm_source=chatgpt.com "13 Best Stock Market APIs to Build Financial Products"
+[6]: https://go.factset.com/hubfs/Website/Resources%20Section/Brochures/factset-real-time-market-data-solutions-brochure.pdf?utm_source=chatgpt.com "FactSet Real-Time Market Data Solutions"
+[7]: https://arxiv.org/abs/1803.04894?utm_source=chatgpt.com "A Score-Driven Conditional Correlation Model for Noisy and Asynchronous Data: an Application to High-Frequency Covariance Dynamics"
+
+///
+
+I'll back up this ChatGPT post here. I guess I'll check out Polygon.io.
+
+![](images/image-1675.png)
+
+I saw Alpaca being mentioned in a few places.
+
+![](images/image-1676.png)
+
+Really? It's commission free?
+
+![](images/image-1677.png)
+
+Wow, this sounds really good.

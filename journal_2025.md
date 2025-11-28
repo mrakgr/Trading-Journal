@@ -20183,3 +20183,9 @@ Nice. IBKR's APIs weren't that good.
 PDT rules are convoluted. I am really glad I won't have to deal with them anymore.
 
 The PDT rule pretty much forces you to trade on the close. It contributed significantly to my failure in 2007 - 2014.
+
+5:35pm. ![](images/image-1684.png)
+
+I'll definitely sign up and try it out.
+
+I love the minimalist approach most of all. This is one SV trend that I like in particular.

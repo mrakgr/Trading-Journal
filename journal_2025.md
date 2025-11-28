@@ -20177,3 +20177,9 @@ Really, they started out as a company using NNs to trade the markets.
 They have a C# library.
 
 Nice. IBKR's APIs weren't that good.
+
+5:20pm. ![](images/image-1683.png)
+
+PDT rules are convoluted. I am really glad I won't have to deal with them anymore.
+
+The PDT rule pretty much forces you to trade on the close. It contributed significantly to my failure in 2007 - 2014.

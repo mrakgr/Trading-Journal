@@ -19781,3 +19781,47 @@ I'll stop here for the day. Let me go have lunch.
 ![](images/image-1665.png)
 
 There are plenty of resources going down this path.
+
+7pm. Tomorrow I have an appointment with a public notary, so I'll have to go out for a few hours. Good thing my mom reminded me.
+
+7:20pm. https://docs.nats.io/nats-concepts/what-is-nats
+
+Never found this while I was doing research on concurrency frameworks (like gRPC) while I was at Tao Ceti. I'll keep it in mind.
+
+11/28/2025
+
+11:05am. ![](images/image-1666.png)
+![](images/image-1667.png)
+
+I thought of probabilistic rounding, but I didn't know whether that would preserve the mean. I see now that it would ok.
+
+That is how I would sample the durations for the sampling loops.
+
+Now what about maintaining the mean of a log normal distribution?
+
+```py
+import numpy as np
+
+def sample_int_lognormal(mean, sigma, n):
+    mu = np.log(mean) - 0.5 * sigma**2
+    x = np.random.lognormal(mu, sigma, size=n)
+    f = np.floor(x)
+    r = np.random.rand(n)
+    return f + (r < (x - f))
+
+# Example:
+samples = sample_int_lognormal(mean=20, sigma=0.6, n=100000)
+print(np.mean(samples))  # Should be close to 20
+```
+
+It also gave me this. Let me try it out. Does this really maintain the mean?
+
+11:30am. Using a sigma of 0.6 seems fine.
+
+![](images/image-1668.png)
+
+I've confirmed that these two implementations are the same, so I won't have trouble implementing the log normal distribution on the GPU.
+
+Let me have breakfast and do the chores here. I have that appointment soon.
+
+I'll be using mixtures of gaussians and log normal to simulate the stock market price movements.

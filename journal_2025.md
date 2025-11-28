@@ -20189,3 +20189,9 @@ The PDT rule pretty much forces you to trade on the close. It contributed signif
 I'll definitely sign up and try it out.
 
 I love the minimalist approach most of all. This is one SV trend that I like in particular.
+
+5:45pm. Lunch time.
+
+![](images/image-1685.png)
+
+I'll leave the tuts for later.

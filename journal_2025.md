@@ -19961,3 +19961,206 @@ Really? It's commission free?
 ![](images/image-1677.png)
 
 Wow, this sounds really good.
+
+4:35pm. It seems Polygon.io renamed itself to Massive.
+
+https://massive.com/
+
+4:45pm. ![](images/image-1678.png)
+
+Not too cheap, but paying for this will be a justifiable expense. I'll want to get second data to start with and move up to trade data before going live just so I can try out the 100-500ms delays.
+
+4:50pm. 200$/month might seem a lot, but it's not more than what I am paying my accountant currently.
+
+![](images/image-1679.png)
+
+Alpaca has free data, so I'll focus on it first.
+
+///
+
+**Alpaca** is a *commission-free stock and crypto brokerage* plus a *developer-focused trading API platform*.
+
+In simpler terms:
+
+> **Alpaca = brokerage + real-time data + trading API + paper trading environment**
+> built specifically for people who want to automate trading.
+
+It’s extremely popular among retail algo traders because it removes a lot of the usual friction of connecting a custom trading system to a real brokerage.
+
+---
+
+# ✅ What Alpaca Actually Provides
+
+## **1. Brokerage Services**
+
+You can open an account and trade **US stocks and ETFs** (including all Nasdaq tickers).
+Key points:
+
+* **Commission-free trading**
+* Supports **fractional shares**
+* Supports **cash or margin accounts** (margin availability varies by region)
+* Available for *non-US residents*, which is a huge reason it's widely used
+
+If you're in Croatia, you *can* open an Alpaca account — you just need to verify through their KYC process.
+
+---
+
+## **2. Trading APIs (Its main selling point)**
+
+Alpaca gives you clean, modern, well-documented APIs:
+
+* **REST API** (place/cancel orders, manage positions, get account info)
+* **WebSocket API** (real-time streaming market data, quotes, trades)
+* **Live + paper trading** with the same API
+* SDKs in **Python, C#, JavaScript, Go**, etc.
+
+The trading API is the reason you see Alpaca mentioned on algo-trading forums, Discords, and YouTube.
+
+You can connect your scalping system directly to Alpaca with almost no glue code.
+
+Example (Python):
+
+```python
+import alpaca_trade_api as tradeapi
+
+api = tradeapi.REST(API_KEY, API_SECRET, BASE_URL)
+api.submit_order(
+    symbol='AAPL',
+    qty=1,
+    side='buy',
+    type='market'
+)
+```
+
+---
+
+## **3. Market Data**
+
+Alpaca provides:
+
+* **Real-time data** (via WebSocket or REST)
+* **Historical bars** (1min, 1sec depending on plan)
+* **Snapshots, quotes, L1 data**
+
+Note:
+They **do not provide Level 2 order book** depth.
+For scalping strategies, this may or may not matter depending on your approach.
+
+If you need deeper or faster data, you’d pair Alpaca for execution with Polygon.io or another dedicated data provider.
+
+---
+
+## **4. Paper Trading Environment**
+
+A lot of people discover Alpaca through:
+
+* Paper trading
+* Bots and examples posted on GitHub
+* YouTube algo-trading tutorials
+
+Their paper trading is:
+
+* Fast
+* Free
+* *Identical* to their live API
+* Great for prototyping or backtesting live signals
+
+---
+
+# 🧠 Why It’s Popular Among Algo Traders
+
+### **✔ Easy to integrate into custom systems**
+
+The API is simple compared to Interactive Brokers or Tradestation.
+
+### **✔ Reliable streaming data**
+
+For ordinary retail algo trading (not HFT), the WebSocket feed is good enough.
+
+### **✔ Free paper trading**
+
+You can test your bot fully without touching real cash.
+
+### **✔ Works in many countries**
+
+People outside the U.S. often have trouble accessing US brokerages — Alpaca actively supports international users.
+
+### **✔ Lots of tutorials and open-source examples**
+
+People build bots for:
+
+* Moving averages
+* VWAP strategies
+* Momentum intraday strategies
+* Grid traders
+* ML/RL-based systems
+  …and share them online.
+
+---
+
+# ❗ Limitations (Important for a scalper)
+
+If you want to build a true **scalping** system, you need to be aware of limits:
+
+### **1. No Level 2 (order book) data**
+
+This is a big factor in microstructure-based scalping strategies.
+
+### **2. Not designed for ultra-low-latency execution**
+
+Alpaca routes orders to its partner brokers and market makers.
+It is fine for **retail-level scalping**, but not for **HFT-level latency arbitrage**.
+
+### **3. OCCASIONAL data hiccups or WebSocket drops**
+
+Better than most retail platforms, but not perfect.
+
+### **4. Market data plans vary**
+
+The free data is OK for intraday backtesting, but some scalpers prefer Polygon or Tradier for deeper streams.
+
+If your strategy needs tick-level accuracy, you may want a dedicated data vendor.
+
+---
+
+# 🧪 Should *you* use Alpaca for your intraday scalping idea?
+
+**If your scalping approach is based on price action, 1–5 sec bars, or indicators → Alpaca is good enough.**
+
+**If your idea requires:**
+
+* order book imbalance
+* microprice modeling
+* queue position
+* liquidity-taking vs providing
+* spread dynamics
+* tick-by-tick reaction
+
+…then Alpaca alone won’t be sufficient; you'd want:
+
+* **Polygon.io** (*or*)
+* **NASDAQ Basic / TotalView feed** (expensive)
+* **Interactive Brokers** with book depth
+
+---
+
+# If you want, I can help you decide:
+
+* What level of data detail your scalping idea needs
+* Whether Alpaca’s feed is enough
+* Whether you should combine Alpaca (execution) with Polygon (data)
+* How to architect your trading system
+* Python or C++ code structure for a streaming scalper
+
+Just
+
+///
+
+ChatGPT has good things to say about it.
+
+It mentioned VWAP and momentum strategies so I know I am in good company. IBKR is kind of uncomfortable to use.
+
+Let me go through its docs.
+
+5pm. https://alpaca.markets/broker-resources/webinar/build-your-own-trading-app-broker-api?utm_campaign=2023%20-%20Broker%20API%20Webinars&utm_source=Webinar%20Chatflow
+

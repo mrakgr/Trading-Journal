@@ -20167,3 +20167,13 @@ Let me go through its docs.
 ![](images/image-1680.png)
 
 Let me go through these docs.
+
+![](images/image-1681.png)
+
+Really, they started out as a company using NNs to trade the markets.
+
+![](images/image-1682.png)
+
+They have a C# library.
+
+Nice. IBKR's APIs weren't that good.

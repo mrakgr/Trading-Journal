@@ -20195,3 +20195,7 @@ I love the minimalist approach most of all. This is one SV trend that I like in 
 ![](images/image-1685.png)
 
 I'll leave the tuts for later.
+
+6:15pm. I'll stop here for the day. Yesterday I've finally managed to pick up Ghostrunner again and to my surprise it's actually easy to play it with a controller. It's super fun.
+
+Tomorrow, I'll read some of the Alphaca tutorials and see how other people are using it for historical backtesting.

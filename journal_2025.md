@@ -19838,3 +19838,21 @@ We really got hit by this at Tao Ceti.
 ![](images/image-1671.png)
 
 This is good advice. It never occured to me to add a random delay.
+
+3:50pm. https://pypi.org/project/vectorbt/
+
+```py
+fast_ma = vbt.MA.run(price, 10)
+slow_ma = vbt.MA.run(price, 50)
+entries = fast_ma.ma_crossed_above(slow_ma)
+exits = fast_ma.ma_crossed_below(slow_ma)
+
+pf = vbt.Portfolio.from_signals(price, entries, exits, init_cash=100)
+pf.total_profit()
+```
+
+The only question is whether I'd be able to use `vectorbt` with a lookup table. Let me go through the docs. If I cannot use the lib I'll try it on my own.
+
+https://vectorbt.dev/
+
+Here is the link to it.

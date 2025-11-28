@@ -19825,3 +19825,11 @@ I've confirmed that these two implementations are the same, so I won't have trou
 Let me have breakfast and do the chores here. I have that appointment soon.
 
 I'll be using mixtures of gaussians and log normal to simulate the stock market price movements.
+
+11/28/2025
+
+11:55am. ![](images/image-1669.png)
+
+We really got hit by this at Tao Ceti.
+
+12:10pm. There is really a lot to begrudge this AI boom. Shittiest bubble ever.

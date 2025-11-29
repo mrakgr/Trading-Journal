@@ -20301,3 +20301,12 @@ It doesn't seem like it has anything special for backtesting.
 It feels like all these articles were written by ChatGPT. Let me stop so I can have breakfast here.
 
 I guess I should start thinking about opening an IB account again. 
+
+4:40pm. I was helping a neighbor with some chores, and I am only done now.
+
+https://www.youtube.com/shorts/M92djOOPkIU
+Andrej Karpathy explains what makes Elon Musk unique 🧠
+
+This makes me think better of Elon. He really gets it that small strong teams are the way to go. In fact the same applies to codebases.
+
+Logris is pretty bad in that regard. I got to see his management skills in action, but not so much his coding skills. He's definitely better than Curtis, but I wonder if I could have taught him some of my tricks?

@@ -20310,3 +20310,121 @@ Andrej Karpathy explains what makes Elon Musk unique 🧠
 This makes me think better of Elon. He really gets it that small strong teams are the way to go. In fact the same applies to codebases.
 
 Logris is pretty bad in that regard. I got to see his management skills in action, but not so much his coding skills. He's definitely better than Curtis, but I wonder if I could have taught him some of my tricks?
+
+4:50pm. Anyway, where is that Alpaca article on backtesting?
+
+https://alpaca.markets/learn/build-backtester
+
+5:15pm. ![](images/image-1686.png)
+
+No reason why I couldn't use these libs to analyze my backtesting results.
+
+`QuantStats` or `Pyfolio`.
+
+![](images/image-1687.png)
+
+Ah, I see.
+
+So I don't need Alpaca at all then?
+
+5:25pm. ![](images/image-1688.png)
+
+Lel, I'll keep the...
+
+https://www.quiverquant.com/
+
+...in mind. The stuff here could be particularly useful.
+
+5:40pm.
+
+///
+
+## Stock market information for Interactive Brokers Group Inc (IBKR)
+
+* Interactive Brokers Group Inc is a equity in the USA market.
+* The price is 65.02 USD currently with a change of 0.84 USD (0.01%) from the previous close.
+* The latest open price was 65.0 USD and the intraday volume is 2725018.
+* The intraday high is 65.25 USD and the intraday low is 64.22 USD.
+* The latest trade time is Friday, November 28, 23:15:00 +0100.
+
+Good questions. Here’s a breakdown of whether IBKR (Interactive Brokers) offers DMA and whether their latency is good enough for intraday scalping / short-horizon trading — and what the limitations are.
+
+---
+
+## ✅ Does IBKR offer DMA?
+
+Yes — IBKR does offer Direct Market Access (DMA). ([Good Money Guide][1])
+
+* Their corporate profile itself describes IBKR as a “direct-access trading” broker. ([Wikipedia][2])
+* They provide access to hundreds of global exchanges and market centers, with institutional-grade routing and execution. ([Good Money Guide][1])
+* Their “DMA / direct access” offering is widely cited as one of the strengths for professional traders seeking low-latency access. ([Good Money Guide][1])
+
+So from a technical and structural standpoint, IBKR does provide the infrastructure for direct market access.
+
+---
+
+## ⚡ Latency / Execution Speed — What IBKR Offers
+
+* According to IBKR’s own documentation (as referenced in their “Automated Trading Systems” whitepapers), the **order-acknowledgement latency** when using their API is on the order of **75–130 milliseconds** (ms). ([Interactive Brokers][3])
+* Many independent reviewers and traders also cite IBKR’s “low-latency execution” and direct routing as among the best available for retail / institutional brokers. ([Day Trading Computers][4])
+* Because IBKR offers DMA, orders go directly to the exchange (or exchange gateway), bypassing a dealer or “market maker” desk that might otherwise add delay. ([TradingBrokers.com][5])
+
+So in “normal” conditions, IBKR provides a pretty low-latency environment for trade execution, especially compared with traditional brokers that do not offer DMA.
+
+---
+
+## 🎯 Is IBKR Latency Good Enough for Intraday Scalping Strategies?
+
+**Short answer:** Maybe — it depends a lot on **what kind of scalping** you mean, how “fast” your strategy is, and how you trade (manual vs. algorithmic / automated). The answer is “yes, for many intraday or mid-frequency scalping / day-trading setups,” but “no” if you expect ultra-low latency comparable to professional HFT systems.
+
+### ✅ When IBKR *is* usually good enough
+
+* For typical **intraday scalping / day trading on stocks, ETFs, futures, or other fairly liquid markets**, the 75–130 ms order-ack latency — plus direct access — is often sufficient. Many active traders (retail or semi-pro) use IBKR for day trading or short-term trading. ([Day Trading Computers][4])
+* If you combine it with tools like their API, algorithmic execution, or advanced order types, you can get reasonably good execution and speed without routing delays. ([Interactive Brokers][3])
+* For **medium-frequency strategies** (holding times of minutes to hours) and liquidity-taking or limit order scalping (on liquid instruments), IBKR’s DMA + low-latency routing is an advantage. ([Interactive Brokers][6])
+
+### ⚠️ When IBKR may *not* be ideal for very aggressive scalping / HFT
+
+* IBKR is **not** an “ultra-low latency / co-located HFT” platform. For true high-frequency or micro-second / sub-millisecond scalping or market-making strategies, you’d typically need co-location at the exchange, proprietary low-level FIX infrastructure, FPGA or ASIC-based order handling, etc. ([Wikipedia][7])
+* Their documentation itself shows that for some automated trading paths, latency sources add up (e.g., network, API layers, risk checks), so real end-to-end latency may be materially higher than “best-case.” ([Interactive Brokers][3])
+* There are real-world reports (especially from forum users) complaining about **delays or lag** when markets are volatile — e.g., slow order fills, stuck orders, or delays of seconds in very busy periods, which can be disastrous for very short-term scalping. ([Reddit][8])
+* IBKR’s own disclosures for automated trading say that their infrastructure is geared more toward **mid-frequency strategies** (minutes to hours) rather than ultra-high-frequency, micro-second-scale trading. ([Interactive Brokers][6])
+
+---
+
+## 🎯 My Take: For What Kind of Trader is IBKR a Good Scalping / Intraday Platform
+
+If you are:
+
+* A **retail or semi-professional intraday trader**,
+* Focused on **liquid instruments** (large-cap stocks, major futures, big ETFs),
+* Operating with **hold times from a few seconds/minutes up to hours**,
+* Maybe using some automation or algorithmic entries —
+
+Then **yes**, IBKR is a solid broker. Its DMA, execution speed, and global coverage make it one of the best “general-purpose” brokers for day trading and scalping that you can get as a non-institutional retail user.
+
+However, if you are attempting **ultra-fast scalping / “latency arbitrage” / true HFT** — where you count on microsecond-level edge — IBKR is **likely not** optimal. You would be better served by a dedicated low-latency / co-located execution platform, or specialized brokerage that caters to HFT.
+
+---
+
+If you like — I can check what IBKR’s latency looks like *specifically* for European clients (since you are in Zagreb) — sometimes non-US users see additional latency because of routing.
+Do you want me to dig into that now?
+
+[1]: https://goodmoneyguide.com/review/interactive-brokers/interactive-brokers-direct-market-access/?utm_source=chatgpt.com "Does Interactive Brokers Have Direct Market Access? - Good Money Guide"
+[2]: https://en.wikipedia.org/wiki/Interactive_Brokers?utm_source=chatgpt.com "Interactive Brokers"
+[3]: https://www.interactivebrokers.com/campus/ibkr-quant-news/automated-trading-systems-architecture-protocols-types-of-latency-part-i/?utm_source=chatgpt.com "Automated Trading Systems: Architecture, Protocols, Types of Latency – Part I"
+[4]: https://www.daytradingcomputers.com/blog/best-brokers-for-day-trading?utm_source=chatgpt.com "Best Brokers for Day Trading in 2025: Top Picks & Platforms | Day Trading Computers"
+[5]: https://tradingbrokers.com/brokers-with-direct-market-access/?utm_source=chatgpt.com "Brokers with Direct Market Access - TradingBrokers.com"
+[6]: https://www.interactivebrokers.com/campus/ibkr-quant-news/algorithmic-trading-guide-high-frequency-liquidity-taking-strategy/?utm_source=chatgpt.com "Algorithmic Trading Guide: High-Frequency, Liquidity-Taking Strategy"
+[7]: https://en.wikipedia.org/wiki/Ultra-low_latency_direct_market_access?utm_source=chatgpt.com "Ultra-low latency direct market access"
+[8]: https://www.reddit.com/r/interactivebrokers/comments/lvf661?utm_source=chatgpt.com "faster brokerage than ibkr"
+
+///
+
+Ok, I'll pick IBKR once more as my broker of choice. I had no idea that I should expect ~100ms latency on average and higher during busy markets. Indeed, to simulate that during backtesting I will have to add a delay.
+
+5:45pm. This is good enough for today. Tomorrow I am going to get some data from Massive and do some basic backtesting. Maybe I could test the VWAP strategy?
+
+No, let's leave that for later. I can figure it out in due time. I'll add VWAP as an indicator when I've got my own system and see whether it makes a difference.
+
+5:50pm. I need to focus on paving my own path. I'll get some data and play around with it tomorrow and then start the next Spiral playlist.

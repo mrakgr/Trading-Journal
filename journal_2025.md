@@ -20279,3 +20279,11 @@ If you like, I can check **what the probability is** that the SEC will approve i
 ///
 
 Pattern day trading rule will be removed soon. It's like the world is telling me to get back into trading. I should take note.
+
+11:55am. https://alpaca.markets/learn/search?category=trading-api&topic=algorithmic-trading
+
+How can backtesting be done with Alpaca. I just have to figure that out and I'll be set to begin the new series.
+
+12pm. https://alpaca.markets/learn/0dte-options?ref=alpaca.markets
+
+Ironically, I kind of need this kind of article when it comes to 0DTEs. They simply weren't around when I was active last. Options really became a big deal in the last 1.5 decades.

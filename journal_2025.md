@@ -20428,3 +20428,37 @@ Ok, I'll pick IBKR once more as my broker of choice. I had no idea that I should
 No, let's leave that for later. I can figure it out in due time. I'll add VWAP as an indicator when I've got my own system and see whether it makes a difference.
 
 5:50pm. I need to focus on paving my own path. I'll get some data and play around with it tomorrow and then start the next Spiral playlist.
+
+6:05pm. ![](images/image-1689.png)
+
+Let me think. I need to get the daily data for the last two months so I can filter out stocks that aren't in play. And then for those particular days I'll get the minute bars. Then I want to figure out how to plot and study that data.
+
+I won't be able to just put the filters into TradingView, I'll have to do my own filtering from here on out. I'll do this in Python obviously.
+
+Once I have that I have no idea, maybe I'll test out the ORB system. I need to break the ice first.
+
+I'll leave starting the new Spiral playlist for later. For now, I should just play a little and see where it gets me.
+
+6:10pm. ![](images/image-1690.png)
+
+20 second delay? Damn.
+
+![](images/image-1691.png)
+
+Maybe I should hold off on IBKR.
+
+https://lime.co/
+https://lightspeed.com/
+
+I'll check out whether I can open an account with these two.
+
+![](images/image-1692.png)
+
+Ok, Lime is a go.
+
+6:40pm. ![](images/image-1693.png)
+
+I'll go with Lime if possible. I guess IBKR will be getting passed over this time around. Unlike Ligthspeed, Lime is geared towards quants.
+
+![](images/image-1694.png)
+

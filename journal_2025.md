@@ -20199,3 +20199,83 @@ I'll leave the tuts for later.
 6:15pm. I'll stop here for the day. Yesterday I've finally managed to pick up Ghostrunner again and to my surprise it's actually easy to play it with a controller. It's super fun.
 
 Tomorrow, I'll read some of the Alphaca tutorials and see how other people are using it for historical backtesting.
+
+11/29/2025
+
+11:35am. Yeah, it is important to have fun which is why I am reading Nia Liston right now. Let me do that I'll resume the tutorials.
+
+///
+
+Good question. Short answer: **yes — the PDT rule is very likely being removed or replaced**, but with some caveats. It hasn’t happened *yet*. ([CNBC][1])
+
+Here’s the latest status (as of late 2025) and what “removal” would actually mean:
+
+---
+
+## ✅ What’s happening now
+
+* In **September 2025**, the FINRA Board of Governors approved changes to the Pattern Day Trader (PDT) rule. Under the proposal, the long-standing **$25,000 minimum equity requirement** would be scrapped. ([Finance Magnates][2])
+* Instead of a fixed equity threshold, the rule would be replaced by a **risk-based intraday margin framework** — meaning that a trader’s day trading power would depend on the size and risk of their actual positions, not their total account equity. ([Finance Magnates][3])
+* Some proposals even suggest *eliminating* the “pattern day trader” classification entirely — which would remove the old 4-in-5-days limitation altogether. ([Trading with Stephen][4])
+
+---
+
+## ⚠️ But — not yet in effect
+
+* The changes still need final approval from the Securities and Exchange Commission (SEC). Until the SEC reviews and signs off on the amendments, the existing PDT rule remains in force. ([Cobra Trading][5])
+* Brokers will also need time to implement any new margin-based system, update their platforms, and align their compliance systems accordingly. ([Trading with Stephen][6])
+* Some observers anticipate a full roll-out could happen **late 2025 or early 2026**, *if* everything goes smoothly. ([Trading with Stephen][6])
+
+---
+
+## 🎯 What “removal” means (if approved)
+
+If the proposal is approved and implemented as described:
+
+* The rigid **$25,000 account-equity barrier** for day trading would disappear.
+* Traders with smaller accounts could day-trade on margin — as long as their intraday exposure meets the new margin-based risk standards.
+* The formal “Pattern Day Trader” label (with its 4-trade/5-day trigger) might either be eliminated or redefined under the new framework.
+
+That would make active trading more accessible, especially for small-scale retail investors who were previously locked out by the equity requirement. ([Finance Magnates][3])
+
+---
+
+## 🧮 Why regulators are doing this (again)
+
+As explained in my earlier answer, when the PDT rule was introduced (in 2001), the market environment was very different: expensive commissions, limited real-time data, and fewer risk-management tools. 
+
+Now, with:
+
+* commission-free trading,
+* real-time data feeds,
+* robust margin & risk-monitoring tools at brokers’ disposal,
+* and a broad base of experienced retail investors —
+
+many industry groups (and regulators) believe the $25,000 threshold is outdated, too blunt, and overly exclusionary. ([Finance Magnates][2])
+
+Replacing it with a risk-based margin approach allows regulators to maintain risk controls — but in a way that reflects how modern markets and technology work. ([NerdWallet][7])
+
+---
+
+## ✅ Bottom line: Will it be removed? Very likely… soon.
+
+But — don’t count on it *today*. Until the SEC approves, the old PDT rule remains in force. If you’re trading now, you should still assume the $25,000 equity rule applies.
+
+---
+
+If you like, I can check **what the probability is** that the SEC will approve it (or if there are any strong arguments against it).
+
+* [marketwatch.com](https://www.marketwatch.com/story/day-trading-is-about-to-get-a-lot-easier-for-beginners-things-could-get-ugly-b4d49e6d?utm_source=chatgpt.com)
+* [investopedia.com](https://www.investopedia.com/a-new-proposal-could-lead-to-relaxed-day-trading-rules-but-is-that-a-good-idea-11777816?utm_source=chatgpt.com)
+
+[1]: https://www.cnbc.com/2025/09/24/day-trading-is-about-to-get-easier-for-smaller-retail-investors.html?utm_source=chatgpt.com "Day trading is about to get easier for smaller retail investors"
+[2]: https://www.financemagnates.com/institutional-forex/regulation/us-day-traders-may-no-longer-need-25k-minimum-equity-as-finra-proposes-margin-standards?utm_source=chatgpt.com "FINRA Advances Proposal to Replace $25K Minimum for Day Traders with Margin Standards"
+[3]: https://www.financemagnates.com/forex/finras-proposal-to-scrap-25k-day-trading-minimum-fair-markets-or-bigger-risk?utm_source=chatgpt.com "FINRA's Proposal to Scrap $25K Day Trading Minimum: Fair Markets or Riskier Bets?"
+[4]: https://tradingwithstephen.com/resources/pdt-rule-change?utm_source=chatgpt.com "PDT Rule Change 2025: What Is a Pattern Day Trader & New $2,000 Minimum"
+[5]: https://www.cobratrading.com/blog/finra-moves-to-replace-the-25000-pattern-day-trader-minimum/?utm_source=chatgpt.com "FINRA Moves To Replace The $25,000 “Pattern Day Trader” Minimum—What It Could Mean For Day Traders | Cobra Trading"
+[6]: https://tradingwithstephen.com/resources/pdt-rule-approved-fnra?utm_source=chatgpt.com "BREAKING: FINRA Just Approved the PDT Rule Changes - Here's What Happens Next"
+[7]: https://www.nerdwallet.com/article/investing/pattern-day-trading-rule-change?utm_source=chatgpt.com "The $25,000 Day Trading Rule May Soon Go Away - NerdWallet"
+
+///
+
+Pattern day trading rule will be removed soon. It's like the world is telling me to get back into trading. I should take note.

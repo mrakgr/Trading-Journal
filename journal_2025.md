@@ -20287,3 +20287,17 @@ How can backtesting be done with Alpaca. I just have to figure that out and I'll
 12pm. https://alpaca.markets/learn/0dte-options?ref=alpaca.markets
 
 Ironically, I kind of need this kind of article when it comes to 0DTEs. They simply weren't around when I was active last. Options really became a big deal in the last 1.5 decades.
+
+12:35pm. https://alpaca.markets/support/countries-alpaca-is-available
+
+I am opening an account with Alpaca and it turns out they don't have Croatia on the list.
+
+12:45pm. Damn, I guess I'll have to rethink Alpaca.
+
+https://alpaca.markets/learn/build-backtester
+
+It doesn't seem like it has anything special for backtesting.
+
+It feels like all these articles were written by ChatGPT. Let me stop so I can have breakfast here.
+
+I guess I should start thinking about opening an IB account again. 

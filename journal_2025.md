@@ -20462,3 +20462,8 @@ I'll go with Lime if possible. I guess IBKR will be getting passed over this tim
 
 ![](images/image-1694.png)
 
+7pm. ![](images/image-1695.png)
+
+This is really weird. I actually can't find a way to access this page directly from the site. If it wasn't for ChatGPT, I wouldn't have even known about it.
+
+7:05pm. Let me go have lunch.

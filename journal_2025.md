@@ -20543,5 +20543,19 @@ So I wouldn't have to train my own LLM to take advantage of this? Nice.
 
 Mhhh, this analysis isn't very granular. I'd really like to know whether the news is groundbreaking rather than just positive, neutral or negative.
 
-https://massive.com/blog/hunting-anomalies-in-the-stock-market
+12:50pm. https://massive.com/blog/hunting-anomalies-in-the-stock-market
 
+Maybe this article will have something on how to build a screener. If not I'll leave this aside and just use the chatbots to guide me.
+
+ChatGPT existing made me a lot lazier.
+
+12:55pm. ![](images/image-1704.png)
+
+Ah, I see. So I want flat files for market wide historical data.
+
+1pm. Let me take a break here.
+
+1:20pm. https://youtu.be/Wg5N8ykqFFY
+Secrets Behind 7-figure Short Trade (And how to find similar trades)
+
+I might as well watch this while I eat. But damn, my focus is low today due to the fatigue. I need to start making tangible steps so I can tell myself that I've done something for the day and can close properly instead of being anxious about my future.

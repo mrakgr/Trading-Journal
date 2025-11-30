@@ -20563,3 +20563,10 @@ I might as well watch this while I eat. But damn, my focus is low today due to t
 https://youtu.be/Wg5N8ykqFFY?t=340
 > We're up 26 million bucks. This month.
 
+2:10pm. https://youtu.be/Wg5N8ykqFFY?t=2481
+> Gold is a terrible instrument to trade intraday.
+
+Then he goes to explain why.
+
+> There is a tremendous amount of hedging that has nothing to do with people thinking whether gold will go up or down.
+

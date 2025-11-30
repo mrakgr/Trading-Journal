@@ -20559,3 +20559,7 @@ Ah, I see. So I want flat files for market wide historical data.
 Secrets Behind 7-figure Short Trade (And how to find similar trades)
 
 I might as well watch this while I eat. But damn, my focus is low today due to the fatigue. I need to start making tangible steps so I can tell myself that I've done something for the day and can close properly instead of being anxious about my future.
+
+https://youtu.be/Wg5N8ykqFFY?t=340
+> We're up 26 million bucks. This month.
+

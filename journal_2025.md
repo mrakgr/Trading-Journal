@@ -20623,3 +20623,9 @@ This is very cool.
 This'd be useful if I ever do quant investing as opposed to trading.
 
 Let me just skim it.
+
+4:35pm. By the way, during the trade analysis in the video that was posted, I really like how he observed that the short trade during that first attempted break was very hard to trade, which led to a short covering rally the next day. He talked a lot about the activities of the options market participants. I need to get more informed about the options side of things.
+
+Just like I need to start paying attention to the short interest in the stock, I need to start paying attention to what the gamma exposure of the options market makers is because their hedging activities can push the moves further in favor of momentum or dampen it depending whether they are long or short gamma.
+
+Knowing whether the upcoming day's range is likely to be wide or narrow is a huge edge, and I cannot afford not to pay attention to it.

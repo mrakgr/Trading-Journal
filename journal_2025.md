@@ -20588,3 +20588,18 @@ I also want to open a personal IBKR account tomorrow in anticipation of the trad
 2) I need to get moving and make the first proper step as a quant trader.
 
 Once I break the ice, the screeners and the historical backtesting will fall into place. I can leave those for later.
+
+4:05pm. Let me resume.
+
+https://youtu.be/SyTuoUPLCts
+4 Techniques that Create Winning Trading Strategies (With Real-World Edge)
+
+I forgot to note that tomorrow I'll have to take a trip to the employment office to see if I am eligible for unemployment compensation.
+
+https://massive.com/blog/hunting-anomalies-in-the-stock-market
+
+Damn, I really don't feel reading the code here right now. Forget the video for a few mins. Let me skim it.
+
+4:20pm. ![](images/image-1706.png)
+
+Interesting that they are actually counting the number of trades instead of looking at the volume. I've never seen a screener that'd be able to filter based on that criteria.

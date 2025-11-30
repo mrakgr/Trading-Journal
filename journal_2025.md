@@ -20607,3 +20607,19 @@ Interesting that they are actually counting the number of trades instead of look
 4:25pm. ![](images/image-1707.png)
 
 I admit, I had no idea how the z score was calculated until today.
+
+![](images/image-1708.png)
+![](images/image-1709.png)
+
+Masterful pretty printing. This is one thing the author has done a lot better than I would have.
+
+![](images/image-1710.png)
+![](images/image-1711.png)
+
+This is very cool.
+
+4:30pm. ![](images/image-1712.png)
+
+This'd be useful if I ever do quant investing as opposed to trading.
+
+Let me just skim it.

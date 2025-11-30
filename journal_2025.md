@@ -20467,3 +20467,25 @@ I'll go with Lime if possible. I guess IBKR will be getting passed over this tim
 This is really weird. I actually can't find a way to access this page directly from the site. If it wasn't for ChatGPT, I wouldn't have even known about it.
 
 7:05pm. Let me go have lunch.
+
+11/30/2025
+
+11:05am. https://youtu.be/n5xGsMWEpT8
+How to Develop Winning Trading Strategies (with real-world edge)
+
+I go to bed late, have trouble falling asleep and as a consequence I am having trouble getting started.
+
+But the real problem is that I am having trouble overcoming the inertia. But I am starting to slowly feel *it*.
+
+![](images/image-1696.png)
+
+Alpaca is a wash.
+
+https://www.reddit.com/r/algotrading/comments/1p86jju/which_trading_platforms_should_i_be_looking_into/
+
+I am getting some good advice from u/postTradeCheck.
+
+> My suggestion would be to start with IB because it is the cheapest option. Don’t forget that data is the biggest cost. Lime only if you need to co-locate.
+
+Yes, either way I should open an IB account because I need to park my money somewhere because my bank is giving me near 0 interest on my deposit. I'll get on it tomorrow.
+

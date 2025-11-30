@@ -20636,3 +20636,13 @@ Knowing whether the upcoming day's range is likely to be wide or narrow is a hug
 ![](images/image-1714.png)
 
 A little bit of self promotion.
+
+5:15pm. ![](images/image-1715.png)
+
+I'll leave this for tomorrow. I am just too damn tired to focus anymore. It doesn't matter than I grasp this today. What matters is that I set out on my path.
+
+Let me close here.
+
+I'll take a bath, have lunch, play some games and go to bed. I'll have a busy day tomorrow.
+
+I am back to who I used to be. The period of my life at Tao Ceti was an abberation that is unlikely to repeat itself.

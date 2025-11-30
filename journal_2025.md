@@ -20506,3 +20506,7 @@ Ok, I wasn't exactly sure what I would be doing with Massive today, but these tu
 Let me finally watch the SMB video.
 
 12:10pm. I think I watched this years ago.
+
+![](images/image-1699.png)
+
+He says these have really strong edge.

@@ -20502,3 +20502,5 @@ https://massive.com/blog/tag/tutorial
 Ok, I wasn't exactly sure what I would be doing with Massive today, but these tutorials are a must read.
 
 12pm. I need to kick out the early morning chilling as it takes too much of my time.
+
+Let me finally watch the SMB video.

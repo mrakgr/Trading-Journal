@@ -20489,3 +20489,16 @@ I am getting some good advice from u/postTradeCheck.
 
 Yes, either way I should open an IB account because I need to park my money somewhere because my bank is giving me near 0 interest on my deposit. I'll get on it tomorrow.
 
+11:15am. ![](images/image-1697.png)
+
+Today my focus is going to be on Massive. I am happy to see they have data other than prices. In fact, one of my plans was to look into short interest so I can trade short squeezes on the long side. Since the short side got a lot more riskier, that naturally begs the question whether it would be possible to take advantage of that from the long side.
+
+![](images/image-1698.png)
+
+Oh they have ticker news? That would be super useful!
+
+https://massive.com/blog/tag/tutorial
+
+Ok, I wasn't exactly sure what I would be doing with Massive today, but these tutorials are a must read.
+
+12pm. I need to kick out the early morning chilling as it takes too much of my time.

@@ -20512,3 +20512,9 @@ Let me finally watch the SMB video.
 He says these have really strong edge.
 
 Ok, let me watch this video, read the Massive tutorials and then I am going to start coding. I need to start putting in the work in order to become a successful trader. I am going to break from my usual pattern and start using the computer to help me trade.
+
+> If the market and the IPO market, in particular, are very strong and hot, do IPO that hold above their pricing tend to trend higher on day 1?
+> Hot IPOs that are strong all day one and finish strong, do they have +EV to overnight them for a gap up?
+> In the current markets do excess gap ups tend to get sold off? Essentially inverse of buy the dip, do people now sell the rip?
+
+Let me note these here.

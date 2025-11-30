@@ -20629,3 +20629,10 @@ Let me just skim it.
 Just like I need to start paying attention to the short interest in the stock, I need to start paying attention to what the gamma exposure of the options market makers is because their hedging activities can push the moves further in favor of momentum or dampen it depending whether they are long or short gamma.
 
 Knowing whether the upcoming day's range is likely to be wide or narrow is a huge edge, and I cannot afford not to pay attention to it.
+
+5:10pm. https://www.reddit.com/r/algotrading/comments/1pal8oh/are_there_good_quant_youtubers_out_there/
+
+![](images/image-1713.png)
+![](images/image-1714.png)
+
+A little bit of self promotion.

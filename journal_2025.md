@@ -20526,3 +20526,22 @@ Yeah, before I start there is something I really want to do. I want to be able t
 https://massive.com/blog/short-volume-short-interest-tutorial
 
 Let me just focus on these two articles for now.
+
+![](images/image-1701.png)
+
+> These examples show how elevated short interest, particularly in speculative or narrative-driven stocks, can increase the risk of violent price moves. Monitoring this data using the Short Interest API helps traders and analysts track exposure, spot rising pressure, and prepare for squeeze scenarios before they unfold.
+
+I like violent moves, so I really want to get in on these short squeeze trades. I just need to build a system that can take advantage of them first.
+
+![](images/image-1702.png)
+
+> The insights extracted are made available through a live API, which is updated in real-time with the latest news, enabling timely and relevant financial analysis.
+
+So I wouldn't have to train my own LLM to take advantage of this? Nice.
+
+![](images/image-1703.png)
+
+Mhhh, this analysis isn't very granular. I'd really like to know whether the news is groundbreaking rather than just positive, neutral or negative.
+
+https://massive.com/blog/hunting-anomalies-in-the-stock-market
+

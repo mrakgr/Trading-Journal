@@ -20603,3 +20603,7 @@ Damn, I really don't feel reading the code here right now. Forget the video for 
 4:20pm. ![](images/image-1706.png)
 
 Interesting that they are actually counting the number of trades instead of looking at the volume. I've never seen a screener that'd be able to filter based on that criteria.
+
+4:25pm. ![](images/image-1707.png)
+
+I admit, I had no idea how the z score was calculated until today.

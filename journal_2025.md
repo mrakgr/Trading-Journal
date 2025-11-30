@@ -20570,3 +20570,6 @@ Mike Bellafiore says this and then goes on to explain why.
 
 > There is a tremendous amount of hedging that's going on in gold has nothing to do with people thinking whether gold is going to go up or down.
 
+![](images/image-1705.png)
+
+Scanz. Never heard about this tool before.

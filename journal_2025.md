@@ -20518,3 +20518,11 @@ Ok, let me watch this video, read the Massive tutorials and then I am going to s
 > In the current markets do excess gap ups tend to get sold off? Essentially inverse of buy the dip, do people now sell the rip?
 
 Let me note these here.
+
+12:25pm. ![](images/image-1700.png)
+
+Yeah, before I start there is something I really want to do. I want to be able to create my own screener.
+
+https://massive.com/blog/short-volume-short-interest-tutorial
+
+Let me just focus on these two articles for now.

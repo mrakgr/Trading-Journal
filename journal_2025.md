@@ -20504,3 +20504,5 @@ Ok, I wasn't exactly sure what I would be doing with Massive today, but these tu
 12pm. I need to kick out the early morning chilling as it takes too much of my time.
 
 Let me finally watch the SMB video.
+
+12:10pm. I think I watched this years ago.

@@ -20573,3 +20573,18 @@ Mike Bellafiore says this and then goes on to explain why.
 ![](images/image-1705.png)
 
 Scanz. Never heard about this tool before.
+
+2:55pm. Done with the video. Let me stop here so I can do the chores.
+
+Damn it, why can't I sleep properly? I had good night the first couple of months at Tao Ceti, but now I am struggling again.
+
+I need to make a rule to go to bed at 11pm and obey it. If needed, I should just stop the workday at 4pm to readjust.
+
+Let me do the usual and then I'll do some research into how to create a screener. Then I will resume the Spiral playlist tomorrow.
+
+I also want to open a personal IBKR account tomorrow in anticipation of the trading I will be doing.
+
+1) I need to open a trading account with IBKR.
+2) I need to get moving and make the first proper step as a quant trader.
+
+Once I break the ice, the screeners and the historical backtesting will fall into place. I can leave those for later.

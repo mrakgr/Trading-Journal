@@ -20510,3 +20510,5 @@ Let me finally watch the SMB video.
 ![](images/image-1699.png)
 
 He says these have really strong edge.
+
+Ok, let me watch this video, read the Massive tutorials and then I am going to start coding. I need to start putting in the work in order to become a successful trader. I am going to break from my usual pattern and start using the computer to help me trade.

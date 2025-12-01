@@ -20658,3 +20658,13 @@ This guy is quite something.
 This guy on the other hand...
 
 11:05am. Ok, let me chill and then I will get started. I slept well, but I've had serious difficulty getting out of bed. It feels that I'd do anything to avoid the work.
+
+11:55am. Let me start.
+
+I'll leave opening the IBKR account for later.
+
+1pm. Here is the prob progs book.
+
+https://probmods.org/
+Probabilistic Models of Cognition
+

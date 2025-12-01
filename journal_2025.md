@@ -20646,3 +20646,15 @@ Let me close here.
 I'll take a bath, have lunch, play some games and go to bed. I'll have a busy day tomorrow.
 
 I am back to who I used to be. The period of my life at Tao Ceti was an abberation that is unlikely to repeat itself.
+
+12/1/2025
+
+11am. ![](images/image-1716.png)
+
+This guy is quite something.
+
+![](images/image-1717.png)
+
+This guy on the other hand...
+
+11:05am. Ok, let me chill and then I will get started. I slept well, but I've had serious difficulty getting out of bed. It feels that I'd do anything to avoid the work.

@@ -20888,3 +20888,5 @@ I just cannot get a feel for what Pradeep is talking about. And you know, I can 
 Yeah, I can only get better by doing this so why not go for it?
 
 The main point would be to get familiar with backtesting and visualization, but I would gain from experimenting with momentum systems either way.
+
+6:30pm. I have an idea. I'll open a ticket and ask them to donate those 50 euros to charity. Maybe for CS grads that cannot get a job. That will do the trick. I'll do it in a few weeks.

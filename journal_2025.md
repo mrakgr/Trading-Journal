@@ -20896,3 +20896,225 @@ The main point would be to get familiar with backtesting and visualization, but 
 Or real life for that matter.
 
 I guess it's true that the best drugs are the ones that the brain produces itself.
+
+11:55pm. It occured to me to ask ChatGPT about whether market making is viable for retail.
+
+///
+
+Short answer: **Yes, but only in very specific niches — and usually not in the way people imagine.**
+
+Long answer below.
+
+---
+
+# ✅ **Is Market Making Viable for Retail Traders?**
+
+**In most liquid markets (e.g., US equities, major crypto pairs, futures), true market making is *not* viable for retail.**
+But there *are* narrow circumstances where a small trader can run a profitable market-making–style strategy.
+
+Let’s break it down.
+
+---
+
+# ❌ **Why Market Making Is Generally *Not* Viable for Retail**
+
+### **1. You cannot compete on speed**
+
+Professional market makers (Citadel, Virtu, Jump, Optiver, Two Sigma, etc.) use:
+
+* colocation inside the exchange data center
+* microwave links between Chicago ↔ NY
+* custom FPGA hardware
+* nanosecond-level decision systems
+
+Retail trading platforms are:
+
+* milliseconds to tens of milliseconds slower
+* using internet routing
+* using shared infrastructure
+
+**In modern markets, speed = survival** for a market maker.
+
+If your quote lags by just 1–2 ms, you get:
+
+* **hit only when you're wrong** (toxic flow)
+* **lifted only when the market is moving against you**
+* routinely “run over”
+
+This is fatal for a MM strategy.
+
+---
+
+### **2. You don’t get rebates or cost structure**
+
+Market makers survive because they:
+
+* get rebates (maker fees negative)
+* internalize order flow
+* get payment for liquidity provision
+* have extremely low commissions
+
+Retail has:
+
+* no maker rebates on most brokers
+* higher transaction fees
+* worse margin efficiency
+
+---
+
+### **3. You don’t have the risk models to manage inventory**
+
+True MM requires:
+
+* real-time volatility estimation
+* microstructure models
+* inventory management (hedging)
+* adverse-selection models
+* sometimes options delta-gamma hedging too
+
+Without this, you get run over during volatility bursts.
+
+---
+
+### **4. Retail cannot access high-quality order flow**
+
+Professional MMs **buy** order flow or receive it from brokers routed to them.
+Retail traders cannot do this.
+
+---
+
+# ✔️ So… When *Can* a Small Trader Do Market Making?
+
+There are three realistic niches:
+
+---
+
+## 🟦 **1. Market Making on Illiquid Crypto Altcoins**
+
+This is the most common.
+
+In thin markets on smaller venues:
+
+* spreads are wide
+* competition is much lower
+* speed matters less
+* order flow is less toxic
+
+A small trader can:
+
+* quote wide spreads
+* place pegged limit orders
+* collect spreads on slow-moving markets
+
+**BUT** you must avoid rug pulls, delistings, manipulation, and bot swarms.
+
+---
+
+## 🟩 **2. Market Making on Exotic or Niche Assets**
+
+Examples:
+
+* very illiquid stocks
+* microcaps (dangerous, but possible)
+* low-volume futures
+* specific FX exotic pairs
+* prediction markets (Polymarket, Kalshi)
+* sports markets
+
+Where spreads are wide and competition is low, a small trader can place passive limit orders.
+
+Your edge is:
+
+* **wider spreads**
+* **less toxic flow**
+* **no need for millisecond speed**
+
+But liquidity risk is real: sometimes you’ll never get filled except in bad conditions.
+
+---
+
+## 🟧 **3. “Quasi-Market-Making”**
+
+You don’t make markets in the institutional HFT sense.
+Instead you do:
+
+* **mean-reversion scalp with limit orders**
+* **passive entry + aggressive exit**
+* **spread capture with inventory limits**
+* **small grid strategies**
+
+This is *not* true market making — but it functions similarly:
+
+* you provide liquidity
+* take small edge
+* you avoid being run over with risk limits
+
+This is the only type that many retail traders have been able to make work consistently.
+
+---
+
+# ✔️ What Makes a Market-Making-Like Strategy Work for Retail?
+
+### The recipe:
+
+1. **Trade only slow markets**
+2. **Use limit-only strategies**
+3. **Keep inventory small**
+4. **Use wide spreads**
+5. **Exit or hedge aggressively when wrong**
+6. **Avoid adverse selection at all costs**
+7. **Only trade when volatility & volume are stable**
+8. **Avoid news events entirely**
+
+---
+
+# ❗ Important Warning: Inventory Blowups
+
+A very common failure mode:
+
+* prices drift for hours → you accumulate inventory → sudden move → catastrophe
+
+This is why even “slow MM” needs:
+
+* inventory limits
+* stop-outs
+* volatility filters
+
+Without these, every small MM eventually wipes out.
+
+---
+
+# 🧠 Bottom Line
+
+### **Retail market making is *not viable* in mainstream high-liquidity markets.
+
+But it *can* be viable in small or slow markets with wide spreads and low competition.**
+
+The feasible approach for a small trader is:
+
+* selective liquidity provision
+* slow mean-reversion limit strategies
+* very tight risk management
+
+If you were thinking of “high-speed market making on US equities,” the answer is flat NO.
+
+If you were thinking “quoting in Polymarket binary options” or “slow crypto pairs,” the answer can be YES.
+
+---
+
+If you want, I can outline:
+
+### 👉 A realistic retail-friendly “slow market-making” strategy design
+
+### 👉 How to test for adverse selection in your fills
+
+### 👉 Whether your hardware/broker stack is sufficient
+
+### 👉 How to model inventory risk or estimate toxicity
+
+Just tell me what direction you want to explore.
+
+
+///
+
+The market wizard Jeffrey Neuman made his first million by market making in illiquid small caps, so maybe there could be these kinds of edges out there.

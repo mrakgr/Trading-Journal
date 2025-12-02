@@ -20752,3 +20752,139 @@ What was I even doing for the past two weeks?
 I'll get into it eventually, but I feel that if I want to emulate the early Tao Ceti environment, I need some extra accountability to fool my brain into working.
 
 3:05pm. Ok, let me just put out a few videos and then I will kick it up a notch. I'll look for team mates.
+
+https://youtu.be/wymxC8Je870?t=3686
+
+Mike is talking about TheShortBear. He says that TheShortBear is surprised that the other traders who comment on his videos are the other elite traders instead of internet randos.
+
+3:10pm. https://youtu.be/wymxC8Je870?t=3850
+> If you have important email you want a response to...
+
+I guess he'll give out his secret code here.
+
+> ...it's possible I will miss the first email.
+> Send it again.
+
+Lol, guess not. He says he reached a point where he is getting so many emails that he doesn't have time to answer them all.
+
+4:45pm. https://youtu.be/2MfQ2KCIUWo
+Why it’s so difficult to get a job right now
+
+Done with the exercises and the chores. Let me watch this.
+
+I guess I'll skip programming for today.
+
+I am thinking really hard though, and my sense is that creating these algos is the easy part.
+
+It's just that analyzing the outputs of those algos.
+
+4:50pm. I am simulating things in my head. Yes, I could allocate the arrays, create all the needed functionality on the GPU, pass them in, do the training and so on.
+
+But what the fuck do I do with that?
+
+I want to be able to display a chart, and then along with the price, have the EV be colored in, specific probabilities on hover and so on. Volume at the bottom.
+
+Forget scalping for a moment. Let's say I have a 6 month momentum system. How would I plot the entries and exits?
+
+Does Python have good libraries for financial visualization?
+
+///
+
+Yes — Python has *very good* libraries for financial visualization. In fact, its ecosystem is one of the reasons Python is so widely used in finance, trading, and analytics. ([pyquantnews.com][1])
+
+Here’s a breakdown of what’s available and how they differ 👇
+
+---
+
+## ✅ Popular Python libraries for financial / data visualization
+
+### - **Matplotlib**
+
+* The “classic” plotting library in Python: very flexible and low-level. ([Wikipedia][2])
+* Good for line charts, bar charts, scatter plots, histograms, basic time-series plots — i.e., general-purpose plotting that you can tailor. ([Financial Guidance][3])
+* Because of its flexibility, it’s often the base under more specialized libraries (or under the hood of things like Pandas’ `.plot()`).
+
+### - **Pandas (built-in plotting)**
+
+* Since Pandas is often used to load and preprocess financial data, you can quickly do basic visualizations directly from a DataFrame or Series with `.plot()`. ([MLQ.ai][4])
+* Good for quick exploratory work (e.g., charting “Close” price over time). ([MLQ.ai][4])
+* Limitations: mostly static plots, fewer styling features than dedicated plotting libraries. ([MLQ.ai][4])
+
+### - **Seaborn**
+
+* Built on top of Matplotlib but with a higher-level interface and nicer default “look.” ([GeeksforGeeks][5])
+* Great for statistical visualizations: heatmaps, distributions, regressions, correlations, distributions of returns, etc. ([gpttutorpro.com][6])
+* Works easily with Pandas DataFrames. ([Financial Guidance][3])
+
+### - **Plotly**
+
+* A powerful library for **interactive, web-based** visualizations. ([GeeksforGeeks][5])
+* You can build dashboards, embed plots in web apps, or create shareable interactive charts (e.g. zoomable time series, interactive hover info). ([Financial Guidance][3])
+* Works well for financial data exploration, allowing users to drill down and interact. ([Day Trading][7])
+
+### - **mplfinance** (Matplotlib-based)
+
+* For more “financial chart”-style visualizations: candlestick charts, OHLC (open–high–low–close), volume overlays, etc. ([irjmets.com][8])
+* Enables specialized financial plotting that’s harder to do “from scratch” with Matplotlib. ([irjmets.com][8])
+
+---
+
+## 🌟 Why this is good for finance applications
+
+* **Flexibility & power –** With Matplotlib (and mplfinance), you can draw just about any chart you want, highly customized to your needs.
+* **Ease of use and aesthetics –** Pandas plotting and Seaborn make it easy to get quick, clean, publication-quality charts with minimal code.
+* **Interactivity –** Plotly (and similar libraries) let you build dashboards, interactive charts, web-based reports — extremely valuable for financial analysis, reporting, or sharing with stakeholders.
+* **Ecosystem integration –** These libraries work well with Pandas, NumPy, and other data tools. So you can load data, transform it, compute metrics (e.g. returns, moving averages), and visualize — all in one place. ([people.cs.nott.ac.uk][9])
+
+---
+
+## 🧑‍💻 What they’re used for in practice
+
+| Use case                                                                                      | Recommended libraries                                 |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Quick exploratory plots of stock prices, returns, volume                                      | Pandas `.plot()`, Matplotlib, Seaborn                 |
+| Visualizing distributions, correlations, risk metrics (e.g. returns distribution, volatility) | Seaborn, Matplotlib                                   |
+| Financial charts — candlesticks, OHLC, volume, technical indicators                           | mplfinance, Matplotlib                                |
+| Interactive / dashboard-style reports for clients or stakeholders                             | Plotly (possibly combined with Dash, Streamlit, etc.) |
+| Combination of data analysis + visualization in one environment                               | Pandas → Seaborn / Plotly / Matplotlib                |
+
+---
+
+## ⚠️ Some caveats
+
+* **Learning curve for customization:** Matplotlib (and mplfinance) are extremely flexible, but that means more boilerplate code if you need advanced customization.
+* **Static vs interactive:** Pandas and Seaborn produce static images. If you want interactive charts, you’ll need something like Plotly (or other interactive libs).
+* **Not “finance-only”:** Many of these are general data visualization libraries. For domain-specific tasks (e.g. portfolio analysis, risk metrics visualizations), you may need to build customized functions or supplement with other finance-specific libraries (e.g., technical analysis, portfolio libraries).
+
+---
+
+## ✅ Conclusion — Yes, Python is *very* good for financial visualization
+
+In short: **Python absolutely has excellent libraries for financial visualization**. Whether you want a quick plot, a highly customized financial chart, or a full interactive dashboard for stakeholders — there’s a well-supported library (or combination of libraries) to get the job done.
+
+If you like, I can **recommend a “starter stack” (libraries + sample code)** for financial visualization that works well for someone in your position (assuming you might want to analyze stock data, historical returns, etc.).
+Do you want me to build that starter stack for you now?
+
+[1]: https://www.pyquantnews.com/free-python-resources/financial-data-visualization-with-python-libraries?utm_source=chatgpt.com "Financial Data Visualization with Python Libraries"
+[2]: https://en.wikipedia.org/wiki/Matplotlib?utm_source=chatgpt.com "Matplotlib"
+[3]: https://theamitos.com/data-visualization-with-python/?utm_source=chatgpt.com "Data Visualization With Python: Effective Visuals In Financial Planning & Analysis (FP&A)"
+[4]: https://blog.mlq.ai/python-for-finance-data-visualization/?utm_source=chatgpt.com "Python for Finance: Data Visualization"
+[5]: https://www.geeksforgeeks.org/top-8-python-libraries-for-data-visualization/?utm_source=chatgpt.com "Top 8 Python Libraries for Data Visualization - GeeksforGeeks"
+[6]: https://gpttutorpro.com/visualizing-financial-data-with-matplotlib-and-seaborn-in-python/?utm_source=chatgpt.com "Visualizing Financial Data with Matplotlib and Seaborn in Python"
+[7]: https://www.daytrading.com/python-packages-libraries-finance?utm_source=chatgpt.com "15+ Best Python Packages & Libraries for Finance - DayTrading.com"
+[8]: https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2023/39976/final/fin_irjmets1684859997.pdf?utm_source=chatgpt.com "e-ISSN: 2582-5208"
+[9]: https://people.cs.nott.ac.uk/blaramee/teaching/projects/dissertation/chen24finVis.pdf?utm_source=chatgpt.com "FinanceVis: A Customer-Centric"
+
+///
+
+5:05pm. Yeah, I am going to have to adjust my plans a bit.
+
+Why don't I take it easy, and just play with weekly and daily momentum for a while? If the daytrading system fails me, I'll have to resort to weekly momentum. And when I get big, I'll need it either way.
+
+It's basically the type of system I've been trading since the start of the year, except this time **I am** going to run the statistics. That should give me some confidence either way. Maybe I could even find some swing trading edges in small cap momo stocks?
+
+I just cannot get a feel for what Pradeep is talking about. And you know, I can in fact use the approach I was talking about on longer term timeframes.
+
+Yeah, I can only get better by doing this so why not go for it?
+
+The main point would be to get familiar with backtesting and visualization, but I would gain from experimenting with momentum systems either way.

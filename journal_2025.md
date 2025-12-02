@@ -20890,3 +20890,9 @@ Yeah, I can only get better by doing this so why not go for it?
 The main point would be to get familiar with backtesting and visualization, but I would gain from experimenting with momentum systems either way.
 
 6:30pm. I have an idea. I'll open a ticket and ask them to donate those 50 euros to charity. Maybe for CS grads that cannot get a job. That will do the trick. I'll do it in a few weeks.
+
+11:40pm. Ghostrunner is a 10/10 game. Playing it on hardcore is killing my hands and it's drenching me in sweat, but I swear it's worth it. I can't get these kinds of experiences from drugs.
+
+Or real life for that matter.
+
+I guess it's true that the best drugs are the ones that the brain produces itself.

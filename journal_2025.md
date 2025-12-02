@@ -21118,3 +21118,154 @@ Just tell me what direction you want to explore.
 ///
 
 The market wizard Jeffrey Neuman made his first million by market making in illiquid small caps, so maybe there could be these kinds of edges out there.
+
+11:55pm. Let me get dinner.
+
+https://www.youtube.com/watch?v=aVzFKwyzwM0
+Quant Explains Algorithmic Market-Making
+
+I want to learn a bit about market making from Roman Paolucci.
+
+I need to treat trading more like a job. I failed at that in 2007 - 2014 so I am not going to make the same mistake again. I need to start doing research.
+
+///
+
+**Adverse selection** (in trading and market making) is when **you only get filled when you’re *wrong***.
+
+More formally:
+
+> **Adverse selection is the tendency for your limit orders to be executed disproportionately when informed traders know the price is about to move against you.**
+
+---
+
+# 📌 Intuition
+
+When you place a passive limit order:
+
+* **Buy limit**: you’re hoping price will bounce up afterward.
+* **Sell limit**: you’re hoping price will fall afterward.
+
+But if someone hits your order because they *know* (or infer) the price is about to move through your level, you get filled — and immediately lose money.
+
+This is the core risk of market making.
+
+---
+
+# 📉 Example (Buy Side)
+
+You place a **buy limit at $100**.
+
+Two possible fills:
+
+### ✔️ “Good” fill
+
+A random uninformed seller sells to you.
+Price stays around $100 or rises.
+You captured the spread.
+
+### ❌ “Adverse” fill
+
+A fast trader sees a large buy order hitting the book at $100.05.
+They know the price will move down.
+They quickly sell to your bid at $100 before the drop.
+
+Price drops to $99.80.
+You’re filled *only because the other trader was informed and you were not.*
+
+**You bought exactly when you shouldn’t have.**
+
+That’s adverse selection.
+
+---
+
+# 📉 Example (Sell Side)
+
+You place a **sell limit at $100**.
+
+A fast trader knows aggressive buy flow is coming and price will lift.
+They buy your offer right before the price jumps to $100.20.
+
+You sold when you should not have → you missed 20 cents.
+
+---
+
+# 🔥 Why Adverse Selection Kills Market Makers
+
+Market makers make profits by:
+
+* earning the bid–ask spread
+* collecting maker rebates
+* hedging inventory efficiently
+
+But **adverse selection eats more than the entire spread**.
+
+If your fills are toxic:
+
+* you get filled only when price is about to move
+* your average P&L per trade becomes negative
+* the better you quote, the more you lose
+* your quotes get run over during volatility bursts
+
+Professional MMs invest huge resources in predicting toxicity and cancelling quotes in dangerous moments.
+
+Retail traders can’t do this fast enough in liquid markets.
+
+---
+
+# 🧠 How to Detect Adverse Selection in Your Own Trades
+
+If you want to see whether your limit orders are being adversely selected:
+
+### Compute the **post-fill price drift**:
+
+* Take all your fills.
+* Look at the mid-price 1–5 seconds after fill.
+* If buys tend to see downward drift and sells see upward drift → you are being adversely selected.
+
+This is the standard microstructure test.
+
+---
+
+# 🛡️ How Retail Traders Reduce Adverse Selection
+
+In slow markets:
+
+* quote wide spreads
+* avoid news / volatile periods
+* avoid top-of-book quotes
+* keep inventory tiny
+* cancel aggressively when price moves
+* use mean-reversion signals
+* avoid interacting with HFT-dominated markets
+
+This is why “retail market making” is only viable in *slow or illiquid* niches.
+
+---
+
+# 🧩 Summary
+
+**Adverse selection is the main reason passive limit-order strategies fail.**
+
+It means:
+
+* your fills aren’t random
+* informed traders pick you off
+* your profitable fills disappear
+* your losing fills increase
+* your expected P&L goes negative
+
+It's the core enemy of any market maker.
+
+---
+
+If you want, I can show you:
+
+* how market makers model toxicity
+* how to compute your toxicity in backtesting
+* an example of a simple retail-friendly anti-adverse-selection filter
+
+Just tell me which direction you’d like to go.
+
+///
+
+Let's leave this for later.

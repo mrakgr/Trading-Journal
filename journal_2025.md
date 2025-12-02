@@ -20668,3 +20668,66 @@ I'll leave opening the IBKR account for later.
 https://probmods.org/
 Probabilistic Models of Cognition
 
+12/2/2025
+
+10:20am. My sleep was not as good as last night, but better than 2 days ago.
+
+The early morning anxiety is real.
+
+Let me get started for the day. Today I want to apply for a personal IBKR account.
+
+https://www.reddit.com/r/algotrading/comments/1p8m4td/is_there_a_reason_people_tend_to_use_thirdparty/
+
+Here they are talking about Databento.
+
+10:55am. Done with chilling, let me open that personal account. I'll also close the old corporate one.
+
+11am. Ah crap, I have 49.18 euros on my IBKR account due to interest accruals.
+
+11:10am. No, it seems I fucked up the withdrawal and left that amount there by accident. Ah whatever, I guess I'll withdraw it.
+
+...The widthdraw button isn't working properly. It's getting stuck on loading.
+
+Oh, I see. I think the broker purposely didn't let me withdraw everything.
+
+11:15am. It's not that I messed up the entered amount, it's just that the withdrawal figure wasn't the full amount on my account. Let me call my accountant.
+
+11:20am. Ah fuck. I messed up 3 weeks ago by not closing it outright. Now those 50 euros are in a limbo, and my accountant is asking me to just forget about this if possible.
+
+In order to fix this mistake she'd need to spend a whole day of work, and that'd probably cost me extra 200 euros.
+
+11:30am. I guess I'll just leave that 50 euros there and leave the account instact then.
+
+The problem is that I won't be able to open a corporate IBKR account in the future under the same name.
+
+11:35am. Ah goddamit. This is what not paying attention gets you.
+
+Ok, maybe when I open a personal account I could transfer that 50 euros there and book it as capital gains?
+
+No, it's best to take no risks with the lawmen.
+
+...Agh, forget it, simply forget it. This account doesn't exist. I'll just name the next company something else so there is no confusion. It doesn't have to named Rajnet. I can just name in MG Consulting or something boring like that.
+
+11:40am. Ok, focus. Let me open a new account.
+
+12:25pm. Mhh, what a drag.
+
+12:30pm. I'll wait until the bank account is closed and then open a ticket to close the account. I don't want them to mess up and send me 50 euros by accident.
+
+![](images/image-1718.png)
+
+Ok, now I just have to wait.
+
+To be honest, I have enough money for me to trade. Even if I get a second job, I can just park the money in a money market fund instead of...
+
+No, the funds in Croatia all have stiff penalties for short term trading even money market ones, I am not using Croatian financial products ever.
+
+I'll just have to open a new company under a different name if I cannot close this account.
+
+...Yeah, just forget about the corpo account for a few years.
+
+12:40pm. Let me take a break here. With this out of the way...
+
+It's time to think about the upcoming programming session.
+
+As today shows, it's always a huge annoyance dealing with Interactive Brokers. But they are still the best that I got. I sure as hell won't be parking my money at any other broker. I wouldn't want to put more than 40k at Lime for example.

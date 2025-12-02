@@ -20731,3 +20731,24 @@ I'll just have to open a new company under a different name if I cannot close th
 It's time to think about the upcoming programming session.
 
 As today shows, it's always a huge annoyance dealing with Interactive Brokers. But they are still the best that I got. I sure as hell won't be parking my money at any other broker. I wouldn't want to put more than 40k at Lime for example.
+
+2:15pm. https://youtu.be/wymxC8Je870
+10 Steps to Make Trading a Career
+
+Let me watch this interview with Mike Bellafiore and I'll do the exercises and the chores. Then I will break the ice.
+
+3pm. https://youtu.be/wymxC8Je870?t=3612
+
+Here they are talking about the value of teams and reminded me of Lance talking about finding a pod.
+
+Yeah, I fucking need a kick in the ass.
+
+I've been dragging my heels on starting for so damn long.
+
+I get up late, waste time, do a little work, waste a lot of time during the break like now, and barely do much work for the day.
+
+What was I even doing for the past two weeks?
+
+I'll get into it eventually, but I feel that if I want to emulate the early Tao Ceti environment, I need some extra accountability to fool my brain into working.
+
+3:05pm. Ok, let me just put out a few videos and then I will kick it up a notch. I'll look for team mates.

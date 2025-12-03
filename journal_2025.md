@@ -21367,3 +21367,33 @@ Damn, it's been 3 months since the Tao Ceti job. I had enough time to rest. If I
 * Also try HZZO (health insurance agency) again.
 
 What a drag, but it's better to do this than having to draw down my trading account by 2k every month until the next job comes along.
+
+12:15pm. Ah whatever, let me have breakfast here.
+
+2:55pm. Done with breakfast, exercises and chores.
+
+Let me just catch my breath a bit and then I will resume. In fact, let me do some research whether it's possible to get daily data further into the past.
+
+![](images/image-1719.png)
+
+Oh, it's pay as you go.
+
+![](images/image-1720.png)
+
+This is very expensive though.
+
+![](images/image-1721.png)
+
+Or maybe not. SPY data for the last 5 years is less than a cent.
+
+![](images/image-1722.png)
+
+This is how much it costs for the entire dataset. And they do give 125$ in free credits when signing up. Ok, nevermind this right now. Let me watch Lance's video.
+
+https://youtu.be/VwBNWNaVGeU
+💀 Don't Be Stupid, PLEASE!
+
+https://youtu.be/eaK6yi-d8No
+Stop Using MACD to Plan Your Entries and Exits
+
+Let me just watch these for a bit before I resume.

@@ -21354,3 +21354,5 @@ It gives pretty good advice. Ok, let me dig through the George app.
 10:15am. The stuff about getting the account statement from the George app has been purely halucinated. I had to write an email. At any rate, let me start programming for the day.
 
 Damn, it's been 3 months since the Tao Ceti job. I had enough time to rest. If I want to be a trader, I should take it seriously.
+
+10:20am. In truth, the money isn't even that much of a concern. I just want to see how it feels to actually be successful at this game.

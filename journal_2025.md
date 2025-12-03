@@ -21397,3 +21397,7 @@ https://youtu.be/eaK6yi-d8No
 Stop Using MACD to Plan Your Entries and Exits
 
 Let me just watch these for a bit before I resume.
+
+![](images/image-1723.png)
+
+It honestly feels there might be something to MACD. Not the crossover, but specifically the part where it's deeply green or red and starts turning the other way. I saw a forex trader using it successfully like that for scalp trades.

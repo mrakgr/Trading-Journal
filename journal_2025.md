@@ -21356,3 +21356,14 @@ It gives pretty good advice. Ok, let me dig through the George app.
 Damn, it's been 3 months since the Tao Ceti job. I had enough time to rest. If I want to be a trader, I should take it seriously.
 
 10:20am. In truth, the money isn't even that much of a concern. I just want to see how it feels to actually be successful at this game.
+
+11:55am. Let me just write this down so I don't forget:
+
+* Visit my accountant tomorrow at 10am so I can sign the necessary papers. Don't forget to take the USB stick.
+* Go to the bank to get the bank statement with the Erstebank logo that IBKR needs.
+* Try to close down the Rajnet business account while I am at it.
+* Visit FINA (financial agency) and give them the necessary papers and the data on the USB stick.
+* Visit HZZZ (employment agency) to apply for unemployment again. They work only until 12pm.
+* Also try HZZO (health insurance agency) again.
+
+What a drag, but it's better to do this than having to draw down my trading account by 2k every month until the next job comes along.

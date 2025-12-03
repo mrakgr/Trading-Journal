@@ -21269,3 +21269,88 @@ Just tell me which direction you’d like to go.
 ///
 
 Let's leave this for later.
+
+12:10pm. https://youtu.be/V9Lz8g8Hw0k
+It’s Not an AI Bubble — It’s an OpenAI Bubble.
+
+Jason Shapiro (also a market wizard) is one of the hosts on this podcast. Let me watch this.
+
+12/3/2025
+
+9:50am. I didn't watch it. They started ranting about the tape and I tuned out.
+
+At any rate, I am going to pick up my pace and start putting in the work more consistently.
+
+10am. Ah, it's the same shit again. I need the Erste bank logo on the fucking bank statement. How do I get that? I am not sure. Let me ask ChatGPT.
+
+///
+
+Interactive Brokers mainly needs **proof that the assets are yours and come from a legitimate financial institution**. A missing logo on a bank statement is a *common* issue, especially with banks that use plain PDF exports from online banking.
+
+Here are the approaches that typically work:
+
+### **1. Download the “official” statement version**
+
+Most banks—including Erste—offer two kinds of exports:
+
+* A **transaction export** (CSV/PDF without logo)
+* An **official monthly statement** (PDF with full header, bank name, logo, and account holder)
+
+In Erste’s online banking (George), the official statements are usually found under:
+**Accounts → (select account) → Documents / Statements (Izvadci)**
+These PDFs include the logo and are accepted by IBKR.
+
+### **2. Ask Erste to email or issue an official stamped PDF**
+
+If the digital statement truly lacks a logo:
+
+* Contact Erste via:
+
+  * George “Messages”/secure mail
+  * Branch visit
+    Ask for:
+    **“Potvrda o stanju računa”** or **“Izvod sa službenim logotipom banke”**
+    They can generate a PDF with the bank letterhead.
+
+### **3. Submit the statement anyway + add a note**
+
+IBKR often accepts statements without logos **as long as**:
+
+* Bank name is visible
+* Account holder name is visible
+* Balance is visible
+* PDF metadata shows it’s issued by a bank system
+
+If you upload such a statement, add a short note in the upload box:
+**“This is the official statement as provided by Erste’s online banking platform.”**
+
+Many users report that IBKR approves these.
+
+### **4. Use an alternative document**
+
+IBKR accepts *any* of these for proof of net worth:
+
+* Brokerage statements
+* Savings or investment account statements
+* Pension account statements
+* Bank-issued balance confirmation letters
+* Official confirmations of deposits
+
+If you have an investment account or savings account with a clearer document format, you can use that instead.
+
+---
+
+### **Recommendation**
+
+Start with (1): download the official monthly statement from George → those always include branding.
+If that fails, use (2): ask Erste for a letter or stamped statement.
+
+If you want, you can tell me exactly what format your PDF has, and I can help you figure out whether IBKR will accept it.
+
+///
+
+It gives pretty good advice. Ok, let me dig through the George app.
+
+10:15am. The stuff about getting the account statement from the George app has been purely halucinated. I had to write an email. At any rate, let me start programming for the day.
+
+Damn, it's been 3 months since the Tao Ceti job. I had enough time to rest. If I want to be a trader, I should take it seriously.

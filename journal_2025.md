@@ -21410,3 +21410,4 @@ This guy is really good at tech analysis. This is the first time I saw SPY divid
 
 This guy is a pretty good trader.
 
+3:35pm. Let me resume. I really don't feel like programming, but the interesting thing is that I don't have to do so. I can just let the bots do it for me!

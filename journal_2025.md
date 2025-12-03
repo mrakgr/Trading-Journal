@@ -21401,3 +21401,12 @@ Let me just watch these for a bit before I resume.
 ![](images/image-1723.png)
 
 It honestly feels there might be something to MACD. Not the crossover, but specifically the part where it's deeply green or red and starts turning the other way. I saw a forex trader using it successfully like that for scalp trades.
+
+3:25pm. ![](images/image-1724.png)
+
+This guy is really good at tech analysis. This is the first time I saw SPY divided by the money supply.
+
+![](images/image-1725.png)
+
+This guy is a pretty good trader.
+

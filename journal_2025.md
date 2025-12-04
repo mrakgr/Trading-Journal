@@ -21440,3 +21440,14 @@ Then tomorrow I should aim to make a dent in the weekly momentum system. After I
 What pissed me off the most is the complete lack of skill and control over my equity curve. I just want to be a lot better at trading. In the next week, and by the end of the month, let me get out of the tutorial stage and into real trading, the kind that I couldn't have done back in 2007 - 2014.
 
 Thomas inadvertedly is bailing me out in this trading venture. It would have been a lot more annoying doing all this without the agentic coding tool he introduced me to.
+
+8pm. ![](images/image-1726.png)
+
+Let me check this out.
+
+https://youtu.be/fbPfoH_Iiug
+020 - Perry Kaufman - A Wealth of Experience Trading Diversified Strategies in Futures & Equities
+
+https://www.youtube.com/@AlgoAdvantage/videos
+
+This a good reminder that this channel exists. Forget it for now. I don't feel like watching these.

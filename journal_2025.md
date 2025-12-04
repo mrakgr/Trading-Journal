@@ -21432,3 +21432,11 @@ That will allow me to start at maximum freshness tomorrow. I'll aim to quantize 
 I've worked plenty today even if it wasn't programming. My main goal should be to sleep well, and the best thing I could do to achieve it would be to go to bed earlier.
 
 Then tomorrow I should aim to make a dent in the weekly momentum system. After I've masted weekly and the dailies then I should move to intraday trading. It won't take me too long to get through this thanks to the coding agents helping me.
+
+7:40pm. Finished Ghostrunner on hardcore difficulty. 10/10 game. Now Ghostrunner 2 is waiting for me.
+
+7:45pm. Yeah, I am not really inspired by trading. In 2025 I came up with all these plans, but it feels like I was just getting a shitload of volatility. So I am not interested in weekly momentum anymore.
+
+What pissed me off the most is the complete lack of skill and control over my equity curve. I just want to be a lot better at trading. In the next week, and by the end of the month, let me get out of the tutorial stage and into real trading, the kind that I couldn't have done back in 2007 - 2014.
+
+Thomas inadvertedly is bailing me out in this trading venture. It would have been a lot more annoying doing all this without the agentic coding tool he introduced me to.

@@ -21451,3 +21451,10 @@ https://youtu.be/fbPfoH_Iiug
 https://www.youtube.com/@AlgoAdvantage/videos
 
 This a good reminder that this channel exists. Forget it for now. I don't feel like watching these.
+
+10:40pm. As per deal, I am stopping here for the day.
+
+11:05pm. https://youtu.be/t1lstZIkAE0
+How High Frequency Trading Became “The Most Cutthroat Business!” - Ex-HFT Trader, Annanay Kapila
+
+I won't watch all of this today.

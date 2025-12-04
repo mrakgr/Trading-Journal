@@ -21416,3 +21416,19 @@ This guy is a pretty good trader.
 Very High Win-Rate MACD Scalping Strategy (Simple Trade)
 
 I'll leave this vid for tomorrow. Let me play Ghosthunter hardcore!
+
+12/4/2025
+
+3:20pm. Jesus, I am finally done with the admin stuff. Let me rest a bit and then I will do some coding. Today I went out at 9:35am and only now have I finished all the chores. I haven't even done the exercises.
+
+4:30pm. You I don't feel like doing coding anymore. I need to clean up the data and prep it for backtesting, but let's leave that for tomorrow.
+
+I'll make a deal with myself. I'll stop here now, but in return I'll got to bed at 11am instead of pushing myself to 1pm.
+
+That will allow me to start at maximum freshness tomorrow. I'll aim to quantize the Janus Factor system and the see whether it can improve on the standard momentum rotation strategy.
+
+4:55pm. Time to play Ghostrunner.
+
+I've worked plenty today even if it wasn't programming. My main goal should be to sleep well, and the best thing I could do to achieve it would be to go to bed earlier.
+
+Then tomorrow I should aim to make a dent in the weekly momentum system. After I've masted weekly and the dailies then I should move to intraday trading. It won't take me too long to get through this thanks to the coding agents helping me.

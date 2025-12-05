@@ -21502,3 +21502,11 @@ At any rate, let me finally start for the day. How about I create a proper quant
 ![](images/image-1727.png)
 
 As my last journal entry for the day, let me showcase this. Using ML to filter out losing trades rather than to generate winning trades is an interesting idea.
+
+7pm. https://squeezemetrics.com/monitor/download/pdf/short_is_long.pdf
+
+Oh this is interesting.
+
+![](images/image-1728.png)
+
+Short is long.

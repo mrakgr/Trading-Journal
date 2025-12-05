@@ -21490,3 +21490,9 @@ I'll probably clear $50k to $100k next year, but I don't have the ability to sca
 ///
 
 Cool story. Some people are doing ad arbitrage and clearing 100k per day.
+
+2:10pm. For more context, they are talking about it on a corporate level.
+
+At any rate, let me finally start for the day. How about I create a proper quant momentum system?
+
+2:15pm. Stop reading charts, start cleaning up the data.

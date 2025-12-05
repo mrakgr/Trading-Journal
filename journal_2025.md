@@ -21458,3 +21458,19 @@ This a good reminder that this channel exists. Forget it for now. I don't feel l
 How High Frequency Trading Became “The Most Cutthroat Business!” - Ex-HFT Trader, Annanay Kapila
 
 I won't watch all of this today.
+
+12/5/2025
+
+11:25am. It's not that I am slacking, it's just that I am in rules hell.
+
+I am going stop studying trader interviews completely as those people are all clueless.
+
+Even super profitable traders cannot give me a framework for learning how to trade.
+
+And the challenge of trading is just the same as the challenge of anything else. I need to find the rules.
+
+But I don't quite have the tools for it. I am starting to see that I'll try pushing through with NNs despite everything I said.
+
+Agh, let me chill and then I am going to resume programming. I am going to get the dataset cleaned up and ready for backtesting.
+
+Forget the simulations. I need to learn the power of very simple rules.

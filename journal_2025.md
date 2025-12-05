@@ -21496,3 +21496,9 @@ Cool story. Some people are doing ad arbitrage and clearing 100k per day.
 At any rate, let me finally start for the day. How about I create a proper quant momentum system?
 
 2:15pm. Stop reading charts, start cleaning up the data.
+
+6:50pm. Done for today. I'll give up on the momentum backtest as it requires more discretion than I would have thought. But I'll derive the Janus Factor indicator tomorrow.
+
+![](images/image-1727.png)
+
+As my last journal entry for the day, let me showcase this. Using ML to filter out losing trades rather than to generate winning trades is an interesting idea.

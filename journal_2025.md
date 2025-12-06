@@ -21516,3 +21516,7 @@ Short is long.
 10am. I am up, let me do my morning reading and then I will start.
 
 11:15am. Opened a ticket to close the IB account. With that out of the way let me start my session.
+
+5:40pm. ![](images/image-1729.png)
+
+Let me save the plan for tomorrow here. I don't feel like resuming programming now, after taking the time to read the book again. Wonderful book on momentum trading.

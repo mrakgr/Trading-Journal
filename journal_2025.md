@@ -21520,3 +21520,14 @@ Short is long.
 5:40pm. ![](images/image-1729.png)
 
 Let me save the plan for tomorrow here. I don't feel like resuming programming now, after taking the time to read the book again. Wonderful book on momentum trading.
+
+6:30pm. https://news.ycombinator.com/item?id=46167500
+Perpetual futures, explained (bitsaboutmoney.com)
+
+Interesting thread.
+
+> It's striking how much the crypto world depends on trust in other parties. The whole point of crypto was supposed to be that it was "trustless". But it's not set up that way. All these crypto derivatives are not set up as contracts on a blockchain, with assets locked up until the derivatives settle. They're book entries with some weakly regulated exchange in Outer Nowhere.
+
+![](images/image-1730.png)
+
+Goddamn, I was right that the exchanges were risky after all.

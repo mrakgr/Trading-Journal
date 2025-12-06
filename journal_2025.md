@@ -21510,3 +21510,9 @@ Oh this is interesting.
 ![](images/image-1728.png)
 
 Short is long.
+
+12/6/2025
+
+10am. I am up, let me do my morning reading and then I will start.
+
+11:15am. Opened a ticket to close the IB account. With that out of the way let me start my session.

@@ -21541,3 +21541,11 @@ I didn't think the trial would end so soon.
 Nwm. I'll either get the subscription or ask Thomas for how he can get free mobile numbers. I want to keep using Droid for my trading coding for now.
 
 Let me do my usual morning reading and then I will resume the programming session.
+
+2:30pm. https://news.ycombinator.com/item?id=46181371
+I wasted years of my life in crypto (twitter.com/kenchangh)
+
+> The reality hit me like a fucking truck. I am NOT building a new financial system. I built a casino. A casino that does not call itself a casino, but it is the biggest, online, multi-player 24/7 casino our generation has ever concocted. 
+
+> The normalization of making a quick buck from one another in a zero sum way is not how wealth is made long term. It may seem like it is, but it really isn’t. Being in crypto for 8 years have completely fucked with my ability to identify what is a sustainable business. In crypto, you don’t need a successful business or product to make money. Crypto as an industry has a long tail of high market cap coins, which have zero users.
+

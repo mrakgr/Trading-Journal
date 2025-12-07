@@ -21531,3 +21531,13 @@ Interesting thread.
 ![](images/image-1730.png)
 
 Goddamn, I was right that the exchanges were risky after all.
+
+12/7/2025
+
+10:15am. ![](images/image-1731.png)
+
+I didn't think the trial would end so soon.
+
+Nwm. I'll either get the subscription or ask Thomas for how he can get free mobile numbers. I want to keep using Droid for my trading coding for now.
+
+Let me do my usual morning reading and then I will resume the programming session.

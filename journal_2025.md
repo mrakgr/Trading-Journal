@@ -21565,3 +21565,7 @@ It's out. I am going to skip the intro and outro screens for this playlist as wh
 I don't have the patience to wrestle with the image generators, so I'll pass on using them.
 
 Now let me play Ghostrunner 2. I've been wasting a lot of time today. Tomorrow I am going to get really into it. I want to test the ORB and the VWAP systems.
+
+12:15pm. ![](images/image-1733.png)
+
+He says that if you go to a pro trading firm, this is what you'll see. You'll hardly see any charts.

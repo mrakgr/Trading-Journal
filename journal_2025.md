@@ -21549,3 +21549,19 @@ I wasted years of my life in crypto (twitter.com/kenchangh)
 
 > The normalization of making a quick buck from one another in a zero sum way is not how wealth is made long term. It may seem like it is, but it really isn’t. Being in crypto for 8 years have completely fucked with my ability to identify what is a sustainable business. In crypto, you don’t need a successful business or product to make money. Crypto as an industry has a long tail of high market cap coins, which have zero users.
 
+7:50pm. ![](images/image-1732.png)
+
+If I think about hot vs cold IPOs is similar to hot vs cold breakouts. There is a lot to learn here.
+
+8pm. https://x.com/TheOneLanceB/status/1996673188999344372?s=20
+
+I'll watch his Kyle reaction video later. For some reason the video is having trouble uploading on Youtube.
+
+9pm. https://youtu.be/pUXHImLcoBk
+Creating The Direction Of Momentum Indicator
+
+It's out. I am going to skip the intro and outro screens for this playlist as whatever I tried looks like crap. I tried generating bulls and bears, but they end up looking deformed.
+
+I don't have the patience to wrestle with the image generators, so I'll pass on using them.
+
+Now let me play Ghostrunner 2. I've been wasting a lot of time today. Tomorrow I am going to get really into it. I want to test the ORB and the VWAP systems.

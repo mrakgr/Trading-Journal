@@ -22000,3 +22000,87 @@ Wait, does this platform not support regular stocks? If so I'll pass.
 ![](images/image-1740.png)
 
 Here is a better screenshot.
+
+2:25pm. 
+
+///
+
+That's a smart approach—focusing your platform choice on the market you intend to trade. While Bookmap *does* support equities (you need the right data feed, like Nasdaq TotalView, which is usually a paid add-on), it's good to explore dedicated alternatives.
+
+There are several strong platforms that offer sophisticated order flow and volume analysis similar to Bookmap and are either built for or fully support **equities (stocks)**:
+
+## 📊 Top Bookmap Alternatives for Equity Trading
+
+| Platform | Key Features & Similarity to Bookmap | Primary Focus |
+| :--- | :--- | :--- |
+| **NinjaTrader** | Features the **Order Flow +** suite (paid add-on), which includes the **Market Depth Map** (a heatmap similar to Bookmap) and **Volumetric Bars** (Footprint charts) for detailed execution analysis. | Comprehensive desktop platform, strong tools for **futures** and **stocks**. |
+| **Quantower** | Known for being highly customizable and supporting multiple asset classes. Offers **Cluster Charts** (Footprint), **Volume Profile**, and a **Smart DOM** that is excellent for visualizing order book activity. | Modern, multi-asset platform that excels in **volume analysis** across stocks, futures, and crypto. |
+| **ATAS (Advanced Trading Analytical Software)** | A powerhouse for volume analysis, similar to Deepcharts. Provides over 70 volume analysis tools, including **Footprint charts** (Clusters) and a **Smart DOM**. It supports **global stock exchanges**. | **Deep volume and order flow analysis** with extensive customization. |
+| **Sierra Chart** | Highly respected among professional traders for its speed, stability, and extreme customization. It requires a significant learning curve but offers incredible depth with its volume and order flow tools. | Professional-grade platform for **fast, low-latency analysis** of stocks and futures. |
+| **TrendSpider** | A bit different, as its focus is automated analysis, but it offers proprietary visualizations like **Raindrop Charts** (which break down volume and price) and **Support & Resistance Heatmaps** for a high-level view of liquidity. | **Automated charting** and technical analysis, with unique volume visualizations for stocks. |
+
+---
+
+## 🔍 Key Considerations for Equities
+
+When trading stocks with an order flow tool, remember that US Equities data is fragmented across multiple exchanges (NYSE, NASDAQ, etc.).
+
+1.  **Full Market Depth:** To get the true "heatmap" view of liquidity for a stock (like what Bookmap shows), you need the **full Depth of Market (DOM)** feed, such as **Nasdaq TotalView** or equivalent data from other exchanges. This data is **expensive** compared to standard Level 1 or Level 2 quotes, and you will typically pay a monthly fee for it through your data provider or broker.
+2.  **Order Flow vs. Volume Profile:** Platforms like NinjaTrader, Quantower, and ATAS are excellent at displaying **Volume Profile** (where volume was traded) and **Footprint Charts** (showing aggressive buy/sell volume inside each bar). These tools are very effective for stocks, even if you opt for a less expensive data feed than the full-depth Heatmap data.
+
+If your primary goal is to visualize historical liquidity as a colorful heatmap, **Bookmap** remains the industry gold standard (and it supports equities via data providers like dxFeed). However, if you want a complete, robust trading platform that also includes powerful volume and order flow tools for stocks, **NinjaTrader** or **Quantower** are great starting points.
+
+Would you like me to look into the **specific data feed requirements and costs** for one of these platforms, such as NinjaTrader, for US Equities?
+
+///
+
+I'll keep these in mind, but I'll roll with Bookmap first.
+
+![](images/image-1741.png)
+
+That having said, does NinjaTrader really support equity trading. It doesn't feel like it does.
+
+///
+
+That is a very common point of confusion! You are absolutely right that **NinjaTrader heavily advertises its futures trading services and brokerage**. In fact, their own brokerage arm is **futures-focused**.
+
+However, the **NinjaTrader platform software itself** is designed to be highly versatile and **does support stocks (equities)**, but there is a crucial distinction:
+
+### The Key Distinction: Platform vs. Brokerage
+
+| Component | Asset Class Supported | How Trading is Done |
+| :--- | :--- | :--- |
+| **NinjaTrader Brokerage** | **Futures** (primarily), Options, Forex | You open an account *with* NinjaTrader and trade directly. |
+| **NinjaTrader Platform (The Software)** | **Futures, Options, Forex, CFDs, and STOCKS** | You must **connect a supported third-party stock brokerage** (like Interactive Brokers, TD Ameritrade (now Charles Schwab), etc.) to the NinjaTrader software. |
+
+### How to Trade Stocks on NinjaTrader
+
+To use the powerful order flow and volume tools (like the Order Flow + suite, Volume Profile, and Market Depth Map) on stocks within the NinjaTrader platform, you need to follow these steps:
+
+1.  **Use the NinjaTrader Desktop Platform:** The core software is what provides the advanced charting and volume tools.
+2.  **Select a Third-Party Brokerage:** You cannot use the *NinjaTrader Brokerage* to trade stocks. You must use an external, supported stock broker (e.g., Interactive Brokers is often used for this).
+3.  **Connect the Broker:** You use an add-on or a specific license to connect your third-party stock broker's data feed and trading capabilities into the NinjaTrader platform. This allows you to place stock trades from the NinjaTrader charts/DOM.
+
+### Why They Focus on Futures
+
+NinjaTrader focuses its advertising on futures because:
+
+* **Their own brokerage is futures-only.** This is their primary revenue stream.
+* **Futures have lower capital requirements.** They want to attract day traders who may not have the $25,000 required for pattern day trading (PDT) stocks.
+* **Futures data is simpler.** Futures data is centralized on a single exchange (CME, etc.), making full-depth order flow analysis simpler and less expensive to obtain than the full-depth data required for analyzing fragmented US Equities.
+
+**In summary:** Yes, NinjaTrader is a highly capable platform for stock trading and analysis, but you must use it in conjunction with a **separate, approved stock broker** and the necessary data feed.
+
+Given this, the other platforms mentioned, like **Quantower** and **ATAS**, are often seen as more straightforward for stock traders because they are designed from the ground up to integrate with multiple data providers for all asset classes, including a clear focus on global equities.
+
+Would you prefer to look into **Quantower** or **ATAS** next, since they may offer a more direct path to stock trading with advanced volume tools?
+
+///
+
+![](images/image-1742.png)
+
+Oh Quanttower supports Polygon.
+
+![](images/image-1743.png)
+
+Both Quanttower and ATAS have C# integration. I could create a C# backend for Spiral to help me with this.

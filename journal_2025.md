@@ -22096,6 +22096,8 @@ Simulation, trading and replay. I'll need to make use of Replay.
 3:30pm. https://www.reddit.com/r/algotrading/comments/1pgsphr/algo_only_based_on_orderbook_imbalance_could_it/
 > Try doing this on polymarket, you’d be surprised how inefficient the market is there and you can get a decent infrastructure running for very little
 
+A clue that Polymarket is inefficient as suspected.
+
 ![](images/image-1745.png)
 
 Very interesting thread.
@@ -22112,3 +22114,5 @@ If I go to an even higher tiers, how am I going to visualize the individual trad
 https://bookmap.com/learning-center/en/market-mechanics/bookmap-education-course/trading-order-flow-dom-market-depth-trading
 
 Either way, I do think I should just watch this 4h course.
+
+3:55pm. Done with exercises.

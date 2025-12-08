@@ -22137,3 +22137,7 @@ Yeah, things are slow for me now, but this is how my journey was. I got good at 
 ![](images/image-1748.png)
 
 It's for quants so I might get some use out of it.
+
+4:15pm. ![](images/image-1749.png)
+
+Wait, they develop Bookmap to visualize trades in an HFT trading environment since that is where they were coming from. In other words, shouldn't it be suitable for quant traders then? I forgot about this fact.

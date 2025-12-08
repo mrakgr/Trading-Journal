@@ -22133,3 +22133,7 @@ Bookmap Education Course Part 1 | Trading Order Flow | DOM | Market Depth Tradin
 I think I watched this particular one already, but since I forgot everything by this point let me watch it again.
 
 Yeah, things are slow for me now, but this is how my journey was. I got good at programming, one lesson at a time and one project at a time. I have my own path, and it's not necessarily watching the market tick by tick.
+
+![](images/image-1748.png)
+
+It's for quants so I might get some use out of it.

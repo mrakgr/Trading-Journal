@@ -21990,3 +21990,9 @@ You might want to check out this video that discusses advanced trading using ord
 ///
 
 Ah well, let me just have fun with this.
+
+I might as well take the time to learn. If I knew I was getting a job soon, I'd drop this to focus on longer term momentum trading, but for now let me just roll with it.
+
+![](images/image-1739.png)
+
+Wait, does this platform not support regular stocks? If so I'll pass.

@@ -21939,3 +21939,54 @@ I want to become more like the bucket shop Livermore rather than the trend follo
 A Beginner Guide to Deepcharts™
 
 You know what, why don't I just watch his stuff on the platform he is hyping. I want to understand why they developed it instead of just using Bookmap for example or ATAS.
+
+![](images/image-1738.png)
+
+It costs 130$ months, and only has 3 month subscriptions at the shortest.
+
+2:15pm. 
+
+///
+
+Deepcharts and **Bookmap** are both advanced trading platforms that specialize in **order flow** and **volume analysis** to give traders a more granular view of market dynamics than traditional charting. They are primarily used by day traders and scalpers to gain an edge.
+
+---
+
+## 📈 Core Focus and Visualization
+
+| Feature | Deepcharts (VolBook®) | Bookmap |
+| :--- | :--- | :--- |
+| **Primary Visualization** | **Volume Profile**, **Order Flow Analyzer**, **VolBook®** (market depth heatmap) | **Heatmap** (historical Depth of Market), **Volume Dots/Bubbles** |
+| **Market Depth** | **VolBook®** focuses on market depth as a heatmap, supporting full-depth analysis (over 1000 levels). | **Heatmap** visualizes the historical evolution of the limit order book (liquidity) in real-time. |
+| **Executed Volume** | Features **Volume Profile** (with delta profile) and **Order Flow Analyzer** (combining price, volume, and Time&Sales). | Uses **Volume Dots/Bubbles** directly on the chart to show trade executions and volume delta (aggressive buying/selling). |
+
+---
+
+## 🔬 Key Differentiators
+
+While both platforms aim to provide transparency into market behavior, their presentation and specific toolsets offer slightly different focuses:
+
+* **Bookmap** is highly recognized for its **Heatmap** 
+
+[Image of Bookmap Heatmap visualization]
+ which visualizes the **historical Depth of Market (DOM)**—showing how the order book's liquidity has evolved over time. This makes it excellent for tracking how limit orders are added, pulled, and react to price action. Its visualization is renowned for its smooth, high-frame-rate rendering of real-time market data.
+* **Deepcharts** focuses heavily on **Volume Profile** and its proprietary **VolBook®** feature for market depth analysis. It emphasizes its **Advanced Time&Sales** that aggregates individual prints (market orders) back together, allowing traders to filter and easily see the full extent of actual market orders, which can be useful for identifying the actions of larger traders. Deepcharts also offers a capability for constructing a pseudo profile for analyzing **extended periods**, spanning ten years or more, which Bookmap may not offer for historical *order book* data.
+
+---
+
+## 🛠️ Common Order Flow Tools
+
+Both platforms provide the critical tools needed for professional order flow and volume trading:
+
+* **Order Flow Analysis:** Tools to combine price, volume, and time-and-sales data to identify actions like absorption, exhaustion, and acceleration.
+* **Iceberg Order Detection:** Functionality to spot hidden large orders that are typically executed in smaller parts.
+* **Volume Indicators:** Access to tools like **Cumulative Volume Delta (CVD)**, which tracks the difference between aggressive buying and selling volume.
+* **Trading Execution:** Both generally support direct trading execution from their charts or DOM.
+
+The choice often comes down to personal preference regarding the visual representation of the data and the specific add-ons or markets supported by each platform.
+
+You might want to check out this video that discusses advanced trading using order flow and deep charts: [Advanced Trading with Orderflow and Deep Charts](https://coconote.app/notes/348302ba-29a5-4de1-bcb3-829e15c862ba). This video is relevant as it provides practical context on the application of "deep charts" and order flow tools, which is the specialized domain shared by both Deepcharts and Bookmap.
+
+///
+
+Ah well, let me just have fun with this.

@@ -22105,4 +22105,6 @@ Very interesting thread.
 
 3:35pm. Let me do my shoulder exercises.
 
-Forget discretionary trading for a moment. What I 
+Forget discretionary trading for a moment. Regardless whether I want to go down that path or not, it's true that I need better charts. Especially once I pay for higher tiers of data, it sucks to keep using Plotly to visualize it.
+
+If I go to an even higher tiers, how am I going to visualize the individual trades? I want to see the footprint charts for the Stock In Play.

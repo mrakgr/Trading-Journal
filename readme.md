@@ -11,7 +11,7 @@ This video by Andrea Cimitan lives up to its name. Since Hopfield dictionaries f
 
 ## 10/9/2025
 
-[Bookmap](https://bookmap.com/learning-center/en) has a large number of good tutorials.
+[Bookmap](https://bookmap.com/learning-center/en) has a large number of good tutorials. In particular check the 4 part course starting with the [order flow video](https://youtu.be/3m_Stn4hxCQ).
 
 ## 9/25/2025
 

@@ -22116,3 +22116,13 @@ https://bookmap.com/learning-center/en/market-mechanics/bookmap-education-course
 Either way, I do think I should just watch this 4h course.
 
 3:55pm. Done with exercises.
+
+Ok, let me focus on improving my tech use.
+
+I'll watch those Bookmap course vids. I'll also take the time to get familiar with ATAS and QuantTower.
+
+I need better charts and data visualizations if I am going to be daytrading either way.
+
+Forget replay gaming. Focus on what you're good at which is coding. Get some decent systems in place, then get a job in order to increase the account size.
+
+I regret not doing the Direction Of Entropy indicator. I am going to do that one as well. I might also want to rewrite the codebase in C#. For all I know, it might take the bots a few mins.

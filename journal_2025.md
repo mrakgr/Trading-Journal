@@ -22092,3 +22092,17 @@ Nevermind this. Let me just watch Bookmap vids for a while.
 Simulation, trading and replay. I'll need to make use of Replay.
 
 2:45pm. Let me stop here so I can get some exercise.
+
+3:30pm. https://www.reddit.com/r/algotrading/comments/1pgsphr/algo_only_based_on_orderbook_imbalance_could_it/
+> Try doing this on polymarket, you’d be surprised how inefficient the market is there and you can get a decent infrastructure running for very little
+
+![](images/image-1745.png)
+
+Very interesting thread.
+
+![](images/image-1746.png)
+![](images/image-1747.png)
+
+3:35pm. Let me do my shoulder exercises.
+
+Forget discretionary trading for a moment. What I 

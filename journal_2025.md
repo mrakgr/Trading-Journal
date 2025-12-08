@@ -22394,10 +22394,12 @@ Agh, let me watch this.
 To be honest, it never made sense that pension funds and endowments would be plowing into BTC, which is Logris' version of the story. It makes more sense that dumb gamblers would be plowing money into these companies instead.
 
 ![](images/image-1751.png)
-> An actual CTO said this on an earnings call in all seriousness. And actual adults had to listen to it.
+> An actual CEO said this on an earnings call in all seriousness. And actual adults had to listen to it.
 
 Looollll!
 
 > Without pointing and laughing because that would be rude.
 
 Lel.
+
+Sorry it was a CEO not a CTO.

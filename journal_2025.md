@@ -22408,3 +22408,8 @@ Bookmap Education Course Part 1 | Trading Order Flow | DOM | Market Depth Tradin
 Let me stop here for the day. It's 6pm. I do not feel like it anymore. I'll watch the course tomorrow. I learned a bit today. It turns out that value of Bookmap to me is higher than just allowing me to visualize and replay trade. I could also backtest using it a lot more cheaply than I could with Massive. I'll probably get a subscription to both the platform and the data, but I'll also consider Quantower and ATAS. I haven't looked into them yet.
 
 I'll just take it slowly and let the plan develop on its own. Racing too fast is bound to get me wrecked, even though the time is drawing down.
+
+12:35am. https://youtu.be/kmgziRqBFd0
+The SMB Capital Trader who Builds Bots to Trade for Him
+
+This is an interview with Garret Drinon.

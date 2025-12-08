@@ -22388,3 +22388,7 @@ Weird video. I have no idea what's going on.
 The Infinite Money Glitch is Broken!
 
 Agh, let me watch this.
+
+5pm. According to Patrick, the reason MSTR was going up is because it's a leveraged position on BTC.
+
+To be honest, it never made sense that pension funds and endowments would be plowing into BTC, which is Logris' version of the story. It makes more sense that dumb gamblers would be plowing money into these companies instead.

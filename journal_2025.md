@@ -21844,3 +21844,16 @@ It's easy enough to avoid this shit after it has happened. What I don't understa
 
 I buy breakouts, they do nothing and something else goes up instead. Yeah great.
 
+https://youtu.be/o-w5Gxss6T0
+3 Order-flow Trading Tricks for Beginners
+
+Let me watch this as well and then I will go have breakfast.
+
+12:50pm. Whatever. If I have to pay 200$ to Massive to download the data and then also 150$ to Bookmap and DxFeed then so be it.
+
+I just don't want to pay that before I am ready to start.
+
+12:55pm. https://youtu.be/jasv3L-d8ZE
+Watch me Manage a -10.000$ trading Session
+
+Let me watch this while I have breakfast.

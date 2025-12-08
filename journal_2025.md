@@ -22108,3 +22108,7 @@ Very interesting thread.
 Forget discretionary trading for a moment. Regardless whether I want to go down that path or not, it's true that I need better charts. Especially once I pay for higher tiers of data, it sucks to keep using Plotly to visualize it.
 
 If I go to an even higher tiers, how am I going to visualize the individual trades? I want to see the footprint charts for the Stock In Play.
+
+https://bookmap.com/learning-center/en/market-mechanics/bookmap-education-course/trading-order-flow-dom-market-depth-trading
+
+Either way, I do think I should just watch this 4h course.

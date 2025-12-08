@@ -21996,3 +21996,7 @@ I might as well take the time to learn. If I knew I was getting a job soon, I'd 
 ![](images/image-1739.png)
 
 Wait, does this platform not support regular stocks? If so I'll pass.
+
+![](images/image-1740.png)
+
+Here is a better screenshot.

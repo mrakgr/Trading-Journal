@@ -21569,3 +21569,32 @@ Now let me play Ghostrunner 2. I've been wasting a lot of time today. Tomorrow I
 12:15pm. ![](images/image-1733.png)
 
 He says that if you go to a pro trading firm, this is what you'll see. You'll hardly see any charts.
+
+12/8/2025
+
+10:15am. I need to learn how to tape read.
+
+No doubt about it.
+
+In order to speed that up I should cheat and do it the same way I got good at roguelikes.
+
+I should memorize the dataset.
+
+Get 2k gap up days and learn to trade them without looking at the charts. I could speed up my learning curve significantly by only focusing on the opening hours of the day. I need to watcht he rest of the Bookmap videos. I also need to learn how to build fast screeners.
+
+10:20am. I need to do it all. I need to get better at the game myself, and I need to get more familiar with the quant side of things.
+
+10:50am. https://youtu.be/aursfDVYzUk
+The perfect trade entry with THIS volume analysis!
+
+Let me watch this and Lance's recap.
+
+10:55am. I need to go beyond just making my quant system. I need to become good at trading. The holy grail is to attain the feel for the market. To know when a certain trade is good or not.
+
+I think that instead of playing computer games, I could be better spending that time replaying the market.
+
+But the thing is, I don't actually know how to do that.
+
+I could get all the data by paying 200$/month for the top tier Massive subscription. But is there a platform that could replay the trading day tick by tick? Could Bookmap do that? I should find that out. Let me ask ChatGPT.
+
+Or actually, let me ask Gemini. That seems to be the new hotness.

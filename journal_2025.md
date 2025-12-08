@@ -22383,3 +22383,8 @@ Ultimate Footprint Showdown: ATAS vs. NinjaTrader vs. Quantower
 ![](images/image-1750.png)
 
 Weird video. I have no idea what's going on.
+
+4:50pm. https://youtu.be/fhsrkvEY55s
+The Infinite Money Glitch is Broken!
+
+Agh, let me watch this.

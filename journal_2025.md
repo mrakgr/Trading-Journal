@@ -21934,3 +21934,8 @@ I have to avoid doing something stupid at all costs. I will never get a better c
 ...
 
 I want to become more like the bucket shop Livermore rather than the trend follower Livermore who blew his brains out in the end. Had he used his winnings to become a floor trader, he might have had a much happier life.
+
+2:05pm. https://youtu.be/WSxoKoY8cLI
+A Beginner Guide to Deepcharts™
+
+You know what, why don't I just watch his stuff on the platform he is hyping. I want to understand why they developed it instead of just using Bookmap for example or ATAS.

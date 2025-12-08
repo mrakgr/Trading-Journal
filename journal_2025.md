@@ -21857,3 +21857,10 @@ I just don't want to pay that before I am ready to start.
 Watch me Manage a -10.000$ trading Session
 
 Let me watch this while I have breakfast.
+
+1:05pm. ![](images/image-1736.png)
+
+He is using regular charts for this. Is he looking at the order book somewhere off screen?
+
+1:10pm. Ok, let me stop here for breakfast.
+

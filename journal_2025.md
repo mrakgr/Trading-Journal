@@ -22084,3 +22084,11 @@ Oh Quanttower supports Polygon.
 ![](images/image-1743.png)
 
 Both Quanttower and ATAS have C# integration. I could create a C# backend for Spiral to help me with this.
+
+Nevermind this. Let me just watch Bookmap vids for a while.
+
+![](images/image-1744.png)
+
+Simulation, trading and replay. I'll need to make use of Replay.
+
+2:45pm. Let me stop here so I can get some exercise.

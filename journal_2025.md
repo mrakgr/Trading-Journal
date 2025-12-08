@@ -21930,3 +21930,7 @@ I know that I am supposed to be testing ORB, but I want to come up with a more c
 Churning out code isn't going to help me beat the market. Being smart will.
 
 I have to avoid doing something stupid at all costs. I will never get a better chance to learn to trade than now, so I need to make use of it.
+
+...
+
+I want to become more like the bucket shop Livermore rather than the trend follower Livermore who blew his brains out in the end. Had he used his winnings to become a floor trader, he might have had a much happier life.

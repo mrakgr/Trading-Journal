@@ -21598,3 +21598,249 @@ But the thing is, I don't actually know how to do that.
 I could get all the data by paying 200$/month for the top tier Massive subscription. But is there a platform that could replay the trading day tick by tick? Could Bookmap do that? I should find that out. Let me ask ChatGPT.
 
 Or actually, let me ask Gemini. That seems to be the new hotness.
+
+11am.
+
+///
+
+That's a great question! For developing **intraday scalping** skills, practicing with realistic **tick-by-tick market replay** is essential. You need a platform that accurately recreates the market's movement, including Level 2 data and the Time & Sales tape, which are crucial for high-frequency scalping.
+
+Several professional-grade trading platforms and dedicated simulation tools offer the tick-by-tick market replay feature you're looking for:
+
+## 📊 Platforms with Tick-by-Tick Replay
+
+| Platform | Markets Covered | Key Tick-Level Features | Notes |
+| :--- | :--- | :--- | :--- |
+| **NinjaTrader** | Futures, Forex, Stocks | **Replay Mode** allows you to rewind and trade historical futures market data **tick-by-tick**. Optimized for scalping with features like SuperDOM and ATM strategies. | Excellent for futures scalpers. Offers a free simulated trading mode. |
+| **ProRealTime** | Multi-Asset (Stocks, Futures, Forex, etc.) | Allows **practice trading on past data** with **time frames in ticks**, seconds, minutes, etc. Known for advanced charting and technical analysis tools. | Offers a **Scalping Order Book** interface for speed. |
+| **Forex Tester (and Online)** | Forex, Futures, Stocks, Crypto | A dedicated backtesting/simulator tool. Provides **tick data** for high-precision backtesting and allows you to simulate trades at high speed or slow down the market. | Ideal for manual strategy testing and practice. |
+| **TraderSync** | Stocks, Forex, Futures, Crypto | **Market Replay Simulator** offers high accuracy, with replay of market data down to **250ms ticks**. Includes Level II data replay and Time & Sales visualization. | Primarily a trading journal, with the simulator as a core feature. |
+| **Overcharts** | Multi-Asset | Features **Market Replay** with a **Tick-By-Tick** mode for the most accurate simulation, requiring a professional data feed. Supports simulated trading with all tools (charts, DOM, T&S) simultaneously. | Designed for advanced analysis and simulation. |
+| **Thinkorswim (OnDemand)** | Stocks, Options, Futures, Forex | The **OnDemand** feature allows you to step back in time and replay trading days. It provides **Level 2 data** and **tick-by-tick replay**. | Free to use if you have an account with the broker (TD Ameritrade/Charles Schwab). |
+| **FX Replay** | Forex, Stocks, Crypto | An online backtesting tool that supports testing using **tick data**. Utilizes TradingView's charting technology. | Fully web-based, but some users have reported occasional slow performance. |
+
+---
+
+## 🚀 Why Tick-by-Tick is Crucial for Scalping
+
+Scalping relies on capturing very small price movements (often just a few ticks) and requires extremely fast decision-making and execution. 
+
+* **Accuracy:** Tick-by-tick data ensures that the replay accurately reflects the true price path, unlike minute-bar replays which average out critical, fast movements.
+* **Order Flow Analysis:** Scalpers often rely on **Level 2 data** (Depth of Market - DOM) and the **Time & Sales (The Tape)** window to read real-time order flow and market microstructure. A good tick-by-tick simulator will replay this data accurately, allowing you to train your eye to spot subtle shifts in supply and demand.
+* **Execution Practice:** You can use hotkeys and practice placing trades directly into the simulated market replay environment, which is vital for building the muscle memory needed for live scalping. You can then analyze your execution speed and timing.
+
+For serious practice, look for a platform that offers the most realistic **order book (Level 2/DOM)** and **Time & Sales** replay, as this is where most scalping decisions are made.
+
+If you are looking for a video explanation of market replay, this video covers the different simulators available. [The BEST Stock Market Simulators (Step-by-Step Guide)](https://www.youtube.com/watch?v=5aWoZdbXJrA)
+
+///
+
+https://youtu.be/5aWoZdbXJrA
+The BEST Stock Market Simulators (Step-by-Step Guide)
+
+What about Bookmap? I want to use a platform like it.
+
+///
+
+That's an excellent choice. **Bookmap** is widely regarded as one of the best platforms for high-frequency scalpers and order flow traders, precisely because of its unique visualization of the market's micro-structure.
+
+The good news is that **Bookmap absolutely has the tick-by-tick market replay feature you need.**
+
+### Bookmap's Replay Mode
+
+Bookmap's replay functionality is designed specifically for deep order flow analysis and scalping practice. Here is why it's a top-tier option:
+
+* **Tick-Level Fidelity:** Bookmap's **Replay Mode** allows you to go back to a specific day, time, and even down to the **millisecond** or **nanosecond** level of detail. This accuracy is vital because it ensures you are seeing the market exactly as it unfolded, including the rapid additions, cancellations, and executions of orders.
+* **Heatmap Visualization:** The core value of the replay is seeing the **Heatmap** (the visualization of the limit order book) dynamically evolve. You can watch liquidity levels build up, vanish (spoofing), or get absorbed by aggressive market orders. This trains your eye to read the "intent" of the market.
+* **Order Flow Analysis:** The replay shows the **Volume Bubbles** (executed trades) overlaid on the Heatmap, allowing you to see exactly where large trades occurred relative to visible and hidden liquidity (icebergs).
+* **Practice Trading:** While in Replay Mode, you can often execute **simulated trades** directly into the historical environment, allowing you to practice your scalping entries and exits without risking real capital. You can then review your performance immediately.
+
+### Key Alternatives with Advanced Order Flow Replay
+
+Since you are focusing on a platform *like* Bookmap (meaning advanced order flow and volume analysis), you should also consider these alternatives that offer similar, powerful replay capabilities:
+
+| Platform | Key Order Flow Feature | Replay Mode Detail | Best For |
+| :--- | :--- | :--- | :--- |
+| **Sierra Chart** | Highly customizable **Depth of Market (DOM)** and **Footprint** charts. | Offers extremely precise **tick-by-tick replay** (requires historical data package). | Advanced traders who need maximum customization and deep technical analysis. |
+| **ATAS** | Focuses on **Volume Analysis**, **Footprint Charts**, and **Cluster Analysis**. | Has a dedicated **Market Replay** feature that allows manual backtesting with tick-level accuracy. | Traders focused on volume profile, volume delta, and detailed bar-by-bar analysis. |
+| **NinjaTrader** | Excellent **SuperDOM** (Depth of Market) and the best platform for futures trade execution. | Their **Market Replay** is tick-based and integrated with their advanced strategies (ATMs). | Futures scalpers who need fast, reliable execution and comprehensive strategy automation tools. |
+
+**In summary:** Given your goal of intraday scalping and your interest in Bookmap, its built-in **Replay Mode** is an ideal tool. It provides the necessary **tick-by-tick** accuracy and visualization to master order flow reading, which is the foundation of high-frequency scalping.
+
+Would you like me to find some tutorials or guides on how to set up the Replay Mode in Bookmap for effective scalping practice?
+
+///
+
+I already have a Massive subscription for market data. Will I be able to integrate it with Bookmap?
+
+///
+
+That is a very good question that gets right to the heart of using specialized platforms like Bookmap.
+
+The short answer is **it depends entirely on what "Massive" is and what type of data it provides.**
+
+Bookmap does not automatically connect to *every* data feed. It is designed to work with a specific set of professional-grade providers that supply the deep, tick-by-tick Level 2 (full depth) data it requires to generate the heatmap visualization.
+
+### Key Integration Scenarios
+
+Here is how you can determine if your "Massive" subscription will work:
+
+| Scenario | Explanation | Supported By Bookmap? | Common Providers |
+| :--- | :--- | :--- | :--- |
+| **1. Direct Integration (API/Plugin)** | The data provider/broker has an official adapter or API connection that Bookmap supports directly. | **Yes** (If on the official list) | Rithmic, dxFeed, CQG, OEC, NinjaTrader, specific Crypto Exchanges (Binance, Coinbase, etc.) |
+| **2. Cross-Trading** | Your **trading** is handled by your broker, but Bookmap gets its **market data** from a supported, separate provider (like dxFeed or BookmapData) to visualize the order flow. | **Yes** (Often the recommended approach for full functionality) | Any broker that supports cross-trading functionality (e.g., using Rithmic data in Bookmap to trade on a broker that accepts Rithmic credentials). |
+| **3. Non-Supported API** | "Massive" uses a proprietary API that Bookmap does not have a pre-built adapter for. | **No, not directly.** | In this case, you would need to use Bookmap's own **Layer 0 API** to develop a custom connection yourself, which requires programming skills. |
+
+### 🔍 What to Check Next
+
+To confirm the integration, you need to check two main things:
+
+1.  **Who is "Massive"?** Is it the name of your brokerage account, the data feed vendor, or a third-party service?
+2.  **Does Bookmap officially support it?** You must check the official **Bookmap Connectivity Guide** (or their Knowledge Base) for a list of supported platforms and data feeds.
+
+For futures and stocks, the most commonly supported high-quality feeds that provide the necessary full-depth data are **Rithmic** and **dxFeed**. If your "Massive" subscription is actually a repackaged feed from one of these providers, integration should be straightforward.
+
+**Next Step:**
+
+Could you tell me the **exact name of the data provider or brokerage** that your "Massive" subscription is through? I can then check the official Bookmap compatibility list to give you a definitive answer on whether you can connect it.
+
+///
+
+Lol, it's kind of dumb.
+
+11:15am. https://bookmap.com/en/partner/dxfeed
+
+![](images/image-1734.png)
+
+It doesn't seem like Bookmap supports Massive.
+
+11:20am. 
+
+///
+
+That is an excellent point. It is very common for retail investors to only be familiar with the two "listing" exchanges: **NYSE** and **Nasdaq**.
+
+The key difference to understand is the distinction between a **"Listing Exchange"** and a **"Trading Venue"** (or Exchange).
+
+### 1. Listing Exchange (NYSE and Nasdaq)
+
+These are the primary exchanges where a company initially holds its Initial Public Offering (IPO) and where its stock is officially "listed." They handle the opening and closing auctions.
+
+### 2. Trading Venue (Cboe EDGX, Arca, BZX, etc.)
+
+This is where the vast majority of the day-to-day trading activity actually takes place.
+
+**Cboe EDGX, along with the other 16 U.S. stock exchanges, is a trading venue, not a listing exchange.**
+
+---
+
+## 📈 Which Stocks Trade on Cboe EDGX?
+
+The simple answer is: **Essentially all U.S.-listed stocks.**
+
+1.  **Universal Trading:** Any stock that is listed on the NYSE or Nasdaq (or NYSE American, etc.) is legally tradable across all 16+ active U.S. stock exchanges and various non-exchange venues (like dark pools).
+2.  **EDGX's Role:** Cboe EDGX is one of the four exchanges operated by Cboe (along with BZX, BYX, and EDGA). Together, these venues compete directly with NYSE and Nasdaq for order execution volume in **all U.S.-listed equities.**
+3.  **Liquidity:** If you try to buy a share of Apple (AAPL, listed on Nasdaq) or Disney (DIS, listed on NYSE), your broker's smart order router might send your order to EDGX if it determines that EDGX currently has the best price or the most favorable execution terms at that moment.
+
+### Why You Need EDGX Data for Scalping
+
+As a scalper, the EDGX data you are considering subscribing to via DxFeed is crucial for two reasons:
+
+* **Order Flow:** Cboe EDGX, in particular, is known for its unique **Retail Priority** model and its liquidity structure, making it a major hub for retail and institutional order flow. This means a significant amount of the trading you want to track *tick-by-tick* happens there.
+* **The Full Picture:** No single exchange has all the trading data. To create the most accurate Bookmap heatmap (which shows the true depth of the market), you need data from the venues where the most orders are placed. By combining key exchange feeds, you get a much clearer, real-time view of the full U.S. equities order book.
+
+**In summary:** You never hear about EDGX because it's a **behind-the-scenes competitor** for executing trades, not a famous company listing venue. However, for a scalper using Bookmap, it is one of the most important feeds to have for a complete picture of market order flow.
+
+Does this explanation of the difference between listing exchanges and trading venues clarify why EDGX data is valuable for your scalping strategy?
+
+///
+
+I see, so I'll need EDGX.
+
+11:35am. I am not even sure if RxFeed's subscription would allow me to download the historical data.
+
+https://youtu.be/5aWoZdbXJrA
+The BEST Stock Market Simulators (Step-by-Step Guide)
+
+Let me watch this.
+
+11:40am. ![](images/image-1735.png)
+
+I don't think I can open an account with these. I'll probably have to go through IBKR.
+
+11:45am. Can I download historical data from DxFeed for quant backtesting?
+
+///
+
+This is a common point of confusion for traders moving from manual scalping to quantitative analysis.
+
+The short answer is: **Technically yes, but likely NOT with your Bookmap subscription.**
+
+Data feeds like the one you subscribe to for Bookmap are typically sold as "Display Only" licenses. This means you are licensed to view the data on a screen (charting/replay) but **not** to download, store, or export the raw tick data for external analysis (quant backtesting).
+
+Here is the breakdown of how you can (and cannot) get that data from DxFeed.
+
+### 1. The "Bookmap" DxFeed Subscription (What you likely have)
+* **Can you download data?** No.
+* **Restriction:** The credentials you get for Bookmap are usually "locked" to the Bookmap application. You cannot plug them into a Python script or a separate backtesting engine to download history.
+* **Bookmap API:** Even if you use Bookmap's own Python API, it has restrictions on "dumping" data from third-party feeds like DxFeed due to licensing agreements.
+
+### 2. The "Commercial" DxFeed Historical Data (What you would need)
+* **Can you download data?** Yes.
+* **Method:** DxFeed sells a completely separate product called **Historical Data Services**. You can order specific "extracts" (e.g., "Give me all tick data for AAPL for Jan 2024").
+* **Format:** They can deliver this in CSV, QMD, or access via a specialized API.
+* **Cost:** This is typically expensive. While real-time feeds are ~$40/month, historical tick data extracts are often sold by the month/symbol or via institutional "Data Lake" contracts, which can cost hundreds or thousands of dollars.
+
+### Recommended Alternatives for Quant Backtesting
+If you want to run quant backtests without paying institutional prices, you should look at data vendors that specifically target "Retail Quants" rather than just visual traders.
+
+| Provider | Best For | Notes |
+| :--- | :--- | :--- |
+| **Databento** | Tick-level data (Stocks/Futures) | **Highly Recommended.** They use a "pay as you go" model. You only pay for the data you download (storage), not a monthly flat fee. Excellent Python API. |
+| **Polygon.io** | Stocks/Options | You mentioned using them before ("Massive"). They are actually one of the best for *downloading* historical data via API for backtesting. |
+| **FirstRate Data** | Stocks/Crypto/Futures | They sell "one-off" downloads of historical tick/1-minute data. You pay once and own the CSV files forever. |
+
+**Summary Recommendation:**
+Stick to **DxFeed for Bookmap** to practice your *manual* execution and eye-training (Replay Mode).
+Use a separate, cheaper provider like **Databento** or **Polygon** to download the CSVs you need for your *code-based* quant backtesting.
+
+///
+
+Agh, what a ripoff.
+
+12pm. I am talking to somebody on Reddit, let me just save my replies here.
+
+///
+
+I am in Croatia, so I don't have as much choice as people in other countries. Interactive Brokers is the cheapest, but a person did recommend me Lime Trading and LIghtspeed, when I asked about scalp brokers, so I'll give them a shot eventually, starting with Lime. Lime in particular is advertizing towards quant traders.
+Incidentally, right now I am looking at the Bookmap platform, and it seems their data subscriptions are display only. What a ripoff.
+
+Besides quant trading, I am thinking of getting a platform like Bookmap and then doing replay practice in order to get familiar with reading the tape. The best opportunities are generally in Stocks In 
+Play, so I thought that I'd derive a list of those using my a screener and then go through the relevant days in Bookmap and do paper trading on them. The big benefit of that is that I could home in on the times where the opportunity was greatest. With live trading you have a lot of periods like during midday where nothing is happening. The best moves in stocks generally happen near the open and the close.
+
+It's actually not possible to get a list of Stocks In Play using a platform like TradingView. That one only screens for stocks in the current time, so having the historical data at hand is convenient.
+
+Instead of playing video games, I'd be better off paper trading using replay data.
+
+I am thinking that as an exercise I could try to memorize the dataset. This is a bad thing to do if you're training a ML model, but it might not be a bad idea to do it if you're a human. I am convinced that I need to learn how to read the tape and there is only one way to do it, and that is to get the screen time.
+
+///
+
+12:05pm. Yeah, either way, I need to get a list of stocks in play to test the ORB system. That is a prerequisite for doing replay trading with Bookmap.
+
+12:05pm. Ok, let me watch Lance's reaction and then I might look at some Bookmap videos.
+
+Compared to my time at Tao Ceti, it feels like I am much slower now. I think if I could start paper trading, then maybe that could take the place of games.
+
+12:15pm. https://x.com/TheOneLanceB/status/1996673188999344372?s=20
+
+Let me watch this.
+
+12:20pm. Ok, enough. It very easy to do the kind of analysis Lance is doing here. I know as much that when a stock cracks from 200 to 120 that the odds of the trend resuming are low.
+
+What I don't know is how to take advantage of that insight with minimal risk.
+
+It's easy enough to avoid this shit after it has happened. What I don't understand is how to take advantage of the moves before they happen.
+
+I buy breakouts, they do nothing and something else goes up instead. Yeah great.
+

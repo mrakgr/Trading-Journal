@@ -22126,3 +22126,10 @@ I need better charts and data visualizations if I am going to be daytrading eith
 Forget replay gaming. Focus on what you're good at which is coding. Get some decent systems in place, then get a job in order to increase the account size.
 
 I regret not doing the Direction Of Entropy indicator. I am going to do that one as well. I might also want to rewrite the codebase in C#. For all I know, it might take the bots a few mins.
+
+4pm. https://youtu.be/3m_Stn4hxCQ
+Bookmap Education Course Part 1 | Trading Order Flow | DOM | Market Depth Trading
+
+I think I watched this particular one already, but since I forgot everything by this point let me watch it again.
+
+Yeah, things are slow for me now, but this is how my journey was. I got good at programming, one lesson at a time and one project at a time. I have my own path, and it's not necessarily watching the market tick by tick.

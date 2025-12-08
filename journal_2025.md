@@ -21912,3 +21912,21 @@ Given that you are interested in avoiding the double payment, would you like me 
 ///
 
 So I guess there is no avoiding double paying.
+
+1:55pm. Done with breakfast. Let me read the manga.
+
+I am not sure how far my scalping career will go, but suppose I got a job tomorrow. I could go back to longer term investing via ETFs like I did at the start of the year, except this time with the DOM indicator.
+
+It will help me avoid the bear markets and lower the overall portfolio volatility significantly.
+
+So that is a huge gain that I made.
+
+2pm. ![](images/image-1737.png)
+
+I want to put some effort into understanding Bookmap, ATAS, Deepcharts...
+
+I know that I am supposed to be testing ORB, but I want to come up with a more complete plan of study before I proceed.
+
+Churning out code isn't going to help me beat the market. Being smart will.
+
+I have to avoid doing something stupid at all costs. I will never get a better chance to learn to trade than now, so I need to make use of it.

@@ -22379,3 +22379,7 @@ I see.
 
 https://youtu.be/4JMro0jAOKQ
 Ultimate Footprint Showdown: ATAS vs. NinjaTrader vs. Quantower
+
+![](images/image-1750.png)
+
+Weird video. I have no idea what's going on.

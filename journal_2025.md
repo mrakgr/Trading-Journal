@@ -22571,3 +22571,11 @@ I need to do it right. Everything I'll be doing here will be preparation for the
 I'll leave implementing the probabilistic programming ideas for later.
 
 I need to get some basic screentime, and maybe ideas for a better simulation, one that simulates the order book will come to me. I am already thinking about it, but I don't have any good theories for how that simulation should work.
+
+5:50pm. ![](images/image-1772.png)
+
+He says that the CVD indicator should be singificantly lower for good pullback trades than it is here.
+
+6pm. ![](images/image-1773.png)
+
+I like this chart of the NQ much more than I do the ES. I want to trade the most volatile intruments there are. That's where the easy money is. Assuming I could actually get good enough to get it.

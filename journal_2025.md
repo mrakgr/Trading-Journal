@@ -22553,3 +22553,7 @@ Even though I've been trading for quite a while in 2007 - 2014, I've never sat d
 I was stuck the whole time bashing my head against the wall. I want to give Bookmap a try. It will be expensive entertainment at 200$/month, but I can afford it now.
 
 Trading is a priviledge.
+
+4:50pm. ![](images/image-1771.png)
+
+They have interesting orders here. The escape one pull the limit to towards the liquidity level.

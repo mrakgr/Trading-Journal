@@ -22500,3 +22500,10 @@ Yeah, I've been trying to trade price action all this time, but the information 
 12:55pm. ![](images/image-1763.png)
 
 I think Fabio said in a video yesterday that rejections happen in low volume nodes.
+
+1:10pm. https://youtu.be/Au20OwdAG5s
+Bookmap Education Course Part 3 | Order Flow and Structure
+
+Great videos. I can't wait to try applying this to Stocks In Play.
+
+Let me stop here for breakfast.

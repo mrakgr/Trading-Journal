@@ -22421,3 +22421,7 @@ This is an interview with Garret Drinon.
 ![](images/image-1752.png)
 
 Let me finally start. What is the momentum strategy he mentioned here?
+
+![](images/image-1753.png)
+
+I need to learn from the Bookmap traders. The fact that they are giving such great educational content is making me consider getting the application just for that.

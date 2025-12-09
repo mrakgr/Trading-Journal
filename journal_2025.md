@@ -22453,3 +22453,7 @@ I just don't quite get the trades from that perspective.
 I feel like I am still missing a lot conceptually.
 
 Ok, so knowing the resting orders is valuable. But what about momentum?
+
+![](images/image-1757.png)
+> It doesn't have to be a lack of liquidity for it to be exhaustion.
+

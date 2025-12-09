@@ -22457,3 +22457,8 @@ Ok, so knowing the resting orders is valuable. But what about momentum?
 ![](images/image-1757.png)
 > It doesn't have to be a lack of liquidity for it to be exhaustion.
 
+11:40am. ![](images/image-1758.png)
+
+You know, maybe this wouldn't be a bad arena for me to study ML? Poker was much worse than I anticipated for such a purpose.
+
+I probably bit more than I could chew with it.

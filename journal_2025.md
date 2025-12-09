@@ -22466,3 +22466,10 @@ I probably bit more than I could chew with it.
 > Hi XX, this is part 1 of 4 videos. The ret are available with your Bookmap Global/Global+ subscription. This part 1 videos sets the foundation. The other videos cover market structure, setups, auction market theory, and confluences. Then we have daily BookmapLive webinars and apply this knowledge in the live market. It is not hindsight, we give insight to where price may move next. Plus we have Scott Pulcini and JTrader trade live 2 days a week. This is a rather complete education free with Bookmap Global+.
 
 They have live webinars. I have to watch them. Right now it's QA and I am reading comments, I'll move to the next video soon.
+
+12pm. https://youtu.be/ixo_DoBGYko
+Bookmap Education Course Part 2 | Volume Profile and Microstructure
+
+Finally I resume from a few months ago. Let me watch it for 30m and then it's breakfast time.
+
+I should do my best. There is a lot of room for me to grow in this field. The ceiling is a lot higher than in poker. And unlike in poker I won't be bashing my head against an RL problem. I've learned not to do that anymore.

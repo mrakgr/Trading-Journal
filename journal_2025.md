@@ -22483,3 +22483,7 @@ It's really a pity that I wasted so much time in 2007 - 2014. If I only had thes
 That's life.
 
 But now I have a chance to make it right. Instead of reading those useless charts, I should be studying the historical DOM.
+
+12:20pm. ![](images/image-1760.png)
+
+Hmmmm...This is something to think of. I keep trend following, but short term behavior is more likely to be mean reverting. In real life, you buy when things are cheap and hold off when it's expensive. Why would stocks be any different?

@@ -22429,3 +22429,9 @@ I need to learn from the Bookmap traders. The fact that they are giving such gre
 11:10am. In fact, isn't this the same strategy Andrea Cimitan used. But I think he traded it as a mean reversion setup.
 
 And that would be the Rejection setup.
+
+11:20am. ![](images/image-1754.png)
+
+I absolutely need to code this up. No way will I be able to reach the peak with the primitive momentum model I showed in the intro video. I need to learn more. I need to go further.
+
+I need to believe that work will allow me to succeed.

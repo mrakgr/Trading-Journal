@@ -22435,3 +22435,7 @@ And that would be the Rejection setup.
 I absolutely need to code this up. No way will I be able to reach the peak with the primitive momentum model I showed in the intro video. I need to learn more. I need to go further.
 
 I need to believe that work will allow me to succeed.
+
+![](images/image-1755.png)
+
+V-bottom reversals and pullbacks. I want the reversals. I could never quite figure out the setup Garry Smith used.

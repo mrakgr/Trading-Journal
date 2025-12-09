@@ -22585,3 +22585,17 @@ I like this chart of the NQ much more than I do the ES. I want to trade the most
 I am curious about 0DTEs, so I'll watch some of those. I shouldn't be looking into options right now, but screw it. I should just have fun with this, that is the most important thing.
 
 If I can make trading fun, I'll have no problems making it into the big leagues.
+
+6:20pm. ![](images/image-1775.png)
+
+Egh, it's classic tech analysis.
+
+Is this really a 0DTE course. Let me watch it since it's short.
+
+6:25pm. ![](images/image-1776.png)
+![](images/image-1777.png)
+![](images/image-1778.png)
+
+I'll leave this for after lunch. This 'why I prefer options' screams gambler.
+
+But I am curious about 0DTEs. Is it worth even considering them?

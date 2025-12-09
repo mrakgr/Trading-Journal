@@ -22413,3 +22413,11 @@ I'll just take it slowly and let the plan develop on its own. Racing too fast is
 The SMB Capital Trader who Builds Bots to Trade for Him
 
 This is an interview with Garret Drinon.
+
+12/9/2025
+
+11am. Done chilling.
+
+![](images/image-1752.png)
+
+Let me finally start. What is the momentum strategy he mentioned here?

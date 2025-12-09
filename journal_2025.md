@@ -22552,8 +22552,22 @@ Even though I've been trading for quite a while in 2007 - 2014, I've never sat d
 
 I was stuck the whole time bashing my head against the wall. I want to give Bookmap a try. It will be expensive entertainment at 200$/month, but I can afford it now.
 
-Trading is a priviledge.
+Trading is a privilege.
 
 4:50pm. ![](images/image-1771.png)
 
 They have interesting orders here. The escape one pull the limit to towards the liquidity level.
+
+5:25pm. Had to take a break. Let me finish this up. Then I will pick some more vids to watch and then get to the programming. After that I will dive into replay and simulated trading. I need to get some screentime watching the markets.
+
+I got a little bit of that a couple of weeks ago when I was testing the OBR strategy, but this time I will be watching it in Bookmap through the historical DOM.
+
+5:30pm. I need to make the script to get the stocks in play, and I am going to have to switch from Python to .NET as Python is just so slow when it comes to updating the database.
+
+I'll have to see how I am going to test ORBs. Also how I'll test the VWAP strategy.
+
+I need to do it right. Everything I'll be doing here will be preparation for the actual systems I will be using.
+
+I'll leave implementing the probabilistic programming ideas for later.
+
+I need to get some basic screentime, and maybe ideas for a better simulation, one that simulates the order book will come to me. I am already thinking about it, but I don't have any good theories for how that simulation should work.

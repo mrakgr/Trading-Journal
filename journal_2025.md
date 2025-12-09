@@ -22599,3 +22599,26 @@ Is this really a 0DTE course. Let me watch it since it's short.
 I'll leave this for after lunch. This 'why I prefer options' screams gambler.
 
 But I am curious about 0DTEs. Is it worth even considering them?
+
+6:55pm. ![](images/image-1779.png)
+
+This is what I want. What are the correlations?
+
+7pm. Useless course.
+
+https://youtu.be/MesKru7r-hg
+Martin Shkreli Speaks About How Quants Beat Everyone In the Stock Market
+
+Nevermind this. They are just market making quants he is talking about.
+
+https://bookmap.com/learning-center/en/vwap-avwap-mastery/vwap-avwap-mastery-with-robert-rother/the-4-elements-of-every-successful-trade
+
+Let me watch this for a bit. 
+
+![](images/image-1780.png)
+
+7 months in prison. Lol. Ok, I'll listen to this guy.
+
+7:10pm. ![](images/image-1781.png)
+
+Really? Institutional traders use it as a benchmark?

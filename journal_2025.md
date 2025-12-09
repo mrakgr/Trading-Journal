@@ -22622,3 +22622,11 @@ Let me watch this for a bit.
 7:10pm. ![](images/image-1781.png)
 
 Really? Institutional traders use it as a benchmark?
+
+7:25pm. It's interesting. He is putting anchored VWAPs in places.
+
+7:45pm. Feels fake.
+
+But you know, it like artist trying to teach you how to draw with words. How many of us could teach a robot how to walk for example with just text?
+
+The default state of a human is delusion.

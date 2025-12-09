@@ -22579,3 +22579,9 @@ He says that the CVD indicator should be singificantly lower for good pullback t
 6pm. ![](images/image-1773.png)
 
 I like this chart of the NQ much more than I do the ES. I want to trade the most volatile intruments there are. That's where the easy money is. Assuming I could actually get good enough to get it.
+
+6:10pm. ![](images/image-1774.png)
+
+I am curious about 0DTEs, so I'll watch some of those. I shouldn't be looking into options right now, but screw it. I should just have fun with this, that is the most important thing.
+
+If I can make trading fun, I'll have no problems making it into the big leagues.

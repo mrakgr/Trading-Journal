@@ -22425,3 +22425,7 @@ Let me finally start. What is the momentum strategy he mentioned here?
 ![](images/image-1753.png)
 
 I need to learn from the Bookmap traders. The fact that they are giving such great educational content is making me consider getting the application just for that.
+
+11:10am. In fact, isn't this the same strategy Andrea Cimitan used. But I think he traded it as a mean reversion setup.
+
+And that would be the Rejection setup.

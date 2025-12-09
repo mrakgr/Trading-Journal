@@ -22473,3 +22473,7 @@ Bookmap Education Course Part 2 | Volume Profile and Microstructure
 Finally I resume from a few months ago. Let me watch it for 30m and then it's breakfast time.
 
 I should do my best. There is a lot of room for me to grow in this field. The ceiling is a lot higher than in poker. And unlike in poker I won't be bashing my head against an RL problem. I've learned not to do that anymore.
+
+12:10pm. ![](images/image-1759.png)
+
+To be honest, it's hard for me to differentiate sweeping from regular price action right now. It's not very obvious on this particular chart.

@@ -22487,3 +22487,16 @@ But now I have a chance to make it right. Instead of reading those useless chart
 12:20pm. ![](images/image-1760.png)
 
 Hmmmm...This is something to think of. I keep trend following, but short term behavior is more likely to be mean reverting. In real life, you buy when things are cheap and hold off when it's expensive. Why would stocks be any different?
+
+![](images/image-1761.png)
+> It think the statistic is that I've heard from many traders is if the price goes outside the range, rejects and comes back to the middle of the range, there is an 80% chance that it will test the other side of that range.
+
+12:45pm. ![](images/image-1762.png)
+
+What really sticks out for me is the exhaustion in the middle when it broke down into the previous range. That is such a strong tell. I could take advantage of that.
+
+Yeah, I've been trying to trade price action all this time, but the information in the lower timeframes is just so much richer.
+
+12:55pm. ![](images/image-1763.png)
+
+I think Fabio said in a video yesterday that rejections happen in low volume nodes.

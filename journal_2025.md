@@ -22439,3 +22439,17 @@ I need to believe that work will allow me to succeed.
 ![](images/image-1755.png)
 
 V-bottom reversals and pullbacks. I want the reversals. I could never quite figure out the setup Garry Smith used.
+
+![](images/image-1756.png)
+
+> You would maybe start to anticipate the move back to where it broke from, but this information here, understanding the Depth Of Market would tell you that's not going to happen.
+
+Yeah, it makes sense. There is no way it would just go back through that large resistance level just like that.
+
+The DOM gives you support and resistance levels ahead of time.
+
+I just don't quite get the trades from that perspective.
+
+I feel like I am still missing a lot conceptually.
+
+Ok, so knowing the resting orders is valuable. But what about momentum?

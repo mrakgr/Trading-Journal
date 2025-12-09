@@ -22477,3 +22477,9 @@ I should do my best. There is a lot of room for me to grow in this field. The ce
 12:10pm. ![](images/image-1759.png)
 
 To be honest, it's hard for me to differentiate sweeping from regular price action right now. It's not very obvious on this particular chart.
+
+It's really a pity that I wasted so much time in 2007 - 2014. If I only had these tools, I could have gone a lot further.
+
+That's life.
+
+But now I have a chance to make it right. Instead of reading those useless charts, I should be studying the historical DOM.

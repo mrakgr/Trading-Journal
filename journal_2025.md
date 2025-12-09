@@ -22536,4 +22536,20 @@ Here is the pullback strategy.
 2:55pm. https://youtu.be/tl85HACmwnw
 Bookmap Education Course Part 4 | Confluences and Enhanced Execution
 
-Let me take a break here. I need to the exercises.
+Let me take a break here. I need to do the exercises.
+
+4:20pm. Done with exercises. Let me resume.
+
+4:45pm. ![](images/image-1770.png)
+
+He is going over the reversal trade again. He says it's very little risk. Yeah, I see it.
+
+If I want to be consistently profitable I need to iron out my execution.
+
+With higher timeframe trading, I just don't see any other way to get better than to go full fundamental. And I don't have the resources for that.
+
+Even though I've been trading for quite a while in 2007 - 2014, I've never sat down and watched prices move during the day. I've never daytraded.
+
+I was stuck the whole time bashing my head against the wall. I want to give Bookmap a try. It will be expensive entertainment at 200$/month, but I can afford it now.
+
+Trading is a priviledge.

@@ -22507,3 +22507,13 @@ Bookmap Education Course Part 3 | Order Flow and Structure
 Great videos. I can't wait to try applying this to Stocks In Play.
 
 Let me stop here for breakfast.
+
+2pm. ![](images/image-1764.png)
+
+I think by front-running he means to use limit orders as targets a tick or two below the levels.
+
+2:05pm. ![](images/image-1765.png)
+
+Here is the momentum strategy.
+
+2:10pm. So the difference is that the momo strategy looks for initiated buying, but the reversal strategy looks for exhaustion and pulling of bids and lifting of offers.

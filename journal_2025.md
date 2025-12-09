@@ -22508,12 +22508,32 @@ Great videos. I can't wait to try applying this to Stocks In Play.
 
 Let me stop here for breakfast.
 
-2pm. ![](images/image-1764.png)
+2pm. 
+
+![](images/image-1769.png)
+![](images/image-1764.png)
+
+Here is the reversal strategy.
 
 I think by front-running he means to use limit orders as targets a tick or two below the levels.
 
-2:05pm. ![](images/image-1765.png)
+2:05pm. 
+
+![](images/image-1765.png)
+![](images/image-1768.png)
 
 Here is the momentum strategy.
 
 2:10pm. So the difference is that the momo strategy looks for initiated buying, but the reversal strategy looks for exhaustion and pulling of bids and lifting of offers.
+
+2:20pm. 
+
+![](images/image-1767.png)
+![](images/image-1766.png)
+
+Here is the pullback strategy.
+
+2:55pm. https://youtu.be/tl85HACmwnw
+Bookmap Education Course Part 4 | Confluences and Enhanced Execution
+
+Let me take a break here. I need to the exercises.

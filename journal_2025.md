@@ -22630,3 +22630,7 @@ Really? Institutional traders use it as a benchmark?
 But you know, it like artist trying to teach you how to draw with words. How many of us could teach a robot how to walk for example with just text?
 
 The default state of a human is delusion.
+
+Forget these videos, I am not going to get much more from them. Rather, I need to put in screentime and backtesting effort and find my own way. I already have a model, though I know it's not correct. But it might be useful. I need to start coding it up and then improving upon it.
+
+I'll see whether I can start work on the ORB system tomorrow.

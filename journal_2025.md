@@ -22803,3 +22803,12 @@ But on the bright side, everything is setup. Now I can login into my account fro
 I need this in order to preserve historical trades as they are.
 
 I've gone too far and too fast in the previous video and I need to put things in order first, because all the code that was written is legacy trash half a week after it was written.
+
+9:45pm. ![](images/image-1788.png)
+
+Tom is very insightful, but it will be a struggle to turn their insights into strategies.
+
+https://youtu.be/ODdF0Bn_KSc?t=872
+> There are people who are always against everything at first. And these people should engage in counter trend trading.
+
+You know, I am starting to lean towards it. I've been trying to fit myself into the trend trading framework and it hasn't been working too well for me.

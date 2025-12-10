@@ -22791,3 +22791,15 @@ I'll look into it later.
 3:45pm. Ok, I'll just make the trip to the bank tomorrow with my bro. No big deal.
 
 3:50pm. Let me do the exercises and the chores. I need to do the later before the sun goes down.
+
+5:45pm. Oh, I see. I can in fact activate the mobile authenticator. It failed for me the last time, so I got confused.
+
+6:20pm. Done with lunch. I'll have to leave the programming session for tomorrow.
+
+But on the bright side, everything is setup. Now I can login into my account from my PC without having to reach for the mobile. I printed out the sensitive info on a piece of paper and backend it up physically. I also went to the bank to transfer the money to the brokerage account.
+
+6:45pm. Let me close here. I am already chilling anyway. Today I got started with antigravity and tomorrow I'll start refactoring the codebase and figuring out how to prepare the db for intraday backtesting. In truth, I am not even sure how I'll do the volume scan. I need to figure out how to apply the stock splits without adjusting the intraday prices.
+
+I need this in order to preserve historical trades as they are.
+
+I've gone too far and too fast in the previous video and I need to put things in order first, because all the code that was written is legacy trash half a week after it was written.

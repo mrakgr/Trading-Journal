@@ -22763,3 +22763,15 @@ I'll try it on Linux first.
 Ah, ok.
 
 12:40pm. The installer is just the same as it is for VS Code. It seems that they forked it.
+
+12:45pm. ![](images/image-1787.png)
+
+It's integrated with Chrome? Ah, I give up. I'll just embrace the tech and see where it leads me.
+
+12:50pm. Is Nano Banana Pro any good?
+
+Nwm that. Let me stop here so I can have breakfast.
+
+My goal for today would be to factor some of this out into a library. Preferably in C#, so I am not working with raw SQL.
+
+1:50pm. I just got an email saying that my IB account has been approved. I need to fund it next. How do I transfer money from one account to another? I've never done that before. Last time my accountant did that for me. I suppose I could just ask ChatGPT.

@@ -22753,3 +22753,13 @@ This looks like VS Code. Maybe they forked it?
 ![](images/image-1786.png)
 
 Damn it, I have a lot of these legacy scripts, I forgot what most of it does. This all needs to be refactored. I've worked on the codebase for only a few days and it's already a mess.
+
+12:35pm. https://antigravity.google/download/linux
+
+I'll try it on Linux first.
+
+> To use Antigravity with the Windows Subsystem for Linux, please install Antigravity in Windows and uninstall the Linux version in WSL. You can then use the `antigravity` command in a WSL terminal just as you would in a normal command prompt.
+
+Ah, ok.
+
+12:40pm. The installer is just the same as it is for VS Code. It seems that they forked it.

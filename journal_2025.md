@@ -22749,3 +22749,7 @@ What is this?
 12:30pm. ![](images/image-1785.png)
 
 This looks like VS Code. Maybe they forked it?
+
+![](images/image-1786.png)
+
+Damn it, I have a lot of these legacy scripts, I forgot what most of it does. This all needs to be refactored. I've worked on the codebase for only a few days and it's already a mess.

@@ -22825,3 +22825,17 @@ Being good at programming matters only so much if I cannot use it to conquer wha
 The Coach of Trading Champions: Tom Vorwald
 
 Let me watch this for a bit.
+
+https://youtu.be/AtR_c-B0jw8?t=1175
+
+He things we'll have a 2008 style event in the next few years. The option traders will lose all their money.
+
+We're completely in agreement with this.
+
+Yeah, I do want to try it. That I even suspected counter trend trading was possible was the setups from Tim Sykes. But now I had the chance to learn from Lance. And there are these reversal setups and momentum setups from Bookmap. For breakouts, he says that I need to learn to scalp.
+
+I kept telling myself not to counter trend trade because of the risk of the trend continuing, but if I could really study the capitulations, I could maybe create a strategies that trades with the trend after the move in the opposite direction has exhausted itself. Or after it has been absorbed.
+
+This stategy would suit be as it would be based on sentiment. I wouldn't need to chase the news.
+
+That having said, I do want to learn to trade gap ups and Stocks In Play.

@@ -22741,3 +22741,11 @@ It's pretty popular.
 12:25pm. > In the meanwhile you can try Antigravity from Google, they offer free Opus 4.5 and Gemini 3.0, exactly what you need.
 
 Got this reply from Thomas. He confirmed that they fixed the exploit. Let's try out Antigravity. I was this close to just getting a Claude subscription.
+
+https://antigravity.google/
+
+What is this?
+
+12:30pm. ![](images/image-1785.png)
+
+This looks like VS Code. Maybe they forked it?

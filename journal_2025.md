@@ -22806,9 +22806,17 @@ I've gone too far and too fast in the previous video and I need to put things in
 
 9:45pm. ![](images/image-1788.png)
 
-Tom is very insightful, but it will be a struggle to turn their insights into strategies.
+Tom Vorvald is very insightful, but it will be a struggle to turn their insights into strategies.
 
 https://youtu.be/ODdF0Bn_KSc?t=872
 > There are people who are always against everything at first. And these people should engage in counter trend trading.
 
 You know, I am starting to lean towards it. I've been trying to fit myself into the trend trading framework and it hasn't been working too well for me.
+
+9:50am. Forget trend or counter trend trading. What is at stake here isn't money. It's whether I can come to an understanding of the market. It's whether I can shake of my old self and come closer to rationality with the power of the machines. I want to do it. I have to do it.
+
+It was my dream from the start to get good at the trading game. If I could get the feel, them making money should become easy.
+
+I need to go deeper into it and figure out the correct probabilities for the particular situations. Once that is the case, I will know. 
+
+Being good at programming matters only so much if I cannot use it to conquer whatever I want.

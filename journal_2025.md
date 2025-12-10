@@ -22839,3 +22839,12 @@ I kept telling myself not to counter trend trade because of the risk of the tren
 This stategy would suit be as it would be based on sentiment. I wouldn't need to chase the news.
 
 That having said, I do want to learn to trade gap ups and Stocks In Play.
+
+https://youtu.be/AtR_c-B0jw8?t=1382
+> With the order flow I can feel the moment. With the order flow the timing is much better.
+
+Yeah, I am missing this component.
+
+It's weird. I am bad, but I do have a certain sense for the market, it's just not enough to be profitable.
+
+10:35pm. He talks how in bear markets, the market goes down fast and then goes up fast. I know. I was there in 2008.

@@ -22848,3 +22848,13 @@ Yeah, I am missing this component.
 It's weird. I am bad, but I do have a certain sense for the market, it's just not enough to be profitable.
 
 10:35pm. He talks how in bear markets, the market goes down fast and then goes up fast. I know. I was there in 2008.
+
+https://youtu.be/AtR_c-B0jw8?t=1477
+> Andrea: One of the things I learned from you is speed of order flow.
+> Whether there is a breakout if there is interest or no interest.
+> You're basically following the money.
+> Tom: Easy. It's totally easy.
+
+I know exactly what they mean. I have it planned out. I just need to put it all together in one cohesive plan.
+
+I don't have a good idea for how I'll model order flow as opposed to price momentum.

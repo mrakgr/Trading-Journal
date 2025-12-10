@@ -22634,3 +22634,96 @@ The default state of a human is delusion.
 Forget these videos, I am not going to get much more from them. Rather, I need to put in screentime and backtesting effort and find my own way. I already have a model, though I know it's not correct. But it might be useful. I need to start coding it up and then improving upon it.
 
 I'll see whether I can start work on the ORB system tomorrow.
+
+12/10/2025
+
+11am. Yeah, this is it. I am now feeling the fear. It has made it hard to get out of bed.
+
+I remember how it was when I had decided to start work on Spiral. Long project, uncertain and possibly negative payoff.
+
+It's like that with trading.
+
+I need to overcome it. Let's just put the effort into it.
+
+First of all, let me resurect the Factory account.
+
+11am. He says he creates a new email using: https://mail.tutanota.com
+
+11:10am. Should have done this yesterday as I need to wait a day for approval before I can send or receive emails.
+
+11:15am. I've created an SMSPool account. How do I actually use it?
+
+11:45am. I purchased a number and even got Factory to send me an SMS. But where on SMSPool do I actually see it?
+
+![](images/image-1782.png)
+
+That's piracy for you. Should have just paid the monthly subscription.
+
+12pm. 
+
+///
+
+Yes — there *are* several other “agentic” coding tools similar to Factory.ai (i.e. tools that go beyond simple autocomplete and try to act like autonomous agents: reason about a codebase, generate multi-file changes, refactor, test, etc.). Below are a few of the most notable ones — with some differences in scope, maturity and design philosophy.
+
+## ✅ Notable agentic / “AI-first” coding tools
+
+| Tool                         | What makes it “agentic” / how it compares to Factory-style agents                                                                                                                                                                                                                                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Amp** (by Sourcegraph)     | A “next-gen coding agent built for teams and outcomes” — Amp can perform comprehensive edits, generate code across files, write tests, refactor, and handle complex tasks automatically. It works via CLI or as a VS Code extension. ([webflow.sourcegraph.com][1])                                                                                                    |
+| **Cursor** / **Cursor 2.0**  | Cursor is built from the ground up as an “AI-native” code editor with agentic capabilities: multi-file edits, semantic understanding of the project, refactoring, natural-language instructions, and recently a multi-agent interface (in 2.0) that lets you spin up several parallel agents to work on different parts of a codebase simultaneously. ([Wikipedia][2]) |
+| **Qodo** (formerly CodiumAI) | Qodo emphasizes automated code review, test generation, and repository-wide reasoning rather than just snippet completion. It’s more focused on code quality, CI/CD, and integrating AI agents directly into review and merge workflows. ([Qodo][3])                                                                                                                   |
+| **Devin AI**                 | Devin presents itself as an “AI software developer” — a more autonomous assistant intended to carry out software development tasks, not just code completions. ([Wikipedia][4])                                                                                                                                                                                        |
+
+## 🧠 What counts as “agentic” (vs. regular autocomplete)
+
+The shift that defines “agentic” tools over traditional AI-assistants is roughly this:
+
+* Instead of reacting only to your immediate cursor context or a single request, they **reason about the entire codebase** (or large parts of it). ([AgentHunt.net][5])
+* They allow **multi-step workflows**: plan → code → test → refactor (or propose PRs, apply changes, run tests). ([Medium][6])
+* They strive for **autonomy**: given a high-level goal (e.g. “Add authentication flow”, “Refactor for performance”, “Fix all lint errors”), the agent orchestrates the detailed steps. ([APIpie.ai][7])
+* Integration with version control, CI/CD, testing/validation pipelines, and team workflows (rather than isolated code completions). ([LinkedIn][8])
+
+So if you think of “factory.ai” as offering an “AI-engineer mate” rather than a “smart autocomplete,” these tools are roughly in the same generation — though with different tradeoffs in polish, reliability, and use-cases.
+
+## ⚠️ Tradeoffs & Considerations
+
+While agentic coding tools are powerful, there are caveats:
+
+* Complex changes may still require human oversight — AI agents are not flawless. ([arXiv][9])
+* Some workflows demand more setup and configuration (especially for large repos or teams) to avoid conflicts. ([Premier Solutions][10])
+* Because they operate at a higher “privilege” (editing many files, possibly running tests, interacting with repo/terminal), there are **security and stability concerns**, particularly if prompts or inputs are malicious or ambiguous. ([arXiv][11])
+
+## 🎯 Which one to pick depends on what you want
+
+* If you want **enterprise-grade, repo-wide automation** (PRs, tests, refactors) → Amp or Qodo
+* If you prefer **an IDE experience with agent power and multi-agent flexibility** → Cursor / Cursor 2.0
+* If you’re experimenting with **autonomous agent-style dev assistance** → Devin AI offers a more “all-in” approach
+
+---
+
+If you like — I can **pull up a list of 8–12 of the leading agentic coding tools (2025)** with quick notes on *what they’re best at / when to prefer them*.
+Want me to build that list for you now?
+
+[1]: https://webflow.sourcegraph.com/amp?utm_source=chatgpt.com "Amp - an AI coding agent built by Sourcegraph"
+[2]: https://en.wikipedia.org/wiki/Cursor_%28code_editor%29?utm_source=chatgpt.com "Cursor (code editor)"
+[3]: https://www.qodo.ai/blog/agentic-ai-tools/?utm_source=chatgpt.com "Top 5 Agentic AI Tools for Developers in 2025"
+[4]: https://en.wikipedia.org/wiki/Devin_AI?utm_source=chatgpt.com "Devin AI"
+[5]: https://agenthunt.net/agents/cursor?utm_source=chatgpt.com "Cursor:AI-Powered Code Editor - AgentHunt.net"
+[6]: https://medium.com/%40NeuronicAI/top-5-agentic-ai-coding-assistants-april-2025-apipie-4ae0ea9c5d62?utm_source=chatgpt.com "Top 5 Agentic AI Coding Assistants April 2025 | APIpie | by Neuronic AI | Medium"
+[7]: https://apipie.ai/docs/blog/top-5-agentic-ai-coding-assistants?utm_source=chatgpt.com "Top 5 Agentic AI Coding Assistants April 2025 | APIpie"
+[8]: https://www.linkedin.com/pulse/top-5-agentic-ai-coding-assistants-april-2025-apipie-neuronicaiinc-dayxf?utm_source=chatgpt.com "Top 5 Agentic AI Coding Assistants April 2025 | APIpie"
+[9]: https://arxiv.org/abs/2511.04824?utm_source=chatgpt.com "Agentic Refactoring: An Empirical Study of AI Coding Agents"
+[10]: https://premiersol.live/blog/cursor-2-0-agentic-revolution?utm_source=chatgpt.com "Cursor 2.0: The Rise of Multi-Agent AI Coding"
+[11]: https://arxiv.org/abs/2509.22040?utm_source=chatgpt.com "\"Your AI, My Shell\": Demystifying Prompt Injection Attacks on Agentic AI Coding Editors"
+
+///
+
+Whatever, let me check out some of these other ones. This is a good lesson for me. It feels like I spent 3.2 euros for nothing for that SMSPool account. Piracy used to be cheaper in the old days.
+
+12:05pm. ![](images/image-1783.png)
+
+I suppose I could try out Amp. I like it that they have demand based billing. The trouble with Factory is that their cheapest tier is 20/month and the next tier is 200/month. I don't use them that much.
+
+12:10pm. https://claude.com/product/claude-code
+
+Let me check out Claude Code.

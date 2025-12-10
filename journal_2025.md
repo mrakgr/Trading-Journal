@@ -22867,3 +22867,9 @@ https://youtu.be/AtR_c-B0jw8?t=1935
 > If you can read it you will know you must wait for this point. And if you can wait for this point, when this point is coming you can put a lot of size and it folds like a stone.
 
 It's a pretty interesting interview.
+
+10:55pml. https://youtu.be/AtR_c-B0jw8?t=2092
+
+This story is sick. Crude oil drops 9% and he makes it all back making 200 trades locked inside his office for a day.
+
+He says it was the best trading day in his life. It's like the opposite of revenge trading.

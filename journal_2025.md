@@ -22775,3 +22775,19 @@ Nwm that. Let me stop here so I can have breakfast.
 My goal for today would be to factor some of this out into a library. Preferably in C#, so I am not working with raw SQL.
 
 1:50pm. I just got an email saying that my IB account has been approved. I need to fund it next. How do I transfer money from one account to another? I've never done that before. Last time my accountant did that for me. I suppose I could just ask ChatGPT.
+
+2:10pm. Done with breakfast. Let me setup the secure login and transfer the money.
+
+3:15pm. Oh my god, this is so fucking annoying. I cannot tranfer the money because of the daily limits. I need to go to the bank in order to do it.
+
+And to make matters worse, IB changed the login method again. I can no longer just use 2FA, but instead there is a different way of doing it with the IB key. Why does it make it so difficult to login from desktop?
+
+Also I have no idea how to stop it from logging into my old Rajnet account.
+
+3:35pm. I cleared the cache on my mobile and it's no longer trying to skip the login screen. But I am no longer sure how login from mobile. I could try putting in the username and password, but it takes me a long time to type it in so I don't want to bother with it. Forget it.
+
+I'll look into it later.
+
+3:45pm. Ok, I'll just make the trip to the bank tomorrow with my bro. No big deal.
+
+3:50pm. Let me do the exercises and the chores. I need to do the later before the sun goes down.

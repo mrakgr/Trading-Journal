@@ -22858,3 +22858,12 @@ https://youtu.be/AtR_c-B0jw8?t=1477
 I know exactly what they mean. I have it planned out. I just need to put it all together in one cohesive plan.
 
 I don't have a good idea for how I'll model order flow as opposed to price momentum.
+
+> Tom: It's not possible to localize it with a candlestick chart. You must look a little bit deeper.
+
+https://youtu.be/AtR_c-B0jw8?t=1935
+> In the past when I was together with the hedge fund people I learned reading the books like a professional would in stocks.
+> And if you can read it, you can see the volatility is present, but the big money is out.
+> If you can read it you will know you must wait for this point. And if you can wait for this point, when this point is coming you can put a lot of size and it folds like a stone.
+
+It's a pretty interesting interview.

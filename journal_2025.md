@@ -22820,3 +22820,8 @@ It was my dream from the start to get good at the trading game. If I could get t
 I need to go deeper into it and figure out the correct probabilities for the particular situations. Once that is the case, I will know. 
 
 Being good at programming matters only so much if I cannot use it to conquer whatever I want.
+
+10:15pm. https://youtu.be/AtR_c-B0jw8
+The Coach of Trading Champions: Tom Vorwald
+
+Let me watch this for a bit.

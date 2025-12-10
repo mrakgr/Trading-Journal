@@ -22727,3 +22727,13 @@ I suppose I could try out Amp. I like it that they have demand based billing. Th
 12:10pm. https://claude.com/product/claude-code
 
 Let me check out Claude Code.
+
+https://support.claude.com/en/articles/8602283-about-free-claude-usage
+
+They don't say what the usage limit exactly is.
+
+12:15pm. Ah whatever. Anthropic is in the lead so I might as well give it a try first.
+
+![](images/image-1784.png)
+
+It's pretty popular.

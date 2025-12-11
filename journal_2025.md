@@ -22911,3 +22911,7 @@ Thomas did offer me some cheaper alternatives, but I decided that it's best not 
 Right now, it feels like I am not being very productive since I just spent the day refactoring old code into a library.
 
 I am just hoping that EF Core will be enough to do all the SQL operations that I want, but in truth, Sonnet was so good at SQL that maybe I could just ditch EF Core. It's not nearly as high of a value add as it used to be.
+
+8pm. ![](images/image-1790.png)
+
+Lel, this sub is funny.

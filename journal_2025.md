@@ -22873,3 +22873,41 @@ It's a pretty interesting interview.
 This story is sick. Crude oil drops 9% and he makes it all back making 200 trades locked inside his office for a day.
 
 He says it was the best trading day in his life. It's like the opposite of revenge trading.
+
+7:40pm. ![](images/image-1789.png)
+
+Let me paste the feedback to Thomas here on Antigravity. I just spent an entire day trying it out before exhausting the creds at around 6pm.
+
+///
+
+I just finished a full programming session using Antigravity, and I used it to enough to run out of compute so I have enough experience to form an initial opinion.
+
+What I've been doing today is refactoring those trading related Python scripts into a reusable library in the C# language.
+
+In terms of coding skill, I'd guess that Gemini 3 is decent, though it didn't impress me as much as Sonnet 4 did with its SQL wizardry.
+
+Sometimes during work it got stuck making me feel like Google was throttling me, once it even crashed. Because the pauses were so long, I had to stop and restart it once or twice
+
+At one point when I was trying to populate the db from the CSV entries and try to implement duplication checking it got perplexed and I had to guide it so it keeps a list of files already inserted into the db before it could make progress.
+
+My biggest issue today was that Antigravity is a fork of VSCodium and uses the OVSX repository. That turned out to be an issue because I was programming in C#, and OVSX didn't have the C# extensions on that marketplace! There was an out of date open source one that ended up working after a while, but I thought it wouldn't.
+
+One big problem is the constant interruptions and requests for permission to run the commands in the terminal. After a while I set it to **Always Proceed** in the settings, but the problem is that this didn't take hold!
+
+Anyway, now I am out of creds, and I have to think whether I want to upgrade or not. To be honest, I enjoyed the Droid experience more, I never had the feeling that I was getting throttled with it. One minor gripe is that I don't like the sidebar chat, as it gets in the way of the text box I am using during my screencasts. I like it more in the terminal like Droid did it.
+
+I guess if I wasn't writing .NET code, and I wanted browser integration, Antigravity would be great, but I am thinking of just getting a Claude subscription and being done with it.
+
+My sense is that Anthropic is in the lead, so I might as well give it a try. 20$/month is not that much for me.
+
+A lot of these services have compute refreshes after 5 hours, and in fact that is how long it took me to spend it today on the free tier roughly. I think a paid tier should be enough for a whole day for me.
+
+///
+
+Thomas did offer me some cheaper alternatives, but I decided that it's best not to record myself using hacked accounts, and I am not interested in Chinese models.
+
+7:45pm. Damn, I am tired. Today was a decent programming session. I am looking forward to resuming tomorrow. I have to get through this and start doing research on daytrading systems.
+
+Right now, it feels like I am not being very productive since I just spent the day refactoring old code into a library.
+
+I am just hoping that EF Core will be enough to do all the SQL operations that I want, but in truth, Sonnet was so good at SQL that maybe I could just ditch EF Core. It's not nearly as high of a value add as it used to be.

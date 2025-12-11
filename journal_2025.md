@@ -22915,3 +22915,7 @@ I am just hoping that EF Core will be enough to do all the SQL operations that I
 8pm. ![](images/image-1790.png)
 
 Lel, this sub is funny.
+
+8:35pm. https://www.weavy.com/blog/you-cant-vibe-code-your-way-out-of-a-vibe-coding-mess
+
+The problems in this article don't really happen to me. I generally know when to step back and work harder at attaining understanding.

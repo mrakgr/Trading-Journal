@@ -22964,3 +22964,5 @@ I am noticing that Sonnet doesn't spend any time in thinking mode which I like. 
 I've been thinking on my recent experience and given how insanely good Sonnet was at SQL, it occured to me that the value of a ORM is suddenly much lower. But I don't want to just go with raw SQL so I am not sure what I should be doing. I guess I should take some time to play around.
 
 I am worried that EF Core might not support all the necessary SQL features that I need.
+
+10:15am. What the fuck. Why did VS Code suddenly start lagging as I am writing in this journal. It caused me to misclick and now I am dealing with merge conflicts all of a sudden.

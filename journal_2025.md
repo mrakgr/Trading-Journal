@@ -22966,3 +22966,5 @@ I've been thinking on my recent experience and given how insanely good Sonnet wa
 I am worried that EF Core might not support all the necessary SQL features that I need.
 
 10:15am. What the fuck. Why did VS Code suddenly start lagging as I am writing in this journal. It caused me to misclick and now I am dealing with merge conflicts all of a sudden.
+
+10:25am. Let me start. Time to program. I am starting to look forward to this.

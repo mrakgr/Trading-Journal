@@ -22919,3 +22919,11 @@ Lel, this sub is funny.
 8:35pm. https://www.weavy.com/blog/you-cant-vibe-code-your-way-out-of-a-vibe-coding-mess
 
 The problems in this article don't really happen to me. I generally know when to step back and work harder at attaining understanding.
+
+12/12/2025
+
+9:50am. ![](images/image-1791.png)
+
+Nevermind, Thomas got me a cheap Chinese proxy, but this one is too cheap. It's going to get tedious very fast if I have to keep manually ignore the thinking tags. Let me get the Claude subscription.
+
+I am just wondering whether it would be better to buy the API creds or get the subscription. I'll ask Sonnet.

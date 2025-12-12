@@ -22919,3 +22919,48 @@ Lel, this sub is funny.
 8:35pm. https://www.weavy.com/blog/you-cant-vibe-code-your-way-out-of-a-vibe-coding-mess
 
 The problems in this article don't really happen to me. I generally know when to step back and work harder at attaining understanding.
+
+12/12/2025
+
+9:50am. ![](images/image-1791.png)
+
+Nevermind, Thomas got me a cheap Chinese proxy, but this one is too cheap. It's going to get tedious very fast if I have to keep manually ignoring the thinking tags. Let me get the Claude subscription.
+
+I am just wondering whether it would be better to buy the API creds or get the subscription. I'll ask Sonnet.
+
+///
+
+Great question! The answer really depends on how you plan to use Claude.
+
+**Get the API if:**
+- You're building applications or integrations with Claude
+- You want programmatic access for automation or custom tools
+- Your usage is sporadic or hard to predict
+- You need access to specific models (like Claude Opus 4.1 or Haiku for cheaper tasks)
+- You're okay with pay-as-you-go pricing
+
+**Get the subscription (Pro plan) if:**
+- You mainly want to chat with Claude through the web/mobile interface
+- You use Claude regularly throughout the day
+- You want priority access during high traffic
+- You value the simplicity of unlimited usage for a flat fee
+- You want features like Projects, higher usage limits, and early access to new features
+
+**Cost comparison:**
+The Pro subscription is $20/month for essentially unlimited usage in the chat interface. With the API, Sonnet 4.5 costs about $3 per million input tokens and $15 per million output tokens. If you're having extensive conversations daily, the subscription typically works out cheaper. But if you're making occasional API calls or can optimize for efficiency, API credits might be more economical.
+
+**You can also do both** - many people use the Pro subscription for their regular interactive work and the API for specific automation or development projects.
+
+What's your main use case? That'll help narrow down which makes more sense for you.
+
+///
+
+I am noticing that Sonnet doesn't spend any time in thinking mode which I like. I'll get the sub for a month. I won't do the annual subscription unless I end up using Claude 2 months in a row without interruption.
+
+10am. Ok, I paid 22.5 euros for the monthly subscription.
+
+10:10am. Let me read the Destiny Unchain Online chapter and then I will start. I need to figure out what I want to use for db work.
+
+I've been thinking on my recent experience and given how insanely good Sonnet was at SQL, it occured to me that the value of a ORM is suddenly much lower. But I don't want to just go with raw SQL so I am not sure what I should be doing. I guess I should take some time to play around.
+
+I am worried that EF Core might not support all the necessary SQL features that I need.

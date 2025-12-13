@@ -22968,3 +22968,17 @@ I am worried that EF Core might not support all the necessary SQL features that 
 10:15am. What the fuck. Why did VS Code suddenly start lagging as I am writing in this journal. It caused me to misclick and now I am dealing with merge conflicts all of a sudden.
 
 10:25am. Let me start. Time to program. I am starting to look forward to this.
+
+12/13/2025
+
+9:35pm. I am going to cut game time short today as my stress is far too high.
+
+https://www.reddit.com/r/stocks/comments/1plnhkr/oracle_runs_into_more_trouble_as_bonds_looks_like/
+
+I want to do programming. I am really into Claude Opus 4.5 now.
+
+If it wasn't for Thom giving me a free Chinese key, I'd be ponying up for the 100-200$/month subscriptions.
+
+![](images/image-1792.png)
+
+There is good discussion on this sub.

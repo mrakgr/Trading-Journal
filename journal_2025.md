@@ -22993,3 +22993,9 @@ The video will be up in 9h. Right now it's still processing the HD version.
 6:55pm. https://youtu.be/BDx5i3uvQGw
 Buying a Trading Course is a HUGE Mistake in 2025
 
+7:10pm. https://www.youtube.com/@carmine_rosato
+Carmine Rosato
+
+Order flow trader.
+
+7:15pm. Yeah, I should take a look at some of these guy's live trading sessions. I've been doing way too little of that. In fact, I've never done it.

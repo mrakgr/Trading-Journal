@@ -23014,3 +23014,7 @@ https://youtu.be/YiIUx7fzpaw
 How To Be In The Best Stocks Every Day
 
 I'll leave this for later. Let me play Ghostrunner 2. Or rather, let me just watch the first one for a while.
+
+![](images/image-1793.png)
+
+CLAUDE.md. I need to keep this one in mind.

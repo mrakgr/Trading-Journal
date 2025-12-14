@@ -22989,3 +22989,7 @@ There is good discussion on this sub.
 Screening For Stocks In Play
 
 The video will be up in 9h. Right now it's still processing the HD version.
+
+6:55pm. https://youtu.be/BDx5i3uvQGw
+Buying a Trading Course is a HUGE Mistake in 2025
+

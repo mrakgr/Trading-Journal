@@ -23018,3 +23018,7 @@ I'll leave this for later. Let me play Ghostrunner 2. Or rather, let me just wat
 ![](images/image-1793.png)
 
 CLAUDE.md. I need to keep this one in mind.
+
+12:40am. https://github.com/zslucky/algorithmic_trading_book
+
+Algo trading books from the /biz/ thread.

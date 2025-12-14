@@ -23022,3 +23022,7 @@ CLAUDE.md. I need to keep this one in mind.
 12:40am. https://github.com/zslucky/algorithmic_trading_book
 
 Algo trading books from the /biz/ thread.
+
+https://boards.4chan.org/biz/thread/61489828/quantitative-finance-thread-quant
+
+Maybe I should lurk here in the future?

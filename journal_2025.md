@@ -22982,3 +22982,10 @@ If it wasn't for Thom giving me a free Chinese key, I'd be ponying up for the 10
 ![](images/image-1792.png)
 
 There is good discussion on this sub.
+
+12/14/2025
+
+3:15pm. https://youtu.be/cyfBJMGHJIU
+Screening For Stocks In Play
+
+The video will be up in 9h. Right now it's still processing the HD version.

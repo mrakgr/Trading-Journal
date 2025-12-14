@@ -23003,3 +23003,14 @@ Order flow trader.
 7:35pm. https://youtu.be/sPqeW4j-8Zk
 
 The live trade in this video is actually quite informative. Yes, I constantly see breakouts and breakdowns fail in these flat markets. I wish the market was well behaved and just continues going up and down after a breakout instead of reversing. Trading would be easy if that was the case.
+
+8:05pm. https://youtu.be/0em_ye4WiVU
+Day trading "stocks in play" and momentum | Bryce Edwards
+
+https://youtu.be/edbzOXsdb8M
+The Real Secret to Finding Big Opportunity Stocks (For Day Trading)
+
+https://youtu.be/YiIUx7fzpaw
+How To Be In The Best Stocks Every Day
+
+I'll leave this for later. Let me play Ghostrunner 2. Or rather, let me just watch the first one for a while.

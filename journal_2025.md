@@ -22999,3 +22999,7 @@ Carmine Rosato
 Order flow trader.
 
 7:15pm. Yeah, I should take a look at some of these guy's live trading sessions. I've been doing way too little of that. In fact, I've never done it.
+
+7:35pm. https://youtu.be/sPqeW4j-8Zk
+
+The live trade in this video is actually quite informative. Yes, I constantly see breakouts and breakdowns fail in these flat markets. I wish the market was well behaved and just continues going up and down after a breakout instead of reversing. Trading would be easy if that was the case.

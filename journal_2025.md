@@ -23119,3 +23119,11 @@ These tutorial videos are actually very good. Yeah, it drives me crazy to see go
 This guy is absolutely the real deal.
 
 There is no way I could buy into such an obvious downtrend.
+
+![](images/image-1805.png)
+
+Yeah, high volume breakouts failing are my bane. The reason why I came up with the strategy that I did in the start-mid of the year is because I cannot deal with them.
+
+In fact I got slaughtered paper trading these great looking breakouts last month.
+
+My problems with the market is that with a lot of situations I have no way of dealing them.

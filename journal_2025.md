@@ -23150,3 +23150,7 @@ This is first rate. I can really see the differential between candlestick chart 
 11:30pm. ![](images/image-1808.png)
 
 This gives me something to watch. I actually wouldn't be able to spot the volume delta on the heatmap.
+
+11:40pm. ![](images/image-1809.png)
+
+This is amazing content.

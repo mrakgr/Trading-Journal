@@ -23146,3 +23146,7 @@ But he does say we can see a large aggressive buyer and large passive seller tra
 11:25pm. ![](images/image-1807.png)
 
 This is first rate. I can really see the differential between candlestick chart and DOM now.
+
+11:30pm. ![](images/image-1808.png)
+
+This gives me something to watch. I actually wouldn't be able to spot the volume delta on the heatmap.

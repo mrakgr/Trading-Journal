@@ -23026,3 +23026,13 @@ Algo trading books from the /biz/ thread.
 https://boards.4chan.org/biz/thread/61489828/quantitative-finance-thread-quant
 
 Maybe I should lurk here in the future?
+
+12/15/2025
+
+4:10pm. ![](images/image-1794.png)
+
+Nevermind getting this deal for now.
+
+What I am doing at the moment is thinking through the ORB system. I've also started reading the One Good Trade book by Mike Bellafiore.
+
+Since there is a Bookmap webinar, let me watch it just for a bit. I guess I won't be programming much today.

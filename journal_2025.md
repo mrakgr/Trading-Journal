@@ -23127,3 +23127,12 @@ Yeah, high volume breakouts failing are my bane. The reason why I came up with t
 In fact I got slaughtered paper trading these great looking breakouts last month.
 
 My problems with the market is that with a lot of situations I have no way of dealing them.
+
+11pm. https://youtu.be/tgQC7Dpcc8A?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ
+After 8 Years Of Trading, These Are The BEST Trading Tools I Use
+
+I'll leave this for tomorrow. Let me get dinner. 
+
+Today I finally finished Ghostrunner 2 on hardcode. It was super fun.
+
+Damn, if only I could understand the markets better, I could get somehwere, and this guy is quite a boon. The actual trade examples he shows are gold.

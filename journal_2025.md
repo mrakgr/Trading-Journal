@@ -23108,3 +23108,7 @@ I suppose this makes sense. But wouldn't the same apply to exhaustion?
 ![](images/image-1802.png)
 
 I see. Fabio talked about trapped buyers and sellers.
+
+10:50pm. ![](images/image-1803.png)
+
+These tutorial videos are actually very good. Yeah, it drives me crazy to see good downtrends like these reverse constantly in the S&P. I just have no way of dealing with them.

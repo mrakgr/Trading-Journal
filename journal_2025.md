@@ -23112,3 +23112,10 @@ I see. Fabio talked about trapped buyers and sellers.
 10:50pm. ![](images/image-1803.png)
 
 These tutorial videos are actually very good. Yeah, it drives me crazy to see good downtrends like these reverse constantly in the S&P. I just have no way of dealing with them.
+
+10:50pm. ![](images/image-1804.png)
+> Would you buy this market at this moment right here.
+
+This guy is absolutely the real deal.
+
+There is no way I could buy into such an obvious downtrend.

@@ -23104,3 +23104,7 @@ I don't get it. Does it really matter if prices are moving due to aggressive buy
 10:45pm. ![](images/image-1801.png)
 
 I suppose this makes sense. But wouldn't the same apply to exhaustion?
+
+![](images/image-1802.png)
+
+I see. Fabio talked about trapped buyers and sellers.

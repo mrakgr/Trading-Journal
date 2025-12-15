@@ -23136,3 +23136,9 @@ I'll leave this for tomorrow. Let me get dinner.
 Today I finally finished Ghostrunner 2 on hardcode. It was super fun.
 
 Damn, if only I could understand the markets better, I could get somehwere, and this guy is quite a boon. The actual trade examples he shows are gold.
+
+11:15pm. ![](images/image-1806.png)
+
+Or I could just watch this while I eat. He says he doesn't put much value into resting orders.
+
+But he does say we can see a large aggressive buyer and large passive seller transact as an example.

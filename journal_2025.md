@@ -23100,3 +23100,7 @@ Actually this is kind of decent. I've been thinking the whole day today, and I r
 10:35pm. ![](images/image-1800.png)
 
 I don't get it. Does it really matter if prices are moving due to aggressive buyers or sellers? Maybe it should, but if I ask my self why this would be important I don't understand why at all.
+
+10:45pm. ![](images/image-1801.png)
+
+I suppose this makes sense. But wouldn't the same apply to exhaustion?

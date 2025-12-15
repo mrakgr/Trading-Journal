@@ -23036,3 +23036,34 @@ Nevermind getting this deal for now.
 What I am doing at the moment is thinking through the ORB system. I've also started reading the One Good Trade book by Mike Bellafiore.
 
 Since there is a Bookmap webinar, let me watch it just for a bit. I guess I won't be programming much today.
+
+4:30pm. ![](images/image-1795.png)
+
+Intraday price action here is so confusing.
+
+4:35pm. ![](images/image-1796.png)
+
+Damn, it's really selling off. I wonder what the market internals are like? If I looked at the whole market, I wonder what the volume weighted prices would be like from second to second. What about volume in stocks going up vs volume in stocks going down from second to second? In fact, what I should be looking at is total dollar volume in each of the stocks relative to past second. We could multiply that by the gap.
+
+![](images/image-1797.png)
+
+Yeah, forget this. I am not going to get this approach.
+
+Abnormal volume.
+Abnormal price action.
+Abnormal price cascades.
+Abnormal market breadth.
+Abnormal sentiment.
+Abnormal earnings.
+
+All of this can create an edge. What I am doing with the ORB system is combining first with a little bit of the second.
+
+Lance like to trade price cascades, and I am going to be learning that as well.
+
+Forget reading the S&P. Looking at those Bookmap charts, it still as hard as ever.
+
+I'll focus on mastering the first 3 and then I'll try to figure out the trend days in the market using 4. If I can do that I'll have my business.
+
+If I can get a foothold on the open, I'll bring in probabilistic programming and try to get more nuanced in order to juice my returns. Let me read the One Good Trade book.
+
+I know what I want to do as a trader. I want to bet it all on the power of the abnormal. If I want to take advantage of that, first I need to take a step back and take stock of the market. I will do that by building out the infra needed to act as my eyes and ears.

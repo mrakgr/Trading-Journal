@@ -23079,3 +23079,24 @@ I know what I want to do as a trader. I want to bet it all on the power of the a
 Seriously, fuck this market. I can't believe NVTS crashed down to earth.
 
 These stocks are only good for daytrades. You can't trust a move to develop one bit. Longer term momo trading is such a waste of time.
+
+9:45pm. https://youtu.be/BMJeXCLniws?t=126
+The BEST Volume Profile Trade Setup (Strategy Breakdown)
+
+Interesting breakdown. I still don't understand what makes a good support play vs breakout play. But he gives a hint as to why he wouldn't look for a buy here.
+
+9:55pm. Sigh, these kinds of trades feel like complete nonsense to me.
+
+Does this guy really have an edge?
+
+10pm. https://www.youtube.com/playlist?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ
+
+What about Carmine Rosato?
+
+10:20pm. ![](images/image-1799.png)
+
+Actually this is kind of decent. I've been thinking the whole day today, and I really have to forget regular candlesticks and start thinking in terms of VWAP prices and standard deviations around those points. That is the true chart.
+
+10:35pm. ![](images/image-1800.png)
+
+I don't get it. Does it really matter if prices are moving due to aggressive buyers or sellers? Maybe it should, but if I ask my self why this would be important I don't understand why at all.

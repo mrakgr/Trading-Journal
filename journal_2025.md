@@ -23067,3 +23067,15 @@ I'll focus on mastering the first 3 and then I'll try to figure out the trend da
 If I can get a foothold on the open, I'll bring in probabilistic programming and try to get more nuanced in order to juice my returns. Let me read the One Good Trade book.
 
 I know what I want to do as a trader. I want to bet it all on the power of the abnormal. If I want to take advantage of that, first I need to take a step back and take stock of the market. I will do that by building out the infra needed to act as my eyes and ears.
+
+5:20pm. > I would label Z the most consistent trader at our firm but that would not be painting the most precise picture. Z is like the Joe DiMaggio of trading, the legendary Yankee great who holds the record for consecutive games with at least one hit, and even that lasted only 56 games. As I write this book, Mush has not had a negative trading day in the last two years. That’s 500 or more straight trading days. I guess that is how we derived his nickname Z$. I’m not always sure how these names get started, but this one is par for the course.
+
+500 trading days in a row profitable? Wow.
+
+6:40pm. I am through 36% of the book. I'll leave it for later.
+
+![NVTS](images/image-1798.png)
+
+Seriously, fuck this market. I can't believe NVTS crashed down to earth.
+
+These stocks are only good for daytrades. You can't trust a move to develop one bit. Longer term momo trading is such a waste of time.

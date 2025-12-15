@@ -23142,3 +23142,7 @@ Damn, if only I could understand the markets better, I could get somehwere, and 
 Or I could just watch this while I eat. He says he doesn't put much value into resting orders.
 
 But he does say we can see a large aggressive buyer and large passive seller transact as an example.
+
+11:25pm. ![](images/image-1807.png)
+
+This is first rate. I can really see the differential between candlestick chart and DOM now.

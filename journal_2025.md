@@ -23202,3 +23202,14 @@ But the DOM tells you where to actually go long.
 The system I'd make would probably be flat here.
 
 10am. Carmine Rosato completely destroyed the momentum system that I'd proposed in the intro video. There is no fucking point anymore. I need a system that could read the order flow.
+
+![](images/image-1815.png)
+> Would you long this, or would you short this?
+
+It's smack dab in the middle of the range of a very flat market. I'd do neither.
+
+![](images/image-1816.png)
+
+Damn it, how do I read the table on the right side? At any rate, this is amazing insight.
+
+He is actually doing what I dreamed about which is using his reason to find good trades.

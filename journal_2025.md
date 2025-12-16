@@ -23221,3 +23221,10 @@ How To Use Support and Resistance the RIGHT Way
 
 Support and resistance is probably the concept I understand the least after 6 years of trading, so I've been looking forward to this video.
 
+11am. ![](images/image-1818.png)
+
+Based trader.
+
+![](images/image-1819.png)
+
+Yeah, I've been reading charts for years, so I know that buying breakouts in SP 500 doesn't work, but I couldn't really figure out the opposite strategy either. It ended up putting me in a difficult ambiguous position.

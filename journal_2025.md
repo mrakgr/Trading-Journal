@@ -23244,3 +23244,8 @@ Yeah, this is would for me.
 > Carmine, what is it that makes you click the buy or sell button.
 
 10/10 series so far. I love it when people just give me a completely new way of thinking.
+
+12pm. ![](images/image-1823.png)
+> Would you take the long when the market looks like this?
+
+Absolutely not according to the momentum system that I proposed in the first video of the Building The Trading Edge series.

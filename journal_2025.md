@@ -23228,3 +23228,10 @@ Based trader.
 ![](images/image-1819.png)
 
 Yeah, I've been reading charts for years, so I know that buying breakouts in SP 500 doesn't work, but I couldn't really figure out the opposite strategy either. It ended up putting me in a difficult ambiguous position.
+
+11:10am. https://youtu.be/w7tvJCuZAq8?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ
+You've Been Using Volume WRONG This Whole Time...
+
+![](images/image-1820.png)
+
+Yeah, high volume breakouts are my bane.

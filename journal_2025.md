@@ -23319,3 +23319,13 @@ I really am not a good fit for a trader, so it's no wonder I couldn't win back t
 What was keeping me from profits was my comprehension. I put myself in a bad position to get it, and the rest was history. Strong determination won't help me if it's not applied in the right place.
 
 Yeah, I am inferior, but this time I have the power of the machines on my side. It will be different.
+
+6pm. Right now I am thinking about how to model the order book. Previously I have a simple model of drawing from Gaussians, but now I am going to have to get more nuanced. What I could do is think of it as a ball rolling over a surface and the order book liquidity as friction. I am going to have to simulate the individual trades, but it could be doable.
+
+What I am not sure is how I'd model exhaustions in that case.
+
+And agh, I am not going to even think about how I could possibly model the features for such a model. It was annoying enough trying to figure out how I'd deal with regular patterns, but modeling the order book is just so much worse. I wish I could use NN.
+
+I should just do that. Ditch Spiral and finally get some use out of NNs.
+
+Uah, I hope that I some point I'll get an actual real world use out of that language.

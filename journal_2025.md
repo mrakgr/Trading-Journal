@@ -23200,3 +23200,5 @@ But the DOM tells you where to actually go long.
 ![](images/image-1814.png)
 
 The system I'd make would probably be flat here.
+
+10am. Carmine Rosato completely destroyed the momentum system that I'd proposed in the intro video. There is no fucking point anymore. I need a system that could read the order flow.

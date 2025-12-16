@@ -23175,3 +23175,28 @@ This was really mind opening to me.
 Yeah, let me just focus on learning. I guess to the list I wrote yesterday we can put abnormal volume delta, for both very large values which indicate reversals and breakouts as well as the volume tails which indicate exhaustion.
 
 Who knows how things will go. Maybe I'll get a new job before I can put this to practice, maybe I won't. At least now I have the DOM indicator ready.
+
+![](images/image-1811.png)
+
+I need to send this to Thomas. I never took the chance to watch the videos on that guy he showed me though.
+
+https://www.youtube.com/@nvforex/videos
+https://www.youtube.com/playlist?list=PLr9l5Cu5jSuI8E6z4Z49KwiIamY3KQrMT
+G7FX Order Flow Education
+
+He has an order flow playlist.
+
+Before I pester Thom, I should give it a chance to see if there is anything to it.
+
+9:50am. ![](images/image-1812.png)
+> Would go long, or would you go short next?
+
+Going by the chart it's a long.
+
+![](images/image-1813.png)
+
+But the DOM tells you where to actually go long.
+
+![](images/image-1814.png)
+
+The system I'd make would probably be flat here.

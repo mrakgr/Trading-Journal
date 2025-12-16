@@ -23213,3 +23213,11 @@ It's smack dab in the middle of the range of a very flat market. I'd do neither.
 Damn it, how do I read the table on the right side? At any rate, this is amazing insight.
 
 He is actually doing what I dreamed about which is using his reason to find good trades.
+
+10:35am. https://youtu.be/5qBo04SMUFc?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ
+How To Use Support and Resistance the RIGHT Way
+
+![](images/image-1817.png)
+
+Support and resistance is probably the concept I understand the least after 6 years of trading, so I've been looking forward to this video.
+

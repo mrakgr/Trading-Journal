@@ -23235,3 +23235,12 @@ You've Been Using Volume WRONG This Whole Time...
 ![](images/image-1820.png)
 
 Yeah, high volume breakouts are my bane.
+
+11:35am. ![](images/image-1821.png)
+
+Yeah, this is would for me.
+
+11:55am. ![](images/image-1822.png)
+> Carmine, what is it that makes you click the buy or sell button.
+
+10/10 series so far. I love it when people just give me a completely new way of thinking.

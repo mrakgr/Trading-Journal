@@ -23297,3 +23297,9 @@ But really it isn't that great for a trader. Lance made 100m over 10 years, so t
 
 No way can I make that much as a software developer. Not unless I make trading systems or open my own company.
 
+![](images/image-1830.png)
+> I was taught to build tools from scratch.
+
+Wow, really?
+
+Ok, this guy is 100% the real deal. What he's teaching is very similar to Carmine Rosato.

@@ -23335,3 +23335,34 @@ Uah, I hope that I some point I'll get an actual real world use out of that lang
 Lol'd heavily at this. Based.
 
 You know I sometimes do doubt my own emotional stability.
+
+8:10pm. You know what, I am going to send an email to Jeff Holden.
+
+///
+
+Hi, I got your email from the Claude Opus chatbot. I was watching your tape reading video on the SMB Capital's Youtube channel, and I think it warrants a deeper review than a throwaway comment that I posted a couple of days ago.
+
+I recently had the pleasure of watching all of Carmine Rosato's order flow playlist, and honestly it's amazing. It really opened my eyes for how beneficial footprint charts and volume profiles could be for finding certain setups with great risk:return profiles. In it he goes over a few setups he took based off footprint charts and clearly shows the differences between simply looking at a candlestick chart and using a footprint chart.
+
+Having watched a few of your videos, I know that SMB teaches its traders to read the tape, but whenever I watch those kinds of videos it's just numbers rapidly changing all over the place, it's very difficult for me to understand anything. Yeah, maybe if I sat down and studied the tape for a few months it would make sense, but that doesn't sound like an effective way to learn.
+
+I recall you saying that experienced traders don't use more advanced visualization tools like Bookmap, and I'd really like to know why. Could you in a future video pick a few trades, and show how the setup couldn't be found in something like Bookmap or another charting software that can visualize the volume footprint as well as the historical order book? Or failing that, at least make the case how reading the tape SMB style makes it easier to find such trades.
+
+Whenever I watch your traders reading the tape, they are using 90s looking UIs which is making me suspicious of whether it's truly the technologically superior approach. The reason why I am making this request is because you're certainly far more suited to make this assessment than I am.
+
+I hope you'll consider my request,
+Marko Grdinić
+
+///
+
+Sent this to Jeff Holden just now. I'd really like to see a review video on this.
+
+9:05pm. https://yandex.com/search/?text=smb+capital+tape+reading+download
+
+![](images/image-1834.png)
+
+Maybe I should just get this?
+
+Well, let me finish the book by Mike first. I am 46% into it. Sigh, instead of reading these books, I really should start watching the market, but I am still forming my plan.
+
+Also I might need to find a better data source than Massive. It bothers me how some of the VWAP prices are out of range.

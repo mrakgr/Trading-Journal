@@ -23269,3 +23269,7 @@ Everything you've learned about trading is wrong...
 The last video in the series. Time to wrap it up.
 
 Let me get breakfast while I am at it.
+
+1:35pm. ![](images/image-1826.png)
+
+This example is different from the others. I wonder if he took it from some of his older videos.

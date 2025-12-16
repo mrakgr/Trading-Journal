@@ -23303,3 +23303,7 @@ No way can I make that much as a software developer. Not unless I make trading s
 Wow, really?
 
 Ok, this guy is 100% the real deal. What he's teaching is very similar to Carmine Rosato.
+
+![](images/image-1831.png)
+
+Here comes the pitch.

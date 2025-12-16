@@ -23366,3 +23366,86 @@ Maybe I should just get this?
 Well, let me finish the book by Mike first. I am 46% into it. Sigh, instead of reading these books, I really should start watching the market, but I am still forming my plan.
 
 Also I might need to find a better data source than Massive. It bothers me how some of the VWAP prices are out of range.
+
+9:20pm. Let me stop here. I had a chat with Thomas and it threw off my pace a little.
+
+I'll finish the book tomorrow, and then try buying that SMB tape reading course for 30$. There is always the risk of getting scammed, but the full price of the course is 4k, so I'd rather just take the chance with the Russians.
+
+Let me talk with Opus for a bit.
+
+The Massive (previously Polygon.io) datasets have some VWAP prices outside the bar's range. This makes me concerned about their data quality. Should I be looking into a different data provider?
+
+///
+
+The VWAP outside the bar range issue is definitely concerning and worth investigating, but it's not necessarily a dealbreaker. Here's how I'd think about this:
+
+**Understanding the Issue**
+
+VWAP (Volume Weighted Average Price) should theoretically always fall between the high and low of a bar, since it's calculated from trades that occurred during that period. When it doesn't, a few things could be happening:
+
+1. **Data source mixing** - The OHLC bars might be from one venue/feed while VWAP is calculated across multiple venues, leading to legitimate discrepancies
+2. **Calculation methodology** - Their VWAP might include pre/post-market data while bars are regular hours only (or vice versa)
+3. **Actual data quality issues** - Errors in either the OHLC data or VWAP calculations
+
+**What to Check First**
+
+Before switching providers, I'd verify:
+- How frequent is this issue? If it's <0.1% of bars, might be edge cases worth filtering
+- Which symbols/times does it occur? If it's concentrated in illiquid stocks or market open/close, might be explainable
+- Does their documentation explain their VWAP calculation methodology?
+
+**Alternative Providers to Consider**
+
+If you do decide to switch:
+
+- **Databento** - Strong data quality focus, institutional-grade, good pricing for historical data
+- **Alpaca Markets** - Free for users, decent quality, though less comprehensive than paid providers
+- **FirstRate Data** - Good reputation for clean EOD data if you don't need intraday
+- **Interactive Brokers** - If you have an account, their historical data is generally reliable
+
+**My Take**
+
+Given you're doing serious quantitative work with multi-year datasets, data quality is critical. I'd document the specific issues you're seeing (frequency, patterns) and reach out to Massive's support. If they can't explain it satisfactorily or if the issue is widespread, switching providers is justified - bad data will undermine all your analysis work downstream.
+
+What percentage of your bars show this issue, and is it concentrated in specific securities or time periods?
+
+///
+
+Intraday, only a few bars during the day on the Nvidia 1 minute price chart that I plotted. There were also a couple of errors after the market close as well.
+
+///
+
+With just a few bars per day on a highly liquid stock like Nvidia, that's actually more concerning than if it were widespread across illiquid names. NVDA has massive volume and tight spreads - there's no excuse for VWAP calculation issues there.
+
+**Red flags here:**
+
+1. **Liquid stock problem** - If they can't get NVDA right, what's happening with less liquid securities?
+2. **After-hours errors** - Suggests their regular/extended hours data handling might be inconsistent
+3. **Pattern implications** - Spotting issues visually on one chart means there could be many more you haven't seen
+
+**Quick validation test:**
+
+Before switching, you could cross-check a few suspect bars against another free source:
+- Pull the same NVDA bars from Alpaca or Yahoo Finance
+- Compare the OHLC and volumes
+- See if the discrepancies are consistent across providers (venue differences) or unique to Massive
+
+**If you're switching:**
+
+For your use case (intraday analysis, DuckDB pipeline, multi-year datasets), **Databento** would be my top recommendation. They're expensive but:
+- Institutional data quality with clear methodology docs
+- Great for bulk historical downloads
+- Clean APIs that work well with programmatic ingestion
+- Transparent about their data sources and processing
+
+**Alpaca Markets** is worth trying first since it's free - their data quality for major stocks is quite good, though coverage might be less comprehensive than paid providers.
+
+Given you're building serious infrastructure around this data (your DuckDB setup, split adjustments, etc.), a few hundred dollars for reliable data is probably worth it versus constantly questioning your analysis results. Bad data is like building on a shaky foundation.
+
+Want to verify a specific bar together to confirm it's a Massive issue rather than a calculation/interpretation problem?
+
+///
+
+No, I'll get in touch with Massive tomorrow to ask them about the data issues.
+
+Let me close here for the day.

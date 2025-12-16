@@ -23273,3 +23273,18 @@ Let me get breakfast while I am at it.
 1:35pm. ![](images/image-1826.png)
 
 This example is different from the others. I wonder if he took it from some of his older videos.
+
+1:45pm. ![](images/image-1827.png)
+> Retail charts are not being used by any professional firms.
+
+2pm. ![](images/image-1828.png)
+
+Damn, it's really embarassing that I spent nearly 7 years as a trader without finding any of this out. I had no idea how banks were doing it. I never made an attempt to learn.
+
+But that period is much different compared to now. There are all kinds of good traders willing to teach me this now. On Youtube no less.
+
+Andrea Cimi at least made an attempt, but I got stuck trying to momentum trade on the dailies and never made it.
+
+Sigh.
+
+Well, in the end, my persistence got me this far, so let's see how far I can go.

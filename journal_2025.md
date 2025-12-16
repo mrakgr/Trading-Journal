@@ -23249,3 +23249,12 @@ Yeah, this is would for me.
 > Would you take the long when the market looks like this?
 
 Absolutely not according to the momentum system that I proposed in the first video of the Building The Trading Edge series.
+
+12:05pm. https://youtu.be/7facFfjQ0UE?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ&t=811
+How To Enter and Exit Trades Like a Professional
+
+![](images/image-1824.png)
+
+This info he is giving me here is worth 10s of thousands of dollars easily. Amazing how he just waited for the volume delta and then went long. You couldn't see this on a candlestick chart.
+
+Yeah, this is how you sell order flow trading. The Bookmap course wasn't really it.

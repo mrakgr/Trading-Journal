@@ -23158,3 +23158,20 @@ This is amazing content.
 11:55pm. ![](images/image-1810.png)
 
 Damn, I meant to go to bed earlier today. Let me finish watching this and I'll do so. I'll watch the rest tomorrow.
+
+12/16/2025
+
+9:35am. I am up early for a change. And I even lounged in bed for quite a while too. I guess when I start to feel hopeful my rest improves.
+
+https://youtu.be/Usph8AmpnV0
+After 9 Years Of Trading, This Is One Of The Best Strategies
+
+Let me watch more of Carmine Rosato. He gave me a few epiphanies yesterday, so I am pushing to the top of the priority lists.
+
+The thing about those DOM trades is that I wouldn't be able to notice them even on the heat maps. Only the cumulative volume delta on the DOM would make the various setups visible.
+
+This was really mind opening to me.
+
+Yeah, let me just focus on learning. I guess to the list I wrote yesterday we can put abnormal volume delta, for both very large values which indicate reversals and breakouts as well as the volume tails which indicate exhaustion.
+
+Who knows how things will go. Maybe I'll get a new job before I can put this to practice, maybe I won't. At least now I have the DOM indicator ready.

@@ -23258,3 +23258,7 @@ How To Enter and Exit Trades Like a Professional
 This info he is giving me here is worth 10s of thousands of dollars easily. Amazing how he just waited for the volume delta and then went long. You couldn't see this on a candlestick chart.
 
 Yeah, this is how you sell order flow trading. The Bookmap course wasn't really it.
+
+12:20pm. ![](images/image-1825.png)
+
+Yeah, the whole system I proposed is based on time, but he is explaining quite convincingly why volume is what validates a system.

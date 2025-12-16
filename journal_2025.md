@@ -23329,3 +23329,9 @@ And agh, I am not going to even think about how I could possibly model the featu
 I should just do that. Ditch Spiral and finally get some use out of NNs.
 
 Uah, I hope that I some point I'll get an actual real world use out of that language.
+
+6:20pm. ![](images/image-1833.png)
+
+Lol'd heavily at this. Based.
+
+You know I sometimes do doubt my own emotional stability.

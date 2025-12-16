@@ -23262,3 +23262,10 @@ Yeah, this is how you sell order flow trading. The Bookmap course wasn't really 
 12:20pm. ![](images/image-1825.png)
 
 Yeah, the whole system I proposed is based on time, but he is explaining quite convincingly why volume is what validates a system.
+
+12:35pm. https://youtu.be/00QtD-RosLg?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ
+Everything you've learned about trading is wrong...
+
+The last video in the series. Time to wrap it up.
+
+Let me get breakfast while I am at it.

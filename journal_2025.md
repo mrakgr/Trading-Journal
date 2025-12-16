@@ -23307,3 +23307,5 @@ Ok, this guy is 100% the real deal. What he's teaching is very similar to Carmin
 ![](images/image-1831.png)
 
 Here comes the pitch.
+
+2:40pm. He's the real deal, but I don't know if there is anything of value on his Youtube channel, and I don't feel like watching. Let me move on.

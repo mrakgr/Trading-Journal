@@ -23309,3 +23309,5 @@ Ok, this guy is 100% the real deal. What he's teaching is very similar to Carmin
 Here comes the pitch.
 
 2:40pm. He's the real deal, but I don't know if there is anything of value on his Youtube channel, and I don't feel like watching. Let me move on.
+
+Let me chill a bit here. I need to do the chores and exercises. Then I'll continue reading the One Good Trade book.

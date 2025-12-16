@@ -23311,3 +23311,11 @@ Here comes the pitch.
 2:40pm. He's the real deal, but I don't know if there is anything of value on his Youtube channel, and I don't feel like watching. Let me move on.
 
 Let me chill a bit here. I need to do the chores and exercises. Then I'll continue reading the One Good Trade book.
+
+5:55pm. ![](images/image-1832.png)
+
+I really am not a good fit for a trader, so it's no wonder I couldn't win back then. But who cares about fit. I just need to do the research, make the plan and then execute it.
+
+What was keeping me from profits was my comprehension. I put myself in a bad position to get it, and the rest was history. Strong determination won't help me if it's not applied in the right place.
+
+Yeah, I am inferior, but this time I have the power of the machines on my side. It will be different.

@@ -23288,3 +23288,12 @@ Andrea Cimi at least made an attempt, but I got stuck trying to momentum trade o
 Sigh.
 
 Well, in the end, my persistence got me this far, so let's see how far I can go.
+
+2:10pm. ![](images/image-1829.png)
+
+He actually shows his stats. 250k per year is quite decent. Ironically, my old programming job was close to this.
+
+But really it isn't that great for a trader. Lance made 100m over 10 years, so that's definitely possible.
+
+No way can I make that much as a software developer. Not unless I make trading systems or open my own company.
+

@@ -23649,3 +23649,9 @@ I spent so much time staring at the charts hoping to figure them out, and in the
 But now it's all coming to me so easy.
 
 I guess my programming journey did improve my research skills significantly. But I did need the 100k that I got from Tao Ceti to unlock my shackles.
+
+10:05pm. > But with Reading the Tape, you can profit from Day One. In fact it’s very simple. When we find a stock in an uptrend and then spot a held bid, this is a long. Easy, no? It will work more times than not. When you spot an important intraday resistance level cleared, you get long. Again, not difficult. And on the first day you trade live you can crush this simple pattern.
+
+I am getting that fucking course. Sign me up!
+
+Tomorrow that is.

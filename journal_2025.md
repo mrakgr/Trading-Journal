@@ -23506,3 +23506,13 @@ Ok, it's not like there is nobody on the torrent so I'll keep it open for a few 
 I'll get this eventually. It's better to start of pirating than having my trading account take a 2% hit right off the bat. The priority would be for me to get through the preliminaries and start studying the footprint charts for the past stocks in play. Then I could shell out for the courses that cannot be easily pirated. But since I can just pay 30$ for the tape reading one I should just start with it.
 
 2:55pm. Let me do the chores and the exercises here. I'll finish this book that I am reading and then get the tape reading course.
+
+3:55pm. Phew, done with chores and exercises.
+
+Without any dedicated seeders, the download speed for this course is miserable.
+
+4:05pm. I guess I can leave it for a couple of more hours just to see if a seeder comes in. Otherwise I'll give up on it.
+
+Let me finish the book and then I will get the tape reading course. It's what I am really interested in anyway.
+
+I say finish, but I am only 50% into it.

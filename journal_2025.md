@@ -23631,3 +23631,8 @@ This is my favorite chapter of the book so far.
 ![](images/image-1849.png)
 
 I need to start studying the trades.
+
+9:50pm.
+
+> It is easier to learn how to Read the Tape, or at least learn how to Read the Tape for signals to buy or sell than to learn how to trade with just charts. The traders I know who mainly trade off of the charts these days all learned first how to Read the Tape. And while they claim that they do not look at the Level 2 much these days, many are just mistaken. They have so mastered reading the tape that they do not even understand that they are using it to lighten up or where to enter with their trades.
+

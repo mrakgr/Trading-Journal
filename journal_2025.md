@@ -23449,3 +23449,34 @@ Want to verify a specific bar together to confirm it's a Massive issue rather th
 No, I'll get in touch with Massive tomorrow to ask them about the data issues.
 
 Let me close here for the day.
+
+12/17/2025
+
+10:55am. Didn't sleep the best tonight. My mom ended up puking on her way to the bathroom at around 2:20am which made me worried. Is her cancer coming back from remission?
+
+...
+
+At any rate, I am going to try to finish the One Good Trade book and then I am just going to get the SMB Tape Reading course from those shaddy Russians, like I did for Lance's course. I lied and did send an email to Massive, but haven't gotten a reply yet. If this isn't addressed, I'll have to get a new data vendor.
+
+https://www.reddit.com/r/algotrading/comments/1po7w8e/orb_strategy_backtest_update_testing_more/
+
+The strategy has its flat periods.
+
+11:40am. Got a reply to the email I sent to Jeff Holden.
+
+///
+
+Thanks Marko! 
+
+Sounds like a super interesting video idea. 
+
+I’d love to take on that challenge. Maybe I can find someone on the desk or someone in our community and we could pick a specific tape and I could read it and they could use the footprint software and then we could review the idea together. Almost like a blind test. 
+
+Jeff
+SMB Capital
+
+///
+
+These guys are really willing to improve and consider new ideas. This is exactly the kind of reply I was hoping to get. I'll be looking forward to the upcoming video.
+
+This is pretty sweet.

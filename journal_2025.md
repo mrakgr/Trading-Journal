@@ -23528,3 +23528,11 @@ It might be a grind, but it should also be fun. I could have had fun in 2007 - 2
 ![](images/image-1839.png)
 
 Oh wow, take a look at this. It's actually downloading. But without a seeder, only 55% of the course will be there.
+
+> Now I understand that some have trouble learning how to Read the Tape at the beginning. This can be frustrating. The Level 2 quotes move quickly. It is a lot on the eyes at first. You feel like when you were a kid, you closed your eyes, and your friends spun you around quickly. When you opened your eyes, you were dizzy. That is how a new trader ought to feel.
+
+Ok, I will give it a honest shot. I'll get the L2 feed and spend some time practicing reading it.
+
+In the very worst case, if that fails, I can just become a quant trader trading the open and the trend days. That won't turn me into a star, but while that is going on I could get a programming job and work torward building up the account for longer term trading using the DOM indicator.
+
+But I want to do my best to find out where my real limits are.

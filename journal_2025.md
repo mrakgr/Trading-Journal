@@ -23594,3 +23594,10 @@ I hope that this won't annoy him. Let me resume the book.
 
 This is a great tape reading lesson. I can imagine this would show up as a positive delta on a footprint chart.
 
+8:45pm. ![](images/image-1844.png)
+
+Got this reply to the Massive email on the VWAP issue. I need to ask about the volume.
+
+https://massive.com/blog/understanding-trade-eligibility
+
+Though I suppose instead of replying I should have looked at this first. Ugh, I'll think about this at a future date. I guess I could continue using Massive.

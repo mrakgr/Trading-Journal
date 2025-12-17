@@ -23536,3 +23536,5 @@ Ok, I will give it a honest shot. I'll get the L2 feed and spend some time pract
 In the very worst case, if that fails, I can just become a quant trader trading the open and the trend days. That won't turn me into a star, but while that is going on I could get a programming job and work torward building up the account for longer term trading using the DOM indicator.
 
 But I want to do my best to find out where my real limits are.
+
+4:40pm. For all I know, maybe I'll learn to love reading the tape.

@@ -23538,3 +23538,9 @@ In the very worst case, if that fails, I can just become a quant trader trading 
 But I want to do my best to find out where my real limits are.
 
 4:40pm. For all I know, maybe I'll learn to love reading the tape.
+
+4:45pm. I could have read this book back in 2010. And it would have told me that I need to learn to read the tape.
+
+But with 3k account, I am not sure that I would have had the guts to buy the data for the L2 feed.
+
+Even right now, I have to think hard about whether I want to spend 30$ on something or not.

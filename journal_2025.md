@@ -23589,3 +23589,8 @@ Marko Grdinić
 ///
 
 I hope that this won't annoy him. Let me resume the book.
+
+8:40pm. ![](images/image-1843.png)
+
+This is a great tape reading lesson. I can imagine this would show up as a positive delta on a footprint chart.
+

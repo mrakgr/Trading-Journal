@@ -23601,3 +23601,7 @@ Got this reply to the Massive email on the VWAP issue. I need to ask about the v
 https://massive.com/blog/understanding-trade-eligibility
 
 Though I suppose instead of replying I should have looked at this first. Ugh, I'll think about this at a future date. I guess I could continue using Massive.
+
+![](images/image-1845.png)
+
+He gave me another link. Wow, why is this so complicated. At any rate, let me continue with the book.

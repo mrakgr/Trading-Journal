@@ -23544,3 +23544,48 @@ But I want to do my best to find out where my real limits are.
 But with 3k account, I am not sure that I would have had the guts to buy the data for the L2 feed.
 
 Even right now, I have to think hard about whether I want to spend 30$ on something or not.
+
+5:25pm. ![](images/image-1840.png)
+
+Nice a seeder did come in.
+
+6:20pm. ![](images/image-1841.png)
+
+Now it's slow again. But I'll just keep at it, and it will download in a while.
+
+> Anyone who has created a profitable black box is a genius. It is really that difficult to build one.
+
+> A skill that too few developing traders have mastered is about to enter the room. Reading the Tape is the first skill that new traders should master, the very first skill! Let me explain in the following chapter.
+
+6:40pm. ![](images/image-1842.png)
+
+Let me leave this for later. I'll continue the book tomorrow.
+
+I'll leave the torrent on. I'll probably finish downloading it in the next few days, but it's more important for me to get the tape reading course. At any rate, it will take me a while to get through all of this. I have plenty of time to finish the download in a timely manner.
+
+6:50pm. Honestly, let me just take a break and I'll resume the book. It's not like I have anything better going for me right now. It'd be a waste to start playing games again. I got my fill with Ghostrunner 1 and 2. I can resume Dark Souls 2 and Monster Hunter World at a later date.
+
+7:15pm. Let me resume. Let me fill in the survey Lance is asking me about. I got an email for what would be required for me to buy the full 6k price for the Elite tier of Lance's course.
+
+///
+
+Hello Lance. Sorry, I couldn't fit my reply in the survey response box so let me reproduce it here in full:
+
+6k is quite a lot. My trading account it a bit over 100k, so that means to get the course I'd take a 6% hit. Maybe if I were an already profitable daytrader, it would make sense to get it, but it's likely it will take me many months to attain consistent profitability, and most traders never make it, so if that happens I'll be out of 6k I could have spent better. It's honestly a shitload of money for me, it's half a yearly salary here in Croatia. The way I got it is by getting lucky and landing a high paying software dev job for 9 months, unfortunately I am unemployed currently and studying trading. My miserly mindset currently is that I'd think hard about even a 30$ purchase, let alone a 6,000$ one.
+
+I apologize for my trollish comment on Youtube where said I pirated your course from a shady Russian site and will pay it back with my future daytrading profits. I know it was annoying and I'll do my best to keep my word, but your audience for this kind of price would mostly be other already successful traders. Even SMB drops its price to below 2k if you wait out the free webinar, and even for their course it makes more sense to torrent it first.
+
+Honestly, I really do like your course, if there is one way it could be made better it would be to move on from analysis to actually screencasting your live trading. I have a lot of programming videos on my own Youtube channel and I am not sure it would help people if I just talked about my codebase instead. Not that I get many views either way.
+
+Here is what I think - if you did live trading on your Youtube, you might get less views, but that would give people a lot more accurate image of how you actually trade. So it might be suitable for your course instead. Having watched more than half of your course, I am not sure if you're cherry picking those reversal trades, or whether you're doing tape reading to filter out the better from the worse trades. Right now I am at the stage of development where I've watched Carmine Rosato's order flow course and it really blew my mind how he is finding good reversal setups in the ES futures using footprint charts, so I am very motivated to learn to read volume patterns and tape reading. (As an aside, I fired an email to Jeff Holden saying they should compare tape reading vs footprint charts/heatmaps in a future Youtube video and he loved the idea. That was really nice, I have something to look forward to from that.)
+
+The setups you've been explaining make sense to me, but how good you are has to do with your entire process, and not just the trade setups, so I do hope that when I actually get the subscription I'll find some of that in the course. The pirated one isn't up to date and only goes up to April 2025, so I have some incentive to get the full version regardless.
+
+By the way, weren't you saying you'd release parts of the course for free as community service? Why is it entirely behind a paywall?
+
+Your fan,
+Marko Grdinić
+
+///
+
+I hope that this won't annoy him. Let me resume the book.

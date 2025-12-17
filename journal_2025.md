@@ -23605,3 +23605,7 @@ Though I suppose instead of replying I should have looked at this first. Ugh, I'
 ![](images/image-1845.png)
 
 He gave me another link. Wow, why is this so complicated. At any rate, let me continue with the book.
+
+9:15pm. ![](images/image-1846.png)
+
+Here is a good lesson. Buyers at key levels sounds like what Carmine Rosato was doing.

@@ -23504,3 +23504,5 @@ Nope the torrent is stalled. I might really have to buy it. But even so just the
 Ok, it's not like there is nobody on the torrent so I'll keep it open for a few days and see where it goes.
 
 I'll get this eventually. It's better to start of pirating than having my trading account take a 2% hit right off the bat. The priority would be for me to get through the preliminaries and start studying the footprint charts for the past stocks in play. Then I could shell out for the courses that cannot be easily pirated. But since I can just pay 30$ for the tape reading one I should just start with it.
+
+2:55pm. Let me do the chores and the exercises here. I'll finish this book that I am reading and then get the tape reading course.

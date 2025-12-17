@@ -23609,3 +23609,11 @@ He gave me another link. Wow, why is this so complicated. At any rate, let me co
 9:15pm. ![](images/image-1846.png)
 
 Here is a good lesson. Buyers at key levels sounds like what Carmine Rosato was doing.
+
+> The key to being a tape reader is locating where most of the volume is being done intraday. This volume may not show up on your charts until after a significant move. Remember, charts are at their core lagging indicators. Reading the Tape is a leading indicator. Use an unbiased principle to play both sides and be mentally agile.
+
+Yeah, it exactly what he was doing. Responding to the volume deltas is a foundational tape reading technique. This is great.
+
+A little by little the pieces are falling into place. I can't wait to start studying footprint charts in order to find these levels in Stocks In Play.
+
+I actually like reading charts and this will be a new past time for me.

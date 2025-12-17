@@ -23636,3 +23636,6 @@ I need to start studying the trades.
 
 > It is easier to learn how to Read the Tape, or at least learn how to Read the Tape for signals to buy or sell than to learn how to trade with just charts. The traders I know who mainly trade off of the charts these days all learned first how to Read the Tape. And while they claim that they do not look at the Level 2 much these days, many are just mistaken. They have so mastered reading the tape that they do not even understand that they are using it to lighten up or where to enter with their trades.
 
+10pm. ![](images/image-1850.png)
+
+Wow, he mentions Gary Smith. 'How I Trade for a Living' is my favorite trading book, but I don't recall this part about him throwing away the charts at all.

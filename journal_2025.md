@@ -23660,4 +23660,18 @@ Tomorrow that is.
 
 I like this book more than The Playbook now. I am going to stop here for the day.
 
-'Reminiscences Of A Stock Operator' literally starts with the protagonist learning to read the tape and making large amounts of money in bucket shops. And yet I decided that I want to emulate him in his later phase when he was struggling with longer term trading. I am such a fool.
+'Reminiscences Of A Stock Operator' literally starts with the protagonist learning to read the tape and making large amounts of money in bucket shops from virtually nothing. And yet I decided that I want to emulate him in his later phase when he was struggling with longer term trading. I am such a fool.
+
+11:15pm. ![](images/image-1852.png)
+
+I am not sure why I clicked on this. It's full of people who have gambling issues.
+
+![](images/image-1853.png)
+
+Oh lol.
+
+> This isn't the problem you have. The problem you have is that you believe you can make it all back in one trade, am I right?
+> Think of this as a divorce. You and your ex-money agreed to mutually part ways. You're not going to find and get married to new money overnight, you need to slow down, invest your time in to hobbies and know that there is lots more money out there that wants to be with you when the time is right but don't try to force it.
+
+Lollol, this is perfect.
+

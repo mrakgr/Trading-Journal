@@ -23627,3 +23627,7 @@ This is such a huge edge!
 ![](images/image-1848.png)
 
 This is my favorite chapter of the book so far.
+
+![](images/image-1849.png)
+
+I need to start studying the trades.

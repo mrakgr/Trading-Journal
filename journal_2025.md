@@ -23480,3 +23480,27 @@ SMB Capital
 These guys are really willing to improve and consider new ideas. This is exactly the kind of reply I was hoping to get. I'll be looking forward to the upcoming video.
 
 This is pretty sweet.
+
+2:30pm. ![](images/image-1835.png)
+
+To be honest, I am getting bored with this book. I'd rather just get the tape reading course and study it instead.
+
+Also even if it means shelling out, I should get access to the full course by SMB. But I don't feel like spending, so really, as a cheaper alternative I should get the trades data and Quantower or a Bookmap subscription and start going through the footprint charts.
+
+2:30pm. Ok, I found a bunch of places where to get the course for free. Let me go for it.
+
+I'll go through the course, go through the tape reading one after that and then I will be ready to start studying the market in earnest.
+
+I feel like I benefited greatly from Carmine Rosato's course. It hit in a way the other order flow courses didn't.
+
+Hrmmm, there are different versions of this floating out there, and the rar files one didn't work out. But the 3.5gb is probably incomplete. It has only the setups. But the torrent in disorganized and might not have the seeders.
+
+![](images/image-1836.png)
+
+Nope the torrent is stalled. I might really have to buy it. But even so just the video titles are giving me useful info. I had no idea they were using Lightspeed as a broker.
+
+2:50pm. ![](images/image-1837.png)
+
+Ok, it's not like there is nobody on the torrent so I'll keep it open for a few days and see where it goes.
+
+I'll get this eventually. It's better to start of pirating than having my trading account take a 2% hit right off the bat. The priority would be for me to get through the preliminaries and start studying the footprint charts for the past stocks in play. Then I could shell out for the courses that cannot be easily pirated. But since I can just pay 30$ for the tape reading one I should just start with it.

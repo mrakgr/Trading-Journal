@@ -23638,4 +23638,14 @@ I need to start studying the trades.
 
 10pm. ![](images/image-1850.png)
 
+> Charts just weren’t getting it done for me. They were great at telling me about the past, but were of little use in foretelling the future. Some who worship at the altar of charts may counter that the purpose of charts is not to predict, but to provide hints or clues to the future. Regardless of the semantics, I would have been much better off never looking at a chart. So it wasn’t a tough decision in the spring of 1985 to throw out the charts and never consult them again.
+
 Wow, he mentions Gary Smith. 'How I Trade for a Living' is my favorite trading book, but I don't recall this part about him throwing away the charts at all.
+
+I don't get it. I must have been insane in 2007 - 2014 to miss all of this. I guess my life is one good case of 'beating will continue until mental flexibility improves'.
+
+I spent so much time staring at the charts hoping to figure them out, and in the end concluded that the market was random. I put so much effort into nothing.
+
+But now it's all coming to me so easy.
+
+I guess my programming journey did improve my research skills significantly. But I did need the 100k that I got from Tao Ceti to unlock my shackles.

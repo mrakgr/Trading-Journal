@@ -23617,3 +23617,13 @@ Yeah, it exactly what he was doing. Responding to the volume deltas is a foundat
 A little by little the pieces are falling into place. I can't wait to start studying footprint charts in order to find these levels in Stocks In Play.
 
 I actually like reading charts and this will be a new past time for me.
+
+9:30pm. ![](images/image-1847.png)
+
+Previously I wouldn't make much of it, but after Carmine's order flow course I can mentally translate 'too much buying' into 'abnormal negative volume delta'.
+
+This is such a huge edge!
+
+![](images/image-1848.png)
+
+This is my favorite chapter of the book so far.

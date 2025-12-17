@@ -23516,3 +23516,15 @@ Without any dedicated seeders, the download speed for this course is miserable.
 Let me finish the book and then I will get the tape reading course. It's what I am really interested in anyway.
 
 I say finish, but I am only 50% into it.
+
+4:25pm. ![](images/image-1838.png)
+
+I must learn tape reading. I am just glad that I can get the tape reading course for 33.5 euros.
+
+Sigh, the longer term timeframe trading effort really did mess me up. Now that I have the money, I am free to find an alternative path, and this time I will be successful.
+
+It might be a grind, but it should also be fun. I could have had fun in 2007 - 2014, but I picked a poor path to go down on.
+
+![](images/image-1839.png)
+
+Oh wow, take a look at this. It's actually downloading. But without a seeder, only 55% of the course will be there.

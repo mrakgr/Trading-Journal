@@ -23655,3 +23655,9 @@ I guess my programming journey did improve my research skills significantly. But
 I am getting that fucking course. Sign me up!
 
 Tomorrow that is.
+
+10:05pm. ![](images/image-1851.png)
+
+I like this book more than The Playbook now. I am going to stop here for the day.
+
+'Reminiscences Of A Stock Operator' literally starts with the protagonist learning to read the tape and making large amounts of money in bucket shops. And yet I decided that I want to emulate him in his later phase when he was struggling with longer term trading. I am such a fool.

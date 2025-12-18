@@ -23798,3 +23798,7 @@ And then dive into the course. I am not sure how determined I am to sit in front
 The Only Orderflow Footprint Chart Guide You'll Ever Need [Tutorial]
 
 Or I could watch this for a bit. Well whatever, let me just do what feels fun.
+
+9:25pm. Towards the end of this video, he talks about how these types of charts could be used to improve the ORB strategy. Yeah, just what I need. I can look for big deltas to see when the buyers or sellers are in control. Baby steps. I don't need to be a master like the SMB Capital's traders.
+
+I really like these kinds of things. I don't know about a general purpose bot, but I could code up a simple ORB bot that takes into account volume imbalances and see whether those patterns improve the trades any. But it'd be difficult to make it understand whether a seller has been overcome. I'll have to gather the data and take stock of the trades.

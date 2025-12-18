@@ -23702,3 +23702,10 @@ This is quite thorough. Yeah, I'll have to do my analysis carefully. In particul
 Yeah, let me do it. I must not forget to resume the torrent when I get back...
 
 No wait, the power's back on. The UPS saved me.
+
+...The internet is down though.
+
+12:50pm. ![](images/image-1855.png)
+
+I myself would be likely to make this kind of execution mistake. Once I give it a try, I am going to have to start fighting for the cents.
+

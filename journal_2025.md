@@ -23802,3 +23802,21 @@ Or I could watch this for a bit. Well whatever, let me just do what feels fun.
 9:25pm. Towards the end of this video, he talks about how these types of charts could be used to improve the ORB strategy. Yeah, just what I need. I can look for big deltas to see when the buyers or sellers are in control. Baby steps. I don't need to be a master like the SMB Capital's traders.
 
 I really like these kinds of things. I don't know about a general purpose bot, but I could code up a simple ORB bot that takes into account volume imbalances and see whether those patterns improve the trades any. But it'd be difficult to make it understand whether a seller has been overcome. I'll have to gather the data and take stock of the trades.
+
+///
+
+Footprint charts emerged in the early 2000s, becoming commercially available around 2003-2004 when electronic trading platforms and market data feeds had advanced enough to make real-time bid/ask volume visualization practical.
+
+The concept gained significant traction after **MarketDelta** (founded by a former floor trader) popularized the format around 2003-2004. They're often credited with bringing footprint-style analysis to retail and professional traders. The charts built on earlier ideas from market profile (developed by Peter Steidlmayer at the CBOT in the 1980s) but added the granular bid/ask volume breakdown at each price level.
+
+Your experience of not hearing about them a decade ago isn't unusual. While they existed, footprint charts remained somewhat niche until roughly 2015-2018 when:
+
+1. More charting platforms added native support (Sierra Chart, NinjaTrader, ATAS, and others)
+2. Futures trading became more accessible to retail traders
+3. YouTube and trading education content proliferated, exposing more people to order flow concepts
+
+They're still more common in the futures daytrading community than in equities, partly because futures have centralized order books making the volume data more meaningful, whereas stock volume is fragmented across multiple exchanges and dark pools.
+
+///
+
+Had I been smarter I could have invented them.

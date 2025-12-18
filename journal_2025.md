@@ -23736,3 +23736,9 @@ At any rate having this course completely changes my plans. I need to go through
 3pm. > This is important. For example, we have learned that most of our desk trade poorly during the Midday. As a firm, we made adjustments. If you are killing it on the Open but then giving back your Open during the Midday then this is data that can revolutionize your results, such as trade with more size on the Open and with a lower tier size during the Midday, playing defense and holding your gains.
 
 This matches the results of the VWAP system. I think generally I should just skip the midday and focus only on the open and the close.
+
+3:20pm. I need to pause here. Time for chores and exercises.
+
+4:55pm. How did this take so long? At any rate, let me resume the book. I can't believe I am only 75% in given how long I was reading it.
+
+I want to finish it and move on to the course. I am considering not getting the separate tape reading course given that this one will have material on tape reading.

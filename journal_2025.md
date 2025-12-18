@@ -23732,3 +23732,7 @@ Oh, wow! To think I was considering giving up the torrent. A dedicated seeder ca
 2:455pm. And it's downloaded. 10gb is half an hours. I thought it would take me days to get the rest down after it was stalled at 50% for several hours. I guess I'll seed it for a few days, but I haven't uploaded a kb today. It's not an active torrent.
 
 At any rate having this course completely changes my plans. I need to go through it and learn everything in it.
+
+3pm. > This is important. For example, we have learned that most of our desk trade poorly during the Midday. As a firm, we made adjustments. If you are killing it on the Open but then giving back your Open during the Midday then this is data that can revolutionize your results, such as trade with more size on the Open and with a lower tier size during the Midday, playing defense and holding your gains.
+
+This matches the results of the VWAP system. I think generally I should just skip the midday and focus only on the open and the close.

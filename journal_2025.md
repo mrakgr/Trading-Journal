@@ -23690,3 +23690,6 @@ Let me resume the download.
 What Sets SMB Capital’s Top Traders Apart (& What You Can Copy)
 
 Ok, this is nearly an hour long so I'll leave it for later. I clicked on it, but I didn't think it would be so long.
+
+11:45am. Let me start. I've decided yesterday that I am going to go with Quantower instead of Bookmap. Bookmap has only Nasdaq equities, and if there is another year like 2008 in the future I'll want the capability to trade NYSE stocks with footprint charts.
+

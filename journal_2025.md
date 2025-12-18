@@ -23724,3 +23724,11 @@ I am cooked.
 But well, I'll try my best.
 
 Sigh, it feels that tape reading is big revelation for me. I wish I could have a similar revelation in ML. ML feels like my charting days as a trader. I understand that it's wrong, but I can't take a step further into clarity.
+
+2:40pm. ![](images/image-1857.png)
+
+Oh, wow! To think I was considering giving up the torrent. A dedicated seeder can really make a difference.
+
+2:455pm. And it's downloaded. 10gb is half an hours. I thought it would take me days to get the rest down after it was stalled at 50% for several hours. I guess I'll seed it for a few days, but I haven't uploaded a kb today. It's not an active torrent.
+
+At any rate having this course completely changes my plans. I need to go through it and learn everything in it.

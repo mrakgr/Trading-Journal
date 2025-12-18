@@ -23742,3 +23742,7 @@ This matches the results of the VWAP system. I think generally I should just ski
 4:55pm. How did this take so long? At any rate, let me resume the book. I can't believe I am only 75% in given how long I was reading it.
 
 I want to finish it and move on to the course. I am considering not getting the separate tape reading course given that this one will have material on tape reading.
+
+5pm. > A great trader may lack the incentive to create the best training program. They are making millions trading, so why bother teaching a new trader? If SMB builds a desk of 150 profitable traders, then the personal and monetary rewards will be substantial. So needless to say, I am motivated. One day, perhaps Steve and I will be thought of as the Julian Robertson of intraday equities traders. (Robertson, chairman of Tiger Management, has seeded directly or indirectly over 50 hedge fund managers in the last two decades. His protégés are aptly called Tiger Cubs.)
+
+Here he talks about the SMB training programs. I am really looking forward to the course.

@@ -23675,3 +23675,18 @@ Oh lol.
 
 Lollol, this is perfect.
 
+12/18/2025
+
+11:15am. https://www.youtube.com/watch?v=u077H6NePmQ
+This Is What ALWAYS Happens Before a Recession
+
+11:20am. I am actually very motivated right now, but it's been messing with my sleep which is the reason I got up so late. Damn.
+
+I'll resume the book soon. It's really falling into place for me.
+
+Let me resume the download.
+
+11:30am. https://youtu.be/KxciCiwoqb8
+What Sets SMB Capital’s Top Traders Apart (& What You Can Copy)
+
+Ok, this is nearly an hour long so I'll leave it for later. I clicked on it, but I didn't think it would be so long.

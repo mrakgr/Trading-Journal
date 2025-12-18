@@ -23771,3 +23771,25 @@ Ok, let me finish the video and I'll finish for the day. I am really tired at th
 
 > Most profitable trades are easy.
 > We'll watch our screen. We'll notice a held bid, an unusual hold on the bid. And we'll go long and usually the stock will go up.
+
+8:50pm. For reference, this is how Quantower looks like.
+
+![](images/image-1860.png)
+
+I had to configure the clusters charts to show the delta, but it works fine.
+
+![](images/image-1861.png)
+
+Oh, I saw this. I was wondering what an unusual delta would be, but then this 271 bar came out and now the price is going down. I thought to myself that this could be the time to sell.
+
+![](images/image-1862.png)
+
+Or maybe not. Nwm this. It's a rangebound market. These just aren't that significant deltas.
+
+9pm. I'll have to explore the platform more in depth later. It has many volume tools, like speed of tape for example.
+
+Let close for reals here.
+
+Tomorrow my goal will be to wrap up the book.
+
+And then dive into the course. I am not sure how determined I am to sit in front of the screen 8h a day watching prices move, but I am indeed interested in doing research and learning new tools. Maybe I will find a path suitable for me if I just keep going.

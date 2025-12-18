@@ -23709,3 +23709,18 @@ No wait, the power's back on. The UPS saved me.
 
 I myself would be likely to make this kind of execution mistake. Once I give it a try, I am going to have to start fighting for the cents.
 
+12:55pm. Let me go get breakfast.
+
+2:15pm. ![](images/image-1856.png)
+
+This is so annoying. The download has completely stalled at 50%. I was getting hopeful, but I guess I might have to buy the course at some later date. Instead, I'll get the tape reading course once I am done with the book. After that I'll get the trades level data and the Quantower subscription.
+
+...But I should really finish the ORB system first.
+
+2:25pm. Damn it. I have no good idea at all of automating a tape reading system. I have no confidence in being able to train a NN to predict it. Even figuring out which features to give it would be hard. And I have no good idea for simulating an order book, as opposed to be bunch of prices going over the place with certain probabilities.
+
+I am cooked.
+
+But well, I'll try my best.
+
+Sigh, it feels that tape reading is big revelation for me. I wish I could have a similar revelation in ML. ML feels like my charting days as a trader. I understand that it's wrong, but I can't take a step further into clarity.

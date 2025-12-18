@@ -23793,3 +23793,8 @@ Let close for reals here.
 Tomorrow my goal will be to wrap up the book.
 
 And then dive into the course. I am not sure how determined I am to sit in front of the screen 8h a day watching prices move, but I am indeed interested in doing research and learning new tools. Maybe I will find a path suitable for me if I just keep going.
+
+9:10pm. https://youtu.be/KObUowoFiK0
+The Only Orderflow Footprint Chart Guide You'll Ever Need [Tutorial]
+
+Or I could watch this for a bit. Well whatever, let me just do what feels fun.

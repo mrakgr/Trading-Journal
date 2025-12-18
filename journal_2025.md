@@ -23746,3 +23746,28 @@ I want to finish it and move on to the course. I am considering not getting the 
 5pm. > A great trader may lack the incentive to create the best training program. They are making millions trading, so why bother teaching a new trader? If SMB builds a desk of 150 profitable traders, then the personal and monetary rewards will be substantial. So needless to say, I am motivated. One day, perhaps Steve and I will be thought of as the Julian Robertson of intraday equities traders. (Robertson, chairman of Tiger Management, has seeded directly or indirectly over 50 hedge fund managers in the last two decades. His protégés are aptly called Tiger Cubs.)
 
 Here he talks about the SMB training programs. I am really looking forward to the course.
+
+7:55pm. Ok, let me pause at 82%.
+
+I want to check out the course.
+
+8:15pm. ![](images/image-1858.png)
+
+Oh lol.
+
+![](images/image-1859.png)
+
+I am surprised how dated this video from the course is. Lehman Bros went bust famously in 2008 during the financial crisis. This is the tech they were using then. It can't be what they are still using now?
+
+I know, I know. I want to learn to read the tape. But I am not sure I can stomach these low tech solutions.
+
+It somewhat goes against my way. I admit that I was a fool for not realizing the value of footprint charts.
+
+But this...
+
+8:20pm. During the hard work video they talk about watching the support and resistance levels develop and how that will be an ATM machine. An easy money trade.
+
+Ok, let me finish the video and I'll finish for the day. I am really tired at this point.
+
+> Most profitable trades are easy.
+> We'll watch our screen. We'll notice a held bid, an unusual hold on the bid. And we'll go long and usually the stock will go up.

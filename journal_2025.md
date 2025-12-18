@@ -23693,3 +23693,12 @@ Ok, this is nearly an hour long so I'll leave it for later. I clicked on it, but
 
 11:45am. Let me start. I've decided yesterday that I am going to go with Quantower instead of Bookmap. Bookmap has only Nasdaq equities, and if there is another year like 2008 in the future I'll want the capability to trade NYSE stocks with footprint charts.
 
+12:20pm. ![](images/image-1854.png)
+
+This is quite thorough. Yeah, I'll have to do my analysis carefully. In particular, I'll have to look at the bids and offers for some of the trades.
+
+12:35pm. Power outage. I might have to turn off.
+
+Yeah, let me do it. I must not forget to resume the torrent when I get back...
+
+No wait, the power's back on. The UPS saved me.

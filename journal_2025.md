@@ -23992,3 +23992,11 @@ I actually missed the big print myself as I was focusing on the L2 box and looki
 4:50pm. Come to think of it, it's interesting that Quantower doesn't even have a regular time based volume indicator. Just shows how useless it is. The guy in this video isn't looking at that either.
 
 We'll it probably does, but it's well hidden.
+
+5pm. ![](images/image-1874.png)
+
+When I am reading charts, these extraneous prints fuck me over. But he knew well to just ignore it. Yeah, I am starting to get into this.
+
+On a footprint chart I could see this large print, but I'd see the price staying below 42.
+
+Incidentally, I missed the print again and had to rewind the video a bit to see it. I should just put the bid/ask on the bar directly.

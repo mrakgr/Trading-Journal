@@ -2,6 +2,13 @@
 
 I like how unlike in git commit messages I can also insert images in the markdown. I'll be using this for my journaling needs.
 
+## 12/19/2025
+
+https://youtu.be/wfjvphj1-LU
+Trading Order Flow: Keeping It Simple, Practical & Effective
+
+I am really into order flow now, and even going through the SMB Capital course. I found this really good video on their channel. Much of their day 1 content has to do with reading the tape or the trades executed directly.
+
 ## 12/16/2025
 
 https://www.youtube.com/playlist?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ

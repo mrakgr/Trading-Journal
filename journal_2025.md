@@ -24150,3 +24150,9 @@ He says it's the easiest order flow skill to learn, but is less attractive to tr
 I am going to have to go over the video later, I didn't understand the previous slide about stopouts.
 
 > If the market moves against you with low momentum, it's not the same as a momentum move against you.
+
+![](images/image-1894.png)
+> People are looking at the DOM to see the prices moving up and down.
+> Information about the trades executing and the volume profile contains about ten times as much actionable information as the bids and offers.
+
+This is a truly excellent video.

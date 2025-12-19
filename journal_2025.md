@@ -23939,3 +23939,8 @@ I am going to master the Open.
 12:35pm. > The more time, the more significant the move will be. The more volume, the more significant the move will be.
 
 12:45pm. This course is huge, it's going to take me a while to read and watch all of it. But even if it takes a month, that is fine. It's not a big deal to get educated on this. I am not in a hurry to trade. I'll follow the process to the letter.
+
+1:10pm. https://youtu.be/h-z71uspNHw
+They Just Retired LLMs: The Next 18 Months Are Wild!
+
+Seems interesting.

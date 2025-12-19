@@ -24022,3 +24022,28 @@ I guess that bodes poorly for me as a trader.
 ![](images/image-1878.png)
 
 He says that the bids got hit fast here and that's a sign of weakness. And the offers getting hit fast is a sign of strength.
+
+5:45pm. Phew, I watched it all. I have to admit I was definitely tuning out for much of it. The interestin part was when the 42 level was being tested from below, but the whole hour was a nothing burger pretty much.
+
+Let me read some of the docs.
+
+///
+
+The bid shows 50 NYSE, prints 5k/bid, and then the bid steps higher..........very bullish
+The offer shows 50 NYSE, prints 5k/offer, and the bid steps higher..........very bullish
+
+///
+
+I wonder if this is wrong. Shouldn't the later be having the offer stepping higher?
+
+6:05pm. Well, the short size isn't the same thing as the long side.
+
+///
+
+If the big prints are trading higher, then this is a bullish indicator. This can be especially helpful when a stock is in a downtrend and has sold off a lot. Then you notice a big print and then a big print higher. This is usually an excellent opportunity to get long a stock. 
+
+///
+
+I wish I could copy the whole document here, but I'll resist the urge to do so.
+
+I am skirting the red line. Who knows, maybe I'll have to take the journal down in the future or take it private.

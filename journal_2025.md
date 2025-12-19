@@ -23923,3 +23923,15 @@ Let me go back to the course.
 Egh, look at them using these candlestick charts in live trading. Egh.
 
 There is no reason not to have these be footprint charts.
+
+12:20pm. On day 1 they learn about held bids and offers. Mike Mellafiore is holding a class teaching them about that.
+
+And I knew nothing about this. I wasn't thinking about this at all. It's a huge edge, but I spent so many years trying to interpret the patterns on the daily charts. It's like trying to master calculus without knowing arithmetic.
+
+Sigh...
+
+Ok, I have the DOM indicator. If I got a job I could momentum trading on ETFs using it now. Right now I think the market is a long. It's not really dropping despite all the bearish sentiment.
+
+Intraday trading is really good as a hobby. I want to learn it, I want to get good at it, and I want to make it my side job, but I don't want it to be my career.
+
+I am going to master the Open.

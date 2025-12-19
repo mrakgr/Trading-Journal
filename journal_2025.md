@@ -24133,3 +24133,11 @@ I feel like I am going to win this time. And the reason why I feel that way is b
 This is so much edge. I just have to learn the language. And then I can be proud that I have done it.
 
 > It's not a matter of whether they are there in a reversal, but how obvious they are.
+
+10:30pm. ![](images/image-1892.png)
+
+You can't see them on a price chart. This was a big surprise to me when Carmine Rosato revealed it to me.
+
+Just what is Lance doing teach them that way then?
+
+Maybe his setups are particularly juicy?

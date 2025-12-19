@@ -24014,3 +24014,5 @@ Why is he shorting it at .85? He is saying how undisciplined traders short down 
 5:30pm. ![](images/image-1877.png)
 
 Oh my god, why is he trading here? After the initial drop from the top was disproved, it's much less likely that it will continue dropping. At that point, it's just fighting here.
+
+I am learning a lot from this, but it's also putting me to sleep.

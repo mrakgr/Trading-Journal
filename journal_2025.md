@@ -23913,3 +23913,7 @@ Here is the checklist.
 12:05am. ![](images/image-1867.png)
 
 No, I think this tape is too hard to read. I have zero idea at all what the volumes executed at particular levels are. But I think I get the overall concept. I need to wait until the buyers are in control and then stepping in. I need to do that around important levels.
+
+Let me go back to the course.
+
+12:10pm. Yeah, the big problem with the fast tape is that, it has numerical values on it and it flashes every quarter of a second. If you're just doing pattern recognition on images, that is one thing, but when you have to sum up the volumes at particular price levels and figure out the delta, I think I'll just stick to footprint charts. Now that I know what they are, I'd have invented them myself had they not existed.

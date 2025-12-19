@@ -23988,3 +23988,7 @@ He already went short prior to that. I wonder if he'll short more?
 > That's what we waited for. A lot of trading is just siting back and waiting for these good risk to reward situations to occur.
 
 I actually missed the big print myself as I was focusing on the L2 box and looking at the offer.
+
+4:50pm. Come to think of it, it's interesting that Quantower doesn't even have a regular time based volume indicator. Just shows how useless it is. The guy in this video isn't looking at that either.
+
+We'll it probably does, but it's well hidden.

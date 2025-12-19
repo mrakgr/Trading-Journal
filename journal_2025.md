@@ -24158,3 +24158,15 @@ I am going to have to go over the video later, I didn't understand the previous 
 This is a truly excellent video.
 
 10:50pm. > So if the bids and offers aren't there, you can be an accomplished order flow trader.
+
+![](images/image-1895.png)
+> That's the ideal place to start - just use momentum to keep you out of the trades that will run against you.
+> Use momentum to help you manage the trades.
+
+In a way I learned that from Lance with the 2 min bar system.
+
+![](images/image-1896.png)
+
+They have a platform similar to Bookmap.
+
+11:10pm. I'll leave it for tomorrow, I cannot focus on the video at all.

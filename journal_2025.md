@@ -23852,3 +23852,7 @@ At least this time around I can be sure that I am not fucking up my learning cur
 10:30am. ![](images/image-1863.png)
 
 Oh, I am done. I though that I'd have a bunch more left.
+
+Lance's course gives me some mixed feelings right now. It presents itself as simple, but it's actually a very advanced course. It doesn't touch order flow concepts at all, so I can only assume that the people studying it already know them.
+
+I am definitely going to learn more about those in the SMB course so let me dive into it.

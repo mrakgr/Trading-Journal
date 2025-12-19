@@ -24004,3 +24004,7 @@ Incidentally, I missed the print again and had to rewind the video a bit to see 
 ![](images/image-1875.png)
 
 Bear Sterns also went bust in the 2008 financial panic. I wonder on what date this video was recorded?
+
+5:20pm. ![](images/image-1876.png)
+
+Why is he shorting it at .85? He is saying how undisciplined traders short down there.

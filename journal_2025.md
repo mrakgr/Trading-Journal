@@ -24107,3 +24107,10 @@ I suppose I was in the same boat.
 In some ways I still am with regards to AI.
 
 I still haven't found my 'order flow' there.
+
+10:15pm. https://youtu.be/wfjvphj1-LU
+Trading Order Flow: Keeping It Simple, Practical & Effective
+
+![](images/image-1885.png)
+
+To think that in daytrading you can find reversals consistently, but swing traders have to use time stops.

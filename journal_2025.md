@@ -23872,3 +23872,10 @@ This track is pretty good, but I'll have to pause it.
 
 10:50am. > When we talk about Hard Work we mean watch the tape, watch the order flow. Find levels that are not dropping. Find levels where there is so much more volume done than anywhere else. These levels are even better after fresh news in a stock or ETF or other product.
 
+> If you are trading a stock or other product, and these levels do not develop, you conclude the stock is dead then move on. Type up some other stocks or product. And watch them intently. Watch for their intraday support and resistance levels to develop. When I first started trading, I received invaluable advice from an experienced trader that I have never forgotten......”if you are not going to come to work and search and watch for good set ups then don't bother coming to work.” These are not exactly the words I would use, but this is still a very important message to incorporate into your trading. Spend your trading day searching, watching for, and identifying support and resistance levels.
+
+I'll get a lot out of day 1. I actually didn't know this.
+
+I knew support and resistance as a concept, but after studying the charts, I concluded that they were pretty random. Sometimes they'd get broken, sometimes the market would breach them or miss it by a few ticks, sometimes it would consolidate there.
+
+But support and resistance level derived from order flow should be different.

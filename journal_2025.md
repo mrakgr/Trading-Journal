@@ -23921,3 +23921,5 @@ Let me go back to the course.
 ![](images/image-1868.png)
 
 Egh, look at them using these candlestick charts in live trading. Egh.
+
+There is no reason not to have these be footprint charts.

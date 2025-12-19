@@ -23881,3 +23881,11 @@ I knew support and resistance as a concept, but after studying the charts, I con
 But support and resistance level derived from order flow should be different.
 
 10:55am. Of course if you miss the biggest edge there is, you'll have trouble understanding trading.
+
+11:15am. I am very sensitive to being accused of being lazy. As a programmer, the bigger my toolkit the better. But if you're doing things by hand, then learning new things is wasting time. So being a programmer and learning new things is the optimal way to live. You don't get better at programming at writing code, but by learning new tools and concepts.
+
+And that is what I am doing now. I am going to absorb everything there is in SMB training, and find a way to automate it. I will have to trade manually for a time, but if I can figure out how to automate the support and resistance plays then I will have succeeded.
+
+I won't lie that I am looking forward to becoming a good trader and learning to trade manually, but I am not interested in making trading my main job.
+
+I guess that didn't change from 2007 - 2014.

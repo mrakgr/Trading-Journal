@@ -24120,3 +24120,10 @@ To think that in daytrading you can find reversals consistently, but swing trade
 I feel this really resonates with me.
 
 I can do some myself, and I can have the computer help me with it.
+
+10:25pm. ![](images/image-1887.png)
+![](images/image-1888.png)
+![](images/image-1889.png)
+![](images/image-1890.png)
+
+I feel like I am going to win this time. And the reason why I feel that way is because I won't be making uninformed trades anymore. I am going to be sure that the trades I am making have an edge before I make them.

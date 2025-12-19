@@ -23820,3 +23820,23 @@ They're still more common in the futures daytrading community than in equities, 
 ///
 
 Had I been smarter I could have invented them.
+
+12/19/2025
+
+9:40am. Let me chill and then I'll finish the book. Then it will be time to dive into the course.
+
+No matter how I look at it, 8h trading is too much. I'll only trade the open and spend the rest programming.
+
+Trading the whole day might be SMB's rules, but they aren't mine.
+
+9:45am. The important thing is to become consistently profitable. 30k/year extra is fine.
+
+What I am really afraid of is being at 0, the fact that I might be missing the chance to make millions from daytrading is besides the point.
+
+My true purpose should be to pursue the Singularity, not to become the best trader there ever was. If I could code up an order flow system that could be a major accomplishment.
+
+9:55am. https://youtu.be/tE8Lt5mBQb0?t=650
+
+Lol, this is hillarious.
+
+10am. At any rate, my goal for the time being is to just learn. It's not to apply to SMB.

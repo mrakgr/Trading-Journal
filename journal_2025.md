@@ -24141,3 +24141,10 @@ You can't see them on a price chart. This was a big surprise to me when Carmine 
 Just what is Lance doing teach them that way then?
 
 Maybe his setups are particularly juicy?
+
+10:40pm. ![](images/image-1893.png)
+> If you can't read momentum, you'll be the victim of it.
+
+He says it's the easiest order flow skill to learn, but is less attractive to traders compared to momentum.
+
+I am going to have to go over the video later, I didn't understand the previous slide about stopouts.

@@ -24127,3 +24127,7 @@ I can do some myself, and I can have the computer help me with it.
 ![](images/image-1890.png)
 
 I feel like I am going to win this time. And the reason why I feel that way is because I won't be making uninformed trades anymore. I am going to be sure that the trades I am making have an edge before I make them.
+
+![](images/image-1891.png)
+
+This is so much edge. I just have to learn the language. And then I can be proud that I have done it.

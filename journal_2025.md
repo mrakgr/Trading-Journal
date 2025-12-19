@@ -24114,3 +24114,9 @@ Trading Order Flow: Keeping It Simple, Practical & Effective
 ![](images/image-1885.png)
 
 To think that in daytrading you can find reversals consistently, but swing traders have to use time stops.
+
+![](images/image-1886.png)
+
+I feel this really resonates with me.
+
+I can do some myself, and I can have the computer help me with it.

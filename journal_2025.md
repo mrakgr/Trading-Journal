@@ -23969,3 +23969,13 @@ I need to rewatch this. How does he know that the ARCA buyer was holding up the 
 4:30pm. ![](images/image-1871.png)
 
 I won't lie, this is kind of putting me to sleep. I think I need some practical experience to help me focus. I might have to change gears, and get full L2 data as well as a Quantower subscription if I want to apply these concepts in simulated trading.
+
+4:40pm. ![](images/image-1872.png)
+> This is what we're waiting for. We're waiting for the level to develop.
+> This is becoming a little bit of a resistance level. The more he sells the bigger the resistance level.
+
+Yeah one of the techniques demonstrated could be emulated with footprint charts, but not all of them. Footprint charts would be great for finding volume at certain price, but not good for figuring out when a buyer drops for example. In fact, I am not sure I could do the later even with a heatmap.
+
+But well, it's not like Jesse Livermore could see the order book in the bucket shop. He was reading times and sales there.
+
+Just by incorporating the insight of how much volume it usually takes to move a stock into my trading could develop into a significant edge.

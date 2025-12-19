@@ -24065,3 +24065,11 @@ I don't understand this part. Is he saying that I should pay attention to midpoi
 7:25pm. ![](images/image-1879.png)
 
 Is this JThoma?
+
+7:30pm. Ok, enough for today.
+
+![](images/image-1880.png)
+
+I think I'll skip the rest of the videos on day 1 as they are essentially pep talks. I want to get to the nitty gritty technicals.
+
+I'll have time to visualize once I actually get into the game. Who knows whether I'll actually enjoy it once I start, but I'll give it my best.

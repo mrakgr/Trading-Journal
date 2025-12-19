@@ -24047,3 +24047,21 @@ If the big prints are trading higher, then this is a bullish indicator. This can
 I wish I could copy the whole document here, but I'll resist the urge to do so.
 
 I am skirting the red line. Who knows, maybe I'll have to take the journal down in the future or take it private.
+
+///
+
+If the bid is 30 and the offer is 30.10 yet you notice prints at 30.02 continuously this is an example of an automatic buyer. This signals that there is a hidden INET of HUNT order at 30.02. This is a special situation that should catch our attention. This is what we are looking for. This is why we work hard and gather information. This is a risk reward setup that is favorable.
+
+///
+
+I don't understand this part. Is he saying that I should pay attention to midpoint sales near the bid?
+
+6:15pm. The docs are a bit unpolished.
+
+6:20pm. At any rate, let me watch the Proper Preparation video.
+
+7:05pm. Done with lunch. Let me watch that video. I think these early video are the most important. The tape reading parts are what I am missing. The actual setups aren't that big of a deal.
+
+7:25pm. ![](images/image-1879.png)
+
+Is this JThoma?

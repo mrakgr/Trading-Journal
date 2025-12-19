@@ -23961,3 +23961,11 @@ They are using Windows XP in the video, so this version of the course has to be 
 > ARCA dropped. He's not there anymore so you should put your orders in to short the stock.
 
 Wow, I didn't know they're actually trying to read what the other party is doing. That is pretty advanced. It'd be much harder to do this if the tape is faster by 10x though.
+
+I need to rewatch this. How does he know that the ARCA buyer was holding up the stock.
+
+4:15pm. Yeah, this is pretty hard. I have no idea what the volume at each level is.
+
+4:30pm. ![](images/image-1871.png)
+
+I won't lie, this is kind of putting me to sleep. I think I need some practical experience to help me focus. I might have to change gears, and get full L2 data as well as a Quantower subscription if I want to apply these concepts in simulated trading.

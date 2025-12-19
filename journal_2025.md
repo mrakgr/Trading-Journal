@@ -23979,3 +23979,8 @@ Yeah one of the techniques demonstrated could be emulated with footprint charts,
 But well, it's not like Jesse Livermore could see the order book in the bucket shop. He was reading times and sales there.
 
 Just by incorporating the insight of how much volume it usually takes to move a stock into my trading could develop into a significant edge.
+
+![](images/image-1873.png)
+> We haven't see that before. 10k shares. Big level.
+
+He already went short prior to that. I wonder if he'll short more?

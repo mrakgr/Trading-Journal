@@ -23905,3 +23905,11 @@ In the SMB course, you could reasonably track the Time & Sales box, but in the v
 https://youtu.be/YEL79Kpufxo?t=351
 
 Yeah, the tape is simply extremely fast here. A page on it lasts barely a quarter of a second before refreshing.
+
+11:55am. ![](images/image-1866.png)
+
+Here is the checklist.
+
+12:05am. ![](images/image-1867.png)
+
+No, I think this tape is too hard to read. I have zero idea at all what the volumes executed at particular levels are. But I think I get the overall concept. I need to wait until the buyers are in control and then stepping in. I need to do that around important levels.

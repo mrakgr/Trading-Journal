@@ -24000,3 +24000,7 @@ When I am reading charts, these extraneous prints fuck me over. But he knew well
 On a footprint chart I could see this large print, but I'd see the price staying below 42.
 
 Incidentally, I missed the print again and had to rewind the video a bit to see it. I should just put the bid/ask on the bar directly.
+
+![](images/image-1875.png)
+
+Bear Sterns also went bust in the 2008 financial panic. I wonder on what date this video was recorded?

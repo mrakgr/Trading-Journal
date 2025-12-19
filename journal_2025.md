@@ -23856,3 +23856,12 @@ Oh, I am done. I though that I'd have a bunch more left.
 Lance's course gives me some mixed feelings right now. It presents itself as simple, but it's actually a very advanced course. It doesn't touch order flow concepts at all, so I can only assume that the people studying it already know them.
 
 I am definitely going to learn more about those in the SMB course so let me dive into it.
+
+![](images/image-1864.png)
+
+I wish these were ordered properly, but beggars can't be choosers. Let me dive in. I am going to have to watch the level 2 basics again. Just why is a midpoint trade white? Shouldn't it be either on the bid or the ask. I'll have Claude Opus answer it all for me.
+
+10:35am. https://youtu.be/SttmUoURRww
+ORDER ENDS HERE - Cyberpunk Synthwave Metal Coding & Gaming Mix | Melodic Heavy Metal Instrumental
+
+This track is pretty good, but I'll have to pause it.

@@ -24018,3 +24018,7 @@ Oh my god, why is he trading here? After the initial drop from the top was dispr
 I am learning a lot from this, but it's also putting me to sleep.
 
 I guess that bodes poorly for me as a trader.
+
+![](images/image-1878.png)
+
+He says that the bids got hit fast here and that's a sign of weakness. And the offers getting hit fast is a sign of strength.

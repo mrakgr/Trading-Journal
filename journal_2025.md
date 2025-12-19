@@ -23956,3 +23956,8 @@ Yeah, I am back to who I was before. Within a few months, I will have finished m
 The tape is so nice and slow here. The one in the Youtube video is 10x faster.
 
 They are using Windows XP in the video, so this version of the course has to be from over 15 years ago. I see LEHM amongst the tickers.
+
+![](images/image-1870.png)
+> ARCA dropped. He's not there anymore so you should put your orders in to short the stock.
+
+Wow, I didn't know they're actually trying to read what the other party is doing. That is pretty advanced. It'd be much harder to do this if the tape is faster by 10x though.

@@ -24073,3 +24073,13 @@ Is this JThoma?
 I think I'll skip the rest of the videos on day 1 as they are essentially pep talks. I want to get to the nitty gritty technicals.
 
 I'll have time to visualize once I actually get into the game. Who knows whether I'll actually enjoy it once I start, but I'll give it my best.
+
+8pm. The whole exercise of thinking though how I would actually program the system is a good one. Bella did give me a system which is to anticipate how much volume is enough to move a stock how many points and act on that.
+
+I'd have to prepare for various kinds of patterns.
+
+In that document there were various tape patterns. But it's not as simple as watching prices move anymore. I'll have to get really creative.
+
+The closer I can get to quantitative mastery, the closer I'll get to discretionary mastery as well.
+
+The more I code up, the less I'll have to do in the real world, and the higher my efficiency will be as trader.

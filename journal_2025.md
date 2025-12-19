@@ -23944,3 +23944,15 @@ I am going to master the Open.
 They Just Retired LLMs: The Next 18 Months Are Wild!
 
 Seems interesting.
+
+2:05pm. Done with breakfast. Exercises and chores are next. Let me chill first.
+
+Yeah, I am back to who I was before. Within a few months, I will have finished my studies and learned some useful trading skills I'll be able to use to make a living. At that point whether I get a job ever again won't matter and I'll be able to put my financial anxiety to rest.
+
+3:45pm. Done with exercises and chores. Let me go through that tape reading video. It's called Prints On The Close.
+
+4pm. ![](images/image-1869.png)
+
+The tape is so nice and slow here. The one in the Youtube video is 10x faster.
+
+They are using Windows XP in the video, so this version of the course has to be from over 15 years ago. I see LEHM amongst the tickers.

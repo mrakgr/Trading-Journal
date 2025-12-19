@@ -24099,3 +24099,11 @@ I decided to try the daytrading sub, and I found this really interesting thread 
 9:35pm. I'll take this thread with a grain of salt. All his charts are basic indicator slop.
 
 Saying that he is the one to execute isn't consistent with 'algos are too fast'.
+
+9:40pm. Honestly, going from the order flow course and the SMB training course to the daytrading reddit is like visiting the lunatic asylum. It's like all those people are incapable of doing basic research.
+
+I suppose I was in the same boat.
+
+In some ways I still am with regards to AI.
+
+I still haven't found my 'order flow' there.

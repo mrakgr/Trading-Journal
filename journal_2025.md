@@ -23840,3 +23840,11 @@ My true purpose should be to pursue the Singularity, not to become the best trad
 Lol, this is hillarious.
 
 10am. At any rate, my goal for the time being is to just learn. It's not to apply to SMB.
+
+10:20am. Let me start. Time to wrap up the book today.
+
+> So after all of the ups and downs in the markets, I have been continually developing the trading system that we teach at SMB Capital. We trade the Stocks In Play. We trade off of levels that we spot intraday, prices where sellers and buyers exchange the most stock. We search for epic battles between the bulls and bears. We want to see a lot of volume done at a price. Once it is, then we have a level. We are long above this level and short below.
+
+Fuck. To think I spent 7 years as a trader without ever learning about true support and resistance plays. That is some advanced retardation.
+
+At least this time around I can be sure that I am not fucking up my learning curve.

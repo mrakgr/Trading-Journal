@@ -23879,3 +23879,5 @@ I'll get a lot out of day 1. I actually didn't know this.
 I knew support and resistance as a concept, but after studying the charts, I concluded that they were pretty random. Sometimes they'd get broken, sometimes the market would breach them or miss it by a few ticks, sometimes it would consolidate there.
 
 But support and resistance level derived from order flow should be different.
+
+10:55am. Of course if you miss the biggest edge there is, you'll have trouble understanding trading.

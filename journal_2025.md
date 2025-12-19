@@ -23984,3 +23984,7 @@ Just by incorporating the insight of how much volume it usually takes to move a 
 > We haven't see that before. 10k shares. Big level.
 
 He already went short prior to that. I wonder if he'll short more?
+
+> That's what we waited for. A lot of trading is just siting back and waiting for these good risk to reward situations to occur.
+
+I actually missed the big print myself as I was focusing on the L2 box and looking at the offer.

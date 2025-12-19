@@ -23889,3 +23889,5 @@ And that is what I am doing now. I am going to absorb everything there is in SMB
 I won't lie that I am looking forward to becoming a good trader and learning to trade manually, but I am not interested in making trading my main job.
 
 I guess that didn't change from 2007 - 2014.
+
+11:20am. What I really want is a strong power. I need something to do while I am not working on anything in particular.

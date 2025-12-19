@@ -24095,3 +24095,5 @@ The more I code up, the less I'll have to do in the real world, and the higher m
 ![](images/image-1884.png)
 
 I decided to try the daytrading sub, and I found this really interesting thread right off the bat.
+
+9:35pm. I'll take this thread with a grain of salt. All his charts are basic indicator slop.

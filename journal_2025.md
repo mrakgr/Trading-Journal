@@ -23893,3 +23893,15 @@ I guess that didn't change from 2007 - 2014.
 11:20am. What I really want is a strong power. I need something to do while I am not working on anything in particular.
 
 Roy explains how the midpoint trades can be possible. It's when the orders are hidden. As for whether they are buying or selling, he says we'll be able to figure that out when we're more experienced as traders.
+
+11:40am. Let me pause here. Now that I understand what I should be looking for let me go through that tape reading video again.
+
+11:45am. ![](images/image-1865.png)
+
+I see they've really modernized their setup, but goddamn the tape he is showing there is fast.
+
+In the SMB course, you could reasonably track the Time & Sales box, but in the video it's really fast.
+
+https://youtu.be/YEL79Kpufxo?t=351
+
+Yeah, the tape is simply extremely fast here. A page on it lasts barely a quarter of a second before refreshing.

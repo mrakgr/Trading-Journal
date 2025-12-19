@@ -24148,3 +24148,5 @@ Maybe his setups are particularly juicy?
 He says it's the easiest order flow skill to learn, but is less attractive to traders compared to momentum.
 
 I am going to have to go over the video later, I didn't understand the previous slide about stopouts.
+
+> If the market moves against you with low momentum, it's not the same as a momentum move against you.

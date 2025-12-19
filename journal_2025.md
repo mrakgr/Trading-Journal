@@ -23848,3 +23848,7 @@ Lol, this is hillarious.
 Fuck. To think I spent 7 years as a trader without ever learning about true support and resistance plays. That is some advanced retardation.
 
 At least this time around I can be sure that I am not fucking up my learning curve.
+
+10:30am. ![](images/image-1863.png)
+
+Oh, I am done. I though that I'd have a bunch more left.

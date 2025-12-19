@@ -23865,3 +23865,10 @@ I wish these were ordered properly, but beggars can't be choosers. Let me dive i
 ORDER ENDS HERE - Cyberpunk Synthwave Metal Coding & Gaming Mix | Melodic Heavy Metal Instrumental
 
 This track is pretty good, but I'll have to pause it.
+
+10:45am. Ok, I think I understand what is so weird about this course. I think this course is a version of it that was created before 2010. Lol. I'd be shocked if I got the current version that they'd give the trainees these outdated videos. But I can still learn a lot from it regardless.
+
+10:50am. One of the vids is 320x240, and I can't even play it properly.
+
+10:50am. > When we talk about Hard Work we mean watch the tape, watch the order flow. Find levels that are not dropping. Find levels where there is so much more volume done than anywhere else. These levels are even better after fresh news in a stock or ETF or other product.
+

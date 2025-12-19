@@ -24083,3 +24083,15 @@ In that document there were various tape patterns. But it's not as simple as wat
 The closer I can get to quantitative mastery, the closer I'll get to discretionary mastery as well.
 
 The more I code up, the less I'll have to do in the real world, and the higher my efficiency will be as trader.
+
+9:25am. https://www.reddit.com/r/Daytrading/comments/1pqjv5c/why_i_stopped_trading_patterns_and_focused_purely/
+
+![](images/image-1881.png)
+![](images/image-1882.png)
+![](images/image-1883.png)
+
+> This chart tracks individual large order lots and vector momentum in real time. The human eye cannot process this data speed manually. By the time you spot a divergence on a standard footprint chart with your naked eye, HFTs and algos have already front-run the move. My script calculates the variance, checks the tick sequencing, and paints a signal.
+
+![](images/image-1884.png)
+
+I decided to try the daytrading sub, and I found this really interesting thread right off the bat.

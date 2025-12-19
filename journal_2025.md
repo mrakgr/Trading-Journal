@@ -23935,3 +23935,5 @@ Ok, I have the DOM indicator. If I got a job I could momentum trading on ETFs us
 Intraday trading is really good as a hobby. I want to learn it, I want to get good at it, and I want to make it my side job, but I don't want it to be my career.
 
 I am going to master the Open.
+
+12:35pm. > The more time, the more significant the move will be. The more volume, the more significant the move will be.

@@ -24156,3 +24156,5 @@ I am going to have to go over the video later, I didn't understand the previous 
 > Information about the trades executing and the volume profile contains about ten times as much actionable information as the bids and offers.
 
 This is a truly excellent video.
+
+10:50pm. > So if the bids and offers aren't there, you can be an accomplished order flow trader.

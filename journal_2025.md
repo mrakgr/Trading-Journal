@@ -24407,3 +24407,7 @@ He's of course referring to the DOM.
 I am a bit confused though. I don't think the DOM here is the same as the L2 box and the trades box that SMB Capital traders were using. I am pretty sure it's taking the cumulative volume profile.
 
 Ok, I could deal with that. The Time & Sales is just too fast nowadays, but I could reasonably trade the DOM. I should make it a priority to learn how to set it up.
+
+2:05pm. ![](images/image-1904.png)
+
+Predictive style. First time hearing that term, but it clicks well.

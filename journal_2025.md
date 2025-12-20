@@ -24170,3 +24170,13 @@ In a way I learned that from Lance with the 2 min bar system.
 They have a platform similar to Bookmap.
 
 11:10pm. I'll leave it for tomorrow, I cannot focus on the video at all.
+
+12/20/2025
+
+10am. Trading is really important to me because it's really important to me to take control of my finances. It's really important that I step out of this shadow of failure. Tao Ceti made me happy for a while, but it was just another failed project in the end.
+
+What I really want is define my A and A+ setups and bet big on them. I don't want this to be a job. I suffered greatly in 2007 - 2014. I want to come out of the fog and for once grasp true skill.
+
+I want the confidence that comes from being in control. If I could conquer this game I will be able to move on from the past period of my life.
+
+And I want to have fun with this, rather than let it turn into a grind.

@@ -24194,3 +24194,8 @@ Even when I am determined it seems that I waste time.
 Let me finish the order flow video from yesterday that I added to the readme. In fact I need to repeat it because I didn't get some things.
 
 I started it fairly late yesterday and couldn't focus properly.
+
+https://youtu.be/xe5yQDxX25A
+Mastering the DOM: The DOM vs Charts | Gary Norden
+
+This caught my attention.

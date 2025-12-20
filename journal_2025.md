@@ -24510,3 +24510,11 @@ Yeah, I do have to admit, it's pretty boring just watching the tape like this. S
 Split the trading into 2m bars, cluster the volume inside of them and then if there is abnormal volume being done in present cluster, send out the alert.
 
 I could easily do this.
+
+6:05pm. Let me resume. I am almost done with the video I was watching.
+
+6:10pm. Done. I am pretty bored with this.
+
+> We receive some of our most opportunistic buy and sell signals from these unusual holds. Experienced intraday traders make most of their money by spotting them.
+
+6:15pm. I am irritated with these tape reading exercises due to the lack of a running total for a particular level. I am a lazy person. Why do I have to sum up the numbers in my head? I have better use for my brain cells.

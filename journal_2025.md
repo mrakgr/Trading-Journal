@@ -24411,3 +24411,27 @@ Ok, I could deal with that. The Time & Sales is just too fast nowadays, but I co
 2:05pm. ![](images/image-1904.png)
 
 Predictive style. First time hearing that term, but it clicks well.
+
+> I'd like to try trading without using charts, but the time & sales box is simply too fast. Could the DOM be configured to show the cumulative volume for the bids and the asks at each price level in Quantower?
+
+///
+
+Yes, that's exactly what a **footprint chart** (or cluster chart) does in Quantower—and you were already looking into those.
+
+But if you want to stay purely on the DOM without charts, Quantower's DOM has a **Volume Analysis** column you can enable. This shows cumulative traded volume at each price level, often split by bid/ask (delta). You'd see how much actually executed at each price, not just what's resting.
+
+To configure it: right-click on the DOM header area to access column settings, and look for options like "Trades," "Volume," or "Delta." You can add columns showing:
+- Total volume traded at each level
+- Bid vs ask breakdown (what hit the bid vs lifted the offer)
+- Delta (difference between buy and sell volume)
+
+This gives you a tape-reading style approach without watching the raw time & sales fly by—you see the accumulated footprint directly on the price ladder.
+
+If you can't find these settings, check Quantower's DOM Surface or Volume Analysis features in their documentation. The exact column names may vary, but the functionality should be there since Quantower is fairly full-featured for this kind of order flow analysis.
+
+///
+
+This sounds really interesting. I'll check it out later.
+
+![](images/image-1905.png)
+> It doesn't work that way.

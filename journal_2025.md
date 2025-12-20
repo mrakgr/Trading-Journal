@@ -24487,3 +24487,7 @@ Ok, I am reading the tape along with the trader, but I don't have a good sense o
 A footprint chart or an advanced DOM like the one I'll use could tell me that. Like I can't even see what the usual volume in this stock is.
 
 All of this should be possible at a glance, but the technology they are using isn't good.
+
+5:15pm. ![](images/image-1907.png)
+
+This is kind of nice. You get a few trades at most every second. The latest video by Jeff Holden on tape reading had over a 100 trades per second. I am not sure how it would be humanly possible to keep track of that.

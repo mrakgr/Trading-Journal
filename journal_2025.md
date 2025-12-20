@@ -24435,3 +24435,15 @@ This sounds really interesting. I'll check it out later.
 
 ![](images/image-1905.png)
 > It doesn't work that way.
+
+2:40pm. Ok, nevermind, I am not interested in watching the whole thing or the other parts of the series. It's just a grouchy rant against charts. It gives an old-man-yells-at-clouds vibe.
+
+Let me resume the SMB course for just a bit and then I'll do the exercises and chores.
+
+I feel that I've gained a lot from learning about the trading drills. I should start those as soon as possible.
+
+I am going to die of boredom if all I do is just watch lectures for the next month.
+
+Let me just get the basics from the SMB course and then I will resume both my programming work and start the trading drills.
+
+I can't start them right away, I have first figure out how to get the data and link them to Quantower.

@@ -24186,3 +24186,11 @@ And I want to have fun with this, rather than let it turn into a grind.
 What I failed to do in the past decade, I will do in the current one.
 
 I will attain the insight of a professional trader and grasp the freedom that I failed last time.
+
+11am. Ah damn it let me start. I actually woke up at 8:30am, so where did the time go?
+
+Even when I am determined it seems that I waste time.
+
+Let me finish the order flow video from yesterday that I added to the readme. In fact I need to repeat it because I didn't get some things.
+
+I started it fairly late yesterday and couldn't focus properly.

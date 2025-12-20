@@ -24220,3 +24220,7 @@ I had to go over this again and write it down as it's both funny and poignant.
 11:35pm. 
 
 > If the bids and offers weren't there you could still be an accomplished order flow trader.
+
+![](images/image-1898.png)
+
+> If you try a strategy of buying against big bids and selling against big offers, you will absolutely lose money.

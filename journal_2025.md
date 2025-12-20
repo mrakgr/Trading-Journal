@@ -24449,3 +24449,33 @@ Let me just get the basics from the SMB course and then I will resume both my pr
 I can't start them right away, I have first figure out how to get the data and link them to Quantower.
 
 I'll also how to figure out how to set up the keys and whatever else I may have missed.
+
+3:20pm. > Your detailed plan will be very basic in the beginning because you're slow and you don't know what you're doing.
+
+Ok, let me do the needful here first otherwise the sun will go down. I got a decent amount out of day one.
+
+4:25pm. Done with exercises and chores. Let me resume.
+
+> Create simple plans in the beginning.
+> So in order to be successful, and to be able to go through the learning curve you want to keep your detailed plans very simple.
+> So you're getting long held bids in front of support and short held offers in front of resistance and those are going to be your two plays in the beginning. Those are going to be your detailed plan.
+> I see ARCA buying 30,000 shares, I am gonna buy 100 shares with him. And that's going to be your detailed plan.
+
+4:50pm. 
+
+> Unusual holds on the bid or offer are the most common reason and one of the best reasons to get into a stock. Our entry is well defined, and our exit is well defined.
+> If there is an unusual hold on the bid at 25c and you buy the stock at 25c or 26c then you know that your out is when the buyer drops. You've just identified a catalyst that may make the stock go up.
+> You've identified a large buyers at a specific price. Your risk is well defined. You're risking a few pennies, maybe one penny and your upside could be significant.
+> Keep it simple. Unusual holds are very simple easy trade, one of the easiest trades that you can make. When you spot them, make the trades, call them out to the desk, and your results will speak to themselves.
+
+4:55pm. You know, maybe I could make script to trade them properly. Like, I don't need to be the one to buy and sell myself at those levels. I can just give the level to the script and have it enter and exit the play.
+
+The reason why I'd do that is for the sake of speed. If the bid drops for example, I'd want to flip as soon as possible. If I could save a second or two on every trade, that might make a big difference.
+
+5:05pm. > An unusual hold is when you see 5 to 10 times the normal volume done at the same price than you'd expect.
+
+This is the first time I've actually heard a definition of it.
+
+> Held bid is 2-3 times the normal volume done at the same price.
+
+Ah, I see, there is a difference in terminology between the two.

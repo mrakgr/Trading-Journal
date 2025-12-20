@@ -24391,3 +24391,19 @@ He says it takes a lot of focus, but it can't be that much worse than playing Gh
 What I should do is get really good at sim trading and afterwards I can consider real money trading if I ever get good at that. I am not like those imbeciles who start with real money and lose it all.
 
 I'll take the proper steps.
+
+![](images/image-1903.png)
+> If we look at the size of the trade this is exceptional.
+> We can look at a circle here this is the circle.
+
+He's pointing at the heatmap.
+
+> Circle also shows us where exceptional size trades.
+> I tend not to be looking at the circles to be honest.
+> This kind of charting, it lets you go to the toilet and then you come back you can see what happened, but in real time I am just watching this.
+
+He's of course referring to the DOM.
+
+I am a bit confused though. I don't think the DOM here is the same as the L2 box and the trades box that SMB Capital traders were using. I am pretty sure it's taking the cumulative volume profile.
+
+Ok, I could deal with that. The Time & Sales is just too fast nowadays, but I could reasonably trade the DOM. I should make it a priority to learn how to set it up.

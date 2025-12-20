@@ -24216,3 +24216,7 @@ Lol.
 > People watching the DOM, they're just watching the market moving up and down, but if you had to gauge the importance of bids and offers compared to the actual trade execution I'd say that the information about the trades executing and the volume profile contains about 10 times as much actionable information as the bids and offers.
 
 I had to go over this again and write it down as it's both funny and poignant.
+
+11:35pm. 
+
+> If the bids and offers weren't there you could still be an accomplished order flow trader.

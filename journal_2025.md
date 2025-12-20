@@ -24228,3 +24228,154 @@ I had to go over this again and write it down as it's both funny and poignant.
 ![](images/image-1899.png)
 
 I really wonder what the drill they're giving the people are? I should be doing those.
+
+///
+
+I don't have information about the specific drills from Jigsaw Trading's course in my knowledge. Let me search for this.Based on the search results, here are the main drills from the Jigsaw Trading course:
+
+**Core Drills:**
+
+1. **Cut and Reverse Drill** (also called "Always in the Market")
+   - Take a 1-contract position and stay in the market for 60-90 minutes
+   - You can never go flat — only reverse your position when you sense flow is changing
+   - Builds ability to read market flow and recognize when to exit bad trades
+   - Do at least 10 sessions, 1-2 per day
+
+2. **One Tick Drill**
+   - Goal: enter and exit with just 1 tick profit, repeatedly
+   - The tiny target forces you to focus purely on entries
+   - Trade frequently — prop firms target 70+ trades per day
+   - Builds pattern recognition for optimal entry points
+
+3. **Trading Naked**
+   - Trade using only a stripped-down DOM (no charts, no indicators)
+   - Just market depth bids/offers and accumulated trades at price
+   - Develops understanding of the auction process and order flow
+
+**Additional Exercises Mentioned:**
+
+- Fade iceberg orders/absorption areas
+- Look for pulling on one side and stacking on the other
+- Establish short-term ranges and scalp both sides
+- Practice around economic news releases using replay software
+
+The progression typically runs: overwhelming first few weeks → recognizing obvious flow changes → developing intuition for market pace → skills transferring to regular trading. The course emphasizes doing these in simulation, not live, and includes replay software to practice specific order flow patterns across different market conditions.
+
+///
+
+I asked Opus this and got an answer. These are actually pretty good drills.
+
+https://www.jigsawtrading.com/blog/the-trading-drill-that-never-stops/
+
+///
+
+Here’s what typically happens when traders first attempt this drill:
+
+Week 1-2: Overwhelming. You’ll reverse constantly, often at the worst possible moments. This is normal.
+
+Week 3-4: You start recognizing obvious flow changes and your reversals become more selective.
+
+Week 5-6: You develop intuition for market pace and begin anticipating flow changes before they’re obvious.
+
+Week 7+: The skills transfer to your regular trading – you naturally stay aligned with market momentum.
+
+The breakthrough moment usually comes when you realize that most “obvious” signals are actually counterintuitive. What looks like a clear reversal to the untrained eye often represents continuation to the experienced flow reader.
+
+///
+
+You know, I could do this!
+
+///
+
+Please remember, this isn’t theory… This is how professionals develop their edge. It might feel chaotic at first, but that’s exactly why it works so well.
+
+///
+
+11:55am. ![](images/image-1900.png)
+
+Lol'd at Opus giving me a direct link to this pirate site. I'll keep it in mind.
+
+12pm. ![](images/image-1901.png)
+
+Yeah, maybe I could get this course and move on to doing the drills. I am not sure I want to spend an entire month just watching lectures when I could be getting taught directly by the market instead.
+
+I could try trading naked + cut and reverse.
+
+https://www.jigsawtrading.com/learn-to-trade-free-order-flow-analysis-lessons-lesson11/
+
+> A well-known UK Proprietary (prop) Trading Shop, takes on new traders and funds them. Their goal is to get the new traders trading 1-2 lots of the prop shops money within 12 weeks. Obviously some take longer. They do not allow their traders to use charts until they can trade off the order flow. It is not just this prop shop that is doing this. Through Jigsaw, I have met a number of professional traders who are all saying the same thing:
+
+> “If you want to use the order flow to help refine your entries, then learn to use it ON ITS OWN first.”
+
+Oh, this is a very good article.
+
+///
+
+So how is this actually done? At the prop shops, they have a mentor that will set you exercises. Examples of the exercises are:
+
+* Stay in the market all day. You cannot close trades, only reverse them. The idea of course is that you get in tune with the flow of the market.
+* Scalp 2 ticks out of the market. Get in and get out after only 2 ticks. Do not hold on for more ticks. This will have you focused on entries.
+
+They set high targets of 70+ trades per day. They have you do this on thin & thick markets. Personally, I’d prefer to stick with one market. You could set your own exercises based on the action. For example:
+
+* Fade all iceberg orders/areas of absorption you see.
+* Fade all iceberg orders/areas of absorption you see, if they fail to hold.
+* Fade all iceberg orders/areas of absorption you see, if they fail to hold and then opposing market orders come in, in size.
+* Look for pulling on one side & stacking on the other & trade that.
+* Look for the market to establish a short term range and scalp either side.
+* Enter a trade in a random direction and then try to ride the winners and cut short the losers.
+* Wait for momentum in one direction and try to ride it.
+
+The point here isn’t so much that these will be the way you will eventually trade, the point is to avoid that stuff on trading forums about “just watch the screen for 10,000 hours and you’ll get it”. Staring at a screen is dull, it is boring, it is hard to stay focused. On the other hand, exercises that get you involved with the market are fun and they are engaging. Having some structure to it as above is also useful as each exercise has you focused on different things and not just a random “punch buy or sell when you feel like it”.
+
+///
+
+> Finally, I think you have to be realistic about how much time you can focus on this per sitting. I recently took a lesson in a Boeing 737 flight simulator. It lasted an hour. At the end of it, they had to pry my fingers from the yoke. It was fun but took an incredible amount of focus because there was so much to do and it was all new to me. It was certainly stressful. Whilst it was fun, an hour was enough. I know the prop guys are made to sit down all day and trade this, I am sure they take breaks but given the choice, I’d much prefer to do 2 x 60 minute sessions initially per day than try to spend 8 hours on it. If you feel like it’s just not sinking in any more or that your focus has gone, take a break.
+
+Yeah, this is great.
+
+I already said that I don't want to play the game for too long, so dedicating an hour or two at the open and the close is what I'd prefer.
+
+12:05pm. https://pricesquawk.com/100trades-using-sound/
+> I want to take 100 trades using just sound as input. No DOM, no charts, just PriceSquawk. The idea is to put on some headphones and listen to the order flow, with audible cues for entering, managing and exiting trades as an exercise. The goal is to execute 100 trades using an audible stream of market information which will provide me all the order flow information needed in order to execute the system mechanically.
+
+Oh lol, this is actually a great idea.
+
+https://pricesquawk.com/preparation-for-trading-exercises/
+> In some prop shop training programs – the pre-requisite to getting into the in-house training program is logging into their online training rooms each day for one month and proving you are actually watching the markets for a number of hours and clicking your way through the exercises. If you don’t have the discipline to complete 2 -3 hours of trading exercises every trading day for 3 – 4 weeks then you are going to have a hard time day trading for a living.
+
+> Trade the News?
+> No. Trading the news is a skill that only experienced traders that have established themselves should consider developing.  Most traders that have been around for a while will ensure they are out of the market (not holding a short-term position) for key news events. On major news days, the market dynamics can change significantly, with many traders taking days off on days such as the FOMC press conference, which are great days to give back a month’s profits to the market if you aren’t careful.  For these trading exercises it is suggested to exit out of trades around high impact market events, and allow at least a few minutes for markets to normalize after scheduled releases.
+
+https://pricesquawk.com/trading-exercise-1-trading-naked/
+> Trading naked is a benchmark trading exercise that you can look back on to see how your entries and exits improve as you progress through the exercises, gain experience, and learn from your mistakes. Have just a single DOM window open for your chosen market with only the market depth bids and offers displayed, and use the accumulated trades at the current price (or bid and offer if using the Jigsaw Trading DOM) in the context of the market depth (Bids and Offers). For those new to the DOM this can be quite overwhelming initially and it is normal to ‘crave’ charts or do some analysis before pulling the trigger on trades, however stay disciplined and purely watch the ‘prints’ (trades in the DOM).
+
+This is something I wouldn't do usually and it would be going greatly outside of my comfort zone which is why I should do it. I mean, why not do it in sim mode?
+
+I wouldn't do it with real money, but if I cannot do this, then why even bother trying to daytrade?
+
+https://www.jigsawtrading.com/free-order-flow-analysis-lessons/
+
+There are some free lessons here.
+
+12:20pm. https://youtu.be/wfjvphj1-LU
+Trading Order Flow: Keeping It Simple, Practical & Effective
+
+Ok, let me finish this video.
+
+https://www.youtube.com/watch?v=xe5yQDxX25A
+Mastering the DOM: The DOM vs Charts | Gary Norden
+
+Then I'll watch this. I want to learn more about the DOM.
+
+Then I am going to resume the SMB course.
+
+I won't go through all of it, I will aim to finish it by the end of the year. The reason being is that I should be doing sim trading instead of doing all this book learning.
+
+The jigsaw guy had a story to say about a guy who didn't see progress for 6 months, and when he asked him whether he did the drills, he said that he didn't. And once he did he made real progress.
+
+I want to get a list of stocks in play during the premarket and start trading them using just the DOM after the open. I'll start with a single stock at first until I become more comfortable with it.
+
+If I after putting in a few months of effort doing these drills every day still suck, then I'll just conclude that trading isn't for me and maybe switch to doing a quant system using the experience.
+
+I'll do that eventually either way, so I'll win either way.

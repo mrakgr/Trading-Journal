@@ -24199,3 +24199,20 @@ https://youtu.be/xe5yQDxX25A
 Mastering the DOM: The DOM vs Charts | Gary Norden
 
 This caught my attention.
+
+![](images/image-1897.png)
+> There is another part of order flow analysis. We've the orders. We got the positions, which is to me is the volume profile where we can kind of presume where their positions and stops are. And the other kind of aspect to it is the resting order or the limit orders in the market and how they've been manipulated.
+> So that means that traders are hiding their real intent and putting in large orders to deceive you into thinking the market is stronger or weaker.
+> So we'll see iceberg orders where liquidity shown is small, but actual supply and demand is higher.
+> And we see these spoof orders where they simply disappear when prices get close to them.
+> When people look at this and they look at the DOM it's like...
+> "Ugh, I don't like that!"
+
+Lol.
+
+> Because it's got numbers on it.
+> One of the reasons people look at the DOM is not to look at the numbers at all. It kind of gives you a really good way of seeing the market move up and down.
+> A lot of the retail traders look at the market as if it moves left to right, but if you think about it, all it's doing is that it's moving up and down.
+> People watching the DOM, they're just watching the market moving up and down, but if you had to gauge the importance of bids and offers compared to the actual trade execution I'd say that the information about the trades executing and the volume profile contains about 10 times as much actionable information as the bids and offers.
+
+I had to go over this again and write it down as it's both funny and poignant.

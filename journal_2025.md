@@ -24502,3 +24502,11 @@ This is wonderful. Watching the tape print at 73c and then finally go up is just
 > When you see them, you want to be very aggressive.
 
 Oh, so they don't come around that often?
+
+5:30pm. ![](images/image-1910.png)
+
+Yeah, I do have to admit, it's pretty boring just watching the tape like this. Since I know what the condition I am looking for is, I could write a filter for it.
+
+Split the trading into 2m bars, cluster the volume inside of them and then if there is abnormal volume being done in present cluster, send out the alert.
+
+I could easily do this.

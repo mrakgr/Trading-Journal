@@ -2,47 +2,6 @@
 
 I like how unlike in git commit messages I can also insert images in the markdown. I'll be using this for my journaling needs.
 
-## 12/20/2025
-
-Here are the core drills from Jigsaw Trading as summarized by Opus:
-
-///
-
-**Core Drills:**
-
-1. **Cut and Reverse Drill** (also called "Always in the Market")
-   - Take a 1-contract position and stay in the market for 60-90 minutes
-   - You can never go flat — only reverse your position when you sense flow is changing
-   - Builds ability to read market flow and recognize when to exit bad trades
-   - Do at least 10 sessions, 1-2 per day
-
-2. **One Tick Drill**
-   - Goal: enter and exit with just 1 tick profit, repeatedly
-   - The tiny target forces you to focus purely on entries
-   - Trade frequently — prop firms target 70+ trades per day
-   - Builds pattern recognition for optimal entry points
-
-3. **Trading Naked**
-   - Trade using only a stripped-down DOM (no charts, no indicators)
-   - Just market depth bids/offers and accumulated trades at price
-   - Develops understanding of the auction process and order flow
-
-**Additional Exercises Mentioned:**
-
-- Fade iceberg orders/absorption areas
-- Look for pulling on one side and stacking on the other
-- Establish short-term ranges and scalp both sides
-- Practice around economic news releases using replay software
-
-The progression typically runs: overwhelming first few weeks → recognizing obvious flow changes → developing intuition for market pace → skills transferring to regular trading. The course emphasizes doing these in simulation, not live, and includes replay software to practice specific order flow patterns across different market conditions.
-
-///
-
-Links:
-https://www.jigsawtrading.com/blog/the-trading-drill-that-never-stops/
-https://pricesquawk.com/preparation-for-trading-exercises/
-https://pricesquawk.com/trading-exercise-1-trading-naked/
-
 ## 12/19/2025
 
 https://youtu.be/wfjvphj1-LU

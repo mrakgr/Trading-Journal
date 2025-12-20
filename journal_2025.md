@@ -24610,3 +24610,56 @@ This'd be really hard to deal with on a chart, but over here I can clearly see j
 I see. I think I'd really want to use scripts to help me on these kinds of trades if I want to maximize speed.
 
 8:05pm. Skimmed some of the future vids. So much for watching the whole course. Let me just move forward. Let me take a look at the DOM for the Quantower. I want to see what volume capabilities does it have.
+
+8:15pm. ![](images/image-1920.png)
+
+I know I am supposed to try to use the DOM, but this platform is insanely awesome.
+
+8:25pm. Hrmmmm, I think I can only use the charts in the way I intended. For some reason the data for some of the bars was missing today.
+
+In the DOM trader, I could put the volume column, but it was missing any values.
+
+Could I really connect this platform to Polygon though. There doesn't seem any way of actually doing that.
+
+8:30pm. ![](images/image-1921.png)
+
+Yeah, I guess it's not like these types of trades were a secret.
+
+I mean, holy shit do these guys just sit at their desks looking for these levels? Sounds pretty boring.
+
+https://youtu.be/_4mCYtfUkgw
+Power Trades Scanner — What it is? How it works? How to use it in trading?
+
+Let me watch this video.
+
+8:45pm. ![](images/image-1922.png)
+
+I guess I have no choice, but to just work at it. Now that I know the value of these zones, I'll have to make an attempt at a quant system for them.
+
+9:10pm. The video I watched earlier on how he would have traded that breakout was insanely valuable. I could clearly see the unusual hold on the bid develop and the subsequently the breakout failed turning into a short trade.
+
+A great benefit of that is that for the first time in my life I understand how to trade breakouts properly now.
+
+I could potentially merge that with the ORB system to find good entries for swing trades, Qullamaggie style.
+
+That would be a much less intense trading style on my time.
+
+I could repeat the test from 2 months ago except properly this time around.
+
+But really, I could find unusual holds on the bid mechanically by splitting the time periods into 2s segments and looking for abnormalities. I don't have to be glued to the tape the whole day. I could just have an alert be sent out whenever they happen during the morning hour.
+
+9:20pm. Ok, I am sort in shock right now. I received a huge edge, but I am not sure that it's at all like I expected. Or rather, this is the only thing it possibly could have been.
+
+In the past 3 months I probably learned more than in the entire 2007 - 2014 period.
+
+And what I learned from SMB in the past 2 days is just so huge.
+
+9:30pm. I'll take some time to think how to design my strategy around this. Ironically, the best way forward is like how it has been so far. Implement the ORB using 5 min breakouts.
+
+But afterwards I will have to see whether there is a way to improve it using tape reading concepts.
+
+It's an edge, but it definitely isn't trivial to utilize.
+
+Nevermind the drills. I am not willing to spent all my time in front of the charts right now. I want to do programming and quant research.
+
+First, I'll find a way to pay my bills normally and then build upon that afterwards.

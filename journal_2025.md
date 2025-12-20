@@ -24379,3 +24379,15 @@ I want to get a list of stocks in play during the premarket and start trading th
 If I after putting in a few months of effort doing these drills every day still suck, then I'll just conclude that trading isn't for me and maybe switch to doing a quant system using the experience.
 
 I'll do that eventually either way, so I'll win either way.
+
+12:35pm. ![](images/image-1902.png)
+
+Ugh, I don't get what I am looking at on the screen here. It's confusing.
+
+...Yeah, this is what I want right now. It's not to get a new job. It's to keep programming and play some games in the interim. Doing these trading drills is just my cup of tea right now. Saturday's and Sundays would be great periods to setup the sim replay functionality.
+
+He says it takes a lot of focus, but it can't be that much worse than playing Ghostrunner on Hardcore.
+
+What I should do is get really good at sim trading and afterwards I can consider real money trading if I ever get good at that. I am not like those imbeciles who start with real money and lose it all.
+
+I'll take the proper steps.

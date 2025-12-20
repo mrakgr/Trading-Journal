@@ -24180,3 +24180,9 @@ What I really want is define my A and A+ setups and bet big on them. I don't wan
 I want the confidence that comes from being in control. If I could conquer this game I will be able to move on from the past period of my life.
 
 And I want to have fun with this, rather than let it turn into a grind.
+
+10:25am. What is the most important thing? The research, the insight. I want to be able to tell apart the A+, A, B and C setups. And Bella gave me enough clues already. The more volume at the level, and the bigger the battle, the larger the expected move will be afterwards.
+
+What I failed to do in the past decade, I will do in the current one.
+
+I will attain the insight of a professional trader and grasp the freedom that I failed last time.

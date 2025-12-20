@@ -24518,3 +24518,12 @@ I could easily do this.
 > We receive some of our most opportunistic buy and sell signals from these unusual holds. Experienced intraday traders make most of their money by spotting them.
 
 6:15pm. I am irritated with these tape reading exercises due to the lack of a running total for a particular level. I am a lazy person. Why do I have to sum up the numbers in my head? I have better use for my brain cells.
+
+As boring as that video was, I am going to have to rewatch it because I wasn't paying enough attention.
+
+Ok, in the meantime...
+
+https://www.youtube.com/watch?v=DokWC7aIPM4
+DOM Surface — The next-gen Order Flow. Interface, operation & usage example
+
+Let me watch this. I want to watch some Quantower vids.

@@ -24527,3 +24527,6 @@ https://www.youtube.com/watch?v=DokWC7aIPM4
 DOM Surface — The next-gen Order Flow. Interface, operation & usage example
 
 Let me watch this. I want to watch some Quantower vids.
+
+https://youtu.be/DokWC7aIPM4?t=440
+> One of the best options is to combine the DOM surface with volume analysis technique.

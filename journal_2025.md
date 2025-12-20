@@ -24479,3 +24479,11 @@ This is the first time I've actually heard a definition of it.
 > Held bid is 2-3 times the normal volume done at the same price.
 
 Ah, I see, there is a difference in terminology between the two.
+
+![](images/image-1906.png)
+
+Ok, I am reading the tape along with the trader, but I don't have a good sense of how much has been transacted at a particular price and what is unusual and what isn't.
+
+A footprint chart or an advanced DOM like the one I'll use could tell me that. Like I can't even see what the usual volume in this stock is.
+
+All of this should be possible at a glance, but the technology they are using isn't good.

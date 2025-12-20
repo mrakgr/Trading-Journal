@@ -24447,3 +24447,5 @@ I am going to die of boredom if all I do is just watch lectures for the next mon
 Let me just get the basics from the SMB course and then I will resume both my programming work and start the trading drills.
 
 I can't start them right away, I have first figure out how to get the data and link them to Quantower.
+
+I'll also how to figure out how to set up the keys and whatever else I may have missed.

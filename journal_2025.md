@@ -24537,4 +24537,7 @@ I am looking forward to this.
 
 Whoa they have custom volume profiles.
 
+6:45pm. https://youtu.be/KpEO48wF_X0
+Quantower Depth of Market (DOM Trader). Slim Mode, Pulling/Stacking columns and customization.
 
+Let's see what this is.

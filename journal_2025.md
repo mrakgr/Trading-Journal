@@ -24491,3 +24491,7 @@ All of this should be possible at a glance, but the technology they are using is
 5:15pm. ![](images/image-1907.png)
 
 This is kind of nice. You get a few trades at most every second. The latest video by Jeff Holden on tape reading had over a 100 trades per second. I am not sure how it would be humanly possible to keep track of that.
+
+![](images/image-1908.png)
+
+This is wonderful. Watching the tape print at 73c and then finally go up is just so much more meaningful than seeing a 1m chart go up.

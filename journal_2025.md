@@ -24495,3 +24495,10 @@ This is kind of nice. You get a few trades at most every second. The latest vide
 ![](images/image-1908.png)
 
 This is wonderful. Watching the tape print at 73c and then finally go up is just so much more meaningful than seeing a 1m chart go up.
+
+![](images/image-1909.png)
+> That was unusual hold on the bid.
+> You're gonna see them once or twice a week.
+> When you see them, you want to be very aggressive.
+
+Oh, so they don't come around that often?

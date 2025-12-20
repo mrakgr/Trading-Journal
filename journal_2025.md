@@ -24564,6 +24564,49 @@ Ah, it puts in a time delay. Huh, I mean sure, that could also be a way of slowi
 
 This could be used to filter large trades.
 
-7:05pm. The TPO chart seems useless, but the delayed T&S panel seems like it could be insanely useful. Adding some millisecond delay could be the solution to the crazy algo spam. Like, in the video they were showing ES, and the tape was glacial like in the old SMB course videos.
+7:05pm. The TPO chart seems useless, but the delayed T&S panel seems like it could be insanely useful. Adding some millisecond delay could be the solution to the crazy algo spam. Like, in the video they were showing ES, and the tape was glacial like in the old SMB course videos. Not sure what ES's usual rate should be though.
 
 You know, before I buy the full Massive subscription with the order flow data, I am going to ask on the Quantower forums or whatever they have whether the data from Massive is any good.
+
+7:20pm. ![](images/image-1914.png)
+
+Let me watch this just for a bit again and then I am going to stop for the day. I should at least watch the first 5 days of this course before I start watching the stock in play myself.
+
+7:30pm. Ok, nevermind that video. It's super annoying as there is no footprint chart, so I have zero idea what the volume at various price levels was. And I can't really follow the buyers or the tape properly.
+
+7:35pm. Wow, this previous edition of the course has a lot to be desired. From bad audio to low resolution. Anyway, I am skimming the vids in day two and a lot of them are tape reading exercises.
+
+Which I am finding to be extremely difficult.
+
+I sense that I really need to tune in on the prints and follow them, but I just find it boring when I try to do that now.
+
+That is a sign to skip ahead.
+
+Let me go to day 3.
+
+Let me watch the breakout tape reading video and I'll stop for the day for real here.
+
+![](images/image-1915.png)
+
+Hmmm, this is tape is pretty fast. Now this is where I'd put in a delay.
+
+7:40am. ![](images/image-1916.png)
+
+Wow, the 05 is really holding.
+
+You cannot get this experience from charts.
+
+![](images/image-1917.png)
+> Big sign of strength when the buyer drops and comes right back to the bid.
+
+This'd be really hard to deal with on a chart, but over here I can clearly see just a few trades being printed.
+
+![](images/image-1918.png)
+> Now your mindset should be to get short in front of 50.05 because that completely failed right there.
+
+![](images/image-1919.png)
+> When that guy drops you have to be the first person to hit the bids.
+
+I see. I think I'd really want to use scripts to help me on these kinds of trades if I want to maximize speed.
+
+8:05pm. Skimmed some of the future vids. So much for watching the whole course. Let me just move forward. Let me take a look at the DOM for the Quantower. I want to see what volume capabilities does it have.

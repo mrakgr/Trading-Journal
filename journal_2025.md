@@ -24663,3 +24663,48 @@ It's an edge, but it definitely isn't trivial to utilize.
 Nevermind the drills. I am not willing to spent all my time in front of the charts right now. I want to do programming and quant research.
 
 First, I'll find a way to pay my bills normally and then build upon that afterwards.
+
+9:55am. https://youtu.be/CkAPhWcieFI
+ULTIMATE Guide To PROFITING From Footprint Charts
+
+This guy went from level 2 to footprint charts. Let me watch it.
+
+![](images/image-1923.png)
+
+This is my first time hearing about MotiveWave.
+
+10:20pm. ![](images/image-1924.png)
+
+I am not sure what to do. Ok, for now how about I bet on volume analysis and see where it goes. I'll start with footprint charts. Forget those drills. I'll learn to analyze the footprint charts.
+
+> Once begin to incorporate AMT into your core principles and strategies, you'll feel more empowered as a result.
+
+10:35pm. 
+
+> I was just wondering why I cannot find any videos of using footprint charts to trade regular equities on Youtube?
+
+///
+
+Footprint charts are almost exclusively used for futures trading rather than equities, and there are a few practical reasons for this.
+
+**Volume data granularity matters.** Footprint charts show bid/ask volume at each price level, which requires seeing every transaction's aggressive side. Futures markets provide this tick-by-tick data through the exchange (CME, etc.) in a standardized way. Equities trade across dozens of venues—NYSE, NASDAQ, dark pools, internalizers—and aggregating true bid/ask volume across all of them in real-time is far messier and more expensive.
+
+**Centralized vs fragmented markets.** A futures contract like ES trades on one exchange. You see *all* the volume in one place. Apple stock might have 40%+ of its volume going through off-exchange venues where the bid/ask aggressor data either isn't available or arrives delayed/incomplete.
+
+**The edge is different.** Footprint analysis is about reading order flow—seeing absorption, stacked bids, imbalances. This works well in futures where large institutional players move size and leave footprints. Equity order flow is more obscured by market structure (payment for order flow, hidden liquidity, etc.).
+
+**Data costs.** Getting the Level 2 data needed for proper footprint charts on equities across all venues is significantly more expensive than futures data, which prices out most retail traders who'd be making YouTube content.
+
+So the absence of equity footprint content isn't because it's a hidden secret—it's that the tool doesn't translate well to that market structure. The traders who *do* use footprint charts gravitate to futures precisely because the data quality makes the technique viable.
+
+///
+
+I don't buy this though. It's not that expensive. Dark pool data isn't important for daytrading anyway.
+
+I guess I'll be testing out various volume strategies either way.
+
+Right now I am not sure what I should be doing, but in that case, I should just follow the plan. Do the ORB strategy, build upon it. If I run into difficulties, I can just trade ETFs using the DOM indicators long term.
+
+I've been swinging back and forth as I keep learning new things, but these daytrading courses aren't that different from the drawing courses I watched in 2022. You have to be an artist to get true benefit out of them, much like you have to be a daytrader to get the benefit out of these. It's an occupation.
+
+And without a doubt I am a programmer, not a daytrader so I will have to find my own path.

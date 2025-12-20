@@ -24541,3 +24541,29 @@ Whoa they have custom volume profiles.
 Quantower Depth of Market (DOM Trader). Slim Mode, Pulling/Stacking columns and customization.
 
 Let's see what this is.
+
+https://youtu.be/BcDCx0tzlRA
+TPO Profile Chart (a.k.a. Market Profile) in Quantower platform
+
+I don't understand the TPO chart, so let me take a look at it.
+
+6:55pm. It's pretty useless.
+
+https://youtu.be/-R_AXBMlNpM
+Reconstructed Tape or Aggregated Time & Sales in Quantower platform
+
+Let me take a look at this.
+
+![](images/image-1912.png)
+
+Really, how does this work?
+
+Ah, it puts in a time delay. Huh, I mean sure, that could also be a way of slowing the tap down.
+
+![](images/image-1913.png)
+
+This could be used to filter large trades.
+
+7:05pm. The TPO chart seems useless, but the delayed T&S panel seems like it could be insanely useful. Adding some millisecond delay could be the solution to the crazy algo spam. Like, in the video they were showing ES, and the tape was glacial like in the old SMB course videos.
+
+You know, before I buy the full Massive subscription with the order flow data, I am going to ask on the Quantower forums or whatever they have whether the data from Massive is any good.

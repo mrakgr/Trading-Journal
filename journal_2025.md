@@ -24762,3 +24762,55 @@ Maybe this will give me some ideas.
 I know a bit about market timing, so that makes mean reversion systems more viable. I'll watch this in a bit.
 
 I'd rather do research than trade at this point. Psychologically, it much more important to me to protect my money than to make more of it at this juncture.
+
+1:40pm. Oh right, let me just figure out how to connect Massive to Quantower.
+
+![](images/image-1925.png)
+
+Also I need to figure out why the figures aren't showing up for some sybols. Nevermind that for now.
+
+1:45pm. ![](images/image-1926.png)
+
+It was actually very easy to connect Massive to Quantower. I'll have to pay for a higher tier data subscription though.
+
+Right...what is a TPO chart?
+
+> What is a TPO chart?
+
+///
+
+A TPO (Time Price Opportunity) chart, also called a Market Profile chart, is a way of visualizing price action that shows how much time the market spent at each price level during a trading session.
+
+Rather than displaying price as a continuous line or candlesticks, a TPO chart stacks letters (or blocks) horizontally at each price level for each time period. Typically, each 30-minute period gets a new letter — the first half hour is "A", the next is "B", and so on. Where letters accumulate horizontally, it shows prices where the market spent more time and traded more actively.
+
+Key concepts include:
+
+The **Point of Control (POC)** is the price level with the most TPOs — essentially where the market found the most acceptance during that session.
+
+The **Value Area** encompasses roughly 70% of the trading activity, representing where most transactions occurred. It has a Value Area High and Value Area Low.
+
+The **Initial Balance** is the range established during the first hour (letters A and B), which often sets expectations for the day's potential range.
+
+The shape of the profile tells you something about market behavior. A balanced, bell-shaped profile suggests range-bound, two-sided trade. Profiles that are elongated or have single prints (isolated letters) suggest directional conviction.
+
+TPO charts are particularly useful for identifying support and resistance based on where the market has historically accepted or rejected prices, and for understanding whether a market is in balance or trending. They're commonly used for futures trading but can apply to any market with sufficient liquidity.
+
+///
+
+> Is the profile measuring volume or time spent in a particular area?
+
+///
+
+TPO charts specifically measure **time**, not volume. Each letter represents a time period (typically 30 minutes) where price traded at that level, regardless of how much volume actually transacted there.
+
+This is an important distinction because a **Volume Profile** is a related but different tool that measures actual volume at each price level. Volume Profile shows where the most contracts or shares changed hands, while TPO shows where price lingered longest.
+
+The two often correlate — price tends to spend more time at levels with heavy volume — but they can diverge. For example, price might quickly sweep through a level on high volume (a breakout), which would show heavy volume at that price but few TPOs. Conversely, price might chop around a low-volume zone for an extended period, stacking up many TPOs despite thin participation.
+
+Some traders prefer TPO because they view time as a proxy for acceptance — if the market keeps returning to and dwelling at a price, that suggests participants find it fair. Others prefer Volume Profile for a more direct read on where real interest and liquidity exists.
+
+Many platforms let you display both together or toggle between them, since they offer complementary perspectives on the same underlying question: where is value, and where is the market likely to find support or resistance?
+
+///
+
+I see. So the TPO profile was measuring time. It wasn't obvious to me just looking at the chart.

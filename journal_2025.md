@@ -24708,3 +24708,33 @@ Right now I am not sure what I should be doing, but in that case, I should just 
 I've been swinging back and forth as I keep learning new things, but these daytrading courses aren't that different from the drawing courses I watched in 2022. You have to be an artist to get true benefit out of them, much like you have to be a daytrader to get the benefit out of these. It's an occupation.
 
 And without a doubt I am a programmer, not a daytrader so I will have to find my own path.
+
+12/21/2025
+
+9:55am. I feel like taking a break today. I need some time to digest all the lessons. After grasping the essence of the fundamental setup they were teaching me, and coming to an understanding of what they are looking for in the tape, I feel quite humbled.
+
+What I realized this morning is that those held bids are actually volatility contractions. It doesn't look that way on a OHLC chart, but I bet a volume chart would give an entirely different impression.
+
+Together with the VWAP system, this makes me realize that volume really is a important factor to consider, but it's not a matter of high volume good and low volume bad. Rather these high volume volatility contractions become important levels.
+
+10am. I think all of this means if I am doing mean reversion systems and such and not considering the volume, I am just wasting my time.
+
+What I am leaning towards is simply doing research. The SMB capital courses gave me a lot of food for thought, but I should just cover the ground systematically.
+
+I'd rather got 20% per year putting in 15m per day like Tom Basso, than put in 6.5h to get 200%.
+
+The size these guys trade is pretty small, nothing they are doing is scalable.
+
+Swing trading is still a mystery to me, but now that I understand volume better, I'll have an easier time filtering out the pseuds.
+
+I feel like creating some decent longer term systems for swing trading and the like.
+
+10:05am. Rather than learning to read the tape, I'd honestly be better off finishing that poker system. And before I do that I should do a good longer term system so that I am ready regardless of what the market throws at me.
+
+I still have 0 idea how to do stock selection properly. I could get a lot better on the daily timeframes.
+
+10:05am. Learning to read the tape in real time would take me months. It's the same as trying to learn Chinese. It's much easier to do it after the fact, but hard in real time.
+
+I'll do it if I cannot get the poker system to work, and if I cannot get a software dev job after I am done with the longer timeframe systems.
+
+10:15am. Forget trading, do research.

@@ -24820,3 +24820,17 @@ I see. So the TPO profile was measuring time. It wasn't obvious to me just looki
 These bricks he is talking about are like Renko charts, but % based. They make a new candle only when the price closes above or below a % and smooth out the trends.
 
 Renko charts don't have opens and closes though. I guess it closes when it touches the low or the high?
+
+2:25pm. I am not interested in this. Not sure what I'll do, but it would be cool to combine an ORB with a mean reversion one.
+
+Also, now that I've found out about held bids, I can't unsee them.
+
+They could be detected as high volume, low volatility time periods. I could play them as support plays or breakouts during the opening hours. I have no reason not to use the concept.
+
+I should first work on detecting them.
+
+I could make some rules like if the last n seconds are a high volume and low volatility, then short if below the level, go long above the level. To determine whether the support is below or above, I should also keep track of volume transacted on the bid vs the ask.
+
+Sigh, ahh goddamit, I am through. I am going to have to do it. I cannot resist quantifying this. It wouldn't even be that hard despite what I said in my email to Thomas.
+
+I am ruined. I just know I'll be working on this for the next few months, longer term systems be damned. The knowledge is just too enticing and powerful to me.

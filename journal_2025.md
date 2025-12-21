@@ -24814,3 +24814,9 @@ Many platforms let you display both together or toggle between them, since they 
 ///
 
 I see. So the TPO profile was measuring time. It wasn't obvious to me just looking at the chart.
+
+2:05pm. ![](images/image-1927.png)
+
+These bricks he is talking about are like Renko charts, but % based. They make a new candle only when the price closes above or below a % and smooth out the trends.
+
+Renko charts don't have opens and closes though. I guess it closes when it touches the low or the high?

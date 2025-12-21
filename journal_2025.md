@@ -24834,3 +24834,18 @@ I could make some rules like if the last n seconds are a high volume and low vol
 Sigh, ahh goddamit, I am through. I am going to have to do it. I cannot resist quantifying this. It wouldn't even be that hard despite what I said in my email to Thomas.
 
 I am ruined. I just know I'll be working on this for the next few months, longer term systems be damned. The knowledge is just too enticing and powerful to me.
+
+3:15pm. https://youtu.be/iSXH2EWnqOM
+CEOS ARE CRASHING OUT HARD ON LINKEDIN! (PAY TO APPLY TO A JOB!?)
+
+Lol.
+
+![](images/image-1928.png)
+
+Damn, I am just so full of ideas right now. I don't feel like watching courses or anything like that. Damn, I forgot the exercises.
+
+Tomorrow, I am going to start easing myself into programming. Then I am going to get the trades data and start cracking.
+
+3:30pm. ![](images/image-1929.png)
+
+Reminds me of the time as a kid when I was reading SomethingAwful. This guy is making his Youtube career satirizing LinkedIn.

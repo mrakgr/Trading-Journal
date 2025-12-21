@@ -24849,3 +24849,603 @@ Tomorrow, I am going to start easing myself into programming. Then I am going to
 3:30pm. ![](images/image-1929.png)
 
 Reminds me of the time as a kid when I was reading SomethingAwful. This guy is making his Youtube career satirizing LinkedIn.
+
+4:15pm.
+
+> I am considering how volume analysis could be used for swing trading. Do you have any ideas?
+
+///
+
+Volume analysis can be quite valuable for swing trading, where you're holding positions for days to weeks. Here are some practical approaches:
+
+**Confirmation of breakouts and breakdowns.** Volume surge on a price breakout above resistance (or below support) suggests genuine institutional participation rather than a false move. A breakout on weak volume is more suspect and prone to failure.
+
+**Accumulation and distribution patterns.** Before significant moves, you often see volume signatures that hint at what's coming. Accumulation looks like higher volume on up days and lower volume on down days within a consolidation range. Distribution is the opposite. This can help you position before the breakout rather than chasing it.
+
+**Volume dry-ups at support.** When price pulls back to a support level and volume contracts significantly, it often indicates sellers are exhausted. This can be a favorable entry point for swing longs, especially if volume then picks up on a bounce.
+
+**Relative volume context.** Rather than absolute volume numbers, comparing current volume to the stock's recent average (say 20 or 50 day) gives you a normalized view. A stock trading 3x its average volume on a move carries more weight than one at normal levels.
+
+**Volume profile applications.** Since you've been looking at order flow tools, volume profile concepts translate to swing timeframes too. High volume nodes from daily/weekly charts represent price levels where significant business was done, often acting as magnets or support/resistance on retracements.
+
+**Climactic volume.** Extremely high volume spikes, particularly after extended moves, can signal exhaustion. A parabolic run-up ending with the highest volume day of the move often marks at least a short-term top.
+
+One practical consideration: for swing trading, daily volume is usually sufficient. You don't need the granular tick-level analysis that intraday order flow requires, which simplifies both the data requirements and the analysis.
+
+Are you thinking about this for your existing stock analysis work, or exploring a different set of instruments?
+
+///
+
+> Longer timeframes have more liquidity, but I don't have any good ideas for swing trading systems.
+
+///
+
+That's an honest assessment, and it's worth sitting with rather than forcing a system that doesn't have a clear edge.
+
+A few thoughts on the challenge:
+
+**The swing trading middle ground is genuinely difficult.** You're too slow to exploit microstructure inefficiencies and too fast to ride major trends with conviction. Many successful traders end up gravitating toward one extreme or the other.
+
+**Volume-based edges may be harder to systematize at swing timeframes.** Intraday, you can react to order flow in real time. At weekly or monthly timeframes, volume patterns feed into trend-following or mean-reversion frameworks that are well-documented. The daily swing timeframe sits awkwardly between these.
+
+**What would give you conviction?** Before building a system, it might help to identify what kind of market behavior you believe is exploitable and why that inefficiency would persist. Some possibilities:
+
+- Earnings-driven mispricings that take several days to fully correct
+- Sector rotation patterns with predictable follow-through
+- Mean reversion after extreme moves with volume confirmation
+- Momentum continuation in stocks breaking out of long bases
+
+**Simpler might be better.** Some of the more robust swing approaches aren't sophisticated at all: buying pullbacks in uptrending stocks, shorting failed breakouts, trading around earnings with defined risk. The edge often comes from disciplined execution and position sizing rather than signal complexity.
+
+**Consider whether swing trading fits your situation.** If you're drawn to the analytical depth of order flow and market microstructure, forced swing trading might not play to your strengths. Alternatively, if you want less screen time than intraday requires, longer-term trend following might suit better than swing.
+
+What draws you to swing trading specifically? Is it a constraint like time availability, or do you see something appealing about that holding period?
+
+///
+
+> I haven't had much luck with trend following, and recently I tried paper trading a swing trading system, which resulted in large drawdowns. So I am wondering what a systematic approach to swing trading would be like. In truth, even though I've seen videos about it, I barely understand it.
+
+///
+
+That's a good place to start from—acknowledging what you don't yet understand rather than pretending otherwise.
+
+Let me try to lay out what systematic swing trading actually involves, stripped of the marketing gloss you get in most videos.
+
+**What "systematic" means in practice.** You have explicit rules for entry, exit, position sizing, and trade management that you follow consistently. The rules are defined in advance, not decided in the moment. This doesn't require automation, but it does require discipline and clarity about what you're doing.
+
+**The core components:**
+
+*Entry signal.* What specific condition triggers a trade? This needs to be unambiguous. "Stock looks strong" isn't a system. "Price closes above the 20-day high on volume 1.5x the 20-day average" is.
+
+*Exit rules.* Both for losses (stop loss) and for profits (target or trailing stop). Many people focus on entries and neglect exits, which is backwards—exits determine whether you keep your gains and limit your losses.
+
+*Position sizing.* How much of your capital goes into each trade? This is often the difference between surviving drawdowns and blowing up. A common approach is risking a fixed percentage (say 1-2%) of capital per trade based on your stop distance.
+
+*Universe selection.* What stocks are you even looking at? All US equities? Liquid large caps? Stocks in uptrends? This filters your opportunity set.
+
+**Why drawdowns happen even in valid systems.** Any system will have losing streaks. If your system wins 50% of the time, you'll regularly see 5-6 losses in a row. If position sizing is too aggressive, these streaks create large drawdowns even if the system has an edge over time.
+
+What was the system you paper traded? Understanding why it drew down might clarify what went wrong—whether it was the system logic, position sizing, or something else.
+
+///
+
+> I tried buying strong stocks with high 6 month momentum in the opening hours. The condition was that the relative volume has to be at least 3x during that time and I put the stop at the low of day.
+
+///
+
+That's a concrete system, which is good—you can actually analyze what went wrong.
+
+A few observations:
+
+**The stop placement is problematic.** Putting your stop at the low of day during the opening hours means your stop distance is determined by morning volatility, which varies wildly. Some days you might have a tight stop, others a very wide one. This makes your risk per trade inconsistent. Worse, the opening range low is an obvious level that other traders watch, so it's prone to getting swept before reversing.
+
+**High relative volume in the open is ambiguous.** Volume in the first 30-60 minutes is naturally elevated—that's when overnight orders execute and news gets priced in. 3x relative volume at 10am means something different than 3x at 2pm. You might be catching stocks that are simply reacting to overnight news rather than starting sustained moves.
+
+**Momentum plus strength can mean buying extended.** If a stock already has high 6-month momentum and is gapping up or surging on volume at the open, you may be buying near the short-term top of a move. These stocks often pull back intraday or over the next few days before continuing—so your stop gets hit even if the longer-term thesis was right.
+
+**What the drawdowns likely were:** getting stopped out repeatedly as morning moves reversed, with the stop distance sometimes being quite large due to volatile opens.
+
+Some questions that might help refine this:
+
+- How far had these stocks already moved before your entry? Were you buying into the gap or waiting for some consolidation?
+- Did you have any profit target or exit rule beyond the stop?
+- What was your position sizing approach?
+
+The core idea—buying strong stocks with unusual volume—isn't wrong, but the execution details matter enormously.
+
+///
+
+It's true that the stop placement is problematic. It'd be better to build a volume profile and then put it some standard deviation below the mean rather than the absolute low.
+
+***
+
+Good points.
+
+I've been trying to buy stocks that were in hot sectors, but not overextended. And I was buying stocks that were gapping up 5-15 minutes into the open. My exit was a 13 day volume weighted moving average. I was testing out a system manually, so I just tried allocating 10% to each.
+
+Also relative volume wasn't ambigous since I was using a relative volume at time indicator on TradingView, which compares volume at a particular time in the trading day with the average volume of that particular time since the open (calculated according to the last 10 trading days) rather than the daily average.
+
+It'd be better to build a volume profile and then put it some standard deviation below the mean rather than the absolute low.
+
+Basically I was trying to combine an opening range breakout type of system and turn it into a position trade, but nearly every stock I tried reversed on me. I think this was because at the time the market was frothy and reversed.
+
+I don't understand a few things maybe you can make them clearer to me:
+
+* What makes for good selection criteria on which stocks to trade? It feels very random which stock turns to be a winner, and it feels random to the degree that I don't have a feel whether it even matters whether I am buying overextended stocks or not. High volume only seems to lead to volatility rather than sustained moves. Often high volume breakouts lead to a huge rise one day and then dump the next.
+
+* Are high volume breakouts really good entry points or should I be looking at something else?
+
+* I am also considering trading mean reversion, but some traders just buy the dip and use a time stop which I am uncomfortable with. The only solution for how to buy on the way up would be to wait for a stock to be down and then try the Opening Range Breakout on the following days. I wonder if there is a better choice? Is it possible to trade mean reversion profitably without time stops?
+
+***
+
+///
+
+These are good questions, and the frustration behind them is understandable. Let me try to address each honestly.
+
+**On stock selection and why it feels random**
+
+It feels random because at the individual stock level, it largely is. Even with good selection criteria, any single trade is heavily influenced by factors you can't predict—news, sector rotation, market mood, large players entering or exiting. The goal of selection criteria isn't to pick winners reliably, but to tilt the odds slightly in your favor across many trades.
+
+What actually matters for selection:
+
+- Liquidity, so you can exit without slippage eating your edge
+- Some structural reason to expect the behavior you're trading (momentum persistence, mean reversion tendency, etc.)
+- Avoiding situations where the risk/reward is obviously poor (buying after a stock has already run 50% in a week, for example)
+
+The uncomfortable truth is that even good systems have win rates of 40-60%. The edge comes from the winners being larger than the losers on average, not from picking winners consistently. If you're expecting to develop a feel for which stocks will work, you may be chasing something that doesn't exist.
+
+**On high volume breakouts**
+
+High volume breakouts are popular because they're visually compelling and easy to identify. But they have real problems:
+
+- Everyone sees them, so they're crowded trades
+- The high volume often represents the climax of buying interest rather than the beginning
+- You're buying after the move has already started, which compresses your reward relative to your risk
+
+They can work, but typically require either very fast exits (taking profits within hours or days) or very wide stops that accept giving back most of the initial move. For swing trading with multi-day holds, you're often better off buying pullbacks within an established trend rather than breakouts. The entry is less exciting, but you get better prices and tighter stops.
+
+**On mean reversion**
+
+Mean reversion strategies generally need some kind of exit rule that isn't purely price-based, because the core problem is that you're buying falling stocks. Some will bounce, some will keep falling. Time stops exist because if the bounce hasn't happened within a certain window, the thesis is weakening.
+
+Alternatives to pure time stops:
+
+- Exit on a technical signal like a lower high after your entry, which indicates the bounce attempt failed
+- Exit if the stock makes a new low after your entry
+- Use a volatility-based stop that widens for more volatile names
+- Exit on a reversion to a short-term moving average (similar to your 13-day VWMA idea, but shorter for mean reversion)
+
+Your idea of waiting for a down stock and then using an opening range breakout as entry is actually reasonable—it combines the mean reversion setup with a momentum confirmation. The risk is that you miss the sharpest bounces that gap up and go, but you avoid catching falling knives.
+
+**A broader observation**
+
+You're testing ideas quickly and learning from failures, which is the right approach. But I notice you're also cycling through different concepts—momentum, breakouts, mean reversion—without necessarily having a deep conviction about why any of them should work. Before refining entries and exits, it might help to step back and ask: what market behavior do I believe is exploitable, and why would that inefficiency persist?
+
+For example, momentum works (historically) because investors underreact to new information and trends persist longer than random walk theory would suggest. Mean reversion works (in certain contexts) because short-term overreaction creates temporary mispricings. Understanding the "why" can help you design systems that align with the underlying logic rather than just pattern-matching on charts.
+
+What's your current intuition about where an edge might actually exist?
+
+///
+
+The thing is smarter than me.
+
+**If you're expecting to develop a feel for which stocks will work, you may be chasing something that doesn't exist.**
+
+Is this the so called truth nuke?
+
+A lot of what is being said makes a lot of sense.
+
+Yeah, in 2007 - 2014 I did expect that with enough chart reading I'd develop a feel and become better, but it just never happened. I don't mind the money missed, but I feel that I've been uncompensated for my effort.
+
+***
+
+Good question.
+
+The only time a good edge is in the market is when there is a panic and volatility spikes rapidly. Then I could buy down with conviction, but these happen too infequently (about once every 2 years) and the bounces if you're trading the indexes aren't that great. I've been trying to combine timing with momentum so that I'd get more out of bull markets, but the last time I tried this I put my money into the wrong stocks and actually underperformed the market.
+
+So I am looking for systems that capture smoother moves, and rotate more frequently.
+
+If I am going to automate such a system rather than trade in a discretionary manner as I have up to now I guess it doesn't matter whether I am doing mean reversion or momentum to me.
+
+I'd like something that I could keep on during bull markets. I have a good indicator that could be used for market timing.
+
+***
+
+///
+
+This is a clearer picture of what you're actually looking for. Let me reflect back what I'm hearing and then offer some thoughts.
+
+**What you want:**
+
+- A systematic, automatable approach
+- Works during bull markets (you'd use your timing indicator to stay out during bears)
+- Rotates through positions rather than buy-and-hold
+- Captures smoother moves rather than trying to catch explosive breakouts
+- Doesn't require discretionary judgment on individual trades
+
+**The honest challenge:**
+
+Smooth, consistent returns from rotating stock positions during bull markets is exactly what everyone wants. The competition for this is intense—quantitative funds with massive resources are playing this game. That doesn't mean it's impossible for a smaller trader, but it means your edge probably can't come from signal sophistication. It more likely comes from:
+
+- Patience to sit through drawdowns that would shake out impatient capital
+- Willingness to trade less liquid names that institutions can't touch
+- Lower return expectations that make the strategy not worth it for larger players
+- Simpler execution that doesn't get eaten by costs
+
+**Some systematic approaches worth exploring:**
+
+*Sector momentum rotation.* Rather than picking individual stocks, rotate between sector ETFs based on relative strength. Simpler, more diversified, less prone to single-stock blowups. The returns are modest but the equity curve tends to be smoother.
+
+*Trend following on a stock universe with strict filters.* Buy stocks above their 200-day average, in the top quintile of 6-12 month momentum, with position sizing based on inverse volatility. Exit when they fall out of the filter criteria. This is essentially what you were attempting, but with less emphasis on timing the entry perfectly.
+
+*Mean reversion with a quality filter.* Only trade mean reversion on stocks that are in longer-term uptrends. When they pull back a certain percentage or hit oversold readings, buy. Exit on a bounce back toward the mean. This avoids catching falling knives in deteriorating stocks.
+
+**On automation:**
+
+Since you're comfortable with F#, you could backtest these concepts against your stock data. The key things to measure aren't just returns, but:
+
+- Maximum drawdown
+- Win rate and average win vs average loss
+- Number of trades (affects feasibility and costs)
+- How sensitive results are to parameter changes (robustness)
+
+Would it help to think through how you might structure a backtest for one of these approaches with your existing data setup?
+
+///
+
+Forget about this.
+
+Why don't I focus on order flow and market microstructure? If I could figure out good entries using held bids and offers, that could solve a lot of my issues.
+
+Let me start a new conversation.
+
+> Is it viable to create quant trading systems based on order flow?
+
+///
+
+Yes, it's viable, though the practical challenges are significant.
+
+**What works well**
+
+Order flow data (DOM changes, trade prints, imbalances) contains real information about short-term supply/demand dynamics. Systematic strategies can capture patterns like absorption (large resting orders getting filled without price movement), iceberg detection, aggressive sweeps, and imbalance shifts at key levels. These signals tend to be most useful for very short holding periods—seconds to minutes—where microstructure effects dominate.
+
+Some hedge funds and prop firms do run systematic order flow strategies, particularly in futures markets where the centralized order book provides clean data. The signals often get combined with other factors rather than used in isolation.
+
+**The hard parts**
+
+Data costs and infrastructure are the first barrier. Real-time Level 2 and time & sales feeds are expensive, and you need low-latency execution to act on signals that decay quickly. By the time you're backtesting order flow strategies, the historical data itself can cost thousands per month per market.
+
+Signal decay is brutal. Any edge in microstructure tends to get arbitraged away quickly, so strategies need constant recalibration. What worked six months ago may be noise today.
+
+Execution is part of the signal. Your own orders affect the order book, creating feedback loops that are hard to model in backtests. Slippage and queue position matter enormously when your expected edge is a tick or two.
+
+Backtesting is tricky because reconstructing the full order book state from historical data requires careful handling of message sequences, and simulating realistic fills is genuinely difficult.
+
+**Realistic path**
+
+If you're exploring this personally, starting with footprint/volume profile analysis on futures (ES, NQ, CL) is reasonable—the data is more accessible and the patterns are cleaner than equities. But expectations should be modest: most retail quant efforts in this space end up as expensive education rather than profit centers.
+
+Are you thinking about this for your own trading, or more as a research interest?
+
+///
+
+> Is the data really so expensive? Polygon (now Massive) sells it for less than 200$ per month.
+
+///
+
+You're right, and that's a fair correction. The data landscape has improved significantly.
+
+Polygon (now Massive) at that price point gives you access to historical tick data, trades, and quotes for US equities, which is dramatically cheaper than what institutional feeds cost even a few years ago. Similar services like Databento, Alpaca, and others have pushed prices down further. For futures, CME historical data through various vendors is also more accessible than it used to be.
+
+So the data cost barrier is much lower than my initial framing suggested, especially for backtesting and research. The expensive part historically was real-time Level 2 feeds for live trading, but even that's become more reasonable.
+
+**What this changes**
+
+With ~$200/month data costs, the calculus shifts. You can realistically:
+
+- Build and backtest order flow strategies on historical equity data
+- Research patterns like trade imbalances, large block detection, volume clustering
+- Develop systematic signals without institutional-grade budgets
+
+**What remains hard**
+
+The execution and signal decay challenges still apply. Backtesting order flow is inherently messier than price-based strategies because reconstructing order book state and simulating realistic fills is nontrivial—your backtest can look great while real execution eats the edge.
+
+Latency matters less if you're targeting slightly longer holding periods (minutes rather than seconds), which is probably the realistic zone for retail infrastructure anyway.
+
+Given your F# and DuckDB work on stock data, you're actually well-positioned to prototype this kind of analysis. The data pipeline skills transfer directly. Are you thinking of extending your existing stock data work in this direction?
+
+///
+
+***
+
+Yes. I'm studying an old course by SMB Capital where I learned the unusual hold on bid and offer play. They say it has a 60-70% probability and a 1:5 risk reward so I am very interested in it, but reading the tape as they call it seems very difficult to do in real time. I'd have to keep track of the L2 and the time & sales windows at all times throughout the day to try to find these levels to play off of. I am thinking of automating the detection of these levels - they could probably be represented by high volume, low volatility periods. I could measure the volatility by calculating the volume weighted average price for a period and then derive the volume weighted standard deviation based on that.
+
+Since I am a programmer, it probably makes more sense to automate the hard parts than spend months learning to read the tape manually. What do you think?
+
+***
+
+///
+
+Your reasoning is sound, and your instinct to automate the detection rather than develop manual tape reading skills makes sense given your background.
+
+**The play itself**
+
+The unusual hold pattern—where price repeatedly tests a level with significant volume but fails to break through—is one of the more reliable order flow setups. The logic is straightforward: if a large participant is absorbing aggressive orders at a price, that level becomes meaningful. When it finally holds and the aggressor exhausts, you get a move in the opposite direction. The 60-70% with 1:5 risk/reward sounds optimistic for consistent real-world results, but the core concept is valid.
+
+**Your detection approach**
+
+Volume-weighted price and standard deviation over a window is a reasonable proxy for "high volume, low volatility." You're essentially looking for periods where lots of trading happens in a tight range, which captures the absorption phenomenon.
+
+A few refinements to consider:
+
+The time window matters. These holds often develop over 30 seconds to a few minutes. Too short and you catch noise, too long and you miss the setup.
+
+You might also track the bid/ask imbalance during these periods. True absorption shows as one side (say, aggressive sells) getting consistently filled against resting bids without price giving way. Just price compression with volume doesn't distinguish between genuine absorption and a temporary lull.
+
+The "release" signal—when the hold is confirmed and you enter—is the trickier part to systematize. Often it's a shift in aggression or the held level finally attracting bids on the offer side.
+
+**Practical path**
+
+Starting with detection and alerting rather than full automation makes sense. Flag the setups, observe them in real time, refine the parameters. You keep a human in the loop for the entry decision while offloading the hard scanning work.
+
+Would you be working with equity L2 data or thinking about futures for this?
+
+///
+
+> Equities. In particular, I'd want to try using this setup on Stock In Play. For the purpose of this discussion those would just be stocks with 5x the relative volume at time during the first 5 minutes of the day. The original idea was to just try out an Opening Range Breakout system from the 'A Profitable Day Trading Strategy For The U.S. Equity Market' paper by Zarattini and Aziz, but once I found out about some of the order flow concepts I started thinking that I could improve my expected value by trading these kinds of setups during the open instead.
+
+///
+
+That's a solid evolution of the idea. Combining the stock selection filter from the ORB research with order flow entries is logical—you're keeping the "stocks in play" concept that gives you volatility and liquidity, but potentially improving entry timing.
+
+**Why this could work better than pure ORB**
+
+The original Zarattini/Aziz approach uses a mechanical breakout of the opening range, which means you're entering on strength or weakness without regard to whether the move has absorption behind it. You often end up chasing into exhaustion.
+
+If you wait for an unusual hold to develop at or near the opening range boundary, you're entering after supply/demand has been tested rather than blindly on the break. You might miss some moves, but the ones you catch should have better follow-through.
+
+**Practical considerations**
+
+The first 5-30 minutes are chaotic. Volume is high but so is noise. Your detection algorithm will fire more signals than during midday, so filtering for quality matters. You might want stricter thresholds during the open—higher volume requirements, tighter price compression—than you'd use later in the session.
+
+Stocks in play will have wide spreads and fast moves. Your risk/reward calculations need to account for realistic fills, not mid-price assumptions.
+
+You'll also need to decide whether you're looking for holds at the opening range high/low specifically, or anywhere a significant level develops. The former ties directly to the ORB logic; the latter is more general tape reading.
+
+**Data pipeline**
+
+Since you're already working with equity data in F# and DuckDB, extending to tick-level or even aggregated 1-second bars with volume and VWAP calculations is a natural step. Polygon's historical data should give you what you need to prototype and backtest the detection logic.
+
+Have you looked at what granularity their trade/quote data provides?
+
+///
+
+> They have the trades and the quotes. Now that you're asking, it's making me wonder whether quotes means the entire order book or just the best bid and ask? Could you do some research to find that out?
+
+///
+
+Polygon/Massive provides NBBO (National Best Bid and Offer) quotes only—the best bid/ask prices, sizes, exchanges, and timestamps. It's not the full order book depth.
+
+Their FAQ is explicit: they do not currently provide Level 2 market depth information for stocks. Interestingly, they do provide Level 1 and Level 2 order books for crypto, but not equities.
+
+**What this means for your project**
+
+You won't see the stacked orders behind the best bid/offer—just the top of book. For the unusual hold detection, this is a real limitation. The classic tape reading approach looks at size accumulating at a level across multiple price points in the DOM, which you can't see with NBBO alone.
+
+However, you can still work with what's available:
+
+The NBBO size tells you something. If the bid size at the best bid stays large while trades keep printing at that price, that's absorption happening. You're inferring the hold from the combination of trades hitting the bid + bid not moving + bid size replenishing.
+
+Time & sales gives you the aggressor. Each trade shows whether it executed at the bid or ask, so you can track buy vs sell pressure directly.
+
+So your detection logic shifts from "look for large resting size in L2" to "look for repeated trades at a price level where the NBBO doesn't move and size remains." It's a less direct signal but still workable.
+
+If you want full L2 depth for equities, you'd need to look at other providers—Databento offers some depth data, and direct exchange feeds are an option but pricier. Worth exploring whether the NBBO approach is sufficient before committing to more expensive data.
+
+///
+
+> I'll give it a shot without the full order book. That having said, why is not seeing stacked orders a limitation?
+
+///
+
+Good question—I was thinking in terms of the traditional tape reading approach where you visually scan the DOM for large resting orders, but you're right to push back on whether that's actually necessary for detection.
+
+The core signal you're looking for is: price tests a level repeatedly, volume transacts there, but price doesn't break. Whether there's a visible 10,000 share bid stacked at that level or an iceberg that only shows 100 shares at a time, the outcome is the same—absorption is happening.
+
+In fact, relying on visible L2 size has its own problems. Large displayed orders can be spoofed and pulled. Institutional participants frequently hide their size using icebergs or algos that replenish. What you see in the DOM isn't necessarily what's actually there.
+
+The trade tape doesn't lie in the same way. If 50,000 shares trade at a price and the price doesn't move, something absorbed that flow—regardless of what was displayed. Your approach of measuring volume-weighted price compression captures exactly this phenomenon without needing to know the order book structure.
+
+So the limitation I mentioned is really only a limitation if you're trying to replicate the visual DOM-watching experience. For systematic detection, the tape + NBBO might actually be cleaner data to work with.
+
+///
+
+What a riveting conversation.
+
+Volume weighted price compression. That's a really good way of putting it.
+
+> I only went through the start of the SMB course, so I don't know any other order flow patterns in particular. I think the unusual hold is the most important one. Are there any others I should be aware of?
+
+///
+
+The unusual hold is probably the most reliable because it's the most direct evidence of a large participant's intent. But there are a few related patterns worth knowing:
+
+**Absorption turning to aggression**
+
+This is the follow-through after a hold. You've seen passive absorption (large buyer sitting on bid, eating sell orders), and then that participant flips to aggressive (starts lifting offers). The shift from passive to aggressive often marks the real move starting. In your data, this would show as a period of high volume at a stable price (the hold), followed by trades suddenly printing at the ask with price starting to move up.
+
+**Exhaustion**
+
+The opposite of absorption. Price pushes into a level with aggressive orders, but each push gets weaker—less volume, smaller price increments, trades start failing to print at new highs. The aggressor is running out of ammunition. You could detect this by looking at momentum decay: volume staying high but price progress slowing, or the spread between consecutive prints narrowing.
+
+**Stacked trades / sweeps**
+
+When someone needs to get filled immediately and sweeps through multiple price levels in rapid succession, you see a burst of trades at incrementing prices within milliseconds. This signals urgency and often initiates a fast move. Detecting it is straightforward: count trades and price change within a short window.
+
+**Failed auction**
+
+Price moves to a level, very little volume transacts (no interest), and it reverses. The market "rejected" that price. This is almost the inverse of the hold pattern—instead of high volume with no price movement, you get price movement with no volume.
+
+For your system, I'd start with just the unusual hold and maybe exhaustion. Adding more patterns before validating the first one is a recipe for complexity without payoff.
+
+///
+
+> This could be a fun project to do since I am unemployed anyway. And if it works, it will give me a way of building into longer term positions.
+
+///
+
+That's a pragmatic way to look at it—you've got the time, the technical skills, and a concrete hypothesis to test. Even if the trading edge turns out to be marginal, you'll end up with a solid data pipeline and some interesting research you can talk about in interviews.
+
+The progression from short-term order flow entries to building longer-term positions is sensible too. Using the holds to time entries on stocks that have fundamental catalysts (earnings, sector moves, whatever) gives you better entry prices on positions you'd want anyway. It's less about scalping ticks and more about not chasing.
+
+A few thoughts on scoping it as a project:
+
+Start with the detection and alerting piece. Get your stocks-in-play filter working, pipe in the NBBO and trades data, flag potential holds in real time or near-real-time. You can paper trade the signals manually at first to build intuition before adding execution logic.
+
+Keep a research log. Document what parameters you tried, what worked, what didn't. This is useful both for refining the system and for demonstrating your process if it comes up professionally.
+
+Set a time or cost budget. It's easy for trading projects to become money pits or endless rabbit holes. Decide upfront how long you'll run the experiment before evaluating whether to continue.
+
+The F# and DuckDB foundation you've already built for stock data analysis should make the initial pipeline work fairly quick. What's your rough timeline—are you thinking weeks or months to get something testable?
+
+///
+
+> Weeks. I can work on this full time.
+
+///
+
+With full-time focus and your existing codebase, a few weeks is realistic to get to something testable.
+
+Rough breakdown:
+
+**Week 1** — Data pipeline. Get Polygon's trades and NBBO quotes flowing into DuckDB for your stocks-in-play universe. Build the pre-market scanner that identifies 5x relative volume candidates. You've done similar work already so this should be straightforward.
+
+**Week 2** — Detection logic. Implement the volume-weighted price compression calculation. Tune the parameters—window size, volume threshold, what counts as "tight range." Backtest on historical opens to see if the pattern shows up where you'd expect.
+
+**Week 3** — Alerting and observation. Hook up real-time or near-real-time alerts. Watch the signals during live market opens, note which ones would have worked, refine. This is where you calibrate your intuition against what the algorithm flags.
+
+**Week 4** — Iteration. By now you'll know what's broken. Maybe the filter catches too much noise, maybe the hold detection triggers too late, maybe certain stock characteristics (float size, spread, sector) matter more than you expected.
+
+The nice thing about this project is you get feedback quickly. Unlike strategies that need months of data to validate, order flow setups either work on a daily basis or they don't. You'll know within a couple weeks of live observation whether the detection is capturing real setups.
+
+Good luck with it—sounds like a solid use of the time.
+
+///
+
+***
+
+Thank you. 
+
+How do you know so much about order flow anyway? Do you have any good learning resources that you'd like to recommend? The SMB course that I am watching, as good as it is, is from 2010, so I could use something newer.
+
+***
+
+///
+
+My knowledge comes from training data—books, forums, blog posts, course materials, trading discussions that were online before my cutoff. I don't have personal trading experience, so take my recommendations with that in mind.
+
+For more current resources:
+
+**Jigsaw Trading** — You've already come across them. Their educational material is focused specifically on order flow and is more recent than the SMB stuff. They have a free YouTube channel and webinars that cover the concepts without requiring their software.
+
+**Axia Futures** — A London prop firm that puts out order flow content on YouTube. Their focus is futures, but the concepts transfer. They discuss absorption, exhaustion, and initiative vs responsive activity in a systematic way.
+
+**Bookmap** — Their blog and YouTube channel have educational content alongside the product marketing. Useful for visualizing order flow concepts even if you don't use their platform.
+
+**FuturesTrader71** — Older material at this point, but his auction market theory explanations are foundational. He connects order flow to market profile concepts in a way that's still relevant.
+
+**No BS Day Trading (PA Trading)** — YouTube channel focused on price action and order flow for futures. More practical and less theoretical than some others.
+
+For books, *Markets in Profile* by Dalton covers auction market theory which underlies a lot of order flow thinking. It's not specifically about tape reading but gives you the conceptual framework.
+
+Most of the best current discussion happens in private Discord servers and Twitter/X communities, which is harder to point you to directly. But searching for "order flow" or "tape reading" on those platforms surfaces active practitioners.
+
+Want me to search for anything more specific or recent?
+
+///
+
+> Are there any communities I should consider joining? Lance Breitstein recommends that traders find a pod.
+
+///
+
+Lance's advice is sound—trading is isolating, and having people to discuss ideas with accelerates learning and helps with discipline. The feedback loop of sharing setups and seeing how others think is hard to replicate alone.
+
+A few places to look:
+
+**SMB Capital's community** — Since you're already doing their course, they may have a Discord or forum for students. Worth checking if that comes with your access.
+
+**Futures trading Discords** — Even though you're focused on equities, the order flow communities tend to cluster around futures. TopstepTrader, Apex Trader Funding, and similar prop firms have active Discords where people discuss setups. The concepts translate.
+
+**Twitter/X** — The "FinTwit" order flow corner is active. Following traders like Breitstein and seeing who they interact with surfaces others. Many run small private Discords you can get invited to by engaging with their content.
+
+**Reddit** — r/Daytrading and r/RealDayTrading have mixed quality but occasional good discussion. More useful for finding people to connect with than for the content itself.
+
+**Prop firm communities** — If you eventually want structure, some prop firms offer more than just capital. They provide training, mentorship, and a cohort of traders at similar levels. SMB itself does this, though the bar is high.
+
+The challenge is finding a group matched to your level and approach. Many communities skew toward beginners posting losses, or toward people selling services. The good pods tend to be smaller and private, formed organically among people who connected elsewhere.
+
+Given that you're building systematic tools rather than purely discretionary trading, you might also find value in quant-adjacent communities—people working on similar automation problems even if their strategies differ.
+
+Would you want me to search for any specific communities or see what's currently active?
+
+///
+
+> Unfortunately, the SMB course I got off a Russian torrent so I am not signed up to any of their programs currently. Could you search for what's currently active instead?
+
+///
+
+Based on the search results, here's what's currently active:
+
+**Free communities worth trying first**
+
+Bookmap has an official Discord community where traders share order flow analysis insights, with daily webinars covering all markets and trading hours, plus monthly competitions. This is probably the most directly relevant to what you're doing since it's specifically order flow focused.
+
+Topstep's Discord has over 170,000 members and dedicated strategy rooms including one specifically for Order Flow. It's futures-focused but includes coaches like Jay with 12 years of order flow experience. Free to join even without using their prop firm service.
+
+**Paid options if you want more structure**
+
+OrderFlow Labs offers a Discord with daily plans for ES and NQ futures, live market commentary twice weekly, and orderflow-based alerts. It's futures-centric but the concepts apply.
+
+OrderFlow Hub is a Discord focused on footprint charts and institutional order flow, currently offering free lifetime access to early members—though the site looks fairly new and the founder claims only 1.5 years of experience, so take it with appropriate skepticism.
+
+**General advice from the search**
+
+The better trading communities have traders who analyze past trades and learn from mistakes rather than just moving to the next setup, and have experienced traders willing to explain advanced topics like liquidity zones and institutional order flow. Look for that culture of reflection rather than just signal-chasing.
+
+I'd start with the Bookmap and Topstep Discords since they're free and specifically have order flow channels. You can lurk, see if the discussion is substantive, and decide whether to engage more actively from there.
+
+///
+
+6:45pm. I am done with the chat. 
+
+![](images/image-1930.png)
+
+At any rate, the one in the middle seems like an interesting post. I never knew that momentum gap up is extremly risky.
+
+6:55pm. Nevermind, these articles are devoid of any edge.
+
+> It is always best to error on the side of caution when you are trading in the first 30-45 minutes of the day (even if there is no gap).
+
+Bullshit. The first 1h is where most of the money is, so that's when you should be the most aggressive. It's during the middle of the day that the volatility dries up and you need to be cautious. It's just more blind leading the blind when it comes to retail traders.
+
+7pm. Enough. I just have to have courage. Whether it's the poker bot or order flow trading, I just need to do it. I'll go for it.
+
+> Unlike strategies that need months of data to validate, order flow setups either work on a daily basis or they don't. You'll know within a couple weeks of live observation whether the detection is capturing real setups.
+
+I'll know within 2 weeks.
+
+And this won't fail. And neither would the handcrafted poker bot fail either.
+
+I should give quant order flow trading a try over poker because it would give me a way of building up longer term positions with low risk entries. It also has more upside than poker. That's it.
+
+I could also get a quant trader job if it works afterwards.
+
+7:05pm. Seriously, just get into it. Overcome your inertia.
+
+I gained a lot from the SMB course, but I see no reason to continue studying courses. There is no need to do drills either.
+
+I should do it as a software engineer and if that is not enough, then so be it.
+
+Once I step on a path, the world will move for me.

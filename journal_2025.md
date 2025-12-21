@@ -25449,3 +25449,186 @@ I gained a lot from the SMB course, but I see no reason to continue studying cou
 I should do it as a software engineer and if that is not enough, then so be it.
 
 Once I step on a path, the world will move for me.
+
+8:25pm. > I was just wondering, why isn't the equity trading centralized in the US?
+
+///
+
+That's a great question with some interesting history behind it.
+
+US equity trading evolved into a fragmented structure rather than a centralized one for several interconnected reasons.
+
+**Historical path dependence** plays a major role. The NYSE and regional exchanges (Philadelphia, Boston, Chicago, etc.) predated any national regulatory framework. When the SEC was created in 1934, these exchanges already existed as independent entities, and there was no political appetite to consolidate them into a single venue.
+
+**Regulatory philosophy** has favored competition. The Securities Acts Amendments of 1975 explicitly directed the SEC to facilitate a "national market system" that would link exchanges through technology rather than consolidate them. The idea was that competition between venues would benefit investors through tighter spreads and lower costs. Reg NMS in 2005 reinforced this by requiring brokers to route orders to whichever venue offered the best price, essentially mandating interconnection rather than centralization.
+
+**Technology and profit opportunities** accelerated fragmentation further. Once electronic trading became viable in the late 1990s, new entrants like ECNs (Island, Archipelago, BATS) emerged to compete with the legacy exchanges. These venues attracted order flow by offering faster execution, rebates to liquidity providers, or specialized order types. Today you have NYSE, Nasdaq, CBOE's various exchanges, IEX, and numerous dark pools all competing for the same order flow.
+
+**Political economy** matters too. Exchanges, broker-dealers, and market makers all benefit from the current structure in various ways. High-frequency firms profit from arbitraging price differences across venues, while exchanges compete for listings and trading fees.
+
+By contrast, many other countries built their market infrastructure later and from scratch, often with a single national exchange as the default.
+
+///
+
+> I don't understand dark pools. Is it true that market participants cannot see each other's orders on them?
+
+///
+
+Yes, that's the core feature. In a dark pool, orders are hidden from other participants until they actually execute.
+
+On a lit exchange like NYSE or Nasdaq, you can see the order book — the bids and offers sitting there waiting to be filled. Everyone knows there's a buyer at $50.10 for 1,000 shares, a seller at $50.15 for 2,000 shares, and so on. This transparency is useful but creates a problem: if you're a large institution trying to buy a million shares, the moment you start showing your hand, other traders will front-run you, pushing the price up before you can finish.
+
+Dark pools solve this by hiding orders entirely. You submit your order, it sits invisibly in the pool, and if a matching order comes in from the other side, they execute — often at the midpoint of the national best bid and offer. Neither party knew the other was there until the trade happened.
+
+**Who uses them and why:** Primarily institutional investors (mutual funds, pension funds, hedge funds) trying to execute large orders without moving the market against themselves. If Fidelity needs to sell 500,000 shares of Microsoft, doing it visibly on Nasdaq would signal their intention and likely result in worse average execution.
+
+**The tradeoff:** You get price protection (no information leakage) but you sacrifice execution certainty. Your order might sit in a dark pool and never find a match, whereas on a lit exchange you could hit the visible offers immediately.
+
+**The controversy:** Critics argue dark pools reduce price discovery on public exchanges, and some pools have been fined for not actually being as "dark" as advertised — for example, allowing certain high-frequency traders to detect and exploit institutional order flow.
+
+Roughly 10-15% of US equity volume executes in dark pools, depending on how you count.
+
+///
+
+> If the orders cannot be seen, does that means that market orders cannot be executed on dark pools?
+
+///
+
+Right, you've identified something important. Dark pools typically don't accept traditional market orders in the way lit exchanges do.
+
+Since there's no visible order book to "hit," a market order wouldn't have anything to execute against immediately. You'd be saying "buy at whatever price" but there's no displayed price to take.
+
+Instead, dark pools mostly work with limit orders that rest invisibly until a matching order arrives. The execution price is usually derived from the lit markets — often pegged to the midpoint of the NBBO. So you might submit an order saying "buy up to $50.15" and it sits hidden, waiting for a seller. If someone submits a sell order and the current NBBO midpoint is $50.12, you'd both execute there.
+
+Some dark pools do accept what they call "market" or "immediate" order types, but these function differently than on lit venues. They typically attempt to match against whatever hidden liquidity exists at that moment, and if nothing matches, the order either cancels or routes elsewhere. There's no guarantee of execution.
+
+This is one reason institutional traders use algorithms that split large orders across both lit and dark venues simultaneously — you might send passive orders to dark pools hoping for midpoint fills while also working visible orders on exchanges to guarantee you're making progress.
+
+The lack of displayed liquidity is both the point and the limitation. You're trading execution certainty for reduced information leakage.
+
+///
+
+> Since the dark pool orders have to be reported on the exchange is there any point in using it vs iceberg orders for example?
+
+///
+
+Good comparison — both are trying to solve the same problem of hiding size, but they work differently and have distinct advantages.
+
+**Iceberg orders** sit on a lit exchange with only a small visible portion showing. When that piece gets filled, another chunk surfaces automatically. The problem is that sophisticated traders can detect icebergs. If they see the same 100-share offer getting replenished at the same price level repeatedly, they can infer there's a larger hidden order behind it. High-frequency firms have gotten quite good at iceberg detection, so you're not as hidden as you might think.
+
+**Dark pools** avoid this because nothing is visible at all until execution. There's no pattern to detect on a public feed because your order isn't on a public feed. Yes, the trade gets reported after execution (typically within 10 seconds to the consolidated tape), but by then it's done. The information leakage happens post-trade rather than pre-trade.
+
+The practical differences that matter:
+
+**Price improvement** — Dark pools often execute at the midpoint, so you might save half the spread compared to crossing it on a lit venue. Icebergs execute at your limit price on the exchange, meaning you're either paying the spread or waiting.
+
+**Execution certainty** — Icebergs will eventually fill if you're priced right because you're in the visible queue. Dark pool orders might never find a match.
+
+**Information leakage timing** — With icebergs, clever observers can detect you in real-time and trade ahead. With dark pools, competitors only learn about your trade after it happened.
+
+So it's not just about post-trade reporting — the key difference is whether others can see and react to your order *before* it executes.
+
+///
+
+8:45pm. How about perp futures?
+
+> To follow up on our order flow chat from before, I was thinking, would it be good if I tried out the order flow system on perpetual crypto futures? Would I be expected to have larger edge there?
+
+///
+
+That's an interesting idea, and there are arguments on both sides.
+
+**Potential advantages of crypto perpetuals for order flow:**
+
+The crypto markets are generally considered less efficient than traditional futures. You have a more heterogeneous participant base—retail traders, algorithmic bots, and institutional players with varying levels of sophistication all mixed together. In theory, this could mean order flow signals are more readable and exploitable since you're not competing exclusively against highly optimized professional market makers.
+
+Liquidity on major pairs like BTC and ETH perpetuals is actually quite deep on venues like Binance, Bybit, and similar exchanges, so you can practice reading the tape without worrying too much about illiquidity distorting what you see.
+
+**The complications:**
+
+However, crypto perpetuals come with structural quirks that may muddy what you're learning. Funding rates create their own dynamics—large positions might be entered or exited based on funding rather than directional conviction, which can produce order flow patterns that don't translate to traditional markets. The 24/7 nature means there's no clear session structure, so concepts like opening drives, lunch lulls, or closing imbalances don't apply the same way.
+
+There's also fragmentation across exchanges. Unlike ES where the CME is *the* venue, crypto order flow is split across multiple platforms. What you see on one exchange may not reflect the full picture.
+
+**My take:**
+
+If your goal is eventually trading traditional futures, I'd lean toward practicing on those directly—even in simulation—since the market microstructure is what you'll actually be trading. If you're open to crypto as its own thing, perpetuals could be a viable playground, but treat it as a related but distinct skill rather than direct preparation.
+
+What's drawing you toward crypto specifically—cost, accessibility, or genuine interest in those markets?
+
+///
+
+> The perpetual crypto futures are pretty much all pump and dump scams, so they are filled with dumb money and I've heard that institutional traders don't trust the exchanges. It might be possible to extract a larger edge from the market there due to the lower participant sophistication that in regulated markets.
+
+///
+
+Your reasoning is coherent, and you're not wrong about the participant profile—crypto perpetuals, especially on the altcoin side, do attract a lot of unsophisticated flow. The lack of institutional presence and regulatory oversight does create an environment where informed traders can potentially find edges that would get arbitraged away quickly in traditional markets.
+
+**Where this logic holds:**
+
+On lower-cap perpetuals especially, you'll see retail traders chasing momentum, overleveraging, and getting liquidated in predictable patterns. Liquidation cascades create mechanical order flow that's relatively readable. If you can identify when a squeeze is setting up, you're trading against forced buyers or sellers rather than discretionary participants making informed decisions.
+
+**The catches:**
+
+The flip side of "easier to read" is that the exchanges themselves are part of the game in ways that work against you. Exchange manipulation concerns aren't paranoia—there have been documented cases of stop hunts, liquidation engine opacity, and suspicious wicks that hit liquidation clusters before reversing. You might read the order flow correctly and still get run over by mechanics you can't see.
+
+Counterparty risk is real too. If you do extract meaningful edge, actually getting your money out becomes part of the equation in a way it simply isn't with regulated futures.
+
+There's also the question of whether you'd be building transferable skill. Reading order flow against unsophisticated participants in a structurally different market might not prepare you well for ES or other traditional futures, where the game is harder but cleaner.
+
+**If you do try it:**
+
+Stick to BTC/ETH perpetuals on higher-volume venues where manipulation is harder to pull off. Treat it as a laboratory for concepts rather than your primary training ground. And size very conservatively given the counterparty considerations.
+
+What's your current read on which venue you'd use?
+
+///
+
+I get the sense it cannot remember the talk from before.
+
+> I only really know about the unusual hold on bids and offers at the moment, which were covered near the start of the SMB course. I wasn't actually intending to trade ES futures, but Stock In Play in equity land.
+
+///
+
+That clarifies things a lot. Stock In Play daytrading is quite different from index futures—you're looking for individual names with catalysts and unusual activity, where order flow signals can indicate institutional accumulation or distribution against the noise.
+
+**The unusual hold signal:**
+
+The concept you're describing—size sitting on the bid or offer that doesn't get pulled when tested—is a classic indication of genuine intent. In equities, this can be particularly useful because you're often trying to identify when larger players are building or exiting positions in a name that's in play due to earnings, news, or sector rotation.
+
+Systematizing this is tricky though. You need to define what constitutes "unusual" size relative to that stock's normal book depth, what counts as being "tested," and how long the hold needs to persist to be meaningful. These thresholds likely vary by ticker, float, and market conditions.
+
+**For a quant system in equities:**
+
+You'd need Level 2 data and ideally full depth-of-book feeds, which gets expensive quickly. The signal-to-noise ratio also varies enormously across names—a hold signal in a liquid large-cap means something different than in a mid-cap with a thinner book.
+
+**Bringing this back to crypto perpetuals:**
+
+The unusual hold concept should translate reasonably well to BTC/ETH perpetuals as a testing ground. The order books are visible, depth is decent, and you can prototype your detection logic and see if it has any predictive value before investing in expensive equity data feeds.
+
+If it works there, you'd have a template to port over to equities, adjusting for the microstructure differences.
+
+Are you thinking of building this in F#? That would fit well with the kind of stateful order book tracking this requires.
+
+///
+
+Agh, forget it. It's annoying talking to an amnesiac like this.
+
+Just one more.
+
+> We talked about this, so I don't want to revisit it. I am just wondering, how is daytrading Stocks In Play particularly different than index futures?
+
+///
+
+You're right, apologies for retreading ground.
+
+On the core difference: with Stocks In Play, you're selecting from a universe of names each day based on catalysts and unusual activity, then trading the ones showing the best setups. The edge starts with *selection*—picking the right stock to focus on matters enormously. A great order flow read on a dull name goes nowhere.
+
+With index futures like ES, there's no selection. Everyone's trading the same instrument, so the entire game is reading the flow and timing entries and exits. The competition is more direct and the participant pool skews more professional.
+
+This has implications for a quant system. In equities, you're building two things: a screener or filter to identify which names are in play and worth watching, and then order flow logic to trade them. In futures, you only need the second part, but you're competing against other systematic players who are highly optimized for that one instrument.
+
+The fragmented nature of equity order flow (multiple exchanges, dark pools, hidden liquidity) also makes it harder to get a complete picture compared to a centralized futures order book.
+
+///
+

@@ -24738,3 +24738,8 @@ I still have 0 idea how to do stock selection properly. I could get a lot better
 I'll do it if I cannot get the poker system to work, and if I cannot get a software dev job after I am done with the longer timeframe systems.
 
 10:15am. Forget trading, do research.
+
+10:45am. https://youtu.be/5lYsO4k7OIY
+We’re All So F’d | NVIDIA x Palantir, Global Surveillance, "Pre-Crime" Arrests, & AI
+
+Holy crap, what the hell is happening in the US? They really are going the Cyberpunk route.

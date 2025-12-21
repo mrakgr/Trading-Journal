@@ -24743,3 +24743,9 @@ I'll do it if I cannot get the poker system to work, and if I cannot get a softw
 We’re All So F’d | NVIDIA x Palantir, Global Surveillance, "Pre-Crime" Arrests, & AI
 
 Holy crap, what the hell is happening in the US? They really are going the Cyberpunk route.
+
+11am. What I am going to do from here on is glue myself to algo and systematic traders. I got quite a bit from the discretionary daytraders, but there is always more to get.
+
+Trying to get to 200k is not a priority, what I should ensure are good returns for the next 10, 20, 30 and even 40 years. Take care of the future and the present will take care of itself.
+
+I'll resume the screencast tomorrow and focus on finishing the two daytrading systems. Then I'll see how I am going to proceed after that.

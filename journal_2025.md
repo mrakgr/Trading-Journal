@@ -24749,3 +24749,16 @@ Holy crap, what the hell is happening in the US? They really are going the Cyber
 Trying to get to 200k is not a priority, what I should ensure are good returns for the next 10, 20, 30 and even 40 years. Take care of the future and the present will take care of itself.
 
 I'll resume the screencast tomorrow and focus on finishing the two daytrading systems. Then I'll see how I am going to proceed after that.
+
+1pm. https://www.youtube.com/@BetterSystemTraderPodcast
+
+Found this channel.
+
+1:05pm. https://www.youtube.com/watch?v=qQ84Ycu45YY
+"How to build Mean Reversion trading strategies" - Stefan Friedrichowski
+
+Maybe this will give me some ideas.
+
+I know a bit about market timing, so that makes mean reversion systems more viable. I'll watch this in a bit.
+
+I'd rather do research than trade at this point. Psychologically, it much more important to me to protect my money than to make more of it at this juncture.

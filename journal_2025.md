@@ -25632,3 +25632,8 @@ The fragmented nature of equity order flow (multiple exchanges, dark pools, hidd
 
 ///
 
+12/22/2025
+
+10:20am. I could have gotten up an hour or two earlier instead of lounging in bed, but the inertia is real.
+
+I need to overcome my fear and commit.

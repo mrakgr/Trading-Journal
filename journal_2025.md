@@ -25637,3 +25637,5 @@ The fragmented nature of equity order flow (multiple exchanges, dark pools, hidd
 10:20am. I could have gotten up an hour or two earlier instead of lounging in bed, but the inertia is real.
 
 I need to overcome my fear and commit.
+
+11am. Let me start the screencast. I think I might want to avoid the Quantower subscription. I'd be better off putting the prices in a table and looking at the numbers directly.

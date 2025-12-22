@@ -25639,3 +25639,113 @@ The fragmented nature of equity order flow (multiple exchanges, dark pools, hidd
 I need to overcome my fear and commit.
 
 11am. Let me start the screencast. I think I might want to avoid the Quantower subscription. I'd be better off putting the prices in a table and looking at the numbers directly.
+
+4:30pm. Thomas shared me this: https://x.com/Argona0x/status/2002391129870803306
+
+***
+
+programmers are making $10k-200k monthly on polymarket
+
+here's how they actually do it
+
+///
+
+1. arbitrage bots
+
+buy YES + NO when combined price < $1
+
+example: YES at 48¢ + NO at 49¢ = 97¢ total
+
+you lock $0.03 profit per $1 no matter who wins
+
+trader "distinct-baguette" made $242k in 1.5 months doing this
+
+targets 15-min crypto markets where prices move fast
+
+python script polls API every 1-3 seconds, executes when sum < 99¢
+
+///
+
+2. statistical arbitrage
+
+find correlated markets that drift apart
+
+"trump wins" vs "GOP senate control" should move together
+
+when spread hits 4-7%, short expensive one, long cheap one
+
+close when they converge
+
+trader "sharky6999" made $480k scanning 100+ markets per minute
+
+///
+
+3. AI probability models
+
+train ML models to estimate real odds from news/social data
+
+if your model says 60% YES but market at 50¢, buy
+
+trader "ilovecircle" made $2.2M in 2 months with 74% accuracy
+
+uses ensemble of 10 AI models, retrains weekly
+
+///
+
+4. spread farming
+
+buy at bid (5¢), sell at ask (6¢), repeat
+
+or hedge across platforms (short polymarket, long binance)
+
+trader "cry.eth2" made $194k with 1M trades
+
+high-frequency loop via CLOB API
+
+///
+
+5. copy-trading automation
+
+mirror successful whale traders automatically
+
+scan profiles, execute proportional trades
+
+one bot made $80k in 2 weeks copying near-resolved markets
+
+///
+
+tech stack:
+
+python + requests library for API calls 
+
+web3-py for blockchain interactions deploy on VPS for 24/7 operation
+
+polymarket has REST APIs for everything:
+
+gamma markets API (prices/volumes)
+CLOB API (place orders)
+data API (track positions)
+
+///
+
+starting point:
+
+> build simple arbitrage bot first
+> fund with $100-1k for testing target high-volume markets (politics/crypto)
+ > expect 50-70% win rate but focus on positive EV
+
+![](images/image-1931.png)
+![](images/image-1932.png)
+
+***
+
+Sick.
+
+Polymarket has a lot of opportunity on it, but I told Thom I'll focus on order flow patterns in Stocks In Play for the time being.
+
+https://youtu.be/eSs023eJf4Q
+Level 2 Strategies Every Day Trader MUST Know (Taught by a Prop Trader)
+
+Let me watch this and then I will resume programming, but holy crap the day is nearly over already. How did that happen? I barely did anything today.
+
+4:40pm. Nevermind, this setup isn't even on a Stock In Play. Let me resume from there I left off before.

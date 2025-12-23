@@ -25749,3 +25749,16 @@ Level 2 Strategies Every Day Trader MUST Know (Taught by a Prop Trader)
 Let me watch this and then I will resume programming, but holy crap the day is nearly over already. How did that happen? I barely did anything today.
 
 4:40pm. Nevermind, this setup isn't even on a Stock In Play. Let me resume from there I left off before.
+
+7:10pm. What a rip-off. The quotes data doesn't have whether the trade has been executed at the bid or ask. I'll upgrade to the highest tier tomorrow.
+
+12/23/2025
+
+10:10am. I am up. What do I want? To get to a million. Then I should just go and get it. Let me do my usual morning reading first.
+
+https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/
+FPGAs Need a New Future
+
+https://news.ycombinator.com/item?id=46324269
+
+11am. Yeah, this is the usual me. Agonizing about my future instead of working towards it. Let me do the latter. Time to start.

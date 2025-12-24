@@ -25791,3 +25791,11 @@ You know what, I'll give it a chance.
 One thing that has me struggling with System Shock besides the shitty level layout is having to aim with the controller. My RSI hasn't healed, and I can only cope with it. Playing with keyboard and mouse is something I'd rather avoid.
 
 10:10pm. I am really wondering whether all that database programming that I am doing with DuckDb makes sense. Maybe it would make more sense to just load it directly from JSON files and work on them directly.
+
+12:25am. Dishonered is great. The art style reminds me of No One Lives Forever which I like.
+
+![](images/image-1935.png)
+
+Deus Ex is on sale as well. I've only played the original, but not the rest. Maybe I should get them?
+
+I'll leave the decision for later.

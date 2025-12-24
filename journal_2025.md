@@ -25789,3 +25789,5 @@ You know what, I'll give it a chance.
 9:35pm. Bought it on GOG. There was an 80% discount for it, so I decided to get it. My net worth is now above 100k, so I can afford to buy a game for 14 euros here and there.
 
 One thing that has me struggling with System Shock besides the shitty level layout is having to aim with the controller. My RSI hasn't healed, and I can only cope with it. Playing with keyboard and mouse is something I'd rather avoid.
+
+10:10pm. I am really wondering whether all that database programming that I am doing with DuckDb makes sense. Maybe it would make more sense to just load it directly from JSON files and work on them directly.

@@ -25766,3 +25766,26 @@ https://news.ycombinator.com/item?id=46324269
 12/24/2025
 
 10:25am. It's almost Christmas. Let me do some programming.
+
+9:10pm. To be honest, the System Shock Remake sucks. Let me play something else.
+
+9:15pm. To be fair, I didn't exactly enjoy System Shock 2 decades ago.
+
+Monster Hunter World, Dark Souls 2. I am also thinking of buying Dishonored.
+
+https://www.youtube.com/watch?v=VDkvpuvPcmU
+Netrunner ~ Full Album Stream Synthwave / Vaprowave /Cyberpunk / Retrowave Music
+
+This is pretty good. I thought it would be some techno trash.
+
+![](images/image-1933.png)
+
+I keep thinking that 2012 would have great graphics, but they look so dated now.
+
+![](images/image-1934.png)
+
+You know what, I'll give it a chance.
+
+9:35pm. Bought it on GOG. There was an 80% discount for it, so I decided to get it. My net worth is now above 100k, so I can afford to buy a game for 14 euros here and there.
+
+One thing that has me struggling with System Shock besides the shitty level layout is having to aim with the controller. My RSI hasn't healed, and I can only cope with it. Playing with keyboard and mouse is something I'd rather avoid.

@@ -25762,3 +25762,7 @@ FPGAs Need a New Future
 https://news.ycombinator.com/item?id=46324269
 
 11am. Yeah, this is the usual me. Agonizing about my future instead of working towards it. Let me do the latter. Time to start.
+
+12/24/2025
+
+10:25am. It's almost Christmas. Let me do some programming.

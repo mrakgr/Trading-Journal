@@ -25805,8 +25805,10 @@ I'll leave the decision for later.
 10:05am. https://youtu.be/AzOJ9QLgfIk
 If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You
 
-Let me start. Interesting vid.
+Interesting vid.
 
 Merry Christmas.
 
 Uah, it's tough, but I need to do this. Win or lose, I need to conquer my fear.
+
+Let me start.

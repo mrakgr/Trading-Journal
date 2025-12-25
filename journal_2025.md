@@ -25806,3 +25806,7 @@ I'll leave the decision for later.
 If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You
 
 Let me start. Interesting vid.
+
+Merry Christmas.
+
+Uah, it's tough, but I need to do this. Win or lose, I need to conquer my fear.

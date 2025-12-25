@@ -25799,3 +25799,10 @@ One thing that has me struggling with System Shock besides the shitty level layo
 Deus Ex is on sale as well. I've only played the original, but not the rest. Maybe I should get them?
 
 I'll leave the decision for later.
+
+12/25/2025
+
+10:05am. https://youtu.be/AzOJ9QLgfIk
+If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You
+
+Let me start. Interesting vid.

@@ -25843,3 +25843,10 @@ https://arxiv.org/abs/1902.04023
 Computing Extremely Accurate Quantiles Using t-Digests
 
 This is an amazing algorithm. Pretty simple to implement too. I'll be using this to get the percentiles for sizes and time gaps. Read the paper in its entirety. I'll be putting it to work tomorrow. Let me get lunch.
+
+7:25pm. https://news.ycombinator.com/item?id=46392115
+Rob Pike Goes Nuclear over GenAI (skyview.social)
+
+![](images/image-1936.png)
+
+Lel.

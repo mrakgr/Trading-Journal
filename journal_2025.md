@@ -25850,3 +25850,5 @@ Rob Pike Goes Nuclear over GenAI (skyview.social)
 ![](images/image-1936.png)
 
 Lel.
+
+7:35pm. These guys are overblowing it. Now that I've actually tried out Claude Code and Factory Droid, I can see that these bots are useful. Honestly, it showing me the t-digest algorithm was the highlight of their career. For once they transcended what I thought was possible.

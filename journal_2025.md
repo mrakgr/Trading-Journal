@@ -25836,3 +25836,10 @@ The algos are simply bad.
 Still, I shouldn't leave making my own features completely out of consideration. I need to ask myself how would I normalize the features in order to feed it to a NN.
 
 Let me start by doing some talking to Opus.
+
+6:35pm. Spent 1.5 hours learning about the t-digest algorithm just now.
+
+https://arxiv.org/abs/1902.04023
+Computing Extremely Accurate Quantiles Using t-Digests
+
+This is an amazing algorithm. Pretty simple to implement too. I'll be using this to get the percentiles for sizes and time gaps. Read the paper in its entirety. I'll be putting it to work tomorrow. Let me get lunch.

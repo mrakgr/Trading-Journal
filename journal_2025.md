@@ -25812,3 +25812,27 @@ Merry Christmas.
 Uah, it's tough, but I need to do this. Win or lose, I need to conquer my fear.
 
 Let me start.
+
+12/26/2025
+
+11:05am. I am doing some intense thinking right now. The held bids are there in the data, but how am I going to detect them and take advantage of them?
+
+After some thought, moving averages won't cut it. I'll have to use NNs for this or something else.
+
+I need to be able to catch the transition when the held bid releases exactly. It's extremely important, but moving averages aren't the best tool to either detect the held bids themselves or when they release.
+
+11:10am. I am going to have to simulate it, as per original plan. I can do random tape action interspersed with held bids and offers.
+
+It might be a betrayal of my earlier determination to craft my own features, but screw that.
+
+The fact that I'll be able to simulate and then use ML models is reason enough to ditch poker and go into trading. It's good enough.
+
+11:40am. Poker is super annoying. I already simulated the game and that's like putting a plate of food in front of a person. Do I have to also feed him as well?
+
+Being able to simulate something is 80-90% of the job done, so why was I failing at the step that should have been easy?
+
+The algos are simply bad.
+
+Still, I shouldn't leave making my own features completely out of consideration. I need to ask myself how would I normalize the features in order to feed it to a NN.
+
+Let me start by doing some talking to Opus.

@@ -25852,3 +25852,33 @@ Rob Pike Goes Nuclear over GenAI (skyview.social)
 Lel.
 
 7:35pm. These guys are overblowing it. Now that I've actually tried out Claude Code and Factory Droid, I can see that these bots are useful. Honestly, it showing me the t-digest algorithm was the highlight of their career. For once they transcended what I thought was possible.
+
+12/27/2025
+
+6:45pm. ![](images/image-1937.png)
+
+Holy crap, is this Tim Sykes now? He looks and sounds nothing like I remember him.
+
+At any rate, I am going to have to think very seriously how I want to do the next step, which is to simulate the price action.
+
+The bot has been doing great work up to now, but it's in over its head.
+
+![](images/image-1938.png)
+> Now there is infinitely more chares to short, infinitely more brokers that...
+
+So maybe it won't be as much of a problem to try out Tim strategy at some point.
+
+https://youtu.be/k_tdZk5XFBE?t=1595
+> I don't short sell anymore because it's too dangerous for newbies.
+
+Wow. He says his first 3,000 out of 10,000 videos are on short selling and then he follow it up saying he doesn't do it anymore.
+
+7:25pm. https://youtu.be/k_tdZk5XFBE?t=2056
+> Pirate my DVD, pirate his DVD.
+
+Oh lol. Why is Tim so great now.
+
+https://youtu.be/k_tdZk5XFBE?t=2083
+> You're old, but if you make enough money you can buy back your youth.
+
+Looooooooollll!

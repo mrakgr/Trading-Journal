@@ -25884,6 +25884,7 @@ https://youtu.be/k_tdZk5XFBE?t=2083
 Looooooooollll!
 
 8:15pm. https://youtu.be/KZb7XCrVxWY?t=527
+Why Are Female Snipers Executed Upon Capture
 
 ![](images/image-1939.png)
 

@@ -25882,3 +25882,9 @@ https://youtu.be/k_tdZk5XFBE?t=2083
 > You're old, but if you make enough money you can buy back your youth.
 
 Looooooooollll!
+
+8:15pm. https://youtu.be/KZb7XCrVxWY?t=527
+
+![](images/image-1939.png)
+
+Holy crap. Dead horses, fake trees. Don't want to go up against a sniper.

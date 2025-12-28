@@ -25889,3 +25889,23 @@ Why Are Female Snipers Executed Upon Capture
 ![](images/image-1939.png)
 
 Holy crap. Dead horses, fake trees. Don't want to go up against a sniper.
+
+12/28/2025
+
+4:50pm. ...
+
+4:55pm. ...Holy crap, I am having so much difficulty right now!
+
+I've been thinking since I woke up how to simulate the order flow episodes and it's been super difficult!
+
+Just how the hell am I supposed to sample them top down?
+
+I keep imagining splitting the day into morning, mid and close sessions. And then those sessions into sub episodes. And the those sub episodes into sub sub episodes.
+
+But just how do I get things to fit?
+
+Rejection sampling would work, but it would be too inefficient. It would be like trying to sample a needle in a haystack.
+
+5pm. Let me think...
+
+Rescaling seemed very obvious at first, but it's a trap. Isn't there a better way?

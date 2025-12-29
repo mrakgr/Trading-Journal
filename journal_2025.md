@@ -26085,3 +26085,7 @@ I've been strongly considering making a pivot to market making in the short term
 I have a lot to gain from the book, and if I can make 10k+ per year from market making that would make it worth the effort. Jeffrey Neuman made his first million from doing that, so maybe I should take a hint.
 
 Thomas and me are influencing each other, and for once I should let myself be influenced.
+
+4:20pm. > By the end of this chapter, you would have developed significant expertise in pricing and hedging complex derivatives, a skill that is in high demand in the finance industry.
+
+Really? I don't understand why though. Black Scholles has existed for decades. Anybody can just plug it into Excel.

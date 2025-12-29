@@ -26108,3 +26108,4 @@ Now I will be going straight to the root. I think understanding how market makin
 
 I forgot how Python's dataclasses work up to now.
 
+6pm. Let me stop here at page 46. I'll pu some serious effort into this book in the coming days. It's just what I am interested in, and going through it might pay for itself. I'll go over the conversation with Claude that I pasted here after that. There are references to agentic simulations that I am also interested in.

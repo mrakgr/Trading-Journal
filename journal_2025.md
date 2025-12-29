@@ -25909,3 +25909,11 @@ Rejection sampling would work, but it would be too inefficient. It would be like
 5pm. Let me think...
 
 Rescaling seemed very obvious at first, but it's a trap. Isn't there a better way?
+
+12/29/2025
+
+11am. I am up. Yesterday I finished Dishonored. And I came to a conclussion regarding how to deal with sub episode splitting. The only answer is to change the framework entirely. From top down planning, to a stack of abstract machines that fluidly decide whether to continue the episode at every timestep.
+
+But since I am at it, I might as well investigate how to do simulation at the order book level. Also, there is the matter of matching continuation probabilities with log normal distribution CFD probabilities. Right now I can only think of starting it off at 0 in log space and then decrementing it by the the number of steps multiplied by some constant. I need more insight on how to do the steps properly.
+
+Opus will know the way.

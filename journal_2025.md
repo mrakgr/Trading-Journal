@@ -26088,8 +26088,16 @@ Thomas and me are influencing each other, and for once I should let myself be in
 
 4:20pm. > By the end of this chapter, you would have developed significant expertise in pricing and hedging complex derivatives, a skill that is in high demand in the finance industry.
 
-Really? I don't understand why though. Black Scholles has existed for decades. Anybody can just plug it into Excel.
+Really? I don't understand why though. Black Scholes has existed for decades. Anybody can just plug it into Excel.
 
 > In this chapter, you will be first introduced to the mechanics of trade order placements (market orders and limit orders), and then introduced to a very important real-world problem—how to submit a large-sized market order by splitting the shares to be transacted and timing the splits optimally in order to overcome “price impact” and gain maximum proceeds. 
 
 Large intraday trends are caused by large players executing their orders over time, so this is of great interest to me.
+
+4:55pm. I am pretty tired today. I ended up going to bed past 1am for the past few days and am suffering for it now.
+
+But now that I have a concrete goal - go through this book and make a market making bot, I should make more direct progress. Going at trading from a quant perspective is fresh.
+
+In the past I would have scoffed at short term trading, but now...
+
+Now I will be going straight to the root. I think understanding how market making works could only benefit me when it comes to taking advantage of actual order flow setups. Doing this study is a win-win. I'll learn a bit about options as well. Who knows, maybe I'll find opportunities to market make them in some softer markets. Definitely not equities, but crypto perhaps. I shouldn't leave any possibility off the table.

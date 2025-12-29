@@ -26108,4 +26108,55 @@ Now I will be going straight to the root. I think understanding how market makin
 
 I forgot how Python's dataclasses work up to now.
 
-6pm. Let me stop here at page 46. I'll pu some serious effort into this book in the coming days. It's just what I am interested in, and going through it might pay for itself. I'll go over the conversation with Claude that I pasted here after that. There are references to agentic simulations that I am also interested in.
+6pm. Let me stop here at page 46. I'll pu some serious effort into this book in the coming days. It's just what I am interested in, and going through it might pay for itself. I'll go over the conversation with Claude that I pasted here after that. There are references to agentic simulations that I am also interested in.0::::
+
+6:40pm. Forgot to paste the continuation.
+
+> I am just wondering. Currently I am reading the 'Foundations of Reinforcement Learning with Applications in Finance' that you've linked to recently and it has chapters on optimal market making. Do you think it could be worth it for me to learn market making and make a market making bot so I could use it on inefficient markets like Polymarket instead of trying to make a bot to take advantage of order flow patterns?
+
+///
+
+That's a reasonable question to ask yourself. Let me think through the tradeoffs.
+
+**Arguments for the market making route:**
+
+Market making on prediction markets like Polymarket has some genuine advantages. The competition is weaker than equity markets — you're not up against Citadel's infrastructure. The bid-ask spreads are often wide, so there's real edge available just from providing liquidity competently. The math is well-understood (Avellaneda-Stoikov and variants), and Rao's book gives you the foundations to implement it properly. You'd also be building something with a clearer feedback loop: you post quotes, you get filled or you don't, you track your P&L and inventory risk. The signal is noisy but at least the mechanism is transparent.
+
+Polymarket specifically has thin books on many contracts, meaning a reasonably capitalized market maker with decent inventory management could capture spread consistently. The main risks are inventory blowup on binary events (you get stuck holding the wrong side going into resolution) and adverse selection from informed bettors who know something you don't.
+
+**Arguments for sticking with order flow:**
+
+The order flow detection approach you've been working on is harder but potentially more valuable if you crack it. Market making is fundamentally a game of being the dumbest money that's still profitable — you're providing liquidity and hoping adverse selection doesn't eat you alive. Order flow detection, if it works, puts you on the informed side of that trade.
+
+The skills are also more transferable. Understanding market microstructure deeply enough to detect accumulation patterns is useful across many contexts. Market making on Polymarket is fairly niche.
+
+**Practical consideration:**
+
+You could prototype a simple market maker on Polymarket in a few weeks with what you already know. That might be worth doing just to get live trading experience and revenue while you continue the order flow research on the side. The two aren't mutually exclusive, and running a market maker would give you firsthand intuition about how flow looks from the liquidity provider's perspective.
+
+What's your read on Polymarket's API and execution infrastructure? Have you looked at it?
+
+///
+
+> I haven't yet, but one of my friends is looking into it. I saw some posts on Twitter about bot markets doing arbitrage (in Python) and copy trading and making money. The common sentiment is that new markets like Polymarket as less efficient. I am thinking that I could maybe start with market making and have the order flow bot control it so it's not on the wrong side of big trends.
+
+///
+
+That's a smart hybrid approach. Use market making as the base revenue generator, then layer order flow detection on top as a risk filter — pull quotes or skew them when you detect directional pressure building.
+
+The idea of less efficient new markets is real. Polymarket has genuine retail flow, emotional betting around political events, and thinner books than mature markets. That's exactly the environment where a competent market maker can thrive. The arbitrage bots you're seeing on Twitter are probably exploiting price discrepancies across contracts or between Polymarket and other prediction markets — that's a different game, more about speed and coverage than market making.
+
+Your sequencing makes sense:
+
+1. Build a basic market maker that quotes around fair value, manages inventory, and captures spread
+2. Get it running live with small size to learn the execution quirks, fee structure, and how flow actually behaves
+3. Add the order flow detection layer to identify when you're about to get run over and should fade or step aside
+
+The order flow component becomes much more tractable in this context. You're not trying to predict direction for speculative entry — you're just trying to avoid being the patsy when someone informed is accumulating. That's a narrower, more achievable goal. You need to detect "something unusual is happening" more than "price will go up."
+
+One thing to think about: Polymarket contracts resolve to 0 or 1, so the dynamics near expiration or around news events are different from equities. Inventory risk is asymmetric and can blow up fast. You'll want circuit breakers that pull quotes entirely around high-volatility moments.
+
+Worth syncing with your friend to see what he's learned about the API and any gotchas with execution or rate limits.
+
+///
+

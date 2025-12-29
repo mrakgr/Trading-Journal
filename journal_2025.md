@@ -26101,3 +26101,10 @@ But now that I have a concrete goal - go through this book and make a market mak
 In the past I would have scoffed at short term trading, but now...
 
 Now I will be going straight to the root. I think understanding how market making works could only benefit me when it comes to taking advantage of actual order flow setups. Doing this study is a win-win. I'll learn a bit about options as well. Who knows, maybe I'll find opportunities to market make them in some softer markets. Definitely not equities, but crypto perhaps. I shouldn't leave any possibility off the table.
+
+5:05pm. Nice.
+
+![](images/image-1941.png)
+
+I forgot how Python's dataclasses work up to now.
+

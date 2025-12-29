@@ -25917,3 +25917,163 @@ Rescaling seemed very obvious at first, but it's a trap. Isn't there a better wa
 But since I am at it, I might as well investigate how to do simulation at the order book level. Also, there is the matter of matching continuation probabilities with log normal distribution CFD probabilities. Right now I can only think of starting it off at 0 in log space and then decrementing it by the the number of steps multiplied by some constant. I need more insight on how to do the steps properly.
 
 Opus will know the way.
+
+12:25pm. ![](images/image-1940.png)
+
+If the order book sims turn out to be too hard, maybe I could try out market making on Polymarket by the end of this book.
+
+> What are good ways of simulating stock market order flow data?
+
+///
+
+Good question, Marko. There are several approaches depending on what aspects of order flow you want to capture:
+
+## Empirical Replay with Perturbation
+
+The most realistic approach is replaying actual historical data (like what you're collecting from Polygon) but adding controlled noise or modifications. You can shuffle arrival times slightly, scale volumes, or inject synthetic orders. This preserves the realistic autocorrelation structure and microstructure patterns that are hard to generate from scratch.
+
+## Agent-Based Models
+
+These simulate markets as collections of interacting traders with different strategies:
+
+- **Zero-intelligence agents** place random orders within budget constraints — surprisingly effective at reproducing basic stylized facts like fat-tailed returns
+- **Santa Fe Artificial Stock Market** style models with adaptive agents that learn and evolve strategies
+- **Mixture models** combining informed traders, noise traders, and market makers with distinct order generation logic
+
+The challenge is calibration — getting agent parameters that produce realistic spread dynamics, volume clustering, and the specific patterns you're hunting for.
+
+## Point Process Models
+
+Hawkes processes are popular here because they naturally capture the self-exciting nature of order flow (orders beget orders). You can fit a multivariate Hawkes process to your historical data to model how bid arrivals influence offer arrivals and vice versa. The `tick` library in Python handles this, though you might want something in F# or to call out to it.
+
+## Queue-Based Simulation
+
+If you're specifically interested in bid/offer dynamics and "unusual hold" patterns, you could build a simpler simulation focused on limit order book mechanics — model the queue at each price level, simulate arrivals/cancellations with Poisson processes, and inject the specific patterns you want to detect to validate your detection logic.
+
+Given your focus on detecting unusual holding patterns, I'd lean toward either empirical replay (to validate your detectors work on real structure) or a targeted queue simulation where you can programmatically inject the exact patterns you're looking for and verify detection rates.
+
+What's the primary goal — validating detection algorithms, generating training data for ML, or stress-testing under different market conditions?
+
+///
+
+> Tell me what queue based simulations are.
+
+///
+
+Queue-based simulation models the limit order book as a collection of queues at each price level, where orders arrive, sit, get filled, or get cancelled.
+
+The basic idea: at any moment, there's a queue of resting limit orders at each price tick. The bid side has buyers waiting, the offer side has sellers waiting. You simulate the dynamics by modeling four types of events at each level:
+
+**Arrivals** — new limit orders joining the back of the queue at that price. Typically modeled as a Poisson process with some rate λ that may depend on distance from midprice, recent volatility, or other factors.
+
+**Cancellations** — orders leaving the queue before being filled. Usually modeled as proportional to queue depth (more orders means more cancellations) or with a per-order exponential lifetime.
+
+**Market orders** — aggressive orders that consume liquidity from the opposite side, eating through the front of the queue. These deplete the best bid or offer.
+
+**Fills** — when a market order matches against resting orders, the queue shrinks from the front (price-time priority).
+
+The simplest version is the Cont-Stoikov-Talreja model, which treats each price level independently with Poisson arrivals and cancellations. More sophisticated versions add dependencies between levels — when the best bid gets depleted, what happens to orders at the next level down?
+
+For your purposes, this framework lets you directly simulate the thing you're trying to detect. If you want to model "unusual hold on bid and offer," you can explicitly generate scenarios where the queue at the inside market sustains itself despite aggressive flow hitting it — then verify your detection logic fires. You control exactly when and how the pattern appears, making it straightforward to measure detection accuracy and false positive rates.
+
+///
+
+> Seems that it could be difficult to model episodes with such a low level approach. Tell me about agent based simulations.
+
+///
+
+You're right — queue-based models give you microstructure fidelity but make it awkward to produce coherent higher-level episodes like accumulation phases or momentum ignition. The causality flows the wrong way.
+
+Agent-based simulations flip this. You define actors with goals and strategies, and the order flow emerges as a byproduct of their decisions. This naturally produces episodes because agents operate on different timescales and have state that persists across many orders.
+
+The typical cast of characters:
+
+**Market makers** post bids and offers to capture spread, manage inventory risk, and adjust quotes based on position and recent flow. They create the baseline liquidity and tend to mean-revert prices.
+
+**Informed traders** have a view on value (either from a signal or a target price they're working toward). They accumulate or distribute over time, trying to minimize market impact. Their activity creates the directional episodes you care about — they might patiently bid, absorb selling, and hold the level.
+
+**Noise/liquidity traders** generate random flow, creating cover for informed activity and adding realistic variance. They might represent index rebalancers, retail, or hedging flows.
+
+**Momentum traders** detect trends and pile in, creating the acceleration and overshoot phases.
+
+The episode structure emerges from agent interactions. An informed buyer starts accumulating. Market makers notice the flow imbalance and widen or fade. Momentum traders detect the trend and join. Eventually the informed trader finishes or the price overshoots value, and the episode ends.
+
+For your "unusual hold" pattern, you'd model it as an informed agent with a large position to work who's willing to absorb selling at a particular level. The hold behavior emerges from their strategy rather than being hardcoded into arrival rates.
+
+The calibration challenge is real — you need agent parameters that produce realistic volume profiles, spread behavior, and price dynamics. But you can fit these to your historical data, then generate unlimited synthetic episodes with known ground truth about who was doing what and why.
+
+///
+
+> That sounds interesting. Tell me more about it. Are there any learning resources on such an approach?
+
+///
+
+There's a reasonable body of work on this, though it's scattered across academic finance, complexity science, and more recently ML/RL communities.
+
+**Foundational work**
+
+The Santa Fe Artificial Stock Market from the early 1990s is the canonical starting point. Brian Arthur, John Holland, and others built a model where agents used classifier systems to evolve trading rules. The key finding was that realistic market dynamics (volatility clustering, fat tails) emerged from agent interactions without being explicitly programmed. The original papers are readable and give good intuition for why this approach works.
+
+Farmer and Foley's "The economy needs agent-based modelling" (Nature, 2009) is a good conceptual overview of why agent-based approaches complement traditional equilibrium models.
+
+**Practical implementations**
+
+Blake LeBaron at Brandeis has a body of work on computational finance with agent-based models — his papers walk through calibration and validation approaches.
+
+The book "Handbook of Computational Economics, Volume 2: Agent-Based Computational Economics" (Tesfatsion & Judd, eds.) is comprehensive but dense. Selected chapters are useful as reference.
+
+More accessible is "An Introduction to Agent-Based Modeling" by Wilensky and Rand — not finance-specific but covers the methodology well.
+
+**Recent ML-oriented work**
+
+There's growing interest in using RL agents in market simulations. ABIDES (Agent-Based Interactive Discrete Event Simulation) from JPMorgan's AI research group is open source and designed for realistic market simulation. It includes configurable agents and an exchange matching engine. This might be worth exploring since it's actively maintained and has documentation.
+
+Should I search for more recent papers or implementations that might be relevant to your specific use case?
+
+///
+
+> Yes.
+
+///
+
+Here's what I found:
+
+## Best Resources for Agent-Based Market Simulation
+
+### Ready-to-Use Frameworks
+
+**ABIDES** (JPMorgan) is a general purpose multi-agent discrete event simulator where agents communicate through a messaging system with latency models. It has three components: ABIDES-Core for general simulation, ABIDES-Markets for financial markets with an exchange mimicking NASDAQ and stylized trading agents, and ABIDES-Gym which wraps the simulator into an OpenAI Gym environment for reinforcement learning.
+
+The repo includes pre-configured market simulations like RMSC03 (1 Exchange, 1 POV Market Maker, 100 Value Agents, 25 Momentum Agents, 5000 Noise Agents) and RMSC04 with similar components.
+
+GitHub: https://github.com/jpmorganchase/abides-jpmc-public
+
+There's also a Julia wrapper called AbidesMarkets.jl if you want to stay closer to functional programming territory, though it calls out to Python via PyCall.
+
+### Academic Papers Worth Reading
+
+**"Multi-Agent Reinforcement Learning in a Realistic Limit Order Book Market Simulation"** (Karpe et al., 2020) — they configure a multi-agent historical order book simulation environment for execution tasks built on ABIDES, formulate optimal execution as an RL problem, and train agents using Double Deep Q-Learning.
+
+**"Neural Stochastic Agent-Based Limit Order Book Simulation"** (Shi & Cartlidge, 2024) — proposes a hybrid neural stochastic agent-based model that represents aggregated market behavior with a neural stochastic background trader pre-trained on historical LOB data, learns order attribute distributions through a diffusion model, and embeds this in a multi-agent platform to interact with strategic agents. This might be interesting for your approach since it bridges the data-driven and agent-based worlds.
+
+**"Agent-Based Simulation of a Financial Market with Large Language Models"** (2025) — introduces FCLAgent where buy/sell decisions are made by LLMs based on individual situations, while order price and volume follow standard rule-based methods. The simulations show these agents reproduce path-dependent patterns that conventional agents fail to capture. Novel but probably overkill for your needs.
+
+### Books and Courses
+
+**"Foundations of Reinforcement Learning with Applications in Finance"** from Stanford (Ashwin Rao) has a chapter covering Order Book basics, how trade orders are submitted and executed, Price Impact, and framing Optimal Execution and Market-Making as MDPs. Available free as PDF: https://stanford.edu/~ashlearn/RLForFinanceBook/
+
+### For Your Specific Use Case
+
+Given you want to model episodes like accumulation or "unusual hold" patterns, ABIDES is probably the most practical starting point. You could define a custom informed agent with your accumulation logic and see how the emergent order flow looks against your detection system. The configured background agents provide realistic noise and market maker behavior without you having to calibrate everything from scratch.
+
+Want me to dig into any of these in more detail?
+
+///
+
+Anyway, as a consequence of this, I am reading the book: https://web.stanford.edu/~ashlearn/RLForFinanceBook/book.pdf
+
+> You will need to allocate 100-200 hours of effort to learn this material (assuming you have no prior background in these topics).
+
+Wish I got the DataBento sub instead the Massive one.
+
+I am going to cancel the subscription on Jan 2nd if I am still learning stuff by then.

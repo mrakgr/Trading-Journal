@@ -26089,3 +26089,7 @@ Thomas and me are influencing each other, and for once I should let myself be in
 4:20pm. > By the end of this chapter, you would have developed significant expertise in pricing and hedging complex derivatives, a skill that is in high demand in the finance industry.
 
 Really? I don't understand why though. Black Scholles has existed for decades. Anybody can just plug it into Excel.
+
+> In this chapter, you will be first introduced to the mechanics of trade order placements (market orders and limit orders), and then introduced to a very important real-world problem—how to submit a large-sized market order by splitting the shares to be transacted and timing the splits optimally in order to overcome “price impact” and gain maximum proceeds. 
+
+Large intraday trends are caused by large players executing their orders over time, so this is of great interest to me.

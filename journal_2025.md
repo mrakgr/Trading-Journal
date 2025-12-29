@@ -26077,3 +26077,11 @@ Anyway, as a consequence of this, I am reading the book: https://web.stanford.ed
 Wish I got the DataBento sub instead the Massive one.
 
 I am going to cancel the subscription on Jan 2nd if I am still learning stuff by then.
+
+4:15pm. Let me resume. Done with breakfast, exercises and chores. It really takes a chunk out of my time.
+
+I've been strongly considering making a pivot to market making in the short term. I could do spread farming on Polymarket and other markets which aren't dominated by institutions. This would be until I can get all the order flow simulations online and train a longer term system. In the meantime I could get paid to learn, and this book will tell me how to market make optimally.
+
+I have a lot to gain from the book, and if I can make 10k+ per year from market making that would make it worth the effort. Jeffrey Neuman made his first million from doing that, so maybe I should take a hint.
+
+Thomas and me are influencing each other, and for once I should let myself be influenced.

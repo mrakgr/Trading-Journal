@@ -26215,3 +26215,7 @@ Agh, I can't focus too much on this. It's not too interesting. I already have th
 10:50am. Uagh, I was in bed for so long, but I am so tired today. Let me go get breakfast.
 
 Honestly, it's fine if I cannot focus. I'll dedicate myself to the book for as long as it takes.
+
+12:20pm. ![](images/image-1948.png)
+
+It's a real slog for me to go through this now. I have trouble believing that I will win. I have trouble believing that it's possible for me to win. I lack faith. But that is how it always was for me.

@@ -26186,3 +26186,7 @@ I love the anons who keep making these every year.
 9:30am. Ah whatever. Whether it's poker or trading, I'd win it regardless. All I have to do is keep the pace. That is all I have to not mess up. So let me pick up the book again.
 
 Time to do it.
+
+9:35am. ![](images/image-1945.png)
+
+Honestly, the refresher on Python classes is welcome. I never knew how abstract base classes worked up to now.

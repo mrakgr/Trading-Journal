@@ -26200,3 +26200,5 @@ As for the AI bros, I just want them to give me the algorithms and then to fuck 
 And nobody can keep losing all the time.
 
 10:20am. Sigh, I just can't get a good night of sleep. The book will be slow going.
+
+I'll aim to finish it within a week. It doesn't matter how long this system takes. An year should be enough for me to become a profitable trader either way.

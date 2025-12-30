@@ -26202,3 +26202,8 @@ And nobody can keep losing all the time.
 10:20am. Sigh, I just can't get a good night of sleep. The book will be slow going.
 
 I'll aim to finish it within a week. It doesn't matter how long this system takes. An year should be enough for me to become a profitable trader either way.
+
+![](images/image-1946.png)
+> Anyone else old enough to remember when whitepapers were summaries and discussions of scientifically proven technologies rather than marketing documents for scammers
+
+Crypto companies love doing these papers.

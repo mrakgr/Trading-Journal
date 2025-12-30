@@ -26160,3 +26160,26 @@ Worth syncing with your friend to see what he's learned about the API and any go
 
 ///
 
+12/30/2025
+
+8:30am. ![](images/image-1942.png)
+![](images/image-1943.png)
+
+My thoughts were heavy tonight. I was really tired yesterday so I went to sleep at 8pm, but it was a slog to fall asleep.
+
+Right now I am feeling very stressed.
+
+I need to work on my trading. That is the only way to go. I'm in a precarious position, standing still in the open like this. Holy crap, I'll never forgive those assholes at Tao Ceti for what they've done. It started off so promising, but then I got rug pulled and got tied up in one useless project after another. I really wanted to stay there a lot longer.
+
+With the exception of Crystal, my impression of everyone there is firmly negative now. I guess the start of it when Dennis dragged out my contract negotiation was a sign of things to come. Even in the contract, I knew the non-disparagment clause was a red flag. It's just that the founders betting their company on Bitcoin went well beyond my expectations how incompetent somebody could be. They lacked basic survival instincts as bussinessmen. It's really a good thing the BTC dumped. Those people absolutely don't deserve to win.
+
+And me...
+
+I am in a weak position again. Briefly, for the first few months at Tao Ceti I was in a strong one, but now it's weak again.
+
+To make it strong, I either need the poker bot or the trading bots. I must complete those projects. The 100k that I have now will vanish if I just sit on my ass and do nothing.
+
+8:45am. ![](images/image-1944.png)
+
+I love the anons who keep making these every year.
+

@@ -26211,3 +26211,7 @@ Crypto companies love doing these papers.
 10:40am. ![](images/image-1947.png)
 
 Agh, I can't focus too much on this. It's not too interesting. I already have the functional programming skills to tackle this complexity, though the way they're taking advantage of Python iterators is novel to me.
+
+10:50am. Uagh, I was in bed for so long, but I am so tired today. Let me go get breakfast.
+
+Honestly, it's fine if I cannot focus. I'll dedicate myself to the book for as long as it takes.

@@ -26321,3 +26321,181 @@ It keeps saying 'One bad market move can wipe out a week's worth of gains.' as i
 12:50pm. Nevermind, I'll read the book and focus on order flow trading. I want the 1:5 risk to reward setups with 60-70% chance of winning, not this shit. Some of the traders in SMB capital had streaks of 500 profitable trading days. That is what I want. Low risk, high return.
 
 I need to focus on getting everything that I can from this book first though.
+
+1:45pm. Yeah, I don't like market making. I want to cut my losses quickly and let my profits run instead of doing it the other way around. I'll focus on the main plan, but I need to understand the system in the book first.
+
+> I am not sure, one bad trade wiping out a week's worth of gains isn't what I'd prefer. I'd rather look for low risk, high reward setups. If market making has blow-up risk I'd rather not do it. Let me put the question of how much one could make from market making another way. How could a market making strategy even be realistically backtested? Given certain model assumptions it should be possible to simulate what the EV of each trade is. How are pro market makers doing it?
+
+///
+
+You're asking the right question. The "one bad trade wipes out a week" problem is exactly why naive backtesting of market making is misleading — you can't just replay historical prices and pretend your orders would have been filled at those levels.
+
+The core problem is that market making P&L depends on *who* you trade against, and that's not in the historical data. If you backtest by assuming your resting orders get filled whenever price touches your level, you're ignoring adverse selection entirely. In reality, you get filled precisely when it's bad for you — when someone informed is pushing through your quote.
+
+**How serious market makers approach this:**
+
+The honest answer is that most don't backtest in the traditional sense. They simulate. The standard approach involves building a model of order flow that includes:
+
+1. **Arrival rates** — how often do market orders arrive at each price level?
+2. **Fill probability given queue position** — if you're 10th in queue at the bid, what's the probability you get filled before the bid moves?
+3. **Toxicity classification** — what fraction of the flow that hits your quotes is informed vs noise?
+
+You then run Monte Carlo simulations under these assumptions to get distributions of outcomes, not point estimates. The Avellaneda-Stoikov framework and its extensions formalize this — they model the probability of getting filled as a function of how far your quote is from mid, then solve for optimal quote placement given inventory risk.
+
+**The adversarial selection problem:**
+
+The key insight is that your fill rate and your P&L per fill are negatively correlated. Tight quotes get filled more often but against worse flow. Wide quotes rarely fill but when they do, it's usually noise traders making mistakes. Pro market makers model this tradeoff explicitly.
+
+Some firms estimate "toxicity" of flow by looking at how price moves after a trade. If price consistently moves against you after getting filled, you're being adversely selected. They then adjust quotes or pull liquidity when toxicity signals spike — which is essentially what you proposed with the order flow detection layer.
+
+**What this means practically:**
+
+You can't know your true edge without either running live with real money or building a fairly sophisticated simulation that models queue dynamics and adverse selection. The simple "I would have captured the spread" backtest is worthless and will dramatically overstate returns.
+
+For Polymarket specifically, the data to build such a simulation might be available — they have a public order book and trade feed. You could potentially estimate fill probabilities and toxicity from historical data, then simulate your strategy against that model.
+
+Want me to look into what data Polymarket exposes via their API that could support this kind of analysis?
+
+///
+
+3:15pm. Let me resume. Just forget about trading for 2 weeks. Forget market making, trying to make that work is super stressing me out. Rather focus on one setup - the unusual hold and master that.
+
+Let me just read this book normally and I'll see where it leads me. Just imagine I have the next year free to do whatever I want. I should focus on learning as much about finance as I can.
+
+3:55pm. > Tell me about the Poisson probability distribution.
+
+///
+
+The Poisson distribution models the number of events occurring in a fixed interval (of time, space, etc.) when events happen independently at a constant average rate. It's parameterized by λ (lambda), which represents both the mean and variance.
+
+The probability mass function is:
+
+$$P(X = k) = \frac{\lambda^k e^{-\lambda}}{k!}$$
+
+where k is the number of events (0, 1, 2, ...).
+
+**Key properties:**
+- Mean = λ
+- Variance = λ (this equality is a distinctive feature)
+- As λ increases, the distribution becomes more symmetric and approaches a normal distribution
+
+**Classic applications:**
+- Customer arrivals at a service point
+- Radioactive decay events
+- Server requests per second
+- Defects per unit in manufacturing
+
+**Relevant to your work:** In market microstructure, Poisson processes are commonly used to model order arrivals. The assumption of independent arrivals at a constant rate is obviously a simplification—real order flow exhibits clustering, time-of-day effects, and autocorrelation—but it provides a tractable baseline for queue models. Many market-making models (like the Avellaneda-Stoikov framework) start with Poisson arrival assumptions for both market orders and limit order cancellations, then layer in more realistic dynamics.
+
+The gap between Poisson assumptions and actual clustered order flow is actually something you could exploit in your detection system—deviations from expected Poisson behavior (unusually regular spacing, sudden rate changes) can signal algorithmic activity or held orders.
+
+///
+
+> Interesting. I've been sampling from the log normal distribution and discretizing it using stochastic rounding, but it sounds like I could be using the Poisson distribution instead. How could one sample from that distribution?
+
+///
+
+Yes, Poisson would be more principled if you're modeling discrete counts like order arrivals or queue sizes—it directly gives you non-negative integers with the right statistical properties.
+
+**Simple approach: Inverse transform via the Knuth algorithm**
+
+For small to moderate λ (say, λ < 30), this works well:
+
+```
+L ← exp(-λ)
+k ← 0
+p ← 1
+
+while p > L:
+    k ← k + 1
+    u ← random()  // uniform on (0,1)
+    p ← p × u
+
+return k - 1
+```
+
+This exploits the fact that inter-arrival times in a Poisson process are exponentially distributed. You're essentially simulating arrivals until you exceed the interval.
+
+**For larger λ**
+
+The Knuth method becomes slow (expected iterations = λ). Alternatives:
+
+1. **Normal approximation with rounding**: For λ > 30, sample from N(λ, λ) and round to nearest non-negative integer. Fast but approximate.
+
+2. **Transformation rejection methods**: Algorithms like PTRD (Poisson Transform Rejection with Decomposition) are used in production libraries—more complex but O(1).
+
+**In F#**, you could use Math.NET Numerics which has `Poisson.Sample(lambda)` built in, or roll your own Knuth for transparency:
+
+```fsharp
+let samplePoisson (rng: Random) (lambda: float) =
+    let L = exp(-lambda)
+    let rec loop k p =
+        if p <= L then k - 1
+        else loop (k + 1) (p * rng.NextDouble())
+    loop 0 1.0
+```
+
+What λ range are you typically working with in your simulations?
+
+///
+
+***
+
+> The gap between Poisson assumptions and actual clustered order flow is actually something you could exploit in your detection system—deviations from expected Poisson behavior (unusually regular spacing, sudden rate changes) can signal algorithmic activity or held orders.
+
+How could I detect those deviations?
+
+***
+
+///
+
+Good question. A few approaches, ranging from simple to more sophisticated:
+
+**1. Dispersion test (variance-to-mean ratio)**
+
+For a Poisson process, variance equals mean. The dispersion index I = variance/mean should be ≈ 1. Significantly greater than 1 indicates clustering (overdispersion), less than 1 indicates unusual regularity (underdispersion).
+
+You can compute this over rolling windows of order counts. A chi-squared test formalizes this:
+
+$$\chi^2 = \frac{(n-1) \cdot s^2}{\bar{x}}$$
+
+with n-1 degrees of freedom, where s² is sample variance and x̄ is sample mean.
+
+**2. Inter-arrival time analysis**
+
+Under Poisson, inter-arrival times follow an exponential distribution. You can test this directly:
+
+- **Coefficient of variation**: For exponential data, CV (std dev / mean) should equal 1. Lower CV suggests more regular spacing (algorithmic); higher suggests clustering.
+
+- **Kolmogorov-Smirnov test**: Compare empirical inter-arrival distribution against exponential with rate estimated from your data.
+
+- **Serial correlation**: Exponential inter-arrivals should be independent. Autocorrelation in the inter-arrival sequence suggests structure—perhaps an algorithm pacing orders or a trader working a large position.
+
+**3. Change-point detection for rate shifts**
+
+Sudden λ changes can signal the start/end of held order activity. CUSUM (cumulative sum) is simple and effective:
+
+```fsharp
+// Track cumulative deviation from expected rate
+let cusum baselineRate arrivals =
+    arrivals
+    |> Array.scan (fun acc count -> 
+        acc + (float count - baselineRate)) 0.0
+```
+
+When CUSUM drifts significantly from zero, you've detected a regime change. You'd set thresholds empirically or use formal change-point methods like PELT.
+
+**4. Burstiness metrics**
+
+The "burstiness" parameter B = (σ - μ)/(σ + μ) ranges from -1 (perfectly regular) through 0 (Poisson) to +1 (maximally clustered). Quick to compute, intuitive to interpret.
+
+**Practical considerations for your system:**
+
+- You'll want to condition on market state—a Poisson rate that's constant across the day is unrealistic. Consider modeling λ as time-varying (perhaps tied to spread, volatility, or time since open) and testing deviations from *that* baseline.
+
+- The signal you're looking for (held bids, absorption) might manifest differently: held orders could show as *sustained* elevated arrival rates on one side without the corresponding price move, while absorption might show as rate spikes coinciding with price stability at a level.
+
+What granularity are you working at—are you counting orders per second, per 100ms?
+
+///
+

@@ -26190,3 +26190,11 @@ Time to do it.
 9:35am. ![](images/image-1945.png)
 
 Honestly, the refresher on Python classes is welcome. I never knew how abstract base classes worked up to now.
+
+10:15am. I will show them that I can do this. In a month I will have the market making system off the ground and making money. While they are stuck failing their own projects and scamming investors out of their money, I will have created the base for my future success.
+
+The world doesn't care about me, but since it so indifferent it won't care if I give it a slight jolt will it?
+
+As for the AI bros, I just want them to give me the algorithms and then to fuck off. Nobody can keep winning all the time.
+
+And nobody can keep losing all the time.

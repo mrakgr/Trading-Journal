@@ -26198,3 +26198,5 @@ The world doesn't care about me, but since it so indifferent it won't care if I 
 As for the AI bros, I just want them to give me the algorithms and then to fuck off. Nobody can keep winning all the time.
 
 And nobody can keep losing all the time.
+
+10:20am. Sigh, I just can't get a good night of sleep. The book will be slow going.

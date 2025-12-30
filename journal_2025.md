@@ -26522,3 +26522,7 @@ These music videos are much better than they should be given their AI generated 
 6:10pm. ![](images/image-1951.png)
 
 Let me stop here on page 153. Every few dozen minutes I get distracted and start reading HN it feels. I'll finish this book before long. It's a bit dry and formal in an attempt to be thorough. I don't need all that fluff. I want to get to the meat of it.
+
+7:15pm. https://youtu.be/_9V_Hbe-N1A
+A neuroscientist on what the AI field is getting wrong – Adam Marblestone
+

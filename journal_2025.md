@@ -26535,3 +26535,5 @@ I might want to try the PC port of Bloodborne.
 Got the Deus Ex and Wrath Of The Righteous bundles for 26 euros. I am also strongly tempted to get Stellar Blade, Darkest Dungeon and Slay The Spire.
 
 Ah, I love having money.
+
+Getting the Tao Ceti job was nothing short of a miracle for me. Thomas was pretty lucky as well, I am glad my advice helped him. He said to me that he made a decision to go into order flow trading as well. I am really happy about that. If we both pursue the same style our odds of success will be better for both.

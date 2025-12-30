@@ -26542,4 +26542,9 @@ Getting the Tao Ceti job was nothing short of a miracle for me. Thomas was prett
 
 ![](images/image-1954.png)
 
-Do I get Stellar Blade or not? Agh, I have the money and I want to dress up Even so why not.
+Do I get Stellar Blade or not? Agh, I have the money and I want to dress up Eve so why not.
+
+11:40pm. ![](images/image-1955.png)
+
+Got'em. I have plans to pick up DS2 and Monster Hunter World, but they're both hard games so I don't feel like straining myself right now.
+

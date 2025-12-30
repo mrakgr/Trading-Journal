@@ -26499,3 +26499,6 @@ What granularity are you working at—are you counting orders per second, per 10
 
 ///
 
+3:50pm. ![](images/image-1950.png)
+
+I am going to have to revisit this later. I am just skimming it now. I know that inventory management in a store is directly related to market making, but I don't want to commit myself until I see how they will use these concepts to tackle the actual markets. I'll only try out market making if the models they propose are actually attractive enough and make sense to me. If it's some bullshit that gets killed on vol bursts I'll stay clear of it.

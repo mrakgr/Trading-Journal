@@ -26219,3 +26219,105 @@ Honestly, it's fine if I cannot focus. I'll dedicate myself to the book for as l
 12:20pm. ![](images/image-1948.png)
 
 It's a real slog for me to go through this now. I have trouble believing that I will win. I have trouble believing that it's possible for me to win. I lack faith. But that is how it always was for me.
+
+12:35pm. ![](images/image-1949.png)
+
+Ah damn it. I can't follow this at all, due to the boredom.
+
+I am going to start skimming the book, and once I hit the more relevant parts, maybe it will reignite my motivation. To be honest, I'd rather just take a nap now.
+
+Maybe I should just do that. Do the chores and exercises and hit the sack for a while?
+
+It'd be better to do that than to force myself to work.
+
+> For motivation, just how much could I expect to make per day on Polymarket doing market making? How consistent would it be?
+
+///
+
+Honest answer: I don't know, and anyone claiming specific numbers is probably selling something.
+
+What I can reason through:
+
+**The math in theory:**
+
+If you're capturing, say, 2-4% spread on a contract and turning over your capital a few times per day, the gross returns look attractive. On $10k deployed, even 0.5% daily is $50/day or ~$18k/year. That's the optimistic napkin math that gets people excited.
+
+**The reality checks:**
+
+Spread capture assumes you get filled on both sides roughly equally. In practice, you get adversely selected — filled more often when you're wrong. Your effective spread after adverse selection is much tighter than the quoted spread.
+
+Inventory risk on binary contracts is brutal. If you're long a contract at 0.60 and it resolves to 0, you lose everything on that position. One bad event can wipe out weeks of spread capture.
+
+Volume on Polymarket is concentrated in a few hot markets. The liquid markets have tighter competition; the illiquid ones have spread but you can't deploy meaningful size.
+
+**What's realistic:**
+
+For a solo operator with $10-50k, making a few hundred dollars a week consistently would be a solid outcome. Some weeks you'll make more, some weeks an event goes against your inventory and you give it back. The variance will be high, especially early on.
+
+The people posting wins on Twitter aren't posting their drawdowns. Survivorship bias is strong.
+
+**Better question to ask:**
+
+Instead of expected daily profit, think about what you'd learn and what options it opens. Even if you break even for six months, you'd have live trading experience, real intuition about flow, and infrastructure you can redeploy elsewhere. That's valuable regardless.
+
+Your friend looking into the API — has he found anything about fee structure or typical volumes on mid-tier markets?
+
+///
+
+Why does it keep pestering me about the API or the fee structure?
+
+Egh, 6 months of breaking even? I'd be better off just getting a job in that case.
+
+High variance? That doesn't sound good.
+
+> Research the fee structure or typical volumes on mid-tier markets.
+
+///
+
+Here's what I found:
+
+## Fee Structure
+
+The good news is that Polymarket does not charge any type of fee. There are no fees to deposit or withdraw USDC, and there are no fees to trade shares in any market. This is for the global (non-US) platform.
+
+For the upcoming US platform, taker fees are 1 basis point (0.01%) on the total contract premium, with a minimum fee of $0.0001 per trade. Essentially negligible for market making.
+
+## Volume Context
+
+January 2024 monthly volume was $50M. By November 2024 it surged to $1.9B per month driven by the US election. October 2025 hit an all-time high of $4.1B monthly. But volume is extremely event-dependent — January 2025 volumes represent just 14% of November's peak, raising questions about sustainable engagement between major political cycles.
+
+## Real Market Making Experience
+
+This is the gold: one market maker started with $10,000 in capital and was earning about $200 per day. As he scaled up and refined the system, he reached $700-800 daily at peak. His approach: finding markets with low volatility but high rewards, using a bot that analyzes historical price movements across different time frames.
+
+However, reality check: after the 2024 election, Polymarket's total liquidity rewards decreased significantly, making the strategy less profitable.
+
+## The Liquidity Rewards Program
+
+Polymarket pays you daily based on how much your orders add to the market. The closer your orders are to the market's average price, the more you earn. The reward amount depends on how helpful your orders are in terms of size and pricing compared to others.
+
+The rewards formula favors placing orders on both sides of a market rather than just one side — you get nearly 3x the rewards.
+
+## Competition Level
+
+When this trader was active, there were maybe one or two other bots providing liquidity across most markets. The space is incredibly underdeveloped compared to traditional crypto markets. In DeFi, you have sophisticated market makers with millions in capital. On Polymarket, it's mostly individual traders clicking buttons.
+
+Another perspective: "currently, competition in token trading is definitely fierce, leading to a focus on hardware. But the market competition on Polymarket is not very intense. So the current competition is still concentrated on strategy rather than speed."
+
+## Realistic Expectations
+
+The strategy requires at least $10,000 or more in funds for arbitrage gains to be meaningful. If the market suddenly makes a large move in one direction, your buy order may get filled only to plummet immediately, leaving you stuck at a very unfavorable price. One bad market move can wipe out a week's worth of gains.
+
+There's also an open-source bot you could study: poly-maker on GitHub automates providing liquidity by maintaining orders on both sides of the book with configurable parameters.
+
+## Bottom Line
+
+The opportunity looks real but timing-dependent. Peak earnings came during high-activity periods with generous liquidity rewards. The hybrid approach you mentioned — market making as base with order flow detection as risk filter — seems even more sensible now. You'd capture the mechanical spread + rewards income while having an edge on when to pull quotes before getting run over.
+
+///
+
+It keeps saying 'One bad market move can wipe out a week's worth of gains.' as if to demotivate me.
+
+12:50pm. Nevermind, I'll read the book and focus on order flow trading. I want the 1:5 risk to reward setups with 60-70% chance of winning, not this shit. Some of the traders in SMB capital had streaks of 500 profitable trading days. That is what I want. Low risk, high return.
+
+I need to focus on getting everything that I can from this book first though.

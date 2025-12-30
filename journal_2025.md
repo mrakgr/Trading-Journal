@@ -26513,3 +26513,8 @@ Lol. I really picked a bad year to get fired. But actually no, this was a great 
 I just need to not run out of money by then. Which shouldn't be hard given how large my stash is.
 
 I'll be able to get a job again in 2028 - 2029 if by then I haven't succeeded at either trading or poker botting. Or the venture with Thomas doesn't gain traction.
+
+4:50pm. https://youtu.be/SsRvw15_FV0
+Epic Metal Instrumentals Power for Motivation🔥No.073
+
+These music videos are much better than they should be given their AI generated nature. The guy is churning them out 1 per day.

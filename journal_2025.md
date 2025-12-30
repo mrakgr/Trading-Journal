@@ -26207,3 +26207,7 @@ I'll aim to finish it within a week. It doesn't matter how long this system take
 > Anyone else old enough to remember when whitepapers were summaries and discussions of scientifically proven technologies rather than marketing documents for scammers
 
 Crypto companies love doing these papers.
+
+10:40am. ![](images/image-1947.png)
+
+Agh, I can't focus too much on this. It's not too interesting. I already have the functional programming skills to tackle this complexity, though the way they're taking advantage of Python iterators is novel to me.

@@ -26502,3 +26502,14 @@ What granularity are you working at—are you counting orders per second, per 10
 3:50pm. ![](images/image-1950.png)
 
 I am going to have to revisit this later. I am just skimming it now. I know that inventory management in a store is directly related to market making, but I don't want to commit myself until I see how they will use these concepts to tackle the actual markets. I'll only try out market making if the models they propose are actually attractive enough and make sense to me. If it's some bullshit that gets killed on vol bursts I'll stay clear of it.
+
+4:05pm. https://youtu.be/rCEf7p3FRTM?t=37
+THE WORST YEAR IN PROGRAMMING HISTORY
+
+> I have a running hypothesis that it's generally easier for an university grad to buy an .ai domain and raise VC money than it is to get an entry level job.
+
+Lol. I really picked a bad year to get fired. But actually no, this was a great year to get fired if you want a break. In a few years there will be a flushout of wannabe programmers and I'll have a proper job market then.
+
+I just need to not run out of money by then. Which shouldn't be hard given how large my stash is.
+
+I'll be able to get a job again in 2028 - 2029 if by then I haven't succeeded at either trading or poker botting. Or the venture with Thomas doesn't gain traction.

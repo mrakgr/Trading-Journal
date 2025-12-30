@@ -26537,3 +26537,9 @@ Got the Deus Ex and Wrath Of The Righteous bundles for 26 euros. I am also stron
 Ah, I love having money.
 
 Getting the Tao Ceti job was nothing short of a miracle for me. Thomas was pretty lucky as well, I am glad my advice helped him. He said to me that he made a decision to go into order flow trading as well. I am really happy about that. If we both pursue the same style our odds of success will be better for both.
+
+11:25am. Agh, I kind of want to play Wrath Of The Righteous.
+
+![](images/image-1954.png)
+
+Do I get Stellar Blade or not? Agh, I have the money and I want to dress up Even so why not.

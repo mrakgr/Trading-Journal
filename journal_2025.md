@@ -26526,3 +26526,12 @@ Let me stop here on page 153. Every few dozen minutes I get distracted and start
 7:15pm. https://youtu.be/_9V_Hbe-N1A
 A neuroscientist on what the AI field is getting wrong – Adam Marblestone
 
+8:55pm. ![](images/image-1952.png)
+
+I might want to try the PC port of Bloodborne.
+
+10:40pm. ![](images/image-1953.png)
+
+Got the Deus Ex and Wrath Of The Righteous bundles for 26 euros. I am also strongly tempted to get Stellar Blade, Darkest Dungeon and Slay The Spire.
+
+Ah, I love having money.

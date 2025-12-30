@@ -26183,3 +26183,6 @@ To make it strong, I either need the poker bot or the trading bots. I must compl
 
 I love the anons who keep making these every year.
 
+9:30am. Ah whatever. Whether it's poker or trading, I'd win it regardless. All I have to do is keep the pace. That is all I have to not mess up. So let me pick up the book again.
+
+Time to do it.

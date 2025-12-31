@@ -26653,3 +26653,11 @@ No shit. That would actually be valuable to me.
 ![](images/image-1965.png)
 
 I'll have to check out these papers. The next section is on optimal market making.
+
+5:50pm. ![](images/image-1966.png)
+
+The math goes from very easy to very hard in a flash in this book.
+
+> Note that while the Avellaneda-Stoikov continuous-time formulation and solution is elegant and intuitive, it is far from a real-world model. 
+
+It's gibberish.

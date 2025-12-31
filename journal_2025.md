@@ -26645,3 +26645,11 @@ I really want to take a break, but this is exactly the interesting part of the b
 5:25pm. Goddamnit. I hate it how the boredom of the past two days that I've experience is now impacting me negatively now that I've come to the interesting parts.
 
 5:30pm. Let me focus on this as much as I can today and I'll go into this more in depth tomorrow.
+
+> More importantly, we’d need to write a realistic Order Book Dynamics simulator capturing all of the above real-world considerations that an RL algorithm would learn from.
+
+No shit. That would actually be valuable to me.
+
+![](images/image-1965.png)
+
+I'll have to check out these papers. The next section is on optimal market making.

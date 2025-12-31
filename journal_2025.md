@@ -26637,3 +26637,7 @@ Forget reading books. Just focus on mastering aspects of them relevant to your i
 This is a good place to slow down and focus.
 
 I honestly quite like this book. If were a beginner at RL and ML it would have been great. But right now, it seems that this is the only chapter relevant to me in the whole book.
+
+5:20pm. ![](images/image-1964.png)
+
+I really want to take a break, but this is exactly the interesting part of the book for me. I wonder what sort of assumptions they will bring into this?

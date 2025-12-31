@@ -26671,3 +26671,52 @@ Sigh, this book just wasted two days of my time.
 I guess I should've known better when it became boring.
 
 This is a good spot to stop for the day. Tomorrow I am going to backtrack into the conversations by Opus and check out some of its recommendations. Those simulators by JP Morgan sound interesting.
+
+6pm. ![](images/image-1968.png)
+
+The actual papers should be more interesting.
+
+6:05pm. It wasn't that interesting.
+
+https://github.com/jpmorganchase/abides-jpmc-public
+
+ABIDES has been archived. It seems that it's abandonware now.
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/isaf.1553
+Neural stochastic agent-based limit order book simulation with neural point process and diffusion probabilistic model
+
+> Modern financial exchanges use an electronic limit order book (LOB) to store bid and ask orders for a specific financial asset. As the most fine-grained information depicting the demand and supply of an asset, LOB data are essential in understanding market dynamics. Therefore, realistic LOB simulations offer a valuable methodology for explaining the empirical properties of markets. Mainstream simulation models include agent-based models (ABMs) and stochastic models (SMs). However, ABMs tend not to be grounded on real historical data, whereas SMs tend not to enable dynamic agent-interaction. More recently, deep generative approaches have been successfully implemented to tackle these issues, whereas its black-box essence hampers the explainability and transparency of the system. To overcome these limitations, we propose a novel hybrid neural stochastic agent-based model (NS-ABM) for LOB simulation that incorporates a neural stochastic trader in agent-based simulation, characterised by (1) representing the aggregation of market events' logic by a neural stochastic background trader that is pre-trained on historical LOB data through a neural point process model; (2) learning the complex distribution for order-related attributes conditioned on various market indicators through a non-parametric diffusion probabilistic model; and (3) embedding the background trader in a multi-agent simulation platform to enable interaction with other strategic trading agents. We instantiate this hybrid NS-ABM model using the ABIDES platform. We first run the background trader in isolation and show that the simulated LOB can recreate a comprehensive list of stylised facts that demonstrate realistic market behaviour. We then introduce a population of ‘trend’ and ‘value’ trading agents, which interact with the background trader. We show that the stylised facts remain and we demonstrate order flow impact and financial herding behaviours that are in accordance with empirical observations of real markets.
+
+6:15pm. 
+
+> Two mainstream models for LOB simulation and synthetic data generation are agent-based models (ABMs) and stochastic models (SMs).
+
+This is a really relevant paper for me. I guess my idea was to create a stochastic model.
+
+> ABMs construct an interactive trading environment containing heterogeneous agents with behavioural logic that is human-defined. While defined agents are often modelled as simplifications of real-world actors such as market makers, momentum traders and liquidity providers, the objectivity of ABMs can be doubted as one cannot guarantee that the simulation will behave in the same manner as the real world (Gould et al., 2013). On the other hand, SMs learn stochastic properties directly from historical data and so are objectively grounded in reality. Prior studies have shown that market characteristics, such as price and volume distributions and the arrival of market events, can be captured using SMs, and this learnt knowledge can be used to generate realistic synthetic data.
+
+Nice.
+
+> However, SMs have the limitation of not being interactive. Therefore, although SMs can generate endless amounts of synthetic data, the problems associated with back-testing on real data remain.
+
+Regardless, it seems reading academic papers will be a more worthwhile investment than reading price charts.
+
+6:15pm. Maybe I made a mistake focusing on poker from the start. Given how much impact ML can have on trading, I might have had a better time not giving up on my true interest.
+
+Poker was never meaningful to me as a game to be mastered. At best it was a side quest I could make some extra money on, while my true goal is pursuing the Singularity. But trading is different.
+
+I am willing to do trading purely for the sake of money. I am willing to treat it as a job.
+
+6:20pm. Let me start wrapping up for the day here...
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/isaf.1553
+Neural stochastic agent-based limit order book simulation with neural point process and diffusion probabilistic model
+
+https://www.researchgate.net/publication/396499583_Agent-Based_Simulation_of_a_Financial_Market_with_Large_Language_Models
+Agent-Based Simulation of a Financial Market with Large Language Models
+
+I started my journey in ML by reading academic ML papers, and maybe I'll be getting back to that.
+
+I already know I could make some money by using a ORB system on stocks in play. And I could quantify trend days. That is something.
+
+Before I commit to that I need to see how far I can go with ABMs and SMs, that is, how far I can go with more advanced methods and order flow patterns. The deeper I dig, the sharper my edge will be.

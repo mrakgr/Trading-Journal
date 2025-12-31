@@ -26589,3 +26589,9 @@ Doesn't mean you don't have to, it just depends on what you're looking for. If y
 12:05pm. ![](images/image-1956.png)
 
 Let me start. I don't want to bother reading all this since I am already familiar with the algos.
+
+12:40pm. ![](images/image-1957.png)
+
+Yeah, the book is tiresome to read if you know this stuff.
+
+Hopefully it will start to get fun once we get to actual trading parts.

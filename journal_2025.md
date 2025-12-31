@@ -26641,3 +26641,7 @@ I honestly quite like this book. If were a beginner at RL and ML it would have b
 5:20pm. ![](images/image-1964.png)
 
 I really want to take a break, but this is exactly the interesting part of the book for me. I wonder what sort of assumptions they will bring into this?
+
+5:25pm. Goddamnit. I hate it how the boredom of the past two days that I've experience is now impacting me negatively now that I've come to the interesting parts.
+
+5:30pm. Let me focus on this as much as I can today and I'll go into this more in depth tomorrow.

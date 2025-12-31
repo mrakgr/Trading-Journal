@@ -26661,3 +26661,13 @@ The math goes from very easy to very hard in a flash in this book.
 > Note that while the Avellaneda-Stoikov continuous-time formulation and solution is elegant and intuitive, it is far from a real-world model. 
 
 It's gibberish.
+
+5:55pm. ![](images/image-1967.png)
+
+At least this section has some references I could look into.
+
+Sigh, this book just wasted two days of my time.
+
+I guess I should've known better when it became boring.
+
+This is a good spot to stop for the day. Tomorrow I am going to backtrack into the conversations by Opus and check out some of its recommendations. Those simulators by JP Morgan sound interesting.

@@ -26611,3 +26611,12 @@ This sounds promising.
 Yeah, I think I'll be able to get into this. I don't need any more knowledge in RL, but I do need more finance knowledge.
 
 The problem with the book is that so far, it didn't really describe how crappy RL is in practice.
+
+4:20pm. ![](images/image-1960.png)
+
+I am falling asleep again. Let me skim this. I want to get to the trading systems. This book is just wasting my time with this trash.
+
+![](images/image-1961.png)
+
+I've skipped to this.
+

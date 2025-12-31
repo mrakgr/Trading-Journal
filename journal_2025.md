@@ -26603,3 +26603,11 @@ Oh yeah, we're finally getting here. I've just cancelled my Massive sub. I'll ha
 > This chapter marks the beginning of Module II, where we cover a set of financial applications that can be solved with Dynamic Programming or Reinforcement Learning Algorithms. 
 
 This sounds promising.
+
+3:50pm. Breakfast, chores and exercises are done. Let me see if I can focus on the book.
+
+4pm. ![](images/image-1959.png)
+
+Yeah, I think I'll be able to get into this. I don't need any more knowledge in RL, but I do need more finance knowledge.
+
+The problem with the book is that so far, it didn't really describe how crappy RL is in practice.

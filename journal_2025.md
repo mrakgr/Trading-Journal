@@ -26546,5 +26546,46 @@ Do I get Stellar Blade or not? Agh, I have the money and I want to dress up Eve 
 
 11:40pm. ![](images/image-1955.png)
 
-Got'em. I have plans to pick up DS2 and Monster Hunter World, but they're both hard games so I don't feel like straining myself right now.
+Got'em. I have plans to resume DS2 and Monster Hunter World, but they're both hard games so I don't feel like straining myself right now.
 
+12/32/2025
+
+11:20am. https://www.reddit.com/r/algotrading/comments/1px7qda/breaking_into_quant_later_on/
+
+///
+
+The easiest path is to run a solo shop if you want to be building the algos and have large upside.
+
+Traditional entry level quant research roles will always prioritize recent grads with the right accolades from target schools so breaking in from SWE / Data Science is like a 0.00001% probability move.
+
+As a SWE, you can break into a firm as a data engineer and for most firms in NYC your total comp 1st year will be between $320k and $400k however DE roles at firms have higher than average turn over rate, not the best work life balance, there's generally no path to move laterally from a DE to a quant researcher, and your "customers" aren't just the quants but also the PMs and PMs can be rather harsh on their DEs.
+
+So, what does the Solo shop path look like?
+
+You do all the infra work and the quant research, the deployment, the reliability engineering, etc.
+
+Your upside isn't capped and you can trade strategies that most funds / firms won't touch. For example, most hedgefunds that trade futures want to trade 50+ minis on the lower end. People who run a solo shop can trade 2 minis and are subject to less slippage, don't have to use ladders for entry / exit, etc.
+
+So you build an algo, deploy it, make money okay cool. What if you want to leverage this to get into a firm? Well the answer is you can, but firms will want to see good sharpe ratios, low drawdown, and position sizes / returns that resemble what you would be doing for them. Basically, to be "good enough" to work for them you'd probably be making over $400k / year on your own at which point the benefit of working for a firm is basically mute.
+
+Working for them means golden handcuffs, restrictions, not beong able to deploy personal strats on the side, capped upside, politics when it comes to annual bonuses, etc.
+
+Bonuses aren't purely performance based, usually a PM get's a pile of cash and they get to decide how to distribute that money amongst their team. So if you have a bad year you might get some extra in your bonus to help with that (if they like you or you are well tenured) and if you have a really good year they will underpay you to pay other people more. Again it's simply trade offs.
+
+Basically what you're looking if you go the solo route is you will achieve a level of income and freedom that can't be matched by a fund / firm. Sure you might be making $500k and maybe you can make $1.4M at a firm but working at a firm also means those 10 to 20 hour work weeks you have will convert to 60 hour work weeks + commute + politices + more or less being subject to golden handcuffs.
+
+So it depends what you care about, for me personally I would much rather work 10 to 20 hour weeks making $400k than work 60 hour weeks with a commute and politics. To each their own right?
+
+How did I come to know this? I was interviewing with several firms in NYC / Miami and this is the insight / knowledge I took away from that process and it's ultimately why I decided to not pursue employment at a firm.
+
+Doesn't mean you don't have to, it just depends on what you're looking for. If you want the culture and prestiege then sure it might be your thing but I was personally more interested in general freedom and I realized that the freedom in that route doesn't come until you retire or are let go with a non-compete assuming you were saving your bonuses.
+
+///
+
+11:35am. Lol, just as I bought those games, a new season of Limbus is out. Ah whatever, I guess I have a lot of fun waiting for me.
+
+12pm. Instead of looking at what I am losing, I need to look at what I am gaining. Let's do everything step by step.
+
+12:05pm. ![](images/image-1956.png)
+
+Let me start. I don't want to bother reading all this since I am already familiar with the algos.

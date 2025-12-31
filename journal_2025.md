@@ -26620,3 +26620,14 @@ I am falling asleep again. Let me skim this. I want to get to the trading system
 
 I've skipped to this.
 
+4:45pm. This book is so boring I've started reading Reddit on the side.
+
+Focus me, focus.
+
+4:50pm. ![](images/image-1962.png)
+
+The options pricing chapter was too involved. The math is very deep and I'd need to code it up myself in order to understand it.
+
+Nevermidn it for now. Let me read the order book trading algo chapter. That is what I should focus on.
+
+Forget reading books. Just focus on mastering aspects of them relevant to your interest.

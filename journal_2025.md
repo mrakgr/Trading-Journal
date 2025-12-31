@@ -26595,3 +26595,11 @@ Let me start. I don't want to bother reading all this since I am already familia
 Yeah, the book is tiresome to read if you know this stuff.
 
 Hopefully it will start to get fun once we get to actual trading parts.
+
+2:20pm. ![](images/image-1958.png)
+
+Oh yeah, we're finally getting here. I've just cancelled my Massive sub. I'll have all the features until Jan 3rd.
+
+> This chapter marks the beginning of Module II, where we cover a set of financial applications that can be solved with Dynamic Programming or Reinforcement Learning Algorithms. 
+
+This sounds promising.

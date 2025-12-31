@@ -26631,3 +26631,9 @@ The options pricing chapter was too involved. The math is very deep and I'd need
 Nevermidn it for now. Let me read the order book trading algo chapter. That is what I should focus on.
 
 Forget reading books. Just focus on mastering aspects of them relevant to your interest.
+
+5:10pm. ![](images/image-1963.png)
+
+This is a good place to slow down and focus.
+
+I honestly quite like this book. If were a beginner at RL and ML it would have been great. But right now, it seems that this is the only chapter relevant to me in the whole book.

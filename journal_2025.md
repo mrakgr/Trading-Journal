@@ -26784,3 +26784,6 @@ Oh interesting. I had no idea about these stylized facts.
 12:40pm. ![](images/image-1972.png)
 
 Let me take a break here.
+
+1:30pm. > It should be noticed that the default ABIDES setting was already the result of time-consuming calibrations carried out by experts, yet it still fails to replicate some of the real market dynamics.
+

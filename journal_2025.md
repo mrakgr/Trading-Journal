@@ -26824,3 +26824,16 @@ It should be possible to combine my episode based approach with agent based mode
 Right now, I feel that my position is extremly weak. I absolutely have no stomach for any complicated strategies I don't understand. I have 0 desire to gamble. 1:5 risk to reward trades with 60-70% of winning is what I want.
 
 If the market is only going to give me marginal edges, I'll put my money in bonds, and move on to something else.
+
+4:10pm. Lunch time.
+
+4:30pm. Let me resume.
+
+Yeah, as an intermediate goal, setting up an agent based simulation and beating it personally should be a goal.
+
+Let me read the paper for 30m and then I will stop for the day.
+
+I just cannot seem to sleep properly. My morning are always early tense affairs, and it's hard to fall asleep.
+
+5pm. ![](images/image-1973.png)
+Table 1: Contrast between standard economic abstractions and more realistic ones 

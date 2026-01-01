@@ -26837,3 +26837,7 @@ I just cannot seem to sleep properly. My morning are always early tense affairs,
 
 5pm. ![](images/image-1973.png)
 Table 1: Contrast between standard economic abstractions and more realistic ones 
+
+5:05pm. ![](images/image-1974.png)
+
+I don't know if this time around I will be successful, but at least now I know. I know how I would have approached the problem if I had my current skills back then. It might end up not being enough, but now I can go beyond what my old self could even imagine.

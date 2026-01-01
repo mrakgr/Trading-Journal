@@ -26720,3 +26720,59 @@ I started my journey in ML by reading academic ML papers, and maybe I'll be gett
 I already know I could make some money by using a ORB system on stocks in play. And I could quantify trend days. That is something.
 
 Before I commit to that I need to see how far I can go with ABMs and SMs, that is, how far I can go with more advanced methods and order flow patterns. The deeper I dig, the sharper my edge will be.
+
+1/1/2026
+
+9:50am. https://www.reddit.com/r/algotrading/comments/1pzwy6d/best_l1_datafeed_for_equities_that_has_trade_side/
+
+///
+
+I am looking for an L1 datafeed that has exchange supplied trade side/aggressor. Databento standard works for $199 a month (what I'm using now), but the ADV volume is too low (only 7-8%) of the market and their next level up needs a yearly plan commitment.
+
+Are there other L1 data feeds (maybe Nasdaq Basic?) out there that have exchange supplied trade aggressor and don't require a yearly commitment?
+
+///
+
+This is of interest to me.
+
+///
+
+We tried.
+
+Exchange-supplied trade aggressor is only on prop feeds, which have a byzantine chain of licensing restrictions that prevent them from getting much cheaper.
+
+Nasdaq Basic (NLS Plus) doesn't include trade side. We tried to offer Nasdaq TotalView as a usage-based feed without a yearly commitment, but we found people balked at paying Nasdaq the $1,500+/month license fees even if they were only paying us a few dollars per month. This left us operating at a loss from the overhead of license setup and compliance reports.
+
+Your next cheapest bet is to find a vendor that will supply a prop feed under a controlled feed, display license like Bloomberg SAPI. This was the subject of serious litigation in 2018 - but some retail vendors are unfazed or unaware, and are in the regulatory carry trade of reporting their uncontrolled API feeds as controlled display feeds. We're however too large (we've passed 3~4 routine exchange audits this year alone) to take on such a risk.
+
+///
+
+Exchanges are so shitty.
+
+I took the chance to pose a question whether DataBento really offers the aggressor side in historical data.
+
+10:55am. Congratulated Thomas the new year, and updated him on my work.
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/isaf.1553
+Neural stochastic agent-based limit order book simulation with neural point process and diffusion probabilistic model
+
+https://www.researchgate.net/publication/396499583_Agent-Based_Simulation_of_a_Financial_Market_with_Large_Language_Models
+Agent-Based Simulation of a Financial Market with Large Language Models
+
+Time to read these two.
+
+Agent-Based Modeling in Economics and Finance: Past, Present, and Future
+https://ora.ox.ac.uk/objects/uuid:8af3b96e-a088-4e29-ba1e-0760222277b7/files/s6969z182c
+
+Found this.
+
+12:15pm. ![](images/image-1969.png)
+
+This is a very complicated paper, and the method in it is overkill for my needs. I think I'll just go with my own stochastic model idea. But I'll want to familiarize myself with ABM.
+
+https://news.ycombinator.com/item?id=46406570#46452162
+Reminiscences of a Stock Operator (1923) (gutenberg.org)
+
+![](images/image-1970.png)
+
+RIP Jesse Livermore.

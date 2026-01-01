@@ -26776,3 +26776,11 @@ Reminiscences of a Stock Operator (1923) (gutenberg.org)
 ![](images/image-1970.png)
 
 RIP Jesse Livermore.
+
+12:35pm. ![](images/image-1971.png)
+
+Oh interesting. I had no idea about these stylized facts.
+
+12:40pm. ![](images/image-1972.png)
+
+Let me take a break here.

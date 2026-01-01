@@ -26796,3 +26796,9 @@ Let me take a break here.
 > In terms of LOB volatility (iii), we see that increasing the number of MM agents causes increasing volatility, whereas the opposite effect occurs for other agent types.
 
 Wait, I thought MM stood for maket maker, but it seems they mean momentum traders.
+
+> Four types of agents are considered: MM, MR, ZI and HBL. 
+
+> Trend agents assume that a trend in price will persist or reverse in the near future, and they are called momentum (MM) agents and mean reversion (MR) agents, respectively.
+
+I guess MM stands for MoMo. If they told me that market makers are the most profitable I'd have believed them, but I guess not.

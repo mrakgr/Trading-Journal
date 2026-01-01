@@ -26841,3 +26841,5 @@ Table 1: Contrast between standard economic abstractions and more realistic ones
 5:05pm. ![](images/image-1974.png)
 
 I don't know if this time around I will be successful, but at least now I know. I know how I would have approached the problem if I had my current skills back then. It might end up not being enough, but now I can go beyond what my old self could even imagine.
+
+5:10pm. Today I am a programmer, and back then I was not.

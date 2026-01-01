@@ -26787,3 +26787,12 @@ Let me take a break here.
 
 1:30pm. > It should be noticed that the default ABIDES setting was already the result of time-consuming calibrations carried out by experts, yet it still fails to replicate some of the real market dynamics.
 
+> Studies that investigated the profitability of several technical trading strategies also revealed that by increasing the frequency of the data that the strategy is based on, the profitability of the trading strategy can be improved (Schulmeister, 2009).
+
+> Also, as more agents adopt a particular trend strategy, such as momentum trading, there is a greater influence on the market price in a favourable (i.e., predictable) direction. Among all agents, MM achieves the highest profits. This profit is mainly derived from the capital gains in stock positions after causing an extreme one-direction price movement, as MM agents rarely neutralise a position after momentum ignition.
+
+1:40pm. This paper is filled with insight even though I am not interested in the particular model of it just yet.
+
+> In terms of LOB volatility (iii), we see that increasing the number of MM agents causes increasing volatility, whereas the opposite effect occurs for other agent types.
+
+Wait, I thought MM stood for maket maker, but it seems they mean momentum traders.

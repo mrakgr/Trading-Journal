@@ -27103,3 +27103,64 @@ At least the finance parts are interesting.
 3:15pm. ![](images/image-1981.png)
 
 Oh really? I had no idea.
+
+> What do you think about the Continuous Thought Machine? Would it be worth trying out over transformers for stock trading?
+
+///
+
+The Continuous Thought Machine (CTM) is a fascinating recent architecture from Sakana AI that I find genuinely intriguing. Let me share my thoughts on it and its potential for your trading system.
+
+**What makes CTM interesting**
+
+CTM introduces temporal processing into neural networks in a way that feels more biologically plausible. Rather than the feedforward pass of transformers, it uses a recurrent architecture with neural synchronization—neurons that "fire together" to represent learned concepts. The key innovations are:
+
+- Internal "thinking time" that can vary based on problem difficulty
+- Neuron-level temporal dynamics with synchronization patterns
+- Attention over its own history, allowing it to revisit and refine representations
+
+The results on maze-solving and visual reasoning are genuinely impressive, and it shows emergent behaviors like being able to "draw" what it's attending to.
+
+**For order flow / trading signals specifically**
+
+Here's my honest assessment:
+
+The architecture *conceptually* aligns well with what you're trying to detect. Market microstructure patterns like unusual hold on bid/offer or absorption are inherently temporal phenomena where the *rhythm* and *persistence* of activity matters, not just the static snapshot. CTM's variable thinking time could theoretically let it "dwell" on ambiguous situations.
+
+However, I'd be cautious for a few reasons:
+
+1. **Maturity**: It's brand new research code. You'd be debugging architecture issues alongside your actual trading problem.
+
+2. **Data efficiency**: Transformers have benefited from years of optimization for training stability, and you're already dealing with the challenge of generating labeled training data through your agent-based simulation approach.
+
+3. **Interpretability tradeoff**: While CTM's synchronization patterns are fascinating, it's unclear if they'd give you *actionable* interpretability for trading decisions compared to simpler attention visualizations.
+
+4. **Your actual bottleneck**: From what you've been working on, the harder problem seems to be getting good ground-truth labels and handling the noise in Polygon data, not model expressiveness.
+
+**My suggestion**
+
+I'd start with something proven like a small transformer or even Tiny Time Mixer for your initial experiments, get the full pipeline working end-to-end with your synthetic data generation, then treat CTM as an interesting future experiment once you've validated the basic approach works. The risk of yak-shaving on a novel architecture when you're still iterating on the data pipeline seems high.
+
+That said, if you're drawn to it intellectually and want to experiment—it's a genuinely novel idea and playing with it could spark insights about how to represent temporal market dynamics. Just maybe not as your first production model.
+
+What's your current thinking on the training data side? Have you made progress on the agent-based simulation for generating labeled examples?
+
+///
+
+![](images/image-1982.png)
+![](images/image-1983.png)
+
+This was interesting.
+
+3:55pm. Let me skip the rest, I had enough.
+
+Let me take a break here. I'll look into ABIDES and stochastic modeling after that.
+
+4:30pm. Let me resume. Time to start ramping it up.
+
+Let me look at ABIDES.
+
+I've had an idea for how I want to simulate the market. In 10ms increments. I could generate the trades stochastically within that timespan. I just can't see a good way to do it trade to trade.
+
+https://github.com/jpmorganchase/abides-jpmc-public
+
+Let me start here.

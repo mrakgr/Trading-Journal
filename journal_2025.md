@@ -27177,3 +27177,9 @@ Hmmmm...
 4:50pm. ![](images/image-1985.png)
 
 Yeah, I want a time based sim. I wasn't ready for it before.
+
+Ok, nevermind ABIDES. I don't want to bother with this. Rather, I want to go with my original idea, but I'll refine so that individual trades are generated. And I'll run a stack of abstract machines in 10 milisecond increments to deal with all the episode transitions.
+
+5:15pm. ![](images/image-1986.png)
+
+Yeah it makes sense that info being costly would make a market inefficient. Cost doesn't have to be money. It can be time and effort as well. Getting good info is hard.

@@ -27099,3 +27099,7 @@ Actually this is more interesting than I thought it would be.
 ![](images/image-1980.png)
 
 At least the finance parts are interesting.
+
+3:15pm. ![](images/image-1981.png)
+
+Oh really? I had no idea.

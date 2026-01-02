@@ -27173,3 +27173,7 @@ Let me start with the paper.
 ![](images/image-1984.png)
 
 Hmmmm...
+
+4:50pm. ![](images/image-1985.png)
+
+Yeah, I want a time based sim. I wasn't ready for it before.

@@ -27187,3 +27187,30 @@ Yeah it makes sense that info being costly would make a market inefficient. Cost
 5:20pm. ![](images/image-1987.png)
 
 Reminds me of the financial games that current AI companies are playing.
+
+5:45pm. https://www.wolframcloud.com/obj/online-courses/introduction-to-stochastic-processes/a-random-walk-process.html
+
+Done with lunch.
+
+https://oxford-man.ox.ac.uk/wp-content/uploads/2020/05/Algorithmic-Trading-Stochastic-Control-and-Mutually-Exciting-Processes.pdf
+https://www.columbia.edu/~ww2040/orderbook.pdf
+
+Let me save these here for tomorrow.
+
+5:45pm. I should think of what I am doing here as art.
+
+I don't have a full time job anymore, it's been 4 months already, wow how time flies, so I shouldn't pretend that I am getting paid by the letter.
+
+I am going to apply my arts to the market. That is how this is going to go.
+
+I don't want to make it in poker. If I were the Lord Of Nightmares, I would be simulating universes and making games. In other words, I would be doing art.
+
+It's is just that this be the case now.
+
+I am just going back to 2022 when I was learning art. Blender, Houdini, various 3d programs.
+
+I should treat trading like that. That is how it is going to be until I either make it in trading or the next job rolls along.
+
+Let me close here and I'll play Stellar Blade and Limbus Company. Time to have fun. Tomorrow maybe I'll get up earlier and deal with this material.
+
+The reason why I've been getting up late thus far is because of inner struggle, but as I resolve various issues, I should become more motivated.

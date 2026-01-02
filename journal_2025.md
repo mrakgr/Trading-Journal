@@ -27075,3 +27075,13 @@ The same goes for the stock market. Programming a whole market simulation might 
 The fake might be better than the real. If the NNs really want the real to perform well, I should look into ways of grounding them using style transfer and other artistic techniques.
 
 Ok, that having said, let me go through the various papers and their references.
+
+12:30pm. Damn, I didn't even start and it's 12:30. Let me go have breakfast.
+
+Yeah, without a doubt, I should train a diffusion model on real data and then do style transfer on the synthetic data to make it more realistic. I don't have to get buried in agent sims.
+
+But I do have to go just a step further than I anticipate. Or maybe even two becuase the original way that I imagine subdividing the episodes makes no sense. I'll have to stack the abstract machines instead and simulate them step by step.
+
+I am going to look into ABIDES either way. I want to see how it deals with the time factor.
+
+Maybe I could have an event queue. Like the low level machine could queue sampling an action in 10ms, but higher level machines could schedule their own re-evals more granulary.

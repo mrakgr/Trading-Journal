@@ -27041,3 +27041,37 @@ How detailed is the data you have — full order book or just trades and quotes?
 ///
 
 Enough of this, I'll continue it tomorrow. I guess I better roll up my sleeves and get cracking.
+
+1/2/2025
+
+11:40am. I am up, I am still thinking about it. I had my original idea of using episodic plays, but now ABIDES is presenting agent based modeling to me, which is a much more bottom up approach.
+
+True, it is possible to control the agents, but also, what occurs to me is that it will be hard to calculate the exact EV of the episode regardless.
+
+Last night I've gone to bed late, but unlike in the past, I've actually slept well and this morning wasn't a tense affair to me.
+
+I am starting to understand what I want to do.
+
+Art.
+
+What my idea was is to sketch out the various episodes and subepisodes and generate the data.
+
+I want my agents to learn from art.
+
+I want them to understand what a human is from what is essentially an anime drawing of it.
+
+I want to draw the market movements and then derive the optimal strategy based on that.
+
+I could draw a picture of Frieren.
+
+But imagine if I had to program Frieren from the bottom-up, how she thinks, how she acts, how she feels. It's be quite hard wouldn't it?
+
+If I wanted to make her realistic, it might be a better choice to do style transfer that exert myself to do it.
+
+Programming a whole anime girl from the bottom up might be hard.
+
+The same goes for the stock market. Programming a whole market simulation might be hard.
+
+The fake might be better than the real. If the NNs really want the real to perform well, I should look into ways of grounding them using style transfer and other artistic techniques.
+
+Ok, that having said, let me go through the various papers and their references.

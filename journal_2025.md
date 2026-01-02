@@ -27085,3 +27085,17 @@ But I do have to go just a step further than I anticipate. Or maybe even two bec
 I am going to look into ABIDES either way. I want to see how it deals with the time factor.
 
 Maybe I could have an event queue. Like the low level machine could queue sampling an action in 10ms, but higher level machines could schedule their own re-evals more granulary.
+
+3pm. ![](images/image-1976.png)
+
+This paper is a snoozefest. I guess I better skim it.
+
+3:05pm. ![](images/image-1977.png)
+![](images/image-1978.png)
+![](images/image-1979.png)
+
+Actually this is more interesting than I thought it would be.
+
+![](images/image-1980.png)
+
+At least the finance parts are interesting.

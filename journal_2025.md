@@ -27183,3 +27183,7 @@ Ok, nevermind ABIDES. I don't want to bother with this. Rather, I want to go wit
 5:15pm. ![](images/image-1986.png)
 
 Yeah it makes sense that info being costly would make a market inefficient. Cost doesn't have to be money. It can be time and effort as well. Getting good info is hard.
+
+5:20pm. ![](images/image-1987.png)
+
+Reminds me of the financial games that current AI companies are playing.

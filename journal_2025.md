@@ -27164,3 +27164,12 @@ I've had an idea for how I want to simulate the market. In 10ms increments. I co
 https://github.com/jpmorganchase/abides-jpmc-public
 
 Let me start here.
+
+https://arxiv.org/abs/1904.12066
+ABIDES: Towards High-Fidelity Market Simulation for AI Research
+
+Let me start with the paper.
+
+![](images/image-1984.png)
+
+Hmmmm...

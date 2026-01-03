@@ -27256,3 +27256,7 @@ Yeah, those 2 large block trades in LW influenced a lot of activity.
 ![](images/image-1991.png)
 
 Goddamit, I don't understand differential equations at all.
+
+2:05pm. ![](images/image-1992.png)
+
+This paper is impenetrable to me.

@@ -27244,3 +27244,7 @@ The next on my list are these two papers.
 I am really considering simulating the order book instead of generating random trades. Maybe playing around with that wouldn't be bad to start things off?
 
 Let me have breakfast here.
+
+1:45pm. ![](images/image-1989.png)
+
+I had no idea that in the past it wasn't possible to use limit orders.

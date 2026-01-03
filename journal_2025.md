@@ -27042,7 +27042,7 @@ How detailed is the data you have — full order book or just trades and quotes?
 
 Enough of this, I'll continue it tomorrow. I guess I better roll up my sleeves and get cracking.
 
-1/2/2025
+1/2/2026
 
 11:40am. I am up, I am still thinking about it. I had my original idea of using episodic plays, but now ABIDES is presenting agent based modeling to me, which is a much more bottom up approach.
 
@@ -27214,3 +27214,7 @@ I should treat trading like that. That is how it is going to be until I either m
 Let me close here and I'll play Stellar Blade and Limbus Company. Time to have fun. Tomorrow maybe I'll get up earlier and deal with this material.
 
 The reason why I've been getting up late thus far is because of inner struggle, but as I resolve various issues, I should become more motivated.
+
+1/3/2026
+
+11am. Let me start. Let's go through that course and the papers. I'll skip the usual chilling manga and novels have never been more boring to me. I guess FuckNovelpia is dead for good this time. Too bad I didn't backup the Onahole novel and the Defeat Addiction novel, but it's not like I am interested in reading them. I've been really into them for a while and then it got boring. I hope it comes back at some point though.

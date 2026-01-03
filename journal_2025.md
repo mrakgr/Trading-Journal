@@ -27218,3 +27218,13 @@ The reason why I've been getting up late thus far is because of inner struggle, 
 1/3/2026
 
 11am. Let me start. Let's go through that course and the papers. I'll skip the usual chilling manga and novels have never been more boring to me. I guess FuckNovelpia is dead for good this time. Too bad I didn't backup the Onahole novel and the Defeat Addiction novel, but it's not like I am interested in reading them. I've been really into them for a while and then it got boring. I hope it comes back at some point though.
+
+12:05pm. Yeah, I think that the overarching great lesson of the 2015 - 2025 period for me will be that if you really want to suffer, try pursuing AGI for real. Or try applying RL more broadly on massive state spaces and real world problems.
+
+On the other hand, where AI really shines is in artistic pursuits. Images, audio and text. Places where imprecision can be tolerated.
+
+It's a pity that artists are rebeling against it because AI is a godsend to them.
+
+It's I myself who got fucked seriously pursuing RL. If I wanted to do art, I'd be in heaven right now.
+
+So what I should do is pursue trading in an artistic fashion. Sketch out the distribution and trade accordingly to it.

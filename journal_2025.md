@@ -27260,3 +27260,15 @@ Goddamit, I don't understand differential equations at all.
 2:05pm. ![](images/image-1992.png)
 
 This paper is impenetrable to me.
+
+2:15pm. It's heavily mathematical, so it's of no use to me.
+
+What about the order book simulation paper?
+
+![](images/image-1993.png)
+
+No, it's specifically not a simulation paper. But will try to approxmate it analytically.
+
+2:25pm. ![](images/image-1994.png)
+
+The math is super heavy with infinities going in every direction. I am not going to be able to use this to simulate the order book.

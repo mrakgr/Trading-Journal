@@ -27228,3 +27228,19 @@ It's a pity that artists are rebeling against it because AI is a godsend to them
 It's I myself who got fucked seriously pursuing RL. If I wanted to do art, I'd be in heaven right now.
 
 So what I should do is pursue trading in an artistic fashion. Sketch out the distribution and trade accordingly to it.
+
+12:30pm. ![](images/image-1988.png)
+> Why do we care about stationarity? The answer to that becomes much clearer when we discuss strategies as statistical arbitrage which rely on stationarity as central to the whole process of arbitraging the prices of one asset versus another.
+
+I had no idea that stat arb relies on stationarity. I mean why would it? Stocks aren't stationary.
+
+12:40pm. This course is a snoozefest. I'll skip the last few vids. But I did learn just a bit.
+
+https://oxford-man.ox.ac.uk/wp-content/uploads/2020/05/Algorithmic-Trading-Stochastic-Control-and-Mutually-Exciting-Processes.pdf
+https://www.columbia.edu/~ww2040/orderbook.pdf
+
+The next on my list are these two papers.
+
+I am really considering simulating the order book instead of generating random trades. Maybe playing around with that wouldn't be bad to start things off?
+
+Let me have breakfast here.

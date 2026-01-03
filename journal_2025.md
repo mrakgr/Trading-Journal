@@ -27248,3 +27248,11 @@ Let me have breakfast here.
 1:45pm. ![](images/image-1989.png)
 
 I had no idea that in the past it wasn't possible to use limit orders.
+
+2pm. ![](images/image-1990.png)
+
+Yeah, those 2 large block trades in LW influenced a lot of activity.
+
+![](images/image-1991.png)
+
+Goddamit, I don't understand differential equations at all.

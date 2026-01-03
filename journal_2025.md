@@ -27274,3 +27274,7 @@ No, it's specifically not a simulation paper. But will try to approxmate it anal
 The math is super heavy with infinities going in every direction. I am not going to be able to use this to simulate the order book.
 
 Let me read the paper and then I will so more research on this topic.
+
+2:30pm. ![](images/image-1995.png)
+
+Yeah, good luck using this shit for anything.

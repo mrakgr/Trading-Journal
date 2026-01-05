@@ -27278,3 +27278,10 @@ Let me read the paper and then I will so more research on this topic.
 2:30pm. ![](images/image-1995.png)
 
 Yeah, good luck using this shit for anything.
+
+1/5/2025
+
+10:25am. https://youtu.be/rCwTQ9bqKOM
+The TRILLION Dollar AI Debt Bubble Is Bursting
+
+He says it's not a stock bubble, but a debt bubble.

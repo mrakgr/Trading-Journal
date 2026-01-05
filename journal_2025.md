@@ -27285,3 +27285,10 @@ Yeah, good luck using this shit for anything.
 The TRILLION Dollar AI Debt Bubble Is Bursting
 
 He says it's not a stock bubble, but a debt bubble.
+
+1:50pm. https://youtu.be/xBM307YwVRw
+I can't believe he was right.
+
+![](images/image-1996.png)
+
+Yeah, Claude Opus got me too.

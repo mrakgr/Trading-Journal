@@ -27296,3 +27296,77 @@ Yeah, Claude Opus got me too.
 1/6/2025
 
 11:45am. I am going to take a break today. I need to think really carefully whether I want to drop Polymarket. I already decided that I would do it yesterday, but I need to justify my decision properly.
+
+11:50am. https://youtu.be/sgcTCboy2GA?t=1438
+Why America Thinks It Can’t Lose Wars - Prof. Jiang Xueqin
+
+> Your first thing you're gonna do is fire everyone.
+
+Oh lol.
+
+https://youtu.be/sgcTCboy2GA?t=1465
+> I'm going to invest in Bitcoin!
+
+Loooolll.
+
+https://youtu.be/sgcTCboy2GA?t=1539
+> What is the point of having an empire if you can't blow things up for no reason?
+
+Lololol.
+
+12:35pm. 
+
+Let me justify my decision properly about why I'd be best off avoiding Polymarket.
+
+///
+
+I am done doing some basic order book modeling, and now have a tough choice whether to give Polymarket a shot or go into stocks as per plan. I am taking a day off just to think about this, and I am sharing my thoughts with you. Here is why I am going to avoid the betting markets unless I see reasons to change my position.
+
+First off, the liquidity of the market is low. I've asked Opus and it estimated roughly 50 million dollars of volume per day on Polymarket. On any given day there are more than 800 stocks making that amount of dollar volume in the US stock market. To do proper order flow trading liquidity is necessary. Low liquidity might cap my earnings at a low level, and even make it non viable.
+
+Most importantly, I have already decided that I want to use an order flow strategy to trade and will be creating models to do it. My initial theory was that the order flow patterns in equities might also occur on Polymarket, but after thinking about it more deeply, I see no reason why that should be true. After some thought, I think that betting on events is different from trading financial assets whether they be stocks or futures. The main difference is that the betting markets have a psychological fence because they are bounded from 0 to 1, and the volatility is likely to be regular in that range.
+
+In stocks you have volatility expansions and euphoric moves to either side which are really good setups, but I don’t think they will happen in Polymarket, so that particular edge disappears there. The way I am imagining it, because there is a psychological fence in the betting markets, there is unlikely to be the case that people will chase momentum like they do in stocks, or blow out when the position goes against them because they’ve misjudged the volatility and their own risk tolerance, or overleveraged themselves and are forced to close out their positions.
+
+Another issue is that betting events aren’t as hard to understand like stocks are. They have clearly stated resolution conditions. If X then Y. In stocks, it’s often the case that a stock might have no or negative earnings, but is valued at a very high price. In other words, there is uncertainty regarding how a stock should be valued to begin with, not just what its future fundamentals will be.
+
+That uncertainty might cause large traders to fight and create held level order flow patterns. In the markets opportunity comes from people fighting, but in betting events you might have informed traders only on a single side and those patterns would disappear. The fact that betting market conditions are easier to understand is a disadvantage when it comes to order flow trading in my view. If I had to do it, I’d probably want to trade event markets based on news instead.
+
+Polymarket wants to allow insider trading, but I’ve yet to adequately hear an explanation of who is going to take the other side of those trades. In the financial markets, the prices flow to where liquidity is, and there is value that is separate from the resolution condition of an event. To put it most succinctly, event markets are like options markets that don’t have an underlying asset and this kind of trading activity will have less purpose and hence less liquidity than financial markets that have a rich ecosystem of short term traders, long term traders and investors that play off each other.
+
+Here is what I think. For order flow trading of the kind that I want to do specifically, if we want to keep to crypto where the dumb money dominates, and Polymarket is in crypto, it might make more sense to trade perpetual futures instead. They have unbounded prices like stocks do and hence less of a psychological fence, massive volatility from the leveraged trading the dumb traders are doing, and are all scam assets essentially that are going to go to 0 and so make good long term short positions. Short term, it's the retail dumb money vs large insiders who are dumping their tokens on hype driven spikes, so it should be possible to detect various absorption patterns like in regular stock and futures markets. They have higher liquidity, I did a quick search for volume on Hyperliquid and Opus said approximately $8.34 billion per day.
+
+The reality is though, we don't need Polymarket or go out of our way into crypto to find fish to trade against. Even in regulated markets we could for example trade penny stocks, which like perpetual futures are all scam assets. The regular markets are so large that every day there are stocks moving 50 - 100% per day. Every day there is mass hysteria in some section of the market, and we just have to be there. They’re easy to find by looking at % gainers and abnormal relative volume.
+
+As an aside, one advantage Polymarket does have is that it is on-chain. I've asked Opus about it and it's very easy to find the historical data for it. Scams aside, one benefit of crypto is that it is essentially an alternative financial system that is transparent, so it's easy to get good data for it. It's hard to do this in stocks due to all the licensing restrictions that exchanges impose on vendors. I'd have to pay through my nose to get the L2 and L3 order book data, but I expect that getting this would be nearly free in crypto in comparison. As much as this is a positive for Polymarket, it’s also a plus for all the crypto assets, which includes perpetual futures on crypto tokens.
+
+One other issue that we need to think about is skill transferability. Events are fundamentally different assets from stocks or perpetual futures. Perpetual crypto token futures are similar to penny stocks in their behavior, so I think a system for trading stocks would transfer neatly to that market, but the same wouldn't be true for event markets. We have our long term career to think about. In terms of consistency, there are SMB Capital traders that can turn a profit every single day and have had 500 day winning streaks, so it's definitely possible to achieve that in stocks. And in terms of potential profit size on individual trades, the mainstream markets are just so much larger so they have much more potential for us to scale up our systems. Stocks will be around 100 years from now, but who knows about the betting markets.
+
+Lastly, currently the crypto markets are in a downtrend so it isn’t the best time to trade them. The dumb money is leaving it. One other issue is that crypto markets have exchange risk that regulated markets simply don’t. It’s dangerous to keep your money on those platforms long term.
+
+If we are going to go into betting markets, we should be considering perp futures instead. They have over 100 times the liquidity, most traders there are bag holders buying into scams, institutions don’t trust the exchanges and don’t want to enter those markets, and there aren’t any psychological guard rails like in the betting markets. And if we’ll be going into perp futures, we should be considering Stocks In Play instead.
+
+///
+
+4:10pm. I'll pester Thomas with this. He's on a vacation and could use some evening reading.
+
+This is how my day off went.
+
+Yeah, it makes sense. If I am going to go into Polymarket, I should be instead considering perp futures. They have 100x the liquidity, are 95% dumb money and have no psychological guard rails like betting events do.
+
+But if I am going to go into perp futures, I might as well go into stocks instead.
+
+4:15pm. This is good enough, I'll close here for the day.
+
+...
+...
+...
+...
+...
+...
+
+4:45pm. Let me do the exercises here. I already had breakfast and chores. Honestly, it doesn't feel completely right, but I should just trade what I want, which are Stocks In Play.
+
+Perp futures might be an option as they have better data availability, but even with that advantage I am not tempted to try them at the current juncture.
+
+If there was a bull market in crypto I'd change my min about them, but honestly betting markets are a nothingburger.

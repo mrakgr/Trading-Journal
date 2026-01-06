@@ -27370,3 +27370,5 @@ But if I am going to go into perp futures, I might as well go into stocks instea
 Perp futures might be an option as they have better data availability, but even with that advantage I am not tempted to try them at the current juncture.
 
 If there was a bull market in crypto I'd change my min about them, but honestly betting markets are a nothingburger.
+
+Yeah, I am going to make a determination here. I absolutely will try out crypto, perp futures specifically, the next time there is a bull market in crypto. Shit coins, exchange risk, who cares. I will do it. But now it's time for stocks. The data fees aren't a reason not to trade stocks.

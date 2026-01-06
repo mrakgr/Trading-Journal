@@ -27292,3 +27292,7 @@ I can't believe he was right.
 ![](images/image-1996.png)
 
 Yeah, Claude Opus got me too.
+
+1/6/2025
+
+11:45am. I am going to take a break today. I need to think really carefully whether I want to drop Polymarket. I already decided that I would do it yesterday, but I need to justify my decision properly.

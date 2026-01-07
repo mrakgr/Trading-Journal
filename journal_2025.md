@@ -27409,3 +27409,20 @@ While I can think, I should think. While I can work, I should work.
 
 12:40pm. Since it's late, let me have breakfast here first and then I will begin in earnest.
 
+1:40pm. https://burkeholland.github.io/posts/opus-4-5-change-everything/
+https://news.ycombinator.com/item?id=46515696#46524261
+
+Opus 4.5 is honestly fine. I haven't used any other coding agents though, so I am not sure how they were before, but it's at least better than Curtis was. I though Curtis was pretty mid in terms of raw skill, about as good as I was after 1.5 years of programming experience, but Logris was assuring me the whole time that Curtis was great, so I don't know. I don't know any other programmers, so Curtis is going to be my baseline going forward.
+
+To be fair, raw skill aside, unlike Curtis I'm at least determined to improve my skills over time. Once me and Curtis were on a call together. I can't remember what it was exactly, but I was watching his screen and one website asked him to put his professional experience and he put in 5+ which surprised me. I honestly though he was 1-2 given how low his level of programming comprehension was.
+
+He's definitely much better than me at playing the company politics. He probably knew I would be getting the boot shortly during that last month, so there might be something to the 5+ figure.
+
+1:45pm. I need to take responsiblity for it. The way I acted wasn't that much different from quiting the job myself.
+
+So I have to put in the work to justify my departure.
+
+I always go to bed so late every night, and I am tired in the morning.
+
+Maybe I should give myself some time off to properly game? The last time I took proper time off was during the new years when Logris gave me a week or two off.
+

@@ -27440,3 +27440,11 @@ Sequential Decision Analytics in Finance
 Let me watch this and then I guess I'll call it a day.
 
 Actually, since I've resumed the screencast, let me explain it for a bit.
+
+6:30pm. https://youtu.be/rZBbYHgLl74?t=743
+
+I'll watch this video later, let me pause here.
+
+6:40pm. https://x.com/TheOneLanceB/status/2003635009177919941
+
+Lance hes some good vids on his Twitter. This is one of them.

@@ -27372,3 +27372,40 @@ Perp futures might be an option as they have better data availability, but even 
 If there was a bull market in crypto I'd change my min about them, but honestly betting markets are a nothingburger.
 
 Yeah, I am going to make a determination here. I absolutely will try out crypto, perp futures specifically, the next time there is a bull market in crypto. Shit coins, exchange risk, who cares. I will do it. But now it's time for stocks. The data fees aren't a reason not to trade stocks.
+
+1/7/2025
+
+12:30pm. It's pain and suffering time.
+
+I've written and thought enough. From this point on we'll be working on generating the necessary data. Getting it to sufficient fidelity will be a long term process. The painful part that we have to go through here is to figure out the overall architecture of the nested episodic generator.
+
+I've been thinking about it for a while today. The reason I've been in bed for so long is because I've been focusing on that.
+
+...
+
+Yeah, this is it. This is the pain of creation. Reminds me of when I was working on Spiral. It's so hard to start. There are endless reasons not to do it.
+
+But I have to keep moving forward. I've learned enough to know that AI excells in artistic pursuits. It's great at art, but not so much at acting in the real world.
+
+So the approach to the markets we're taking here is the optimal approach.
+
+No, I don't want to go back to poker again. It's a waste of my time and skills. I got enough out of it.
+
+I need to imagine that I have a tiny 2k account. The question is how I should trade properly with 100 share lots.
+
+That will be my first mission. If I can build a foundation of consistency, my financial issues will simply go away.
+
+And more than that...
+
+What drove me to come this far, learn ML and create Spiral is my belief in AI.
+
+When Hopfield dictionaries failed and become another line on my long list of failures it was a blow to me.
+
+I should try to believe that changing my approach might gain me something. Perhaps, using NNs in a supervised manner was the right thing to do all along. That is certainly what the world is telling me now.
+
+I am 38.5 years old currently. I have a decent amount of time left as a human. There is no need to give up yet. It's not like I am 70 and my brain is starting to slow.
+
+While I can think, I should think. While I can work, I should work.
+
+12:40pm. Since it's late, let me have breakfast here first and then I will begin in earnest.
+

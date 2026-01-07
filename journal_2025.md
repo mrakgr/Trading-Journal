@@ -27431,3 +27431,12 @@ Maybe I should give myself some time off to properly game? The last time I took 
 3:25pm. Let us start.
 
 4:35pm. Damn, I am not sure I get the formula for the hazard rate. I'll have to do some research on that.
+
+5:35pm. I am doing some mental simulations and I think I am starting to get it.
+
+https://youtu.be/rZBbYHgLl74
+Sequential Decision Analytics in Finance
+
+Let me watch this and then I guess I'll call it a day.
+
+Actually, since I've resumed the screencast, let me explain it for a bit.

@@ -27426,3 +27426,8 @@ I always go to bed so late every night, and I am tired in the morning.
 
 Maybe I should give myself some time off to properly game? The last time I took proper time off was during the new years when Logris gave me a week or two off.
 
+2:10pm. Not today though. Let me do the chores and exercises and then I will try to break the ice a little.
+
+3:25pm. Let us start.
+
+4:35pm. Damn, I am not sure I get the formula for the hazard rate. I'll have to do some research on that.

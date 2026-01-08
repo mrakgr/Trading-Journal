@@ -27447,4 +27447,13 @@ I'll watch this video later, let me pause here.
 
 6:40pm. https://x.com/TheOneLanceB/status/2003635009177919941
 
-Lance hes some good vids on his Twitter. This is one of them.
+Lance has some good vids on his Twitter. This is one of them.
+
+1/8/2025
+
+12:40pm. Breakfast time. I went to bed late last night, but I am decently rested even though I had nightmares. I had some deep sleep regardless and that is what is important. Today it feels like I will be able to make some progress. Work hard, play hard, that is how I roll.
+
+1:10pm. https://boards.4chan.org/v/thread/730325875/how-the-fuck-did-someone-figure-out-we-could-turn
+> Still mad that "nuclear power" isn't somehow harnessing raw energy from the fission itself like some kind of battery, just making it boil water so good it makes a thing spin, utter disappointment
+
+Hmmmm...

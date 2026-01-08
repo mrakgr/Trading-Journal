@@ -27457,3 +27457,7 @@ Lance has some good vids on his Twitter. This is one of them.
 > Still mad that "nuclear power" isn't somehow harnessing raw energy from the fission itself like some kind of battery, just making it boil water so good it makes a thing spin, utter disappointment
 
 Hmmmm...
+
+![](images/image-1997.png)
+
+It's dumb, but I like this meme.

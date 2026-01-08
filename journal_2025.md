@@ -27461,3 +27461,20 @@ Hmmmm...
 ![](images/image-1997.png)
 
 It's dumb, but I like this meme.
+
+1/9/2025
+
+12:45am. https://www.reddit.com/r/algotrading/comments/1q7nq7k/anyone_else_messing_with_prediction_markets_the/
+
+Holy crap I keep doing the side quests in Stellar Blade. I need to go to sleep.
+
+Here is an interesting thread on prediction markets.
+
+> They have amazing inefficiencies, but I decided against going deeper into them because of legal risks. For example, if I would find an arbitrage between outright BTC and polymarket BTC bets (not unrealistic at all), would use it, I would run the risk that my polymarket winnings might be confiscated, that’s how unclear the legal situation is.
+
+> Listened to a podcast with Don Wilson a while back where they asked him for his thoughts on prediction markets. He basically said that it’s very easy to commit fraud and if the current administration wasn’t directly involved with these companies (Kalshi and Polymarket) then they would have been shut down by the CFTC immediately.
+
+> My take is that if you can figure out how to avoid (or identify) fraud you could have a nice edge. So it’s not really you vs the market but you vs the fraudster.
+
+> Liquidity is very low, so it is a good opportunity for retail, and not worth the time for big AUM. On the other hand, you will need to spend significant energy understanding liquidity and impact. Any back tests will be excessively optimistic if you haven't accurately modelled these.
+

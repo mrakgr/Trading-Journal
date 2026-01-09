@@ -27478,3 +27478,10 @@ Here is an interesting thread on prediction markets.
 
 > Liquidity is very low, so it is a good opportunity for retail, and not worth the time for big AUM. On the other hand, you will need to spend significant energy understanding liquidity and impact. Any back tests will be excessively optimistic if you haven't accurately modelled these.
 
+12:25pm. I've been thinking very hard how to deal with the sampling issue for the past 2 hours, so let me take a break here.
+
+https://mangadex.org/title/647c6480-a877-4899-9382-5757fcfba1d3/kanreki-hime
+
+![](images/image-1998.png)
+
+This is fucking hillarious. It's just a still frame, but I lol'd.

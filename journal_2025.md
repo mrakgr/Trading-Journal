@@ -27485,3 +27485,13 @@ https://mangadex.org/title/647c6480-a877-4899-9382-5757fcfba1d3/kanreki-hime
 ![](images/image-1998.png)
 
 This is fucking hillarious. It's just a still frame, but I lol'd.
+
+8:50pm. Which cans am I missing currently (in Stellar Blade):
+
+2,4,6,7
+8,14
+21
+23,26
+29,30,31,32
+37,38,40
+44,48

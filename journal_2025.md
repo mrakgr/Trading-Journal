@@ -27500,3 +27500,7 @@ This video about Christianity really caught my interest yesterday, and I want to
 ![](images/image-1999.png)
 
 How long was it since I studied anything religious last. The explanation for why Christianity took off compared to other religions is pretty good.
+
+11:55am. ![](images/image-2000.png)
+
+So his teachings were actually pretty elitist with then need to take on individual responsibility.

@@ -27504,3 +27504,5 @@ How long was it since I studied anything religious last. The explanation for why
 11:55am. ![](images/image-2000.png)
 
 So his teachings were actually pretty elitist with then need to take on individual responsibility.
+
+12:15pm. Ok, enough. 1h of this is enough. Let me watch the Nvidia vid for a bit and then I'll have breakfast. Today I need to focus on the MCMC scheme and the rewrite.

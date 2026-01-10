@@ -27486,12 +27486,17 @@ https://mangadex.org/title/647c6480-a877-4899-9382-5757fcfba1d3/kanreki-hime
 
 This is fucking hillarious. It's just a still frame, but I lol'd.
 
-8:50pm. Which cans am I missing currently (in Stellar Blade):
+1/10/2025
 
-2,4,6,7
-8,14
-21
-23,26
-29,30,31,32
-37,38,40
-44,48
+11:15am. I am up. I went to bed earlier than usual yesterday and I am more rested as a result even though it was like an hour only.
+
+Today it's MCMC time. That having said, I want to watch some videos first.
+
+https://youtu.be/VNrh3OiNt_U
+The Most Dangerous Person in History Who Ever Lived | Prof Jiang Xueqin
+
+This video about Christianity really caught my interest yesterday, and I want to finish it now.
+
+![](images/image-1999.png)
+
+How long was it since I studied anything religious last. The explanation for why Christianity took off compared to other religions is pretty good.

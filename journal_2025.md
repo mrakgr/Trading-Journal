@@ -27508,3 +27508,704 @@ So his teachings were actually pretty elitist with thn need to take on individua
 12:15pm. Ok, enough. 1h of this is enough. Let me watch the Nvidia vid for a bit and then I'll have breakfast. Today I need to focus on the MCMC scheme and the rewrite.
 
 2:35pm. Done with chores. I now have uninterrupted time ahead of me to work on the rewrite. Let me get to it.
+
+6:30pm. Let me back up the convo.
+
+> Tell me about MCMC.
+
+///
+
+MCMC (Markov Chain Monte Carlo) is a family of algorithms for sampling from probability distributions that are difficult or impossible to sample from directly—particularly useful when you can evaluate the density function (up to a normalizing constant) but can't compute expectations analytically.
+
+**The core idea**
+
+You construct a Markov chain whose stationary distribution is your target distribution. By running the chain long enough, samples from it approximate samples from your target. The "Monte Carlo" part refers to using these samples to estimate integrals/expectations.
+
+**Why it matters**
+
+Many problems in Bayesian inference, statistical physics, and quantitative finance involve integrals over high-dimensional spaces that are intractable analytically. MCMC lets you approximate these by averaging over samples.
+
+**Common algorithms**
+
+*Metropolis-Hastings* is the foundational algorithm. You propose a move from your current state, then accept or reject it based on a ratio of target densities. The acceptance probability is min(1, π(x')/π(x) × q(x|x')/q(x'|x)), where π is your target and q is your proposal distribution.
+
+*Gibbs sampling* is a special case where you sample each variable conditionally on the others. Works well when conditional distributions are easy to sample but the joint is hard.
+
+*Hamiltonian Monte Carlo (HMC)* uses gradient information to make proposals that explore the space more efficiently, reducing the random-walk behavior that makes vanilla Metropolis slow in high dimensions.
+
+**Practical considerations**
+
+Burn-in refers to discarding initial samples before the chain has converged. Autocorrelation between successive samples means you need more samples than if they were independent. Diagnostics like trace plots, R-hat statistics, and effective sample size help assess convergence.
+
+Given your work on order flow modeling, MCMC could be relevant if you're doing Bayesian inference on Hawkes process parameters or posterior estimation for latent market states—though for real-time applications, you'd likely use faster approximate methods or pre-compute posteriors offline.
+
+///
+
+> I need you to explain the `min(1, π(x')/π(x) × q(x|x')/q(x'|x))` better. I have an implementation of it now and it's a lot easier to understand than this. For example, right now I am generating an initial state, which are episodes of given length that sum up to 390 minutes. Then I just move one of the episodes up by x and then another down by x, which maintains the length. In other words I am moving from state x to x' on every move, and I am using the log likelihood of p(x) and p(x') to decide whether to accept the move or not. Why are there two distributions in that formula?
+
+///
+
+Ah, your implementation is using the **symmetric proposal** case, which simplifies things nicely.
+
+The two distributions in the formula serve different purposes:
+
+**π (pi)** is your target distribution—the thing you actually want to sample from. In your case, this is the distribution over episode configurations that you're trying to characterize. The log likelihood you're computing is log π(x).
+
+**q** is your proposal distribution—the mechanism you use to generate candidate moves. It answers: "given I'm at state x, what's the probability I propose moving to x'?"
+
+The ratio q(x|x')/q(x'|x) asks: "is my proposal mechanism biased in one direction?" If you're at x and propose x', but it would be much less likely to propose going back from x' to x, you need to correct for that asymmetry—otherwise your chain would drift in the biased direction rather than sampling from π.
+
+**Your case is symmetric**
+
+When you pick a random episode to increase and another to decrease by the same amount, the probability of proposing that exact move is the same as proposing its reverse. So q(x'|x) = q(x|x'), the ratio equals 1, and it drops out entirely.
+
+You're left with just min(1, π(x')/π(x)), or equivalently in log space: accept if log π(x') > log π(x), otherwise accept with probability exp(log π(x') - log π(x)).
+
+**When asymmetry matters**
+
+Imagine instead you proposed moves by picking an episode and adding a random amount drawn from a distribution that depends on the current episode length. The probability of proposing +5 minutes to a short episode might differ from proposing -5 minutes to a longer one. Then you'd need the q ratio to correct for that bias.
+
+///
+
+> Ok, I think that's an important principle, that the moves from `x` to `x'` be bijective. That having said, I for some moves like split and merges I am not sure whether they are bijections at all. Let's say I have a tuple with 2 states `t * t`. If I merge them that would create a singleton of type `t`. Would the move from `t` to `t * t` be symmetric?
+
+///
+
+This is where it gets subtle and interesting.
+
+**The short answer: no, not automatically.**
+
+Consider the dimensions involved. Going from `t * t` to `t` via merge, you're collapsing two values into one (say, by summing). But going from `t` to `t * t` via split, you need to *invent* information—how do you divide that single value into two?
+
+If you split a 60-minute block into two episodes, you need to choose *where* to split. Maybe you pick uniformly: 30/30, or 20/40, or 45/15. That's a choice with some probability distribution over it.
+
+**The asymmetry**
+
+When you merge episodes A and B into C (where C = A + B), there's exactly one way to do that merge—it's deterministic given which pair you selected.
+
+When you split C back into two episodes, there are infinitely many ways to do it (any pair summing to C). Your proposal must pick one, and the probability of picking exactly A and B out of all valid splits is typically small.
+
+So:
+- q(merge | split state) might be 1/k where k is the number of adjacent pairs you could merge
+- q(split → exactly original config | merged state) is 1/k × p(choosing that exact split point)
+
+These aren't equal, so you need the correction factor.
+
+**Making it work**
+
+You compute the full Metropolis-Hastings ratio including the q terms. For split/merge moves this is called "reversible jump MCMC" when you're also changing dimensionality, and getting the proposal ratio right is the tricky part.
+
+The practical approach: be very explicit about how you'd reverse each move, calculate the probability of proposing each direction, and include that ratio. It's tedious but necessary for correctness.
+
+///
+
+> What about appending or removing to the end of an array? If I had `t[]` as the type, then would removing a random element from the end of an array be symmetric with removing it?
+
+///
+
+You mean symmetric with *appending* it, I assume.
+
+**Think about what information you need to reverse the move.**
+
+Removing from the end: you pick the last element, delete it. The "choice" here is trivial—there's only one last element. But you need to remember *what value* you removed to reverse it.
+
+Appending to the end: you need to generate a value from somewhere. What value do you append? You have to sample it from some distribution.
+
+**The asymmetry**
+
+If your array is `[a, b, c]` and you remove `c`, reversing that means appending exactly `c`. But your append proposal probably doesn't know to pick `c` specifically—it samples from some distribution over possible values.
+
+So:
+- q(remove c | `[a, b, c]`) = 1 (deterministic, it's the last element)
+- q(append c | `[a, b]`) = p(sampling exactly c from your append distribution)
+
+These are wildly different unless your append distribution happens to always pick the right value with probability 1, which would require knowing the future.
+
+**The general principle**
+
+Moves are naturally symmetric when they involve the same "amount of randomness" in both directions. Your original swap move works because both directions require the same choices: which two episodes, what magnitude. The randomness is balanced.
+
+Dimension-changing moves break this because one direction destroys information (removing/merging) and the other creates it (appending/splitting). You have to account for the probability of recreating exactly the information that was destroyed.
+
+///
+
+> I get it. It seems it might be wisest to just state the number of episodes up front. That having said, tell me more about reversible jump MCMC.
+
+///
+
+Yes, fixing the dimension sidesteps the whole issue and keeps you in standard Metropolis-Hastings territory. Often the right call.
+
+**Reversible jump MCMC (RJMCMC)**
+
+Introduced by Peter Green in 1995, it extends Metropolis-Hastings to allow moves between parameter spaces of different dimensions. The classic application is model selection—say, deciding how many components a mixture model should have while simultaneously fitting the parameters.
+
+**The core mechanic**
+
+When you jump from a space of dimension d to dimension d', you need to balance the dimensions. If you're going to a higher-dimensional space, you generate random variables u to "pad out" the proposal. If going lower, you're discarding information.
+
+The key constraint is that the mapping must be a bijection between (x, u) and (x', u'), where u and u' are the auxiliary variables used in each direction. This ensures reversibility.
+
+**The acceptance ratio becomes**
+
+min(1, (π(x') / π(x)) × (q(reverse move) / q(forward move)) × |J|)
+
+where |J| is the Jacobian determinant of the transformation. This accounts for how the mapping stretches or compresses volume when moving between spaces.
+
+**Why it's fiddly**
+
+Getting the Jacobian right is error-prone. Designing proposals that actually mix well across dimensions is hard—if your between-model moves rarely accept, you get stuck. And debugging is painful because incorrect implementations can still run, they just sample from the wrong distribution.
+
+**Practical alternatives**
+
+Many people avoid RJMCMC by instead using a fixed upper bound on dimension with indicator variables (the "overparameterized" approach), or by running separate chains for each model size and using other methods for model comparison. Less elegant, often more robust.
+
+If you fix your episode count, you're wisely avoiding all of this.
+
+///
+
+> Yeah, I can imagine how getting it right would be hard. What do you mean by using a fixed upper bound on dimension with indicator variables?
+
+///
+
+The idea is to embed all your possible models into a single larger model, then use binary indicators to "turn off" components you don't need.
+
+**Concrete example with your episodes**
+
+Say you think you'll never need more than 20 episodes. You define a fixed-size array of 20 episode slots, each with an associated indicator variable z_i ∈ {0, 1}.
+
+When z_i = 1, that episode is "active" and contributes to your likelihood. When z_i = 0, it's "off"—maybe it contributes nothing, or its parameters are just ignored.
+
+Your state is now always 20 episodes plus 20 binary indicators. Dimension never changes. Standard Metropolis-Hastings applies.
+
+**Moves become simpler**
+
+Instead of append/remove with their asymmetry problems, you just flip an indicator. Flipping z_i from 0 to 1 "activates" episode i. Flipping from 1 to 0 "deactivates" it. Both directions are the same operation—a coin flip on whether to propose the toggle, then accept/reject based on likelihood.
+
+You still need to handle the parameters of a newly activated component (sample from a prior, typically), but the bookkeeping is more straightforward than RJMCMC.
+
+**Downsides**
+
+You're exploring a larger space than necessary, which can be inefficient. The indicators can mix poorly if the likelihood strongly favors certain configurations. And you need to pick that upper bound, which feels arbitrary.
+
+**Common in practice**
+
+Bayesian mixture models often use this trick with a "large enough" number of components, letting the data effectively select how many are active. It trades elegance for implementation simplicity—usually a good trade.
+
+///
+
+> I've been thinking about that. But let's say that the total episode length needs to be fixed. Flipping off a subepisode would essentially zero it out in the sum. What would a good way of rescaling the rest of the subepisodes be?
+
+///
+
+This is a nice constrained problem. You have episodes that must sum to 390, and you want to "turn off" one while maintaining the constraint.
+
+**Option 1: Proportional rescaling**
+
+When you deactivate episode i with value v_i, distribute its mass to the remaining active episodes proportionally to their current lengths.
+
+If episodes j are active with values v_j, each gets scaled by (total / (total - v_i)). Equivalently, each active episode becomes v_j × 390 / (390 - v_i).
+
+Reversing: when reactivating, you need to shrink all active episodes proportionally to make room. The symmetry is clean here because scaling is a bijection with a straightforward Jacobian.
+
+**Option 2: Dump to a neighbor**
+
+Deactivating episode i gives its mass to an adjacent episode (left or right, chosen uniformly or deterministically). Simpler, but creates different dynamics—one neighbor gets fatter rather than spreading the mass.
+
+**Option 3: Maintain a "slack" episode**
+
+One episode is designated as the buffer. It absorbs mass from deactivated episodes and donates mass to reactivated ones. Simplifies bookkeeping since only two values change per move. Downside: that slack episode becomes special and might behave oddly.
+
+**The Jacobian consideration**
+
+With proportional rescaling, you're applying a linear transformation to the active episodes. The Jacobian is the determinant of that scaling matrix, which for uniform scaling by factor c across n dimensions is c^n. You'd include this in your acceptance ratio.
+
+If you want to avoid Jacobian calculations entirely, option 2 or 3 might be cleaner since they only modify one or two values in a simple additive way.
+
+///
+
+> I am confused what the jacobian is or what it is even doing in this context. Is this formulation different from the original `q(x|x') / q(x', x)`?
+
+///
+
+The Jacobian shows up when your proposal involves a *deterministic transformation* rather than just sampling from a distribution.
+
+**The original formulation**
+
+With q(x|x')/q(x'|x), you're thinking of proposals as probability distributions. "Given I'm at x, what's the probability density of proposing x'?" This works great when your proposal is something like "add Gaussian noise" or "pick uniformly among neighbors."
+
+**When determinism enters**
+
+But sometimes your move is: "sample some random values u, then apply a deterministic function to get x' = f(x, u)." 
+
+For example, in your proportional rescaling: you flip an indicator (random choice), then the rescaling of all other episodes is *deterministic* given that choice. You're not sampling new episode lengths from a distribution—you're computing them via a formula.
+
+**What the Jacobian does**
+
+When you transform variables deterministically, probability density doesn't just transfer 1-to-1. If your transformation stretches a region of space, the density in that region must decrease (and vice versa). The Jacobian determinant captures this stretching/compression factor.
+
+Think of it like this: if you have a uniform distribution on [0,1] and you apply x' = 2x, the density on [0,2] is now 0.5, not 1. The Jacobian (which is 2 here) corrects for this.
+
+**In the acceptance ratio**
+
+The |J| term ensures that your chain samples from the correct target density after the transformation. Without it, you'd oversample regions that your transformation compresses and undersample regions it stretches.
+
+**Avoiding it**
+
+If your moves are purely "sample x' from some distribution q(·|x)" with no deterministic component, you don't need Jacobians—it's all baked into the q ratio. That's why additive moves (give mass from one episode to another) are simpler than multiplicative rescaling.
+
+///
+
+> I am not sure I understand this at all. Let's say I have two episodes `[true, 2; true, 8]` which sum up to 10. Say I flip the second episode off to get `[true, 2; false, 8]` and then rescale it to `[true, 10; false, 8]` so the sum to 10 condition holds. Why do I need to calculate it by a Jacobian. I mean, the `p([true, 2; true, 8] | [true, 2; false, 8]) = p([true, 2; false, 8] | [true, 2; true, 8])`. Why do I need to calculate a jacobian when the rescaling is a deterministic transformation?
+
+///
+
+You're right to push back—let me reconsider your specific case.
+
+In your example, the move is:
+
+1. Flip the indicator (random choice)
+2. Rescale deterministically to maintain the sum
+
+And crucially: **given the indicator flip, there's exactly one valid state on each side**. If you're at `[true, 2; true, 8]` and flip off the second indicator, you *must* arrive at `[true, 10; false, 8]`. And if you're at `[true, 10; false, 8]` and flip on the second indicator... well, what happens?
+
+**Here's where it gets tricky**
+
+When reactivating, you need to decide: how much mass does the reactivated episode get? The deactivated state stores `8`, but is that what it gets back? If so, how did you know to store `8` rather than some other value?
+
+If the "off" episode remembers its old value and reclaims exactly that much, then yes—the transformation is a perfect bijection with no Jacobian needed. You flip on, it takes back its stored value, the active one shrinks to compensate. Perfectly reversible, symmetric proposal probability.
+
+**When you'd need a Jacobian**
+
+If instead reactivation meant "sample a new value for the reactivated episode from some prior, then rescale others to fit," now you're generating randomness in one direction but not the other. That's when the bookkeeping gets complicated.
+
+**So in your formulation**
+
+If off-episodes retain their values and reclaim them exactly upon reactivation, you're fine. No Jacobian. The q ratio is just about which indicator you chose to flip.
+
+///
+
+***
+
+> When reactivating, you need to decide: how much mass does the reactivated episode get?
+
+When the second episode in `[true, 10; false, 8]` is reactivated the sum becomes `18`. But we know that the second episode doesn't need to be rescaled, so the important condition is that `[...; false, 8]` sums up to 10. Excluding `false, 8` means the rest of the episodes have to sum up to 2, so they should be rescaled based on that. In the given example, that would just transform it back to `[true, 2; true, 8]`.
+
+***
+
+///
+
+Ah, now I see it clearly. The constraint is:
+
+**Active episodes must sum to 10.**
+
+So in `[true, 10; false, 8]`, only the first episode is active, and it sums to 10. The inactive episode just sits there holding its value.
+
+When you reactivate the second episode, active episodes now need to sum to 10 again, but now that includes both. So you rescale the previously-active episodes to make room: 10 × (10 - 8) / 10 = 2.
+
+**This is a perfect bijection**
+
+```
+[true, 2; true, 8]  ⟷  [true, 10; false, 8]
+```
+
+The transformation in both directions is completely determined by which indicator you flip. No randomness, no choices, no auxiliary variables. Given the starting state and the choice of "flip indicator 2," there's exactly one place you can end up.
+
+**So no Jacobian?**
+
+Right. The Jacobian matters when you're transforming continuous variables in a way that stretches/compresses regions of probability space. But here you're not exploring a continuous space of possible rescalings—you're jumping between discrete configurations, each fully determined.
+
+The acceptance ratio is just:
+
+```
+min(1, π([true, 2; true, 8]) / π([true, 10; false, 8]))
+```
+
+Plus any q ratio for the probability of choosing *which* indicator to flip, if that's non-uniform.
+
+I overcomplicated it earlier. Your setup is clean.
+
+///
+
+> I want to understand the case when the move is to change the probability distribution the subepisode is sampled from. Suppose I have `[StrongUptrend, 4]` where the duration 4 is sampled from a log normal with `{ DurationMean = 5.0; DurationStdDev = 2.0 }`. Suppose I change that to `[Consolidation, 5]` with `{ DurationMean = 20.0; DurationStdDev = 10.0 }`. Would I have calculate the jacobian for this?
+
+///
+
+No Jacobian here either. Let's see why.
+
+**What's happening in this move**
+
+You're proposing to change the episode type from `StrongUptrend` to `Consolidation`. Each type has its own duration distribution. The duration value itself is also changing (4 to 5).
+
+**Two ways to think about this move**
+
+*Option A: You resample the duration*
+
+When you switch from `StrongUptrend` to `Consolidation`, you sample a fresh duration from the Consolidation distribution. The old duration (4) is discarded, the new duration (5) is drawn from LogNormal(20, 10).
+
+This is just a standard proposal with a q ratio:
+
+```
+q(forward) = p(propose Consolidation) × LogNormal(5 | μ=20, σ=10)
+q(reverse) = p(propose StrongUptrend) × LogNormal(4 | μ=5, σ=2)
+```
+
+No Jacobian—you're sampling from distributions, not applying deterministic transformations.
+
+*Option B: You keep the duration fixed*
+
+You change the label but the duration stays at 4. Now you're just evaluating the same value under different distributions in your likelihood. Still no Jacobian, and the q ratio is just about which type you proposed.
+
+**When would you need a Jacobian?**
+
+If you did something like: "transform the duration deterministically so it has the same quantile in the new distribution as it had in the old." That's a deterministic mapping from one continuous value to another, and you'd need the Jacobian of that transformation.
+
+But if you're either resampling or keeping the value as-is, you're fine.
+
+///
+
+***
+
+I actually changed 4 to 5 by accident, but good point. I didn't realize that it might be necessary to multiply by `LogNormal`. We have to talk about that first. Let's say that `p(propose Consolidation) = p(propose StrongUptrend)`. If I keep the duration steady, should it be that
+
+```
+q(forward) = LogNormal(4 | μ=20, σ=10)
+q(reverse) = LogNormal(4 | μ=5, σ=2)
+```
+
+I am not sure if that makes sense.
+
+***
+
+///
+
+No, that's not right either. Let's slow down.
+
+**What is q?**
+
+q(x'|x) is the probability of *proposing* state x' given you're at state x. It's about your proposal mechanism, not your target distribution.
+
+**If you keep duration fixed and just flip the label**
+
+Your proposal is: "pick a new episode type uniformly at random" (or with some probability). The duration stays at 4.
+
+Then:
+
+```
+q(forward) = p(propose switching to Consolidation) = 1/k
+q(reverse) = p(propose switching to StrongUptrend) = 1/k
+```
+
+where k is the number of episode types. These cancel out. The duration doesn't enter into q at all because you're not proposing a new duration—you're keeping it.
+
+**Where does LogNormal come in?**
+
+It's in π, your target distribution. When you evaluate the likelihood of the state `[Consolidation, 4]`, you're asking "how probable is duration 4 under the Consolidation model?" That's LogNormal(4 | μ=20, σ=10).
+
+So the acceptance ratio becomes:
+
+```
+min(1, π([Consolidation, 4]) / π([StrongUptrend, 4]))
+```
+
+And inside those π evaluations, you're using the respective LogNormal densities.
+
+**The confusion**
+
+q is about how you *move*. π is about how *good* the state is. Keeping these separate is crucial. You were mixing the target density into the proposal.
+
+///
+
+> Ok, that makes sense. I am struggling to think of an example of what sort of move would require a jacobian calculation. If changing the distributions isn't it, then what is?
+
+///
+
+Let me construct a clear example.
+
+**The quantile-preserving transformation**
+
+Suppose your move is: "switch episode type, and transform the duration so it sits at the same quantile in the new distribution."
+
+If duration 4 is at the 30th percentile of LogNormal(μ=5, σ=2), you deterministically map it to whatever value is at the 30th percentile of LogNormal(μ=20, σ=10). Let's say that's 12.
+
+```
+[StrongUptrend, 4] → [Consolidation, 12]
+```
+
+No randomness in choosing 12—it's fully determined by the quantile mapping. The reverse move takes 12 back to 4 via the inverse transformation.
+
+**Why does this need a Jacobian?**
+
+The mapping f: duration_old → duration_new stretches some regions and compresses others. A small interval around 4 in the StrongUptrend space might map to a larger interval around 12 in the Consolidation space.
+
+If you don't account for this, you'll oversample regions where the mapping compresses (high |f'|) and undersample where it stretches.
+
+The Jacobian here is just the derivative df/d(duration_old), evaluated at the point you're transforming.
+
+**The key distinction**
+
+- Resampling: you generate a fresh value from a distribution. Randomness in the proposal. Use q ratio.
+- Deterministic transformation: you compute the new value from the old via a formula. No randomness. Use Jacobian.
+
+Your earlier moves—flipping indicators with deterministic rescaling—were bijections between discrete configurations, so the Jacobian was trivially 1. Here, you're transforming a continuous variable, so the stretching matters.
+
+///
+
+> I am curious, how could such a derivative be calculated for a log normal distribution?
+
+///
+
+For the quantile-preserving map, you're composing two functions:
+
+1. CDF of the source distribution (maps value → quantile)
+2. Inverse CDF of the target distribution (maps quantile → value)
+
+So: f(x) = F_target^(-1)(F_source(x))
+
+**The derivative via chain rule**
+
+```
+df/dx = d/dx [F_target^(-1)(F_source(x))]
+      = (1 / f_target(f(x))) × f_source(x)
+```
+
+where f_source and f_target are the PDFs (lowercase f), and F is the CDF.
+
+In other words:
+
+```
+Jacobian = pdf_source(x) / pdf_target(f(x))
+```
+
+**For your log normal case**
+
+Going from StrongUptrend (μ=5, σ=2) to Consolidation (μ=20, σ=10), transforming duration 4 to 12:
+
+```
+J = LogNormalPDF(4 | μ=5, σ=2) / LogNormalPDF(12 | μ=20, σ=10)
+```
+
+**An interesting observation**
+
+Notice what happens when you plug this Jacobian into the acceptance ratio. The π terms have the PDFs in them too, and things start canceling. This is partly why quantile-preserving moves can be well-behaved—they're designed so the "surprise" of the value under each distribution is matched.
+
+**Practically**
+
+Most languages have log-pdf functions for standard distributions, so you'd compute this as:
+
+```
+log_jacobian = log_pdf_source(x) - log_pdf_target(f(x))
+```
+
+and add it to your log acceptance ratio.
+
+///
+
+> Is the Jacobian an added term or a part of the q ration in the original formula `q(x|x') / q(x', x)`? It feels wrong that a symmetric deterministic transformation should require a calculation of the jacobian.
+
+///
+
+You're hitting on something important.
+
+**The Jacobian is a correction to the q ratio**
+
+When your proposal involves a deterministic transformation, the "probability of proposing x'" isn't a simple density you can write down directly. The Jacobian *is* how you compute that density for deterministic maps.
+
+Think about it: if your move is "apply function f," then q(x'|x) in the usual sense is either 0 (if x' ≠ f(x)) or undefined (if x' = f(x), a single point has zero measure). The Jacobian resolves this by telling you how densities transform under f.
+
+**So for a deterministic bijection**
+
+The q ratio *becomes* the Jacobian:
+
+```
+q(x'|x) / q(x|x') = |J|
+```
+
+They're not separate terms—the Jacobian is how you express the q ratio when there's no stochastic component to the proposal.
+
+**Your intuition about symmetric transformations**
+
+You're right that something feels off. If f is its own inverse (f(f(x)) = x), then applying f forward and backward should "feel" symmetric. And indeed:
+
+```
+J_forward(x) × J_backward(f(x)) = 1
+```
+
+The Jacobians are reciprocals. So in the acceptance ratio, if you're at x proposing f(x), you use J. If you're at f(x) proposing x, you use 1/J. It balances out over the chain—but you still need to compute it for each individual acceptance decision.
+
+///
+
+***
+
+> Think about it: if your move is "apply function f," then q(x'|x) in the usual sense is either 0 (if x' ≠ f(x)) or undefined (if x' = f(x), a single point has zero measure). 
+
+If `x' = f(x)` shouldn't the `q(x'|x)` be 1? Why would it be undefined?
+
+***
+
+///
+
+You're right to challenge this—I was being sloppy mixing up probability and probability density.
+
+**Probability vs density**
+
+If your move is deterministic, then yes, P(x' = f(x) | x) = 1 as a probability. You will definitely land on f(x).
+
+But in continuous spaces, the acceptance ratio works with probability *densities*, not probabilities. And a single point in a continuous space has density... well, it's not directly defined that way.
+
+**The issue**
+
+When both your current state and proposed state live in continuous spaces, you need densities to form ratios. If I "propose" a single point with probability 1, I can't plug that into a density ratio with another proposal that samples from a spread-out distribution.
+
+**The Jacobian bridges this**
+
+It lets you compare deterministic moves on equal footing with stochastic ones. The Jacobian tells you: "if I had instead proposed from a density concentrated in a tiny region around f(x), what would the limiting density ratio be?"
+
+**A cleaner way to think about it**
+
+Forget q as "proposal probability" for a moment. Think of the whole acceptance ratio as ensuring detailed balance:
+
+```
+π(x) × T(x → x') = π(x') × T(x' → x)
+```
+
+For deterministic moves, T(x → x') involves the Jacobian because that's what makes the measure theory work out. It's less about "what's the probability I propose this" and more about "how do volumes transform."
+
+I think I was confusing you by trying to cram the Jacobian into the q framework rather than just saying: for deterministic transformations, this is how you maintain detailed balance.
+
+///
+
+> So, let's say we're doing a transformation that multiplies the duration by 2x 50% of the time and by 0.5x 50% of the time. Should the jacobian be calculated for that?
+
+///
+
+Yes, because the transformation itself (once chosen) is deterministic.
+
+**Breaking down the move**
+
+1. Flip a coin (50/50)
+2. If heads, multiply duration by 2
+3. If tails, multiply duration by 0.5
+
+**The q ratio**
+
+The probability of choosing "multiply by 2" is 0.5 in either direction. Same for "multiply by 0.5". So if you're comparing the same type of move (heads vs heads, tails vs tails), the q ratio for the *choice* is 1.
+
+**But then you apply a deterministic transformation**
+
+If duration goes from 4 to 8 (multiply by 2), the Jacobian of f(x) = 2x is just 2.
+
+If duration goes from 4 to 2 (multiply by 0.5), the Jacobian of f(x) = 0.5x is 0.5.
+
+**The full picture**
+
+```
+acceptance ratio = (π(x') / π(x)) × (q_choice(reverse) / q_choice(forward)) × |J|
+                 = (π(x') / π(x)) × (0.5 / 0.5) × |J|
+                 = (π(x') / π(x)) × |J|
+```
+
+**Intuition for why**
+
+Multiplying by 2 stretches the space—it spreads probability out. Without the Jacobian correction, you'd be more likely to accept moves that stretch (because you're "landing" in a region that looks bigger than where you came from). The Jacobian of 2 penalizes this appropriately.
+
+///
+
+> Shouldn't multiplying by 2 make it more likely to accept that move rather than penalize it?
+
+///
+
+Let me think about this more carefully.
+
+**What does stretching mean for acceptance?**
+
+If you multiply by 2, you're mapping a small region around x to a larger region around 2x. Probability density is "mass per unit length." When you stretch, the same mass spreads over more length, so density *decreases*.
+
+**The target density perspective**
+
+Suppose your target π favors moderate durations. If you're at duration 4 with high density, and you propose jumping to 8 where density is lower, you'd want to reject more often—you're moving to a worse spot.
+
+But that's already captured by π(x')/π(x).
+
+**What the Jacobian corrects for**
+
+The Jacobian isn't about whether the destination is good or bad. It's about the *asymmetry of the map itself*.
+
+If you're at 4 and propose 8 (multiply by 2), the reverse move from 8 proposes 4 (multiply by 0.5). The "multiply by 2" operation covers ground faster—it's a bigger step in absolute terms from larger values.
+
+Actually wait. Let me reconsider...
+
+**I think you're right**
+
+A Jacobian > 1 means the transformation stretches space. In the acceptance ratio, |J| appears in the numerator (typically). Stretching *increases* acceptance probability.
+
+This makes sense: you're moving into a "larger" region, so to maintain detailed balance, you should be more willing to go there (and less willing to come back). The reverse move has Jacobian 0.5, making it harder to return.
+
+I had it backwards. Thanks for catching that.
+
+///
+
+> Why are we taking the absolute value of the jacobian instead of just the jacobian itself?
+
+///
+
+Because the Jacobian determinant can be negative, and negative acceptance probabilities don't make sense.
+
+**When is the Jacobian negative?**
+
+For a single variable, the derivative f'(x) is negative when f is decreasing—when the transformation reverses orientation. For example, f(x) = -x has Jacobian -1.
+
+In multiple dimensions, the Jacobian determinant is negative when the transformation reverses orientation (like a reflection or a "flip" in some axis).
+
+**Does the sign matter for our purposes?**
+
+No. We only care about how the transformation scales volumes, not whether it flips them. A reflection that maps a region of area 2 to a region of area 2 (but mirrored) doesn't change how probability mass is distributed—it just rearranges it spatially.
+
+**In practice**
+
+For your duration transformations (multiply by 2, multiply by 0.5), the Jacobian is always positive anyway since you're scaling by positive numbers. The absolute value is there for generality, to handle cases like:
+
+```
+f(x) = -x + c    (reflection)
+f'(x) = -1
+|J| = 1
+```
+
+The transformation preserves volume, just flips orientation. Acceptance probability shouldn't care about the flip.
+
+///
+
+> What's the paper where the formula with the jacobian was introduced?
+
+///
+
+The foundational paper for the general formulation with Jacobians in the context of dimension-changing moves is:
+
+**Green, P.J. (1995). "Reversible jump Markov chain Monte Carlo computation and Bayesian model determination." Biometrika, 82(4), 711-732.**
+
+This is the reversible jump MCMC paper I mentioned earlier. Green laid out the framework for trans-dimensional moves and made explicit how the Jacobian enters the acceptance ratio when you have deterministic transformations mapping between spaces.
+
+**But for the Jacobian in fixed-dimension continuous transformations**
+
+That's arguably implicit in the original Metropolis-Hastings framework, though not always stated clearly. The key paper is:
+
+**Hastings, W.K. (1970). "Monte Carlo sampling methods using Markov chains and their applications." Biometrika, 57(1), 97-109.**
+
+Hastings generalized the original Metropolis algorithm to asymmetric proposals, giving us the q(x|x')/q(x'|x) ratio. The Jacobian interpretation for deterministic proposals follows from measure-theoretic considerations of how densities transform.
+
+**If you want the measure theory foundation**
+
+Tierney's 1998 paper "A note on Metropolis-Hastings kernels for general state spaces" (Annals of Applied Probability) gives a rigorous treatment of when and why these corrections are needed.
+
+But Green 1995 is probably what you want—it's where the explicit Jacobian term in the acceptance formula became standard in the MCMC literature.
+
+///
+
+6:40pm. This is what my work seems to amount to these days. I barely do any coding myself, I just review and talk with the chatbot. To bo honest, I don't care about the coding that much, it's not the important part of my job or my skillset. It's understanding the program thoroughly that is important.
+
+Despite what it said in the chain, I do think that rescaling is going to involve a complex jacobian calculation. How annoying.
+
+Here is the link: https://claude.ai/share/c7814c1d-9ec6-4d15-9987-1f41522c29a9
+
+I've just pasted the whole chain up to now here because who knows how long Anthropic will exist.
+
+MCMC is more complicated than I thought it would be due to those jacobian terms. Simple resampling just does a substitution so the jacobian ends up being 1. But deterministic transforms are hell.

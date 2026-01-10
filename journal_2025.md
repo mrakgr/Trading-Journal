@@ -28209,3 +28209,92 @@ Here is the link: https://claude.ai/share/c7814c1d-9ec6-4d15-9987-1f41522c29a9
 I've just pasted the whole chain up to now here because who knows how long Anthropic will exist.
 
 MCMC is more complicated than I thought it would be due to those jacobian terms. Simple resampling just does a substitution so the jacobian ends up being 1. But deterministic transforms are hell.
+
+7pm. Done with lunch. Actually, let me ask how the jacobians can be calculated when transforming multiple variables.
+
+> How can the jacobian be calculated when multiple variables are being rescaled?
+
+///
+
+In multiple dimensions, the Jacobian is the determinant of the matrix of partial derivatives.
+
+**Setup**
+
+Say you have a transformation f: (x₁, x₂, ..., xₙ) → (y₁, y₂, ..., yₙ).
+
+The Jacobian matrix is:
+
+```
+J = | ∂y₁/∂x₁  ∂y₁/∂x₂  ...  ∂y₁/∂xₙ |
+    | ∂y₂/∂x₁  ∂y₂/∂x₂  ...  ∂y₂/∂xₙ |
+    |   ...      ...    ...    ...    |
+    | ∂yₙ/∂x₁  ∂yₙ/∂x₂  ...  ∂yₙ/∂xₙ |
+```
+
+And |J| is the absolute value of the determinant of this matrix.
+
+**Your rescaling case**
+
+When you deactivate an episode and rescale the rest proportionally, say you have active durations (a, b, c) summing to 10, and you deactivate c. The new state is:
+
+```
+a' = a × 10 / (10 - c) = a × 10 / (a + b)
+b' = b × 10 / (10 - c) = b × 10 / (a + b)
+```
+
+The Jacobian matrix for (a, b) → (a', b') is:
+
+```
+J = | ∂a'/∂a  ∂a'/∂b |
+    | ∂b'/∂a  ∂b'/∂b |
+```
+
+**A simpler case: uniform scaling**
+
+If you just multiply everything by the same constant k:
+
+```
+(a, b, c) → (ka, kb, kc)
+```
+
+The Jacobian matrix is diagonal with k on each diagonal entry, so |J| = kⁿ where n is the number of variables.
+
+///
+
+> Would that formula hold if (a,b,c) are sampled from probability distributions?
+
+///
+
+The Jacobian doesn't care where the values came from—it only cares about the transformation you're applying right now.
+
+**What the Jacobian measures**
+
+It's purely about the geometry of the map f. Given input values (a, b, c), how does f stretch or compress the space around that point? The partial derivatives ∂yᵢ/∂xⱼ describe this locally.
+
+Whether (a, b, c) were sampled from log normals, uniforms, or typed in by hand doesn't change what f does to them.
+
+**Where the distributions matter**
+
+They're in π, your target density. When you evaluate π(a, b, c), you're asking "how likely is this configuration under my model?" That's where LogNormal(a | ...) × LogNormal(b | ...) × ... shows up.
+
+**The full picture**
+
+```
+acceptance = (π(a', b', c') / π(a, b, c)) × |J|
+```
+
+- π involves the probability distributions you're modeling
+- |J| involves the transformation you're proposing
+
+They're independent concerns that both enter the acceptance ratio.
+
+**Analogy**
+
+Think of π as "how good is this location?" and |J| as "how did I get here?" You can drive the same car (same transformation, same Jacobian) to a nice neighborhood or a bad one (different π values). The car doesn't care about the destination's quality, it just has its own fuel efficiency (Jacobian). You factor in both when deciding whether the trip was worth it.
+
+///
+
+This answer is about what I expected, though it does give me some insight that the jacobian itself doesn't rely on the log likelihoods. But that just makes it weirder as to why it is needed. I'll figure it out tomorrow.
+
+Let me take off here for real.
+

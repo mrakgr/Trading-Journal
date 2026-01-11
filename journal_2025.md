@@ -28298,3 +28298,6 @@ This answer is about what I expected, though it does give me some insight that t
 
 Let me take off here for real.
 
+1/11/2025
+
+11:15am. Let me start here. I need to figure out how MCMC today. I'll go over those papers today.

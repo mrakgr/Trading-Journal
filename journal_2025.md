@@ -28399,3 +28399,31 @@ Well to be fair, they do simplify here.
 ![](images/image-2007.png)
 
 And even in the split/merge example, the jacobian goes away.
+
+3:40pm. Yeah, I was wrong with my eplanation here.
+
+///
+
+Ok, I think my hypothesis for what the jacobian is doing in discrete spaces is correct.
+
+Suppose we have a mixture of categorical distributions where both A and B have a probability of 50%.
+
+That means that p(A) will be 0.5 for type `t`. But if we evaluate p(A,B,A) for type `t * t * t` it will have the 0.125 as the probability. So it would be hard to transition between the distributions.
+
+What would happen is that A and B would be sampled as much as A,A,A ... B, B, B combined.
+
+This is easy for me to understand, but if we assume `t` is some Gaussian, I am not sure how the math would work out. But at any rate, it's probably a bad idea to mess with the number of parameters in the model. Even flipping the components on and off would cause trouble.
+
+///
+
+On toy examples we can integrate the whole space so we can in fact see what the correct thing should be.
+
+If we assume that `t` and `t * t * t` have equal probability to be sampled, then in fact the A and B case should show up 4x as much as A,A,A and A,A,B ... B, B, B.
+
+I forgot about a concept I learned long ago which is called Bayesian Occam's Razor.
+
+Occam's Razor states that the simplest solution that meets the criteria is often the best, and the Bayesian variant of it merely states that Bayesian inference does it naturally.
+
+No matter what, the results of applying the MCMC algorithm should match those of integrating over the whole space for toy examples.
+
+So yes, at least we can be sure that the Jacobian isn't there due to the inherent dimensionality of the problem.

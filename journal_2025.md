@@ -28301,3 +28301,24 @@ Let me take off here for real.
 1/11/2025
 
 11:15am. Let me start here. I need to figure out how MCMC today. I'll go over those papers today.
+
+https://youtu.be/yApmR-c_hKU
+Markov Chain Monte Carlo (MCMC) : Data Science Concepts
+
+The 1970 paper is difficult to read, so I guess that leave Youtube.
+
+11:50am. https://youtu.be/yCv2N7wGDCw?t=300
+
+He's explaining it wrong. What makes the proposal distribution symmetric is that it's additive to the original state. Also he mistok the min for the max on the slides.
+
+11:55am. ![](images/image-2001.png)
+
+I really don't understand where that determinant of the jacobian is coming from though.
+
+https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm
+
+It's doesn't show up in the Wikipedia.
+
+https://en.wikipedia.org/wiki/Reversible-jump_Markov_chain_Monte_Carlo
+
+It does show up here though.

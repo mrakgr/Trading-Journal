@@ -28322,3 +28322,45 @@ It's doesn't show up in the Wikipedia.
 https://en.wikipedia.org/wiki/Reversible-jump_Markov_chain_Monte_Carlo
 
 It does show up here though.
+
+12:05pm. https://projecteuclid.org/journals/annals-of-applied-probability/volume-8/issue-1/A-note-on-Metropolis-Hastings-kernels-for-general-state-spaces/10.1214/aoap/1027961031.pdf
+
+The Jacobian shows up nowhere here.
+
+I think that Opus mixed something up yesterday.
+
+If we're talking about the volume of the space, imagine we have an union type:
+
+```
+type t =
+    | A
+    | B
+```
+
+That would be a space with a volume of 2. Then if we consider `t * t * t` that would be a space with a volume of 8. I am guessing the jacobian is supposed to compensate for these sorts of transformations. Like if you want the detailed balance condition to hold, you might want to make it so that `t` and `t * t * t` are sampled with equal probability.
+
+![](images/image-2002.png)
+
+Like in this video they talk about Bayesian model selection.
+
+https://youtu.be/oS6-iV0JleI
+Lecture 22. Reversible Jump MCMC
+
+Let me watch this for a bit.
+
+12:25pm. Ok, I think my hypothesis for what the jacobian is doing in discrete spaces is correct.
+
+Suppose we have a mixture of categorical distributions where both A and B have a probability of 50%.
+
+That means that p(A) will be 0.5 for type `t`. But if we evaluate p(A,B,A) for type `t * t * t` it will have the 0.125 as the probability. So it would be hard to transition between the distributions.
+
+What would happen is that A and B would be sampled as much as A,A,A ... B, B, B combined.
+
+This is easy for me to understand, but if we assume `t` is some Gaussian, I am not sure how the math would work out. But at any rate, it's probably a bad idea to mess with the number of parameters in the model. Even flipping the components on and off would cause trouble.
+
+Let me go back to the video.
+
+...
+...
+...
+

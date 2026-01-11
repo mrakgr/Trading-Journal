@@ -28441,3 +28441,18 @@ If we imagine a categorical distribution, and multiplying the index by 2x and 0.
 ...
 ...
 
+6:40pm. https://youtu.be/OXDqjdVVePY
+Accept-Reject Sampling : Data Science Concepts
+
+https://youtu.be/AdV5w8CY3pw
+The Jacobian : Data Science Basics
+
+https://www.colorado.edu/amath/sites/default/files/attached-files/rjmcmc.pdf
+
+Let me save this here. Done with lunch and for the day. I'll continue this tomorrow.
+
+I can win this, but only if I do this properly. I've never tried trading as a programmer, and I might as well do so in 2026. If it doesn't work, I can go back to poker or find another company to work with (the job with Thomas might come) while investing for the long term.
+
+If this fails, then nothing will work for me. I can just accept that I am just not meant to trade for whatever reason and move on.
+
+But I need to do in a way that I can accept as proper.

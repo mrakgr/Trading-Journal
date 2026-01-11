@@ -28369,3 +28369,8 @@ https://www.colorado.edu/amath/sites/default/files/attached-files/rjmcmc.pdf
 > The yet to be described RJMCMC algorithm is a generalization of the MH algorithm where the acceptance probability α(x,y) involves a Jacobian term. This is often mistakenly thought to be a result of dimension jumping in RJMCMC when, in fact, it comes about just by writing down the MHalgorithm in a different way
 
 I guess I was wrong.
+
+1:35pm. https://youtu.be/hXZWH7nwz78
+Europe's Plan to Finally Unleash its Startups | 28th Regime | EU-INC
+
+Maybe I could restart Rajnet under this regulation in the future.

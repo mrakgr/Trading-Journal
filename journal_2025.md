@@ -28374,3 +28374,8 @@ I guess I was wrong.
 Europe's Plan to Finally Unleash its Startups | 28th Regime | EU-INC
 
 Maybe I could restart Rajnet under this regulation in the future.
+
+2:05pm. https://youtu.be/KZeIEiBrT_w
+The Strange Math That Predicts (Almost) Anything
+
+Let me watch this.

@@ -28379,3 +28379,11 @@ Maybe I could restart Rajnet under this regulation in the future.
 The Strange Math That Predicts (Almost) Anything
 
 Let me watch this.
+
+2:45pm. ![](images/image-2003.png)
+
+The notation here is so difficult. What is this dx at the top. Where does it come from?
+
+![](images/image-2004.png)
+
+As a programmer, the formulas here barely make any sense at all with x, x' and dx coming out of nowhere. How is x related to dx here?

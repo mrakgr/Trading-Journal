@@ -28427,3 +28427,17 @@ Occam's Razor states that the simplest solution that meets the criteria is often
 No matter what, the results of applying the MCMC algorithm should match those of integrating over the whole space for toy examples.
 
 So yes, at least we can be sure that the Jacobian isn't there due to the inherent dimensionality of the problem.
+
+3:45pm. So I am watching this video, and I still don't really get it.
+
+But thinking what should be right on birth death moves should give us some insight.
+
+One question I am having difficulty answering is whether it makes sense to rescale on multiplicative moves.
+
+If we imagine a categorical distribution, and multiplying the index by 2x and 0.5x then it doesn't really.
+
+...
+...
+...
+...
+

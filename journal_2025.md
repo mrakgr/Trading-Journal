@@ -28387,3 +28387,15 @@ The notation here is so difficult. What is this dx at the top. Where does it com
 ![](images/image-2004.png)
 
 As a programmer, the formulas here barely make any sense at all with x, x' and dx coming out of nowhere. How is x related to dx here?
+
+3:25pm. ![](images/image-2005.png)
+
+Agh, this is so complicated. It's such a disappointment. But really, why did Opus suggest indicator variables. If birth death requires the determinant, then it would have to be the case that...
+
+![](images/image-2006.png)
+
+Well to be fair, they do simplify here.
+
+![](images/image-2007.png)
+
+And even in the split/merge example, the jacobian goes away.

@@ -28507,3 +28507,11 @@ I am not Lance or Qullamaggie and I don't have their power. I am myself.
 I have my own talent. So it's fine if I fail as a trader.
 
 I'll make it as a programmer.
+
+8:35pm. The trip really took a while. Can't believe 4h passed so quickly. Let me play War of the Rightheous. I finished Stellar Blade yesterday. I have so many great games I want to play.
+
+8:40pm. I probably should've set it to download earlier, but nwm that for now. I have fibre optic connection so it will be done in a flash.
+
+Stellar Blade is a 9.5/10 game. I got in for Eve, but stayed for the action. The last fifth of the game from the Orbital Station onwards is 10/10.
+
+I'll play the New Game+ eventually. I want to try something else for now.

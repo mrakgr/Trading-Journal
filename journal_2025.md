@@ -28499,3 +28499,11 @@ Once I internalize it, maybe I'll be able to get my motivation back and overcome
 ![](images/image-2010.png)
 
 Wow, I really forgot everything there is about integration. I think I did this in high school.
+
+Yeah, I think I understand it. I failed in 2007 - 2014 as a trader and I failed it in 2025. The way I am approaching life is as a programmer and nothing else.
+
+I am not Lance or Qullamaggie and I don't have their power. I am myself.
+
+I have my own talent. So it's fine if I fail as a trader.
+
+I'll make it as a programmer.

@@ -28493,3 +28493,9 @@ It's not like I didn't like probabilistic programming. I just had the belief tha
 But if NNs are a waste of time from a developmental standpoint, and the Singularity is still on track, then probabilistic programming and generative modeling is what I have to bet my future on.
 
 Once I internalize it, maybe I'll be able to get my motivation back and overcome my depression.
+
+4:05pm. I'll be leaving soon.
+
+![](images/image-2010.png)
+
+Wow, I really forgot everything there is about integration. I think I did this in high school.

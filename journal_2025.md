@@ -28475,3 +28475,11 @@ So I should focus on my skills. I think this time around I should thoroughly mas
 The programming game is all about understanding. And I need the ability to reflect my inner world onto reality.
 
 If the Singularity is truly destined to happen, then the world will push generative modeling and Bayesian reasoning beyond the toy stage. It will pull it from the basket of dreams and raise onto the light of the sun.
+
+2:05pm. ![](images/image-2008.png)
+
+Ok, I am understanding this so far. I am going through this paper slowly and carefully making sure I understand every piece.
+
+2:10pm. ![](images/image-2009.png)
+
+I haven't look at it too deeply, but I think these rules are similar to how reversible computation works.

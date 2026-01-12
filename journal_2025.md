@@ -28456,3 +28456,22 @@ I can win this, but only if I do this properly. I've never tried trading as a pr
 If this fails, then nothing will work for me. I can just accept that I am just not meant to trade for whatever reason and move on.
 
 But I need to do in a way that I can accept as proper.
+
+1/12/2025
+
+1:35pm. https://youtu.be/ZmUi3bN64fE
+Is AI evolution unstoppable now?
+
+I am thinking hard about what principles and goals should be. If AI capabilities really are increasing exponentially, I should do what I want which is to bet it all on probabilistic modeling. The book by Joyce said that probability theory is extension of logic to account for uncertainty. I'll never forget that.
+
+I am just so weak. So many of my predictions failed to come to pass, and I am struggling so much. I think the first few months of the Tao Ceti job is one of the highligths of my past decade, but that quickly decayed into failure. I am essentially stuck in a range and failing to break out. 
+
+The world tossed me a bone, but it's not the full meal. I just got lucky once.
+
+So I should focus on my skills. I think this time around I should thoroughly master generative modeling. Maybe I should go through the PGM course to see if it makes more sense now.
+
+1:40pm. There isn't much else I can do at this point.
+
+The programming game is all about understanding. And I need the ability to reflect my inner world onto reality.
+
+If the Singularity is truly destined to happen, then the world will push generative modeling and Bayesian reasoning beyond the toy stage. It will pull it from the basket of dreams and raise onto the light of the sun.

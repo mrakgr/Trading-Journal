@@ -28483,3 +28483,13 @@ Ok, I am understanding this so far. I am going through this paper slowly and car
 2:10pm. ![](images/image-2009.png)
 
 I haven't look at it too deeply, but I think these rules are similar to how reversible computation works.
+
+2:20pm. I have a family trip in 3h so let me stop here.
+
+I am going to focus on a singular belief. That rising AI capabilities will lead to rise in probabilistic programming capabilities.
+
+It's not like I didn't like probabilistic programming. I just had the belief that training NNs would give better results, but that path gave me literally nothing. It's an enormous failure. Sure it let OpenAI and co train these LLMs, but you'd have to be deluded to think this is real AI.
+
+But if NNs are a waste of time from a developmental standpoint, and the Singularity is still on track, then probabilistic programming and generative modeling is what I have to bet my future on.
+
+Once I internalize it, maybe I'll be able to get my motivation back and overcome my depression.

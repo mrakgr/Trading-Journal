@@ -28781,3 +28781,165 @@ Let me go back to studying acceptance ratios.
 I am really taking my time in studying this. This is pretty amazing math. Shouldn't `D(s|A)` be 1?
 
 ...Let me watch the actual video.
+
+5pm. ![](images/image-2018.png)
+
+I just keep looking at this and thinking. Damn, you really can do anything with the Bayes rule, can't you?
+
+I learned the rules at a surface level, but I am just a baby.
+
+You know, let me pause here to try to work out something I've long been thinking about. I feel like the weighted moving average should be derivable from the Bayes rule, but I could never quite get the sense for it.
+
+Let's say we have items m.
+
+P(m) - some item
+
+Actually, let's make it stocks.
+
+So stocks have quantity and price.
+
+P(q,p) - quantity and price for some given time period.
+
+If I present it like that shouldn't it be a 2d discrete distribution? Not sure that is what I want here.
+
+What about if I represented it like...
+
+`P(q | p)`
+
+This would be an unnormalized probability. Quantity at a given price.
+
+Then what is a (volume weighted) moving average?
+
+It's unnormalized, so it has to be price given the quantity.
+
+`P(p | q)`
+
+Huh, really? Would it really have only a single point?
+
+Let's think about the bayes rule.
+
+`P(p | q) * P(q) = P(q | p) * P(p)`
+
+So I'd need to calculate...
+
+`P(p | q) = P(q | p) * P(p) / P(q)`
+
+...No this makes no fucking sense.
+
+What if we start with P(q,p).
+
+We could assume we have some value of...
+
+`P(q,p) = f(q,p) / sum(fun q p => f(q,p))`
+
+Yeah, this is a proper probability distribution. 
+
+So what exactly is a moving average?
+
+`sum(fun q p => f(q,p))`
+
+We'd have this at the top and...
+
+sum(fun q => g(q)) at the bottom. What would P(q) be?
+
+`P(q) = g(q) / sum(fun q => g(q))`
+
+I suppose it could also be written as...
+
+`g(q) = sum(fun p => f(p,q))`
+
+Which does make sense.
+
+Suppose we did...
+
+`P(q) / P(p,q) = (g(q) / sum(fun q => g(q))) / (f(q,p) / sum(fun q p => f(q,p)))`
+
+So it would be...
+
+`g(q) / f(q,p) * sum(fun q p => f(q,p)) / sum(fun q => g(q))`
+
+Hmmmm, it interesting, `sum(fun q p => f(q,p))` and `sum(fun q => g(q))` are the same thing and would cancel out.
+
+Which would leave `g(q) / f(q,p)`.
+
+...Which is some nonsense term.
+
+Ok, I give. This is how I well I'd do at math. Let me just ask Opus.
+
+> Can a volume weighted moving average be derived using the Bayes rule?
+
+///
+
+That's an interesting question. The short answer is: not directly in a natural way, but there are Bayesian formulations that produce VWMA-like estimates under specific assumptions.
+
+Here's the connection and where it breaks down:
+
+**The standard VWMA** is simply:
+
+$$\text{VWMA} = \frac{\sum_{i=1}^{n} V_i \cdot P_i}{\sum_{i=1}^{n} V_i}$$
+
+This is a deterministic weighted average—there's no probability model or prior/posterior structure inherent to it.
+
+**A Bayesian route to something similar** would require framing price estimation as an inference problem. One way:
+
+Suppose you model each trade as a noisy observation of some "true" price $\theta$, where the precision (inverse variance) of each observation is proportional to its volume. If you assume Gaussian observations with precision $\tau_i \propto V_i$, and a flat (improper) prior on $\theta$, then the posterior mean is:
+
+$$\hat{\theta} = \frac{\sum_i \tau_i \cdot P_i}{\sum_i \tau_i} = \frac{\sum_i V_i \cdot P_i}{\sum_i V_i}$$
+
+So VWMA emerges as the posterior mean under the assumption that volume proxies for observation precision—which has some intuitive appeal (larger trades might reflect more informed or committed participants).
+
+**Where this gets strained:** The interpretation requires you to believe that each price observation has noise variance inversely proportional to volume, and that you're estimating a single latent "true price." In reality, price *is* the sequence of transactions—there's no hidden $\theta$ being estimated. The Bayesian framing works mathematically but the generative model is somewhat artificial.
+
+**More natural Bayesian approaches** to price/order flow would involve things like updating beliefs about informed trading probability, or estimating latent intensity processes (as you've been exploring with Hawkes models), where the Bayesian structure maps more cleanly onto the actual data-generating process.
+
+So: you *can* derive VWMA from Bayes' rule, but it requires a specific (and somewhat contrived) probabilistic setup. It's more a post-hoc justification than a natural derivation.
+
+///
+
+Yeah, I guess not. I have much to learn. If VWMA is good enough to make a lot of money in QQQ trading, I guess better Bayesian models should do even better.
+
+5:45pm. https://youtu.be/9ixzzPQWuAY
+Inverse Transform Sampling : Data Science Concepts
+
+https://youtu.be/4sXiCxZDrTU
+Markov Chain Stationary Distribution : Data Science Concepts
+
+Let me watch these.
+
+5:55pm. ![](images/image-2019.png)
+
+My brain is full of fuck. What the hell, the uniform distribution is 1 by 1 square.
+
+I mean, if you integrated it, it would sum up to 1.
+
+Wtf? I've been imagining it as a discrete distribution with an infinite amount of buckets, I thought it should be near 0.
+
+I mean think about it.
+
+[1]
+[0.5; 0.5]
+[0.25; 0.25; 0.25; 0.25]
+
+That's how I was thinking about it, but in real space its pdf is always at 1, when x is in range of 0 to 1.
+
+No wait, what the hell. If `U(x) = 1` in range [0,1], then how does it make sense that probabilities for two different points in that range are both 1.
+
+If U(0.2) = 1, then it should stand to reason that for x <> 0.2 the probability should be 0.
+
+But wait, I mean even for a normal distribution, N(0,1) the points 0,0.00000001,0.00000002,0.00000003, 0.00000004 should have a probability above 1.
+
+6:05pm. Huh, I never realized that you cannot do logical reasoning about probabilities of individual points on the pdf.
+
+I guess you can only compare their probabilities in a relative manner. Point with a pdf value of 1 is twice as likely to appear than 0.5, for example, but it shouldn't be inferred that the acutal probability of that point is 1.
+
+6:40pm. Done with lunch.
+
+https://youtu.be/9ixzzPQWuAY?t=357
+
+I'll watch this to the end tomorrow, it's time to rest.
+
+Lol, yesterday I went to bed at 3am because I was playing Wrath of the Righteous. Hopefully I can cut that short today.
+
+https://youtu.be/4sXiCxZDrTU
+
+Let me also back this up here.

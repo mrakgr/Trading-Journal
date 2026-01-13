@@ -28926,7 +28926,7 @@ No wait, what the hell. If `U(x) = 1` in range [0,1], then how does it make sens
 
 If U(0.2) = 1, then it should stand to reason that for x <> 0.2 the probability should be 0.
 
-But wait, I mean even for a normal distribution, N(0,1) the points 0,0.00000001,0.00000002,0.00000003, 0.00000004 should have a probability above 1.
+But wait, I mean even for a normal distribution, N(0,1) the sum of the points 0,0.00000001,0.00000002,0.00000003, 0.00000004 should have a probability above 1.
 
 6:05pm. Huh, I never realized that you cannot do logical reasoning about probabilities of individual points on the pdf.
 

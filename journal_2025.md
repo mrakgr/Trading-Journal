@@ -28515,3 +28515,240 @@ I'll make it as a programmer.
 Stellar Blade is a 9.5/10 game. I got in for Eve, but stayed for the action. The last fifth of the game from the Orbital Station onwards is 10/10.
 
 I'll play the New Game+ eventually. I want to try something else for now.
+
+1/13/2025
+
+12pm. Fuck, I need to stop reading Pathfinder guides and start studying. Those Jacobians won't learn themselves.
+
+![](images/image-2011.png)
+
+Yeah, I am pretty sure they are doing this kind of trick in the paper, but some of the steps have been left out. I'll have to work them out.
+
+Also, if the RJ MCMC is just a restatement of the original algorithm, the big question is why do I need it at all.
+
+I get the sense that I could just use the original algorithm and it would be fine, because it's a huge burden to work with jacobians in the general sense.
+
+I am also not sure how to calculate the g' from the paper.
+
+Let me focus on this. I need to deal with these questions. I need to learn what I need to learn. The appointment yesterday took a bite out of my time.
+
+12:15pm. https://youtu.be/OXDqjdVVePY
+Accept-Reject Sampling : Data Science Concepts
+
+Let me watch this next. The jacobian vid was a straightforward calculus vid.
+
+12:20pm. ![](images/image-2012.png)
+
+Hmmm, all the missing scopes are making my head spin. If you do the substitution you run into variable naming issues. I am not sure what is what at all.
+
+![](images/image-2013.png)
+
+I can't really follow the substitution on page 6 here. In the integration video, I know that the integral itself and the variables should be changed. How exactly should that resulting form come out as?
+
+I can sort of see how it would be possible but....
+
+I'll also have to do some research on the acceptance probability. I think I do get most of the intuition though. But getting this far just makes it more confusing as to why the determinstic form is even necessary. It's not a new algorithm that works with variable number of dimensions, but just a restatement of the original algorithm.
+
+12:40pm. I've asked Opus to explain page 6.
+
+///
+
+Now I can see page 6. The key step is equation (7), where they substitute back from $(x', w')$ to $(x, w)$ on the right-hand side of equation (6). Let me break this down carefully.
+
+## The Setup
+
+Equation (6) is the integrated detailed balance condition rewritten in terms of the auxiliary variable $w$:
+
+$$\int_A \int_{B'} \pi(x) g(w) \alpha(x, x') \, dw \, dx = \int_B \int_{A'} \pi(x') g'(w') \alpha(x', x) \, dx' \, dw'$$
+
+The left side integrates over $(x, w)$. The right side integrates over $(x', w')$. The goal is to transform the right side back into an integral over $(x, w)$ so we can match integrands.
+
+## The Change of Variables
+
+Since $(x', w') = h(x, w)$ is a diffeomorphism (smooth, invertible), we can change variables on the right-hand side from $(x', w')$ back to $(x, w)$.
+
+The standard multivariable substitution rule says: if you have an integral $\int f(y) \, dy$ and you substitute $y = h(x)$, then
+
+$$\int f(y) \, dy = \int f(h(x)) \left| \det \frac{\partial y}{\partial x} \right| dx$$
+
+Here $y = (x', w')$ and $x = (x, w)$, so:
+
+$$dx' \, dw' = \left| \det \frac{\partial(x', w')}{\partial(x, w)} \right| dx \, dw$$
+
+## The Jacobian Matrix
+
+For the running example where $x' = x + \sigma w$ and $w' = -w$, the Jacobian matrix is:
+
+$$\frac{\partial(x', w')}{\partial(x, w)} = \begin{pmatrix} \frac{\partial x'}{\partial x} & \frac{\partial x'}{\partial w} \\ \frac{\partial w'}{\partial x} & \frac{\partial w'}{\partial w} \end{pmatrix} = \begin{pmatrix} 1 & \sigma \\ 0 & -1 \end{pmatrix}$$
+
+The determinant is $(1)(-1) - (\sigma)(0) = -1$, so the absolute value is $1$.
+
+## After Substitution
+
+The right-hand side becomes:
+
+$$\int_A \int_{B'} \pi(x') g'(w') \alpha(x', x) \left| \det \frac{\partial(x', w')}{\partial(x, w)} \right| dx \, dw$$
+
+Now both sides integrate over the same region with respect to $(x, w)$. For the integrals to be equal for **all** choices of sets $A$ and $B'$, the integrands must match:
+
+$$\pi(x) g(w) \alpha(x, x') = \pi(x') g'(w') \alpha(x', x) \left| \det \frac{\partial(x', w')}{\partial(x, w)} \right|$$
+
+## Solving for α
+
+Rearranging and using the MH "min" trick to ensure $\alpha \leq 1$:
+
+$$\alpha(x, x') = \min\left(1, \frac{\pi(x') g'(w')}{\pi(x) g(w)} \left| \det \frac{\partial(x', w')}{\partial(x, w)} \right| \right)$$
+
+## Why the Jacobian Appears
+
+The Jacobian accounts for how "volume" changes under the transformation $h$. Even though standard MH doesn't show a Jacobian, it's implicitly there — it just happens to equal 1 when proposals are specified directly as densities $q(x, x')$ rather than through deterministic functions of random draws.
+
+Does this clarify the substitution? I'm happy to work through the specific numerical example (the normal proposal case) if that would help solidify it.
+
+///
+
+Didn't know that markdown supported Latex. I can see the rendered formulas in the VS Code preview.
+
+12:40pm. ![](images/image-2014.png)
+
+This is really weird. f(y) to f(h(x)).
+
+What's the f(h(x)) in that formula though?
+
+***
+
+I don't understand the part in the 'After Substitution' section.
+
+I had to watch a video refresh my memory of how variable substitution works in integrals, but should the body of the integral after the substitution really be `π(x′)g′(w′)α(x′,x)`? The formula says that `f(y) = f(h(x))` so what are `f` and `h` in this context?
+
+***
+
+///
+
+You're right to push on this — let me be more precise.
+
+## Identifying f and h
+
+In the substitution formula $\int f(y) \, dy = \int f(h(x)) \left| \det J \right| dx$:
+
+- **h** is the transformation: $h(x, w) = (x', w')$
+- **y** is $(x', w')$
+- **f** is the entire integrand on the right-hand side of (6), viewed as a function of $(x', w')$:
+
+$$f(x', w') = \pi(x') \, g'(w') \, \alpha(x', x)$$
+
+## The Substitution Done Properly
+
+After substituting, $f(h(x,w))$ means: take $f(x', w')$ and replace every $(x', w')$ with $h(x, w)$.
+
+So the integrand becomes:
+
+$$f(h(x,w)) = \pi(\underbrace{x'(x,w)}_{\text{first component of } h}) \cdot g'(\underbrace{w'(x,w)}_{\text{second component of } h}) \cdot \alpha(x'(x,w), \, x)$$
+
+I was being sloppy by still writing $\pi(x')$ and $g'(w')$ after substitution. Technically these are now functions of $(x, w)$ through the mapping $h$. For example, in the normal proposal case where $h(x,w) = (x + \sigma w, -w)$:
+
+- $x' = x + \sigma w$
+- $w' = -w$
+
+So $\pi(x')$ really means $\pi(x + \sigma w)$, and $g'(w')$ really means $g'(-w)$.
+
+## Why the Shorthand Works
+
+The document keeps writing $\pi(x')$ and $g'(w')$ even after substitution because it's treating $x'$ and $w'$ as shorthand for "whatever $(x,w)$ maps to under $h$." This is common but admittedly confusing when you're trying to track the mechanics carefully.
+
+The key point is: after substitution, everything is now expressed in terms of $(x, w)$, so both sides of the equation integrate over the same variables, letting us match integrands.
+
+Does that clear it up?
+
+///
+
+Huh, is this how it really works?
+
+1:10pm. Yeah, it does. I had to think about it for a while, but it does.
+
+> What are `g` and `g'`?
+
+///
+
+Looking back at page 5 of the document:
+
+- **g** is the density of the auxiliary random variable $W$ that you draw when making a *forward* move from $x$ to $x'$
+
+- **g'** is the density of the auxiliary random variable $W'$ that you would need to draw when making the *reverse* move from $x'$ back to $x$
+
+## In the Running Example
+
+For the normal proposal $x' = x + \sigma w$ with $w' = -w$:
+
+- $W \sim N(0,1)$, so $g(w) = \frac{1}{\sqrt{2\pi}} e^{-w^2/2}$
+- $W' = -W$, which also has distribution $N(0,1)$ by symmetry, so $g'(w') = \frac{1}{\sqrt{2\pi}} e^{-w'^2/2}$
+
+In this case $g' = g$ because the normal distribution is symmetric around zero.
+
+## When They Differ
+
+In the RJMCMC example on pages 9–10 (Model 1 to Model 2), the forward move draws $w \sim \text{Unif}(0,1)$ to generate $r' = -\ln w$. But the reverse move doesn't require drawing anything — you just set $w' = e^{-r}$ deterministically from the current state. 
+
+So in that case, $g(w) = \mathbf{1}_{(0,1)}(w)$ appears in the forward acceptance ratio, but $g'(w')$ doesn't appear at all in the reverse move (or equivalently, you can think of it as $g'$ being a point mass, which is why it shows up in one direction but not the other).
+
+///
+
+I'll look into page 9 and 10 later, but I just have to say that these powers of comprehension are really remarkable. I had no idea what `g'` was supposed to be. Still isn't this wrong though?
+
+Oh, no wait, `w` really is drawn from the normal. I thought it was drawn from the uniform. Silly me. Now I am confusing the bot.
+
+> In the running example is g(w) really supposed to be the normal distribution? I thought it would be the uniform distribution.
+
+///
+
+You're completely right. I conflated two different examples.
+
+The document presents **two** versions of the normal proposal on page 4:
+
+1. $x' = x + w$ where $w \sim N(0, \sigma^2)$
+2. $x' = x + \sigma w$ where $w \sim N(0, 1)$
+
+But then at the bottom of page 5, when it defines $q(x, x')$ for "our particular example," it says:
+
+> $q(x, x') = g(w)$ where $w$ is such that $x' = x + \sigma w$ and $g(w) := N(w; 0, 1)$ is the $N(0,1)$ pdf.
+
+So the document *is* using the normal distribution for $g$ in the running example that carries into page 6.
+
+**However**, you might be thinking of the RJMCMC example that starts on page 7, where the Model 1 → Model 2 move uses $w \sim \text{Unif}(0,1)$ to generate $r' = -\ln w$. There, $g(w) = \mathbf{1}_{(0,1)}(w)$ is indeed the uniform distribution.
+
+So both distributions appear, but in different examples:
+- Pages 4–6 (MH through deterministic functions): $g$ is $N(0,1)$
+- Pages 9–10 (RJMCMC model jumping): $g$ is $\text{Unif}(0,1)$
+
+Does that match your reading?
+
+///
+
+> Yeah, I was mistaking two different concepts. I am just wondering, what is the pdf of the uniform distribution?
+
+///
+
+The pdf of the uniform distribution on $(0, 1)$ is just:
+
+$$g(w) = \begin{cases} 1 & \text{if } w \in (0, 1) \\ 0 & \text{otherwise} \end{cases}$$
+
+Or more compactly: $g(w) = \mathbf{1}_{(0,1)}(w)$
+
+It's constant because every value in the interval is equally likely. And it has to be 1 (not some other constant) so that the density integrates to 1 over the whole real line:
+
+$$\int_{-\infty}^{\infty} g(w) \, dw = \int_0^1 1 \, dw = 1$$
+
+///
+
+This is how you define the uniform distribution? Unbelievable.
+
+Makes sense though.
+
+1:25pm. Let me take a break here. I feel like I understand the algorithm a lot better now.
+
+I have two things left I need to study:
+
+* The acceptance probability.
+* Since the two algorithms are equivalent, why is the deterministic form necessary.
+
+If I can understand these two things, I'll be able to understand MCMC completely.

@@ -28770,8 +28770,14 @@ Since my departure in early September, the Tao Ceti AI token price has lost 90% 
 
 The social media activity seems to have ceased since November. Crystal was responsible for these. I wonder if she's still there? I am not going to go to Discord to see what is going on. I was banned from the whole Ceti group and it'd be pathetic to try to get back.
 
-Let me just say in case anybody does research on this that there was definitely real work being done while I was there, and a lot of code was written with the intention of being used. If the founders hadn't decided that they'd rather bet it all on Bitcoin, it could have still been in business. I regret losing the connection to Logris, and I never could get along with Curtis despite my wishes to the contrary, and I really did like the first six months before the incompetence of it all came out. Not being able to open a Stripe account meant the company couldn't do business of selling tokens to regular users as well as on OpenRouter and then the treasury being plunged into Bitcoin revelation rocked me, and then during the last week I got in a heated argument with the rest of the time over some irrelevant issues, and I got fired on Friday.
+Let me just say in case anybody does research on this that there was definitely real work being done while I was there, and a lot of code was written with the intention of being used. If the founders hadn't decided that they'd rather bet it all on Bitcoin, it could have still been in business. I regret losing the connection to Logris, and I never could get along with Curtis despite my wishes to the contrary, and I really did like the first six months before the incompetence of it all came out. Not being able to open a Stripe account meant the company couldn't do business of selling tokens to regular users as well as on OpenRouter and then the treasury being plunged into Bitcoin revelation rocked me, and then during the last week I got in a heated argument with the rest of the team over some irrelevant issues, and I got fired on Friday.
 
 I guess now that it's down 90% it seems safe to say that my exit was timed well.
 
 Let me go back to studying acceptance ratios.
+
+4:45pm. ![](images/image-2017.png)
+
+I am really taking my time in studying this. This is pretty amazing math. Shouldn't `D(s|A)` be 1?
+
+...Let me watch the actual video.

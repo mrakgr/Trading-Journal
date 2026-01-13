@@ -28752,3 +28752,12 @@ I have two things left I need to study:
 * Since the two algorithms are equivalent, why is the deterministic form necessary.
 
 If I can understand these two things, I'll be able to understand MCMC completely.
+
+4pm. Let me resume.
+
+https://youtu.be/OXDqjdVVePY
+Accept-Reject Sampling : Data Science Concepts
+
+I need to learn a bit more.
+
+Then I'll get back to Opus.

@@ -28761,3 +28761,17 @@ Accept-Reject Sampling : Data Science Concepts
 I need to learn a bit more.
 
 Then I'll get back to Opus.
+
+4:20pm. ![](images/image-2015.png)
+
+Since my departure in early September, the Tao Ceti AI token price has lost 90% of its value. Given that the insiders aren't buying it on the cheap, it's fair to say that the company has ceased.
+
+![](images/image-2016.png)
+
+The social media activity seems to have ceased since November. Crystal was responsible for these. I wonder if she's still there? I am not going to go to Discord to see what is going on. I was banned from the whole Ceti group and it'd be pathetic to try to get back.
+
+Let me just say in case anybody does research on this that there was definitely real work being done while I was there, and a lot of code was written with the intention of being used. If the founders hadn't decided that they'd rather bet it all on Bitcoin, it could have still been in business. I regret losing the connection to Logris, and I never could get along with Curtis despite my wishes to the contrary, and I really did like the first six months before the incompetence of it all came out. Not being able to open a Stripe account meant the company couldn't do business of selling tokens to regular users as well as on OpenRouter and then the treasury being plunged into Bitcoin revelation rocked me, and then during the last week I got in a heated argument with the rest of the time over some irrelevant issues, and I got fired on Friday.
+
+I guess now that it's down 90% it seems safe to say that my exit was timed well.
+
+Let me go back to studying acceptance ratios.

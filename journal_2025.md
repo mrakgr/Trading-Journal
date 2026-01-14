@@ -28964,3 +28964,16 @@ Also, I trying to figure out how to play it with a gamepad. My RSI is making it 
 At any rate, I need to focus on the videos. In the middle here, how can he just take the inverse transform of the argument under equality. That makes no sense.
 
 ...Maybe it makes sense for the uniform distribution?
+
+12:35pm. Let me take a break here. Damn it, I am just going to focus on the two vids from yesterday from today. I am super tired, and I want to game. But I should be able to figure this stuff out if I focus.
+
+12:55pm. ![](images/image-2021.png)
+
+Is what he is writing on the blackboard here sensible at all?
+
+```
+T(u) = X
+Fx(x) = P(X <= x)
+```
+
+This is causing my brain to fail compilation. What he is writing sort of makes sense if you step back, but once I dig in, it stops making sense.

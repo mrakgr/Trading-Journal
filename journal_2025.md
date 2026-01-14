@@ -28943,3 +28943,24 @@ Lol, yesterday I went to bed at 3am because I was playing Wrath of the Righteous
 https://youtu.be/4sXiCxZDrTU
 
 Let me also back this up here.
+
+1/14/2025
+
+11:45am. If I am going to be going to bed past 3am on the reg now, maybe I should just take a break from work in order to get my game time in?
+
+https://youtu.be/9ixzzPQWuAY
+Inverse Transform Sampling : Data Science Concepts
+
+Let me watch this.
+
+11:55am. ![](images/image-2020.png)
+
+Mhhhh, damn I am groggy.
+
+I keep thinking how I should build my party in Pathfinder. I never should have botted that particular game. The early game is so annoying too. In Kingmaker, I was playing on Unfair, but to make that work you have to micromanage the CC spells and buff your party before every battle which is very tedious. I am trying not to fall into the trap of wasting so much of my time again on that. Maybe I should just turn the difficulty to casual?
+
+Also, I trying to figure out how to play it with a gamepad. My RSI is making it hell to play with the mouse. My condition hasn't gotten much better at all, and I can only game with the gamepad. Now, at least the game has a separate UI for gaming with the gamepad. But the UI isn't that great.
+
+At any rate, I need to focus on the videos. In the middle here, how can he just take the inverse transform of the argument under equality. That makes no sense.
+
+...Maybe it makes sense for the uniform distribution?

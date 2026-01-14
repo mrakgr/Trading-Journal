@@ -28977,3 +28977,7 @@ Fx(x) = P(X <= x)
 ```
 
 This is causing my brain to fail compilation. What he is writing sort of makes sense if you step back, but once I dig in, it stops making sense.
+
+2:15pm. ![](images/image-2022.png)
+
+Wow, I didn't know you could use vision of madness on the enemies. Also yesterday I learned that there is a metamagic feat to avoid friendly fire on spells like grease. That would make them so much more less tedious to use. I really want to learn how to play this game in real time as opposed to turn based because turn based takes so much time.

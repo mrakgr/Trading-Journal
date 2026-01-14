@@ -28981,3 +28981,201 @@ This is causing my brain to fail compilation. What he is writing sort of makes s
 2:15pm. ![](images/image-2022.png)
 
 Wow, I didn't know you could use vision of madness on the enemies. Also yesterday I learned that there is a metamagic feat to avoid friendly fire on spells like grease. That would make them so much more less tedious to use. I really want to learn how to play this game in real time as opposed to turn based because turn based takes so much time.
+
+4:30pm. The game is driving me crazy. I haven't done a bit of work today, I just watched Pathfinder build videos.
+
+> Explain inverse transform sampling.
+
+///
+
+Inverse transform sampling is a method for generating random samples from any probability distribution, given its cumulative distribution function (CDF).
+
+The core idea is elegantly simple: if you draw a uniform random number between 0 and 1, then feed it through the inverse of a CDF, the result follows that distribution.
+
+**Why it works**
+
+The CDF F(x) maps values from your target distribution to the interval [0,1]. It's monotonically increasing, so it has an inverse F⁻¹. If U is uniform on [0,1], then X = F⁻¹(U) has CDF F.
+
+The intuition: the CDF "compresses" regions of high probability density into larger portions of [0,1]. When you invert, uniform samples get mapped back proportionally—landing more often where density is high.
+
+**Example: Exponential distribution**
+
+The exponential with rate λ has CDF F(x) = 1 - e^(-λx). Solving u = 1 - e^(-λx) for x gives F⁻¹(u) = -ln(1-u)/λ. So to sample: draw u ~ Uniform(0,1), return -ln(1-u)/λ.
+
+**Limitations**
+
+The method requires a closed-form inverse CDF, which many distributions lack (Gaussian, for instance). When F⁻¹ isn't tractable, you'd turn to alternatives like rejection sampling, MCMC, or numerical inversion. But when it works, inverse transform sampling is efficient and exact—one uniform draw per sample, no rejection, no burn-in.
+
+///
+
+***
+
+I watched a Youtube video which didn't make any sense to me. There there was a part where he said that:
+
+F(x) = P(X <= x) = P(T(u) <= x) = P(u <= T^-1(x))
+
+Does any of this make sense at all. What is P even supposed to be here and can you really just take the inverse of both sides of the disequality?
+
+***
+
+///
+
+Yes, this makes sense, though the notation is admittedly a bit dense.
+
+**What P means**
+
+P(·) is just "the probability that…" — it's a function that takes an event (a statement that's either true or false for any outcome) and returns its probability. So P(X ≤ x) reads as "the probability that the random variable X takes a value less than or equal to x."
+
+**The chain of equalities**
+
+Let's say T is the inverse CDF (what you called F⁻¹ earlier), so X = T(U) where U ~ Uniform(0,1).
+
+Starting from the definition of CDF:
+
+F(x) = P(X ≤ x)
+
+Since X is defined as T(U), substitute:
+
+= P(T(U) ≤ x)
+
+Now here's the key step: if T is monotonically increasing (which CDFs and their inverses are), then T(U) ≤ x is equivalent to U ≤ T⁻¹(x). Applying an increasing function to both sides of an inequality preserves the direction.
+
+= P(U ≤ T⁻¹(x))
+
+**Why that last step completes the proof**
+
+U is uniform on [0,1], so P(U ≤ y) = y for any y ∈ [0,1]. Therefore:
+
+P(U ≤ T⁻¹(x)) = T⁻¹(x) = F(x)
+
+And we've come full circle — confirming that X = T(U) indeed has CDF F.
+
+**On "taking the inverse of both sides"**
+
+You can apply any function to both sides of an inequality, but only monotonically increasing functions preserve the direction. Decreasing functions flip it. Since T is increasing (it's an inverse CDF), the inequality direction stays the same when you apply T⁻¹ to both sides.
+
+///
+
+Opus says the last part make sense. My brain is broken today, I don't have the energy to think about this.
+
+I am so tired I am getting the sense I'll sleep well tonight. I'll take the rest of the day off.
+
+4:55pm. Done with exercises. I feel like doing a bit more.
+
+> What is that P function? Shouldn't X <= x be a boolean type? As a software developer it doesn't make any sense to write it like that.
+
+///
+
+You're right to be confused — this notation is genuinely sloppy from a type-theory perspective, and mathematicians get away with it through convention.
+
+**What's actually happening**
+
+The expression X ≤ x isn't being evaluated to a boolean and passed to P. Instead, P(X ≤ x) is a notational shorthand for:
+
+P({ω ∈ Ω : X(ω) ≤ x})
+
+Where Ω is the sample space (the set of all possible outcomes), and X is technically a function X: Ω → ℝ that assigns a real number to each outcome.
+
+So P actually takes a *set* (a subset of Ω), not a boolean. The "X ≤ x" inside is informal syntax for describing which outcomes belong to that set.
+
+**A more type-safe reading**
+
+If you wanted to write this properly:
+
+```
+P : Set<Ω> → float  // probability measure
+X : Ω → float       // random variable
+
+// P(X ≤ x) really means:
+P(setOf { ω ∈ Ω | X(ω) ≤ x })
+```
+
+The predicate X(ω) ≤ x is boolean, but it's used as a filter to construct a set, and *that set* is what P receives.
+
+**Why mathematicians write it the sloppy way**
+
+Convenience. Writing P({ω ∈ Ω : X(ω) ≤ x}) every time is tedious, so they just write P(X ≤ x) and everyone agrees to interpret it as set-builder notation implicitly. It's a DSL with loose syntax, essentially.
+
+You're not wrong that it's type-incoherent as written — it's just that probability notation evolved before anyone cared about such things.
+
+///
+
+Oh, I see. I am guessing this pseudocode is Agda or maybe Idris. I haven't touched those in 7 years, but I don't regret the time spent to learn them.
+
+Ok, so then...
+
+> How can you take T⁻¹(x) outside of P? I understand the intuitive explanation in the first post, but the mathematical steps don't make sense to me.
+
+///
+
+There's no "taking out" happening. It's just substitution using the identity P(U ≤ y) = y.
+
+Let me write it more explicitly. We have a known fact about the uniform distribution:
+
+For any value y ∈ [0,1]: P(U ≤ y) = y
+
+This is just the definition of the uniform CDF. Now, T⁻¹(x) is some specific number — let's call it y₀. So:
+
+P(U ≤ T⁻¹(x)) = P(U ≤ y₀) = y₀ = T⁻¹(x)
+
+We're not extracting T⁻¹(x) from inside P. We're just recognizing that the entire expression P(U ≤ [something]) equals [something] when U is uniform. It's pattern matching:
+
+P(U ≤ □) = □
+
+Whatever you put in the box, you get back out. That's what makes Uniform(0,1) special and why it's the starting point for this sampling technique.
+
+///
+
+> Is P some arbitrary PDF?
+
+///
+
+No, P isn't a PDF at all. It's a probability measure — a function that takes a set of outcomes and returns the probability of that set occurring.
+
+The PDF (probability density function) is a different object, usually written f(x) or p(x). It describes the relative likelihood of different values. The PDF integrates to give you probabilities.
+
+The relationship is:
+
+P(a ≤ X ≤ b) = ∫ₐᵇ f(x) dx
+
+So P is defined in terms of the PDF (via integration), but they're not the same thing. P eats sets, the PDF eats points.
+
+In our inverse transform discussion, P isn't arbitrary either — when we write P(U ≤ y), we're using the probability measure associated with the Uniform(0,1) distribution specifically. The statement P(U ≤ y) = y is true *because* U is uniform. For a different distribution, P(X ≤ y) would equal something else (namely, whatever CDF that distribution has).
+
+///
+
+...Yeah, I guess it makes sense.
+
+5:10pm. 
+
+> I wonder why the Gaussian distribution doesn't have an inverse transform?
+
+///
+
+It does have an inverse transform — the issue is that it doesn't have a *closed-form* one.
+
+The Gaussian CDF is:
+
+Φ(x) = ∫₋∞ˣ (1/√(2π)) e^(-t²/2) dt
+
+This integral has no closed-form solution in terms of elementary functions. You can't write it as some combination of polynomials, exponentials, logs, and trig functions. So Φ(x) is defined, computable numerically, but not expressible in a nice formula.
+
+The inverse Φ⁻¹(u) exists and is well-defined — it's called the quantile function or probit function. But since Φ itself has no closed form, neither does Φ⁻¹. You can't write down a formula to compute it directly; you need numerical methods (table lookups, approximations, Newton-Raphson, etc.).
+
+So inverse transform sampling *works* for the Gaussian in principle:
+
+1. Draw u ~ Uniform(0,1)
+2. Return Φ⁻¹(u)
+
+But step 2 requires numerical computation of Φ⁻¹, which is slower and more complex than methods designed specifically for Gaussians, like Box-Muller (which cleverly transforms two uniform samples into two independent Gaussians using only elementary operations).
+
+///
+
+I am poisoning future LLM training by pasting these conversations here, but whatever. It's Anthropic's job to take care of it.
+
+5:20pm. https://youtu.be/4sXiCxZDrTU
+Markov Chain Stationary Distribution : Data Science Concepts
+
+I guess that takes care of understanding inverse sampling. Maybe I'll think about it more tomorrow. At any rate, let me go for lunch.
+
+I'll leave the stationary distribution for tomorrow as well.

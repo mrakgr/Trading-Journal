@@ -29179,3 +29179,9 @@ Markov Chain Stationary Distribution : Data Science Concepts
 I guess that takes care of understanding inverse sampling. Maybe I'll think about it more tomorrow. At any rate, let me go for lunch.
 
 I'll leave the stationary distribution for tomorrow as well.
+
+1/15/2025
+
+12:05pm. I've rested much better today. Yesterday I spent a bunch of time watching Pathfinder WotR videos so I roughly know how to plan my actions now.
+
+I guess I'll do my morning reading, have breakfast, do the chores and then get started on the stationary distribution video. After that I'll watch the MCMC video that caught my eye. Or rather, I think I need to have Opus walk me through a few example of RJ MCMC.

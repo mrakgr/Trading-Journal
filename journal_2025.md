@@ -29215,3 +29215,7 @@ https://youtu.be/7H7IvSSty0k
 Why do we need MCMC and how does it work? -- Ben Lambert (Oxford)
 
 Actually let me try watching this since I already had it open.
+
+3:40pm. ![](images/image-2024.png)
+
+This is a good point. This gives me a reason why swaps should be random instead of just adjacent. I'll have to change the way the day session episodes are being perturbed.

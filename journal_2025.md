@@ -29475,3 +29475,22 @@ I shouldn't be watching these kinds of videos, but I cannot help myself. US is o
 5:35pm. Ok, focus me. What is next?
 
 I am not going to start programming right now, so let me check out Hamiltonian MCMC.
+
+https://youtu.be/2zr7cMjltAI
+MCMC - 5 - Hamiltonian Monte Carlo (HMC)
+
+Oh, yeah, I should also look into Gibbs sampling. I forgot what it was.
+
+5:45pm. ![](images/image-2026.png)
+
+https://www.youtube.com/@MeerkatStatistics
+
+This is a good channel. I should watch more of it later.
+
+![](images/image-2027.png)
+
+Yeah, this is a good time to expand my horizons a bit.
+
+![](images/image-2028.png)
+
+So the proposal distribution is based on an exponential one?

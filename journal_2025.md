@@ -29185,3 +29185,17 @@ I'll leave the stationary distribution for tomorrow as well.
 12:05pm. I've rested much better today. Yesterday I spent a bunch of time watching Pathfinder WotR videos so I roughly know how to plan my actions now.
 
 I guess I'll do my morning reading, have breakfast, do the chores and then get started on the stationary distribution video. After that I'll watch the MCMC video that caught my eye. Or rather, I think I need to have Opus walk me through a few example of RJ MCMC.
+
+2:35pm. Let me finally start.
+
+https://youtu.be/4sXiCxZDrTU
+Markov Chain Stationary Distribution : Data Science Concepts
+
+https://youtu.be/R13BD8qKeTg
+The Bayesian Trap
+
+Let me watch the second video first though.
+
+3:10pm. Goddamit, why didn't I save that lecture video. I am having trouble finding it again.
+
+At any rate, I am done with these vids.

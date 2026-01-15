@@ -29471,3 +29471,7 @@ https://youtu.be/yMRl7bv9KTY
 Denmark's Response to Trump is BRILLIANT - European Troops Deployed to Greenland
 
 I shouldn't be watching these kinds of videos, but I cannot help myself. US is out of control since Trump took office.
+
+5:35pm. Ok, focus me. What is next?
+
+I am not going to start programming right now, so let me check out Hamiltonian MCMC.

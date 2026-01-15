@@ -29464,3 +29464,10 @@ Yeah, great. It understands a lot of these concepts better than I do it seems. T
 I guess you could say that I don't understand the RJ MCMC algorithm well enough to reproduce it.
 
 5:20pm. Sometimes very simple math can be very deep. This is one of those cases.
+
+5:25pm. Taking a short break to watch Youtube.
+
+https://youtu.be/yMRl7bv9KTY
+Denmark's Response to Trump is BRILLIANT - European Troops Deployed to Greenland
+
+I shouldn't be watching these kinds of videos, but I cannot help myself. US is out of control since Trump took office.

@@ -29199,3 +29199,14 @@ Let me watch the second video first though.
 3:10pm. Goddamit, why didn't I save that lecture video. I am having trouble finding it again.
 
 At any rate, I am done with these vids.
+
+https://youtu.be/6TV5tLCAPBE
+Lecture 17. Markov Chain Monte Carlo and Metropolis-Hasting Algorithm
+
+It might have been this one.
+
+Honestly instead of watching this I should just talk to Opus instead.
+
+![](images/image-2023.png)
+
+Nevermind this shit. Let me talk to Opus. I am just going to fall asleep at this rate.

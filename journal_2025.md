@@ -29223,3 +29223,9 @@ This is a good point. This gives me a reason why swaps should be random instead 
 4pm. Let me think.
 
 I am not going to watch anymore Youtube vids on this. Let me take a break here and then I'll just go to the finish line by talking to Opus.
+
+4:30pm. Let me resume. Time to figure out the acceptance probability.
+
+4:40pm. ![](images/image-2025.png)
+
+Wow, is this how it works. It does make sense!

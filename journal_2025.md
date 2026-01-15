@@ -29210,3 +29210,8 @@ Honestly instead of watching this I should just talk to Opus instead.
 ![](images/image-2023.png)
 
 Nevermind this shit. Let me talk to Opus. I am just going to fall asleep at this rate.
+
+https://youtu.be/7H7IvSSty0k
+Why do we need MCMC and how does it work? -- Ben Lambert (Oxford)
+
+Actually let me try watching this since I already had it open.

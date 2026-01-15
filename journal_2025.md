@@ -29494,3 +29494,5 @@ Yeah, this is a good time to expand my horizons a bit.
 ![](images/image-2028.png)
 
 So the proposal distribution is based on an exponential one?
+
+6:35pm. Ok, let me play WotR here. Tomorrow, I am not sure what I'll do. Maybe watch more vids, or maybe I'll do some programming. We'll see.

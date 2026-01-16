@@ -29711,3 +29711,7 @@ I do think I could just use the probabilities of the unbiased estimator for this
 Like imagine I am doing some optimization of on categorical distributions. The probability it would be in that state `y ~ p(z|x)` is just `p(y|x)`.
 
 3:40pm. Let me go do the chores here.
+
+6:15pm. Done with the bath. I am doing a lot of thinking. I think a nested scheme where the parent likelihoods don't depends on child likelihoods will be a lot easier to deal with and it will be the approach we'll take. But I need to take more time to familiarize myself with nested MCMC schemes. I'll just focus on that.
+
+I think once I've dealt with small scale generative modeling, nothing will stop me from dealing with the order flow system. So I should just sit tight and believe in myself. There isn't **that** much work left to be done. I just need to attain the necessary understanding and it will all come to me.

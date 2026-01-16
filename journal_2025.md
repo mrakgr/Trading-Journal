@@ -29505,3 +29505,7 @@ https://youtu.be/TsSbW4MYWbM?list=PLJ71tqAZr195v4B42fOGzHMjHBR0bWw1X
 SBI - Simulation Based Inference - 1 - Intro
 
 I've never heard about SBI, so I might as well check it out.
+
+11:40am. ![](images/image-2029.png)
+
+You know what, nevermind this.

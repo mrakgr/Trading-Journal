@@ -29509,3 +29509,9 @@ I've never heard about SBI, so I might as well check it out.
 11:40am. ![](images/image-2029.png)
 
 You know what, nevermind this.
+
+Let me just refresh my memory of VI for a bit.
+
+12pm. ![](images/image-2030.png)
+
+Let me start for real. With what I know about MCMC now, I am not sure how I'd express the problem in terms of VI. I want to understand it better.

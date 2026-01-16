@@ -29496,3 +29496,12 @@ Yeah, this is a good time to expand my horizons a bit.
 So the proposal distribution is based on an exponential one?
 
 6:35pm. Ok, let me play WotR here. Tomorrow, I am not sure what I'll do. Maybe watch more vids, or maybe I'll do some programming. We'll see.
+
+1/16/2025
+
+11:25am. I am up. Let me start. With what exactly? I guess I'll check out the channel from yesterday.
+
+https://youtu.be/TsSbW4MYWbM?list=PLJ71tqAZr195v4B42fOGzHMjHBR0bWw1X
+SBI - Simulation Based Inference - 1 - Intro
+
+I've never heard about SBI, so I might as well check it out.

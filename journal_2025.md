@@ -29515,3 +29515,159 @@ Let me just refresh my memory of VI for a bit.
 12pm. ![](images/image-2030.png)
 
 Let me start for real. With what I know about MCMC now, I am not sure how I'd express the problem in terms of VI. I want to understand it better.
+
+12:20pm. Sigh, yesterday I slept well, but today I went to bed past 3am again. And today I am tired.
+
+12:35pm. ![](images/image-2031.png)
+
+Damn it, I cannot follow the math here again.
+
+***
+
+I need you to explain VI to me. I am watching a video and I cannot understand a particular step in the derivation. Namely...
+
+`KL(q(z) ||  p(z|x)) = integrate (q(z) * log(q(z) / p(z|x)) dz) = E_z~q[log(q(z))] - E_z~q[log(p(z|x))]`
+
+Where did the multiplication by the q(z) disappear?
+
+***
+
+///
+
+The multiplication by `q(z)` didn't disappear—it got absorbed into the definition of the expectation.
+
+Recall that for any function `f(z)`, the expectation under distribution `q` is:
+
+`E_z~q[f(z)] = ∫ q(z) * f(z) dz`
+
+So when you have:
+
+`∫ q(z) * log(q(z)/p(z|x)) dz`
+
+This is literally the definition of `E_z~q[log(q(z)/p(z|x))]`.
+
+Then you just split the log of a ratio into a difference of logs:
+
+`E_z~q[log(q(z)/p(z|x))] = E_z~q[log(q(z)) - log(p(z|x))] = E_z~q[log(q(z))] - E_z~q[log(p(z|x))]`
+
+The `q(z)` is still there—it's implicit in the subscript `z~q`. Every time you see `E_z~q[...]`, there's a `q(z)` weighting function hiding inside the integral.
+
+///
+
+Ah, I see, the `q(z)` got absorbed.
+
+> In one of the later steps they split `E[log(p(z|x))]` into `-E[log(p(z,x))]+log(px)`. Could you explain the steps? I think it's an application of the bayes rule.
+
+///
+
+Exactly, it's Bayes' rule.
+
+Start with:
+
+`p(z|x) = p(x,z) / p(x)`
+
+Take the log of both sides:
+
+`log(p(z|x)) = log(p(x,z)) - log(p(x))`
+
+Now take the expectation under `q(z)`:
+
+`E_z~q[log(p(z|x))] = E_z~q[log(p(x,z))] - E_z~q[log(p(x))]`
+
+Here's the key insight: `p(x)` doesn't depend on `z` at all—it's just a constant with respect to the expectation. So:
+
+`E_z~q[log(p(x))] = log(p(x)) * E_z~q[1] = log(p(x))`
+
+Since `q(z)` is a proper probability distribution, it integrates to 1.
+
+Therefore:
+
+`E_z~q[log(p(z|x))] = E_z~q[log(p(x,z))] - log(p(x))`
+
+Or rearranging with the negative sign from your original expression:
+
+`-E_z~q[log(p(z|x))] = -E_z~q[log(p(x,z))] + log(p(x))`
+
+This is the crucial step in deriving the ELBO, because `p(z|x)` (the true posterior) is intractable, but `p(x,z)` (the joint) is something you can actually compute from your model.
+
+///
+
+Ok, I see. I wouldn't be able to use this to sample from a length contrained distribution like the ones I'll be using to generate training data.
+
+> Have there been any new algorithmic developments in the field of Bayesian statistics in the last few years that I should know about?
+
+///
+
+There have been several notable algorithmic developments in Bayesian statistics over the past few years that would be relevant for your quantitative work:
+
+**Normalizing Flows for Variational Inference**
+
+Normalizing flows have matured significantly as an alternative to MCMC. They transform simple base distributions through invertible neural networks to approximate complex posteriors. This is particularly useful when you need fast inference at scale—you train once and can then sample nearly instantly. For financial applications where you might need to update beliefs in near real-time, this can be more practical than running full MCMC chains.
+
+**Simulation-Based Inference (SBI)**
+
+Also called likelihood-free inference or amortized inference. Methods like Neural Posterior Estimation and Sequential Neural Posterior Estimation have become quite practical. If you have a generative model (like your agent-based simulations for synthetic training data) but the likelihood is intractable, you can train a neural network to directly learn the posterior from simulated data. This could be relevant for your order flow work where the true data-generating process is complex.
+
+**Pathfinder Algorithm**
+
+Developed by the Stan team around 2022—a variational method that's much faster than full HMC/NUTS while often giving reasonable approximations. Useful for quick exploratory analysis or as initialization for more expensive samplers.
+
+**Stochastic Gradient MCMC Refinements**
+
+Methods like SGLD (Stochastic Gradient Langevin Dynamics) and its variants have seen continued refinement for handling large datasets. If you're processing substantial tick-level data, these let you do proper Bayesian inference without needing the full dataset in memory for each iteration.
+
+**Advances in RJMCMC and Trans-dimensional Methods**
+
+Given your work with episode modeling and fixed duration constraints, there's been progress on making reversible-jump methods more automatic—better proposal mechanisms and adaptive schemes that reduce the manual tuning burden.
+
+Would you like me to dig deeper into any of these, particularly in the context of your order flow or MCMC episode modeling work?
+
+///
+
+1:10pm. Let me eat here. I am done with my studies. You know, optimizing the whole problem end to end would be quite difficult with MCMC.
+
+Maybe I could look into SBI more? It's my first time hearing about it today, and it does sound very relevant to my work.
+
+I am too tired to program today anyway. Let me leave that for tomorrow. VI won't be that useful for me, but perhaps I could add some more stuff to my toolkit.
+
+2:20pm. 
+
+///
+
+>>61650502
+The correct answer is that everything you're using AI for yourself is AI proof whether that be art, writing or programming. It's only when you try to outrun a car that you lose.
+
+///
+
+I wanted to post this in a thread as a reply, but the Capchas are brutal...
+
+Ok, I've managed it.
+
+This is ridiculous. I am so tired today.
+
+2:25pm. Studying and exercising when you're tired is the worst.
+
+But I keep doing that to myself. It's not like I had to play till 2am yesterday.
+
+It's like a reaction against working. My own goals are the worst. I feel like I should be working super hard every day and I am rebeling against that.
+
+It's beyond stupid.
+
+Ah whatever. Let me study simulation based vids.
+
+https://youtu.be/TsSbW4MYWbM?list=PLJ71tqAZr195v4B42fOGzHMjHBR0bWw1X
+SBI - Simulation Based Inference - 1 - Intro
+
+2:35pm. ![](images/image-2032.png)
+
+Ah forget it, I am not into this. MH MCMC + regular supervised learning should be enough to get me what I want.
+
+Let me do my daily chores and then I'll stop for the day. I'll take some time off to think about what I am going to do tomorrow.
+
+Bayesian inference is similar to RL in the sense that maximalist positions don't work for it. Minimalist positions are much more beneficial.
+
+I think I have everything that I need right now. I just have to roll up my sleeves and get cracking.
+
+Coming to an understanding of MCMC was a great gain. It took me a whole week, but I've done my tour of it. For small scale problems it's really good. And for large scale problems I should be using generative NNs anyway.
+
+It's a tiny little tool that will make me a lot richer.

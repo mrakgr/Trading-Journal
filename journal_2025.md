@@ -30308,3 +30308,100 @@ Thinking about how particle MH MCMC works gave me the intuition. It really isn't
 What it teaches me that the unbiased samplers can be composed.
 
 Tabular RL, CFR, and now MCMC. These graph algorithms are amazing.
+
+3:55pm. Done with the trio: chores, exercises and breakfsat.
+
+I don't want to program today, I might take off early, but for now let me satisfy some of my curiosity.
+
+> I've learned about particle filtering years ago, and my memory of it is rusty. I've never really understood why resampling works. Wouldn't that make it biased?
+
+///
+
+The confusion is natural because resampling does introduce bias in estimating expectations of the particles themselves—but the likelihood estimate remains unbiased, which is what matters for the algorithm's validity.
+
+## Why resampling is necessary
+
+Without resampling, you'd just propagate particles forward and accumulate weights. After many time steps, you get weight degeneracy: one particle has weight ≈1 and all others have weight ≈0. Your effective sample size collapses to 1, and you're essentially running a single trajectory. Resampling combats this by pruning low-weight particles and duplicating high-weight ones.
+
+## The accounting trick
+
+The key is how the likelihood estimate is constructed. At each step you compute:
+
+$$\hat{p}(y_t | y_{1:t-1}) = \frac{1}{N} \sum_{n=1}^{N} w_t^{(n)}$$
+
+This is the average unnormalized weight before resampling. The full likelihood estimate is the product:
+
+$$\hat{p}(y_{1:T}) = \prod_{t=1}^{T} \left( \frac{1}{N} \sum_{n=1}^{N} w_t^{(n)} \right)$$
+
+Resampling happens after you've recorded this contribution to the likelihood. You normalize weights, resample, then set all weights back to 1. The next iteration's weights measure how well the resampled particles explain the next observation.
+
+So resampling affects which particles survive, but the likelihood contribution from each step is locked in before resampling occurs. The expectation of this product equals the true likelihood—this can be proven by induction, conditioning on the particle history at each step.
+
+## The intuition
+
+Think of it as importance sampling with a twist. You're sampling trajectories from a proposal distribution (the transition dynamics) and reweighting by how well they match observations. Resampling is just a variance reduction technique that focuses computational effort on promising regions. It changes the distribution of particles but the weights account for this, keeping the overall estimator valid.
+
+///
+
+Once again in the WebUI the Latex doesn't render properly.
+
+...Ah, I see. Yeah, it would be the unbiased estimate at the first timestep, and after resampling it would be unbiased in expectation. Wow, how smart.
+
+But it wouldn't be unbiased in expectation if we did elitist crossover like genetic algos do. I see.
+
+4:10pm. 
+
+> What is the algorithm for Gibbs sampling in pseudocode?
+
+///
+
+Basic Gibbs sampling:
+
+```
+Algorithm: Gibbs Sampling
+
+Input: number of iterations M, initial state x[0] = (x1[0], x2[0], ..., xK[0])
+
+For i = 1 to M:
+    x1[i] ~ p(x1 | x2[i-1], x3[i-1], ..., xK[i-1])
+    x2[i] ~ p(x2 | x1[i],   x3[i-1], ..., xK[i-1])
+    x3[i] ~ p(x3 | x1[i],   x2[i],   ..., xK[i-1])
+    ...
+    xK[i] ~ p(xK | x1[i],   x2[i],   ..., xK-1[i])
+
+Return x[1:M]
+```
+
+The idea is simple: cycle through each variable, sampling it from its full conditional distribution given the current values of all other variables. Each sample uses the most recent values available, so within a single iteration you're mixing old and freshly sampled values.
+
+For Particle Gibbs specifically, which combines this with particle filtering:
+
+```
+Algorithm: Particle Gibbs
+
+Input: observations y[1:T], number of particles N, number of iterations M
+
+Initialize θ[0] from prior
+Run particle filter with θ[0], sample trajectory x[0,1:T]
+
+For i = 1 to M:
+    # Sample parameters given current trajectory
+    θ[i] ~ p(θ | x[i-1,1:T], y[1:T])
+    
+    # Sample trajectory given parameters using conditional particle filter
+    x[i,1:T] = ConditionalParticleFilter(y[1:T], θ[i], x[i-1,1:T], N)
+
+Return θ[1:M], x[1:M,1:T]
+```
+
+The conditional particle filter is a standard particle filter but with one particle "frozen" to the reference trajectory from the previous iteration. This guarantees that trajectory remains available for selection, preventing the degeneracy that would otherwise occur when conditioning on a specific path.
+
+///
+
+I don't get this part about one particle being frozen to a reference trajectory, but nevermind that.
+
+I guess I could look into Gibbs sampling just for a bit.
+
+https://youtu.be/7LB1VHp4tLE
+Gibbs Sampling : Data Science Concepts
+

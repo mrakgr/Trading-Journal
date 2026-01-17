@@ -30409,3 +30409,29 @@ Gibbs Sampling : Data Science Concepts
 Why You Shouldn’t Quit Trading…Yet
 
 Let me watch this and I am done. Gibbs sampling was interesting, but it's not something I'll be using.
+
+4:35pm. Lance is great. I will get his course if I can make positive P&L.
+
+Let me stop here for the day for once.
+
+Yeah, I know my rules state that I should go at it till 6pm, but there is no point in having that rule if I am going to be pushing myself gaming due to lack of time.
+
+I should put in a rule to get up at 9am instead.
+
+At any rate, there is no point in starting a new project right now at 4:40pm. I am going to do that tomorrow and really keep at it. I need to clean up the trash from last time and make sure the codebase is scalable. I'll have to put some thought into how to design it properly instead of leaving it to Opus, but any rate, I am going to start making progress after that.
+
+I'll generate the data, compare it with real life data, figure out the patterns and improve the generative model. Then once I understand it well enough, I am going to start training NNs using that model. And after that it will be time to create actual trading systems using that model. First off, I'll try to become profitable on simulated trading and move on to real money after that, trading only minimal size.
+
+4:45pm. Yeah, it doesn't matter that I keep at it till 6pm. What matters is that I am focused and not lacking sleep during my work day. What matters is that I believe in what I am working on. That I am motivated to do it. There is no point in beating myself up over a lack of motivation.
+
+Just keep studying, keep learning and it will come to you.
+
+I think I've learned enough, so I should transition into actually applying what I studied to real life.
+
+I'll do that tomorrow. Right now it's time for some fun.
+
+I'll make it my goal to stop playing before 12am and to go to bed before 1am. I will make it my goal to get proper sleep during the night.
+
+And then I am going to give it my best, just like I usually do.
+
+If I can reach the heights of motivation that I did in the past, there will be nothing stopping me from winning at trading.

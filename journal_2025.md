@@ -30134,3 +30134,177 @@ Does this give you a workable path forward?
 https://www.youtube.com/results?search_query=particle+mcmc
 
 Let me just educate myself on particle MCMC.
+
+https://youtu.be/BxHNcXv54ow
+Fredrik Lindsten, Particle Markov chain Monte Carlo (Part 1)
+
+I know particle filtering is just genetic algorithms, but I've never heard about MCMC.
+
+12:25pm. Ok, nevermind, this video is too boring. I am skipping it. I'll just ask Opus.
+
+> Tell me about particle MCMC.
+
+///
+
+Particle MCMC (pMCMC) refers to a family of algorithms that combine sequential Monte Carlo (SMC) methods—particle filters—with Markov chain Monte Carlo to perform inference in state-space models, particularly when you want to estimate both the latent states and static parameters.
+
+## The core problem
+
+In state-space models you have latent states $x_{1:T}$ evolving over time and observations $y_{1:T}$. You want to estimate:
+
+1. The posterior over states given observations: $p(x_{1:T} | y_{1:T}, \theta)$
+2. The posterior over static parameters: $p(\theta | y_{1:T})$
+
+Particle filters handle (1) well but don't directly address (2). Standard MCMC struggles with the high-dimensional state sequences. pMCMC bridges this gap.
+
+## Key algorithms
+
+**Particle Marginal Metropolis-Hastings (PMMH)**: Uses a particle filter to get an unbiased estimate of the likelihood $p(y_{1:T}|\theta)$. Remarkably, plugging this noisy estimate into a standard Metropolis-Hastings acceptance ratio still targets the correct posterior—this is the "pseudo-marginal" property. You propose new parameters, run a particle filter to estimate the likelihood, then accept/reject.
+
+**Particle Gibbs (PG)**: Embeds a "conditional" particle filter within a Gibbs sampler. You condition on a reference trajectory from the previous iteration, which ensures at least one particle survives with the "correct" ancestry. This lets you alternate between sampling parameters given states and sampling states given parameters.
+
+**PG with Ancestor Sampling (PGAS)**: Addresses path degeneracy in PG by resampling the ancestry of the reference particle at each time step, dramatically improving mixing for long sequences.
+
+## Practical considerations
+
+The main tuning parameter is the number of particles. More particles reduce variance in likelihood estimates but increase computational cost. For PMMH, there's a sweet spot where the variance of the log-likelihood estimate is around 1-3—too much variance and acceptance rates collapse, too little and you're wasting computation.
+
+Given your work on order flow modeling with Hawkes-style processes and synthetic data generation, pMCMC would be relevant if you're fitting models where the latent intensity process needs to be inferred alongside parameters governing the dynamics.
+
+///
+
+It messed up the Latex in the web UI for some reason.
+
+12:40pm. Ok, nevermind. I am done with studying. Starting from here it will be time to put what I've learned to use. Let me take a break here.
+
+2:15pm.
+
+> What is the algorithm in pseudocode?
+
+///
+
+Here's PMMH, the most straightforward of the family:
+
+```
+Algorithm: Particle Marginal Metropolis-Hastings
+
+Input: observations y[1:T], number of particles N, number of iterations M
+
+Initialize θ[0] from prior
+Run particle filter with θ[0] to get log-likelihood estimate logL[0]
+
+For i = 1 to M:
+    # Propose new parameters
+    θ* ~ q(θ* | θ[i-1])
+    
+    # Run particle filter to estimate likelihood
+    logL* = ParticleFilter(y[1:T], θ*, N)
+    
+    # Metropolis-Hastings acceptance ratio
+    log_alpha = logL* - logL[i-1] 
+                + log p(θ*) - log p(θ[i-1])
+                + log q(θ[i-1] | θ*) - log q(θ* | θ[i-1])
+    
+    # Accept or reject
+    If log(U) < log_alpha where U ~ Uniform(0,1):
+        θ[i] = θ*
+        logL[i] = logL*
+    Else:
+        θ[i] = θ[i-1]
+        logL[i] = logL[i-1]
+
+Return θ[1:M]
+```
+
+And the particle filter it calls:
+
+```
+Algorithm: Bootstrap Particle Filter (returns log-likelihood estimate)
+
+Input: observations y[1:T], parameters θ, number of particles N
+
+# Initialize particles
+For n = 1 to N:
+    x[0,n] ~ p(x[0] | θ)
+
+logL = 0
+
+For t = 1 to T:
+    # Propagate particles through transition
+    For n = 1 to N:
+        x[t,n] ~ p(x[t] | x[t-1,n], θ)
+    
+    # Compute importance weights
+    For n = 1 to N:
+        w[t,n] = p(y[t] | x[t,n], θ)
+    
+    # Accumulate log-likelihood
+    logL = logL + log(mean(w[t,1:N]))
+    
+    # Normalize weights
+    W[t,n] = w[t,n] / sum(w[t,1:N])
+    
+    # Resample (multinomial)
+    ancestor[1:N] ~ Multinomial(W[t,1:N])
+    x[t,1:N] = x[t, ancestor[1:N]]
+
+Return logL
+```
+
+The key insight is that even though `logL` is a noisy estimate, the algorithm still converges to the true posterior over θ. The noise just affects mixing efficiency.
+
+///
+
+> Is there a use for particle filters given that Kalman filters exist?
+
+///
+
+Yes, absolutely. Kalman filters are optimal but only under restrictive assumptions: linear dynamics, linear observation model, and Gaussian noise. Particle filters handle the general case where any of these break down.
+
+## Where Kalman filters fall short
+
+**Nonlinear dynamics**: If your state evolves as $x_t = f(x_{t-1}) + \epsilon$ where $f$ is nonlinear, the Gaussian prior gets distorted into a non-Gaussian shape. The extended Kalman filter linearizes around the current estimate, but this is an approximation that can diverge badly when nonlinearity is strong. The unscented Kalman filter does better by propagating sigma points, but still assumes the posterior remains approximately Gaussian.
+
+**Non-Gaussian noise**: Heavy-tailed disturbances, jump processes, or mixture distributions violate the Kalman assumptions. Financial data is full of this—think sudden liquidity shocks or regime changes in your order flow.
+
+**Multimodal posteriors**: If the state could plausibly be in two different regions given the observations, a Kalman filter picks one mode and ignores the other. Particle filters naturally represent multimodality through the empirical distribution of particles.
+
+**Discrete or mixed state spaces**: Regime-switching models where you have both continuous states and discrete modes (trending vs mean-reverting, say) require something like a bank of Kalman filters with particle methods handling the discrete switching.
+
+## Practical tradeoff
+
+Kalman filters are $O(d^3)$ in state dimension and exact. Particle filters are $O(N)$ in particle count but suffer from the curse of dimensionality—you need exponentially more particles as state dimension grows. So for high-dimensional linear-Gaussian problems, Kalman wins easily. For low-dimensional nonlinear or non-Gaussian problems, particles are often the only viable option.
+
+For something like modeling the latent intensity in a Hawkes process driving order arrivals, where the dynamics are inherently nonlinear and you might have jumps or regime changes, particle filters would be the natural choice.
+
+///
+
+2:20pm. Sigh, everything Bayesian gets hard the millisecond one wants to scale up.
+
+2:30pm. Let me do the exercises, I am not sure if I feel like programming today. I could take it easy for a bit and then get going once I am really ready.
+
+I usually take some time to think before I start a new project anyway.
+
+Metropolis-Hastings Markov Chain Monte Carlo.
+
+Despite all the extensions to it, it's actually still a small scale method. But it's definitely powerful.
+
+Assuming you can do nested optimization in terms of isolated models, it would be efficient too. It's going to be a huge asset for me going forward.
+
+The only thing left to do is to put it to use, finish my trading education and create the system that I envisioned.
+
+I won't need that much data for it.
+
+Real traders don't ingest terrabytes of data before they become profitable. Instead they internalize a system and then they stick to it.
+
+It's a rare ability to be able to do so, and I have the wrong mental makeup for it.
+
+3:35pm. After some more thought, despite what I thought yesterday, I think that given the way I defined the model, the initial intuition of Opus that there is no difference between joint and nested optimization was correct. I am doing some math in my head and it's going against my initial intuition.
+
+If `pi(x) = q(x,ty)` then those probabilities cancel out in the MH update rule. Amazing.
+
+Thinking about how particle MH MCMC works gave me the intuition. It really isn't a hard algorithm to grasp.
+
+What it teaches me that the unbiased samplers can be composed.
+
+Tabular RL, CFR, and now MCMC. These graph algorithms are amazing.

@@ -30130,3 +30130,7 @@ Does this give you a workable path forward?
 ///
 
 12:10pm. Yeah, I suppose we'll go with isolated sampling. It seems like the most reasonable choice.
+
+https://www.youtube.com/results?search_query=particle+mcmc
+
+Let me just educate myself on particle MCMC.

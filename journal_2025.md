@@ -30405,3 +30405,7 @@ I guess I could look into Gibbs sampling just for a bit.
 https://youtu.be/7LB1VHp4tLE
 Gibbs Sampling : Data Science Concepts
 
+4:25pm. https://youtu.be/CXVNoBvjDpA
+Why You Shouldn’t Quit Trading…Yet
+
+Let me watch this and I am done. Gibbs sampling was interesting, but it's not something I'll be using.

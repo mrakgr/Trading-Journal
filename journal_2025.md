@@ -29715,3 +29715,87 @@ Like imagine I am doing some optimization of on categorical distributions. The p
 6:15pm. Done with the bath. I am doing a lot of thinking. I think a nested scheme where the parent likelihoods don't depends on child likelihoods will be a lot easier to deal with and it will be the approach we'll take. But I need to take more time to familiarize myself with nested MCMC schemes. I'll just focus on that.
 
 I think once I've dealt with small scale generative modeling, nothing will stop me from dealing with the order flow system. So I should just sit tight and believe in myself. There isn't **that** much work left to be done. I just need to attain the necessary understanding and it will all come to me.
+
+1/17/2026
+
+10:55am. I switch between days when I've slept well and poorly and today is slept well. Let me do my morning reading and then I'll do some research with Opus. If I am lucky I'll be able to move on to programming tomorrow.
+
+***
+
+Let's go over these in turn. I want to generate nested episodes, and I am wondering if there is a good way of expressing that. I could have parent and children processes be isolated, but I am doing research to see if there is a possibility of doing a better job. A lot of the jargon you're using is new to me. 
+
+What did you mean by if the inner MCMC targets a known density π(y|x)?
+
+***
+
+///
+
+Good, let's slow down and make this concrete.
+
+When I say "the inner MCMC targets a known density π(y|x)", I mean: can you write down a formula for the distribution you *want* the inner chain to sample from?
+
+For example, suppose your outer state is some episode parameters `x`, and given `x`, you want to propose a child episode `y` by sampling from some distribution that depends on `x`. The question is: do you have an explicit formula for that distribution, even if you can't sample from it directly?
+
+**Concrete example:**
+
+Say `x` represents a parent episode (maybe its start time, duration, intensity). You want to generate a child episode `y` that "fits inside" the parent in some sensible way. You might define:
+
+```
+π(y|x) ∝ likelihood(y is a valid child of x) × prior(y)
+```
+
+You can *evaluate* this formula for any candidate `y`—you can ask "how plausible is this particular child episode given this parent?" But you can't directly *sample* from it because it's some complicated shape. So you run an inner MCMC to get samples.
+
+In this case, even though you used MCMC to obtain `y`, you still know π(y|x) up to a constant. That's useful because:
+
+1. If you're doing MH at the outer level, you might be able to use π(y|x) directly in your acceptance ratio rather than worrying about the mechanics of how you sampled `y`
+
+2. The inner MCMC is just an implementation detail—a way of approximately sampling from a distribution you can otherwise describe
+
+**The alternative situation** (which is harder) is when you don't even have a formula. You just have some procedure that produces child episodes given a parent, and you couldn't write down a density for it if asked.
+
+Which situation are you in? Can you describe what makes a "good" child episode given a parent?
+
+///
+
+***
+
+I have the formula for the prior. The likelihood isn't explicit and I am just using specific proposal moves to make sure the episode length matches the target length. The likelihood is 1 for valid configurations and 0 everywhere else.
+
+***
+
+///
+
+Ah, that clarifies things a lot. You have a hard constraint (episode length must equal target length exactly), and you're using carefully designed moves to stay within that constraint manifold.
+
+So effectively:
+
+```
+π(y|x) ∝ prior(y) × 𝟙(y is valid configuration)
+```
+
+where "valid" means the length constraint is satisfied (and presumably the child fits within the parent, etc.).
+
+This is actually a cleaner situation than it might seem. The inner MCMC is sampling from a constrained prior—the density is just the prior restricted to the valid set. You *can* evaluate this: for any candidate `y`, you check if it's valid (indicator is 1 or 0), and if valid, you evaluate the prior.
+
+**The implication for nesting:**
+
+When you generate a child episode `y` by running the inner MCMC, and then you want to use this in an outer MH step, you need `q(x→y)` and `q(y→x)`. But here's the thing: if your inner chain has converged, you're effectively proposing from π(y|x) = prior(y) restricted to valid configurations.
+
+So if the outer acceptance ratio needs `q(x→y)/q(y→x)`, and both directions use the same procedure (run inner MCMC to convergence), then:
+
+```
+q(x→y) ≈ π(y|x)
+q(y→x) ≈ π(x|y)
+```
+
+These you *can* evaluate (up to normalization) since they're just constrained priors.
+
+**The practical issue:**
+
+The normalization constants might differ—the "volume" of valid configurations given `x` might not equal the volume given `y`. If parent episodes have different structures, they might admit different numbers of valid children.
+
+Does the set of valid child configurations depend on the parent's properties, or is validity purely about the child's internal consistency?
+
+///
+

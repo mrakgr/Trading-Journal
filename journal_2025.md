@@ -29799,3 +29799,334 @@ Does the set of valid child configurations depend on the parent's properties, or
 
 ///
 
+> The sum of the lengths of the child episodes is constrained to equal the length of the parents.
+
+///
+
+That's the key detail. So if the parent has length `L`, and you're generating children whose lengths must sum to `L`, then the "volume" of valid configurations depends on `L`.
+
+This creates an asymmetry problem for the outer MH step. Suppose at the outer level you're proposing to change the parent from `x` to `x'`, where they have different lengths `L` and `L'`. The space of valid child configurations has different "size" for each parent.
+
+**Here's where it gets tricky:**
+
+When you run the inner MCMC to generate children for parent `x`, you're sampling from:
+
+```
+π(children | parent length = L)
+```
+
+The normalizing constant of this distribution—call it `Z(L)`—is the total "volume" of valid child configurations that sum to length `L`. This `Z(L)` is generally intractable. You can't compute it because it involves summing/integrating over all valid configurations.
+
+**Why this matters for the outer MH ratio:**
+
+If your outer proposal changes the parent, the acceptance ratio should technically include:
+
+```
+Z(L) / Z(L')
+```
+
+to account for the different sizes of the child configuration spaces. Without this, you'll get biased samples at the outer level.
+
+**Possible ways forward:**
+
+1. **Keep parent lengths fixed** — if the outer moves never change `L`, then `Z(L)` cancels and you don't need it
+
+2. **Reversible jump style** — design outer moves that explicitly account for the dimension/volume change, with a Jacobian or explicit bijection between child configurations of different total lengths
+
+3. **Isolated layers** — accept that parent and child layers are sampled independently (each valid on its own), giving up on strict joint correctness but possibly good enough for your application
+
+What does the outer level actually do? Does it modify the parent's length, or just other properties?
+
+///
+
+> It modifies the parent length. I also intend to have the model have multiple layers of nesting, rather than just 2 like in this example.
+
+///
+
+That compounds the problem. Each layer has its own `Z(L)` that depends on the layer above, and these cascade down.
+
+If you have layers 0, 1, 2, ... where each layer's episodes must sum to the length of their parent in the layer above, then changing something at layer 0 ripples down: the valid configuration spaces at layers 1, 2, 3, ... all change, each with their own intractable normalizing constants.
+
+**The fundamental issue:**
+
+To do correct MH at layer 0, you'd need:
+
+```
+Z₁(L) / Z₁(L') × Z₂(...) / Z₂(...) × ...
+```
+
+all the way down. This is deeply intractable for multiple layers.
+
+**Realistic options:**
+
+**Isolated layers (what you mentioned initially):**
+
+Sample each layer independently, conditioning on the layer above as fixed. This is "wrong" in the sense that you're not sampling from the true joint distribution, but it might be perfectly adequate. You're essentially doing Gibbs-style sweeps: fix parents, resample children, fix children, resample parents, etc. This doesn't give you the exact joint, but the layers will be mutually consistent at convergence in terms of the constraints.
+
+**Rethink the parameterization:**
+
+Instead of absolute lengths, parameterize children as *fractions* of the parent length. If a parent has 3 children with fractions (0.2, 0.5, 0.3), these always sum to 1 regardless of the parent's absolute length. Now changing the parent length doesn't change the "space" of valid children—it's always the simplex. The `Z` terms become constant and cancel.
+
+This second approach is the natural one for nested structures. Does it fit your model, or is there a reason children need absolute rather than relative lengths?
+
+///
+
+> The children need absolute lengths since I am modeling stock market price action moves.
+
+///
+
+That makes sense. Price moves have real durations in ticks or seconds, not just proportions.
+
+But let me push on this a bit: even if the *output* needs absolute lengths, the *internal representation* during sampling could use fractions, then convert to absolute lengths at the end.
+
+**The idea:**
+
+During MCMC, represent a child episode as:
+- fraction of parent length (lives on simplex, always valid)
+- other properties (intensity, direction, whatever)
+
+When you need to *evaluate* something that depends on absolute length (like the prior over durations), you compute:
+
+```
+absolute_length = fraction × parent_length
+```
+
+and evaluate your prior on that absolute value.
+
+**What this buys you:**
+
+When the parent length changes from `L` to `L'`, the children's fractions stay the same, but their absolute lengths all scale proportionally. You pick up a Jacobian term:
+
+```
+|L'/L|^(number of children)
+```
+
+or something similar, which *is* tractable. The `Z` problem disappears because the space of valid configurations (the simplex) doesn't change shape—only the mapping to absolute lengths changes.
+
+**The cost:**
+
+Your prior over absolute durations gets "warped" when viewed in fraction space. If your prior says "episodes of 30 seconds are typical," that looks different depending on whether the parent is 100 seconds or 1000 seconds. But this is just a change of variables with a Jacobian, which MCMC handles fine.
+
+Does this seem workable, or does something about your model make the fractional representation problematic?
+
+///
+
+***
+
+No, I don't want to calculate the jacobian, and the subepisodes have to have absolute lengths or the modeling won't make sense. I guess this route is a bust.
+
+What about Pseudo-marginal / exact-approximate methods?
+
+***
+
+///
+
+Pseudo-marginal methods solve a different problem than yours, so I don't think they help here.
+
+**What pseudo-marginal is for:**
+
+You want to sample from some target π(x), but evaluating π(x) requires computing an intractable integral or sum. For example:
+
+```
+π(x) = ∫ p(x, z) dz
+```
+
+You can't compute this integral, but you *can* construct an unbiased estimator of it (say, by Monte Carlo). The pseudo-marginal result says: plug that noisy unbiased estimate into your MH acceptance ratio, and you still get the correct stationary distribution. The noise increases variance but doesn't introduce bias.
+
+**Why it doesn't fit your situation:**
+
+Your problem isn't that you can't evaluate the target density. You can evaluate your prior on any configuration, and your constraint is a hard 0/1 indicator. The issue is that your *proposal mechanism* (the inner MCMC) has an intractable density `q(x→y)` because of the normalizing constant `Z(L)`.
+
+Pseudo-marginal helps with intractable *targets*, not intractable *proposals*.
+
+**What might help with intractable proposals:**
+
+The auxiliary variable / extended state space approach I mentioned earlier. The idea is: instead of trying to figure out `q(x→y)`, you expand your state to include all the randomness used to generate `y`. Then everything becomes explicit.
+
+But honestly, given multiple nesting layers with hard length constraints, this gets complicated fast.
+
+Can I ask a different question: what are you ultimately trying to *do* with samples from this joint distribution? Understanding the downstream use might suggest whether exact sampling is necessary or if something simpler suffices.
+
+///
+
+> I am first using it to split the daily trading session of 390 minutes into 3 episodes: morning, mid and close. Then I am splitting those episodes into overall trend moves. Then I have ideas for how to split that up further. At the end I'll generate the needed order flow data to train a NN. I am trying to generate synthetic stock market price data with labels. The higher level episodes will serve as labels, and the lowest level trade data will serve as the input to the NN.
+
+///
+
+Ah, this reframes everything. You're not doing inference on observed data—you're doing *generative modeling* for synthetic data creation.
+
+If you're generating synthetic data, you don't need MCMC at all for the nested structure. You can just sample top-down:
+
+1. Sample morning/mid/close split of 390 minutes from your prior (say, a Dirichlet gives you fractions, multiply by 390 to get absolute lengths)
+
+2. For each of those episodes, sample how many trend moves it contains and their lengths (again from your prior, conditioned on the parent length)
+
+3. Continue down the hierarchy
+
+4. At the lowest level, generate the actual trade/order flow data
+
+**Why MCMC was the wrong frame:**
+
+MCMC is for when you have a complex joint distribution and need to explore it, typically because you're doing inference (conditioning on observed data) or because direct sampling is hard due to complex dependencies.
+
+But for pure generation with a hierarchical prior, you can just sample ancestrally—parent first, then children given parent, and so on. Each conditional is something you designed, so you can sample from it directly.
+
+**Where MCMC might still come in:**
+
+If at some layer you have a complex prior over configurations that's easy to evaluate but hard to sample from directly (like "split this 120-minute episode into trend moves where the prior over individual move durations is log-normal, but they must sum to 120"), then you'd use MCMC *just for that one layer's sampling*, in isolation.
+
+Does this match what you're actually trying to do?
+
+///
+
+***
+
+Yes, that's exactly what I am doing and hence why I need MCMC. 
+
+It occurred to me that I might be able to get more consistent results if I evaluate the all the models as one whole rather than as nesting them in isolation. The problem as far as a I can see is that running MH MCMC loops in the proposal would lead to a multiplicative increase in the computation time, while optimizing the layers in isolation would be linear. I was just wondering whether there is anything smart I could do to make the joint model fast.
+
+***
+
+///
+
+Got it, now I understand the full picture. You want the quality benefits of joint modeling but without the computational explosion.
+
+Let me think about what "joint" would actually buy you here...
+
+**What isolated sampling gives you:**
+
+Each layer samples valid configurations given the parent lengths. The prior at each layer is respected. The constraints are satisfied. The layers just don't "talk" to each other beyond the length constraint.
+
+**What joint sampling might give you:**
+
+If there are dependencies *across* layers in your prior—like "if the morning session is long, the trend moves within it tend to be longer too" or "certain patterns at level 2 make certain patterns at level 3 more likely"—then joint sampling would capture these correlations.
+
+But here's the question: **do such cross-layer dependencies exist in your model?**
+
+If your prior factorizes as:
+
+```
+p(layer0) × p(layer1 | layer0 lengths) × p(layer2 | layer1 lengths) × ...
+```
+
+where each layer only depends on the *lengths* of the layer above (not other properties), then isolated sampling *is* correct. You're not losing anything by doing it layer by layer.
+
+**Where joint sampling matters:**
+
+If you have something like:
+
+```
+p(layer0, layer1, layer2) with terms that couple non-length properties across layers
+```
+
+For example, if the *intensity* of a parent episode should influence the *number* of children, not just their total length.
+
+Do you have cross-layer dependencies beyond "children lengths must sum to parent length"? Or does each layer's prior only care about the length budget it's been given?
+
+///
+
+> They only care about the length budget. But that doesn't necessarily mean this is the correct thing to do. Say the episode length is very small, then isolated sampling would work, but the generated episode would be much more likely to be accepted than had I been evaluating the models as one. The episode would get split into submoves, and they would have low probability given their priors.
+
+///
+
+Now I see what you're getting at. This is a real issue.
+
+**The problem:**
+
+When you sample a short episode at layer N, it looks fine in isolation—it came from the prior, it's valid. But when that short episode becomes the length budget for layer N+1, the children might be forced into configurations that are unlikely under *their* prior. Very short trend moves, or too many tiny moves crammed in, etc.
+
+If you evaluated the joint probability:
+
+```
+p(layer N episode) × p(layer N+1 children | layer N length)
+```
+
+that short episode would get penalized because its children have low probability. But in isolated sampling, layer N never "sees" this—it just samples from its own prior, oblivious to the downstream consequences.
+
+**In other words:**
+
+The marginal prior over layer N episodes is *not* the same as the marginal you'd get from the joint. The joint marginal would effectively say "short episodes are less likely because they create bad situations downstream." Isolated sampling misses this.
+
+**This is essentially a "lookahead" problem:**
+
+To sample layer N correctly under the joint, you'd need to account for the probability mass of valid/good configurations at all layers below. And that's exactly where the intractable `Z(L)` terms come from.
+
+**A possible middle ground:**
+
+What if you don't need the *exact* joint, but just want to penalize configurations that cause problems downstream? You could do a two-pass approach:
+
+1. Sample top-down in isolation (fast)
+2. Evaluate the joint probability of the whole tree
+3. Accept/reject the entire tree with some MH step
+
+This is still "wrong" as a proposal, but might give you rejection sampling flavor—bad trees get thrown out. Would that help, or do you need something more precise?
+
+///
+
+Actually this is a really interesting suggestion.
+
+> That's an interesting idea. Are you suggesting that we combine MCMC with rejection sampling? I had the thought of doing something similar, but I was thinking how the usual MH MCMC formulation could be modified to allow nested loops. It never occurred to me to frame it as combining rejection sampling and MCMC.
+
+///
+
+Yes, exactly. Instead of trying to force nested MCMC into the standard MH framework (which leads to the intractable `q(x→y)` problem), you can think of it as:
+
+**The hybrid approach:**
+
+1. Use MCMC at each layer to generate valid configurations (satisfying the length constraint)
+2. Use rejection sampling at the tree level to shape the distribution toward the joint
+
+**Concretely:**
+
+```
+repeat:
+    sample full tree top-down using isolated MCMC at each layer
+    compute joint probability p(tree) = ∏ p(layer_i | parent lengths)
+    accept tree with probability proportional to p(tree) / q(tree)
+```
+
+where `q(tree)` is what you actually sampled from (the product of isolated layer distributions).
+
+**The catch:**
+
+You still have the `Z(L)` problem hiding in the ratio `p(tree)/q(tree)`. If the isolated sampling at each layer samples from the constrained prior, then `p = q` and the ratio is 1—you're back to isolated sampling being "correct" in some sense.
+
+**But wait, let me reconsider your original concern:**
+
+You said short episodes would be "more likely to be accepted" in isolation. But accepted by what? If you're just generating, there's no acceptance step at the layer level—you run MCMC until you have a sample, and that sample is from the constrained prior.
+
+Maybe the issue is this: your prior over episode lengths doesn't account for the fact that very short lengths create degenerate downstream situations. If so, the fix might be simpler—**modify the prior at each layer to penalize lengths that will cause problems below**.
+
+Would it make sense to build "downstream viability" into each layer's prior directly?
+
+///
+
+> Yeah, I guess sampling realistic episode lengths up front so that isolated sampling is close to the full joint would be good design. It does make sense.
+
+///
+
+Right. If you design the priors well, the "downstream viability" issue mostly disappears because you're not generating pathological lengths in the first place.
+
+**Practical approach:**
+
+At each layer, your prior over episode lengths should reflect realistic durations for that level of the hierarchy:
+
+- Morning/mid/close: probably roughly 100-150 minutes each, with some variance but not wildly so
+- Trend moves within a session: maybe 5-60 minutes, depending on market conditions
+- Finer structure below that: appropriate ranges for that timescale
+
+If these priors are calibrated from real market data (or reasonable domain knowledge), then when you sample a parent episode of say 120 minutes, the children will have a reasonable budget to work with. The isolated sampling will produce trees that would also be plausible under the joint.
+
+**When to worry:**
+
+The isolated vs joint distinction matters most in the tails—when a parent episode is unusually short or long. If your priors make those cases rare, and you're generating training data in bulk, the occasional weird tree might not matter much. Neural networks are fairly robust to some noise in training data.
+
+**One thing to keep in mind:**
+
+You can always do a sanity check post-hoc. Generate a bunch of trees, compute what the joint probability would be, and see if there's huge variance. If most trees have similar joint probability, isolated sampling is working fine. If some trees have joint probability orders of magnitude lower, those are the pathological cases and you might filter them out or revisit the priors.
+
+Does this give you a workable path forward?
+
+///
+
+12:10pm. Yeah, I suppose we'll go with isolated sampling. It seems like the most reasonable choice.

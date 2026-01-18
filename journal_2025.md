@@ -30435,3 +30435,21 @@ I'll make it my goal to stop playing before 12am and to go to bed before 1am. I 
 And then I am going to give it my best, just like I usually do.
 
 If I can reach the heights of motivation that I did in the past, there will be nothing stopping me from winning at trading.
+
+1/18/2025
+
+11:30am. Good sleep, bad sleep, good sleep...
+
+Today was bad sleep. But either way I am going to put some work in and hopefully get into the project. The reason why I am not into it is the long learning curve and because it will take a while before I see results. If I really motivate and push myself it's not like I am going to see results at the end of the month, so my brain is taking that as an excuse to slack.
+
+https://youtu.be/o5SkayC_kEU
+PF: WOTR EE - MYTHIC Path TIER List: ALL MYTHICS RANKED Best to Worst
+
+I'll start as soon as I watch this for a bit. In fact, let me delay the start since it almost 12pm right now. I am really living it up aren't I?
+
+When I start I usually get into it, but it has been hell starting.
+
+2:05pm. https://claude.ai/share/35995918-1c6c-4488-b826-4ba76e773c9c
+RJ MCMC convo with Opus
+
+I have all the convos in this journal, but let me also paste the link in case anyone is interested.

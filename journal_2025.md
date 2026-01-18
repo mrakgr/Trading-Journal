@@ -30453,3 +30453,31 @@ When I start I usually get into it, but it has been hell starting.
 RJ MCMC convo with Opus
 
 I have all the convos in this journal, but let me also paste the link in case anyone is interested.
+
+4:40pm. You know what, I am going to do a move I haven't done in a while and just take a nap during the workday since I obviously don't feel like doing this now. These past few weeks might as well be a vacation given how little effort I've been putting in.
+
+But there have been periods like this often in the past. And the best way to deal with them is to sleep and think about what I want to do.
+
+Telling yourself what to do only works to a point. Beating yourself over the lack of desire is not the answer.
+
+Motivation needs to be cultivated through immersion. I need to really spend my waking days really thinking about what I want to do.
+
+Here is the truth - I am very anxious about my ML skills. I know they are inadequate for true AI, I am constantly force to make compromises, and my algorithmic knowledge is severely hampering my ambitions. It takes grit to go into battle with a toothpick instead of a sword.
+
+But regardless of that, I do think I have enough to win this either way. NNs and MH MCMC aren't nothing. They are a powerful combination.
+
+I need to work my way through step one.
+
+That would be:
+
+* Generate some data.
+* Train a NN on it.
+* See whether it's behaving as it should on test data.
+
+Leave real (non-sythetic) data and real money trading out of mind for a while. For the next few weeks I should just focus on the above 3 steps. When I am satisfied with the NN architecture and the data generator I should buy the SMB tape reading course and start work on improving the generative model.
+
+This is the way to do it.
+
+When your motivations are ambiguous, you constantly have to reiterate what your goals are until the inner motivation becomes aligned with them.
+
+4:45pm. Let me take that nap.

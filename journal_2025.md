@@ -30484,10 +30484,16 @@ When your motivations are ambiguous, you constantly have to reiterate what your 
 
 1/19/2026
 
-12:10pm. I am up. After some thought I think I am going to stop playing games for a while. It's just too tough on my body. I can feel my RSI flaring up again. I need to do this thing. If I can complete this system, I won't need to work ever again. I'll be set for life. Instead of waiting for that upcoming job with Thom, both of us should succeed at trading and get the money stuff behind us.
+12:10pm. I am up. After some thought I think I am going to stop playing games for a while. It's just too tough on my body. I can feel my RSI flaring up again. I need to do this thing. If I can complete this system, I won't need to work ever again. I'll be set for life. Instead of waiting for that upcoming job with Thom, both of us should succeed at trading in our chosen styles and get the money stuff behind us.
 
 12:20pm. My god, I never thought I get to the point where computer games are physically exhausting for me. I am getting older.
 
 I need to take care of my finances, so I can focus on both gaming and causing the Singularity.
 
 For now let me take it easy. I am not going to be gaming for the foreseable future, so I shouldn't rush programming. I'll ease myself back into it today.
+
+12:40pm. Let me have breakfast here. I need to hype myself up for it.
+
+Programming and gaming afterwards is like having two jobs at the same time. It's rough.
+
+I had a lot easier time playing Stellar Blade and Dishonored than Pathfinder: Wrath of the Righteous.

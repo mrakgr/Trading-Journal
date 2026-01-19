@@ -30497,3 +30497,13 @@ For now let me take it easy. I am not going to be gaming for the foreseable futu
 Programming and gaming afterwards is like having two jobs at the same time. It's rough.
 
 I had a lot easier time playing Stellar Blade and Dishonored than Pathfinder: Wrath of the Righteous.
+
+1:45pm. Let me screencast just for a bit and then I will do the chores and exercises.
+
+4:10pm. ![](images/image-2033.png)
+
+Found this on /pol/. It can't possibly be real.
+
+![](images/image-2034.png)
+
+If I wasn't so annoyed at this, I'd say this is based behavior. I used to be really into right wing stuff a decade ago, but those guys were all about race and IQ. It's ironic that when the right wing revolution finally happened, they picked the dumbest, most corrupt sleaze bag imaginable to be their leader.

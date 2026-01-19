@@ -30507,3 +30507,9 @@ Found this on /pol/. It can't possibly be real.
 ![](images/image-2034.png)
 
 If I wasn't so annoyed at this, I'd say this is based behavior. I used to be really into right wing stuff a decade ago, but those guys were all about race and IQ. It's ironic that when the right wing revolution finally happened, they picked the dumbest, most corrupt sleaze bag imaginable to be their leader.
+
+7pm. Done with today's programming session. It was fun.
+
+What else is fun? Pathfinder: Wrath of the Righteous.
+
+Despite what I said I want to game so I'll do it, but I'll try to keep in mind that my priority is resting.

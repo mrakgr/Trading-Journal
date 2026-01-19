@@ -26548,7 +26548,7 @@ Do I get Stellar Blade or not? Agh, I have the money and I want to dress up Eve 
 
 Got'em. I have plans to resume DS2 and Monster Hunter World, but they're both hard games so I don't feel like straining myself right now.
 
-12/32/2025
+12/31/2025
 
 11:20am. https://www.reddit.com/r/algotrading/comments/1px7qda/breaking_into_quant_later_on/
 
@@ -27279,7 +27279,7 @@ Let me read the paper and then I will so more research on this topic.
 
 Yeah, good luck using this shit for anything.
 
-1/5/2025
+1/5/2026
 
 10:25am. https://youtu.be/rCwTQ9bqKOM
 The TRILLION Dollar AI Debt Bubble Is Bursting
@@ -27293,7 +27293,7 @@ I can't believe he was right.
 
 Yeah, Claude Opus got me too.
 
-1/6/2025
+1/6/2026
 
 11:45am. I am going to take a break today. I need to think really carefully whether I want to drop Polymarket. I already decided that I would do it yesterday, but I need to justify my decision properly.
 
@@ -27373,7 +27373,7 @@ If there was a bull market in crypto I'd change my min about them, but honestly 
 
 Yeah, I am going to make a determination here. I absolutely will try out crypto, perp futures specifically, the next time there is a bull market in crypto. Shit coins, exchange risk, who cares. I will do it. But now it's time for stocks. The data fees aren't a reason not to trade stocks.
 
-1/7/2025
+1/7/2026
 
 12:30pm. It's pain and suffering time.
 
@@ -27449,7 +27449,7 @@ I'll watch this video later, let me pause here.
 
 Lance has some good vids on his Twitter. This is one of them.
 
-1/8/2025
+1/8/2026
 
 12:40pm. Breakfast time. I went to bed late last night, but I am decently rested even though I had nightmares. I had some deep sleep regardless and that is what is important. Today it feels like I will be able to make some progress. Work hard, play hard, that is how I roll.
 
@@ -27462,7 +27462,7 @@ Hmmmm...
 
 It's dumb, but I like this meme.
 
-1/9/2025
+1/9/2026
 
 12:45am. https://www.reddit.com/r/algotrading/comments/1q7nq7k/anyone_else_messing_with_prediction_markets_the/
 
@@ -27486,7 +27486,7 @@ https://mangadex.org/title/647c6480-a877-4899-9382-5757fcfba1d3/kanreki-hime
 
 This is fucking hillarious. It's just a still frame, but I lol'd.
 
-1/10/2025
+1/10/2026
 
 11:15am. I am up. I went to bed earlier than usual yesterday and I am more rested as a result even though it was like an hour only.
 
@@ -28298,7 +28298,7 @@ This answer is about what I expected, though it does give me some insight that t
 
 Let me take off here for real.
 
-1/11/2025
+1/11/2026
 
 11:15am. Let me start here. I need to figure out how MCMC today. I'll go over those papers today.
 
@@ -28457,7 +28457,7 @@ If this fails, then nothing will work for me. I can just accept that I am just n
 
 But I need to do in a way that I can accept as proper.
 
-1/12/2025
+1/12/2026
 
 1:35pm. https://youtu.be/ZmUi3bN64fE
 Is AI evolution unstoppable now?
@@ -28516,7 +28516,7 @@ Stellar Blade is a 9.5/10 game. I got in for Eve, but stayed for the action. The
 
 I'll play the New Game+ eventually. I want to try something else for now.
 
-1/13/2025
+1/13/2026
 
 12pm. Fuck, I need to stop reading Pathfinder guides and start studying. Those Jacobians won't learn themselves.
 
@@ -28944,7 +28944,7 @@ https://youtu.be/4sXiCxZDrTU
 
 Let me also back this up here.
 
-1/14/2025
+1/14/2026
 
 11:45am. If I am going to be going to bed past 3am on the reg now, maybe I should just take a break from work in order to get my game time in?
 
@@ -29180,7 +29180,7 @@ I guess that takes care of understanding inverse sampling. Maybe I'll think abou
 
 I'll leave the stationary distribution for tomorrow as well.
 
-1/15/2025
+1/15/2026
 
 12:05pm. I've rested much better today. Yesterday I spent a bunch of time watching Pathfinder WotR videos so I roughly know how to plan my actions now.
 
@@ -29497,7 +29497,7 @@ So the proposal distribution is based on an exponential one?
 
 6:35pm. Ok, let me play WotR here. Tomorrow, I am not sure what I'll do. Maybe watch more vids, or maybe I'll do some programming. We'll see.
 
-1/16/2025
+1/16/2026
 
 11:25am. I am up. Let me start. With what exactly? I guess I'll check out the channel from yesterday.
 
@@ -30436,7 +30436,7 @@ And then I am going to give it my best, just like I usually do.
 
 If I can reach the heights of motivation that I did in the past, there will be nothing stopping me from winning at trading.
 
-1/18/2025
+1/18/2026
 
 11:30am. Good sleep, bad sleep, good sleep...
 
@@ -30481,3 +30481,13 @@ This is the way to do it.
 When your motivations are ambiguous, you constantly have to reiterate what your goals are until the inner motivation becomes aligned with them.
 
 4:45pm. Let me take that nap.
+
+1/19/2026
+
+12:10pm. I am up. After some thought I think I am going to stop playing games for a while. It's just too tough on my body. I can feel my RSI flaring up again. I need to do this thing. If I can complete this system, I won't need to work ever again. I'll be set for life. Instead of waiting for that upcoming job with Thom, both of us should succeed at trading and get the money stuff behind us.
+
+12:20pm. My god, I never thought I get to the point where computer games are physically exhausting for me. I am getting older.
+
+I need to take care of my finances, so I can focus on both gaming and causing the Singularity.
+
+For now let me take it easy. I am not going to be gaming for the foreseable future, so I shouldn't rush programming. I'll ease myself back into it today.

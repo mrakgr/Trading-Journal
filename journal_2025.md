@@ -30529,3 +30529,9 @@ Prediction markets are ushering in a world in which news becomes about gambling 
 > The people "betting against" you dying just paid to have you killed.
 
 Oh wow.
+
+https://thezvi.substack.com/p/the-online-sports-gambling-experiment
+
+![](images/image-2036.png)
+
+I'll leave this for later. Let me go take a bath.

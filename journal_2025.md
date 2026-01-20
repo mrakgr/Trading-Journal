@@ -30513,3 +30513,19 @@ If I wasn't so annoyed at this, I'd say this is based behavior. I used to be rea
 What else is fun? Pathfinder: Wrath of the Righteous.
 
 Despite what I said I want to game so I'll do it, but I'll try to keep in mind that my priority is resting.
+
+4:40pm. https://www.youtube.com/watch?v=Dw3BZ6O_8LY
+Training an unbeatable AI in Trackmania
+
+https://www.jbecker.dev/research/prediction-market-microstructure
+https://news.ycombinator.com/item?id=46680515
+
+4:45pm. Had a call with Thomas a few hours ago. He showed me the Trackmania bot. I found this research on HN, so I sent it to him. Let me finish my exercises.
+
+6:55pm. https://news.ycombinator.com/item?id=46670524
+Prediction markets are ushering in a world in which news becomes about gambling (theatlantic.com)
+
+![](images/image-2035.png)
+> The people "betting against" you dying just paid to have you killed.
+
+Oh wow.

@@ -30535,3 +30535,27 @@ https://thezvi.substack.com/p/the-online-sports-gambling-experiment
 ![](images/image-2036.png)
 
 I'll leave this for later. Let me go take a bath.
+
+1/23/2025
+
+12:35pm. Damn it, I got up way too late today. Let me have breakfast here and then I will start.
+
+1:30pm. Let us start for today.
+
+I'll leave the chores and exercises for later, right now I want to see if I can get some NN training going.
+
+My motivation has been low ever since I started this. And what we will be doing right now won't be anything commerical. It won't be a huge leap in our capabilities.
+
+But the difference it will make to me is that it will act as the first bit of confirmation that this approach is viable. If we can cross this hurdle and get a NN to train on this small synthetic dataset there will be nothing stopping us from getting it to train on the real order flow dataset down the road.
+
+A tiny victory here is what will be the foundation for everything that will come afterwards.
+
+Maybe if we can manage it, I'll be able to overcome my Pathfinder addition and start treating this as serious business.
+
+I know I am a good programmer, but right now I have absence of power. I cannot use it for anything in the real world.
+
+I had a temporary win with the Tao Ceti job, but now I am out in the woods again, feeling the pressure to survive.
+
+If I could attain this power, then I might change. I might start looking forward to the future again.
+
+Let's begin.

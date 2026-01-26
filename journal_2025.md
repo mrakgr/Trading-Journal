@@ -30597,3 +30597,8 @@ I am making good progress. I just need to focus on it. At the very least unlike 
 So apparently I am in the top 1% of Haskell devs somehow now?
 
 How did that happen?
+
+12:35pm. Ok, let me chill and then I will focus.
+
+I sent a reply to the CTO asking him how they are measuring this and telling him I am not interested at this time, but that I'll keep Algora in mind as I don't get inquiries like this often.
+

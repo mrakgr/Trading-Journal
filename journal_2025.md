@@ -30536,7 +30536,7 @@ https://thezvi.substack.com/p/the-online-sports-gambling-experiment
 
 I'll leave this for later. Let me go take a bath.
 
-1/23/2025
+1/23/2026
 
 12:35pm. Damn it, I got up way too late today. Let me have breakfast here and then I will start.
 
@@ -30560,6 +30560,40 @@ If I could attain this power, then I might change. I might start looking forward
 
 Let's begin.
 
-1/24/2025
+1/24/2026
 
 12:05pm. I fucked up. I went to bed early yesterday, but that just caused me to obsess about Pathfinder classes. I had a hard time falling asleep and I am tired again now as a result. Uah...
+
+1/26/2026
+
+12:10pm. I fucked up. I didn't go to bed late by my usual standards, but I obsessed the whole night about Pathfinder classes.
+
+Also during the gaming session I fucked up my left arm. I must have been leaning it too hard against the left armrest and afterwards it's been hurting the whole night.
+
+Holy hell.
+
+I cannot handle this.
+
+Pathfinder: WotR is way too hard on my body.
+
+I am really enjoying it, but I am filled with anxiety every day partly because of it.
+
+Yesterday one of my father's friends, one of our relatives died. He was feeling ill for the past few days, and 2 days ago my father went to visit him and brought him some food. And yesterday I walked into the room, saw my father on the phone being concerned and when I asked him what was going on with Romano he said that he died. Heart failure.
+
+I wasn't close to him personally, but the world is sending constant reminders how frail humans can be.
+
+12:15pm. The only upside of messing up my left arm is that I have an excuse to skip exercises for a few days.
+
+I am going to focus on programming. I am going to stop playing WotR for the time being because it's a full time job at this rate for me.
+
+I am filled with anxiety and stress, and I have no better way of channeling it than into what should be my main project.
+
+I am making good progress. I just need to focus on it. At the very least unlike my previous projects this time I should get some feedback in short order.
+
+12:20pm. For some extra weirdness, I got this email today.
+
+![](images/image-2037.png)
+
+So apparently I am in the top 1% of Haskell devs somehow now?
+
+How did that happen?

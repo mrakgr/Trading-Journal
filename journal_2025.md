@@ -30602,3 +30602,12 @@ How did that happen?
 
 I sent a reply to the CTO asking him how they are measuring this and telling him I am not interested at this time, but that I'll keep Algora in mind as I don't get inquiries like this often.
 
+1/27/2026
+
+10:30am. Went to bed very early at c6:30pm yesterday and had a good night's rest. At least that's what I thought, when I woke up it was 11:30pm. Then I had a lot of trouble falling asleep after than, but managed it after a few hours.
+
+https://mangahub.io/chapter/nia-liston-the-merciless-maiden/chapter-40
+
+Finally found Nia Liston up to date, it's been paywalled completely on MangaUp now it seems.
+
+10:35am. Let me just read the latest chapter and I'll resume work from yesterday. A lot of models need testing.

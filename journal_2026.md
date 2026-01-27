@@ -15,3 +15,8 @@ I guess I'll watch some of the old SMB course videos.
 5pm. ![](images/image-2039.png)
 
 He says that they're trying to put a story on the stock.
+
+![](images/image-2040.png)
+> Leading indicator.
+
+I sure hope so.

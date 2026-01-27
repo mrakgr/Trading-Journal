@@ -30611,3 +30611,5 @@ https://mangahub.io/chapter/nia-liston-the-merciless-maiden/chapter-40
 Finally found Nia Liston up to date, it's been paywalled completely on MangaUp now it seems.
 
 10:35am. Let me just read the latest chapter and I'll resume work from yesterday. A lot of models need testing.
+
+Oh yeah, let me switch the journal files. I'll also remove the Comfy UI workflows. I won't be using them for the intros anyway.

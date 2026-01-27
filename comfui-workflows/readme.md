@@ -1,1 +1,0 @@
-I am just backing up the ComfyUI workflows used to generate the intro and outro images for the Hopfield Dictionary CFR series here.

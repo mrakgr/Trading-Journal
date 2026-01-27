@@ -86,10 +86,10 @@ I'll finish this video and then resume.
 
 10:45am. Reading Peter Lynch's One Up On Wall Street book.
 
-![alt text](images/image-33.png)
-![alt text](images/image-34.png)
-![alt text](images/image-35.png)
-![alt text](images/image-36.png)
+![alt text](../images/image-33.png)
+![alt text](../images/image-34.png)
+![alt text](../images/image-35.png)
+![alt text](../images/image-36.png)
 
 I find this investment philosophy very interesting. Based on what he is saying I should have invested in Nvidia, though at that point I had no money to invest and had thrown in the towel.
 
@@ -140,8 +140,8 @@ There is so much out there on how to trade well these days. I'll watch this tomo
 
 9:50pm. 
 
-![envy](images/image-37.png)
-![envy 2](images/image-38.png)
+![envy](../images/image-37.png)
+![envy 2](../images/image-38.png)
 
 God, I wish I had Jeffrey Neumann's insight. He is to trading what Elon Musk is to entrepreneurship. I was never envious of other traders until I read his interview in the newest Market Wizards book.
 
@@ -172,7 +172,7 @@ Crypto is mostly Bitcoin. It seems like it's close to breaking out, but I want t
 
 In Croatia where I live there is a lot of inflation and the stock markets of Crotia and Slovenia have burst from 1.5 decade long consolidations. Reminds me of China and the emerging markets in the 00s. Back then it also made a huge move.
 
-![KDEF mid July 2025](images/image-39.png)
+![KDEF mid July 2025](../images/image-39.png)
 
 Too bad I didn't buy this instead of the euro ETFs or ASWC.
 
@@ -182,9 +182,9 @@ I just checked in IB, and I am restricted buying due to dumb European regulation
 
 10:25pm. As an aside, here are some pullbacks that are good buying opportunities on my watchlist.
 
-![ZS](images/image-40.png)
-![NET](images/image-41.png)
-![DAVE](images/image-42.png)
+![ZS](../images/image-40.png)
+![NET](../images/image-41.png)
+![DAVE](../images/image-42.png)
 
 These are opportunities to buy momentum stocks at a better price point, but what makes them opportunities is that I stretched out my holding period to a minimum of two weeks.
 
@@ -212,7 +212,7 @@ Finding KDEF got me curious about the South Korean market, and when I looked, I 
 
 ***
 
-![SLQX](images/image-43.png)
+![SLQX](../images/image-43.png)
 
 There are also big bull markets in Slovenian and Crotian markets. For some reason the Expat Croatian ETF is underperforming the Crobex index greatly so I wouldn't recommend it.
 
@@ -266,7 +266,7 @@ Regarding chart patterns, they don't work, but what I've realized recently that 
 
 To illustrate this, one stock which I am watching is CoreWeave.
 
-![CRWV](images/image-44.png)
+![CRWV](../images/image-44.png)
 
 It looks like this on the weeklies. I hate buying runups like these as that just leads to a lot of volatility. Large rises have a lot of pump in them regardless they are smooth or jumpy, which gets followed by a dump. I think the Quantitative Momentum book that I posted illustrated this well. Statistically, large 1 month moves lead to mean reversion while 6 month moves lead to expansion. That's just the statistical view. The counterfactual way of thinking where you are putting odds on various scenarios, would allow you to see while it's true that there is an immediate danger of reversal in the present, you know that the market leads would hold on to their gains even after a huge rise such as this one.
 
@@ -424,14 +424,14 @@ There was more in the thread, but I'll keep those parts private.
 
 1:55pm. I think the main thing I should do now is check out on which exchanges these stocks are trading and get the market data subscriptions. Last time when I rotated my portfolio I did so with delayed data, which isn't the smartest way of doing things.
 
-![xerta](images/image-49.png)
-![vienna](images/image-50.png)
-![euronext](images/image-51.png)
-![madrid](images/image-52.png)
+![xerta](../images/image-49.png)
+![vienna](../images/image-50.png)
+![euronext](../images/image-51.png)
+![madrid](../images/image-52.png)
 
 The market data is so damn expensive!
 
-![italiana](images/image-53.png)
+![italiana](../images/image-53.png)
 
 This is the one I need for LTMC.
 
@@ -439,11 +439,11 @@ Ok, nevermind. I'll just look at the delayed quotes as I have and move the limit
 
 I hate paying for services.
 
-![snapshots](images/image-54.png)
+![snapshots](../images/image-54.png)
 
 But snapshots could be worth it.
 
-![TWS snapshot](images/image-55.png)
+![TWS snapshot](../images/image-55.png)
 
 Ok, I see it. Nope, I don't have snapshots for LTMC, but I have for US stocks.
 
@@ -509,7 +509,7 @@ My plan back then was to look for a plan. But treating the market like a video g
 
 8:45pm. Reading /a/ threads on FX Senshi Kurumi.
 
-![wise anon is wise](images/image-56.png)
+![wise anon is wise](../images/image-56.png)
 
 This pretty much happened to me. In the end, all the daily noise got to me and I quit. I didn't lose money, but 6 years of going nowhere is quite a loss regardless.
 
@@ -529,7 +529,7 @@ It be a viable strategy if I were trading full time, but I am not. Gh...
 
 Most likely the spreads won't be too bad.
 
-![LTMC](images/image-57.png)
+![LTMC](../images/image-57.png)
 
 How about this as entry strategy - I'll just keep moving my bid up to the low of the last 15m. I'll do that move every 15m.
 
@@ -547,10 +547,10 @@ I'll decide what to do once I see the spreads.
 
 9:10pm. 
 
-![fx != stonks](images/image-58.png)
-![anon speaks the truth](images/image-59.png)
-![anon is looking for a win](images/image-60.png)
-![anon speaks the truth 2](images/image-61.png)
+![fx != stonks](../images/image-58.png)
+![anon speaks the truth](../images/image-59.png)
+![anon is looking for a win](../images/image-60.png)
+![anon speaks the truth 2](../images/image-61.png)
 
 Come to think of it, back when I was studying how to trade, after reading some trading books, I thought that momo trading is the way to trade, but momo stocks are a tiny universe of the whole market. There is no way that big players can take advantage of this style beyond a certain size. That really goes for everything.
 
@@ -574,27 +574,27 @@ With 20-30% positions I'll be getting close to the line on that second point, bu
 
 9:35pm. I could be reading the manga, but the /a/ threads are more interesting to me these days.
 
-![resell them to another sap](images/image-62.png)
-![Believing your trade must be bad because someone else agreed to it is just paranoid self-sabotage.](images/image-63.png)
+![resell them to another sap](../images/image-62.png)
+![Believing your trade must be bad because someone else agreed to it is just paranoid self-sabotage.](../images/image-63.png)
 
 9:45pm. Lol.
 
-![stay solvent longer than markets can stay irrational](images/image-64.png)
+![stay solvent longer than markets can stay irrational](../images/image-64.png)
 
 10pm. Kurumi-chan's author is hillarious.
 
-![lol memestocks are some is one of the most entertaining trends to come to finance](images/image-65.png)
-![lol](images/image-66.png)
-![lol](images/image-67.png)
-![lol](images/image-68.png)
-![lol](images/image-69.png)
-![lol](images/image-70.png)
+![lol memestocks are some is one of the most entertaining trends to come to finance](../images/image-65.png)
+![lol](../images/image-66.png)
+![lol](../images/image-67.png)
+![lol](../images/image-68.png)
+![lol](../images/image-69.png)
+![lol](../images/image-70.png)
 
 10:05pm. This is insightful
 
-![the bank will literally never get the money back 1](images/image-71.png)
-![the bank will literally never get the money back 2](images/image-72.png)
-![the bank will literally never get the money back 3](images/image-73.png)
+![the bank will literally never get the money back 1](../images/image-71.png)
+![the bank will literally never get the money back 2](../images/image-72.png)
+![the bank will literally never get the money back 3](../images/image-73.png)
 
 I never realized it before, but this is true up to a point. I never thought that a bank might not care if it doesn't get the loan paid.
 
@@ -606,7 +606,7 @@ This subject might be something worth asking the chatbots in the future. I assum
 
 10:25pm. Reading this manga makes me deeply uncomfortable. I've seen it described as psychological ryona, and that description is very apt.
 
-![psychological ryona](images/image-74.png)
+![psychological ryona](../images/image-74.png)
 
 She was already close to dying, why is she increasing the position size after barely surviving?
 
@@ -616,17 +616,17 @@ Is this what Jesse Livermore was like?
 
 She should read Mark Minervini's books.
 
-![no don't](images/image-75.png)
+![no don't](../images/image-75.png)
 
 Fx Senshi Kurumi-chan should be a must read for every trader. Amazing how the author trades the same way, and has learned nothing from his own manga. That is truly next level dedication to his work.
 
 10:35pm. You can imagine how well the trade went for her.
 
-![...](images/image-76.png)
+![...](../images/image-76.png)
 
 I should remember this could very well be me if I leverage myself in the stock market, or bet more than 25% on a single stock. Or don't cut my losses or buy into obvious pump and dumps.
 
-![...](images/image-77.png)
+![...](../images/image-77.png)
 
 It really hits too hard.
 
@@ -752,7 +752,7 @@ Let me save the messages I sent to Logris here. I am not sure if they mean anyth
 
 ///
 
-![IBKR does not allow South Korea yet](images/image-98.png)
+![IBKR does not allow South Korea yet](../images/image-98.png)
 
 Ah damn, it doesn't seem like IBKR gives access to South Korean markets.
 
@@ -786,15 +786,15 @@ Damn, I thought it might be better once we include less liquid stocks, but it's 
 
 ***
 
-![EU Momo](images/image-2025-07-19-123348.png) 
-![EU Momo](images/image-2025-07-19-123321.png)
+![EU Momo](../images/image-2025-07-19-123348.png) 
+![EU Momo](../images/image-2025-07-19-123321.png)
 
 Europe is 33 / 276 = 12%. It actually isn't that much better than the US.
 
 ***
 
-![EU Momo](images/image-2025-07-19-123650.png) 
-![EU Momo](images/image-2025-07-19-123526.png)
+![EU Momo](../images/image-2025-07-19-123650.png) 
+![EU Momo](../images/image-2025-07-19-123526.png)
 
 With a lower turnover, I get 88 / 627 = 14%.
 
@@ -808,15 +808,15 @@ I'll make a ticket asking about access to South Korean markets. The IB reps can 
 
 ***
 
-![South Korea Momo](images/image-2025-07-19-125128.png) 
-![South Korea Momo](images/image-2025-07-19-125032.png)
+![South Korea Momo](../images/image-2025-07-19-125128.png) 
+![South Korea Momo](../images/image-2025-07-19-125032.png)
 
 159 / 382 = 41.6%. Outside the index, SK is similar to Hong Kong in terms of breadth.
 
 ***
 
-![South Korea Momo](images/image-2025-07-19-125417.png) 
-![South Korea Momo](images/image-2025-07-19-125339.png)
+![South Korea Momo](../images/image-2025-07-19-125417.png) 
+![South Korea Momo](../images/image-2025-07-19-125339.png)
 
 287 / 1281 = 22.4%. Increasing the universe of tradable stocks doesn't improve the breadth, but reduces it. It seems that for every market, there is a liquidity sweet spot.
 
@@ -854,43 +854,43 @@ I started from such a low point, that I am only up like a single monthly salary.
 
 Ok, now let me think. If I want to sell my DEFS position and rotate into individual stocks, which should I pick? I'll ignore the large bull market in Hong Kong and Asia to focus on euro denominated stocks.
 
-![RHM](images/image-99.png)
+![RHM](../images/image-99.png)
 
 I am still bullish on euro defense stocks, but as you can see on the chart, their momentum has been waning lately. Last week I though that I should go 25% long RHM and 20% other stocks, but it cannot be justified in this case. I think I'd sleep better at night if I wasn't so invested in it.
 
-![HAG](images/image-100.png)
-![R3NK](images/image-101.png)
+![HAG](../images/image-100.png)
+![R3NK](../images/image-101.png)
 
 It'd be fine to buy R3NK on the way up from a decline.
 
-![BAB](images/image-102.png)
+![BAB](../images/image-102.png)
 
 This one is LSE so that means stamp tax, but it also has a listing on the German bourse. I could just get it there.
 
-![LDO](images/image-103.png)
-![TKA](images/image-104.png)
-![HO](images/image-109.png)
-![EXA](images/image-105.png)
+![LDO](../images/image-103.png)
+![TKA](../images/image-104.png)
+![HO](../images/image-109.png)
+![EXA](../images/image-105.png)
 
 EXA would be pretty hard to buy here so if I did so, instead of the standard 10%, I'd use 5% as my initial buy. Should have gotten it last week. If I'd been trading individual stocks that's what I would have done.
 
 These 8 stocks that I've posted so far have all been defense related. The following won't be.
 
-![LTMC](images/image-106.png)
+![LTMC](../images/image-106.png)
 
 Casino and gambling stock. High tight flag pattern.
 
-![ACT](images/image-107.png)
-![FCT](images/image-108.png)
-![GRE](images/image-110.png)
+![ACT](../images/image-107.png)
+![FCT](../images/image-108.png)
+![GRE](../images/image-110.png)
 
 GRE is a bit interesting.
 
-![GRE daily](images/image-111.png)
+![GRE daily](../images/image-111.png)
 
 Take a look at this large selloff. Initially, these large sells are a bear pattern, but if the market can resist the selling, after a month or so it becomes a bull pattern. TKA also had this pattern.
 
-![TKA daily](images/image-112.png)
+![TKA daily](../images/image-112.png)
 
 You can see how in mid May it had an earnings breakdown, which is bad. But since the momentum didn't follow through on the downside, now it's actually a bull pattern.
 
@@ -919,7 +919,7 @@ GRE
 
 Now I need to pick 3 out of these 4...
 
-![ACT daily](images/image-113.png)
+![ACT daily](../images/image-113.png)
 
 On review, let me eliminate ACT. The reason being is that it's extended now, so I don't want to enter right here. Unlike EXA, I don't expect ACT to be the next TASR even though it has sweet momentum. 2 weeks ago it would have been the ideal time to buy, but right now, it's not so much.
 
@@ -955,7 +955,7 @@ How to use BasketTrader by Interactive Brokers for swing trading
 
 I'll have to take a break from my job tomorrow in order to figure this out while the market is open.
 
-![what are adaptive limit orders](images/image-114.png)
+![what are adaptive limit orders](../images/image-114.png)
 
 What are adaptive limit orders?
 
@@ -963,7 +963,7 @@ Sigh, I am going through so much trouble simply because I don't want to spend ev
 
 But I don't want to do that. Being away from the market even for a day means I could lose 1-2%.
 
-![multi instrument](images/image-115.png)
+![multi instrument](../images/image-115.png)
 
 What are these multi instrument tools?
 
@@ -1059,15 +1059,15 @@ Let me go over all of my trades in turn.
 
 First on, 7/21 I bought RHM, HAG, and R3NK for about 10% of my portfolio each.
 
-![RHM](images/image-125.png)
+![RHM](../images/image-125.png)
 
 Wow, I pretty much got in at the worst possible time on RHM at 1837. The limit order that I put in was probably the daily high. The other two aren't any better.
 
-![HAG](images/image-126.png)
+![HAG](../images/image-126.png)
 
 I got HAG at 103.
 
-![R3NK](images/image-127.png)
+![R3NK](../images/image-127.png)
 
 I got R3NK at 71.2.
 
@@ -1077,21 +1077,21 @@ What I did with DEFS was really horrible. I should have just recognized my mista
 
 That covered what happened on Monday which was 7/21/2025.
 
-![TKA](images/image-129.png)
+![TKA](../images/image-129.png)
 
 On Tuesday I bought TKA at 10.945. On Monday it had a huge rise and I regretted not getting in on Friday, so when it sunk so sharply on Tuesday I decide to pull the trigger and got it on the daily low.
 
 I sold DEFS at 5.65 to make room for it. There were a lot of DEFS trades that day so I'll go over it later.
 
-![EXA](images/image-128.png)
+![EXA](../images/image-128.png)
 
 EXA was the only 5% position in my portfolio and I bought it at 100.6.
 
-![GRE](images/image-130.png)
+![GRE](../images/image-130.png)
 
 I got GRE at 66.3.
 
-![LTMC](images/image-131.png)
+![LTMC](../images/image-131.png)
 
 I got LTMC at 24.3.
 
@@ -1105,13 +1105,13 @@ At the end of Tuesday I had 7 of my desired buys and I was 120% long the market.
 
 On Wednesday...
 
-![HO](images/image-132.png)
+![HO](../images/image-132.png)
 
 I got HO at 240. I did that at around noon when it sold off, only to watch it dump more near the close. At that point I realized that playing with limit orders and getting in at noon was a mixed bag for me. It wasn't worth the stress I was having to endure, and even for the AWCS to DEFS rotation, had I not bought it near the lows at 5.41, but near the close at around 5.45 I would have still been fine. What really matters is waiting a few days to get a better price, not picking the exact low and trying to avoid the spread.
 
 Every time I'd buy a stock like this, I'd sell 10% DEFS to compensate. I managed to get out of it at 5.69 that day. In fact, since I don't have a position in it anymore, let me grab a chart of it from the IBKR platform. As mentioned, the IBKR version has a lot more intraday data. I'd like to post a TradingView one instead, but it barely has anything on it.
 
-![DEFS](images/image-133.png)
+![DEFS](../images/image-133.png)
 
 Oh, it has the red arrows showing my trade times. Yeah, it was pretty horrible experience all around doing this. I've learned the wrong thing from the AWCS to DEFS and the ESPO to AWCS rotations. They taught me that if I mess with limit orders I'll make better trades. Trading the EUR/USDC with limit orders every time I got my salary and getting lucky was the start of that habit. The only reason it worked then is because I had the leeway to be patient and wait for the limit to be hit which I didn't have this time around.
 
@@ -1121,12 +1121,12 @@ It's not so much the loss that made this stressful, but the fact that for the du
 
 I didn't want it to be even 130%. 110% long is my hard limit. I'll never let this happen again.
 
-![LDO](images/image-134.png)
+![LDO](../images/image-134.png)
 
 On Thurday I bought LDO at 48.7 an hour after the open. I got baited hard by pullback after the initial positive action, and got in at the start of a negative trend day on the wrong side. Sold DEFS at 5.736 to compensate.
 
-![ACT](images/image-135.png)
-![FCT](images/image-136.png)
+![ACT](../images/image-135.png)
+![FCT](../images/image-136.png)
 
 And on Friday I made my final two buys: ACT at 150.2 and FCT at 16.58. I wrote that I'd buy BAB instead of ACT last week, but now that I've changed my strategy to using market (limit) orders paying for the truck sized spread or the UK stamp tax is much less attractive to me. I thought about it for a while and decided to just give it a pass.
 
@@ -1162,7 +1162,7 @@ I've spent a lot of time thinking about the market and if I want to make profit 
 
 7/28/2025
 
-![euro defense stocks crushed](images/image-173.png)
+![euro defense stocks crushed](../images/image-173.png)
 
 Had to screenshot this. This does explain why people don't just fill up their portfolio with market leaders. The volatility is eye watering. Since Thales broke through long term support I decided to sell it and buy EXA instead and SAAB_B.
 
@@ -1240,7 +1240,7 @@ Last week, the poorly done rotation whipped me badly and the Monday selloff in t
 
 Here is how it looked for me on Monday:
 
-![bloodbath](images/image-174.png)
+![bloodbath](../images/image-174.png)
 
 ***
 
@@ -1415,7 +1415,7 @@ I know that the market definitely has a habit of selling off below support befor
 
 12:45pm. Oh, it seems Chris Camillo wrote a book 'Laughing at Wall Street'. I just got it off Libgen.
 
-1:50pm. ![swing trade](images/image-175.png)
+1:50pm. ![swing trade](../images/image-175.png)
 
 Oh my god, having pro traders explain their setups is a huge advantage that I didn't have back then. I could watch these videos and take the best ideas applicable to my style.
 
@@ -1587,7 +1587,7 @@ Even though I don't intend to daytrade, I really need to improve my execution. T
 
 11:35pm. 
 
-![lvl 3](images/image-176.png)
+![lvl 3](../images/image-176.png)
 
 I had no idea level 3 even existed.
 
@@ -1615,12 +1615,12 @@ I'll have to leave this video for tomorrow, but I'll eagerly watch it then.
 
 10:05pm. Finally have some time to watch videos.
 
-![diagram](images/image-177.png)
+![diagram](../images/image-177.png)
 
 https://youtu.be/MgAbd8XStxY
 Trading The Mayhem
 
-![mayhem handling](images/image-178.png)
+![mayhem handling](../images/image-178.png)
 
 I like Helix Trader's vids. They are very informative.
 
@@ -1706,7 +1706,7 @@ https://www.youtube.com/@tradingwithrayner/videos
 
 Ueh, I enjoy vids like the Helix trader ones where he introduced various trading system. Not sure if this channel has any of that.
 
-![mean reversion system](images/image-179.png)
+![mean reversion system](../images/image-179.png)
 
 Yeah, it does have some results. Not bad. I guess the channel is worth following then.
 
@@ -1715,17 +1715,17 @@ Forex Trading is TWISTED and I'm Profiting From it
 
 Andrea has really good editing, it's amazing.
 
-![webinar](images/image-180.png)
+![webinar](../images/image-180.png)
 
 So it's tomorrow at 6pm. Maybe I'll have a look. I am curious if they have anything I could add to my trading methodology.
 
 1:25pm. I think I'll do a recording using OBS.
 
-1:50pm. ![vwap](images/image-181.png)
+1:50pm. ![vwap](../images/image-181.png)
 
 Knowing how to execute large orders is valuable no matter what kind of trader you are.
 
-![nice](images/image-182.png)
+![nice](../images/image-182.png)
 
 This is nice. I have to find a to plot VWAP moving averages on daily price charts.
 
@@ -1742,7 +1742,7 @@ Instead, weren't there books I wanted to read instead, on options trading for ex
 
 It'd be cool if I could find some books on quantified options strategies that have backtested results.
 
-10:50pm. ![options strategy](images/image-183.png)
+10:50pm. ![options strategy](../images/image-183.png)
 
 The way I understand it, there is an edge is selling options in general. There is a market premium to it similar to momentum.
 
@@ -1756,27 +1756,27 @@ While with regular stock trading I'll be able to wing it using the 8 and the 12 
 https://youtu.be/HnNBOReTb8g
 This SIMPLE Trading Strategy Has Generated 26,210% Over The Last 20 Years...
 
-![turtle system](images/image-184.png)
+![turtle system](../images/image-184.png)
 
 Teo is okay. One thing I haven't realized until I watched his first video today is that momentum trading really is different from trend following.
 
 I am also realizing that I don't want to trade CANSLIM, but that I want to go in the direction of pure momentum trading. I watched some IBD videos, and I don't like the charts they are showing.
 
-![200 day high](images/image-185.png)
+![200 day high](../images/image-185.png)
 
 I definitely would never trade a system that just buys breakouts. As a momentum trader, I am really looking for a powerful monthly move to start a trend and they don't happen in most of these markets. Also, the nature of commodities is different from stocks to begin with.
 
-![MACD](images/image-186.png)
+![MACD](../images/image-186.png)
 
 I've never put any stock in indicators whatsoever a decade ago, but some of the scalping examples he is showing seem interesting.
 
-![ROC](images/image-187.png)
+![ROC](../images/image-187.png)
 
 Yeah, I've been looking down on these, but now that I know what they are measuring, I could see them being useful on occasion.
 
 Not for my kind of trading.
 
-![MACD on forex](images/image-188.png)
+![MACD on forex](../images/image-188.png)
 
 I've been watching this video, and this guy is getting great results trading forex on all things.
 
@@ -1817,7 +1817,7 @@ Let me just test if recording works when the screen turns off.
 
 With that taken care of...since options books are a bust, let me read the one by Chris Camillo.
 
-![canslim](images/image-189.png)
+![canslim](../images/image-189.png)
 
 There is also the latest edition of William O'Neil's book. But these charts are so damn small!
 
@@ -1825,17 +1825,17 @@ This is why I hate epub readers.
 
 Let me try Thorium Reader.
 
-![better](images/image-190.png)
+![better](../images/image-190.png)
 
 Thorium Reader is better than Aquile, but not quite there. The problem is that the images are simly too low res. Let me try finding a pdf of this book.
 
-![pdf](images/image-191.png)
+![pdf](../images/image-191.png)
 
 No need to pay for an education when Libgen exists.
 
 I am impressed that in the latest edition he is showing stock charts from Jesse Livermore's time.
 
-![pdf 2](images/image-192.png)
+![pdf 2](../images/image-192.png)
 
 Yeah, the pdf is much better. I hate how Thorium Reader doesn't full screen the image. What the hell.
 
@@ -1851,25 +1851,25 @@ And buy points are on cherry picked breakouts.
 
 2:20pm. But I do like my own momentum system.
 
-![camillo's results](images/image-193.png)
+![camillo's results](../images/image-193.png)
 
 Rather than joining Andrea's group, I should join Camillo's and see how they operate.
 
 2:40pm. Surprised how many stock charts the 4th edition has. It's all about them.
 
-![large caps](images/image-194.png)
+![large caps](../images/image-194.png)
 
 Interesting what he has to say on large caps. We're currently in such a market with the megacaps like NVDA and MSFT controlling the market.
 
-![jobs](images/image-195.png)
+![jobs](../images/image-195.png)
 
 I think he talked about this a decado ago, but I completely forgot about it. Big companies don't create jobs.
 
-![group moves](images/image-196.png)
+![group moves](../images/image-196.png)
 
 This part of the book was really important for me. Group action makes the big winners much more obvious.
 
-5:25pm. ![miss](images/image-197.png)
+5:25pm. ![miss](../images/image-197.png)
 
 Ah damn it, I am going to have to miss this since I'll be going to the beach in half an hour.
 
@@ -1879,7 +1879,7 @@ Actually, it might just be enough time to let me into the room.
 
 That poker bot could make me millions.
 
-5:45pm. ![info arb](images/image-198.png)
+5:45pm. ![info arb](../images/image-198.png)
 
 I really want to get good at this type of investing at some point in my life.
 
@@ -1923,14 +1923,14 @@ I'll recommend the book to Logris again. I am halfway through it currently.
 
 8/11/2025
 
-![DYNX](images/image-200.png)
-![RPL](images/image-201.png)
+![DYNX](../images/image-200.png)
+![RPL](../images/image-201.png)
 
 Got some tips from Logris on these tokens, but I am not going to act on those. Reminiscences of a Stock Operator has a lot to say on the subject of tips. I would also have to transfer the money out of my IBKR account back into my crypto wallet and I don't want to dot hat. That having said, he made a really interesting case on buying ETH. I'll (most likely) buy it next month since the momentum is there. I'll have enough to buy my usual position once I get paid.
 
 The basic case is that the market is glitching out and treasury companies have announced huge buying volumes in ETH, he is bullish on it. So from a fundamental perspective it makes sense, and from a techical perspective the momentum is almost there too, 3 weeks to see whether it sells off from the top after the recent sharp rise would be just right.
 
-![long bonds](images/image-199.png)
+![long bonds](../images/image-199.png)
 
 I didn't like the hedge fund market wizards when I first read it, but I was skimming it now and this caught my eye. It's not something I'd ever consider, but I'll have to look at the bond charts later to see how it worked out.
 
@@ -1948,7 +1948,7 @@ There is a lot of opportunity to lose money everywhere.
 
 8/12/2025
 
-6:10pm. ![hedge fund wizard](images/image-202.png)
+6:10pm. ![hedge fund wizard](../images/image-202.png)
 
 I think on rereading that I was unfair on the hedge fund market wizards book. I kind of like it now.
 
@@ -1956,7 +1956,7 @@ You know, I really wonder what Mark Minervini's track record was after the 2000s
 
 It cannot possibly been as large as 200% otherwise he would be owning the world by now. He did great in a investing contest a few years ago, so it's not like I think he's done poorly. I am just curious what's the actual realistic return for somebody of his caliber.
 
-9:05pm. ![options](images/image-203.png)
+9:05pm. ![options](../images/image-203.png)
 
 I admit, I am thinking of trading options. A lot of the momentum situations I am in have the potential to go up a lot in the intermediate term, so buying long dated options makes sense in the light of what they are saying here.
 
@@ -1966,15 +1966,15 @@ Instead of buying ETH outright, I should look into how much ETH calls are going 
 
 That's the problem with momentum. I realized 3 weeks ago that it was a volatility beast when I lost 10% of my portfolio in 6 trading days.
 
-![options](images/image-204.png)
+![options](../images/image-204.png)
 
 ...I have no idea. I found some options charts, but in contrast to the underlying data, options are hard to interpret for me.
 
-![trend is ignored](images/image-205.png)
+![trend is ignored](../images/image-205.png)
 
 This was a great chapter in the book. Can I somehow get historical option price data from IBKR?
 
-![the answer](images/image-206.png)
+![the answer](../images/image-206.png)
 
 Egh.
 
@@ -2011,7 +2011,7 @@ Glad to see it is still around. I used to read it in the last decade.
 
 I've been thinking about CANSLIM, and the advice it gives for market timing, and when to buy individual stocks, is definitely its weakest part. Also on the charts of some of its big winners at the start of the book, there are stocks which had weak momentum post-breakout. Furthermore, the very first chart of ...
 
-![1880s stock](images/image-207.png)
+![1880s stock](../images/image-207.png)
 
 Stocks like these you can find plentiful in the Japanese market today and they are a nightmare to trade. For momentum to work, liquidty is necessary.
 
@@ -2029,7 +2029,7 @@ https://quantifiableedges.blogspot.com/2009/08/distribution-days-quantified.html
 
 Oh yeah, let me not forget to post this.
 
-![nuff said](images/image-208.png)
+![nuff said](../images/image-208.png)
 
 11:25am. https://www.reddit.com/r/wallstreetbets/comments/1k3o8au/asts_dd_the_space_trade_will_cum/
 
@@ -2043,17 +2043,17 @@ ASTS was one of my momentum picks so I am interested in the reasoning behind it.
 
 11:45am. Oh yeah, I forgot the webinar by Cimitan. Let me take a look.
 
-![forex results](images/image-209.png)
+![forex results](../images/image-209.png)
 
 It's very good, but I'd have hoped a daytrading system would be more like a straight line up. He's had like 3 flat months. This isn't qualitatively much better than my momentum trading, even I doubt I'll have 300% months ever. But my momentum trading takes a few hours over the weekend instead of being glued to the screen every day.
 
 Also surprised this is in forex. In the videos Andrea says that we don't have access to order flow in forex, so how did they manage that?
 
-![forex results 2](images/image-210.png)
+![forex results 2](../images/image-210.png)
 
 Very streaky. I guess their opportunities don't come around every day. They are more like snipers than grinders.
 
-![rough](images/image-211.png)
+![rough](../images/image-211.png)
 
 These results are rough, but I respect them. These guys are far beyond the average guru.
 
@@ -2069,7 +2069,7 @@ https://www.worldclassedge.com/workshop-replay
 
 Here it is.
 
-![what do they have in common](images/image-212.png)
+![what do they have in common](../images/image-212.png)
 
 He's asking what various retail strategies that he mentioned have in common? My answer would be that they are completely subjective.
 
@@ -2077,15 +2077,15 @@ Let me go back to my recording so I can see the chat.
 
 ...No, it's not showing the messages from other people just from the admin.
 
-![hmmm really](images/image-213.png)
+![hmmm really](../images/image-213.png)
 
 Does this have any validity on longer term timeframes?
 
-![order flow](images/image-214.png)
+![order flow](../images/image-214.png)
 
 I don't think I need this for my momentum approach, but it's very useful knowledge to have if I end up making daytrading bots.
 
-12:45pm. ![psychology](images/image-215.png)
+12:45pm. ![psychology](../images/image-215.png)
 
 In fact, psychology was never the issue for me a decade ago. Nor was taking losses. I just could never gather the courage to extend my risk tolerance in both time and price.
 
@@ -2363,7 +2363,7 @@ Though rather than wait for Japan, if euro stocks give me too much trouble I'll 
 9:45pm. https://youtu.be/HFEs7eUbkHA
 How to make money using one day momentum
 
-![swing trading](images/image-216.png)
+![swing trading](../images/image-216.png)
 
 Don't know why I never considered swing trading using daily momentum. Some of these stocks have smooth moves.
 
@@ -2374,7 +2374,7 @@ How to profit from the Cinderella Strategy
 
 His explanation of the earning surpise is the best over. I remember learning this well from Stockbee.
 
-![cinderella strategy](images/image-217.png)
+![cinderella strategy](../images/image-217.png)
 
 Either way, at the of next week, I will finally flip the cards. And I've decided that I am going to push my luck with my winners. Forget the defense stocks. I want to push my luck with stocks that have great monthly momentum first and foremost.
 
@@ -2417,11 +2417,11 @@ I found it interesting that he says he isn't look at earnings, but rather sales 
 
 2:55pm. Pradeep mentioned he uses OPG orders. I had no idea these existed.
 
-![OPG order](images/image-218.png)
+![OPG order](../images/image-218.png)
 
 OPG stands for Opening Price Guaranteed. So I could use these to minimize slippage?
 
-![nice](images/image-219.png)
+![nice](../images/image-219.png)
 
 Oh, nice. I should these instead of coming in 45m before the close.
 
@@ -2475,7 +2475,7 @@ QULLAMAGGIE Stock Trading Strategy EXPLAINED | $5k to $100m!
 
 Maybe I'll watch this later, but by this point I have everything I need. I only heard about Qullamaggie very recently. He was Pradeep Bonde's student.
 
-![setups](images/image-220.png)
+![setups](../images/image-220.png)
 
 Let me just say that I really dislike this way of framing the market. It has zero relation with reality, and it's much better to trade based on 3-12 month momentum. Let me make it 4-12 month momentum as I'd never buy a stock just because it has had good 3 month momentum, but I would 4.
 
@@ -2483,11 +2483,11 @@ I want to say that when you're holding stocks for months, the specific patterns 
 
 It's so annoying that I cannot use regular TradingView and have to resort to private browsers.
 
-![SMCI](images/image-221.png)
+![SMCI](../images/image-221.png)
 
 Monthly charts are really good for getting a sense for the trend. I am kind of feeling bullish on this stock. But the last month has been very negative for it.
 
-![SMCI](images/image-222.png)
+![SMCI](../images/image-222.png)
 
 It hugely gapped down on earnings, and sold off in big volume. So the assumption based on that is that it is in a downtrend.
 
@@ -2528,7 +2528,7 @@ For short term trading, what would make a big difference is that this time aroun
 
 For long term trading, I am satisfied with naive momentum, but for short term trading where the edges are thinner, I would make sure that I have the stats on my side. Statistics might be the holy grail in trading.
 
-![parabolic short](images/image-223.png)
+![parabolic short](../images/image-223.png)
 
 Agh, how do I borrow to short these kinds of stocks?
 
@@ -2536,7 +2536,7 @@ Do I need a different brokerage from IBKR? Is that the only choice?
 
 10:30am. I hate it that all of these guys short the parabolic stocks and I can't do it.
 
-![parabolic long](images/image-224.png)
+![parabolic long](../images/image-224.png)
 
 Oh, parabolic long. I actually wasn't aware of these last decade and only conjectured their existence in recent months. I read a Youtube comment that Steve Dux trades those. Also, Lance Breitstein said he trades capitulations.
 
@@ -2587,7 +2587,7 @@ I won't beat the larger quants, but I'll have an edge over other retail traders.
 
 11:15am. Let me watch these videos. I won't start the research work today, but I'll let it simmer in my mind for a bit.
 
-![capitulation](images/image-225.png)
+![capitulation](../images/image-225.png)
 
 I should just learn to swing trade these capitulations.
 
@@ -2601,7 +2601,7 @@ I ended up doing this during the end of my trading journey a decade ago.
 
 Stocks are so random and volatile, and I was trying to find places where they could have good persistence for swing trades. Couldn't do it.
 
-![up 2.5m](images/image-226.png)
+![up 2.5m](../images/image-226.png)
 
 He's up 2.5 million.
 
@@ -2623,7 +2623,7 @@ Yeah, it's a grind watching his videos. I cannot even see what people on Twitch 
 
 And that was pretty much what he covered. I know all this from Pradeep and so on.
 
-![breakouts](images/image-227.png)
+![breakouts](../images/image-227.png)
 
 In the last decade, I was very lazy when it came to trading breakouts even though that was one of my main systems back then. For such an intense system, I'd want to also automate it.
 
@@ -2646,7 +2646,7 @@ Algorithmic Trading – Machine Learning & Quant Strategies Course with Python
 
 My usual process as a software engineer when encountering a new domain is to look for tools and do research on ways to make my future work easier. That means, watching videos, reading articles and so on. In the recent years, I've started to rely on chatbots for a part of that effort.
 
-![P](images/image-228.png)
+![P](../images/image-228.png)
 
 This is what Perplexity had to say when I asked it about getting data, but I don't want to just trust it. Instead I'll also spend time manually gathering resources before deciding on a plan.
 
@@ -2658,7 +2658,7 @@ Like with this job at Tao Ceti that I have now, I could target some lower hangin
 
 I've worked very hard over the past decade, so I might as well harvest the fruits of my labor. I can take the easy path for once.
 
-2pm. ![course](images/image-229.png)
+2pm. ![course](../images/image-229.png)
 
 This looks like it will be pretty interesting actually. I thought that they'd just cover dumb indicator models, but all of these projects are beyond what I expected.
 
@@ -2686,11 +2686,11 @@ It's not like I'll be out of options either way.
 
 I can make my success a certainty.
 
-4:30pm. ![systems academy](images/image-230.png)
+4:30pm. ![systems academy](../images/image-230.png)
 
 Systems Academy. I decided to pass on World Class Edge by Andrea Cimitan, but Systems Academy might be more up my alley.
 
-4:35pm. ![SA](images/image-231.png)
+4:35pm. ![SA](../images/image-231.png)
 
 15-20k is very expensive. It's not worth it for a part time project. It's also offered on a limited basis.
 
@@ -2706,7 +2706,7 @@ I'll watch this when I get back.
 
 8:15pm. Damn, the water was freezing. Why am I even going swimming?
 
-![interesting](images/image-232.png)
+![interesting](../images/image-232.png)
 
 This is pretty interesting. It makes me want to watch the video. Next weekend...I'll be reviewing charts, but in general, I am going to make it my goal to figure out how I can get good data either from IBKR or some other platform. While swimming I've realized that more than trying to figure out a swing trading strategy, I need to do momentum studies of all the stocks in the past two decades.
 
@@ -2716,7 +2716,7 @@ I need to be able to see all the winners in a particular year and during the var
 
 After I have the data, I'll be able to let me programming skills take care of the rest.
 
-![renko](images/image-233.png)
+![renko](../images/image-233.png)
 
 What's this?
 
@@ -2725,7 +2725,7 @@ Master Renko Trading With This Game-Changing Book! (2025)
 
 All of this sounds so retarded.
 
-![renko](images/image-234.png)
+![renko](../images/image-234.png)
 
 Oh, I saw that TradingView had this kind of chart, and it looked more visually appealing, but I didn't really understand what it was about.
 
@@ -2738,23 +2738,23 @@ Introduction to Renko Charts: Tutorial
 
 Actually this is pretty cool.
 
-![THEON renko](images/image-235.png)
+![THEON renko](../images/image-235.png)
 
 This is super cool. This is a renko chart based on ATR of 14. Here is how the candlestick chart looks like...
 
-![THEON candlestick](images/image-236.png)
+![THEON candlestick](../images/image-236.png)
 
 Yeah, this isn't pointless. Being able to see the trend clearly and focus on it has its uses.
 
-![THEON linebreak](images/image-237.png)
+![THEON linebreak](../images/image-237.png)
 
 I have no idea what line break charts even are.
 
-![KTG](images/image-238.png)
+![KTG](../images/image-238.png)
 
 THEON and KTG are two stocks I was considering buying, but they got crushed.
 
-![KTG](images/image-239.png)
+![KTG](../images/image-239.png)
 
 Here is how it looks like in actuality.
 
@@ -2762,7 +2762,7 @@ Hmmm, I see. Even though I say that it should use ATR or %, it rounds them to 1,
 
 9pm. Honestly, I never thought about prices in terms of boxes like these. There is a point to it.
 
-![SMCI](images/image-240.png)
+![SMCI](../images/image-240.png)
 
 If stocks moved in smooth trends like these, trading would sure be easy.
 
@@ -2792,7 +2792,7 @@ I definitely don't want to make a trading system by optimizing the parameters fo
 
 8/25/2025
 
-12:55pm. ![ORB](images/image-241.png)
+12:55pm. ![ORB](../images/image-241.png)
 
 This is from the video:
 
@@ -2801,7 +2801,7 @@ Backtesting.py (2/2) - Intraday ORB Strategy in Python
 
 Pradeep in one of his videos mentioned Mark Boucher, I think it was in the TradeLion video. It sounded vaguely familiar, but I had trouble remembering who he was. Today I remember that he wrote a book on opening range breakouts. He wrote the Hedge Fund Edge book in 1999 which talked about opening range breakouts.
 
-![](images/image-242.png)
+![](../images/image-242.png)
 
 No, I have to be wrong. I must be thinking of a different book. This can't be it.
 
@@ -2813,11 +2813,11 @@ I think if I want a daytrading system I'd do well to backtest this.
 
 I said it back then, knowing the stats won't change the outcomes for my style of trading.
 
-8:45pm. ![orb](images/image-243.png)
+8:45pm. ![orb](../images/image-243.png)
 
 Let me read this paper.
 
-![vwap](images/image-244.png)
+![vwap](../images/image-244.png)
 
 Wow, this is amazing.
 
@@ -2828,35 +2828,35 @@ https://papers.ssrn.com/searchresults.cfm?term=day%20trading
 
 The papers can be found for free here.
 
-![vwap](images/image-245.png)
+![vwap](../images/image-245.png)
 
 So this is a variation on the OBR system they wrote about in earlier papers.
 
 I feel like I am benefiting from reading this paper. I could make use of a system such a this on stocks in play.
 
-![17% win rate](images/image-246.png)
+![17% win rate](../images/image-246.png)
 
 This system made 100% per year despite having a 17% win rate. Crazy.
 
-![vwap](images/image-247.png)
+![vwap](../images/image-247.png)
 
 Maybe I should backtest how this would work for longer term trading?
 
 Going into the paper I was sure they do a mean reversion system rather than a trend following one. Quite surprising that wasn't the case.
 
-![time of day profitability](images/image-248.png)
+![time of day profitability](../images/image-248.png)
 
 I keep hearing that daytraders should avoid the midday. This seems to bear out.
 
-![toby](images/image-249.png)
+![toby](../images/image-249.png)
 
 Maybe Toby Crabel is the one I was thinking of?
 
-![volatility](images/image-250.png)
+![volatility](../images/image-250.png)
 
 You know what? I think I could do my momentum trading during regular market periods and do systematic daytrading during volatile ones. That could be very effective.
 
-![sigh](images/image-251.png)
+![sigh](../images/image-251.png)
 
 This is what I could have done in 2007 - 2014 instead of bashing my head like a moron. I could have picked up programming and created a system such as this even I couldn't daytrade in the US due to the PDT rule.
 
@@ -2886,36 +2886,36 @@ I think that picking up programming skills and getting completely systematic wou
 
 I really do like Andrea's ideas regarding volume. The VWAP paper proves there is something to looking at volume. I bet it would be possible to improve it significantly. But you know, just because you've been given a new way of doing art, doesn't mean you'll be a good artist. That's the crux of the issue here.
 
-![lol](images/image-252.png)
+![lol](../images/image-252.png)
 
 So he lets pretty much anyone on his show. Lol. Sure, he says in his latest videos that they've been verified, but we only have his word for it. It's kind of like taking a known criminal's word that he'll be clean.
 
-![lol 2](images/image-253.png)
+![lol 2](../images/image-253.png)
 > God is powering my edge.
 
 Loooool. This is hillarious.
 
-![lol 3](images/image-254.png)
+![lol 3](../images/image-254.png)
 
-![high risk to reward](images/image-255.png)
+![high risk to reward](../images/image-255.png)
 
 > A high risk to reward system.
 
 Lollol.
 
-![rr](images/image-256.png)
+![rr](../images/image-256.png)
 
 Minervini made a video saying that risk/reward is the holy grail of trading. I kind of get the sense that many of the discretionary traders don't really know what their edge is, and I am probabbly guilty of that at this point in time as well.
 
-![wow](images/image-257.png)
+![wow](../images/image-257.png)
 
 I didn't know he outright stole people's money in a rugpull.
 
-![omg](images/image-258.png)
+![omg](../images/image-258.png)
 
 Oh my god, now Iman is promoting his own shit. I must be retarded not to see this coming.
 
-![fake](images/image-259.png)
+![fake](../images/image-259.png)
 
 At this point, if you see anybody selling you anything you might as well go the other way. Is there even a need to verify them?
 
@@ -2968,7 +2968,7 @@ I've already downloaded the data using IBKR's API for some large caps stocks in 
 
 8/27/2025
 
-9:40am. ![machine trading](images/image-260.png)
+9:40am. ![machine trading](../images/image-260.png)
 
 I think I could do well to read some quant trading books.
 
@@ -2978,7 +2978,7 @@ I can just get this one off libgen. He's using MATLAB of all things.
 
 It's weird. I could barely sleep last night and I ended work early to go to the beach, but now I am feeling refreshed.
 
-![oh](images/image-261.png)
+![oh](../images/image-261.png)
 
 This could be really useful for me. Especially data vendors and platforms, though I intend to do my own backtesting.
 
@@ -2998,11 +2998,11 @@ Objectivity is probably the true holy grail of trading.
 
 If you know a coin is biased 60/40, that is everything you need. You don't have to ask for anything more or anything less.
 
-![bloomberg](images/image-262.png)
+![bloomberg](../images/image-262.png)
 
 Oh wow, this info is worth its weight in gold.
 
-![free data](images/image-263.png)
+![free data](../images/image-263.png)
 
 I wonder if there is anything wrong with just getting it from IBKR.
 
@@ -3044,20 +3044,20 @@ Let's flip the cards.
 
 Time see how much I lost.
 
-![RHM](images/image-264.png)
-![HAG](images/image-265.png)
-![RNK](images/image-266.png)
+![RHM](../images/image-264.png)
+![HAG](../images/image-265.png)
+![RNK](../images/image-266.png)
 
 Ah, goddamit. Nooo!
 
-![TKA](images/image-267.png)
-![LDO](images/image-268.png)
-![SAAB.B](images/image-269.png)
-![EXA](images/image-270.png)
-![LTMC](images/image-271.png)
-![ACT](images/image-272.png)
-![FCT](images/image-273.png)
-![GRE](images/image-274.png)
+![TKA](../images/image-267.png)
+![LDO](../images/image-268.png)
+![SAAB.B](../images/image-269.png)
+![EXA](../images/image-270.png)
+![LTMC](../images/image-271.png)
+![ACT](../images/image-272.png)
+![FCT](../images/image-273.png)
+![GRE](../images/image-274.png)
 
 Literally only FCT is a winner. Every single stock other than it that I picked is a loser. I think I lost 10%, maybe a bit more. About a month's salary.
 
@@ -3111,7 +3111,7 @@ Let me watch this. I'll also read the book by Ernest Chan today.
 
 I'll be doing this kind of studying quite a lot over the coming months. I am glad that I am back to it.
 
-1:15pm. ![fear](images/image-275.png)
+1:15pm. ![fear](../images/image-275.png)
 
 So that's why selling vol is profitable on average.
 
@@ -3135,7 +3135,7 @@ A good manager would notice that and tell you to take a break. He'd also not let
 
 3:35pm. I've felt shocked, but I also felt very relieved.
 
-3:40pm. ![implied probs](images/image-276.png)
+3:40pm. ![implied probs](../images/image-276.png)
 
 This stuff with implied probabilities is very new to me, and makes perfect sense. What a great video. I'll be checking out more from this guy. Quants are the true technical analysts.
 
@@ -3168,7 +3168,7 @@ If it was the old me, from the previous decade before I decided to become a prog
 
 This stuff on volatility selling is great.
 
-6:35pm. ![great](images/image-277.png)
+6:35pm. ![great](../images/image-277.png)
 
 This is great. I wish I understood macro better, but I can't really connect the broad fundamental stuff with the actual price action. That's why I gave momentum a try.
 
@@ -3196,7 +3196,7 @@ Oh yeah, in the end the decision to not look at my portfolio was correct. I defi
 
 Also, I know that crypto is acting great, but it's just too obvious. I wish there was a broad shakeout in the market, so that I could lower my risk. It just goes back to waiting for a panic to happen.
 
-![qqq](images/image-278.png)
+![qqq](../images/image-278.png)
 
 Yeah, no edge here. Just some topping action. The market can go sideways for a long while in this regime though before a significant decline happens, so I'll have time to charge up.
 
@@ -3222,7 +3222,7 @@ There are obvious bubbles in crypto with the stock market investors paying treas
 
 All of this is happening in the backdrop of a global trade war.
 
-![iwm](images/image-279.png)
+![iwm](../images/image-279.png)
 
 I was hoping to see small caps leading the way down, but they're doing really well.
 
@@ -3236,7 +3236,7 @@ Ah, forget it.
 
 9:30am. Didn't sleep tonight, but had a talk with Logris just now and let it out just what I think of his teachings to Curtis, so I feel relieved. Let me open my IBKR account and see how much exactly I have left in it. I am afraid to see the number despite calculating it yesterday.
 
-![portfolio](images/image-280.png)
+![portfolio](../images/image-280.png)
 
 Now that I am looking at my actual P&L, for some reason I am down only 2% instead of 10?
 
@@ -3248,7 +3248,7 @@ I know I am supposed to rotate into the real leaders to make the money, that was
 
 10:20am. Done. Agh...
 
-![DEFS](images/image-281.png)
+![DEFS](../images/image-281.png)
 
 Here is DEFS. Had I just held it, I would done better than rotating my stocks in the highest performing ones.
 
@@ -3311,7 +3311,7 @@ Oh wow.
 
 8:30am. Weird. Don't tell me today is a holiday.
 
-![holoday](images/image-282.png)
+![holoday](../images/image-282.png)
 
 Actually it is, but it shouldn't be in europe.
 
@@ -3430,7 +3430,7 @@ Trading Backtests Are Misleading - Here's what to do instead
 
 Here is Lance Breitstein. I watched only one video from him, but I am sure he's real deal and not a fake that you often see on these kinds of trader interviews.
 
-![context](images/image-283.png)
+![context](../images/image-283.png)
 
 This is a very good video. All of these things that he is talking about could be good alpha.
 
@@ -3440,7 +3440,7 @@ He mentions Qullamaggie and says that the most important criterion for a momentu
 
 1:05pm. Yeah, you know what. After I do a basic VWAP system, I am going to put some time looking into news trading. Having an LLM to help analyze news could be a big source of alpha when combined with other systems.
 
-![vvos](images/image-284.png)
+![vvos](../images/image-284.png)
 
 I think I might subscribe to his Twitter as everything this guy is saying is excellent.
 
@@ -3448,11 +3448,11 @@ Assuming I could put his advice to good use, I could make a lot of money.
 
 But I am not an active trader by nature. I don't want to trade the news personally. I want a system that could do that automatically.
 
-![](images/image-285.png)
+![](../images/image-285.png)
 
 I think it maybe took me 2 decades to figure out that I am the first one.
 
-![](images/image-286.png)
+![](../images/image-286.png)
 
 I won't be able to beat Chris Camillo using his method. I should at least give my strenghts a try.
 
@@ -3517,13 +3517,13 @@ Maybe if I traded CFDs on euro stocks instead...
 
 No. The trouble with that thought is that I want to trade the most volatile stocks there are, and CFDs are present only on the most liquid ones.
 
-![](images/image-287.png)
+![](../images/image-287.png)
 
 Also no, the CFDs aren't any cheaper than trading shares directly on the european markets. What a shitty continent that I live on.
 
 Whatever faults the US might have, its financial markets are truly first rate.
 
-7:10pm. ![wce](images/image-288.png)
+7:10pm. ![wce](../images/image-288.png)
 
 I guess I'll have time for these trading tutorial sessions now.
 
@@ -3555,13 +3555,13 @@ Oh, this is an immensely useful video.
 
 I had no idea about VWAP a decade ago.
 
-![anchored wvap](images/image-289.png)
+![anchored wvap](../images/image-289.png)
 
 I'll check it out on TradingView later.
 
 9:45pm. In truth, I don't feel like watching Roman's vids tomorrow. I want to watch Lance's and then get to work on backtesting various ideas.
 
-![](images/image-290.png)
+![](../images/image-290.png)
 
 Maybe I'll find a way to pirate this off Yandex. Didn't he say it would be free?
 
@@ -3569,12 +3569,12 @@ Maybe I'll find a way to pirate this off Yandex. Didn't he say it would be free?
 
 I might get it later. I'll pay him back later using my daytrading profits, lol.
 
-![](images/image-291.png)
+![](../images/image-291.png)
 
 https://www.youtube.com/watch?v=bKvEfCGJS4g
 What Is a Trading Playbook? (and Why YOU Need One)
 
-![playbook](images/image-292.png)
+![playbook](../images/image-292.png)
 
 I really like this. Yeah, this is what I am trying to do with backtesting.
 
@@ -3632,31 +3632,31 @@ Especially now that I can't top up when I am down using my salary, limiting draw
 
 I am not in the mood for that at the moment.
 
-![raw](images/image-293.png)
+![raw](../images/image-293.png)
 
 This book is so damn raw, it's amazing. It feels like I am reading an upcoming classic. It gives the same vibe as Reminiscences of a Stock Operator.
 
-![](images/image-294.png)
+![](../images/image-294.png)
 
 He is right. I haven't done this at all during the 2007 - 2014 period. I just did trades at random hoping to stumble into the winning system. I also did what Qullamaggie said not to do which is avoiding volatility.
 
 9:50am. In truth, the way I want to trade is to find the stocks with the strongest momentum and ride them long. But such stocks aren't like the long term momentum plays. They are pump and dumps that tend to crash hard and sudden. If I tried the 2 week system on them, I'd go broke soon.
 
-![promise](images/image-295.png)
+![promise](../images/image-295.png)
 
 This book seems very promising. I'll change my approach a little. For swing and daytrading, I don't need long term backtesting spanning back decades. For swing trading I'll stick to the last 5 years, and for daytrading 1 year of data is enough.
 
 In fact the recent data is the most important. I just need some clue as to what the most important setups are and how to take advantage of them. I should create a system for every setup. Right now, I am just not sure how to daytrade other than the VWAP system. I'll have to figure out something better.
 
-![ta](images/image-296.png)
+![ta](../images/image-296.png)
 
 I should look up these books. 'The Art and Science of Technical Analysis' and 'Technical Analysis Using Multiple Timeframes'.
 
-![tape reading](images/image-297.png)
+![tape reading](../images/image-297.png)
 
 I'll have to look up the SMB Capital info. They have a Youtube channel that I never checked.
 
-![chart](images/image-298.png)
+![chart](../images/image-298.png)
 
 This looks so good. These kinds of opportunities are in fact ideal for the VWAP system. If I can find trend days like these, I'll get rich quickly.
 
@@ -3710,7 +3710,7 @@ If my goal is to capture the trend days, I think that any rules I can add to the
 
 He mentioned in the earlier paragraph that some traders which couldn't hack it in equity trading were successful in options. I should check out the SMB offerings.
 
-3:20pm. ![](images/image-299.png)
+3:20pm. ![](../images/image-299.png)
 
 Yeah, this killed me in the last decade. I learned from that mistake this time around.
 
@@ -3724,7 +3724,7 @@ Since I am aiming to be a quant I don't have to stress myself about winning at t
 
 5:15pm. 121/484.
 
-![trade example](images/image-300.png)
+![trade example](../images/image-300.png)
 
 These trade examples are extremely valuable. This is an amazing book.
 
@@ -3868,7 +3868,7 @@ I am not a talented trader by any means, and right now I am not even a skilled o
 
 8:50am. The way the Tao Ceti job ended was pretty stupid, but I have to keep going forward. I'll just believe in myself and the skills I've been accumulating for the past decade.
 
-![intense](images/image-301.png)
+![intense](../images/image-301.png)
 
 This book is so intense. I have to say that working so hard to be a successful discretionary daytrader doesn't appeal to me. I'll have to really put in the work if I want to automate the process completely.
 
@@ -3882,7 +3882,7 @@ I am definitely putting this advice to use now.
 
 I think merely the process of attempting to automate my trading should break a lot of the misconceptions and delusions that I have about trading. I'll definitely get better in the attempt.
 
-![college traders](images/image-302.png)
+![college traders](../images/image-302.png)
 
 I technically started trading during my college years too. In fact, I dropped it to pursue trading. I won't let it play out like it did last time.
 
@@ -3906,8 +3906,8 @@ Huh, really? It's actually a requirement to add on the way up in order to maximi
 
 This gives me a lot to think about regarding system design.
 
-![stocks talk to you](images/image-303.png)
-![stocks talk to you 2](images/image-304.png)
+![stocks talk to you](../images/image-303.png)
+![stocks talk to you 2](../images/image-304.png)
 
 Lolol. I want to work there.
 
@@ -3934,8 +3934,8 @@ Once I cross that part, maybe I'll start making vids, but let me leave that for 
 8:10pm. The WCE screencast was well worth watching. A recording of it will be posted on their Youtube channel probably.
 
 https://squeezemetrics.com/download/white_paper.pdf
-![gex](images/image-305.png)
-![gex 2](images/image-306.png)
+![gex](../images/image-305.png)
+![gex 2](../images/image-306.png)
 
 I never knew this before. Knowing about GEX (gamma exposure) is very insightful. Negative values should amplify the chances of there being a trend day while positive values will constrain it to a range. This is something I should test for when I backtest the VWAP model. I'll try constraining it to low GEX values and see if that improves returns any when I do the backtesting.
 
@@ -3977,7 +3977,7 @@ It will just give me so much more tools at my disposal that will raise my odds o
 
 9:15am. 349/484. This book is 10/10 so far. It has so much actionable advice, I'd put it even above Reminiscences.
 
-![challenges](images/image-307.png)
+![challenges](../images/image-307.png)
 
 I should start off by trying to do all these things except for trading bigger. I want to trade the most volatile stocks out there. The ones most likely to make huge moves from open to close.
 
@@ -4083,11 +4083,11 @@ This chapter really promotes coaching and mentoring and the reasons he gives out
 
 This part where they mix different timeframe for the same trade does feel wrong.
 
-![wrong](images/image-308.png)
+![wrong](../images/image-308.png)
 
 I really dislike this. These kinds of explanations is fundamentally the wrong way to teach and instead what it be replaced with is statistical data.
 
-![hmmm](images/image-309.png)
+![hmmm](../images/image-309.png)
 
 Hmmm, I saw this often on the daily charts...
 
@@ -4095,11 +4095,11 @@ A huge selloff, a short bounce, then another high intensity sell off. Then comes
 
 Well actually, no. I am thinking about the quantum stocks like D-Wave and Rigetti. Those had huge 1 month momentum followed by 60% selloffs. They had short failed bounces followed by right ones.
 
-![QBTS](images/image-310.png)
+![QBTS](../images/image-310.png)
 
 If I could have caught some of those green bars during the day, that could have made my month. The same goes for the red bars.
 
-![NVTS](images/image-311.png)
+![NVTS](../images/image-311.png)
 
 I am looking at NVTS and wondering if there is any point to this, but to daytrade it?
 
@@ -4129,7 +4129,7 @@ If I could chain this with intraday trading for tight risk control maybe somethi
 
 It was a great read. Tomorrow I'll try getting Lance's course. That will give me even more ideas for the playbook.
 
-![GLD](images/image-312.png)
+![GLD](../images/image-312.png)
 
 Why bother doing trend following on the longer term timeframes when you can try catching them on the intraday timescales?
 
@@ -4164,7 +4164,7 @@ Yeah, I need to learn to trade the news and follow in Qullamaggie footsteps. The
 
 8:20am. Yes, yes I did. I got scammed for 18$.
 
-![scam](images/image-313.png)
+![scam](../images/image-313.png)
 
 There is literally nothing in these folders. No files at all.
 
@@ -4286,7 +4286,7 @@ Let's see...how about I set my minimum salary requirement to 125k euro per year?
 
 8:25pm. It's pitiful, but even though I've spent so much time on learning to trade, over a half a decade, I am still in stage 2 essentially. It's going to take a while to get to 6.
 
-9:30pm. ![linear bet sizing](images/image-314.png)
+9:30pm. ![linear bet sizing](../images/image-314.png)
 
 This course is amazing. How is it possible that I learned so little in my first 6 years of trading? Even now I have barely any idea how to size my bets or what the good setups are.
 
@@ -4302,7 +4302,7 @@ This is how I want to win.
 
 8:30am. Let me resume.
 
-![lol](images/image-315.png)
+![lol](../images/image-315.png)
 
 Oh, lol. I put the course into a cart on another site and now it's begging me to come back and finish the purchase. Didn't expect this would happen.
 
@@ -4310,7 +4310,7 @@ Ah, who cares, I already bought it and it's only a 10$ difference. The biggest p
 
 8:35am. Let me resume with Lance's course.
 
-![the market](images/image-316.png)
+![the market](../images/image-316.png)
 
 My own thinking is completely inline with Lance's - complete with the fact that 99.9% of all price action is noise.
 
@@ -4321,7 +4321,7 @@ That's why he recommends we focus on:
 * 0.1% of the largest selloffs.
 * 0.1% of the most abnormal volue.
 
-9:25am. ![mimic alts](images/image-317.png)
+9:25am. ![mimic alts](../images/image-317.png)
 
 I really will have to dive into SMB's Youtube channel at some point.
 
@@ -4335,7 +4335,7 @@ I'll probably be watching this course for the next 7 days. I have no idea how lo
 
 > A lot of the traders at SMB Capital where I have an advisory role have rules when VIX is at certainly levels. In a more volatile market, you can get a way with certain strategies that in a less volatile market you can't.
 
-![indicators to consider](images/image-318.png)
+![indicators to consider](../images/image-318.png)
 
 Having a completely objective system will make determining whether I am trading poorly or if the market has changed much easier.
 
@@ -4347,15 +4347,15 @@ Having a completely objective system that trades based on rational resoning, mea
 
 If I can do this properly, I'll be able to go from stage 2 to 6 within a few short years.
 
-10:35am. ![sick](images/image-319.png)
+10:35am. ![sick](../images/image-319.png)
 
 These perf figures are sick. Yeah, this is what I want to work towards. Who cares about making 5% vs 30% this year.
 
-10:50am. ![ev](images/image-320.png)
+10:50am. ![ev](../images/image-320.png)
 
 I could have figured this out myself, and it was at the back of my mind, but for some reason didn't. The implication of buying at resistance is that I shouldn't be selling at the other end of the range, but midway. Holding for a full retracement isn't the optimal move.
 
-1:50pm. ![good advice](images/image-321.png)
+1:50pm. ![good advice](../images/image-321.png)
 
 This is all good advice. It will take me a lot of modeling effort to create my system, but it will pay off big in the end.
 
@@ -4386,15 +4386,15 @@ I'll leave this for after I get back from the beach. Let me take off for a bit h
 https://youtu.be/iuodBAqFGY4
 How Stealing Strategies Made Me $200,000
 
-![interesting vid](images/image-322.png)
+![interesting vid](../images/image-322.png)
 
 This video caught my eye. It's discussing the difference between inefficiencies and risk premiums.
 
-![books](images/image-323.png)
+![books](../images/image-323.png)
 
 I haven't read the other two, but Quantitative Momentum was great.
 
-![backtesting](images/image-324.png)
+![backtesting](../images/image-324.png)
 
 It's weird, but it seems my quant approach is going to be completely different than what everybody else is doing. And that's actually great!
 
@@ -4404,7 +4404,7 @@ It means I have a real shot at capturing very real alpha this way.
 
 7:55am. I am up, and it time to resume my studies.
 
-![i wish](images/image-325.png)
+![i wish](../images/image-325.png)
 
 God, I wish the AI bubble would pop. It's an embarassment. The chatbots being touted as AI is an embarassment.
 
@@ -4427,15 +4427,15 @@ I can't scalp using transformer models due to how slow they would be.
 
 I know exactly why this is from a probabilistic perspective. I can't wait to start programing again to test out my theories.
 
-![heuristic 1](images/image-326.png)
+![heuristic 1](../images/image-326.png)
 
 Minervini and Stuart Walton said as much in the stock market wizards book.
 
-![heuristic 2](images/image-327.png)
+![heuristic 2](../images/image-327.png)
 
 This is important to know.
 
-![heuristic 3](images/image-328.png)
+![heuristic 3](../images/image-328.png)
 
 I'll be able to explain all of this probabilistically when I start working on the simulations.
 
@@ -4451,17 +4451,17 @@ That is going to go straight into the system.
 
 He says that not every high volume breakout will work, and not every low volume breakout will fail, but high volume does improve the chances.
 
-![](images/image-329.png)
+![](../images/image-329.png)
 
 These are Pradeep Bonde (Stockbee) and Kristjan Qullamaggie.
 
-1:30pm. ![consolidations](images/image-330.png)
+1:30pm. ![consolidations](../images/image-330.png)
 
 At some level I am aware of the importance of consolitations, but some of this is new to me. Hmm....
 
 He is saying that proper consolidation is important for price consolidation and the extreme moves that weren't preceded by a consolidation lead to mean reversion.
 
-![](images/image-331.png)
+![](../images/image-331.png)
 
 Basically this.
 
@@ -4509,7 +4509,7 @@ I'll aim to wrap up Lance's course and resume Youtubing. I have the intro episod
 
 9/9/2025
 
-8am. ![swing](images/image-332.png)
+8am. ![swing](../images/image-332.png)
 
 I think it should be possible to make a swing trading system after following up on the daytrading work.
 
@@ -4531,15 +4531,15 @@ The hard part about momentum trading is only that it's long term.
 
 Next Big Future sold me on nuclear power being cheapest and cleanest, so its revival due to the AI boom might be one good thing to come out of it.
 
-![challenge](images/image-333.png)
+![challenge](../images/image-333.png)
 
 Yeah, I'll have to do this.
 
-![mean rev probability](images/image-334.png)
+![mean rev probability](../images/image-334.png)
 
 This course is great altogether. If I want swing trading, I need to find the areas where it would be most effective.
 
-![mean rev magnitude](images/image-335.png)
+![mean rev magnitude](../images/image-335.png)
 
 > Moves on fresh news are more likely to continue than revert.
 
@@ -4547,8 +4547,8 @@ He also says this. Yeah, I knew all of this. Then why don't I actually put it to
 
 9:55am. 
 
-![volume gainers up](images/image-337.png)
-![CPNG](images/image-336.png)
+![volume gainers up](../images/image-337.png)
+![CPNG](../images/image-336.png)
 
 There are all kinds of opportunities in the market everywhere you look. Bayesian reasoning will be enough to handle these patterns.
 
@@ -4568,7 +4568,7 @@ Those two are mediocrities. I did my best to repay Logris by letting him not be 
 
 Yeah, if I could make an AI model that could analyze the news, or even make use of an existing LLM model, that could be a huge source of alpha.
 
-11:05am. ![](images/image-338.png)
+11:05am. ![](../images/image-338.png)
 
 He says that this situation is interesting to him for a long trade. Huh, really?
 
@@ -4586,7 +4586,7 @@ Actually, before I do that, let me watch the Finding a Broker video.
 
 One thing I am very concerned about is how to find borrows for the short trades. That's been a huge problem for me when I wanted to try trading Tim Sykes' system.
 
-11:55am. ![](images/image-339.png)
+11:55am. ![](../images/image-339.png)
 
 So this is how it looks like on the main site. Will get it definitely after I build everything I need for my own system first.
 
@@ -4598,8 +4598,8 @@ Let me take a break here. Time to eat.
 
 1:15pm. Let me resume Lance's course.
 
-3:30pm. ![daily](images/image-340.png)
-![news](images/image-341.png)
+3:30pm. ![daily](../images/image-340.png)
+![news](../images/image-341.png)
 
 Holy crap, I really need to learn how to interpret the news. There is so much alpha in that.
 
@@ -4615,7 +4615,7 @@ Yeah...I think maybe being glued to the news feed in order to make split second 
 
 Let me watch another vid from the course.
 
-![CWD](images/image-342.png)
+![CWD](../images/image-342.png)
 
 Wow, what the fuck?
 
@@ -4623,29 +4623,29 @@ https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-tr
 
 It bought Chainlink apparently.
 
-![NBIS](images/image-343.png)
+![NBIS](../images/image-343.png)
 
 Huge Hicrosoft deal. This could be a good swing trade.
 
 Some of the lower priced stocks have volume pumps, but collapse immediatelly after volume fades. I think I'll have to model different kinds of stocks so the model can learn that some are to be avoided.
 
-![QMMM](images/image-344.png)
+![QMMM](../images/image-344.png)
 
 Another crypto treasury play. If crypto isn't a bubble, I have no idea what is.
 
-![](images/image-345.png)
+![](../images/image-345.png)
 
 The market is sending me a signal - pay attention to news.
 
-![](images/image-346.png)
+![](../images/image-346.png)
 
 I think this stock is just a NBIS sympathy play.
 
-![BILI](images/image-347.png)
+![BILI](../images/image-347.png)
 
 You know, Lance's method of draging the stop along the weekly lows is something I've never though of trying out myself, but I can see how in certain situations it would work, and it makes more sense than what I am doing on the monthlies.
 
-![RHM](images/image-348.png)
+![RHM](../images/image-348.png)
 
 It would have stopped me out here and there, but it would have saved me a lot of pain in RHM.
 
@@ -4660,21 +4660,21 @@ It's not like I couldn't figure it out myself, it's just that I didn't realize t
 
 Yeah, definitely. If I use lows for stops, I wouldn't have to worry nearly as much about my positions going the other way.
 
-![EXA](images/image-349.png)
+![EXA](../images/image-349.png)
 
 For EXA 2 week lows would have worked great.
 
-![UNH](images/image-350.png)
+![UNH](../images/image-350.png)
 
 UNH has been in the news as a Buffet buy. Could make for a decent swing trade.
 
 I need a bot to sell the daily and weekly lows, but that one would be a lot cheaper to run and easier to make than the daytrading bot.
 
-![UUUU](images/image-351.png)
+![UUUU](../images/image-351.png)
 
 Sigh, take a look at this.
 
-![UUUU](images/image-352.png)
+![UUUU](../images/image-352.png)
 
 I could make a rule to ignore these probes. But having a large selloff like this and then the stock breaking out later is a strong signal.
 
@@ -4695,48 +4695,48 @@ I got the sense when I read O'Neil's book that with that rule I would be long al
 
 9:05am. I couldn't sleep properly as I was too excited about this system.
 
-![NBIS](images/image-353.png)
+![NBIS](../images/image-353.png)
 
 This system that I proposed would have caught the move from...
 
-![NBIS](images/image-354.png)
+![NBIS](../images/image-354.png)
 
 21.3 to 44 and...
 
-![NBIS](images/image-355.png)
+![NBIS](../images/image-355.png)
 
 53.2 to 68.
 
-![QQQ](images/image-356.png)
+![QQQ](../images/image-356.png)
 
 It would have caught most of the leg up in the QQQs.
 
-![NVTS](images/image-357.png)
-![NVTS](images/image-358.png)
+![NVTS](../images/image-357.png)
+![NVTS](../images/image-358.png)
 
 It would have made an awesome trade in NVTS and would have protected me from the false breakout.
 
 I am going to buy 100 shares of NBIS at the open and trade it using this system.
 
-![DXYZ](images/image-359.png)
+![DXYZ](../images/image-359.png)
 
 Would have made an awesome swing long.
 
-![DXYZ](images/image-360.png)
+![DXYZ](../images/image-360.png)
 
 Sorry, it doesn't seem that Copy Image does highlights properly.
 
-![DXYZ](images/image-361.png)
+![DXYZ](../images/image-361.png)
 
 Note that it's far below the two volume updays.
 
-![NVDA](images/image-362.png)
+![NVDA](../images/image-362.png)
 
 Would have caught the entire move in NVDA.
 
 Wow...
 
-![SMR](images/image-363.png)
+![SMR](../images/image-363.png)
 
 This system is much better than the monthly based one.
 
@@ -4748,11 +4748,11 @@ And also being able to trade based off the weeklies means that there wouldn't be
 
 9:40am. Yeah, swing trading the weeklies is the answer.
 
-![BTC](images/image-364.png)
+![BTC](../images/image-364.png)
 
 Yeah, on the weeklies, BTC isn't really that strong recently. The breakout isn't working.
 
-![ETH](images/image-365.png)
+![ETH](../images/image-365.png)
 
 The same could be said for Ethereum.
 
@@ -4762,17 +4762,17 @@ Because this system limits risk much better than the previous one, I could get a
 
 Let me take a look at the NBIS fundamentals and the recent news.
 
-![NBIS story](images/image-366.png)
+![NBIS story](../images/image-366.png)
 
 Seems good.
 
-![financials](images/image-367.png)
+![financials](../images/image-367.png)
 
 Seems like a turnaround play. Those work well. Yeah, let me do it. The main thing that I need is discipline and I'll get to where I want to be.
 
 10:20am. I've set the alarms so I can put in the order during premarket hours.
 
-![UNH](images/image-368.png)
+![UNH](../images/image-368.png)
 
 I like the UNH breakout, but I will skip it for now.
 
@@ -4780,7 +4780,7 @@ I like the UNH breakout, but I will skip it for now.
 
 10:45am.
 
-![MOC](images/image-369.png)
+![MOC](../images/image-369.png)
 
 Ah so this is how MOC orders work. I couldn't find them last time. It turns out I needed to select it under the order type rather than time. Market On Open (OPG) orders on the other hand are selected under price.
 
@@ -4790,7 +4790,7 @@ Putting my money in strongest groups and then not pivoting in time after they st
 
 This current system gives me an answer to the question of how to avoid 1987 and 1929 style crashes. I don't lose much of the upside because it would still work on the best plays, but it'd cut my risk drastically due to not holding losers as long as the previous system does.
 
-![MSTR](images/image-370.png)
+![MSTR](../images/image-370.png)
 
 Looking at this chart, the crpto boom feels screwed. MSTR which is a leader is lagging badly.
 
@@ -4799,21 +4799,21 @@ Prop Firm CEO: I Analyzed 50,000 Traders, THIS Is What The Top 1% Do!
 
 Let me finally watch this and then I will resume Lance's course.
 
-![TKA](images/image-371.png)
+![TKA](../images/image-371.png)
 
 This trade was such a massive fail. With current system, I could have avoided a lot of the drawdowns of August. It could have been a lot worse. I got lucky.
 
 With my current system, I would have just sold TKA...
 
-![TKA](images/image-372.png)
+![TKA](../images/image-372.png)
 
 At the close of the weekly bar once it broke the prior 2 week lows. That would have saved me a lot of money.
 
-![XLF](images/image-373.png)
+![XLF](../images/image-373.png)
 
 The system wouldn't have worked well in 2008 due to how volatile the period was.
 
-![XLF](images/image-374.png)
+![XLF](../images/image-374.png)
 
 The only choice would have been to trade off monthly charts or try to play it with a narrow stop and hit a cascade.
 
@@ -4851,7 +4851,7 @@ The most important thing in this trade is that I buy on the way up on the weekli
 
 2:10pm. I am starting to get the feeling for trading back after losing my job.
 
-![volume up](images/image-375.png)
+![volume up](../images/image-375.png)
 
 I am using a volume screen now instead of the 6 month momentum. Maybe that will work better. 95% of the stocks on this volume screen are trash. Maybe I should just filter out all the stocks below 5$?
 
@@ -4881,7 +4881,7 @@ Got it using the OPG order. The price was far less than I expected, but I suppos
 
 5pm. Nothing of interest in the euro markets today.
 
-![](images/image-376.png)
+![](../images/image-376.png)
 
 I just need to keep track of stocks which have volume flowing into them and act accordingly.
 
@@ -4909,7 +4909,7 @@ It really felt that the 2 week system was the crystallization of my experience, 
 
 5:55pm. Let me pause here on the start of the `10-June 2024 – Top Opps Dissected` video. These videos are 40m long, so I can't just devour them constantly.
 
-![ATRO](images/image-377.png)
+![ATRO](../images/image-377.png)
 
 Some stocks are making strong moves after stock or convertible note offerings.
 
@@ -4917,29 +4917,29 @@ I'd rate this as a B setup. Could work, but it's hardly great. The best setups a
 
 What this setup does have going for it is a huge washout on earnings, and now it has reversed that and is trading sharply higher.
 
-![MODI](images/image-378.png)
+![MODI](../images/image-378.png)
 
 It's so hard to know.
 
-![MODI](images/image-379.png)
+![MODI](../images/image-379.png)
 
 Slow moving stock, not what I am interested in.
 
-![ANET](images/image-380.png)
+![ANET](../images/image-380.png)
 
 Slow mover to the upside.
 
-![ANET](images/image-381.png)
+![ANET](../images/image-381.png)
 
 Great investment, not a great trading opportunity.
 
 Maybe I really will have to check out daytrading.
 
-![UNH](images/image-382.png)
+![UNH](../images/image-382.png)
 
 If I had to bet, maybe I'd just buy UNH. But I don't.
 
-![LITE](images/image-383.png)
+![LITE](../images/image-383.png)
 
 Is starting to gap up. That's a sell signal, not a buy signal.
 
@@ -4992,7 +4992,7 @@ Holding for months and weeks is something that never even occured to me.
 
 It's fine to go from the monthly to the weekly.
 
-![LITE](images/image-384.png)
+![LITE](../images/image-384.png)
 
 I need to burn this kind of price acceptance action into my retina. If NBIS keeps making higher highs and higher lows on the weeklies that is all that I need. If it pierces the lows, then it should retrace them swiftly by the end of the week.
 
@@ -5002,7 +5002,7 @@ I made the right thing to learn from 2007 - 2014 and loosen up in 2025, but I we
 
 7:10am.
 
-![BTCUSD](images/image-385.png)
+![BTCUSD](../images/image-385.png)
 
 These narrow weeks are great actually. When an asset makes a big upmove that makes it difficult to understand where the support and resistance is, but once the range contracts, that makes it a lot easier.
 
@@ -5020,7 +5020,7 @@ Not as good as buy holding for the duration of the trend, but still decent.
 
 8:15am. Let me post a chart of INT here.
 
-![INT](images/image-386.png)
+![INT](../images/image-386.png)
 
 What a first rate breakout. And it's still having narrow weeks. Just looking at it I get the sense that it's still a buy.
 
@@ -5048,25 +5048,25 @@ Oh, my god. He's just like me. The bald head and the mustache fooled me.
 
 Actually, let me go through all the volume gainers in the US now that the market is closed.
 
-![WYFI](images/image-387.png)
+![WYFI](../images/image-387.png)
 
 This could be a good find.
 
-![ALAB](images/image-388.png)
+![ALAB](../images/image-388.png)
 
 Don't want to buy this right now, but maybe next week if it narrows down.
 
-![ALAB](images/image-389.png)
+![ALAB](../images/image-389.png)
 
 Both of these are AI plays.
 
 Ok, I am interested in them.
 
-![BSTG](images/image-390.png)
+![BSTG](../images/image-390.png)
 
 Missed the breakout on this one. But I can wait for a narrow week.
 
-![IESC](images/image-391.png)
+![IESC](../images/image-391.png)
 
 There are decent opportunities everywhere you look.
 
@@ -5076,63 +5076,63 @@ Yeah, 1 week for a snapback rally should be the limit, more than that is a sign 
 
 These rules would have gotten me out of the euro defense stocks so much more quickly.
 
-![CTRI](images/image-392.png)
+![CTRI](../images/image-392.png)
 
 Worth watching. A lot of volume is coming into this one.
 
-![CRWV](images/image-393.png)
+![CRWV](../images/image-393.png)
 
 This one is also ramping up on the Oracle deal. Yeah, I've read the news that OpenAI signed an 300b deal with Oracle.
 
-![CRDO](images/image-394.png)
+![CRDO](../images/image-394.png)
 
 Here is a good example of a snapback rally.
 
-![](images/image-395.png)
-![](images/image-396.png)
+![](../images/image-395.png)
+![](../images/image-396.png)
 
 Really good fundamentals.
 
 I don't have to fear crashes at all with this system. I should go in more aggressively.
 
-![WLDN](images/image-397.png)
+![WLDN](../images/image-397.png)
 
 Amazing trade. It's topping now.
 
-![REAL](images/image-398.png)
+![REAL](../images/image-398.png)
 
 This one isn't just a buy, but a buy today.
 
-![](images/image-399.png)
-![](images/image-400.png)
+![](../images/image-399.png)
+![](../images/image-400.png)
 
 The fundamentals aren't crazy good.
 
-![FIX](images/image-401.png)
+![FIX](../images/image-401.png)
 
 This is also a buy at the open.
 
-![](images/image-402.png)
+![](../images/image-402.png)
 
 Good annual growth.
 
-![CORZ](images/image-403.png)
+![CORZ](../images/image-403.png)
 
 This could be a buy. What are the fundamentals?
 
-![](images/image-404.png)
+![](../images/image-404.png)
 
 It's an overpriced shit crypto company. Nwm.
 
-![STRL](images/image-405.png)
+![STRL](../images/image-405.png)
 
 I don't see this as topping action.
 
-![STRL](images/image-406.png)
+![STRL](../images/image-406.png)
 
 Could also be a buy at the open.
 
-![](images/image-407.png)
+![](../images/image-407.png)
 
 The fundamentals aren't that good, but the margin is improving.
 
@@ -5140,53 +5140,53 @@ The fundamentals aren't that good, but the margin is improving.
 
 The stock has a tendency to top on earnings.
 
-![RDDT](images/image-408.png)
+![RDDT](../images/image-408.png)
 
 I have no idea whether this pattern is good, so that means it's not.
 
 I'll keep it on my watch list and see whether it has a narrow week.
 
-![GEV](images/image-409.png)
+![GEV](../images/image-409.png)
 
 I am a fool. There is so much opportunity every day.
 
-![BE](images/image-410.png)
+![BE](../images/image-410.png)
 
 This one is a miss. Great pattern though. It broke out ahead of earnings rather than on them.
 
 What I am hoping for is that NBIS ends up being like this one.
 
-![VST](images/image-411.png)
+![VST](../images/image-411.png)
 
 Not interesting to me now, but it would have been an amazing trade in the 2023 - 2024 period.
 
 As a trader this is exactly what I am looking for.
 
-![EQX](images/image-412.png)
+![EQX](../images/image-412.png)
 
 A lot of volume is coming into this stock.
 
 Could be a buy down the road. I don't want to buy it after it has gone up 20% for 3 straight weeks.
 
-![MTZ](images/image-413.png)
+![MTZ](../images/image-413.png)
 
 Don't want to buy this, but take a look at the V pattern on the weekly chart.
 
 Lance daytrades those on the 2 min chart.
 
-![ANET](images/image-414.png)
+![ANET](../images/image-414.png)
 
 Let me also add ANET to the list of buys.
 
-![MOD](images/image-415.png)
+![MOD](../images/image-415.png)
 
 Do I buy this one after all?
 
-![GOSS](images/image-416.png)
+![GOSS](../images/image-416.png)
 
 Would have been a great buy on the narrow week.
 
-![ORCL](images/image-417.png)
+![ORCL](../images/image-417.png)
 
 Nevermind, I don't want to initiate a bunch of buys on B tier setups that are merely breaking out, but have no news catalyst otherwise. It's not a point that I make a lot of money now.
 
@@ -5196,23 +5196,23 @@ The next 7 weeks are still my vacation time so I'll only put my money into the c
 
 10:10am. Let me go back to watching Qullamagie's vid.
 
-![5 start](images/image-418.png)
+![5 start](../images/image-418.png)
 
 He's saying that this is a 5 star setup. Interesting.
 
 Yeah, I am a bit weak when it comes to buying beaten down stocks. I need to change that.
 
-![MOD](images/image-419.png)
+![MOD](../images/image-419.png)
 
 Come to think of it, I've never actually tried trading high volume breakouts specifically for some reason. At least, I don't think I've tried sorting my watching by volume in the last decade.
 
 WTF? I actually have a journal from that period. What the hell was I doing back then? It doesn't matter.
 
-![FSLY](images/image-420.png)
+![FSLY](../images/image-420.png)
 
 He says this is a 5 star setup. Not much volume on the breakout though.
 
-![FVRR](images/image-421.png)
+![FVRR](../images/image-421.png)
 
 Interesting that this is a 5 star setup to him. Well, he made 100m, so he knows better than me. I'll burn it into my mind.
 
@@ -5221,7 +5221,7 @@ https://youtu.be/xx8GvtAxilk?t=1143
 
 10:50am. The power is out. Let me shut down.
 
-11:20am. ![good setup](images/image-422.png)
+11:20am. ![good setup](../images/image-422.png)
 
 So this kind of pattern is good too?
 
@@ -5247,17 +5247,17 @@ He is trading very high volatility stocks with tight stops. That really opens hi
 
 Yes, let's put off trading anything more than NBIS until I can think things through more deeply.
 
-![](images/image-423.png)
+![](../images/image-423.png)
 
 Ah, he is trying to buy this at the opening range highs. Damn. I don't like that.
 
-![](images/image-424.png)
+![](../images/image-424.png)
 
 This is a 7 star setup on a 5 star scale for him.
 
 11:55am. > I usually don't buy the stock if its up more on the day than its average true range.
 
-![](images/image-425.png)
+![](../images/image-425.png)
 
 > 5 fraud reports so far
 
@@ -5279,7 +5279,7 @@ I am listening.
 
 Also, I should start paying attention to the ATR.
 
-![](images/image-426.png)
+![](../images/image-426.png)
 
 He bought this right in the middle of the range. He's really on top of things.
 
@@ -5406,7 +5406,7 @@ Let me stop here. I am going to the beach.
 
 7:50pm. I really wanted to go back and look at the chart of Tazor (now Axon) back in 2003 in order to get a sense of how my current system would have far on it. In fact it'd have done decently well.
 
-![NBIS](images/image-427.png)
+![NBIS](../images/image-427.png)
 
 It went up 10% from the open when I bought it, but now it's starting to hang near my purchase price. Meh.
 
@@ -5423,7 +5423,7 @@ Let me stop at 58:52 here, I had enough for one day. I'll finish this tomorrow a
 
 9/12/2025
 
-8:05am. ![RHM](images/image-428.png)
+8:05am. ![RHM](../images/image-428.png)
 
 I couldn't sleep last night. I realized the implication of Qullamaggie's brand of swing trading.
 
@@ -5489,7 +5489,7 @@ When that happened I realized that I really wanted to sell NBIS and go flat.
 
 Damn it, I am making below market returns even in a bull market, but I so want to make 100% per year.
 
-9am. ![DXM](images/image-429.png)
+9am. ![DXM](../images/image-429.png)
 
 To his credit, I haven't been looking at ADR and ATR explicitly, and he is forcing me to. He is also forcing me to think shorter term. He is also forcing me to think of the market like a slot machine instead of getting attached to trades.
 
@@ -5501,11 +5501,11 @@ They are just vague notions in my mind rather than cast-in-iron principles.
 
 I already knew most of this a decade ago, and couldn't make any money then. And I couldn't make any money this year either.
 
-9:10am. ![](images/image-430.png)
+9:10am. ![](../images/image-430.png)
 
 What really got me last decade is that the stock charts always look so random and mean reverting to me. I ended up resorting to trying to find smooth stocks and trading those, but that didn't work at all. And then I threw in the towel. I was literally beaten by the market.
 
-9:15am. ![](images/image-431.png)
+9:15am. ![](../images/image-431.png)
 
 He says that I need to screenshot this and build a database.
 
@@ -5524,17 +5524,17 @@ I am going to need daytrading systems just to support my long term trading it se
 https://youtu.be/xx8GvtAxilk?t=5016
 > [The dollar volume] depends on your account size. Just take your account size and do that times 30 or 50.
 
-10:15am. ![OKLO](images/image-432.png)
+10:15am. ![OKLO](../images/image-432.png)
 
 I am starting to see it. Maybe a system that trades the strong closes and the bounces above the 10 day VWMA would be good?
 
 My failure to trade well could be entirely due to my preconceptions.
 
-![RHM](images/image-433.png)
+![RHM](../images/image-433.png)
 
 When it gets going, it really holds above the 10 day VWMA cleanly doesn't it?
 
-10:30am. ![STRL](images/image-434.png)
+10:30am. ![STRL](../images/image-434.png)
 
 The lightbulb is starting to flick for me.
 
@@ -5550,11 +5550,11 @@ Compared to Lance, Q just seems to be turning over my preconception of how totra
 
 But I am starting to see it. If I want 100% per year consistently I need to up my game.
 
-![OPEN](images/image-435.png)
+![OPEN](../images/image-435.png)
 
 This is the usual climax pattern. If I had a VWAP system implemented, I'd be very tempted to trade these kinds of stocks once they start gapping up off the open.
 
-![OPEN 1-min](images/image-436.png)
+![OPEN 1-min](../images/image-436.png)
 
 Just look at how it acted off the open. The VWAP system would have had a field day with this. So would an OBR system.
 
@@ -5568,7 +5568,7 @@ As for daytrading. I think this stock could have another uptrend day today, but 
 
 Wow, if I could learn to trade stocks like these successfully, I could have a successful career as a trader.
 
-![ASTS](images/image-437.png)
+![ASTS](../images/image-437.png)
 
 This stock has had a lot of shakeouts with the 10 day system.
 
@@ -5576,7 +5576,7 @@ It's important to get back in when trading it.
 
 11am. Yeah, I can mix up various momentum methods. There is no reason I couldn't use the cascade system in combination with this one.
 
-11:15am. ![RHM](images/image-438.png)
+11:15am. ![RHM](../images/image-438.png)
 
 I don't regret selling it at all, but this was a great swing setup when I had sold it.
 
@@ -5590,7 +5590,7 @@ I guess it's inevitable that I have to go through the pain of learning in order 
 
 Here he is talking about different periods in the market and how it's possible to double and triple your account during bull runs that comes after corrections.
 
-![R3NK](images/image-439.png)
+![R3NK](../images/image-439.png)
 
 I am going to do much better next time.
 
@@ -5613,7 +5613,7 @@ https://youtu.be/xx8GvtAxilk?t=6194
 
 He is saying how we don't have to focus on earnings for this system, only momentum.
 
-![NBIS](images/image-440.png)
+![NBIS](../images/image-440.png)
 
 Ok, plan time. I overestimated my risk tolerance and I am really not happy with how NBIS is acting.
 
@@ -5634,7 +5634,7 @@ The stock is at 51 on the chart.
 
 Damn.
 
-![](images/image-441.png)
+![](../images/image-441.png)
 
 I can't take it. I am going to make an daytrading system specifically for trading high volume breakouts on the long side. I'll need it to time the entries on the momentum watchlist so I might as well kill two birds with one stone.
 
@@ -5662,7 +5662,7 @@ I can easily program those kinds of rules into a bot.
 
 If I could significantly improve my entries on the micro and small caps using this approach, 100% per year wouldn't be out of the question.
 
-1:25pm. ![PDT circumvention](images/image-442.png)
+1:25pm. ![PDT circumvention](../images/image-442.png)
 
 Had I tried just a little harder back in the 2007 - 2014 period, things could have been different. I didn't even know it was possible to get around the PDT rule using cash accounts.
 
@@ -5685,22 +5685,22 @@ Here he is losing a million due to a fat finger trade. Damn.
 6:35pm. https://youtu.be/xx8GvtAxilk?t=9204
 > Guys, if you haven't made your first million don't short. Anything I say about shorting just ignore.
 
-6:45pm. ![](images/image-443.png)
+6:45pm. ![](../images/image-443.png)
 
 I know the specific setups on the daily chart, but what are the specific intraday entry criteria that he uses?
 
-![the setup](images/image-444.png)
+![the setup](../images/image-444.png)
 
 He only enters in the morning? Not in the midday or the afternoon or the close?
 
 Ok, that makes things easier.
 
-![](images/image-445.png)
+![](../images/image-445.png)
 
 So he is just trading the opening range? Really?
 
-![](images/image-446.png)
-![](images/image-447.png)
+![](../images/image-446.png)
+![](../images/image-447.png)
 
 I can just put aside my ego and do what needs to be done.
 
@@ -5712,7 +5712,7 @@ I am going create a bot to make trading the ORB easier.
 
 So that's two key tools at my disposal, the ORB and the VWAP.
 
-![](images/image-448.png)
+![](../images/image-448.png)
 
 So the parabolic long comes after the short. Again he uses the ORB method.
 
@@ -5729,7 +5729,7 @@ No, it doesn't. Both him and O'Neil could have mentioned it and it might have sa
 7:15pm. https://youtu.be/xx8GvtAxilk?t=10206
 > You can buy them at any time of day as long as the stop is not further than the average true range.
 
-7:20pm. ![MCHP](images/image-449.png)
+7:20pm. ![MCHP](../images/image-449.png)
 > Is MCHP a good setup? What? This doesn't look anything remotely like I showed you guys.
 
 https://youtu.be/xx8GvtAxilk?t=10545
@@ -5773,7 +5773,7 @@ Yeah, I found him too and didn't learn from him despite reading a lot of his blo
 
 7:50pm. This is why I am wary of this second attempt at trading. I was incredibly incompetent the first time around.
 
-![](images/image-450.png)
+![](../images/image-450.png)
 
 Actually I am surprised he is only using a 4% ADR.
 
@@ -5784,7 +5784,7 @@ https://youtu.be/xx8GvtAxilk?t=11642
 
 He is more qualified that some of the people in the latest one. I'd say he is more qualified than most of them in fact.
 
-![](images/image-451.png)
+![](../images/image-451.png)
 > Oh please don't tell me it's Peter Brandt. Please don't tell me.
 
 He got it right.
@@ -5799,7 +5799,7 @@ Really?
 
 Personally, I think Brandt is most likely legit.
 
-![](images/image-452.png)
+![](../images/image-452.png)
 > Look at this thing. Private Twitter alerts. Does this guy sound like a billionaire?
 
 He probably just pulls money out of his account.
@@ -5836,7 +5836,7 @@ I get it I really get how trading the micros works now. They really explode once
 
 The reason why I stayed away from those kinds of stocks is because they can have plenty of strong updays where the next day it gets completely retraced.
 
-![BBAI](images/image-453.png)
+![BBAI](../images/image-453.png)
 
 Not sure if the BBAI sell-off is the best example, but those kinds of red candles after the run starts scare me. Some of are worse.
 
@@ -5860,7 +5860,7 @@ I spent a shitload of time studying charts. Finding the kinds of setups he is sh
 
 The execution is the hard part.
 
-![OPEN](images/image-454.png)
+![OPEN](../images/image-454.png)
 
 No pun intended, but this is why you want to buy on the open, on the first minute ideally. The opening range keeps you safe. If you bought this on the close, you're immediatelly underwater the next day, having some pretty severe losses.
 
@@ -5895,7 +5895,7 @@ The daytrading paper tested such a system on stocks in play and found it to have
 
 It's really a brilliant way to combo daytrading into swing positions.
 
-![XP](images/image-455.png)
+![XP](../images/image-455.png)
 > Is this a good setup?
 
 3/5. I think it's decent if it breaks out. It could be even better if it consolidates for a week or so before breaking out. Right now it's loose.
@@ -5905,7 +5905,7 @@ https://youtu.be/xx8GvtAxilk?t=13753
 
 Yeah, it has a lot, except the final pieces I really needed.
 
-![ONTX](images/image-456.png)
+![ONTX](../images/image-456.png)
 > For those of you who have small accounts this is a very good setup.
 
 Damn. I've been trading completely wrong.
@@ -5923,7 +5923,7 @@ The Tao Ceti job got me to 100k. This will get me to 1m and beyond.
 
 Interesting that he says the best short opportunities are in bull markets.
 
-![UAVS](images/image-457.png)
+![UAVS](../images/image-457.png)
 
 This is a 5 star to him. Interesting.
 
@@ -5942,7 +5942,7 @@ I had no fucking idea how swing trading worked. Not until I watched this video. 
 
 This is very instructive. This was nowhere in the strategy outline.
 
-![NBIS](images/image-458.png)
+![NBIS](../images/image-458.png)
 
 This trade is a loser. Let me close it. In fact, I could try out the market on close order here since it is rallying into the close.
 
@@ -5954,7 +5954,7 @@ Let me finish the swing trading school.
 
 I'll have to pay off the debt in dollars I'll owe to the brokers on Monday. It will be 100$ or less, so it's not a big deal. Not a big losing trade.
 
-![NBIS](images/image-459.png)
+![NBIS](../images/image-459.png)
 
 It actually reclaimed the VWAP, so it isn't that bad to aim for the close with the order.
 
@@ -5983,7 +5983,7 @@ I won't hide the dollar amounts anymore. If Kristjan can show it, then I should 
 
 This is actually a pretty good price! I made the right choice.
 
-![NBIS](images/image-460.png)
+![NBIS](../images/image-460.png)
 
 This kind of rally of the close is in fact exactly what I've been hoping for. I probably lost 60-65$ on this trade in total.
 
@@ -6019,11 +6019,11 @@ Last week I came up with the weekly cascade system, but even that is only analog
 
 This is actually very ballsy and really tests your entry skills, but I could do it.
 
-![R3NK](images/image-461.png)
+![R3NK](../images/image-461.png)
 
 The main thing that stopped me trying to trade that method is the sharp pullbacks after strong closes like on the 17th Feb in R3NK.
 
-![OKLO](images/image-462.png)
+![OKLO](../images/image-462.png)
 
 I am really afraid of the sharp pullbacks in stocks like OKLO, but it could be easily handled if I enter during the morning instead of the top of the close, like on 21st of January. It would have been a 50% gainer in 2 weeks.
 
@@ -6098,18 +6098,18 @@ On the other hand, the probabilistic programming based daytrading system would r
 
 10:25am. I'll have to calculate my own technical indicators in the bot.
 
-![RMA explained](images/image-463.png)
-![RMA explained](images/image-464.png)
+![RMA explained](../images/image-463.png)
+![RMA explained](../images/image-464.png)
 
 Not sure if I want to use the ATR for stop prices since it also considers gaps. Maybe ADR would be better?
 
-![ADR](images/image-465.png)
+![ADR](../images/image-465.png)
 
 Not buying the stock on new highs if the stop is wider than the ADR would have saved me on this trade had I been using a bot for it.
 
 Yeah, I need a bot. Without a bot, I'd have to keep second guessing my trade management.
 
-1pm. ![l2 box](images/image-466.png)
+1pm. ![l2 box](../images/image-466.png)
 
 In the June 2024 review he talks about the importance of the l2 box.
 
@@ -6128,13 +6128,13 @@ Let me stop the June review so I can watch this.
 
 Or rather, I'll keep them in mind once I start extending my holding periods.
 
-1:30pm. ![MSFT](images/image-467.png)
+1:30pm. ![MSFT](../images/image-467.png)
 
 Given that he is trading MSFT, his system isn't nearly as good as Qullamaggie's.
 
 The amount of useful stuff I got from Qullamaggie is insane.
 
-![ATR](images/image-468.png)
+![ATR](../images/image-468.png)
 
 Using an ATR to set targets is an interesting idea. Personally I'd prefer to go for homeruns.
 
@@ -6148,14 +6148,14 @@ I really only require basic skills of how to interact with the IBKR API, how to 
 
 I want to be a discretionary trader that uses bots to trade.
 
-![](images/image-469.png)
+![](../images/image-469.png)
 
 Interesting. There are so many ways to swing trade. This guy is trailing his stops using higher lows.
 
 https://youtu.be/c9A5mek1eFw?t=2092
 > Volume weighted average price anchored from the breakout day. Interesting idea.
 
-7:30pm. ![breakouts](images/image-470.png)
+7:30pm. ![breakouts](../images/image-470.png)
 
 Actually, I thought I understood this yesterday, but I am not sure I do. 
 
@@ -6169,17 +6169,17 @@ What if I combined the breakouts with a 10m rate of change. Like - buy the break
 
 Getting the high % returns requires my entries to be good. If I can make my stops tighter without added risk that would mean a significantly improved return to risk.
 
-8:15pm. ![OPEN](images/image-471.png)
+8:15pm. ![OPEN](../images/image-471.png)
 
 Why am I under the impression that this is a breakout in the midday. It's within the first hour.
 
-![OPEN](images/image-472.png)
+![OPEN](../images/image-472.png)
 
 Yeah, these breakouts are in the first hour and then they continued for the rest of the day and doubled the candles.
 
 The main problem is that they're a fair distance from the lows of the day where the stop should be.
 
-8:50pm. ![OPEN](images/image-473.png)
+8:50pm. ![OPEN](../images/image-473.png)
 
 I was supposed to be watching the videos, but I am just looking at this chart instead.
 
@@ -6187,7 +6187,7 @@ I think I get it. The key is the price being above the 1,5 and 30 minute opening
 
 The Friday 22 breakout was ideal. The previous breakout above the 2.6 happened after the first hour of the morning and the volume wasn't as good. So the setup wasn't nearly as good.
 
-9pm. ![OPEN](images/image-474.png)
+9pm. ![OPEN](../images/image-474.png)
 
 Fuck, imagine I got this at the close instead of the first hour, that would have been horrible.
 
@@ -6199,11 +6199,11 @@ https://youtu.be/c9A5mek1eFw?t=2798
 
 Let me finish this and I'll got to bed. I barely watched anything of Lance. The one video I watched was a replay of last time.
 
-9:10pm. ![SMCI](images/image-475.png)
+9:10pm. ![SMCI](../images/image-475.png)
 
 This is the 15m chart of SMCI during its big breakout. That opening drive could be caught 
 
-![SMCI](images/image-476.png)
+![SMCI](../images/image-476.png)
 
 Oh, wow that was huge volume. I doubt the trigger would have failed.
 
@@ -6213,7 +6213,7 @@ There is still plenty of volatility in the market. It isn't so efficient that th
 
 It's just that there isn't room for people who only want to get in the next morning after the breakout. That would kill the RR.
 
-![](images/image-477.png)
+![](../images/image-477.png)
 
 Is that Lance in the video? Towards the end there is a pitch by Mike.
 
@@ -6223,7 +6223,7 @@ Is that Lance in the video? Towards the end there is a pitch by Mike.
 
 8:15am. I am sleeping like shit. I don't think I feel asleep until 2am last night. I got some trading insights from thinking about OPEN though. It's pattern is very similar to ASTS.
 
-![OPEN](images/image-478.png)
+![OPEN](../images/image-478.png)
 
 If I put in the volume requirement, it might actually have bought it at 4.3 rathen than 4 or lower like I'd have hoped. And the trade wouldn't be made due to the ADR rule.
 
@@ -6231,11 +6231,11 @@ If I put in the volume requirement, it might actually have bought it at 4.3 rath
 
 I see. I really meant to use cumulative volume since the open, but having just the relative 15m volume for the period being evaluated would be better. At least for the OPEN trade.
 
-![](images/image-479.png)
+![](../images/image-479.png)
 
 That rule would have gotten me at this breakout here. The volume itself was really tepid in the morning.
 
-![](images/image-480.png)
+![](../images/image-480.png)
 
 And on this breakout the volume was also tepid in the morning, but strong on the breakout itself.
 
@@ -6248,7 +6248,7 @@ If it opened near the close or below it, I could use the relative 15m volume tog
 
 I need to be nuanced. I don't need to use the same rules Qullamaggie is giving me.
 
-![NBIS](images/image-481.png)
+![NBIS](../images/image-481.png)
 
 Oh my god, this was such a shitshow. Getting it at the low of the day with OPG orders was a stroke of luck. I wasn't even looking at the premarket prices before I put them in. I glad I only lost a tiny amount on the trade.
 
@@ -6258,7 +6258,7 @@ For stocks like OPEN and ASTS, I should use the relative volume rule with a pric
 
 I should only trade breakouts in the first 1.5 hours of the day.
 
-![OPEN](images/image-482.png)
+![OPEN](../images/image-482.png)
 
 The good trades tend to blast off the open. So why not get in right at the open then? I'd have lost 4% on NBIS on the huge gap up, but it would have saved me the following day just like it did.
 
@@ -6308,11 +6308,11 @@ At any rate, I do think that adding some trend persistence and timing rules coul
 
 9:40am. Instead of putting the stop at the daily low, I could try putting it at the 15m low. And then after holding the trade for 15m, I could move it up to break even.
 
-![OPEN](images/image-483.png)
+![OPEN](../images/image-483.png)
 
 The reversal after the great breakout in OPEN here was so damn severe. It would have turned the +40% gainer trade into a slight losing trade had I moved my stop to breakeven. But I think that's the right thing to do regardless. I don't feel like leaving it at the daily low.
 
-![](images/image-484.png)
+![](../images/image-484.png)
 
 Trying to play the rebound would have worked better.
 
@@ -6418,17 +6418,17 @@ Let me watch the OBR video.
 https://youtu.be/KFqSicS7HOo
 The ORB Strategy (High Odds Breakout Technique)
 
-![BTCUSD](images/image-485.png)
+![BTCUSD](../images/image-485.png)
 
 Wait, they are showing a Bitcoin example? BTC doesn't have a proper morning session though. It's actually the hardest thing to trade using the ORB I'd imagine. I have no idea how it could be done.
 
 It's great that they are showing me exactly how it could be done on it.
 
-![](images/image-486.png)
+![](../images/image-486.png)
 
 Oh, I just realized that the bars show the proportion of bids and asks on them. That's cool.
 
-![OKLO](images/image-487.png)
+![OKLO](../images/image-487.png)
 > When we have a really clear breakout bar like this, you can simply put your stop a few cents below the breakout bar.
 
 Oh, that's a 5m chart.
@@ -6440,7 +6440,7 @@ Let me watch this and I am done for the day. I cannot take it anymore. I am so m
 
 I simply haven't slept properly last night.
 
-![](images/image-488.png)
+![](../images/image-488.png)
 
 Interesting, I didn't know that.
 
@@ -6534,76 +6534,76 @@ Programming jobs, tend to be in the 100 - 200k per year range.
 
 And also getting a job at this juncture simply makes sense. It wouldn't be a bad idea to get my account up to 250k waging.
 
-![FCT](images/image-489.png)
+![FCT](../images/image-489.png)
 
 Damn, I really like how it's putting in all those inside bars. That is a sign of strength I've come to realize. When the weekly bars start to get loose that is a topping sign.
 
-![NESTE](images/image-490.png)
+![NESTE](../images/image-490.png)
 
 Yeah, maybe I'll just keep track of the 6 month momentum screens. These narrow weeks are great.
 
-![DEZ](images/image-491.png)
+![DEZ](../images/image-491.png)
 
 I've learned from Lance, these inside bars represent price acceptance.
 
-![INT](images/image-492.png)
+![INT](../images/image-492.png)
 
 Hahaha, this finally broke down.
 
-![JOE](images/image-493.png)
+![JOE](../images/image-493.png)
 
 I don't have to buy the breakouts, I can buy these inside bars.
 
-![SLR](images/image-494.png)
+![SLR](../images/image-494.png)
 
 Buying this now would put me on the wrong side of the V. A sell pattern.
 
-![EGL](images/image-495.png)
+![EGL](../images/image-495.png)
 
 Has such nice and wide swings. Not really a fan of weekly swings though.
 
-![PHARM](images/image-496.png)
+![PHARM](../images/image-496.png)
 
 No, it would work.
 
-![PHARM](images/image-497.png)
+![PHARM](../images/image-497.png)
 
 No, the stocks simply move too fast for the weekly charts to keep up.
 
 The big risers in since the April bottom have stalled out and the rest of them are simply to slow to apply this method.
 
-![FER](images/image-498.png)
+![FER](../images/image-498.png)
 
 This right time to buy this would have been here, right after the open. I see that now.
 
 What if I traded the US markets? The US markets have way more opportunity.
 
-![HYPD](images/image-499.png)
-![HYPD](images/image-500.png)
-![HYPD](images/image-501.png)
+![HYPD](../images/image-499.png)
+![HYPD](../images/image-500.png)
+![HYPD](../images/image-501.png)
 
 I hate how this one keeps breaking OBR before heading higher.
 
-![SOUN](images/image-502.png)
+![SOUN](../images/image-502.png)
 
 I need a better news feed, but when a stock is making this much volume in the first half hour, that's a reason right there to buy it.
 
-![NEGG](images/image-503.png)
+![NEGG](../images/image-503.png)
 
 A lot of fantastic swing trades in the US markets.
 
-![FORD](images/image-504.png)
+![FORD](../images/image-504.png)
 
 Plenty of opportunity for those willing to play the short term momentum game in the US markets.
 
-![SUPX](images/image-505.png)
-![SUPX](images/image-506.png)
+![SUPX](../images/image-505.png)
+![SUPX](../images/image-506.png)
 
 Buying the breakouts in these after the initial episodic pivot works well.
 
 What's needed is to use tight stops like at the daily lows. And indeed a short term moving average would do well as an extended sell rule.
 
-![SUPX](images/image-507.png)
+![SUPX](../images/image-507.png)
 
 All these inner bars are basically price acceptance. Lance is right to view them as such.
 
@@ -6617,37 +6617,37 @@ What I am doing here is just fun. I'll extend my knowledge of the stock market a
 
 The 100k that I made can serve as a shield in case the tough times come. It's not a priority for me to run it into millions at this very moment. When I want to dedicate myself to trading, I'll go all out. I'll apply to SMB, I'll breathe and live the markets daily, watch the news, do the backtests, make the trading bots and so on.
 
-10:15am. ![roaring kitty](images/image-508.png)
+10:15am. ![roaring kitty](../images/image-508.png)
 > Within the 15-20 minutes of the livestream it was just so obvious that [Roaring Kitty] was an idiot, and anybody following him was just ridiculously dumb.
 
 This made me lol. I have no idea who Roaring Kitty is, but the GME pump sounds like a clown show.
 
 10:20am. Interesting how often he sells calls. Pretty ballsy of him. He is very good. Like, even if I mastered the momentum trading system using breakouts that Qullamaggie teaches, I wouldn't come even close to him.
 
-![](images/image-509.png)
+![](../images/image-509.png)
 > This bar is so, so interesting. Even if you buy on the close, you can give it to those lows.
 
 He most likely means that I could put a stop on the low of the day.
 
 10:40am. Yeah, he often turns good daytrades into swings.
 
-![](images/image-510.png)
+![](../images/image-510.png)
 
 Oh, I see. Yeah, makes sense.
 
-![](images/image-511.png)
+![](../images/image-511.png)
 
 He says RK lost his appeal and he is going to end up bag holding these.
 
-![](images/image-512.png)
+![](../images/image-512.png)
 > I am not using dilution tracker, but it is highly regarded in some of these stuff.
 
-11:20am. ![](images/image-513.png)
+11:20am. ![](../images/image-513.png)
 > I want to short this on the daily and give prior bar highs on that daily.
 
 If you waited for the close on that day to short, you'd be selling below 110, risking over 10 points, but if you shorted it during the ORB, you'd be risking...
 
-![ARM](images/image-515.png)
+![ARM](../images/image-515.png)
 
 Much, much less. 2 points maybe.
 
@@ -6659,7 +6659,7 @@ I am starting to get bored to be honest.
 
 I've been introduced to just how powerful the prior bar high/low systems can be. I've been introduced to cascades. I've also come to understand the power of moving averages for keeping track of momentum.
 
-![NVDA](images/image-516.png)
+![NVDA](../images/image-516.png)
 
 I really like the 13 day VWMA.
 
@@ -6671,7 +6671,7 @@ News trading is probably the most important part of trading momentum. If I ever 
 
 11:50am. Who knows, maybe I won't wait for the break, but right now I just don't have any risk capital in me to trade.
 
-![](images/image-517.png)
+![](../images/image-517.png)
 
 No reason to be bearish of the market here. None at all, given that it's smoontly making new highs but that doesn't mean I have to be in. If it was me before I got fired I would have been in, probably long some US momentum names.
 
@@ -6712,7 +6712,7 @@ https://arxiv.org/abs/2503.20821
 
 I'll read this later. The HN thread make it look like a page turner.
 
-9:25pm. ![RHM](images/image-518.png)
+9:25pm. ![RHM](../images/image-518.png)
 
 So it turned out to be like this. In the end, I sold RHM into the breakout that would lead it to 1950.
 
@@ -6800,7 +6800,7 @@ https://youtu.be/badGHJLDpP8?t=134
 
 Lol.
 
-![](images/image-519.png)
+![](../images/image-519.png)
 
 This whole thing makes farmers look really bad.
 
@@ -6814,7 +6814,7 @@ I've been thinking what would Buffet do in my situation. If he had no time to re
 
 If I really wanted to take risk, but I had no time to trade, I could just put the money into S&P. But I don't. I'd only do that if the market crashed.
 
-10:20am. ![market internals](images/image-520.png)
+10:20am. ![market internals](../images/image-520.png)
 
 This is all very good info. I could combine it with the VWAP system.
 
@@ -6825,11 +6825,11 @@ One thing I've realized in 2025 is that the market doesn't reward participation 
 
 11am. Wow this is a great video. I'd actually like to daytrade like this. It makes sense to me.
 
-![](images/image-521.png)
+![](../images/image-521.png)
 
 The way he trades makes sense to me.
 
-![](images/image-522.png)
+![](../images/image-522.png)
 
 I could combine all of this with the VWAP system to get something particularly effective.
 
@@ -6837,15 +6837,15 @@ I could combine all of this with the VWAP system to get something particularly e
 
 There was a great SemiAnalysis article with links to them.
 
-![](images/image-523.png)
+![](../images/image-523.png)
 
 He says there is often a gap outside the previous day's range on trend days.
 
-![](images/image-524.png)
+![](../images/image-524.png)
 
 Wow, the price action towards the lows wasn't at all confirmed by the tick or the other indicators.
 
-![](images/image-525.png)
+![](../images/image-525.png)
 
 If the day is shaping up to be so strong, maybe instead of just putting the stop in at the low of the day, I could also put it below VWAP, but only if closes for a couple of bars below it. Let's say 5 bars.
 
@@ -6853,24 +6853,24 @@ Or I could just exit and re-enter.
 
 11:55am. No wait, I need to trade these using the OBR and lows for the day. The VWAP line here doesn't start from the open of the day, but from the premarket.
 
-![](images/image-526.png)
+![](../images/image-526.png)
 
 No wait, this chart is from the start of the day and the VWAP line is fine here.
 
-![](images/image-527.png)
+![](../images/image-527.png)
 
 I really like this kind of trade. The indicators are so clear.
 
 If I could create a bunch of playbook trades like these in regular stocks, perhaps based on news, that would make for a good daytrading system.
 
-![](images/image-528.png)
+![](../images/image-528.png)
 > If you're focused on Nasdaq, maybe you go into trading high beta names based on all this information.
 
 52 * 5 = 260 trading days minus the holidays.
 
 Not sure how my holiday trades there is a year.
 
-![](images/image-529.png)
+![](../images/image-529.png)
 
 So that comes down roughly to 25 - 50 trend days a year.
 
@@ -6882,13 +6882,13 @@ https://youtu.be/wkuR2Z0IVhQ?t=4623
 
 Here they are talking about trading options on days like these.
 
-![](images/image-530.png)
+![](../images/image-530.png)
 
 On each of these trades, I could risk 1% of my account to make 10%. Maybe even more.
 
 Systematizing breakouts would be a lot harder.
 
-![](images/image-531.png)
+![](../images/image-531.png)
 
 On this trend day it dipped below VWAP a few times, but those are all very minor losses. I could easily trade days like these with 500% leverage because the odds are so good.
 
@@ -6903,7 +6903,7 @@ I agree. Change of plans. I am going to do the kernel, and then I'll get back to
 
 My risk capital is 0 and I want to take a break from trading, but I don't need to start out by trading breakouts long term. Qullamaggie made his first million daytrading and I only need one good trade.
 
-![gap and go](images/image-532.png)
+![gap and go](../images/image-532.png)
 
 Interesting comment. He calls them gap and go days rather than trend days.
 
@@ -6919,7 +6919,7 @@ I should look into having LLMs trade those perhaps? But interpreting news has a 
 
 1:05pm. Yeah...let me pull up the chart of the OPEN again.
 
-![OPEN](images/image-533.png)
+![OPEN](../images/image-533.png)
 
 I am an idiot. I've been busting my head how I could trade those breakouts in the earlier days, how to put stops and all that shit.
 
@@ -6937,11 +6937,11 @@ I don't need to be burdened by how I'll get 100m, or 10m. Who cares about that?
 
 Isn't my immediate problem protecting myself from expenses and being worried that I'll slip to 50k if I just did nothing?
 
-![OPEN](images/image-534.png)
+![OPEN](../images/image-534.png)
 
 Looking at this chart of OPEN and trying to figure out how I'd perfectly handle all the individual swings with a system that is roboust is just me repeating the same mistake from 2007 - 2014. How many charts did I look during that time period? How much time did I waste doing that only to conclude that price movements are random?
 
-![OPEN](images/image-535.png)
+![OPEN](../images/image-535.png)
 
 And then I'd look at these huge trend days, and conclude that they are not worth trading because they happen so infrequently.
 
@@ -6993,7 +6993,7 @@ I have a lot to look forward to.
 https://youtu.be/L-_lufNM7sI
 The Opening Drive Momentum Trade (reading the tape)
 
-![criticism](images/image-536.png)
+![criticism](../images/image-536.png)
 
 Damn, he really roasted them.
 
@@ -7008,7 +7008,7 @@ Ah, fuck it. Let me sign up for this.
 
 ...I'll do it tomorrow, today I am supposed to be resting.
 
-![](images/image-537.png)
+![](../images/image-537.png)
 
 So this is how it acted after a gap up. I do want to try the VWAP system on this. Or the ORB system.
 
@@ -7033,7 +7033,7 @@ Catch EASY Trades by Avoiding this Tape Reading Mistake (with examples)
 
 Let me watch this just for a bit.
 
-![tape](images/image-538.png)
+![tape](../images/image-538.png)
 
 This tape reading stuff feels like nonsense. At least Andrea Cimitan shows heat maps and volume profiles.
 
@@ -7081,7 +7081,7 @@ Before that, let me update my resume and I'll send the brokerage report to my ac
 
 9:35am. 
 
-![resume](images/image-539.png)
+![resume](../images/image-539.png)
 
 Updated the resume. It doesn't look too bad, doesn't it? It should improve my employability going forward, if my personal projects don't end up bearing fruit.
 
@@ -7113,11 +7113,11 @@ As for the job, I'll follow the principle of least resistance when it comes to m
 
 The Tao Ceti job made sense as it got me to 100k from 0. It's a huge gain after I basically had no money for my entire life up to that point. But now the goal has changed to getting to 200k. I could do that in 1.5 years, by working as a software engineer. But getting to 400k after that will take exponentially much effort.
 
-![work vs gamble](images/image-540.png)
+![work vs gamble](../images/image-540.png)
 
 As degenerate as this /biz/ meme is, it is correct in principle. You can only have exponential returns by investing, trading or doing business.
 
-10:40am. ![SemiAnalysis](images/image-541.png)
+10:40am. ![SemiAnalysis](../images/image-541.png)
 
 I am strongly tempted to apply at SemiAnalysis.
 
@@ -7129,7 +7129,7 @@ It's amazing that my resume does have some overlap with their requirements right
 
 I have that job with Thomas lined up anyway.
 
-![](images/image-543.png)
+![](../images/image-543.png)
 
 The Tao Ceti job had us hosting LLM models, so this is all good info.
 
@@ -7172,7 +7172,7 @@ Ugh, it's at 8pm and I need to set aside 2 hours. But I guess it's fine. I'll be
 
 All of this is really great advice. Yeah, I've decided that once I resume trading I'll be daytrading and leave long term hold for later. I want to fucking trend follow, but just isn't working for me on the daily, weekly and monthly timescales.
 
-![](images/image-544.png)
+![](../images/image-544.png)
 
 Buying this cross above VWAP worked amazingly well in NBIS.
 
@@ -7188,11 +7188,11 @@ You know maybe they would if I restricted my selection to high volume breakouts.
 
 Let me finish the video.
 
-6:10pm. ![NQ](images/image-545.png)
+6:10pm. ![NQ](../images/image-545.png)
 
 What amazing price action. I think I am starting to get it. 
 
-![NQ](images/image-546.png)
+![NQ](../images/image-546.png)
 
 I could have setup the system to trade either VWAP or the opening range breaks to the downside after a large move up like that in the indices and made decent money. But trying to figure out how to trade these on the dailys never got me anywhere.
 
@@ -7227,7 +7227,7 @@ He says that in higher vol markets you get more scalps and move2moves.
 
 7:10pm. Honestly, I am amazed he scalped the CPI release. I didn't know that was even possible. I thought for a move of that velocity only trading bots could handle it.
 
-![](images/image-547.png)
+![](../images/image-547.png)
 
 The exits in the move2move trades sort of make sense, but I don't understand the entries at all.
 
@@ -7241,7 +7241,7 @@ https://youtu.be/A3vVLJ0JIBU?t=1814
 
 10:10pm. The selling pitch at the end of the video is so intense and just doesn't stop.
 
-![](images/image-548.png)
+![](../images/image-548.png)
 
 I admit, I am tempted to buy this, but I don't want to spend money at this time.
 
@@ -7265,7 +7265,7 @@ I have the 2 simple ones on stocks in play. I also have the trend day setup in t
 
 I have huge amount of leeway to give poker botting a try and then return to trading afterwards if that fails to pan out, or if I get tired of poker botting.
 
-10:45pm. ![ORCL](images/image-549.png)
+10:45pm. ![ORCL](../images/image-549.png)
 
 I wanted to check out the chart of ORCL. It had an opening drive and it rolled over below VWAP eventually. Would've been a profitable trade as long as it was taken on the first minute bar.
 
@@ -7301,7 +7301,7 @@ Let me finish the chapter I am reading and I'll watch the Cutlass talks again. M
 https://www.nvidia.com/en-us/on-demand/session/gtc25-s72720/
 Programming Blackwell Tensor Cores with CUTLASS
 
-![fusing multiple gemms](images/image-550.png)
+![fusing multiple gemms](../images/image-550.png)
 
 Oh, this last video seems interesting. Fusing multiple GEMMs.
 
@@ -7310,17 +7310,17 @@ Enable Tensor Core Programming in Python with CUTLASS 4.0
 
 Let me start with this one. I'll just watch vids today to get into the swing of things.
 
-![](images/image-551.png)
+![](../images/image-551.png)
 
-![](images/image-552.png)
+![](../images/image-552.png)
 
 I wonder how they improved the compilation times so much. Shouldn't the Python program generate C++ that then gets compiled by the C++ compiler?
 
-![](images/image-553.png)
+![](../images/image-553.png)
 
 Hmmm, I see. Maybe they're compiling to PTX directly? That would make sense.
 
-11:05am. ![](images/image-554.png)
+11:05am. ![](../images/image-554.png)
 
 So they are applying classic staged programming concepts in this DSL here.
 
@@ -7340,23 +7340,23 @@ Think about how much money you can make playing cards and go for it. If people c
 
 11:15am.
 
-![](images/image-555.png)
+![](../images/image-555.png)
 
 I really need to spend some quality time playing with Cutlass and make sure I understand it thoroughly as it's such a vital part of everything that I want to do.
 
 12:25pm. Let me take a break here. Spent some time writing an email.
 
-1:35pm. ![](images/image-556.png)
+1:35pm. ![](../images/image-556.png)
 
 I need to train myself to not look at this like work, but like fun. I've been watching those trading videos like a maniac, but there is no reason if I really believe I am going to be a millionaire bot user, then I shouldn't I be looking at Cutlass with simlar interest.
 
 Let me just go and take what is mine.
 
-1:45pm. ![](images/image-557.png)
+1:45pm. ![](../images/image-557.png)
 
 It gets complicated pretty quickly doesn't it? I am going to figure this out one by one. Both the C++ library and the Python DSL. I'll dedicate the time to do it. I'll believe in myself.
 
-2pm. ![perm tiling](images/image-558.png)
+2pm. ![perm tiling](../images/image-558.png)
 
 I am not sure I understand this. I'll have to play with it.
 
@@ -7366,17 +7366,17 @@ Let me stop here so I can do the winter prep chores.
 
 It's a break so I have just a little bit of time to watch the vid.
 
-![](images/image-559.png)
+![](../images/image-559.png)
 
 This is very similar to the functionality I build into the Spiral's tensor library.
 
-![swizzle](images/image-560.png)
+![swizzle](../images/image-560.png)
 
 It's going to take some time to figure this out. What is that 0 they are composing with?
 
 5:45pm. I did my best solo attempt at making the matmult kernel, but I could learn a lot from the Cutlass authors. The problem is that it's just so hard to get into the Cutlass examples directly. I am hoping the Cute will be easier.
 
-![](images/image-561.png)
+![](../images/image-561.png)
 
 Ah this assert is for location. It's getting the offset at that location.
 
@@ -7392,21 +7392,21 @@ I am simply going to have to walk the path that the Cutlass authors outlined for
 
 I cannot say that they didn't put any examples for me to chew on. They made the attempt to teach me, so I have to make the attempt to learn from them.
 
-6:25pm. ![cute](images/image-562.png)
+6:25pm. ![cute](../images/image-562.png)
 
 I don't get this, but this cannot be any harder than what I did in Spiral. I get the sense they're using the same concepts.
 
-![llvm](images/image-563.png)
+![llvm](../images/image-563.png)
 
 Interesting, I had no idea that it allowed inline PTX.
 
-![b100](images/image-564.png)
+![b100](../images/image-564.png)
 
 I had no idea most of these places existed.
 
 6:40pm. I give up, I cannot find the B100 cards on-demand anywhere. I think I'll just develop the kernel for the RTX 5080. Using cheapo consumer GPUs for what I want to do is a decent choice. My personal one is only for dev work, and I'll rent the Vast.ai instances to actually run the bots.
 
-![](images/image-565.png)
+![](../images/image-565.png)
 
 Ah so 6 months ago when the video was made it didn't support the RTX 50 series. I wonder if they got it working by now.
 
@@ -7434,23 +7434,23 @@ Let's start by watching the Cutlass talk and the I will track down the Cute tuto
 https://www.nvidia.com/en-us/on-demand/session/gtc25-s72720/
 Programming Blackwell Tensor Cores with CUTLASS
 
-![](images/image-566.png)
+![](../images/image-566.png)
 
 Ah, wait, this might be why I can't find a 1 GPU configuration for the Blackwell cards. Nvidia might not even be offering those. They might only come in form factors of 2 GPUs per superchip.
 
-![](images/image-567.png)
+![](../images/image-567.png)
 
 Ever since I got fired, it feels like I've been stoned out of my mind. What the hell are GPCs?
 
-![answer](images/image-568.png)
+![answer](../images/image-568.png)
 
 GPU Processing Clusters. Ok.
 
-![](images/image-569.png)
+![](../images/image-569.png)
 
 I need to go through these tutorials step by step once I am done with the video.
 
-10:40am. ![](images/image-570.png)
+10:40am. ![](../images/image-570.png)
 
 Note the filename in the bottom right corner. I'll have to have a direct look at it later.
 
@@ -7458,7 +7458,7 @@ I am having trouble understanding the code examples. I need to make sure of what
 
 10:45am. What does `tCgA` mean? I know that `gA` is global A, but what about `tC`?
 
-![](images/image-571.png)
+![](../images/image-571.png)
 
 I really like the process. It doesn't involve any manual indexing code and feels similar to what I've been doing in Spiral.
 
@@ -7474,17 +7474,17 @@ But is `tC` really necessary?
 
 That is my best guess for what the naming scheme is supposed to represent.
 
-11:05am. ![](images/image-572.png)
+11:05am. ![](../images/image-572.png)
 
 I am not sure I really get this...
 
 ...Just a sec. If B200 cards come in 2 GPU configuration, what about B100 cards?
 
-![](images/image-573.png)
+![](../images/image-573.png)
 
 It seems like that one would be more easily programmable. Ok.
 
-![](images/image-574.png)
+![](../images/image-574.png)
 
 He says that the epilogue is completely decoupled from the gemm which is unlike every other architecture that Nvidia has ever released.
 
@@ -7492,15 +7492,15 @@ At any rate, I cannot follow the presentation at all. I am going to have to get 
 
 But once I figure it out, it's going to feel so good, and I'll get into it.
 
-![](images/image-575.png)
+![](../images/image-575.png)
 
 I have no idea. What's the difference between block scaled and non-block scaled MMAs? Which is better?
 
-![](images/image-576.png)
+![](../images/image-576.png)
 
 Wait, emulated fp32 is done using bf16? I thought it would be done using tf32. How could it possibly be done using bf16?
 
-![](images/image-577.png)
+![](../images/image-577.png)
 > If you're doing back to back gemms, you can really do some fancy pipelining and some extra work there.
 
 12pm. You know, I think the main benefit of the Tao Ceti job is getting me this new rig. It cost me 3.5k, which is far from cheap. The fact that I'll be doing the work on a RTX 5080 which is the latest gen card will be of immense benefit.
@@ -7519,7 +7519,7 @@ There are so many things that could make me stumble. Even if the poker project i
 
 I am actually very afraid of both rake, and perma banning. I'll inevitably make mistakes that will get me detected at the start, and I am not a black hat hacker that I could make fake bank accounts and IDs. I can only hope that major rooms support crypto deposits.
 
-![](images/image-578.png)
+![](../images/image-578.png)
 
 They support crypto, but also have KYC policies. Hmmmm...
 
@@ -7531,8 +7531,8 @@ But I did hear about bot farms in Russia, so how do they evade detection?
 
 This is such a huge hassle that I am tempted to just trade instead, but I need to give it a try. There are apps to do UI automation for poker botting. So let me do this project and see how it goes. Poker botting did get me the Tao Ceti job even if indirectly, so I owe it to the past me to see it through.
 
-![](images/image-579.png)
-![](images/image-580.png)
+![](../images/image-579.png)
+![](../images/image-580.png)
 
 Hmmmm...Some of the links at the top look interesting.
 
@@ -7540,7 +7540,7 @@ https://www.bacloud.com/en/blog/177/running-poker-bots-on-servers-the-ultimate-g
 
 Oh, this is all good advice.
 
-![](images/image-581.png)
+![](../images/image-581.png)
 
 Warbot perks my interest. I'll take a look at how much it costs later, but it's good that I have options. I don't care about the profiles, the bot I'll make will be way better than anything they offer.
 
@@ -7550,15 +7550,15 @@ Warbot perks my interest. I'll take a look at how much it costs later, but it's 
 
 2:05pm. https://docs.warbotpoker.com/regularstealth/
 
-![](images/image-582.png)
+![](../images/image-582.png)
 
 Ok, let me check out the poker rooms which are high risk level.
 
 2:10pm. This is all very useful info for me. Let me open a thread on the Warbot forums.
 
-![](images/image-584.png)
+![](../images/image-584.png)
 
-3:20pm. ![](images/image-583.png)
+3:20pm. ![](../images/image-583.png)
 
 I am finally looking at them.
 
@@ -7570,7 +7570,7 @@ I guess translating the examples to Blackwell Geforce would be my first homework
 
 I think I'll keep using this repo as my journal even if it won't be trading related as it's easy to include images unlike with Github commits.
 
-4:15pm. ![](images/image-585.png)
+4:15pm. ![](../images/image-585.png)
 
 Yeah, it's going to be hard. The examples are 600 LOC long. But I need to roll up my sleeves and dive into them. I am willing to dedicate a whole month to figuring out Cutlass. It won't be a quick attempt like last time. I'll play with it for as long as is needed.
 
@@ -7580,7 +7580,7 @@ But before that, let me take a break so I can have a bath. I need a shave.
 
 5:45pm. Done with the bath. Let me take a look at the Cutlass blackwell_geforce examples.
 
-![](images/image-586.png)
+![](../images/image-586.png)
 
 Wait, a threadblock is 128 x 128 x 128 = 2_097_152.
 
@@ -7590,27 +7590,27 @@ No wait, a block can be 2k threads at most. What exactly am I looking at here?
 
 Nevermind, I'll figure that out later. A thread block is just a block, and indeed it can have 1-2k threads depending on the arch, so I am not sure what that code is supposed to be doing.
 
-![](images/image-587.png)
+![](../images/image-587.png)
 
 They are making good use of what I'd call 'manual' type inference. I used to use this techinque a lot in 2018, in the v1 of Spiral. In the end it was just very hard to program that way so I brought in global type inference in Spiral v2.
 
 During my job at Tao Ceti, I did spend a few days going through the examples in a debugger. I had to rent an instance on Vast.ai to keep the PC from crashing, but I managed to get some debugging done. So what I am looking at here doesn't feel as foreign as it did initially.
 
-6:05pm. ![](images/image-588.png)
+6:05pm. ![](../images/image-588.png)
 
 Oh, so do these 4-bit matmults have separate vectors with scale factors? Yeah, it makes sense, I had no idea how 4 bits of info could be enough to do anything useful otherwise.
 
-![](images/image-589.png)
+![](../images/image-589.png)
 
 To be fair to Cutlass, while it's examples are complicated, they are relatively self contained.
 
 I am going to focus on the latest API and forget 2.x and earlier exists. It's an abomination. At least with the Cute backend they are making an attempt at proper library design.
 
-![](images/image-590.png)
+![](../images/image-590.png)
 
 I had no idea B300 GPUs even existed.
 
-![](images/image-591.png)
+![](../images/image-591.png)
 
 Oh, is Cuda 13 already out? I need to update.
 
@@ -7672,28 +7672,28 @@ By reaching out with foot and stepping on it.
 
 For the next few months, I will be deep diving into C++. Forget functional programming. I don't want to hear about it. The C with the two plusses is what I will be using!
 
-2:45pm. ![](images/image-592.png)
+2:45pm. ![](../images/image-592.png)
 
 Installing the Cuda SDK in WSL was easy.
 
-![](images/image-593.png)
+![](../images/image-593.png)
 
 Over here I have the needed compilation commands for the project.
 
-3pm. ![](images/image-594.png)
-![](images/image-595.png)
+3pm. ![](../images/image-594.png)
+![](../images/image-595.png)
 
 Making progress.
 
-![](images/image-596.png)
+![](../images/image-596.png)
 
 Cute has docs. It seems they are reusing a lot of staged FP concepts in C++, so dealing with this should be easy assuming I could get the library to run.
 
-![](images/image-597.png)
+![](../images/image-597.png)
 
 How do I get this ifdef to work?
 
-![](images/image-598.png)
+![](../images/image-598.png)
 
 Oh, I see.
 
@@ -7701,27 +7701,27 @@ Oh, I see.
 
 It might see trivial, but this is real expertise building.
 
-![](images/image-599.png)
+![](../images/image-599.png)
 
 Damn, it's not really working during compilation.
 
-![](images/image-600.png)
+![](../images/image-600.png)
 
 Hmmmm...
 
 I guess I'll have to set a separate macro for it.
 
-![](images/image-601.png)
+![](../images/image-601.png)
 
-![](images/image-602.png)
+![](../images/image-602.png)
 
 Hmmm, the code looks like it should work, but it doesn't. Let me try upgrading the driver.
 
-![](images/image-603.png)
+![](../images/image-603.png)
 
 The driver has been updated. Let me try the program again.
 
-![](images/image-604.png)
+![](../images/image-604.png)
 
 Oh, I was right! The driver was the issue!
 
@@ -7729,11 +7729,11 @@ Not bad.
 
 3:20pm. You can see just how much trouble there was in compiling a simple program properly. Good thing I am doing it from the start. Now let me put in some includes.
 
-3:30pm. ![](images/image-605.png)
+3:30pm. ![](../images/image-605.png)
 
 Damn, you can really feel the build times increase when inserting these includes. For my own GPU I don't need the SM100 files...
 
-3:35pm. ![](images/image-606.png)
+3:35pm. ![](../images/image-606.png)
 
 Ok, I came this far.
 
@@ -7748,21 +7748,21 @@ This is the most basic of the basics. I'll learn a lot by doing this. Let me rea
 
 It needn't be a large tensor. A 5 element tensor is enough.
 
-3:55pm. ![](images/image-607.png)
+3:55pm. ![](../images/image-607.png)
 
 I already understand this well enough from my own work. Let me move on. I need to familiarize myself with tensors.
 
-4:10pm. ![](images/image-608.png)
+4:10pm. ![](../images/image-608.png)
 
 All of this is so ugly and awkward in C++. It's much easier to understand in Spiral. I'll skim this for now.
 
 4:15pm. Ugh, I really should've left the physical labor for another day. Even leading into today, my legs muscles were hurting, but now I am really screwed. It will take me a few days to get over it.
 
-4:35pm. ![](images/image-609.png)
+4:35pm. ![](../images/image-609.png)
 
 I can barely be bothered to think about this. Let me finish the article and I will close for the day and play some Limbus.
 
-5pm. ![](images/image-610.png)
+5pm. ![](../images/image-610.png)
 
 So much for playing Limbus. The way I am going about this study isn't with a positive mindset, but I am making progress regardless. I think once I conquer Cutlass I'll be able to feel some sort of relief.
 
@@ -7788,11 +7788,11 @@ If I drop trading completely, but win at poker, I'll be a millionare, and by the
 
 Literally anybody is stronger than me at the moment.
 
-![](images/image-611.png)
+![](../images/image-611.png)
 
 Let me just check whether it has the sm120 ops.
 
-![](images/image-612.png)
+![](../images/image-612.png)
 
 Oh, it does. Ok, that's some basic sanity checking out of the way.
 
@@ -7802,7 +7802,7 @@ Doing the subgame solving will really be interesting. I'll do it in Spiral, so t
 
 If I can pass those two checks, I will have the poker bot that I could not complete despite being at it for over a decade now.
 
-5:45pm. ![](images/image-613.png)
+5:45pm. ![](../images/image-613.png)
 
 This is a really good tutorial, but I am wasting my time just blindly reading it.
 
@@ -7819,7 +7819,7 @@ BATTLE MAGE ⚡CHOIR OF SPELLS 2 Hours Epic Rock & Metal Symphony 🎸 Fantasy f
 
 Btw, I am really enjoying KageYume's wizard/mage soundtracks.
 
-5:55pm. ![](images/image-614.png)
+5:55pm. ![](../images/image-614.png)
 
 Wow, these explanations of tape reading are super educational. But the tape flickers so much. I wonder if they could be replaced with the bid/ask bars that Andrea Cimitan showed in his Youtube series?
 
@@ -7828,7 +7828,7 @@ https://youtu.be/S1pROkW3XgE?t=600
 
 Really?
 
-![](images/image-615.png)
+![](../images/image-615.png)
 
 Oh wow, these are real time recordings of the tape. Yeah, it makes sense that they'd have those.
 
@@ -7936,11 +7936,11 @@ Just how incompetent the management can be to not be able to open an account wit
 
 I want to do AI.
 
-9:05am. ![](images/image-616.png)
+9:05am. ![](../images/image-616.png)
 
 I guess we won't be using Warbot.
 
-9:15am. ![](images/image-617.png)
+9:15am. ![](../images/image-617.png)
 
 Oh my god, there is so much stuff here. I even forgot that the games had a web UI.
 
@@ -7949,11 +7949,11 @@ Maybe I should do the regular CFR implementation in Python after all?
 9:20am. https://www.youtube.com/shorts/cFdpMAshkiw?feature=share
 > If you're a daytrader you need to stop relying on candlestick charts and start relying on order flow.
 
-![depth of market](images/image-618.png)
-![delta](images/image-619.png)
-![aggressive selling at the low, but no downside followthrough](images/image-620.png)
-![footprint chart](images/image-621.png)
-![heatmap](images/image-622.png)
+![depth of market](../images/image-618.png)
+![delta](../images/image-619.png)
+![aggressive selling at the low, but no downside followthrough](../images/image-620.png)
+![footprint chart](../images/image-621.png)
+![heatmap](../images/image-622.png)
 
 To be honest, using these tools makes more sense than looking at the L2 box.
 
@@ -7963,83 +7963,83 @@ I'll begin work on a separate branch and go over the library from the top in ord
 
 10:10am. Let me begin. Time to make the `hd-cfr-prelims` branch.
 
-10:15am. ![](images/image-623.png)
+10:15am. ![](../images/image-623.png)
 
 It's good to be back.
 
 It's really been a while since I worked on this last. Amazing that I had time to put even a little effort into Spiral due to my Tao Ceti job.
 
-![](images/image-624.png)
+![](../images/image-624.png)
 
 My brain cells feel like they are dead from what happened during the last week. How do I even call this script with the given args?
 
 10:20am. Yeah, I did have time to put some effort. Before the Stripe shit, I was actually enjoying the job. And it only really became a grind after the Bitcoin revelation.
 
-![](images/image-625.png)
+![](../images/image-625.png)
 
 No, not like this.
 
-![](images/image-626.png)
+![](../images/image-626.png)
 
 Ah...
 
-![](images/image-627.png)
+![](../images/image-627.png)
 
 How do boolean args work again?
 
-![](images/image-628.png)
+![](../images/image-628.png)
 
 Yeah, this is how I thought they should work.
 
-![](images/image-629.png)
+![](../images/image-629.png)
 
 Maybe the issue is that I am using bash to call the script?
 
-![](images/image-630.png)
+![](../images/image-630.png)
 
 No that wasn't it. It turns out that I have to execute the script directly.
 
-![](images/image-631.png)
+![](../images/image-631.png)
 
 My god, these booleans are such a handful. Let me change them to switches.
 
-![](images/image-632.png)
+![](../images/image-632.png)
 
 Switches work great. Passing 0 or 1 didn't work for me either. Ok, let me move on.
 
-![](images/image-633.png)
+![](../images/image-633.png)
 
 Come to think of it, I never managed to publish the prerelease to OVSX. Let me try it.
 
-![](images/image-634.png)
+![](../images/image-634.png)
 
 I think I lost the OVSX key at some point.
 
-![](images/image-635.png)
+![](../images/image-635.png)
 
 This is super annoying, I cannot reset the password for the Eclipse Foundation account.
 
 Nevermind, I'll try it another time. It feels that OVSX is perma-broken for some reason.
 
-![lol](images/image-636.png)
+![lol](../images/image-636.png)
 
 Ok, this is how you don't do website design.
 
 11am. I finally managed to sign the agreement. Let me see if I can get that token. Maybe I should just drop OVSX from maintenance. It wastes so much of my time.
 
-![](images/image-637.png)
+![](../images/image-637.png)
 
 Finally did it.
 
 11:05am. It was a minor update, but I am finally working on the Spiral language again.
 
-![](images/image-638.png)
+![](../images/image-638.png)
 
 I have a bunch of legacy code left over from the CEM days. What a waste of time that was. There is no way any optimization based algorithms will work on poker. I was just so desperate back then.
 
 11:10am. You could say that I took the Tao Ceti job in order to escape from the failure of the latest attempt to make an algorithm I came up with work on poker.
 
-![](images/image-639.png)
+![](../images/image-639.png)
 
 Oh my god. What am I going to do with all of this? It's no longer useful, and is a net negative in the codebase. Let me have breakfast here.
 
@@ -8048,23 +8048,23 @@ I should spend some time reviewing my old code.
 11:40am. https://news.ycombinator.com/item?id=45319062
 AI was supposed to help juniors shine. Why does it mostly make seniors stronger?
 
-11:50am. ![](images/image-640.png)
+11:50am. ![](../images/image-640.png)
 
 Let me go through the entire codebase from top to bottom. After that I'll be removing chunks out of it and slimming it down. The CEM stuff is definitely getting ejected. Don't know what else. Maybe I'll also remove the ML library since I won't be needing it.
 
 It's great that I can read Spiral code linearly from top to down.
 
-11:55am. ![](images/image-641.png)
+11:55am. ![](../images/image-641.png)
 
 To think the Spiral language has GADTs now. I can hardly believe I was the one to do all this work.
 
 I really am an awesome programmer. If I could only establish my foundation properly, maybe I'd be able to look forward to the future.
 
-12:10pm. ![](images/image-642.png)
+12:10pm. ![](../images/image-642.png)
 
 Yeah, it's good enough if I spend some time in quiet contemplation today. I find myself forgetting what type applications were.
 
-![](images/image-643.png)
+![](../images/image-643.png)
 
 It was such a brilliant idea to use nominals for type level computations. It was a stroke of brilliance to use type literal conversions to enable this.
 
@@ -8073,7 +8073,7 @@ BATTLE MAGE ⚡CHOIR OF SPELLS 2 Hours Epic Rock & Metal Symphony 🎸 Fantasy f
 
 I think these soundtracks are AI gen'd and they are godly.
 
-12:30pm. ![](images/image-644.png)
+12:30pm. ![](../images/image-644.png)
 
 Mhhh, I am going to have to figure out what I am going to do with the native Cuda backend. For now, I'll just forget it exists.
 
@@ -8098,7 +8098,7 @@ Here he is talking about a scalper who had a full time job and no losing days sc
 
 Maybe I am dumb?
 
-![](images/image-645.png)
+![](../images/image-645.png)
 
 This is a very good video. He says that the first 3 short term trading strategies allow rapid account growth if you know what you're doing. Also he talks about algo scalping being the biggest business on the street.
 
@@ -8153,15 +8153,15 @@ At some point I find Pradeep's broken English endearing.
 
 Yeah, I think this is key. I know that I could use tiny stops with swing positions initiated on gap ups. I am just not sure what about entering later in the day.
 
-![bo](images/image-646.png)
+![bo](../images/image-646.png)
 
 He mentioned he uses half a day's gain as a stop sometimes.
 
-![](images/image-647.png)
+![](../images/image-647.png)
 
 He says he got into this trade in the first 10m. I wonder what his entry trigger was?
 
-![](images/image-648.png)
+![](../images/image-648.png)
 
 162.46?
 
@@ -8182,7 +8182,7 @@ I am just having fun watching this.
 https://youtu.be/ELPaYyt8cMc?t=312
 > As I got experience, I don't even put the stop at the low of the day, but half of the breakout bar.
 
-![](images/image-649.png)
+![](../images/image-649.png)
 > If you can find setups where there is a big contraction or where there is a very tiny narrow range day....
 
 https://youtu.be/ELPaYyt8cMc?t=1015
@@ -8199,7 +8199,7 @@ But my biggest problem is simply that I didn't want to work for my money.
 
 I like thinking up solutions, but I hate executing on them, so of course I'd want to avoid anything that looks like execution. But as a consequence of that, my solutions themselves ended up being poor. If I knew programming and had the resolve to work hard today and automate tomorrow and be lazy the day after that, I could have won.
 
-![](images/image-650.png)
+![](../images/image-650.png)
 
 What is this anticipation setup?
 
@@ -8209,13 +8209,13 @@ If you enter at 15m in the day, put the stop at the low, and come back at the 1h
 
 6:15pm. Let me continue watching learning about trading is simply fulfilling to me now in ways nothing else compares.
 
-![](images/image-651.png)
+![](../images/image-651.png)
 
 https://youtu.be/3vZYjW6aa6o
 The Truth about How Much Traders Actually Make
 
-![](images/image-652.png)
-![](images/image-653.png)
+![](../images/image-652.png)
+![](../images/image-653.png)
 
 > If you been trading for 20 years, you're an absolute dinosaur in this business.
 
@@ -8228,7 +8228,7 @@ More great advice.
 
 > Some traders are cut out for duration moves and some traders are cutout for magnitude moves. Especially those of you who are looking for exponential returns, you will have to trade magnitude moves.
 
-![](images/image-654.png)
+![](../images/image-654.png)
 > You need to develop the ability to sell into strength basically.
 
 https://youtu.be/NIDENZQSDdk?t=465
@@ -8247,7 +8247,7 @@ Various ways to enter swing trades
 https://youtu.be/S6ob7CKnDMM?t=112
 > When I enter on a breakout, most of my entries are in the first half an hour.
 
-![](images/image-655.png)
+![](../images/image-655.png)
 > If you're trying to enter the setup the next day, it's too late.
 
 Agggggghhhhhh...if only somebody could go back in time and smack me and tell me to enter breakout in the first 15-20m that could have made such a huge difference.
@@ -8274,7 +8274,7 @@ I cannot stop thinking about it.
 
 6:55pm. Let me finish that video and I'll play Limbus.
 
-![](images/image-656.png)
+![](../images/image-656.png)
 
 Really, these reversals are valid signals?
 
@@ -8288,7 +8288,7 @@ Here he is talking about using OPG orders.
 https://youtu.be/S6ob7CKnDMM?t=577
 > Sometimes the entire move happens in just one day.
 
-![](images/image-657.png)
+![](../images/image-657.png)
 > Entering early on a breakout is a significant edge.
 > If you want higher return and closer stops, earlier entry is a better entry.
 
@@ -8321,7 +8321,7 @@ Do not buy stocks up 2 days in a row
 
 > If you can follow this one single rule, you will be very successful in swing trading.
 
-![narrow green candles](images/image-658.png)
+![narrow green candles](../images/image-658.png)
 
 Let me stop here with trading. Time for play. Tomorrow I resume programming.
 
@@ -8334,18 +8334,18 @@ What to look for in good breakout
 
 Let me watch this.
 
-![](images/image-659.png)
+![](../images/image-659.png)
 
 https://stockbee.blogspot.com/2014/01/how-to-identify-a-quality-setup.html
 How to identify the A quality setup
 
 Unfortunately the images are broken now.
 
-![](images/image-660.png)
+![](../images/image-660.png)
 
 The video does have them though.
 
-![](images/image-661.png)
+![](../images/image-661.png)
 
 You knowm, these breakouts could be considered parts of a pullback trade just as it's going to the other side of the V.
 
@@ -8388,45 +8388,45 @@ I need to just go in and do it. Thankfully the first few steps which is to imple
 
 8:45am. Let me start. Pursue the Singularity. Seek omnipotence. Go!
 
-8:50am. ![](images/image-662.png)
+8:50am. ![](../images/image-662.png)
 
 What the hell is this for?
 
-![](images/image-663.png)
+![](../images/image-663.png)
 
 Ah, it seems I left a comment in by accident.
 
-9:25am. ![](images/image-664.png)
+9:25am. ![](../images/image-664.png)
 
 Amazing how much I've worked on. Merge sort for poker hands that can be evaluated in registers.
 
-![](images/image-665.png)
+![](../images/image-665.png)
 
 Am I not doing the tf32 conversion in the matmult anymore? It doesn't matter right now, but I'll keep it in mind. Maybe I forgot to comment it in after some test.
 
-![](images/image-666.png)
+![](../images/image-666.png)
 
 I sure did some crazy things during my time working on the ML library.
 
-9:40am. ![](images/image-667.png)
+9:40am. ![](../images/image-667.png)
 
 I've gone over the core library functions. Next up are the ML library and the games.
 
-![](images/image-668.png)
+![](../images/image-668.png)
 
 Forgot that I had a blockwise transpose in the library. I have grid and block ops strewn throughout the library. The kernels need to be better organized.
 
-![](images/image-669.png)
+![](../images/image-669.png)
 
 Since I need to go the Cutlass route, a lot of this doesn't even feel like an asset anymore, but a burden.
 
-10:10am. ![](images/image-670.png)
+10:10am. ![](../images/image-670.png)
 
 Making these kernels was truly brilliant coding. Too bad I don't have an use for it anymore.
 
 11:05am. I am just doing some minor chart reading to iron out my swing trading perspective.
 
-![OKLO](images/image-671.png)
+![OKLO](../images/image-671.png)
 
 The OKLO breakout worked out spectacularly well.
 
@@ -8434,7 +8434,7 @@ Yeah, I think I get it now. I need to make my watchlist, and I should just come 
 
 I'll definitely code such a system up just to make sure it makes sense.
 
-![RGTI](images/image-672.png)
+![RGTI](../images/image-672.png)
 
 This worked out great as well.
 
@@ -8454,7 +8454,7 @@ Poker could get me to 10m just as trading could.
 
 11:15am. All I need is just one good algorithm.
 
-![](images/image-673.png)
+![](../images/image-673.png)
 
 Here is the reward propagation function. Amazing that I managed to implement tabular CFR on the GPU.
 
@@ -8464,7 +8464,7 @@ Ok, so the `reward / sampling_prob * action_prob` is just the standard importanc
 
 ...This is ridiculous. Let me take a look at some of my old vids.
 
-![](images/image-674.png)
+![](../images/image-674.png)
 
 Ah, it X - Y + E[Y].
 
@@ -8474,7 +8474,7 @@ Ahhhh, yeah, that makes much more sense.
 
 Amazing that I am still plugging away at it.
 
-11:30am. ![](images/image-675.png)
+11:30am. ![](../images/image-675.png)
 
 The intricate reasoning needed to make this work is truly next level.
 
@@ -8512,7 +8512,7 @@ The times when I am in the zone and on autopilot are precious and only happen on
 
 1:35pm. I am not going to focus too much on the cem stuff. Let me just go through the games.
 
-2:15pm. ![](images/image-676.png)
+2:15pm. ![](../images/image-676.png)
 
 Uah, I am looking at this in a daze. Just what am I going to do with all of this?
 
@@ -8580,7 +8580,7 @@ I'll watch this tomorrow. It 50m and I don't feel like it right now.
 
 He is talking smack about Bitcoin. I love it.
 
-![NBIS](images/image-677.png)
+![NBIS](../images/image-677.png)
 
 I had a feeling if it could go up above 92.5 which was the offering price, that it could explode. It seems I was right.
 
@@ -8600,11 +8600,11 @@ https://youtu.be/hFjNHv7DiPs?t=3963
 
 9/23/2025
 
-9:05am. ![](images/image-678.png)
+9:05am. ![](../images/image-678.png)
 
 Got this email, and it is 100% a scam. How do I email Github?
 
-![](images/image-679.png)
+![](../images/image-679.png)
 
 Ah it was already taken down.
 
@@ -8624,7 +8624,7 @@ The MIC gain is simply too large now for some reason.
 
 11:10am. Whatever, I'll just use the loudness control in RX Audio to normalize it. The fact that I have the Nvidia....
 
-![](images/image-680.png)
+![](../images/image-680.png)
 
 The fact that I have the Nvidia filters in OBS makes my life a lot easier. They work really well.
 
@@ -8637,21 +8637,21 @@ You know, how about instead of reading the text in monotone from the screen, I d
 Since I did experiment with ComfyUI during my stay at Tao Ceti, and I do have a RTX 5080 in my rig how about I install ComfyUI, and generate some intro and outro images?
 Ah, it has an installer. Ok. I guess I'll just follow that path. And then I do have the latent upscaling script that I created.
 
-![](images/image-681.png)
+![](../images/image-681.png)
 
 So much for installing it.
 
-![](images/image-682.png)
+![](../images/image-682.png)
 
 It's working now. I tried putting in Program Files, but I guess my user folder is a better place for it.
 
 12:10pm. Hopefully I'll be able to run the fp8 version of Flux Dev.
 
-12:15pm. ![](images/image-683.png)
+12:15pm. ![](../images/image-683.png)
 
 Nice, it worked.
 
-12:25pm. ![](images/image-684.png)
+12:25pm. ![](../images/image-684.png)
 
 Here is an adaption of the script I did for Tao Ceti. Now how do I load these missing models?
 
@@ -8659,19 +8659,19 @@ https://docs.comfy.org/tutorials/image/hidream/hidream-i1
 
 It can be found here.
 
-![](images/image-685.png)
+![](../images/image-685.png)
 
 Damn it, how the hell did I install this last time?
 
 Ah fuck it, let me go get breakfast.
 
-![](images/image-686.png)
+![](../images/image-686.png)
 
 Ah, I see. When I opened the workflow, it offered to do it for me automatically.
 
 Given that it's 16gb, I am not sure my GPU will be able to hold the model. I'll give it a try.
 
-![](images/image-687.png)
+![](../images/image-687.png)
 
 I could also try the NF4 version.
 
@@ -8681,7 +8681,7 @@ I'll have to figure out how to get it.
 
 1:20am. Let me resume. Generating that image was just too slow due to lack of RAM so I closed ComfyUI.
 
-![](images/image-688.png)
+![](../images/image-688.png)
 
 Agh, this is so annoying I so don't want to mess with model downloads.
 
@@ -8692,96 +8692,96 @@ Let me try changing the model to this.
 
 1:30pm. No, it's still very slow.
 
-![](images/image-689.png)
+![](../images/image-689.png)
 
 Let me try Omnigen2 instead of messing with those large models. Where are even my model folders?
 
-![](images/image-690.png)
+![](../images/image-690.png)
 
 Ah here.
 
-1:40pm. ![](images/image-691.png)
+1:40pm. ![](../images/image-691.png)
 
 Finally it loaded.
 
-![](images/image-692.png)
+![](../images/image-692.png)
 
 The cat has been generated. Let me upscale it.
 
-1:50pm. ![](images/image-693.png)
+1:50pm. ![](../images/image-693.png)
 
 Ok, let me try this out.
 
-![](images/image-694.png)
+![](../images/image-694.png)
 
 It finished.
 
 Let me paste them here.
 
-![](images/image-695.png)
-![](images/image-696.png)
+![](../images/image-695.png)
+![](../images/image-696.png)
 
 Oh, not bad. Not bad at all.
 
 > A robot adventurer grasping for the stars, climbing the heavenly staircase. Amber ocean. High quality, 4k, painterly style.
 > blurry, low quality, distorted, ugly, bad anatomy, deformed, poorly drawn
 
-![](images/image-697.png)
-![](images/image-698.png)
+![](../images/image-697.png)
+![](../images/image-698.png)
 
 I messed up and made the denoise factor far too large. Because of that the image gen didn't take the original image into account, but that having said the result is pretty good idea way.
 
-![](images/image-699.png)
+![](../images/image-699.png)
 
 I like this.
 
 Let me crop the 4 pixels on either side to make the width exactly 1080.
 
-![](images/image-700.png)
+![](../images/image-700.png)
 
 Mmhhhh, here it is.
 
-![](images/image-701.png)
+![](../images/image-701.png)
 
 2:10pm. I'll back up the workflows in this journal.
 
-![](images/image-702.png)
+![](../images/image-702.png)
 
 Let me also try generating a thumbnail image.
 
-![](images/image-703.png)
+![](../images/image-703.png)
 
 The results are poor.
 
-![](images/image-704.png)
+![](../images/image-704.png)
 
 Lol, this prompt was a bit better.
 
-![](images/image-705.png)
+![](../images/image-705.png)
 
 I like the above one in particular.
 
-![](images/image-706.png)
-![](images/image-707.png)
-![](images/image-708.png)
+![](../images/image-706.png)
+![](../images/image-707.png)
+![](../images/image-708.png)
 
 Maybe I should merge the intro and outro generation into a single workflow?
 
-![](images/image-709.png)
+![](../images/image-709.png)
 
 No, I thought it would maybe do the in parallel, but I was wrong.
 
-![](images/image-710.png)
-![](images/image-711.png)
+![](../images/image-710.png)
+![](../images/image-711.png)
 
 Anyway, here are the images.
 
 2:40pm. Let me post the intro video online.
 
-![](images/image-712.png)
-![](images/image-713.png)
-![](images/image-714.png)
-![](images/image-715.png)
+![](../images/image-712.png)
+![](../images/image-713.png)
+![](../images/image-714.png)
+![](../images/image-715.png)
 
 The generations take so damn long. Maybe I'll keep using DALLE 3 for the thumbnails as is usual.
 
@@ -8900,13 +8900,13 @@ Simple price actions strats like the ones that Parker uses are bound to underper
 
 The reason is probably because he is simply getting in too late like I did.
 
-![NEGG](images/image-716.png)
+![NEGG](../images/image-716.png)
 
 Damn this has so many good breakouts along the way. You really need to watch these and wait for volatility contractions, and they buy the breakouts early in the day.
 
 Sure, it went 66% in two weeks in the end, but that isn't scary if you're swing trading with a short stop.
 
-![OKLO](images/image-717.png)
+![OKLO](../images/image-717.png)
 
 Yeah, here is a pullback.
 
@@ -8914,7 +8914,7 @@ How would I trade this if my aim was to use a daily low stop?
 
 I'd wait for it to selloff for a few days before trying to get back in.
 
-![](images/image-718.png)
+![](../images/image-718.png)
 
 Had such a perfect early morning breakout.
 
@@ -8950,13 +8950,13 @@ It actually takes a lot of courage to trade a system like that, to risk getting 
 
 8:45pm.
 
-![WULF](images/image-719.png)
+![WULF](../images/image-719.png)
 
 This could be a good setup. This is one of those stocks that drops before turning around and breaking out.
 
 In fact, I need to do is as Pradeep does and look to put the stop even more tightly than the daily low.
 
-![](images/image-720.png)
+![](../images/image-720.png)
 
 Gaps, early morning breakouts, 1 day bar systems...
 
@@ -8964,17 +8964,17 @@ Gaps, early morning breakouts, 1 day bar systems...
 
 That is how I will win.
 
-![CRWV](images/image-721.png)
+![CRWV](../images/image-721.png)
 
 With the knowledge that Qullamaggie and Pradeep imparted upon me. I am starting to see the swing timings.
 
 Right now for example, CRWV is an anticipation setup. It's seting up for a breakout above 140.
 
-![ALAB](images/image-722.png)
+![ALAB](../images/image-722.png)
 
 I don't like this setup. I don't like buying these kinds of reversals, I'd rather be on the right side of V rather than at the bottom.
 
-![QBTS](images/image-723.png)
+![QBTS](../images/image-723.png)
 
 The whole market is making these sorts of sequential upday moves.
 
@@ -9016,13 +9016,13 @@ What matters is if he has the strength to make a single step forward.
 
 Before I start work on the new language features I'll take some time to think about them.
 
-6:20pm. ![](images/image-724.png)
+6:20pm. ![](../images/image-724.png)
 
 Oh, Lance will be in the next market wizards book.
 
 ...He looks kind of washed out in this video though.
 
-![](images/image-725.png)
+![](../images/image-725.png)
 > Trading is literally fucking killing me.
 
 Oh lol, didn't expect that.
@@ -9033,8 +9033,8 @@ I've told him to get more sleep.
 
 Namely that there is no point in creating a system for a single stock as it won't behave as it did in the past.
 
-7:55pm. ![](images/image-726.png)
-![](images/image-727.png)
+7:55pm. ![](../images/image-726.png)
+![](../images/image-727.png)
 
 It's scary being long here. I might want to swing trade, but position trading would be out of the question for me.
 
@@ -9045,7 +9045,7 @@ https://www.ai-supremacy.com/p/the-ai-bubble-grows-ponzi-scheme-symptoms-to-meet
 
 8:20am. I am up. Let me chill and I'll start work on the new features afterwards.
 
-9:05am. ![BREA](images/image-728.png)
+9:05am. ![BREA](../images/image-728.png)
 
 I really owe Lance Breitstein a lot for introducing me idea of using a simple system on complex setups. For a guy who made 100m, I never would have expected that he would be using a simple trend following 2 min bar hi/lo system for long and short positions respectively.
 
@@ -9055,7 +9055,7 @@ So the chart of BREA here is a price acceptance type of consolidation, an antici
 
 This is easy money. Certainly easier than the 8 - 12 week system I came up with last time.
 
-![INT](images/image-729.png)
+![INT](../images/image-729.png)
 
 This is a weekly chart, but just look at how it makes higher lows once it finally gets going. And then it got crushed once it started making lower lows.
 
@@ -9063,19 +9063,19 @@ That is what is really important.
 
 I've been struggling so hard to understand, but it couldn't be simpler.
 
-![NBIS](images/image-730.png)
+![NBIS](../images/image-730.png)
 
 Higher lows, higher highs. Despite the recent dip, it's still making higher lows.
 
-![EXA](images/image-731.png)
+![EXA](../images/image-731.png)
 
 I can really see it now.
 
-![RHM](images/image-732.png)
+![RHM](../images/image-732.png)
 
 Higher lows.
 
-![R3NK](images/image-733.png)
+![R3NK](../images/image-733.png)
 
 I bought the euro defense stocks just as they were making lower lows on the weekly charts. And I sold out as soon as they finished their selloff on the way up.
 
@@ -9083,13 +9083,13 @@ I bought the euro defense stocks just as they were making lower lows on the week
 
 What about market bottoms on QQQ on the weekly chart. Would the 1 week system work on it?
 
-![QQQ](images/image-734.png)
+![QQQ](../images/image-734.png)
 
 I just wasn't there for the market after I gave up on trading past 2014, but generally yeah. If the market is in an uptrend it starts making higher lows on the weeklies.
 
 The trouble is that this happens only after large panics and most of the time it's rangebound and only dip buying works.
 
-![QQQ](images/image-735.png)
+![QQQ](../images/image-735.png)
 
 It doesn't work that well though.
 
@@ -9097,7 +9097,7 @@ Yeah, unless you come up with a theory that this particular system should work a
 
 Looking at daytrading, I am shocked that sometimes there would be good trends on the 2 min charts. Never would have expected that to be possible.
 
-![QQQ](images/image-736.png)
+![QQQ](../images/image-736.png)
 
 Amazing how it was making lower highs leading up to the crash.
 
@@ -9147,7 +9147,7 @@ It might be my last paid work so I might as well dedicate myself to it.
 
 8:25am. https://www.youtube.com/shorts/mq-9boX5bjU?feature=share
 
-![](images/image-737.png)
+![](../images/image-737.png)
 
 Something like this I could automate. Yeah, why swing trade when I could easily program a bot to do this. And then build on top of that.
 
@@ -9181,7 +9181,7 @@ This doesn't just go for the market, but life in general.
 
 More than money, more than anything else, I want the ability to think properly. Just how can I get good at it?
 
-11:35am. ![](images/image-738.png)
+11:35am. ![](../images/image-738.png)
 
 Sigh, is this function correct. Why am I getting the policy probs and then not using them?
 
@@ -9197,7 +9197,7 @@ I'll take on the hardship of betting on my ideas just one more time. I want it.
 
 I want to do things that are sensible rather than wild bets towards transcendence. It's just so hard being mired in darkness.
 
-![](images/image-739.png)
+![](../images/image-739.png)
 
 Why am I doing a pure eval run here?
 
@@ -9205,7 +9205,7 @@ I know it's to get the proper path probs and the rewards using the average polic
 
 ...Hmmm, does `calculate_updates` reset the trace?
 
-![](images/image-740.png)
+![](../images/image-740.png)
 
 Ah there is a `reset_trace_state` hiding in here.
 
@@ -9219,7 +9219,7 @@ I had trouble getting back into it, but the CFR updates are definitely good work
 
 My confidence will come back once I re-establish the bond with the old codebase.
 
-12:50pm. ![alt text](images/image-741.png)
+12:50pm. ![alt text](../images/image-741.png)
 
 The proof that I am a weak trader is that I cannot really distinguish the trade quality.
 
@@ -9264,7 +9264,7 @@ If I had 100k going into it, I'd have bailed after the Stripe nonsense, but I go
 
 Let's take it nice and easy. A part of me doesn't appreciate my year long vacation being cut, but maybe the next job will be good?
 
-3:20pm. ![](images/image-742.png)
+3:20pm. ![](../images/image-742.png)
 
 You know, I really dislike the pervasive use of the ref type in the library. Also given the number of layout types, maybe it would be time that I introduce a deref unary operator to the language that is polymorphic in layout types.
 
@@ -9276,11 +9276,11 @@ But, the `stack_refs` type while it supports reference indexing, still takes val
 
 3:35pm. I really wish I could improve the coherence of ref handling in Spiral.
 
-4:05pm. ![refm](images/image-743.png)
+4:05pm. ![refm](../images/image-743.png)
 
 You know what would really improve this? If I could remove everything above `to_local.`
 
-![](images/image-744.png)
+![](../images/image-744.png)
 
 Ohhh, there are no type errors when I do this.
 
@@ -9294,21 +9294,21 @@ I feel like introducing even more layout types which have all the fields ref typ
 
 But at the same time I don't like that I have to create a value type and then copy it into the `stack_refs` instance.
 
-4:30pm. ![](images/image-745.png)
+4:30pm. ![](../images/image-745.png)
 
 Why the hell has this still not been fixed?
 
-![](images/image-746.png)
+![](../images/image-746.png)
 
 Here it is.
 
-![](images/image-747.png)
+![](../images/image-747.png)
 
 Ah, why am I using the average here again?
 
 The softmax needs a max in order to calculate the baseline that will be subtracted from all the elements for numerical stability. The average while it does help is also less stable than the max.
 
-![](images/image-748.png)
+![](../images/image-748.png)
 
 Cannot be sure this works correctly and I am not going to bother testing it right now.
 
@@ -9328,8 +9328,8 @@ Lance talks about EV, but EV can only be relative to a particular model. Without
 
 Make the model. Then you will have your edge. You will have the EV that you seek.
 
-4:45pm. ![](images/image-749.png)
-![](images/image-750.png)
+4:45pm. ![](../images/image-749.png)
+![](../images/image-750.png)
 
 Yes. It's not like returning from a long absence with a new system will automatically make me profitable in the market. Rather, what my programming skills allow me is to actually follow the path leading to profitability properly.
 
@@ -9341,7 +9341,7 @@ I am already doing my best aren't I?
 
 There is no point in pressuring myself to work harder.
 
-4:55pm. ![](images/image-751.png)
+4:55pm. ![](../images/image-751.png)
 
 Yeah, it's exactly the same. It might be that I am pursuing the Singularity with the power of programming, but making all of this only for it to get me nowhere is exactly like my trading effort.
 
@@ -9359,31 +9359,31 @@ I've never really said to myself that probabilistic programming is the axiom and
 
 5:10pm. Well, it's not like it got me only that. I've made a few connections thanks to it. And I got these skills. I could do a lot in the next decade with them. Let's just keep going forward.
 
-![](images/image-752.png)
+![](../images/image-752.png)
 
 Why isn't it checking if it's contiguous?
 
-5:25pm. ![](images/image-753.png)
+5:25pm. ![](../images/image-753.png)
 
 I think this function is for the randomly inited and untrained models.
 
-5:30pm. ![](images/image-754.png)
+5:30pm. ![](../images/image-754.png)
 
 Ah no wait. I should just flatten the tensor first before extracting the array.
 
-![](images/image-755.png)
+![](../images/image-755.png)
 
 Ah whatever. Since these functions are specifically described to be dangerous, I might as well leave them.
 
-5:35pm. ![](images/image-756.png)
+5:35pm. ![](../images/image-756.png)
 
 No let me improve them a bit.
 
-![](images/image-757.png)
+![](../images/image-757.png)
 
 Good.
 
-5:45pm. ![](images/image-758.png)
+5:45pm. ![](../images/image-758.png)
 
 It's really embarassing to come back after a year and not even be able to remember what this functionality is for. I think it's for binary serialization from global tensors, but in that case what is the pickler for?
 
@@ -9391,15 +9391,15 @@ It's really embarassing to come back after a year and not even be able to rememb
 
 Ah, I see. I remember now. The pickler is for inputs to a NN, while serializer is for moving data between the Python side host code and the Cuda kernels.
 
-![alt text](images/image-759.png)
+![alt text](../images/image-759.png)
 
 `seriazer_main` should be `serializer_main`.
 
-6pm. ![](images/image-760.png)
+6pm. ![](../images/image-760.png)
 
 For interop purposes? Really?
 
-![](images/image-761.png)
+![](../images/image-761.png)
 
 Ah yes, it's true. I'd turn the model pointers into something that can be passed onto the Python side and then back into the model again when a new request comes in.
 
@@ -9442,21 +9442,21 @@ How about I do some research at how much software engineers are paid at Implico?
 6:55pm. https://youtu.be/AyarPY6CEyU
 Find and Enter Early
 
-![](images/image-762.png)
+![](../images/image-762.png)
 
 This is a quote from Toby Crabel's book.
 
-![](images/image-763.png)
+![](../images/image-763.png)
 
 He entered MOS 2 mins within of the open.
 
 Yeah, I can only curse my own stupidity for not thinking of this. In fact, I did read Toby's book, but it never occured to me to put his advice to use. I was afraid of the PDT rule and wanted to find something better. As if the effort of placing trades would give me insight.
 
-![](images/image-764.png)
+![](../images/image-764.png)
 
 I wonder how he managed to pick this one near the open? Probably because there was a contraction the previous day.
 
-![](images/image-765.png)
+![](../images/image-765.png)
 
 Interesting comments on position trading.
 
@@ -9465,7 +9465,7 @@ Yes, in the future, I definitely need to be organized and anticipate which stock
 https://youtu.be/Hkj4oGDPDQg
 What I learned from talking to losing traders
 
-7:15pm. ![](images/image-766.png)
+7:15pm. ![](../images/image-766.png)
 
 Here are Implico salaries.
 
@@ -9685,7 +9685,7 @@ I myself got screwed over, but at least I managed to make it right for Thomas so
 
 1:10pm. No programming done so far. I am instead watching a historical talk by Sarah Paine.
 
-![](images/image-767.png)
+![](../images/image-767.png)
 
 Surprised to see a job ad by an quant firm in the middle of it.
 
@@ -10144,7 +10144,7 @@ The answer is no.
 
 I'll consider it seriously when the fees go down. 
 
-![RHM](images/image-768.png)
+![RHM](../images/image-768.png)
 
 This volatility contraction in RHM is quite impressive.
 
@@ -10162,7 +10162,7 @@ It's a buy here, to be sure, but I want to trade a better system. A more consist
 
 The market is there for me to use it. It should not be using me.
 
-![RHM](images/image-769.png)
+![RHM](../images/image-769.png)
 
 Even so, this is kind of obvious and even if not a monthly system, a weekly system should work on it.
 
@@ -10182,15 +10182,15 @@ The fact that I might be tempted to jump in is a strong signal that I should not
 
 RHM is just one of 10,000. I need to keep that in mind.
 
-![COIN](images/image-770.png)
+![COIN](../images/image-770.png)
 
 Just look at these swings from a low point. I need to target these kinds of patterns.
 
-![1min](images/image-771.png)
+![1min](../images/image-771.png)
 
 Note how it gapped open up and never looked back.
 
-![5min](images/image-772.png)
+![5min](../images/image-772.png)
 
 I need to look for these patterns.
 
@@ -10198,7 +10198,7 @@ Just betting big on a single one of them could set my account up 10-30% with ver
 
 Think about that.
 
-![1min](images/image-773.png)
+![1min](../images/image-773.png)
 
 I could have risked 1$ on this ORB to make 60. COIN isn't a special stock like RHM. It isn't anything. These patterns just happen over and over. I've been noting a lot of these failed high volume breakouts setting up for harsh rebounds. At this point it's almost predictable. I should be taking advantage of them in the future.
 
@@ -10206,7 +10206,7 @@ Don't listen to that systems guy. Who knows by what system he is using and by wh
 
 Unless I know that and can verify for myself that there are profitable crypto patterns, I should just ignore everything he says.
 
-4:10pm. ![](images/image-774.png)
+4:10pm. ![](../images/image-774.png)
 
 Let me screencap this quote that's burried at the bottom of the comments thread.
 
@@ -10215,7 +10215,7 @@ Let me screencap this quote that's burried at the bottom of the comments thread.
 
 6:40pm. Reading Linda's Trading Sardines book currently.
 
-![low volatility](images/image-775.png)
+![low volatility](../images/image-775.png)
 
 Here is what Linda has to say about low volatility in a rising trend.
 
@@ -10225,13 +10225,13 @@ Still I think the time based longer term momentum system would still be useful f
 
 7:10pm. That book is really her biography.
 
-![](images/image-776.png)
+![](../images/image-776.png)
 
 The `Professional Trading Techniques` is more on the actual trading tactics. At any rate, I didn't know the last hour of trading method.
 
 Let me leave this for later.
 
-![](images/image-777.png)
+![](../images/image-777.png)
 
 Right now I am just skimming the middle, but just this little bit is enough to get me interested.
 
@@ -10242,7 +10242,7 @@ AAA Rated Junk: What Tricolor and First Brands Reveal About Credit Markets!
 
 Just as I finished telling Thomas that this year is nothing like 2008, I see this.
 
-![](images/image-778.png)
+![](../images/image-778.png)
 
 Funniest comment award goes to this guy.
 
@@ -10285,7 +10285,7 @@ https://learn.microsoft.com/en-us/answers/questions/5520908/all-of-my-edge-passw
 
 Son of a bitch. I was going to log into Udcourse, but nevermind that.
 
-![](images/image-779.png)
+![](../images/image-779.png)
 
 Ah, the passwords setting is turned off for some reason.
 
@@ -10303,7 +10303,7 @@ Here is the business version I'll try getting v140.
 
 Agh, I run it and it tries updating automatically. How do I stop that?
 
-![](images/image-780.png)
+![](../images/image-780.png)
 
 This is so fucking annoying. It worked so well for me up to now.
 
@@ -10363,7 +10363,7 @@ Everything is a trade, so I don't have to worry about the markets.
 
 Even though I quit trading over a decade ago, I haven't made the wrong choice to cultivate my own skills instead. If that is the wrong choice I will accept the consequences gladly.
 
-8:20pm. ![](images/image-781.png)
+8:20pm. ![](../images/image-781.png)
 
 I've been meaning to play games, but I just don't feel like it. I've just been reading novels and I've felt like watching a video or two of Lance's course.
 
@@ -10371,7 +10371,7 @@ Here he is doing a breakout dissection, and he says that most retail doesn't pay
 
 Yeah, that applies to me and I don't know if I could afford a good news source or even what they are.
 
-![](images/image-782.png)
+![](../images/image-782.png)
 
 He says that it's possible to buy at 7.60 and due to the tight spread only risk a single cent. Based on his system he'd get stopped out 60c higher.
 
@@ -10385,7 +10385,7 @@ In some ways, Lance is very encouraging, but it's also very demotivating. It's m
 
 The way I look at the market is so amateurish. I am completely blind to the possibilities.
  
-![](images/image-784.png)
+![](../images/image-784.png)
 
 He mentiones NewsEdge and NewsWare.
 
@@ -10407,18 +10407,18 @@ It's running purely on blind faith.
 
 9pm. I just googled crypto news and found the following:
 
-![](images/image-785.png)
+![](../images/image-785.png)
 
 Crazy.
 
 Yeah, I am thinking about crypto all wrong. Instead of reading charts, I should be following mentions of tokens on Twitter.
 
-![](images/image-786.png)
-![](images/image-787.png)
+![](../images/image-786.png)
+![](../images/image-787.png)
 
 Yeah, no shit the smart traders bought it. While here I am reading charts and scratching my head how to trade some of these tickers.
 
-![](images/image-788.png)
+![](../images/image-788.png)
 
 This is like the dotcom bubble and I am completely missing and unprepared for it.
 
@@ -10436,13 +10436,13 @@ A system that does that much would be hard to find in trading, so until jobs mak
 
 It's going to be a contract job making around 125 euro an hour, which is worth 250k euro per year in salary. It's not going to be a full time thing unless the investors get on board with the project, but the AI money is still sloshing around so I give us decent odds. The negatives are that the customers we're trying to reach are conservative and it might be hard to sell them on the project.
 
-9:25pm. ![NBIS](images/image-789.png)
+9:25pm. ![NBIS](../images/image-789.png)
 
 I really let a big one get away with NBIS. As it turns out buying once it exceeded the 92.5 offering price had done far better than I expected.
 
 The 2 day system would have exited prematurely. The weekly system is where it's at.
 
-![ATRO](images/image-790.png)
+![ATRO](../images/image-790.png)
 
 These setups where the offerings get absorbed work well don't they?
 
@@ -10450,29 +10450,29 @@ I knew that NBIS in particular would work well since it is a the type of news th
 
 Imagine had I bet 30% of my account. If I tuned my entries that could be entirely possible in the future.
 
-![CIFR](images/image-791.png)
+![CIFR](../images/image-791.png)
 
 Sometimes it pays off to risk the prior week lows. A month is too high, and in truth I don't feel like getting stopped out at the daily lows. I'd rather wait for the Friday's close.
 
-![NEGG](images/image-792.png)
+![NEGG](../images/image-792.png)
 
 But maybe trailing the stop wouldn't be bad either.
 
-![UUUU](images/image-793.png)
+![UUUU](../images/image-793.png)
 
 Ok, let's wait for a panic at least so I am not stupidly chasing the market anymore.
 
 At that time I can think of trying out some weekly cascade style of trades. Fuck reading Twitter to catch flying shit, but NBIS style trades could be great. I could even add on the way up to them.
 
-![UNH](images/image-794.png)
+![UNH](../images/image-794.png)
 
 Amazing gap and go trade for how clean it is.
 
-![UNH](images/image-795.png)
+![UNH](../images/image-795.png)
 
 It doesn't look special on the daily.
 
-![UNH](images/image-796.png)
+![UNH](../images/image-796.png)
 
 I expected it would be a cascade style trade.
 
@@ -10484,7 +10484,7 @@ But I didn't realize just how much the gap trades could get me.
 
 Forget crypto. A while back I looked at crypto and there were very few tokens with consistent trends in them.
 
-![BTC](images/image-797.png)
+![BTC](../images/image-797.png)
 
 Ironically, BTC is the exception. I feel like I could do a lot with using dailies to enter and using weeklies to manage my exits.
 
@@ -10494,7 +10494,7 @@ What I could do is find days with narrow ranges, enter near the end and use tigh
 
 If I look at the chart of BTC it really has wide swings doesn't it? Tight stop on days like those would work.
 
-![BTC](images/image-798.png)
+![BTC](../images/image-798.png)
 
 Look at this breakout right here in the middle.
 
@@ -10502,7 +10502,7 @@ If BTC could narrow down at a pivot point, that would be the low risk entry. Ris
 
 In fact today is Sunday, so maybe if Monday can avoid a decline that could be an entry?
 
-![BTC](images/image-799.png)
+![BTC](../images/image-799.png)
 
 Not on ETFs. I'd want to in the 24h market if the price dips.
 
@@ -10510,11 +10510,11 @@ The reason why BTC has this many gaps is because ETFs only capture a part of its
 
 Let me check out CME futs.
 
-![](images/image-800.png)
+![](../images/image-800.png)
 
 Yeah, ok, this is passable. I don't need Saturday and Sunday trading. How much would once contract be in notional value?
 
-![](images/image-801.png)
+![](../images/image-801.png)
 
 Oh, these are big contracts.
 
@@ -10524,23 +10524,23 @@ Right now, what I'd look for in BTC is exactly what RHM has done in the past 3 w
 
 I am taking a stepback and saying to myself what I would do if I had to trade.
 
-![NVDA](images/image-802.png)
+![NVDA](../images/image-802.png)
 
 Nvidia is the master of weekly cascades.
 
-![NVDA](images/image-803.png)
+![NVDA](../images/image-803.png)
 
 The dailies look like shit, but the weeklies have a consistent higher lows kind of pattern.
 
 I could have bought on Friday and put a stop at the weekly lows. What is the worst that could have happened?
 
-![](images/image-804.png)
+![](../images/image-804.png)
 
 Monday would have been the best entry point. The gap low could have served as a stop level. The stock never bothered testing it even though it sold off during the day after the opening drive.
 
 10:10pm. This really wouldn't be that hard to trade. It's straightforward enough on the weeklies.
 
-![OKLO](images/image-805.png)
+![OKLO](../images/image-805.png)
 
 These narrow day lows could serve as stop points.
 
@@ -10588,14 +10588,14 @@ If it does, then it's fine if I just focus on the job while working on the agent
 
 10:05am. 
 
-![CRWV daily](images/image-807.png)
-![CRWV weeekly](images/image-806.png)
+![CRWV daily](../images/image-807.png)
+![CRWV weeekly](../images/image-806.png)
 
 It's very weird that I never spotted the pattern back in 2007 - 2014, but even though the daily pattern for CRWV is a mess, it's actually making consistent higher lows on the weekly.
 
 And when I say this, I mean from bar to bar. It's not some subjective tech analysis thing where you draw lines on a chart.
 
-![CRWV 1min](images/image-808.png)
+![CRWV 1min](../images/image-808.png)
 
 This is a good pattern. Short term it's oversold, and it has a habit of poking below the gap before rallying.
 
@@ -10631,7 +10631,7 @@ But the intent was there.
 
 10:20am. Back then, holding stock for a month would have been unthinkable, and by doing so I did get rid of one of my restrictions.
 
-![BTC](images/image-809.png)
+![BTC](../images/image-809.png)
 
 Even for a rally like this, getting stopped out a few times below the weekly lows would still have been a good system. Yeah you know what, buying on Friday even if I am stopped out on that same week and putting a stop below the weekly low would have worked great.
 
@@ -10707,7 +10707,7 @@ I've been thinking about subgame solving and I am going to need rejection sampli
 
 I don't need to be original. I just have to do it right.
 
-4:35pm. ![work hard](images/image-810.png)
+4:35pm. ![work hard](../images/image-810.png)
 
 Interesting. I've been talking with Thomas over email and I've sent him this video:
 
@@ -10721,17 +10721,17 @@ The painful truth about startups (my story)
 
 Let me also watch this. The thumbnail is pretty funny.
 
-9:05pm. ![FCT](images/image-811.png)
+9:05pm. ![FCT](../images/image-811.png)
 
 I am looking at 6 month EU momentum and this is near the top again. I guess I should have just placed my stops at the low instead of selling out.
 
 Yeah, that is how it usually is in bull markets.
 
-![AVIO](images/image-812.png)
+![AVIO](../images/image-812.png)
 
 I put this screenshot in a while ago and forgot what I meant to say.
 
-![TKA](images/image-813.png)
+![TKA](../images/image-813.png)
 
 Yeah, now this thing is making a cascade. That selloff sure wrecked me didn't it?
 
@@ -10741,11 +10741,11 @@ I really am drawn to the momentum screens, but I had misapplied them.
 
 I don't really want to trade the way Pradeep does which is to sell the stocks on short term pops. I want to go long and try to catch the best of the best trends.
 
-![RENK](images/image-814.png)
+![RENK](../images/image-814.png)
 
 Damn, this one is strong.
 
-![HAG](images/image-815.png)
+![HAG](../images/image-815.png)
 
 My old favorites are doing well. They have nice and wide swings. HAG unfortunately has nasty wicks.
 
@@ -10759,15 +10759,15 @@ You can have a style that is very diversified, but it could also be possible to 
 
 9:40pm. God, TradingView is shitty today.
 
-![SAAB.B](images/image-816.png)
+![SAAB.B](../images/image-816.png)
 
 This one isn't very good.
 
-![RHM](images/image-817.png)
+![RHM](../images/image-817.png)
 
 Surprised to see that RHM is wicking out.
 
-![RHM 1 min](images/image-818.png)
+![RHM 1 min](../images/image-818.png)
 
 Good thing I didn't buy it yesterday because it would have smashed straight through my stop. Had I bought the breakout a few weeks ago, this is where I would've gotten stopped out.
 
@@ -10777,7 +10777,7 @@ These kinds of chart readings are good enough to review the market. But I am mis
 
 That part is what I lacked in 2007 - 2014. I'd really need to get up early and scan the premarket action.
 
-![extended hours](images/image-819.png)
+![extended hours](../images/image-819.png)
 
 And would you look at that? I never clicked on this tab before, but when you need something it automatically comes to you. This tab was literally invisble to me up to now.
 
@@ -10924,11 +10924,11 @@ This 100k that I have is ultimately chump change. I should be able to do much be
 
 Maybe I'm just not interested in making trades? Marsten Parker said as much about himself and I completely agreed with him. I am like that. At some level I consider trading beneath me.
 
-![THEON](images/image-820.png)
+![THEON](../images/image-820.png)
 
 Haha, the 1 day low system would have worked great on this.
 
-![THEON](images/image-821.png)
+![THEON](../images/image-821.png)
 
 The weekly too, but you have to be careful how you trade this stock. Selling when it's down on Friday works, but this stock has nasty wicks. It's not the kind of stock where you can drag the stop along the weekly lows. Daily reversals work damn great. So did the recent breakout after the 2 month long selloff.
 
@@ -10977,7 +10977,7 @@ Who cares about the money. If the average trader could make millions per year pr
 
 I can do better now.
 
-![](images/image-822.png)
+![](../images/image-822.png)
 
 I need to sell my soul to the programming devil. And then punch it in the face.
 
@@ -11033,11 +11033,11 @@ Never knew anything about him till now.
 
 Ok, I am done for the day. Let me go back to doing things unrelated to trading.
 
-9:20pm. ![EGL](images/image-823.png)
+9:20pm. ![EGL](../images/image-823.png)
 
 I am looking at 1y leaders. This one has amazing trends.
 
-![EGL](images/image-824.png)
+![EGL](../images/image-824.png)
 
 Take a look at how the morning of the second day looked for this. I could have bought in the first 10mins, put a stop at the low and prospered.
 
@@ -11049,11 +11049,11 @@ I need to put attention to something. Ignore the last bar and focus on this in t
 
 Imagine I buy at the close with a time based stop. Wouldn't work well, and I'd lose a shitload of money. But intraday...
 
-![EGL](images/image-825.png)
+![EGL](../images/image-825.png)
 
 I could just come at the open with a tight stop. And in this case I would have even bought since it would be below the 1h range of the previous day.
 
-9:30am. ![](images/image-826.png)
+9:30am. ![](../images/image-826.png)
 
 I am just falling into the old pattern again. Forget this.
 
@@ -11061,15 +11061,15 @@ I am just falling into the old pattern again. Forget this.
 
 Some of these european stocks are very well behaved. They aren't constantly spiking below previous day lows or weekly lows.
 
-10pm. ![](images/image-827.png)
+10pm. ![](../images/image-827.png)
 
 I am embarassed to say that I never looked at the TradingView crypto screeners.
 
-![FARTCOIN](images/image-828.png)
+![FARTCOIN](../images/image-828.png)
 
 So FARTCOIN was an actual coin? I thought it was satire when I heard about it elsewhere. Why don't these charts have volume?
 
-![](images/image-829.png)
+![](../images/image-829.png)
 
 This might be a swap for my old company. The name for it is misspelled.
 
@@ -11116,48 +11116,48 @@ A Guide to On-Chain Analysis and How It Works
 
 Not really.
 
-![CAKEUSD](images/image-830.png)
+![CAKEUSD](../images/image-830.png)
 
 If it's possible to short these tokens, then Tim Sykes' strat could work on crypto.
 
 But the kind of rise we see here is barely even B tier. No it's C. The gradual rise make the uptrend strong.
 
-![](images/image-831.png)
+![](../images/image-831.png)
 
 This one is better, I'd put it at B tier.
 
-![](images/image-832.png)
+![](../images/image-832.png)
 
 I do like the rollover in the middle. This would have been a good trend trade for 3h.
 
-![](images/image-833.png)
+![](../images/image-833.png)
 
 This is a perpetual contract and it has quite a bit of volume. So it'd be a short. There is a possibility it might pump further, but I wouldn't hold this.
 
 I really do like Sykes strategy because it's very easy to spot the setups. But I've learned from Lance that the opposite works as well.
 
-![](images/image-834.png)
+![](../images/image-834.png)
 
 Check out this flush out here.
 
-![](images/image-835.png)
+![](../images/image-835.png)
 
 Oh now this...
 
-![](images/image-836.png)
+![](../images/image-836.png)
 
 Check out these flush outs.
 
-![](images/image-837.png)
-![](images/image-838.png)
+![](../images/image-837.png)
+![](../images/image-838.png)
 
 Nice. You could make a strategy shorting these when the upside momentum turns down.
 
-![](images/image-839.png)
+![](../images/image-839.png)
 
 Looks very smooth on the 1m chart.
 
-![](images/image-840.png)
+![](../images/image-840.png)
 
 Holy crap.
 
@@ -11180,7 +11180,7 @@ This is actually a very good analysis video. These hyperbolic gainers I'd defini
 https://youtu.be/KuVLaQfvXYE?t=587
 > It's really not that complicated to make money with falling altcoins when most alts perform like this.
 
-![](images/image-841.png)
+![](../images/image-841.png)
 
 11:45am. Ok, so that opens some more possibilities for me. I didn't know there were perpetual futures on pretty much every piece of crap token in existence.
 
@@ -11226,18 +11226,18 @@ I give the poker bot project a 80-90% chance of success.
 
 10/8/2025
 
-1:30pm. ![](images/image-842.png)
+1:30pm. ![](../images/image-842.png)
 
 The MC of Apocalypse Loner is fucking savage. I didn't expect she'd be killing the civilians she ran across. To be honest, I kind of like it. It's fresh.
 
 6:20pm. https://youtu.be/q-jwEXbNSBs
 10 Ways Markets Have Changed in My 15 Years of Trading
 
-![](images/image-843.png)
+![](../images/image-843.png)
 
 Yeah, if I am going to be catching any of these big moves in crypto, I need to look at volume.
 
-![](images/image-844.png)
+![](../images/image-844.png)
 
 It wasn't an isolated thing. I am sorting the screener by volume and am finding these kinds of rises.
 
@@ -11279,9 +11279,9 @@ How exactly do perpetuals work? I am interested in how exactly is it possible to
 
 That first video is to simplistic.
 
-![perpetuals](images/image-845.png)
-![perpetuals](images/image-846.png)
-![perpetuals](images/image-847.png)
+![perpetuals](../images/image-845.png)
+![perpetuals](../images/image-846.png)
+![perpetuals](../images/image-847.png)
 
 The second video said something that perked my ears. Compared to regular futures, it seems that with perpetuals you cannot lose more than you account balance!
 
@@ -11306,12 +11306,12 @@ https://youtu.be/9KgTFrzMM-Y?t=759
 
 So these instruments aren't available to US investors. Very interesting info. That means combined with the fast that most of volume is in perps the moves will happen in the Asian and EU sessions.
 
-7:35pm. ![QBTS](images/image-848.png)
+7:35pm. ![QBTS](../images/image-848.png)
 
 Entering within the first 10 mins worked fantastic on QBTS.
 
-![QBTS](images/image-849.png)
-![QBTS](images/image-850.png)
+![QBTS](../images/image-849.png)
+![QBTS](../images/image-850.png)
 
 That's enough of that.
 
@@ -11319,20 +11319,20 @@ That's enough of that.
 
 I should follow my heart and go where the best trends are. In stocks. It's always stocks.
 
-![](images/image-851.png)
+![](../images/image-851.png)
 
 Lance makes a really good point about the panics being shorter now. In fact he is going to be the greatest finance Youtuber at this rate.
 
 9:50pm. I want to post the chart of INT just once. I've been keeping an eye on it, but never got around to talking about it.
 
-![INT](images/image-852.png)
-![INT](images/image-853.png)
+![INT](../images/image-852.png)
+![INT](../images/image-853.png)
 
 This decline was so insane. If I'd used the montly system, I'd have gotten obliterated on this stock.
 
 I shouldn't go beyond the weekly one.
 
-![INT](images/image-854.png)
+![INT](../images/image-854.png)
 
 The 13 day VWMA would have been too fast and gotten me out too early more that a few times. I find the moving average systems hard to deal with.
 
@@ -11342,7 +11342,7 @@ The only thing a weekly system I should mess with is whether to sell only on Fri
 
 10/9/2025
 
-9:10am. ![](images/image-855.png)
+9:10am. ![](../images/image-855.png)
 
 I loled at Buffet's Charlie Munger sex change joke.
 
@@ -11491,7 +11491,7 @@ I keep watching World Class Edge videos and they are pushing putting your nose t
 
 I also found this:
 
-![](images/image-856.png)
+![](../images/image-856.png)
 
 https://bookmap.com/
 
@@ -11507,7 +11507,7 @@ https://youtu.be/3m_Stn4hxCQ?t=1316
 
 Pretty interesting.
 
-![](images/image-857.png)
+![](../images/image-857.png)
 
 He is talking about this being algo activity. If you're the first guy to build Bookmap you could probably get an edge from that. It makes more sense to buy it now.
 
@@ -11534,12 +11534,12 @@ Let me go back to watching the Bookmap video.
 
 This is wonderful. It's so much fun learning new things like this. It's why I wouldn't mind a vacation. In contrast to before, everything that I am learning about now is actionable advice.
 
-6:05pm. ![](images/image-858.png)
+6:05pm. ![](../images/image-858.png)
 
 This is actually super informative. It's the kind of info I wanted from the WCE guys instead of constant streams of pep talks.
 
 https://youtu.be/3m_Stn4hxCQ?t=2595
-![](images/image-859.png)
+![](../images/image-859.png)
 
 This is wonderful. It's so different from the chart reading that I used to do. It really does give a lot more info.
 
@@ -11557,7 +11557,7 @@ Learning to use this would be so much easier than reading the tape.
 https://youtu.be/TaY1wePhJ5Q
 Tape Reading Strategies: How to Add to Your Winning Trades
 
-![](images/image-860.png)
+![](../images/image-860.png)
 
 There is so much useless info on this tape. Aggregating that shit out would be the first thing I'd want to do.
 
@@ -11582,11 +11582,11 @@ The Trend Isn’t Always Your Friend
 
 This short is fascinating.
 
-![](images/image-861.png)
+![](../images/image-861.png)
 
 Yeah, I've been missing out on a lot of things.
 
-![](images/image-862.png)
+![](../images/image-862.png)
 
 Let me find another novel to read. Or maybe I'll catch up to Murim's Crazy Bitch.
 
@@ -11616,7 +11616,7 @@ This is a very good talk stitched together from Munger's old talks.
 
 I want to take it easy and save up. A job is also a risk, and I recognize that I went over the line with trading by doing it during the Tao Ceti job. I'll be better off shielding my mind and focusing on saving up.
 
-10:55am. ![](images/image-863.png)
+10:55am. ![](../images/image-863.png)
 
 Agh, let me watch this for a bit and then I will start the programming session. I had no idea the China stock market is having a resurgence.
 
@@ -11645,29 +11645,29 @@ Here is a StockBee vid in the meantime.
 
 8:15pm. If I am going to be trading, I should first work on my scanning game.
 
-![ZENA](images/image-864.png)
+![ZENA](../images/image-864.png)
 
 Here is a random stock that had decent volume today.
 
 It opened with a gap, did very decently and went up.
 
-![ZENA](images/image-865.png)
+![ZENA](../images/image-865.png)
 
 I tried sorting stocks by 6 month momo, but too many overextended stocks float to the top.
 
-![](images/image-866.png)
+![](../images/image-866.png)
 
 Nothing premarket.
 
 It'd be quite hard to catch these.
 
-![MP](images/image-867.png)
+![MP](../images/image-867.png)
 
 Good breakout. I could go for a second day trend day trade on this one.
 
 I guess it's best to just look at 100s of charts very single day. I wish trading view didn't force me to keep opening them one by one.
 
-![WWR](images/image-868.png)
+![WWR](../images/image-868.png)
 
 Imagine I went for a follow through trade on this.
 
@@ -11675,38 +11675,38 @@ Even if the immediate burst on MP for example fails, it might turn into this pat
 
 High volume breakouts that fail often turn into future upswings.
 
-![ASPI](images/image-869.png)
-![ASPI](images/image-870.png)
+![ASPI](../images/image-869.png)
+![ASPI](../images/image-870.png)
 
 This be a decent ORB trade tomorrow.
 
 Based on the weekly pattern of steady rising volume, it feels like this stock is getting ready to blow up. Reminds me of SMCI.
 
-8:35pm. ![CCCX](images/image-871.png)
+8:35pm. ![CCCX](../images/image-871.png)
 
 Damn, check out how it acted in the morning. Yeah, I am sold on the gap and go method. I just need to find the best stock amongst the many of these.
 
-![AREC](images/image-872.png)
+![AREC](../images/image-872.png)
 
 This stock has good follow through.
 
-![AREC](images/image-873.png)
+![AREC](../images/image-873.png)
 
 All of the 10m entries were good.
 
-![BABA](images/image-874.png)
-![BABA](images/image-875.png)
-![BABA](images/image-876.png)
+![BABA](../images/image-874.png)
+![BABA](../images/image-875.png)
+![BABA](../images/image-876.png)
 
 Weekly, daily and 5 mins.
 
 The sooner you enter the better. Ok. And weekly lows are a great place to exit.
 
-![CABA](images/image-877.png)
+![CABA](../images/image-877.png)
 
 Imagine I entered at the close and held. I would have gotten crushed. This is why I don't trust breakouts. But if...
 
-![CABA](images/image-878.png)
+![CABA](../images/image-878.png)
 
 Suppose I just took the strong upday as a signal and planned to wait out the first 10 mins after the open the next day to see if it's worth getting in?
 
@@ -11714,13 +11714,13 @@ I'd never have touched it and I'd have avoided the carnage.
 
 But even so, I need to look ahead. This could be a good long setup a couple of days down the road.
 
-![REAL](images/image-879.png)
-![REAL](images/image-880.png)
-![REAL](images/image-881.png)
+![REAL](../images/image-879.png)
+![REAL](../images/image-880.png)
+![REAL](../images/image-881.png)
 
 The sept 3rd breakout was wonderful.
 
-![NBIS](images/image-882.png)
+![NBIS](../images/image-882.png)
 
 NBIS was a buy on Sept 18th once it decisively held above 92.5 during the morning hours. That means it absorbed the offering.
 
@@ -11748,54 +11748,54 @@ But with the right perspective, the market seems a lot more beatable.
 
 9:05pm. Nevermind that. Let's stop here.
 
-![](images/image-883.png)
+![](../images/image-883.png)
 
 Oh wow, TradingView does have screener view. Damn.
 
 Yeah, I forgot to mention ZENA as a follow through opportunity.
 
-![USAR](images/image-884.png)
+![USAR](../images/image-884.png)
 
 Yeah, look at this morning breakout.
 
 I could've bought it at 20 during the first hour and it would have immediately gone up 15%.
 
-![USAR](images/image-885.png)
+![USAR](../images/image-885.png)
 
 This is how the daily chart looks. You just need to pay attention and buy stocks as they are breaking out, not when they are overextended.
 
 The first 10 mins are often ideal, but the first hour generally has the best opportunities.
 
-![SERV](images/image-886.png)
+![SERV](../images/image-886.png)
 
 They don't always work well. This one would have had me puking into the lows.
 
-![SERV](images/image-887.png)
+![SERV](../images/image-887.png)
 
 But it was very overexended coming into the breakout.
 
-![SERV](images/image-888.png)
+![SERV](../images/image-888.png)
 
 The breakout at the start of the month was much better.
 
-![UAMY](images/image-889.png)
-![UAMY](images/image-890.png)
+![UAMY](../images/image-889.png)
+![UAMY](../images/image-890.png)
 
 The breakout at the start of the month was very nice. Now it's overextended.
 
-![SRFM](images/image-891.png)
+![SRFM](../images/image-891.png)
 
 Very unusual behavior. Like CABA I'd consider it a potential long setup a couple of days down the road, but now I'd sell everything and probably at a loss.
 
 It keep poking below the gaps though. I hate it when stocks do that.
 
-![BBAI](images/image-892.png)
+![BBAI](../images/image-892.png)
 
 Here is a failed breakout in BBAI.
 
 It would have been great if I could have exited a bit earlier at 7.65 instead of at the low.
 
-![SPCE](images/image-893.png)
+![SPCE](../images/image-893.png)
 
 No idea what is going on here. A of buying in the morning than then dies. But that could be a part of the bigger pattern. If the buying continues and it holds above 4.5 during the first hour, then that could be the signal to get in. It's similar to NBIS.
 
@@ -11805,19 +11805,19 @@ The fact that there are 6.5 trading hours in stocks as opposed to 24h like in cr
 
 Also nwm, this stock did hold during the first 1h but then sold off. Make the rule 2 hours for it.
 
-![WULF](images/image-894.png)
+![WULF](../images/image-894.png)
 
 What a nasty stock. But it's important not to give up. This selloff could fade in a couple of days and be a good long trade.
 
-![SES](images/image-895.png)
+![SES](../images/image-895.png)
 
 Upswing, fade, upswing.
 
-![SMR](images/image-896.png)
+![SMR](../images/image-896.png)
 
 SMR is one of my frequent watches.
 
-![SMR](images/image-897.png)
+![SMR](../images/image-897.png)
 
 Here is that high volume breakout which failed. It was possible to cut the loss at a fraction of the time.
 
@@ -11827,25 +11827,25 @@ If I were smart I'd have exited on Wednesday's close.
 
 At a loss, yes. But that would have been a great trade.
 
-![SMR](images/image-898.png)
+![SMR](../images/image-898.png)
 
 The stock is not dying. It's setting up. 43 is roughtly the breakout point. It's not 46, that would be too late.
 
-![NVTS](images/image-899.png)
+![NVTS](../images/image-899.png)
 
 Oh, NVTS is rallying. And it's even attempting to break out.
 
-![NVTS](images/image-900.png)
+![NVTS](../images/image-900.png)
 
 The first 10 mins are so crucial.
 
 The closer I get to the open, the better.
 
-![NVTS](images/image-901.png)
+![NVTS](../images/image-901.png)
 
 It would even have been nice enough to tell me premarket that I should prepare to buy.
 
-![NVTS](images/image-902.png)
+![NVTS](../images/image-902.png)
 
 Yeah, now it's making higher lows on the weekly.
 
@@ -11863,7 +11863,7 @@ Ok, on Monday, I am going to take an hour or two before the open just to check o
 
 If that works, it would actually be worth the monthly subscription fee. I could also make great use of its alerts. I could trade directly from TradingView too.
 
-![OKLO](images/image-903.png)
+![OKLO](../images/image-903.png)
 
 The Oct 2nd breakout really worked out well. I'd need alerts to catch that one.
 
@@ -11881,24 +11881,24 @@ I should just trade in sim mode for a bit.
 
 At any rate, I am going to resume trading even if it's only sim mode. I want to test out early morning breakout entries combined with weekly trend following.
 
-![](images/image-904.png)
+![](../images/image-904.png)
 
 Is everything going down? Amazing that I didn't even notice.
 
 https://youtu.be/7VwWYq-nnzw
 ⚠ CRYPTO COLLAPSE - What Is Next?
 
-10:45am. ![](images/image-905.png)
+10:45am. ![](../images/image-905.png)
 
 Ah, it has a desktop app. Maybe I could make TradingView work for my needs. I saw that it had a split chart.
 
 The fact that the market went down nearly 3% might turn into a deeper correction. They usually starts as small ones and then the panic spreads.
 
-![](images/image-906.png)
+![](../images/image-906.png)
 
 It cannot be a corpo account. Whatever, maybe they just mean the TradingView account in particular? I can open it in my own name.
 
-![](images/image-907.png)
+![](../images/image-907.png)
 
 Ah, TradingView has widgets.
 
@@ -11906,7 +11906,7 @@ During the night I had trouble falling asleep as I was excited.
 
 I am so free right now. I can do anything I want. I have so many options to choose from.
 
-![](images/image-908.png)
+![](../images/image-908.png)
 
 It also has libs.
 
@@ -11998,15 +11998,15 @@ Would you like me to give you a **specific setup recommendation** (hardware + so
 
 11am. Ok, nevermind. Let me watch the crypto video.
 
-![](images/image-909.png)
+![](../images/image-909.png)
 
 Holy crap this is such a crash. Soy crashed 80% before recovering most of its value. He is saying these aren't retail investors doing it.
 
-![market makers making bank](images/image-910.png)
+![market makers making bank](../images/image-910.png)
 
 Wow, the market makers made bank on this.
 
-![](images/image-911.png)
+![](../images/image-911.png)
 
 Lol, there is fear in the markets!
 
@@ -12031,17 +12031,17 @@ Wait, at what time exactly did this flash crash happen?
 
 An hour after the us market closed.
 
-![](images/image-912.png)
+![](../images/image-912.png)
 
 Lance would have made bank on this with his system. Good luck anticipating this though. Just who is going to watch every tick possible in order to take advantage of it?
 
 Yeah, I think trading in a pod would be massively advantageous just to be aware of when shit is happening.
 
-![](images/image-913.png)
+![](../images/image-913.png)
 
 Oh, he has a liquidations chart.
 
-![](images/image-914.png)
+![](../images/image-914.png)
 
 /biz/ is fun today.
 
@@ -12049,17 +12049,17 @@ Oh, he has a liquidations chart.
 
 I should've bought the twin cable for the Glove80.
 
-![](images/image-915.png)
+![](../images/image-915.png)
 
-![](images/image-916.png)
+![](../images/image-916.png)
 
 Damn, can I buy this in Croatia somewhere. When I ordered the Glove80 last time it took a month for it to get here.
 
 11:50am. Damn it, I want to order the cable from the shop, but the card keeps getting declined. Nevermind.
 
-![](images/image-917.png)
+![](../images/image-917.png)
 
-![](images/image-918.png)
+![](../images/image-918.png)
 
 More humor.
 
@@ -12076,7 +12076,7 @@ kek, rope soon
 
 Vicious.
 
-1:10pm. ![](images/image-919.png)
+1:10pm. ![](../images/image-919.png)
 
 Not sure why this spiked, but weird things happen during market dislocations.
 
@@ -12166,17 +12166,17 @@ Ranking the 12 Best Stock Charting Platform in 2024 (TradingView, ThinkorSwim, I
 
 2:50pm. Come to think of it...
 
-![](images/image-920.png)
+![](../images/image-920.png)
 
 Oh, I see. I could create my own screener that filters according to a watchlist. That could meet my requirements. Some of them at least.
 
-3:05pm. ![](images/image-921.png)
+3:05pm. ![](../images/image-921.png)
 
 IBKR has a lot of stuff, but it isn't configurable.
 
-![](images/image-922.png)
-![](images/image-923.png)
-![](images/image-924.png)
+![](../images/image-922.png)
+![](../images/image-923.png)
+![](../images/image-924.png)
 
 3:30pm. Holy crap, this is such a simple goal, but it seems so hard to hit.
 
@@ -12186,7 +12186,7 @@ Doesn't ThinkOrSwim have IBKR integration?
 
 I guess not.
 
-3:35pm. ![](images/image-925.png)
+3:35pm. ![](../images/image-925.png)
 
 Feels like something out of the 90s.
 
@@ -12299,18 +12299,18 @@ Let me take a look at this. I really want to see what platforms pro daytraders u
 
 I really like the US bundle that TradingView is offering. It's great value. The fees all the different exchanges require would really add up so getting them for less than 10$ a month is great.
 
-6:15pm. ![](images/image-927.png)
-![](images/image-926.png)
+6:15pm. ![](../images/image-927.png)
+![](../images/image-926.png)
 
 Out of most of my requirements, TradingView basically meets only a few of them.
 
 TC2000 had those custom scripts Pradeep was writing, I thought that TradingView would allow the same amount of customizability.
 
-![](images/image-928.png)
+![](../images/image-928.png)
 
 What a ripoff. It requires an eSignal data feed to even use.
 
-![](images/image-929.png)
+![](../images/image-929.png)
 
 Y High is exactly what I want, and it requires a subscription to eSignal.
 
@@ -12319,13 +12319,13 @@ Tradingview vs TC2000: Which Trading Platform is Better? (2025)
 
 7:20pm. Uah...
 
-![](images/image-930.png)
+![](../images/image-930.png)
 
 These tool vendors are really out to destroy me.
 
 If things are like this I'd have no choice but to compromise.
 
-8pm. ![](images/image-931.png)
+8pm. ![](../images/image-931.png)
 
 Ok, let's go with this setup. Excluding the stocks I reviewed yesterday, it has everything that I need. Relative volume in time will be especially useful. 
 
@@ -12361,7 +12361,7 @@ Tomorrow, I'll clean up my watchlist and start filling it out with stocks that h
 
 I'll consider getting the essential subscription for TradingView. I can just get the free tier. No biggie.
 
-8:30pm. ![](images/image-932.png)
+8:30pm. ![](../images/image-932.png)
 
 Oh what the hell, the US data is actually free by default. But I'll buy the bundle so I have the full picture of volume.
 
@@ -12398,7 +12398,7 @@ It selling of 2.7% in a day isn't normal behavior.
 9:55am. I am up.
 
 https://boards.4chan.org/biz/thread/61084723/crypto-breakdowns-thread#p61091572
-![risk management experts](images/image-933.png)
+![risk management experts](../images/image-933.png)
 
 Jesus Christ. Some of them got absolutely wiped.
 
@@ -12406,7 +12406,7 @@ There was that period where I became accidentally 130% long in euro defense stoc
 
 To be fair, being even 110% long during this flash crash without stops wouldn've been fatal.
 
-![](images/image-934.png)
+![](../images/image-934.png)
 
 Clown world.
 
@@ -12414,11 +12414,11 @@ https://www.forbes.com/sites/kylemullins/2025/10/06/how-19-year-old-barron-trump
 
 Seems legit.
 
-![](images/image-935.png)
+![](../images/image-935.png)
 
 I admit, I was wrong. I thought the exchanges themselves were risky, but they managed to liquidate everybody just fine and even profit from this kind of event.
 
-10:10am. ![](images/image-936.png)
+10:10am. ![](../images/image-936.png)
 
 Ok, enough of this.
 
@@ -12458,12 +12458,12 @@ https://youtu.be/PmWWH7xAQq0?t=757
 
 Yeah, I've noticed that stocks which poke below gap lows tend to have lower momentum.
 
-![CRWV](images/image-937.png)
+![CRWV](../images/image-937.png)
 
 So it's best to just avoid stocks like CRWV and UUUU.
 
-![UUUU](images/image-938.png)
-![UUUU](images/image-939.png)
+![UUUU](../images/image-938.png)
+![UUUU](../images/image-939.png)
 
 I considering switching to high low charts since it makes it easier to see the vertical grid lines.
 
@@ -12479,13 +12479,13 @@ It might not be a bad idea to buy 1h after the open for some of these, or even a
 
 The opening pullback setup would be something like this....
 
-![UUUU](images/image-940.png)
+![UUUU](../images/image-940.png)
 
 The stocks opens down on high volume and trades near support in the first 10m, and then for the next 20-50m trades quietly without making new lows. Get in with a stop at the low of the day.
 
 11:15am. For entries. UUUU is simply the kind of stock in which you need to fade the morning weakness. Get in 1t 4:30 - 5pm after a large selloff when the volatility dies down, put a stop at the low.
 
-![UUUU](images/image-941.png)
+![UUUU](../images/image-941.png)
 
 It might seem hard intraday, but check out its weekly pattern.
 
@@ -12498,7 +12498,7 @@ I need to find big movers and apply such a strategy on them.
 https://youtu.be/PSniMLuQJnY
 End of day breakout setups analysis
 
-![](images/image-942.png)
+![](../images/image-942.png)
 
 11:40am. He says he really like setups like these.
 
@@ -12547,7 +12547,7 @@ https://youtu.be/VK1acZv_p68
 
 Before that, let me show the gap and go in NBIS.
 
-![](images/image-943.png)
+![](../images/image-943.png)
 
 Before that, just what is this nonsense about only allowing 10k bars even on the premium version?
 
@@ -12555,7 +12555,7 @@ I want to see the intraday price action even further back.
 
 9am. Damn the TradingView subscription will cost me 200 euro/year. And I have no idea whether it will even allow me to look back to select dates. But whatever, let me try the free trial.
 
-9:10am. ![](images/image-944.png)
+9:10am. ![](../images/image-944.png)
 
 Oh my god, I really didn't want to pay the expensive anual plan, and they offered me a 70% discount as soon as I started the montly trial.
 
@@ -12563,11 +12563,11 @@ I bet that wouldn't have happened had I tried it off the bat.
 
 Let me just see how far I can go back intraday on the 1 min chart.
 
-![](images/image-945.png)
+![](../images/image-945.png)
 
 This is what I wanted to show. I was really surprised yesterday that one of their trades was reclaiming VWAP and that was exactly the pattern here. I also forgot that the low on this day was lower than on subsequent days.
 
-![](images/image-946.png)
+![](../images/image-946.png)
 
 So this is the limit. Can I just pick a date range that goes back further than this?
 
@@ -12575,39 +12575,39 @@ Nope. What a ripoff.
 
 At any rate, the trial lasts until Nov 13th, and that is also when the offer will expire. I should get it, it's great value.
 
-![](images/image-947.png)
+![](../images/image-947.png)
 
 Oh, wait, it is possible to go back using replay. How does that work?
 
-![RHM](images/image-948.png)
+![RHM](../images/image-948.png)
 
 Let me check out the price action in mid February for RHM.
 
-![RHM](images/image-949.png)
+![RHM](../images/image-949.png)
 
 It's actually really easy to use! I can just select a bar on the daily and then switch to 5 min like now.
 
 And now I can see it!
 
-![RHM](images/image-950.png)
+![RHM](../images/image-950.png)
 
 It doesn't have the 1 min data, but it does 2 min and here it is.
 
 Amazing trade on the second day. First 5-10 mins would never have given me any trouble at all. I could have went long and strong without any issue. 25% of my account risked against the low and holding overnight would have made me a shitload of cash.
 
-![R3NK](images/image-951.png)
+![R3NK](../images/image-951.png)
 
 Let me also study the Feb price action here.
 
-![R3NK](images/image-952.png)
+![R3NK](../images/image-952.png)
 
 It moved very quickly off the open, so buying this one on the 5 min mark would have been reasonable.
 
-![R3NK](images/image-953.png)
+![R3NK](../images/image-953.png)
 
 Here is the other breakout. This one didn't perform well during the day.
 
-![R3NK](images/image-954.png)
+![R3NK](../images/image-954.png)
 
 But it still marked a low.
 
@@ -12626,15 +12626,15 @@ I am going to keep the pattern RHM showed me in mind. It seems when a big shakeo
 
 Before I start the video, let me finally showcase a trade that would have failed big time.
 
-![PHH](images/image-955.png)
+![PHH](../images/image-955.png)
 
 Back when I showcased this, I had no idea that Chinese liquidations were a thing. I didn't expect it would completely break my system because it would get sold down 80% in minutes.
 
-![PHH](images/image-956.png)
+![PHH](../images/image-956.png)
 
 The rise was obviously manipulated, so I am going to make it a trading rule to sell into strength if a stock runs up 10 days in a row.
 
-![PHH](images/image-957.png)
+![PHH](../images/image-957.png)
 
 The volume pattern is very unusual on this stock. Usually when the volume goes up, the volatility should increase, but on this stock it actually decreased!
 
@@ -12990,33 +12990,33 @@ Would you like me to modify it so it:
 
 Instead what I will do remember the pattern of strong stocks cracking and just buy the etf.
 
-![DFEN](images/image-958.png)
+![DFEN](../images/image-958.png)
 
 This is super ironic. My montly system would have worked on this ETF even if it didn't on the stocks I was trading.
 
 Nevermind that.
 
-![DFEN](images/image-959.png)
+![DFEN](../images/image-959.png)
 
 Here is how the european stocks acted during the crash.
 
-![RHM](images/image-965.png)
+![RHM](../images/image-965.png)
 
 It's be hard to prepare for this without the gap scanner.
 
-![](images/image-961.png)
+![](../images/image-961.png)
 
 Son of a bitch. It wouldn't allow me to export the watchlists without paying double a month.
 
-![](images/image-962.png)
+![](../images/image-962.png)
 
 And the savings aren't 70% for essential, but go up.
 
-![](images/image-963.png)
+![](../images/image-963.png)
 
 Ah no, I was wrong, the export button is here in Advanced View.
 
-![](images/image-964.png)
+![](../images/image-964.png)
 
 It's the pie chart button.
 
@@ -13045,11 +13045,11 @@ Oh, it never occur to me to calculate the standard deviation for volume. That co
 
 11:05am. I didn't realize that just 50% higher volume could be very significant for a stock like Nvidia.
 
-![NVDA](images/image-960.png)
+![NVDA](../images/image-960.png)
 
 What was the follow through like on the second day play in January.
 
-![NVDA](images/image-966.png)
+![NVDA](../images/image-966.png)
 
 Some selling off the open, but otherwise it would have been a great buy past the first 10 mins. I could have bough, put a stop at the low and it would never have been an issue.
 
@@ -13063,7 +13063,7 @@ Hmmm, ideally you'd buy the Nvidia on the initial breakout, but it'd be easy to 
 
 Plus, I don't really need to trade Nvidia.
 
-![NVDA](images/image-967.png)
+![NVDA](../images/image-967.png)
 
 I didn't realize it will show the highs and lows when you zoom in. Super cool.
 
@@ -13077,11 +13077,11 @@ A Super Easy Second Day Trade
 https://youtu.be/O7vFTo_2-Js
 Trade Execution Rules (the secrets of order types)
 
-11:45am. ![CRWV](images/image-968.png)
+11:45am. ![CRWV](../images/image-968.png)
 
 I don't like Coreweave. It's too whippy. I shouldn't be trading stocks that constantly challenge the gap lows. Gaps should be strong buy signals and shouldn't be constantly heavily sold into.
 
-![THEON](images/image-969.png)
+![THEON](../images/image-969.png)
 
 Oh by the way, I saw both Pradeep and Qullamaggie trade this breakout pattern where the stock sells off for a month and then breaks out. At this point I've seen it working quite a few times in momentum leaders. It's a huge challenge to my mental model of 2007 - 2014. Back then I was a fool constantly chasing highs after runups. I had a very flawed model of the market.
 
@@ -13158,19 +13158,19 @@ Would you like me to list **which hotkey actions are currently available in Trad
 
 ///
 
-![](images/image-970.png)
+![](../images/image-970.png)
 
 Oh, wow, you can put in risk based orders, as well as % of balance in TradingView.
 
-12:20pm. ![](images/image-971.png)
+12:20pm. ![](../images/image-971.png)
 
 Yeah, I can put in a stop first and then decide how much of my balance to risk based on that. Would be a better system than risking a flat 10% per each position like I've been doing up to now.
 
-![](images/image-972.png)
+![](../images/image-972.png)
 
 I see. Here are the shortcuts.
 
-12:40pm. ![](images/image-973.png)
+12:40pm. ![](../images/image-973.png)
 
 It's actually possible to bring up the menu and then drag the limit orders and the stop losses around. It's super impressive. It's very easy to place stops on the chart with TradingView.
 
@@ -13184,21 +13184,21 @@ I'll think about it later, time for breakfast.
 
 2pm. Ok, let me take a look at the gaps.
 
-![gaps](images/image-974.png)
+![gaps](../images/image-974.png)
 
-![GWH](images/image-975.png)
+![GWH](../images/image-975.png)
 
 Not interested in this.
 
-![](images/image-976.png)
+![](../images/image-976.png)
 
 What I am looking for is a stock that is neutral or oversold on the charts in the past month.
 
-![BE](images/image-977.png)
+![BE](../images/image-977.png)
 
 BE is sort of okay on the 1 month chart, but on the 3 month one it's overextended.
 
-![MP](images/image-978.png)
+![MP](../images/image-978.png)
 
 MP is the only one that I'd play in the first 10 mins. The plan would be to see how it acts during that time and buy it if there is an opening drive.
 
@@ -13206,16 +13206,16 @@ MP is the only one that I'd play in the first 10 mins. The plan would be to see 
 
 In fact, let me just take off the momentum screener. Gap and volume is all that I need.
 
-![HL](images/image-979.png)
+![HL](../images/image-979.png)
 
 Take a look at this one. Breaks out on earnings...
 
-![HL](images/image-980.png)
-![HL](images/image-981.png)
+![HL](../images/image-980.png)
+![HL](../images/image-981.png)
 
 Makes new weekly lows 10 weeks in a row.
 
-2:25pm. ![RZLV](images/image-982.png)
+2:25pm. ![RZLV](../images/image-982.png)
 
 Oh, like this one. It's very oversold and near support. If volume can come 10m into the open, I could see this being a swing trade to the upside.
 
@@ -13249,7 +13249,7 @@ The 4 Best Gap Up Setups You Need to Know
 
 I want to start with the last one. I watched it yesterday and I think I saw the patterns covered in it a large number of times so it struck a chord.
 
-![](images/image-983.png)
+![](../images/image-983.png)
 > Use a stop from 1/3rd of the VWAP to low of day.
 
 I feel becoming an expert at gaps.
@@ -13269,11 +13269,11 @@ Set an alarm for the market open.
 
 Instead of switching time periods, I should be switching layouts.
 
-![](images/image-984.png)
+![](../images/image-984.png)
 
 This is how it looks like right now. If I was trading for real, I'd just follow this process. I'd check out the gaps, see if the ones I want to buy are acting right and then in addition to that also switch to looking at the relative volume screener 5 min after the market open.
 
-![](images/image-985.png)
+![](../images/image-985.png)
 
 I should put the short float and inst ownership on the screener.
 
@@ -13286,25 +13286,25 @@ Uah, I am pretty tired right now. It's like I put in a full workday already.
 
 Their discussion is very awesome though.
 
-![](images/image-986.png)
+![](../images/image-986.png)
 
 Oh, it's open. I've never actually watched the market open up to now. Gary Smith of 'How I trade for a living' said that this was one of his bad habits that he needed to break.
 
 Of course I read his book and didn't take any of his advice in the old decade.
 
-![](images/image-987.png)
+![](../images/image-987.png)
 
 MP has great volume. RZLV has shitty volume.
 
 I could buy a bit of MP here and then keep buying more every 2 mins.
 
-![](images/image-988.png)
+![](../images/image-988.png)
 
 Oh wow, this volume is beyond awesome. Maybe it's worth a buy despite it being a bad market?
 
 3:35pm. Oh fuck. I accidentally fired 3 orders in paper trading mode because a single one wasn't triggering and now I have 30% of my account in the stock instead of 10%!
 
-![](images/image-989.png)
+![](../images/image-989.png)
 
 Ah whatever, if it was a real position I'd exit, but I might as well just hold here until it hits my stop. 
 
@@ -13312,7 +13312,7 @@ This is a great lesson. I must make sure not to make this mistake with real mone
 
 If the order doesn't trigger right away, I must make sure to wait a few mins. If the order is sent, don't send another if it doesn't fill within a minute.
 
-![](images/image-990.png)
+![](../images/image-990.png)
 
 Also, I've realized that it isn't necessary to set the stops right away. I can just drag it after the position is established.
 
@@ -13322,21 +13322,21 @@ Ok, now I have to look at the relative volume screener. I should've done it afte
 
 The relative volume display which I put at the bottom is fantastic.
 
-![ASPI](images/image-991.png)
+![ASPI](../images/image-991.png)
 
 This one could be another buy.
 
-![AGX](images/image-992.png)
+![AGX](../images/image-992.png)
 
-![](images/image-993.png)
+![](../images/image-993.png)
 
 Agh, who cares about analyst upgrades.
 
-![MP](images/image-994.png)
+![MP](../images/image-994.png)
 
 At least for the time being it looks like a good trade.
 
-4:05pm. ![MP](images/image-995.png)
+4:05pm. ![MP](../images/image-995.png)
 
 Just look at this. I bought a stock (in paper trading) and it actually went up.
 
@@ -13363,8 +13363,8 @@ At any given time there are really a lot of stocks that are in play aren't they?
 https://youtu.be/YXcqxryI3gE
 Why Do Stocks Completely Reverse On Day 2
 
-5:25pm. ![MP](images/image-996.png)
-![ASPI](images/image-997.png)
+5:25pm. ![MP](../images/image-996.png)
+![ASPI](../images/image-997.png)
 
 Great trades. Entering in the first 5-10 mins really does work!
 
@@ -13404,8 +13404,8 @@ Lessons from a $20 billion flash crash in crypto (how to survive the next one) (
 
 7:20pm. I've been reviewing charts for a bit and literally nothing looks good.
 
-![QSI](images/image-998.png)
-![QSI](images/image-999.png)
+![QSI](../images/image-998.png)
+![QSI](../images/image-999.png)
 
 This perhaps? The chance to buy it has passed though. The ideal buypoint was roughly 1.5 hours after the open. And the setup itself isn't that great. The stock lacks liquidity.
 
@@ -13426,19 +13426,19 @@ I think I am fine tradingwise for now. I should refocus on programming and forge
 
 There is no need to obsess so much about it. If I can master that I will have made it.
 
-9:50pm. ![ASPI](images/image-1000.png)
-![MP](images/image-1001.png)
+9:50pm. ![ASPI](../images/image-1000.png)
+![MP](../images/image-1001.png)
 
 I want to enshrine these two stocks. Just for one day I did the right thing.
 
 I've been thinking about the OPEN breakouts. I'll add them to my arsenal.
 
-![OPEN](images/image-1002.png)
-![OPEN](images/image-1003.png)
+![OPEN](../images/image-1002.png)
+![OPEN](../images/image-1003.png)
 
 Or this one here. I can pay attention to hot momo stocks.
 
-![](images/image-1004.png)
+![](../images/image-1004.png)
 
 Enough momo reviews. Thinking of the market as an RNG really makes it easier for me to deal with the FOMO.
 
@@ -13459,7 +13459,7 @@ The United States Is Buying Stocks (China’s Playbook 2.0)
 
 Let me watch some of these. I set a alarm to 3pm so that I can check out the gaps, and I'll be looking at relative volume leaders during the first half hour of the market from here on out. From what I've seen yesterday I can restrict my attention to stocks having 3x relative volume and those are pretty rare. There are less 60 stocks a day I have to look at. That makes things easy.
 
-![](images/image-1005.png)
+![](../images/image-1005.png)
 
 Crazy times.
 
@@ -13473,7 +13473,7 @@ Skip.
 https://youtu.be/BJFmRLInXno
 The Man Who Broke WallStreetBets: SirJackALot's 35k to 8M Journey
 
-![](images/image-1006.png)
+![](../images/image-1006.png)
 
 Note: This isn't how one should trade. Gamblers go broke and die young.
 
@@ -13491,11 +13491,11 @@ Let me see how this is done. I barely won the Last Knight battle in Limbus.
 
 But I feel like watching the rest of Lance's course and taking it easy. I'll also see whether I can find more on gap trades on SMB's channel, but really it goes up in the 10m or it goes down. I don't need anything more now that I've found out about the fashionably late trade (VWAP reclaim).
 
-9:20am. ![](images/image-1007.png)
+9:20am. ![](../images/image-1007.png)
 
 Won't lie, this was pretty funny.
 
-11:05am. ![](images/image-1008.png)
+11:05am. ![](../images/image-1008.png)
 > If it were not run up prior to the news release it would have easily run up another 10%.
 
 Lance wisdom. Let me just chill for a bit and watch the entirety of the module. Not sure if I'll be interested in the deep dives though.
@@ -13545,23 +13545,23 @@ As good as programming is, I cannot make exponential gains as a software enginee
 
 In order to life, I need some level of skill in trading. That is the reality of this world.
 
-12:05pm. ![](images/image-1009.png)
+12:05pm. ![](../images/image-1009.png)
 
 https://news.ycombinator.com/item?id=45570973
 
 I love reading the comments on HN.
 
-![](images/image-1010.png)
+![](../images/image-1010.png)
 
 Milton Friedman sounds very convincing when he says this.
 
-1:05pm. ![](images/image-1011.png)
+1:05pm. ![](../images/image-1011.png)
 
 Holy shit. Back in December 2023, ZJYL squeezed from 20 to 500 in the span of minutes. For me that'd be instant death.
 
 You can't really size down in this. Especially newbie retail traders, they'd end up in debt many times their account value.
 
-![](images/image-1012.png)
+![](../images/image-1012.png)
 
 Here is what Lance has to say:
 
@@ -13573,25 +13573,25 @@ Here is what Lance has to say:
 > I've never seen a gap like that.
 > Super brutal.
 
-1:30pm. ![NCL](images/image-1013.png)
+1:30pm. ![NCL](../images/image-1013.png)
 
 Another PHH. He calls them Chinese Liquidation. I have no idea why the Chinese traders just slam the bids all the way into the ground. But at least this is better than a stock going from 20 to 500.
 
-![](images/image-1014.png)
+![](../images/image-1014.png)
 
 Oh, I see. This one went down in an orderly manner.
 
-![](images/image-1015.png)
+![](../images/image-1015.png)
 
 Damn it. It seems the further I go back, the harder it is to get historical data on TradingView.
 
-![AI](images/image-1016.png)
+![AI](../images/image-1016.png)
 
 Ok, at least I have 10 min bars. Good enough.
 
 And I can see here that the opening drive breakout worked really well.
 
-![AI](images/image-1017.png)
+![AI](../images/image-1017.png)
 
 Breakout and then breakdown.
 
@@ -13599,13 +13599,13 @@ Yeah, I think price stops are a necessary evil here.
 
 Better to get stopped out of the trade for a minor profit or loss than to get destroyed.
 
-![AI](images/image-1018.png)
+![AI](../images/image-1018.png)
 
 This stock had a ton of action. 5x relative volume off the open is such a strong buy signal.
 
 I didn't need to complicate things at all. Buy high volume off the open, but a stop at the low, rinse and repeat. The stock also had a 5% gap to tell me in advance that I should pay attention to it.
 
-![AI](images/image-1019.png)
+![AI](../images/image-1019.png)
 
 Look at how it acted.
 
@@ -13619,61 +13619,61 @@ Also sell on 10 updays instead of getting caught in Chinese liquidations.
 
 2:55pm. Done with exercises. Let me do my premarket prep.
 
-![NVTS](images/image-1020.png)
+![NVTS](../images/image-1020.png)
 
 I think I've been too nitty when it comes to some of these patterns. NVTS was a buy.
 
-![NVTS](images/image-1021.png)
+![NVTS](../images/image-1021.png)
 
 It's gapping up huge premarket.
 
-![](images/image-1022.png)
+![](../images/image-1022.png)
 
 A lot of these stocks which are gapping up are the overextended momentum leaders.
 
 This could be the top.
 
-![ACI](images/image-1023.png)
+![ACI](../images/image-1023.png)
 
 Huge volume in this.
 
-![ACI](images/image-1024.png)
+![ACI](../images/image-1024.png)
 
 This is the pattern, so it might be my main long for the day.
 
 The rest of the overextended momo leaders I'd look into as shorts.
 
-![POWI](images/image-1025.png)
+![POWI](../images/image-1025.png)
 
 Nvidia deal. I'd look this as another momentum drive second day play.
 
-![POWI](images/image-1026.png)
+![POWI](../images/image-1026.png)
 
 I'd consider this as a second day play as well.
 
-![LITM](images/image-1027.png)
+![LITM](../images/image-1027.png)
 
 Also a potential second day play.
 
-![NVTS](images/image-1028.png)
+![NVTS](../images/image-1028.png)
 
 As for this one I don't like it as much as a second day play. Even in a volatile stock, it's best when the gap is only about 5%. 20-30% is too large of a gap.
 
-![NUKK](images/image-1029.png)
-![HII](images/image-1030.png)
-![VOR](images/image-1031.png)
+![NUKK](../images/image-1029.png)
+![HII](../images/image-1030.png)
+![VOR](../images/image-1031.png)
 
 Not that good. These are just very illiquid.
 
-![MTRN](images/image-1032.png)
+![MTRN](../images/image-1032.png)
 
 Illiquid, not that good.
 
-![BBAI](images/image-1033.png)
+![BBAI](../images/image-1033.png)
 
 This is quite good.
 
-3:20pm. ![](images/image-1034.png)
+3:20pm. ![](../images/image-1034.png)
 
 These 4 at the top would be my main targets. NVTS I'd generally give a pass. It was a buy yesterday at 1h.
 
@@ -13697,115 +13697,115 @@ First check out the stocks on my watchlist and then start looking at the screene
 
 3:30pm. It's open!
 
-3:32pm. ![PII](images/image-1035.png)
+3:32pm. ![PII](../images/image-1035.png)
 
 Already strong volume off the open.
 
-3:33pm. ![NVTS](images/image-1036.png)
+3:33pm. ![NVTS](../images/image-1036.png)
 
 NVTS is weak off the open. Might be a gap give and go type of trade. Let me turn on the VWAP.
 
-![](images/image-1037.png)
+![](../images/image-1037.png)
 
 Damn, don't tell me the relative volume is linked to whether the extended hours are turned on?
 
-![](images/image-1038.png)
+![](../images/image-1038.png)
 
 Yeah, it is. Damn.
 
-3:45pm. ![BBAI](images/image-1039.png)
+3:45pm. ![BBAI](../images/image-1039.png)
 
 Not a good trade. It would have been one yesterday, but buying here is gambling.
 
-![ACI](images/image-1040.png)
+![ACI](../images/image-1040.png)
 
 ACI I do like.
 
-![POWI](images/image-1041.png)
+![POWI](../images/image-1041.png)
 
 I am not interested in this after all.
 
-![NUKK](images/image-1042.png)
+![NUKK](../images/image-1042.png)
 
 Would have been a good trade on the initial breakout. Let's move on.
 
-![HII](images/image-1043.png)
+![HII](../images/image-1043.png)
 
 The opening drive is in the wrong direction.
 
-![PII](images/image-1044.png)
+![PII](../images/image-1044.png)
 
-4pm. ![MNTS](images/image-1045.png)
+4pm. ![MNTS](../images/image-1045.png)
 
 Oh, this is nice.
 
-![MNTS](images/image-1046.png)
+![MNTS](../images/image-1046.png)
 
 Got 2.5%. This is actually very good practice since at this point it seems I am just plowing money at random.
 
-![MNTS](images/image-1047.png)
+![MNTS](../images/image-1047.png)
 
 I really like the breakdown followed by a breakout pattern. I only put a 2.5% bet into this stock as it's so volatile.
 
-![DPZ](images/image-1048.png)
+![DPZ](../images/image-1048.png)
 
 Not really interested in this right now.
 
-![AREC](images/image-1049.png)
+![AREC](../images/image-1049.png)
 
 Def not a buy today.
 
-![QQQ](images/image-1050.png)
+![QQQ](../images/image-1050.png)
 
 Ah the market is down today. That explain why some of the stocks are selling off the open.
 
-![PZZA](images/image-1051.png)
+![PZZA](../images/image-1051.png)
 
 No, I can't just buy every trash stock in hope of it rallying.
 
-![KOPN](images/image-1052.png)
+![KOPN](../images/image-1052.png)
 
 This one is a buy.
 
-4:15pm. ![](images/image-1053.png)
+4:15pm. ![](../images/image-1053.png)
 
 Here are all the open trades.
 
-4:20pm. ![INDI](images/image-1054.png)
+4:20pm. ![INDI](../images/image-1054.png)
 
 Let me also get this one.
 
-![](images/image-1055.png)
+![](../images/image-1055.png)
 
 It's a 6x relative volume breakout through long term resistance.
 
-4:25pm. ![GIG](images/image-1056.png)
+4:25pm. ![GIG](../images/image-1056.png)
 
 GIG is too new and it's a fresh IPO.
 
-![](images/image-1057.png)
+![](../images/image-1057.png)
 
 Don't want to touch it.
 
-![](images/image-1058.png)
+![](../images/image-1058.png)
 
 Wow, let me take a look at the chart of CRML intraday.
 
-![CRML](images/image-1059.png)
+![CRML](../images/image-1059.png)
 
 Nasty gap!
 
 But this initial rise was 50%, so I guess it shouldn't be too surprising.
 
-![CRLM](images/image-1060.png)
+![CRLM](../images/image-1060.png)
 
 The second breakout which is more controlled worked out much better.
 
-![HR](images/image-1061.png)
+![HR](../images/image-1061.png)
 
 Nah, HR is more of a stock for Pradeep.
 
-4:45pm. ![](images/image-1062.png)
+4:45pm. ![](../images/image-1062.png)
 
 Done for the day here.
 
@@ -13819,13 +13819,13 @@ The main problem is that if this happens tomorrow, I am going to run out of buyi
 
 4:50pm. There are too many options to choose from.
 
-4:55pm. ![BBAI](images/image-1063.png)
+4:55pm. ![BBAI](../images/image-1063.png)
 
 I've decided to move my BBAI stop to break even.
 
 It will very likely get hit. The pattern is loose. I got in at today which is the wrong time. It should have been yesterday.
 
-![PII](images/image-1064.png)
+![PII](../images/image-1064.png)
 
 I also pulled up the PII stop below the structural low rather than the low of the opening range.
 
@@ -13837,7 +13837,7 @@ Let me go back to watching Lance's course.
 
 I put on a variety of trades. Let me write down the reasons first.
 
-![ACI](images/image-1065.png)
+![ACI](../images/image-1065.png)
 
 Positive earnings report on 20x relative volume in a downtrend might lead to follow through due to surprise.
 
@@ -13845,34 +13845,34 @@ I wouldn't have bought this had it been a 3x or even 5x volume.
 
 Not sure how long to hold this, so I might use the 3-5 day rule.
 
-![BBAI](images/image-1066.png)
+![BBAI](../images/image-1066.png)
 
 Second day play, but it's bad because I should have bought it yesterday instead. Momentum breakout. AI stock.
 
 Trend following rule.
 
-![PII](images/image-1067.png)
+![PII](../images/image-1067.png)
 
 Positive news catalyst on massive volume. Earnings guidance.
 
-![](images/image-1068.png)
+![](../images/image-1068.png)
 
 Lol'd at the price target. The market is far above it.
 
-![KOPN](images/image-1069.png)
-![KOPN](images/image-1070.png)
+![KOPN](../images/image-1069.png)
+![KOPN](../images/image-1070.png)
 
 High rel volume breakout. 3.2m order. 600m company.
 
-![MNTS](images/image-1071.png)
+![MNTS](../images/image-1071.png)
 
 High volume breakout on news catalyst. 15m order. 20m company.
 
-![MNTS](images/image-1072.png)
+![MNTS](../images/image-1072.png)
 
 Let me lift the stop.
 
-![INDI](images/image-1073.png)
+![INDI](../images/image-1073.png)
 
 Breakout above long term resistance on massive volume. Autotech company. Driver assistance.
 
@@ -13892,14 +13892,14 @@ For example the MNTS is clearly better than KOPN.
 
 Why buy KOPN in that case?
 
-![](images/image-1074.png)
+![](../images/image-1074.png)
 
 I am going to pull up the stop. No reason to let it go back to the low.
 
 Back to KOPN, you know what this pattern reminds me off....
 
-![KOPN](images/image-1075.png)
-![R3NK](images/image-1076.png)
+![KOPN](../images/image-1075.png)
+![R3NK](../images/image-1076.png)
 
 A large breakout, a pullback, and then another breakout.
 
@@ -13923,36 +13923,36 @@ That could act as a filter.
 
 I cannot chew with too much in my mouth. That is the thing.
 
-![MNTS](images/image-1077.png)
+![MNTS](../images/image-1077.png)
 
 Got stopped out on the spike.
 
-5:50pm. ![MNTS](images/image-1078.png)
+5:50pm. ![MNTS](../images/image-1078.png)
 
 What a rip.
 
-6pm. ![MP](images/image-1079.png)
-![ASPI](images/image-1080.png)
+6pm. ![MP](../images/image-1079.png)
+![ASPI](../images/image-1080.png)
 
 I've moved the stops up to the lows of the current day.
 
 6pm. Hmph, at this rate I'll end up using the daily low system.
 
-![MNTS](images/image-1081.png)
+![MNTS](../images/image-1081.png)
 
 Oh, holy shit. I didn't realize the long term chart would look like this.
 
 Ok, new rule. Forget momentum trading these scam companies. I need to pare down the number of trades I am taking anyway, and filtering out MNTS seems like a good thing.
 
-![MNTS](images/image-1082.png)
+![MNTS](../images/image-1082.png)
 
 Here is the log chart.
 
-![ACI](images/image-1083.png)
+![ACI](../images/image-1083.png)
 
 Let me pull the stop even closer.
 
-![ACI](images/image-1084.png)
+![ACI](../images/image-1084.png)
 
 No, I shouldn't have taken this trade. Look how rangebound the stock is.
 
@@ -13960,11 +13960,11 @@ Just what am I thinking is going to happen in it?
 
 It has zero momentum and one news event isn't enough to change things.
 
-![ASPI](images/image-1085.png)
+![ASPI](../images/image-1085.png)
 
 Since I have a fetish for volume, why don't I only focus on stocks with strong momentum?
 
-![PII](images/image-1086.png)
+![PII](../images/image-1086.png)
 
 I don't like this one either from a momentum perspective.
 
@@ -13976,13 +13976,13 @@ I sold ACI because even though it had a catalyst, the market environment isn't c
 
 Maybe it will rally up, maybe it will go down, but let's see...
 
-![ACI](images/image-1087.png)
+![ACI](../images/image-1087.png)
 
 This is the long term chart of it. Just what is my realistic best case? That it takes 2 months to hit 22?
 
 And PII.
 
-![PII](images/image-1088.png)
+![PII](../images/image-1088.png)
 
 It also keeps getting sold off when high volume comes into them. Even though it's in an uptrend, it's not in a group that is hot right now.
 
@@ -13994,7 +13994,7 @@ I need to trade stocks with high momentum, not these things.
 
 NVTS for example....
 
-![NVTS](images/image-1089.png)
+![NVTS](../images/image-1089.png)
 
 I noted the breakout back when I was working at Tao Ceti. It had a huge deal with Nvidia. It's a stock in play.
 
@@ -14013,13 +14013,13 @@ https://youtu.be/FnlPQFwAe0A
 
 Let me watch this.
 
-![](images/image-1090.png)
+![](../images/image-1090.png)
 
 This guy is quite impressive. He does good analysis.
 
 7:20pm. As a principle I should only be buying high volume breakouts in stocks that I'd otherwise want to hold using my longer term momentum system. If it's not in a part of the theme, then it shouldn't be in my portfolio either way. Volume coming in is just fuel, and the entry points and tight stops are just an enhancement of my risk control protocols.
 
-7:30pm. ![](images/image-1091.png)
+7:30pm. ![](../images/image-1091.png)
 
 I can't believe he is trying to sell me on a moving average system, and he says he doesn't like some of those indicators he never explained because they can go down.
 
@@ -14096,40 +14096,40 @@ A stock opening near the high of the previous day is much safer. I need to focus
 
 Just one specific setup is what I need to master. Don't be lured by euphoria. Be lured in by smooth and clean breakouts.
 
-![MNTS](images/image-1092.png)
+![MNTS](../images/image-1092.png)
 
 The whole reason I am not trading shitcoins is because there are no tokens with good momentum. So why put my money into this?
 
 Why did I put my money into ACI?
 
-![ACI](images/image-1093.png)
-![ACI](images/image-1094.png)
+![ACI](../images/image-1093.png)
+![ACI](../images/image-1094.png)
 
 Would have been a good daytrade, but that isn't what I am looking for. Where is the longer term momentum.
 
-![PII](images/image-1095.png)
+![PII](../images/image-1095.png)
 
 This is actually kind of okay. Maybe a B-C trade, but certainly not A.
 
 It's not a huge gap, it opened near the previous day's high.
 
-![PII](images/image-1096.png)
+![PII](../images/image-1096.png)
 
 Has second day play potential.
 
-![PII](images/image-1097.png)
+![PII](../images/image-1097.png)
 
 It's actually a pretty good trading stock. It's not a swing momentum stock in this environment. If I was daytrading I'd look for OBRs the next day.
 
-![BBAI](images/image-1098.png)
+![BBAI](../images/image-1098.png)
 
 This had such a good breakout earlier in the month. Take a look at the volume.
 
-![BBAI](images/image-1099.png)
+![BBAI](../images/image-1099.png)
 
 You can see how it started building on the dailies. ASPI is having the same pattern which is why I bought it. What about the Feb breakout?
 
-![BBAI](images/image-1100.png)
+![BBAI](../images/image-1100.png)
 
 Simply fucking fantastic!
 
@@ -14157,17 +14157,17 @@ MP was like that so I am lucky that I put in 30%.
 
 Just take it easy in the market. The breakouts will be there every day.
 
-![HKIT](images/image-1101.png)
+![HKIT](../images/image-1101.png)
 
 Chinese liquidation.
 
-1:30pm. ![MSOS](images/image-1102.png)
+1:30pm. ![MSOS](../images/image-1102.png)
 
 Let me study this chart.
 
 ...Damn, I can't find the chart for it on TradingView. Is it bust?
 
-![MSOS](images/image-1103.png)
+![MSOS](../images/image-1103.png)
 
 Ah, it's an ETF. Would have been an amazing second day play.
 
@@ -14175,11 +14175,11 @@ I coul have entered with a very tight stop in the first 20m. Maybe not the first
 
 But I'd need to understand the importance of the headline. It's isn't like the PII headline where they just spun off one of their losing divisions. It was a huge sales increase due to a government policy change.
 
-![VFS](images/image-1104.png)
+![VFS](../images/image-1104.png)
 
 Wow, what a momentum move off the open.
 
-1:45pm. ![](images/image-1105.png)
+1:45pm. ![](../images/image-1105.png)
 
 Oh wow, he is talking about the option / warrant arbitrage.
 
@@ -14189,104 +14189,104 @@ He is so good. How the hell does he have the time to figure out all of this?
 
 Yeah, I don't think I can add stocks like VFS into my playbook unfortunately. But this insight that optiosn can be used for arbs and also to get around lack of shorts is really interesting. I really need to learn more about options trading.
 
-![MNTS](images/image-1106.png)
+![MNTS](../images/image-1106.png)
 
 I'll put this stock on my watchlist again as the news catalyst is really strong, but it's most likely a scam. So I need to give the market time to decide.
 
 3pm. Made it barely in time. I thought it would be been 3:30pm by now. Time to check out the premarket.
 
-![MNTS](images/image-1107.png)
+![MNTS](../images/image-1107.png)
 
 There goes the stop for the low of the day. Shit stock.
 
-3:05pm. ![STEM](images/image-1108.png)
+3:05pm. ![STEM](../images/image-1108.png)
 
 I'll put this on my watchlist just in case.
 
-![LWLG](images/image-1109.png)
+![LWLG](../images/image-1109.png)
 
 Let me put this on the chart.
 
-![UMAC](images/image-1110.png)
-![UMAC](images/image-1112.png)
+![UMAC](../images/image-1110.png)
+![UMAC](../images/image-1112.png)
 
 Worth it to try buying high volume breakouts in this.
 
-![SKYT](images/image-1111.png)
+![SKYT](../images/image-1111.png)
 
 This one is interesting. Nice tight consolidation.
 
-![NUS](images/image-1113.png)
+![NUS](../images/image-1113.png)
 
 Needs watching.
 
-![BWXT](images/image-1114.png)
+![BWXT](../images/image-1114.png)
 
 Oh my god, look at this earnings breakout. So much gap, went nowhere.
 
-![AMPX](images/image-1115.png)
+![AMPX](../images/image-1115.png)
 
-3:32pm. ![](images/image-1116.png)
+3:32pm. ![](../images/image-1116.png)
 
 Crap the screener is acting up. It's showing too much relative volume for most of these.
 
-![](images/image-1117.png)
+![](../images/image-1117.png)
 
 Damn, the volume here is 0.2, but it's showing 50 in the screener.
 
-![SMR](images/image-1118.png)
+![SMR](../images/image-1118.png)
 
 This one might be a buy.
 
-![AMPX](images/image-1119.png)
+![AMPX](../images/image-1119.png)
 
 This one is a buy. 10%.
 
-![GEVO](images/image-1120.png)
+![GEVO](../images/image-1120.png)
 
 Also bought this. 10%.
 
 It's a bit run up so I wasn't confident putting 30%.
 
-![TE](images/image-1121.png)
+![TE](../images/image-1121.png)
 
 TE's gap is too large.
 
-![](images/image-1122.png)
+![](../images/image-1122.png)
 
 Even though GEVO has been up in anticipation of this, it's a very steady stock, which is why I felt confident in buying it.
 
-![BBAI](images/image-1123.png)
+![BBAI](../images/image-1123.png)
 
 BBAI stopped me out for break even.
 
-![SMR](images/image-1124.png)
+![SMR](../images/image-1124.png)
 
 Oh, this is a buy. 15%.
 
-![GEVO](images/image-1125.png)
+![GEVO](../images/image-1125.png)
 
 No, I might have made a mistake. GEVO is still up 30% from its range.
 
-![GEVO](images/image-1126.png)
+![GEVO](../images/image-1126.png)
 
 Ah whatever, it only 300 more to the stop. No point in bailing here. 
 
-![AMPX](images/image-1127.png)
+![AMPX](../images/image-1127.png)
 
 Compare this one to ...
 
-![GEVO](images/image-1128.png)
+![GEVO](../images/image-1128.png)
 
 If it wasn't for the previous 2 days, would I have bought it given what I was saying about gaps?
 
 Ok, that's one thing which I need to fix. I must not be swayed by the last few days of price action when determining the size of the gap.
 
-![FIGS](images/image-1129.png)
+![FIGS](../images/image-1129.png)
 
 Analyst upgrade. Skip.
 
-![AEVA](images/image-1130.png)
+![AEVA](../images/image-1130.png)
 
 I am considering this one.
 
@@ -14294,29 +14294,29 @@ The volume is hardly extraordinary though. The pattern isn't that good either.
 
 C tier. Skip.
 
-![INDI](images/image-1131.png)
-![KOPN](images/image-1132.png)
+![INDI](../images/image-1131.png)
+![KOPN](../images/image-1132.png)
 
 Should've bought more of these yesterday. They deserved to be 10% each instead of 2.5.
 
 Oh yeah, how are ACI and PII doing?
 
-![PII](images/image-1133.png)
-![ACI](images/image-1134.png)
+![PII](../images/image-1133.png)
+![ACI](../images/image-1134.png)
 
 Neutrally.
 
 Mhhh, that's fine. Yeah, you have these huge earnings breakouts and then the market cools down right the next day. Trash.
 
-![GEVO](images/image-1135.png)
+![GEVO](../images/image-1135.png)
 
 Stop! Noooooo!
 
-![GEVO](images/image-1136.png)
+![GEVO](../images/image-1136.png)
 
 Got stopped out. What a miss. I've made a mistake. High volume won't save me if the setup is bad.
 
-![EDU](images/image-1137.png)
+![EDU](../images/image-1137.png)
 
 This is also a buy.
 
@@ -14326,19 +14326,19 @@ Oh, fuck!
 
 I just lost 1k due to making a too huge position I had to close it out immediatelly!
 
-![](images/image-1138.png)
+![](../images/image-1138.png)
 
 What the fuck!
 
 I put in 10% balance. Why did it buy 500k?
 
-![](images/image-1139.png)
+![](../images/image-1139.png)
 
 Oh Jesus, what the fuck was that?
 
 I thought there was something weird going on given that it was showing margin, but it never occured to me to look at trade value.
 
-![](images/image-1140.png)
+![](../images/image-1140.png)
 
 Now this is a 11k position. 
 
@@ -14346,47 +14346,47 @@ Thank god I am paper trading. This was 1% of my account down the drain.
 
 New rule. Always look at the trade value.
 
-![MP](images/image-1141.png)
+![MP](../images/image-1141.png)
 
 MP is selling off hard today. Not that far from my stop. 
 
-![](images/image-1142.png)
+![](../images/image-1142.png)
 
 The market is doing well today too.
 
-![](images/image-1143.png)
+![](../images/image-1143.png)
 
 Why is this order so weird. Why is it showing me Margin USD instead of just USD?
 
-![BZAI](images/image-1144.png)
+![BZAI](../images/image-1144.png)
 
 Let's also get this one.
 
-![BZAI](images/image-1145.png)
+![BZAI](../images/image-1145.png)
 
 It seems I bought it just as it was breaking out.
 
-![BZAI](images/image-1146.png)
+![BZAI](../images/image-1146.png)
 
 Breakout above long term resistance. No news catalyst.
 
-![BZAI](images/image-1147.png)
+![BZAI](../images/image-1147.png)
 
 Unlike GEVO, this one has support at a far higher level than the last two days would indicate because it was blasting off from a low point rather than a high point.
 
-![GEVO](images/image-1148.png)
+![GEVO](../images/image-1148.png)
 
 Check the difference.
 
-![SMR](images/image-1149.png)
+![SMR](../images/image-1149.png)
 
 Hmmm, what is this timer to the right of the bar? Ah, it's counting down its length. Never noticed it before.
 
-![PLD](images/image-1150.png)
+![PLD](../images/image-1150.png)
 
 Sometimes TradingView can be weird. I can't actually type in PLD into the search bar.
 
-![IRBT](images/image-1151.png)
+![IRBT](../images/image-1151.png)
 
 Suddenly volume came into this. Don't want to buy it here.
 
@@ -14394,18 +14394,18 @@ I'll add it to the watchlist and try it tomorrow as a second day play.
 
 I still have no idea why EDU was displayed as margin USD and % of balance was far more than it says it should.
 
-![](images/image-1152.png)
+![](../images/image-1152.png)
 
 As if losing 1k for no reason wasn't enough, it's turning around again.
 
-![GEVO](images/image-1153.png)
+![GEVO](../images/image-1153.png)
 
 My god, look at this rolling over. I thought of putting in a short, and that might have been a good idea, but I am not a daytrader.
 
 5:35pm. At any rate, let me stop here for the day. The setups that are in play have been bought. Especially glad that I managed to catch SMR. I should put in a filter so it only shows those up at least 4% and less that 20%. It might also not be a bad idea to just make these decisions off the momentum screener.
 
-![](images/image-1154.png)
-![](images/image-1155.png)
+![](../images/image-1154.png)
+![](../images/image-1155.png)
 
 I think I am long 90% right now. Those GEVO and EDU trades wrecked me.
 
@@ -14421,13 +14421,13 @@ Now let me watch the last vid in module 8.
 
 5:45pm. For the record GEVO had a loan extension as a catalyst. That can't be that good. I should've ignored it.
 
-![](images/image-1156.png)
+![](../images/image-1156.png)
 
 Yeah, let's put the change above 5%. It's not worth bothering with anything less.
 
 Now that I have these positions, the most important thing is to hold them.
 
-6pm. ![MP](images/image-1157.png)
+6pm. ![MP](../images/image-1157.png)
 
 Now the only question is whether I made a mistake pulling up the stop rather than leaving it below Monday's low.
 
@@ -14447,7 +14447,7 @@ Lessons so far:
 
 6:05pm. It's pretty brutal when stocks go down. Why can't they just keep going up?
 
-6:20pm. ![MP](images/image-1158.png)
+6:20pm. ![MP](../images/image-1158.png)
 
 I don't like selling out here. Let me buyin back for 10% of my position.
 
@@ -14455,11 +14455,11 @@ Today is a good refresher just how much of a beast the market is. It gives and i
 
 It's a good reminder that I need to hold my winning position in order to get value from them instead of running.
 
-![CRWV](images/image-1159.png)
+![CRWV](../images/image-1159.png)
 
 I need to watch Coreweave carefully for breakouts.
 
-6:35pm. ![ASPI](images/image-1160.png)
+6:35pm. ![ASPI](../images/image-1160.png)
 
 Damn it, the stop was going to get hit definitely so I am moving away to Monday's low where it was originally.
 
@@ -14471,11 +14471,11 @@ It's really good that I am paper trading. Earlier this morning I thought how I'l
 
 6:50pm. I'll leave the video for later I don't feel like it.
 
-![GLD](images/image-1161.png)
+![GLD](../images/image-1161.png)
 
 Gold is going parabolic.
 
-![SMR](images/image-1162.png)
+![SMR](../images/image-1162.png)
 
 Between SMR and ASPI retracing their gains, to the EDU platform mistake and GEVO incorrect buy, now SMR is acting poorly as well.
 
@@ -14483,23 +14483,23 @@ Thank god I am paper trading.
 
 I should finish today down to 95k from a 100k starting point.
 
-7:10pm. ![GEVO](images/image-1163.png)
+7:10pm. ![GEVO](../images/image-1163.png)
 
 This really was a short.
 
 I admit, when I saw MP go up I did think I might be making profits doing long momentum, but it's as I anticipated. The market is overbought and it's starting to get sold into. Even breakouts that aren't overstretched are starting to get dragged down.
 
-![MVST](images/image-1164.png)
+![MVST](../images/image-1164.png)
 
 There really is something to this system of weekly lows. It gets obeyed a lot more often that I thought it would by chance.
 
-![RGTI](images/image-1165.png)
-![RGTI](images/image-1166.png)
-![RGTI](images/image-1167.png)
+![RGTI](../images/image-1165.png)
+![RGTI](../images/image-1166.png)
+![RGTI](../images/image-1167.png)
 
 It would have been hard to catch this breakout.
 
-![RGTI](images/image-1168.png)
+![RGTI](../images/image-1168.png)
 
 I think I understand the delayed reaction episodic pivot. There is an absurd gap, a decline the next day and then the rebound.
 
@@ -14507,40 +14507,40 @@ NBIS had a similar pattern. I should be buying on the rebound and use the weekly
 
 7:25pm. These high volume breakouts are often the start of the bigger move. They give the initial burst of momentum to it. The first push that gets the ball rolling.
 
-![SMR](images/image-1169.png)
+![SMR](../images/image-1169.png)
 
 Some of the stocks like SMR are very close to the low of the day.
 
-![BZAI](images/image-1170.png)
+![BZAI](../images/image-1170.png)
 
 In BZAI I got stopped out already.
 
-![BZAI](images/image-1171.png)
+![BZAI](../images/image-1171.png)
 
 Too bad I was buying the second breakout instead of the first.
 
-![NVTS](images/image-1172.png)
+![NVTS](../images/image-1172.png)
 
 This one I let get away.
 
-![NVTS](images/image-1173.png)
+![NVTS](../images/image-1173.png)
 
 Here is the weekly. Note the rising lows.
 
-![RMCO](images/image-1174.png)
-![RMCO](images/image-1175.png)
+![RMCO](../images/image-1174.png)
+![RMCO](../images/image-1175.png)
 
 Once again this was making higher lows for quite a few weeks.
 
-![RMCO](images/image-1176.png)
+![RMCO](../images/image-1176.png)
 
 Here is how the initial breakout looked like.
 
-![RMCO](images/image-1177.png)
+![RMCO](../images/image-1177.png)
 
 Here is the full move.
 
-![](images/image-1178.png)
+![](../images/image-1178.png)
 
 Ok enough of this. Pretty much all the momentum leaders here had unbroken chains of higher weekly lows.
 
@@ -14564,8 +14564,8 @@ Let me do something else.
 
 8:25pm. No, I have to admit something.
 
-![RHM](images/image-1179.png)
-![EXA](images/image-1180.png)
+![RHM](../images/image-1179.png)
+![EXA](../images/image-1180.png)
 
 Trailing the stops along the weekly lows would have worked horribly in these stocks!
 
@@ -14573,23 +14573,23 @@ And to think I spent so much time studing them, and basing my entire system on t
 
 They and BTC are what caused me to go into the 8 - 12 week momentum systems initially.
 
-![](images/image-1181.png)
+![](../images/image-1181.png)
 
 Let me setup the screener like this. Now I won't have to pay attention to flying trash. Breakouts above 30% per day can be avoided. I don't have to pay attention to them. I might miss some earnings breakout that goes up way more than expected, but whatever. Let's focus on what is the common case for high volume momentum breakouts. That is where the real money is.
 
-![HLIO & BLFS](images/image-1182.png)
+![HLIO & BLFS](../images/image-1182.png)
 
 Damn, I didn't see these two at all.
 
 They are super illiquid. Nwm.
 
-![TGEN](images/image-1183.png)
+![TGEN](../images/image-1183.png)
 
 This one was good.
 
 Let me buy it. I didn't even notice the market is open.
 
-![TGEN](images/image-1184.png)
+![TGEN](../images/image-1184.png)
 
 I've only put 5% of my account into it to limit risk.
 
@@ -14599,29 +14599,29 @@ It actually works more often than not on these momentum moves.
 
 Agh, why did I spent time thinking about EXA and RHM?
 
-![BZAI](images/image-1185.png)
+![BZAI](../images/image-1185.png)
 
 This thing hit my stop and recovered. That was super annoying. But it's a good lesson.
 
 Don't pull up stops.
 
-![WTTR](images/image-1186.png)
+![WTTR](../images/image-1186.png)
 
 Now this is breaking out in the middle of a day. Skip. No long term momentum.
 
-![ARRY](images/image-1187.png)
+![ARRY](../images/image-1187.png)
 
 Why is this stock even on the screener?
 
-![BZAI](images/image-1188.png)
+![BZAI](../images/image-1188.png)
 
 I'll try this again this time with a the stop at the low of the day.
 
-![SMR](images/image-1189.png)
+![SMR](../images/image-1189.png)
 
 This feels good. It found support exactly at the low of the day. Had I been just a little bit smarter and put my stops tighter I would have gotten stopped out.
 
-9pm. ![](images/image-1190.png)
+9pm. ![](../images/image-1190.png)
 
 Let me go with this screen for now. Only 26 stocks to look at. Just the way I like it.
 
@@ -14639,19 +14639,19 @@ Well, trend following systems which sell into lows are rough in general.
 
 Back in April and May I had such a strong mindset of letting profits run. I need to get back to it.
 
-![EXA](images/image-1191.png)
+![EXA](../images/image-1191.png)
 
 Yeah, I want to have a hard stop in place. If I get shoved out of the trade once, how about I just trail the stop using the previous week's low rather than the current one?
 
 And if the previous week's low is higher than the Friday's close, just sell?
 
-![BTC](images/image-1192.png)
+![BTC](../images/image-1192.png)
 
 Yeah, instead of raising it to the current's week's low over the weekend, just raise it to the previous week's low.
 
 And if the current's week's low is lower than the previous week's low, raise it to that instead.
 
-![BTC](images/image-1193.png)
+![BTC](../images/image-1193.png)
 
 Wow, I really like this rule. I have no idea why I was hung up on the notion that I had to raise it to the current week's low. I can be more flexible.
 
@@ -14659,13 +14659,13 @@ This system would still protect almost as much profits as the previous weekly sy
 
 But at the same time it would work much better than the 8 - 12 week rules and the weekly system I had in mind.
 
-![BTC](images/image-1194.png)
+![BTC](../images/image-1194.png)
 
 Now on fucking this, I don't know.
 
 This is the kind of price action that ends up training you to never sell.
 
-![BTC](images/image-1195.png)
+![BTC](../images/image-1195.png)
 
 This move would actually be pretty hard to trade due to all the epic flushouts. It's not like you can just cleanly trend follow it like with some other moves.
 
@@ -14679,13 +14679,13 @@ It was actually a pretty hard trade, and basing your system on doing the hard th
 
 You know how the weak poker bots trained using policy gradients don't understand the game so they converge to a policy of raising non-stop or calling non-stop? That's current day crypto investors. The market pretty much broke them psychologically, and then next thing that will happen is that it will kill them financially outright.
 
-9:35pm. ![MP](images/image-1196.png)
+9:35pm. ![MP](../images/image-1196.png)
 
 It came quite close to testing the lows.
 
 Paper trading is king. It's giving me a chance to really think about how I do screening and what system I really want to use.
 
-![MNTS](images/image-1197.png)
+![MNTS](../images/image-1197.png)
 
 This stock was shit as expected. All the volume from yesterday and the buying momentum just vanished.
 
@@ -14727,15 +14727,15 @@ But at the same time I am taking these position, I am swimming in too many oppor
 
 Once it's paid for assume the money is lost. Only down the road might the system stop me out and then the winnings will be tallied.
 
-![BBAI](images/image-1198.png)
+![BBAI](../images/image-1198.png)
 
 Since I will be cutting my position size down, I want to add some pullback buying to my arsenal.
 
-![BBAI](images/image-1199.png)
+![BBAI](../images/image-1199.png)
 
 I've put in a buy limit here.
 
-![BBAI](images/image-1200.png)
+![BBAI](../images/image-1200.png)
 
 I have no idea why I always miss the pattern of higher lows on the weekly charts. They are so obvious once you look for them.
 
@@ -14743,19 +14743,19 @@ I am starting to understand why Qullamaggie has such a boner for moving averages
 
 It's really shitty, but I doubt the limit order will trigger. We'll see. I've set the duration for the other to a week.
 
-![CRWV](images/image-1201.png)
+![CRWV](../images/image-1201.png)
 
 I really want to just buy CoreWeave so let me do it.
 
-![CRWV](images/image-1202.png)
+![CRWV](../images/image-1202.png)
 
 Who knows maybe it will dip.
 
-![CRWV](images/image-1203.png)
+![CRWV](../images/image-1203.png)
 
 In fact, let me put the stop below the previous week's low.
 
-![BBAI](images/image-1204.png)
+![BBAI](../images/image-1204.png)
 
 I'll also move the stop for BBAI below the prev week's low.
 
@@ -14835,31 +14835,31 @@ CRYPTO CRASH: I'm done, crypto is all a SCAM.
  
 The comments section in this video is hillarious.
 
-![](images/image-1205.png)
-![](images/image-1206.png)
-![](images/image-1207.png)
-![](images/image-1208.png)
-![](images/image-1209.png)
+![](../images/image-1205.png)
+![](../images/image-1206.png)
+![](../images/image-1207.png)
+![](../images/image-1208.png)
+![](../images/image-1209.png)
 
 Lol.
 
-![](images/image-1210.png)
+![](../images/image-1210.png)
 
 > Forgive me for being so brutal, but anyone that trades BTC with leverage is stupid. Bitcoin trades with roughly 4–6× the volatility of the S&P 500 and 5–8× that of gold. In other words, just owning spot BTC is already like trading a 5× leveraged equity ETF. And you want to lever that vol? The chances of being knocked out of a leveraged position before the long-term move plays out are very high. Many traders lose money in bull markets simply because they were forced out on volatility spikes. Bitcoin IS leverage. You don't trade it. You OWN it.
 
 Key comment.
 
-![](images/image-1211.png)
+![](../images/image-1211.png)
 
 The replies to it are literally braindead.
 
-11:30am. ![](images/image-1212.png)
+11:30am. ![](../images/image-1212.png)
 
 This guy is such a douchebag, it's amazing.
 
-11:35am. ![](images/image-1213.png)
+11:35am. ![](../images/image-1213.png)
 
-![](images/image-1214.png)
+![](../images/image-1214.png)
 
 > I get your point but it is an entire banking system that requires no human intervention. An individual coin might not have any value but the blockchain concept is worth the entire banking industry.
 
@@ -14879,11 +14879,11 @@ If it starts acting well, I'll take a position in it.
 
 2:30pm. Time for a lesson. Let me show a chart.
 
-![CROX](images/image-1215.png)
+![CROX](../images/image-1215.png)
 
 This was a chart that originally gave me a lot of trouble, but is now completely transpared to me.
 
-![CROX](images/image-1216.png)
+![CROX](../images/image-1216.png)
 
 In particular note this part here. Note how in the easy part of the upmove the stock was continually making new higher lows on the weekly for 20 bars straight.
 
@@ -14912,35 +14912,35 @@ I am just going to watch this to relax while I wait for the open.
 
 I had trouble sleeping last night. I was too excited to dream properly.
 
-2:55pm. ![](images/image-1217.png)
+2:55pm. ![](../images/image-1217.png)
 
 I didn't know the penultimate one at all, and I thought Bloomberg was just for news.
 
-![](images/image-1218.png)
+![](../images/image-1218.png)
 
 Hmmm, for the premarket instead of relative volume at time, I might be better off just using relative volume directly. Often stocks don't have any volume at all premarket, so the volume figures are skewed. I'd be better to instead judge the buzz of relative volume.
 
-![](images/image-1219.png)
+![](../images/image-1219.png)
 
 Made this screener. Look how easy it is now.
 
-![](images/image-1220.png)
+![](../images/image-1220.png)
 
 Oh, nice, two of my holdings are on the list.
 
-![AREC](images/image-1221.png)
+![AREC](../images/image-1221.png)
 
 I wonder if I should just be buying these stocks on declines?
 
-![AREC](images/image-1222.png)
+![AREC](../images/image-1222.png)
 
 Sure it went from 7 to below 5 yesterday, but it's not like the uptrend according to my system has been violated.
 
-![WYFY](images/image-1223.png)
+![WYFY](../images/image-1223.png)
 
 Many stocks which seem insanely volatile according to the dailies have a streadily rising weekly low pattern.
 
-![WYFY](images/image-1224.png)
+![WYFY](../images/image-1224.png)
 
 I used to read charts like these as a beginning trader and though that this is impossible, nobody can trade it. 
 
@@ -14956,11 +14956,11 @@ That's also the simplest way to do it.
 
 There is no confusion in how long to hold or when to get out. Even if I get transported in the early 20th century without computers I could still easily trade this system.
 
-3:15pm. ![SANA](images/image-1225.png)
+3:15pm. ![SANA](../images/image-1225.png)
 
 I don't know why the screener is so much different compared to what I see on the chart, but relative volume at time does work on premarket data. You can see how yesterday it had no volume premarket.
 
-3:20pm. ![IRBT](images/image-1226.png)
+3:20pm. ![IRBT](../images/image-1226.png)
 
 This stock has a decent amount of premarket volume. I'll get it within the first 5-10 mins if the opening shows strong momentum backed by volume.
 
@@ -14970,81 +14970,81 @@ I have my plan. I just need to execute it. First see if IRBT has momo. And then 
 
 3:30pm. Time to pay attention to the market.
 
-![](images/image-1227.png)
+![](../images/image-1227.png)
 
 Now that I've tightened up the criteria, here is how it looks like off the open. I only have 21 stocks to look at. Much easier to deal with compared to what I had before.
 
-![QSI](images/image-1228.png)
+![QSI](../images/image-1228.png)
 
 Should have gotten 3 days ago yesterday.
 
-![IRBT](images/image-1229.png)
+![IRBT](../images/image-1229.png)
 
 The volume is there, nice.
 
 I'll get 10% with a tight stop.
 
-![IRBT](images/image-1230.png)
+![IRBT](../images/image-1230.png)
 
 Now it might turn around and stop me out. If so fine. It might even shake me out and then make another attempt. If that happens, I'll wait for the next opening range break to get in.
 
-![QSI](images/image-1231.png)
+![QSI](../images/image-1231.png)
 
 Probably the reason why I didn't buy this is because the volume wasn't there on the day itself. But it was there on the previous day and it was still elevated on the day itself, so I should have done so.
 
 Also Monday I had a completely different mindset, I thought stocks like these were overstretched.
 
-![](images/image-1232.png)
+![](../images/image-1232.png)
 
 Here is the screener at the current time which is 3:39pm.
 
-![IRBT](images/image-1233.png)
+![IRBT](../images/image-1233.png)
 
 Oh it doesn't look good.
 
-![EPAC](images/image-1234.png)
+![EPAC](../images/image-1234.png)
 
 Earnings breakout, but remember what I said. I need 50% sales increase, not 5%. Otherwise I am better off just buying breakouts in regular momentum leaders.
 
-![IRBT](images/image-1235.png)
+![IRBT](../images/image-1235.png)
 
 Wow, what a tense range. Who is going to win? The bulls or the bears?
 
-![SNA](images/image-1236.png)
+![SNA](../images/image-1236.png)
 
 Another minor earnings beat. Won't lead to a large move.
 
-![INCY](images/image-1237.png)
+![INCY](../images/image-1237.png)
 
 Oh, what about this?
 
-![INCY](images/image-1238.png)
+![INCY](../images/image-1238.png)
 
 Got it right away as it is so clean.
 
-![](images/image-1239.png)
+![](../images/image-1239.png)
 
 Oh, wow, it has a relative volume alerts.
 
-![](images/image-1240.png)
+![](../images/image-1240.png)
 
 And this is a VWAP crossing alert!
 
-![GWRE](images/image-1241.png)
+![GWRE](../images/image-1241.png)
 
 No, I don't like these kinds of patterns. They are hard to trade.
 
 They are what Pradeep calls duration moves rather than magnitude moves.
 
-![IRBT](images/image-1242.png)
+![IRBT](../images/image-1242.png)
 
 Oh, here is the VWAP reclaim.
 
-![IRBT](images/image-1243.png)
+![IRBT](../images/image-1243.png)
 
 Oh wow, you really have to be watching this and react quickly to the breakout once it happens. It sure didn't wait for me to get in.
 
-4:10pm. ![MUX](images/image-1244.png)
+4:10pm. ![MUX](../images/image-1244.png)
 
 What a nice pattern. I like volatile stocks.
 
@@ -15052,41 +15052,41 @@ The 2 weekly bar low system is in fact consistent with my previous views that yo
 
 I am glad I had that misconception corrected.
 
-![MUX](images/image-1245.png)
+![MUX](../images/image-1245.png)
 
 Here is how it looks on the daily.
 
-![NVTS](images/image-1246.png)
+![NVTS](../images/image-1246.png)
 
 I really missed NVTS. I won't let this happen again with real capital on the line.
 
-![IRBT](images/image-1247.png)
+![IRBT](../images/image-1247.png)
 
 Now it's back in the red again.
 
 4:15pm. Ok, let me stop here. There aren't any particular stocks on the screener that I need to look at.
 
-![GEVO](images/image-1248.png)
+![GEVO](../images/image-1248.png)
 
 Do I want to try GEVO again?
 
-![GEVO](images/image-1249.png)
+![GEVO](../images/image-1249.png)
 
 Let me give it a shot, this time with a 3% position.
 
-![QUBT](images/image-1250.png)
+![QUBT](../images/image-1250.png)
 
 This is going to break out fiercely so I might as well get a notification.
 
-![LQDA](images/image-1251.png)
+![LQDA](../images/image-1251.png)
 
 This one could be good.
 
-![LQDA](images/image-1252.png)
+![LQDA](../images/image-1252.png)
 
 On the daily it might not seem like a big deal, but on the weekly it has excellent trend persistence.
 
-![LQDA](images/image-1253.png)
+![LQDA](../images/image-1253.png)
 
 I am somewhat chasing it here.
 
@@ -15094,26 +15094,26 @@ I am somewhat chasing it here.
 
 Really, this is pretty easy. The only thing I might want to change is getting rid of the upper bound on the % change, just so I can see big gappers like NBIS.
 
-![](images/image-1254.png)
+![](../images/image-1254.png)
 
 That only added a few more stocks to the screen. It's not a big deal that I have to ignore some pennies in the process of being pumped and dumped.
 
-![SLNH](images/image-1255.png)
-![SLNH](images/image-1256.png)
+![SLNH](../images/image-1255.png)
+![SLNH](../images/image-1256.png)
 
 No forget this one. I hate it when stocks play games with the opening range.
 
-![SLNH](images/image-1257.png)
+![SLNH](../images/image-1257.png)
 
 Not my kind of setup.
 
 4:45pm. No, I am done. Not much of interest happening today.
 
-![](images/image-1258.png)
+![](../images/image-1258.png)
 
 Made a bunch of trades today, we'll see how they do.
 
-4:50pm. ![](images/image-1259.png)
+4:50pm. ![](../images/image-1259.png)
 
 THe market itself is doing well.
 
@@ -15125,7 +15125,7 @@ None of the positions should be large enough to cause me worry. It cannot be sim
 
 4:55pm. I have to pay attention more to what the indices are doing in case fear comes into the market. Let me put QQQ IWM and SPY on the watchlist.
 
-![](images/image-1260.png)
+![](../images/image-1260.png)
 
 Yeah, like this.
 
@@ -15137,21 +15137,21 @@ Every day I make an improvement to the system.
 
 Hmmm, let me also add the VXX.
 
-![INCY](images/image-1261.png)
+![INCY](../images/image-1261.png)
 
 Got stopped out on INCY. Forget this trade. It was only a 3k position.
 
-![IRBT](images/image-1262.png)
+![IRBT](../images/image-1262.png)
 
 I wonder if I'll get stopped out on this too?
 
 I'll come back to see at the end of the day.
 
-5:25pm. ![](images/image-1263.png)
+5:25pm. ![](../images/image-1263.png)
 
 Here is some fun reading on Reddit stocks. I don't really like the Wall Street Bets crowd.
 
-5:35pm. ![](images/image-1264.png)
+5:35pm. ![](../images/image-1264.png)
 
 Yeah, remember how I was in 2007. In 2007 I thought that all I needed a was a big stock market bubble and I'd be the next Dan Zanger or the next Darvas.
 
@@ -15165,11 +15165,11 @@ All I hope is that a correction won't take too long so the market can reset and 
 
 Bullish or not, right now the leaders are just way too stretched out. I cannot possibly chase them even with paper trades.
 
-![](images/image-1265.png)
+![](../images/image-1265.png)
 
 Damn, that is some momentum.
 
-![](images/image-1266.png)
+![](../images/image-1266.png)
 
 Yeah, it's unusual to have manias in several places at the same time.
 
@@ -15177,33 +15177,33 @@ When the market is like this, the panics will be very sharp, but so will the reb
 
 It's good that I am game planing for this ahead of time.
 
-5:50pm. ![BZAI](images/image-1267.png)
+5:50pm. ![BZAI](../images/image-1267.png)
 
 Ah goddamit.
 
-![IRBT](images/image-1268.png)
+![IRBT](../images/image-1268.png)
 
 I am also very close from getting stopped out in IRBT.
 
-![MP](images/image-1269.png)
+![MP](../images/image-1269.png)
 
 I didn't expect I'd be stopped out in MP.
 
-![IRBT](images/image-1270.png)
+![IRBT](../images/image-1270.png)
 
 Hmmm, I did get stopped out of IRBT.
 
-![AMPX](images/image-1271.png)
+![AMPX](../images/image-1271.png)
 
 In the end these were good shorts once they broke below the gap low.
 
-![](images/image-1272.png)
+![](../images/image-1272.png)
 
 Oh my god, I am down 7.5% in less than a week.
 
 I think I was at 98k at the start of the day and now I am at 92k.
 
-6:30pm. ![](images/image-1273.png)
+6:30pm. ![](../images/image-1273.png)
 
 This is something my strategy in the middle of the year aimed to defense against. It feels like I am buying a stock, getting stopped out, buying a stock getting stopped out and so on.
 
@@ -15211,20 +15211,20 @@ So to protect again this kind of churn, the earlier strategy would only rotate p
 
 These high volume breakouts feel like just short term highs in the market. Let me check out how momentum stocks are behaving today.
 
-![](images/image-1274.png)
+![](../images/image-1274.png)
 
 Oh, the weakness that I see in the portfolio has been spreading to the overall market as well.
 
-![](images/image-1275.png)
-![](images/image-1276.png)
-![](images/image-1277.png)
-![](images/image-1278.png)
+![](../images/image-1275.png)
+![](../images/image-1276.png)
+![](../images/image-1277.png)
+![](../images/image-1278.png)
 
 This is roughly what I'd expect to see amongst the high momentum stocks on a day like this. They are all down huge. I'd be very surprised if only the stocks that I picked were down this much. That'd be some skill in reverse.
 
 Thank god I am paper trading.
 
-![GEVO](images/image-1279.png)
+![GEVO](../images/image-1279.png)
 
 I got stopped out in GEVO again.
 
@@ -15252,7 +15252,7 @@ If you only got a clean trendline break, trading would be easy, but it isn't lik
 
 I was specifically picking stocks that were recently breaking out because I was afraid of this selloff and I still got destroyed.
 
-![CRWV](images/image-1280.png)
+![CRWV](../images/image-1280.png)
 
 Lol'd at Coreweave. I put in a buy limit order at the exact low of the day it seems, and now the stock had rallied 5%.
 
@@ -15260,24 +15260,24 @@ Lol'd at Coreweave. I put in a buy limit order at the exact low of the day it se
 
 Is this the real top, or is my strategy of buying breakout fundamentally flawed at some level? Should I have put my stops at weekly lows instead of daily ones?
 
-![NVDA](images/image-1281.png)
+![NVDA](../images/image-1281.png)
 
 Nvidia has such nasty wicks.
 
-7:20pm. ![AMPX](images/image-1282.png)
+7:20pm. ![AMPX](../images/image-1282.png)
 
 Very easy to imagine this being just a short term dip.
 
-![BTCUSD](images/image-1283.png)
+![BTCUSD](../images/image-1283.png)
 
 Bitcoin is breaking down below 110k.
 
-![XME](images/image-1284.png)
+![XME](../images/image-1284.png)
 
 Holy shit.
 
-![QBIT](images/image-1285.png)
-![QTUM](images/image-1286.png)
+![QBIT](../images/image-1285.png)
+![QTUM](../images/image-1286.png)
 
 QBIT which I've been watching for a breakout is down big, but QTUM is fine...
 
@@ -15297,7 +15297,7 @@ The only question I need to answer is whatever I want to do short term betting o
 
 8:05pm. Hold that thought.
 
-![](images/image-1287.png)
+![](../images/image-1287.png)
 
 ///
 
@@ -15387,7 +15387,7 @@ Would you like me to outline that?
 
 I never thought of using ChatGPT to do stock market research.
 
-![](images/image-1288.png)
+![](../images/image-1288.png)
 
 ///
 
@@ -15447,28 +15447,28 @@ Which would you like me to do now?
 
 Let me read some of these.
 
-![](images/image-1289.png)
+![](../images/image-1289.png)
 
 Let me read this paper from 2000.
 
-8:20pm. ![](images/image-1290.png)
+8:20pm. ![](../images/image-1290.png)
 
 I don't like the papers. They aren't testing breakouts, but just volume, lol.
 
 https://www.youtube.com/watch?v=zd7dVACK34c
 High Volume Edge Trading Strategy: Finding Winning Stocks with Volume
 
-9:15pm. ![](images/image-1291.png)
+9:15pm. ![](../images/image-1291.png)
 
 Yeah, this was RHM.
 
-![](images/image-1292.png)
+![](../images/image-1292.png)
 
 I admit, I never really noticed this one, but it's not like I was paying attention to it. The RHM shakeout and breakout was so pronounced, so it stuck in my mind.
 
 Let me study MP again...
 
-![MP](images/image-1293.png)
+![MP](../images/image-1293.png)
 
 It's basically a momentum burst followed by a decline. I bought in on the second day breakout, it went up for 1 more day and then cracked.
 
@@ -15486,11 +15486,11 @@ When I tried it on MP it worked amazingly well, but on all the other stocks that
 
 Had I just shorted those stocks instead I would be up 8% now instead of down that much.
 
-![NVTS](images/image-1294.png)
+![NVTS](../images/image-1294.png)
 
 It had such a huge volume buildup that I conveniently missed.
 
-![NVTS](images/image-1295.png)
+![NVTS](../images/image-1295.png)
 
 On the dailies it wasn't just a single breakout, but a series of high volume days.
 
@@ -15508,28 +15508,28 @@ All the stop outs in particular are extremely nasty.
 
 Putting 10% stop isn't tight risk control. It's just slowly bleeding to death.
 
-10:10pm. ![SMR](images/image-1296.png)
-![KOPN](images/image-1297.png)
+10:10pm. ![SMR](../images/image-1296.png)
+![KOPN](../images/image-1297.png)
 
 Got stopped out of these two.
 
-![](images/image-1298.png)
+![](../images/image-1298.png)
 
 Ugh, I am down almost 10%. 7.5k in realized P&L and 2.2k in unrealized.
 
 No, this isn't what I expected. I didn't think I'd just be dying by a dozen paper cuts. I thought the market would panic eventually and take me out of my positions that way. The panic as far as I can tell hasn't even close to started.
 
-![SMR](images/image-1299.png)
+![SMR](../images/image-1299.png)
 
 For pretty much all the positions that I've repeatedly been ejected from, if you look at the weeklies nothing seems wrong at all.
 
 It wouldn't surprise me if SMR's uptrend really started here. Note how the volume is spiking.
 
-![NVTS](images/image-1300.png)
+![NVTS](../images/image-1300.png)
 
 Like with NVTS, it might just keep on increasing.
 
-![SMR](images/image-1301.png)
+![SMR](../images/image-1301.png)
 
 This is a buying opportunity until the point the market cracks and takes me out of them. My only problem is that my strategy is wrong.
 
@@ -15545,56 +15545,56 @@ Breakouts are just as bad as I thought they were back in the old decade.
 
 10/17/2025
 
-9:30am. ![RHM](images/image-1302.png)
+9:30am. ![RHM](../images/image-1302.png)
 
 Wow, it's really getting destroyed. Same goes for EXA.
 
-![EXA](images/image-1303.png)
-![EXA](images/image-1304.png)
+![EXA](../images/image-1303.png)
+![EXA](../images/image-1304.png)
 
 Momentum trading can be perilous to one's wealth.
 
-![R3NK](images/image-1305.png)
+![R3NK](../images/image-1305.png)
 
 Yikes, best to drag those stops along the weekly lows.
 
-![R3NK](images/image-1306.png)
+![R3NK](../images/image-1306.png)
 
 The biggest problem though is those long wicks that stop you out and then reverse.
 
-![NVDA](images/image-1307.png)
+![NVDA](../images/image-1307.png)
 
 Yes, on the fakeouts, the next weekly low ends up being higher than the previous weekly low.
 
-![NVDA](images/image-1309.png)
+![NVDA](../images/image-1309.png)
 
 69 to 66 to 77.
 
-![NVDA](images/image-1308.png)
+![NVDA](../images/image-1308.png)
 
 Yeah, in a strong uptrend there can be these wicks, but every time the lower low has given way to a higher low higher than the previous week's low.
 
-![NVDA](images/image-1310.png)
+![NVDA](../images/image-1310.png)
 
 Hmmmm...
 
 Yeah, I called this the nasty wick, but momentum wasn't that great here.
 
-![MSTR](images/image-1311.png)
+![MSTR](../images/image-1311.png)
 
 I really should be following MSTR because it's a great proxy for investor sentiment.
 
-![SMR](images/image-1312.png)
+![SMR](../images/image-1312.png)
 
 Is it really that surprising that SMR declined? It did that the last 2 times on these high volume breakouts.
 
-![SMR](images/image-1313.png)
+![SMR](../images/image-1313.png)
 
 These would have made such great daytrades.
 
 I've just been buying high and selling low.
 
-![QUBT](images/image-1314.png)
+![QUBT](../images/image-1314.png)
 
 I don't know, these high volume breakouts failing like this is horror material.
 
@@ -15604,44 +15604,44 @@ I stared paper trading to test out the ORB system on high volume breakouts, and 
 
 I am down nearly 10% in just 4 days.
 
-![KOPN](images/image-1315.png)
+![KOPN](../images/image-1315.png)
 
 What seems to be working are patterns like these where it breaks out and then sells off near previous support.
 
-![KOPN](images/image-1316.png)
+![KOPN](../images/image-1316.png)
 
 I believe in trend following using the 2 week bar system, but I am not sure about this business of buying breakouts.
 
 I did write how it was the wrong thing to do and yes, my results right now confirm it. I'd have been far better off buying pullbacks.
 
-![AREC](images/image-1317.png)
+![AREC](../images/image-1317.png)
 
 Would've been better off shorting these stocks the day after their large volume breakouts.
 
-![AREC](images/image-1318.png)
+![AREC](../images/image-1318.png)
 
 Seems like a climax top.
 
-![CRML](images/image-1319.png)
+![CRML](../images/image-1319.png)
 
 Would have made pretty good daytrades. In fact the ORB would have cleaned up on them.
 
 Maybe holding till the close would have been ideal, but it'd have been way better than losing 10%.
 
-![CRLM](images/image-1320.png)
+![CRLM](../images/image-1320.png)
 
 These 2 down days look like the classic right side of the V.
 
-10:20am. ![MSTR](images/image-1321.png)
+10:20am. ![MSTR](../images/image-1321.png)
 
 Pre market it's down 4% now.
 
-![BTCUSD](images/image-1322.png)
+![BTCUSD](../images/image-1322.png)
 
 That's because Bitcoin is getting wrecked.
 
-![BTC](images/image-1323.png)
-![BTC](images/image-1324.png)
+![BTC](../images/image-1323.png)
+![BTC](../images/image-1324.png)
 
 Take note of the lower lows. This would have gotten me out according to the 2 week system.
 
@@ -15649,38 +15649,38 @@ Given the bullish sentiment prior to this, and how the breakout above 120 seems 
 
 10:30am. Yeah, I need a break from the markets.
 
-![VXX](images/image-1325.png)
+![VXX](../images/image-1325.png)
 
 VIX is going up.
 
-![NVDA](images/image-1326.png)
+![NVDA](../images/image-1326.png)
 
 NVDA is the most important stock in the market where it goes, so will the market.
 
-10:40am. ![biz](images/image-1327.png)
+10:40am. ![biz](../images/image-1327.png)
 
 It's not like I even anticipated this. It's just that I didn't see much edge being in the market when it's this bullish. There was a lot of risk of losing.
 
-![](images/image-1328.png)
-![](images/image-1329.png)
+![](../images/image-1328.png)
+![](../images/image-1329.png)
 
 > This but in reverse.
 
-![](images/image-1330.png)
+![](../images/image-1330.png)
 
 > It wasn't brains that got me here. I can assure you of that.
 
 Lol.
 
-![](images/image-1331.png)
+![](../images/image-1331.png)
 
 This is funny, but I am so tired.
 
-![](images/image-1332.png)
+![](../images/image-1332.png)
 > Deaths. Deaths are coming.
 
-10:55am. ![](images/image-1333.png)
-![](images/image-1334.png)
+10:55am. ![](../images/image-1333.png)
+![](../images/image-1334.png)
 
 I wrote this last one.
 
@@ -15688,7 +15688,7 @@ You know, maybe I am not that bad as a trader as it seems. Sure I fucked up and 
 
 So I might be able to do okay long term if I can get my shit together.
 
-![](images/image-1335.png)
+![](../images/image-1335.png)
 
 Fun.
 
@@ -15719,7 +15719,7 @@ How to PROFIT from market crashes (Survive & Thrive)
 
 Let me watch this while I have breakfast. The bigger lesson from all of this is that if I had a daytrading system, I could have profited from some of these rises. But if I am going to be daytrading, that's a full time job, and I wanted something I could do part time.
 
-12:20pm. ![](images/image-1336.png)
+12:20pm. ![](../images/image-1336.png)
 
 Wow, really? 5x levered ETFs for single stocks?
 
@@ -15763,14 +15763,14 @@ Just forget about the market, focus on the poker bot.
 
 If any good thing came from this week's trading episode it will be that I'll be able to ignore the market better going into the future.
 
-![](images/image-1337.png)
+![](../images/image-1337.png)
 
 I posted that article a few times.
 
 https://www.ft.com/content/094ebfb0-bbd8-42c4-9e93-0116d1f896de?sharetype=blocked
 Short sellers blame retail investors for worst returns since 2020
 
-![](images/image-1338.png)
+![](../images/image-1338.png)
 
 RGTI's CEO sold all his stock according to this comment. Smart guy.
 
@@ -15779,23 +15779,23 @@ Top Wall St Trader Discusses - IS THE TOP IN FOR MARKET FROTH!? ($OKLO, $QBTS, $
 
 Here is Lance.
 
-![ALAB](images/image-1339.png)
+![ALAB](../images/image-1339.png)
 
 Look at that breakout in the middle and how the next day it poked out the lows.
 
-![ALAB](images/image-1340.png)
+![ALAB](../images/image-1340.png)
 
 This is so ridiculous. The tight stops aren't protecting me at all.
 
-![ALAB](images/image-1341.png)
+![ALAB](../images/image-1341.png)
 
 Getting poked out of that trade might mean the difference between losing 10% and making 100%. All because you couldn't give it a week or two to let the trend manifest.
 
-![APP](images/image-1342.png)
+![APP](../images/image-1342.png)
 
 Breakout, shakeout and then a large move.
 
-![APP](images/image-1343.png)
+![APP](../images/image-1343.png)
 
 Yeah, I've decided. Forget putting the stops on daily lows. I need to put them on 2 week lows, which means they will be decently away from any gap pokes.
 
@@ -15807,11 +15807,11 @@ And having them be at 2 week lows will make me more realistic about how I am siz
 
 Very insightful commentary. His reasoning why OKLO might not have topped makes sense.
 
-![](images/image-1344.png)
+![](../images/image-1344.png)
 
 Lol'd at this tweet.
 
-2pm. ![](images/image-1345.png)
+2pm. ![](../images/image-1345.png)
 
 I am really struggling right now.
 
@@ -15823,7 +15823,7 @@ The risk vs reward is just so crazy for some of these trades.
 
 You can make 10 times your risk in a single day, meanwhile with the 2 week system, you'd be lucky if you could do that in a few months.
 
-![IONQ](images/image-1346.png)
+![IONQ](../images/image-1346.png)
 
 Just take a look at this breakout.
 
@@ -15833,14 +15833,14 @@ The real problem is that I've been looking forward to trying out ORBs in order t
 
 It absurd that I got stopped out so many times before the market even broke.
 
-![](images/image-1347.png)
+![](../images/image-1347.png)
 > If you're not looking at CRML, you're doing yourself an injustice.
 
-2:15pm. ![](images/image-1348.png)
+2:15pm. ![](../images/image-1348.png)
 
 Looked at where it is premarket.
 
-![ABAT](images/image-1349.png)
+![ABAT](../images/image-1349.png)
 
 Bad idea to hold this when it breaks prior lows.
 
@@ -15858,14 +15858,14 @@ I think in an uptrend it is something like 70-80% chance that the weekly lows wi
 
 4:25pm. I have an idea for how to make this system work...
 
-4:35pm. ![EURUSD](images/image-1350.png)
+4:35pm. ![EURUSD](../images/image-1350.png)
 
 I started out with forex come to think of it. I changed to stock trading pretty rapidly.
 
 If I look at the chart and consider how the 2 week system would have worked, the answer would be horribly.
 
-![FCT](images/image-1351.png)
-![FCT](images/image-1352.png)
+![FCT](../images/image-1351.png)
+![FCT](../images/image-1352.png)
 
 These high/low charts are so good. They make it to eyeball how a trend following system would have done.
 
@@ -15885,15 +15885,15 @@ I could go up to 200% and 300% long with this kind of system if all my positions
 
 4:45pm. During the initial part of the rebound off the lows, the volatility is the highest and the bars would be stretched so I'd size my positions down to compensate for the volatility. And as it contracts and the trend establishes I could size them up to account for the decreased risk.
 
-![](images/image-1353.png)
+![](../images/image-1353.png)
 
 Incidentally, if you look at the bar to the right. I got stopped out of nearly everything.
 
-![](images/image-1354.png)
+![](../images/image-1354.png)
 
 I think I'll use the old 2 week rule for re-establishing positions in the same stock, but really, I'd be much better off looking for different candidates instead. Getting stopped out at a 2 week low means the stock has weak momentum to begin with. Realistically, even a 1 week system should be enough let alone the 2 week one.
 
-![BBAI](images/image-1355.png)
+![BBAI](../images/image-1355.png)
 
 This whole episode make me realize that I should absolutely ignore where the stock is closing and what it's been doing during the day. Rather, the upthrust and the volume is what is important.
 
@@ -15911,11 +15911,11 @@ I'll have time to think about it.
 
 7:45pm. Done with lunch.
 
-![COAI/USDT](images/image-1356.png)
+![COAI/USDT](../images/image-1356.png)
 
 I remembered this token and looked up how it's doing. Ok, maybe Tim Sykes' strategy would work on these tokens. This is batshit insanity. I thought the move from 0.2 to 2 was extreme, but these crypto tokens exceed my wildest expectations.
 
-![COAI/USDT](images/image-1357.png)
+![COAI/USDT](../images/image-1357.png)
 
 Here is the daily.
 
@@ -15924,25 +15924,25 @@ ChainOpera Crash Soon? 💀 COAI Crypto Token Analysis
 
 Timely vid. I wonder why it didn't get cracked during the crypto liquidation?
 
-![](images/image-1358.png)
+![](../images/image-1358.png)
 
 Huh, what? Ah, maybe he is looking at the spot price. Meanwhile I was only posting the futures price.
 
-![OM/USDT](images/image-1359.png)
+![OM/USDT](../images/image-1359.png)
 
 This is how it looked like when the liquidation of OM started.
 
-![OM/USDT](images/image-1360.png)
+![OM/USDT](../images/image-1360.png)
 
 It's a scam token similar to COAI. My guess is that the liquidation of COAI won't take nearly as long because the interest and the trading volume for it is so high.
 
 The chart reminds me of those Chinese liquidations.
 
-![OM/USDT](images/image-1361.png)
+![OM/USDT](../images/image-1361.png)
 
 My weekly system would have worked well to get me out far in advance. Not that I'd ever trade shit like this to begin with.
 
-8:35pm. ![](images/image-1362.png)
+8:35pm. ![](../images/image-1362.png)
 
 This is a good question. Why do I want to trade?
 
@@ -15963,7 +15963,7 @@ I just want to do my best this time around.
 
 Because I've already failed at trading.
 
-8:40pm. ![EXA](images/image-1363.png)
+8:40pm. ![EXA](../images/image-1363.png)
 
 Instead of outright price stops, maybe having stops that only sell on the close would be better. I remember that being one of Qullamaggie's rules for moving average closes.
 
@@ -16042,19 +16042,19 @@ Hmmm, interesting. I think at some point I'll program such a system, but not rig
 
 I'll risk 3% and gradually bring that up to when I have only 100% invested at most.
 
-![](images/image-1364.png)
+![](../images/image-1364.png)
 
 Hmmmm...yes I am being lazy in how I trade.
 
-![](images/image-1365.png)
+![](../images/image-1365.png)
 
 This is why I need to resume work on the poker bot. I'll give trading a rest for a while.
 
-9:35pm. ![](images/image-1366.png)
+9:35pm. ![](../images/image-1366.png)
 
 They might not be the smartest, but /biz/ posters are definitely the funniest.
 
-10:40pm. ![KRE](images/image-1367.png)
+10:40pm. ![KRE](../images/image-1367.png)
 
 I forgot how batshit insane the KRE ETF was in 2008.
 
@@ -16066,12 +16066,12 @@ Anyway, this is the first crack in the US banking sector.
 
 https://www.reddit.com/r/stocks/comments/1o90opl/moodys_says_the_banking_system_private_credit/
 
-![](images/image-1368.png)
-![](images/image-1369.png)
-![](images/image-1370.png)
-![](images/image-1371.png)
+![](../images/image-1368.png)
+![](../images/image-1369.png)
+![](../images/image-1370.png)
+![](../images/image-1371.png)
 
-![KRE](images/image-1372.png)
+![KRE](../images/image-1372.png)
 
 It's not down that much yet. The bear market hasn't started yet.
 
@@ -16107,13 +16107,13 @@ Also a breakout doesn't have to be to new highs specifically, it can just be a h
 
 Especially if we get 8 updays in a row in stock, once the daily low is broken, that tends to lead to significant declines. It's not worth waiting for the 2 week low to get broken.
 
-![INT](images/image-1373.png)
+![INT](../images/image-1373.png)
 
 Take INT for example. It had a huge trending move and then retraced nearly the entirety of it. At 8 upweeks in a row, I should at least switch to the 1 week system.
 
 Damn, what happened last week was pure capitulation.
 
-![INT](images/image-1374.png)
+![INT](../images/image-1374.png)
 
 The longs got destroyed.
 
@@ -16139,11 +16139,11 @@ This is kind of hillarious. I just checked it out at random and the art is way b
 
 Right...I need think about one more thing. Should I short the VXX if it spikes 3x or something like that? Yeah, you know what, I'll risk 1% on the right side of the V trades.
 
-![VXX](images/image-1375.png)
+![VXX](../images/image-1375.png)
 
 Meh. Sometimes you get a good setup in VXX, but these spikes have been crap.
 
-![VXX](images/image-1376.png)
+![VXX](../images/image-1376.png)
 
 This one has been good.
 
@@ -16155,11 +16155,11 @@ Yeah....
 
 Ignore VXX. It won't lead to any good trades.
 
-![VXX](images/image-1377.png)
+![VXX](../images/image-1377.png)
 
 Uah...
 
-![VXX](images/image-1378.png)
+![VXX](../images/image-1378.png)
 
 Imagine I shorted here with a stop at the previous day's highs. Not only would I get stopped out, but if I shorted the exact stop afterwards it wuold have taken ages for the trade to turn profitable.
 
@@ -16183,11 +16183,11 @@ Well, whatever. If I miss a few weeks in the market due to that then so be it.
 
 12pm. Sent an email to Thomas to ask about an update. Gave him a little stock trading tutorial on the side.
 
-1:30pm. ![](images/image-1379.png)
+1:30pm. ![](../images/image-1379.png)
 
 Watching some of Lance's old vids. I had no idea that breakout was due to the S&P addition announcement and that high volume day was the actual day of the addition. He says those often turn out to be local highs.
 
-1:45pm. ![](images/image-1380.png)
+1:45pm. ![](../images/image-1380.png)
 > This is the definition of finding excess edge by moving into stocks.
 > This is why forex to some degree is mostly bullshit.
 > Futures to some degree are mostly bullshit.
@@ -16196,7 +16196,7 @@ Lance is god. I should be watching all of his vids.
 
 Let me finish this and I'll do my exercises and the chores.
 
-1:55pm. ![](images/image-1381.png)
+1:55pm. ![](../images/image-1381.png)
 > This is a very late stage bull market.
 > My feed used to be politics. I don't know how, but my feed now is people posting mostly their year to date returns.
 
@@ -16205,19 +16205,19 @@ https://youtu.be/i4D7WNkB1MI?t=1943
 
 This review video is way more interesting than I thought it would be.
 
-![](images/image-1382.png)
+![](../images/image-1382.png)
 > This is not the chart you see at the early stages of a bull market.
 
 Let's hope it lasts for a good while longer. Maybe it will have another leg or two.
 
 I didn't fail in 2025. I was simply too busy to trade properly. I failed in 2007 - 2014. I didn't learn the proper methods.
 
-![](images/image-1383.png)
+![](../images/image-1383.png)
 > I am infinitely more scared to play this stock than I am to play IONQ.
 
 Wow, that was a really good call.
 
-![](images/image-1384.png)
+![](../images/image-1384.png)
 > This chart equals shitty.
 
 I didn't lose money on QUBT, but I probably would have gambled on the breakout just to test out the new system and had lost it.
@@ -16228,21 +16228,21 @@ Oh, yeah, I remember in the Hedge Fund Market Wizards, one of the traders said t
 
 2:20pm. Yeah, when buying volume breakouts, I have to remember to do that only on the clean charts. Clean charts show low volatility and large swings relative to that volatility.
 
-![SMR](images/image-1385.png)
-![MP](images/image-1386.png)
-![ASPI](images/image-1387.png)
+![SMR](../images/image-1385.png)
+![MP](../images/image-1386.png)
+![ASPI](../images/image-1387.png)
 
 I think these are decetly clean.
 
-![QUBT](images/image-1388.png)
+![QUBT](../images/image-1388.png)
 
 Hmmmm, I don't think QUBT is actually that bad, but the exploding volatility needs to go away. It's too volatile compared to something like...
 
-![QBTS](images/image-1389.png)
+![QBTS](../images/image-1389.png)
 
 It's similar to how QBTS was back in July. QUBT could tighten up the pattern and go through a volatility contraction. Then I can go long momentum on it. Maybe it will get accumulated during the upcoming correction and then break out properly?
 
-![NVDA](images/image-1390.png)
+![NVDA](../images/image-1390.png)
 > This had news, it could have broken out and we didn't.
 > This breakout so far, we've gone nowhere.
 > This is kind of a sign.
@@ -16277,7 +16277,7 @@ I hope we get another upleg in this crazy bull market after a panic reset, becau
 
 ///
 
-![](images/image-1391.png)
+![](../images/image-1391.png)
 
 It's official. I am a fan of Lance. Let me do some exercise.
 
@@ -16288,13 +16288,13 @@ Private Equity’s Quiet Crisis!
 
 Here is more Patrick Boyle.
 
-![](images/image-1392.png)
+![](../images/image-1392.png)
 
 7:30pm. The banks making loans to the PE firms are screwed.
 
-![](images/image-1393.png)
+![](../images/image-1393.png)
 
-7:40pm. ![](images/image-1394.png)
+7:40pm. ![](../images/image-1394.png)
 
 Weird, didn't I already watch this video?
 
@@ -16306,7 +16306,7 @@ Yeah, the bull market won't end just like that.
 
 We'll have a panic, I'll risk 3% of my account, if that works, I'll keep increasing my risk and ride the next wave up. In the meantime I'll work on the poker bot.
 
-![](images/image-1395.png)
+![](../images/image-1395.png)
 
 I absolutely need to learn what he says about consolidations. It trends nicely during the initial part and then it starts getting choppy. That breakout at around 10:10am he says he isn't interested in due to lack of consolidation.
 
@@ -16320,29 +16320,29 @@ A large part of my plan is still ambiguous it seems.
 
 Maybe I should just avoid the breakout days until I get a better sense for what I am doing. Deciding over the weekend might make it a bit safer and give me time to think.
 
-8:05pm. ![GEV](images/image-1396.png)
+8:05pm. ![GEV](../images/image-1396.png)
 
 A system that could be particularly powerful and simple to use would be prior weekly bar low, and only sell if it closes below the low.
 
-![EXA](images/image-1397.png)
+![EXA](../images/image-1397.png)
 
 I have no idea why I never considered this. On something like EXA that could be extremely powerful. It even would have held through the entire April correction!
 
-![NVDA](images/image-1398.png)
+![NVDA](../images/image-1398.png)
 
 Oh wow. Those nasty wicks I've been complaining about?
 
-![NVDA](images/image-1399.png)
+![NVDA](../images/image-1399.png)
 
 The system would have caught the entire move from Jan to August.
 
 Insane. The only condition is for it to close below the prior bar low
 
-![APP](images/image-1400.png)
+![APP](../images/image-1400.png)
 
 Holy crap, it even would have caught the APP breakout despite the huge wick.
 
-8:15pm. ![R3NK](images/image-1401.png)
+8:15pm. ![R3NK](../images/image-1401.png)
 
 Oh, I see it now. This is actually a great system.
 
@@ -16350,11 +16350,11 @@ Oh, I see it now. This is actually a great system.
 
 8:50pm. ...No, I don't think I do after all. I like locking in profits.
 
-![CRWV](images/image-1402.png)
+![CRWV](../images/image-1402.png)
 
 It would get you utterly destroyed on some types of trades.
 
-![CRWV](images/image-1403.png)
+![CRWV](../images/image-1403.png)
 
 They are similar systems, but they differ strongly when it comes to edge cases.
 
@@ -16399,13 +16399,13 @@ Warren Buffett’s Most Iconic Interview Ever
 
 Surprised how more fuild Warren was when he was younger. In his recent interview he keeps stuttering, but here he speaks quickly and without pauses.
 
-10pm. ![](images/image-1404.png)
+10pm. ![](../images/image-1404.png)
 
 Got this book from Libgen. I'll take a look at it.
 
 This is the joy of being free. You're free to explore and let your interests guide you. You don't have grind out something or the other.
 
-10:40pm. ![](images/image-1405.png)
+10:40pm. ![](../images/image-1405.png)
 
 This is my first time seeing Paul Tudor Jones. I only read his interview in the Market Wizards book. Didn't expect he'd be still active.
 
@@ -16441,21 +16441,21 @@ Delayed reaction Episodic Pivots
 https://youtu.be/ieKRxpoh_1c
 How to enter Episodic Pivots
 
-![FIP](images/image-1406.png)
+![FIP](../images/image-1406.png)
 
 This is pretty good setup.
 
-![PGEN](images/image-1407.png)
-![PGEN](images/image-1408.png)
-![PGEN](images/image-1409.png)
+![PGEN](../images/image-1407.png)
+![PGEN](../images/image-1408.png)
+![PGEN](../images/image-1409.png)
 
 Here is the big breakout.
 
-![PGEN](images/image-1410.png)
+![PGEN](../images/image-1410.png)
 
 Ah, so it was an FDA approval.
 
-![PRM](images/image-1411.png)
+![PRM](../images/image-1411.png)
 
 It might be worth keeping an eye on.
 
@@ -16464,8 +16464,8 @@ Drawdowns are function of setup you select
 
 Interesting talk. Let me watch the episodic pivot videos as I said I would.
 
-![](images/image-1412.png)
-![](images/image-1413.png)
+![](../images/image-1412.png)
+![](../images/image-1413.png)
 
 Yeah, it's tricky how that happens.
 
@@ -16475,38 +16475,38 @@ Yes, that has been my observation. That's why I hate trading earnings breakouts.
 
 But he is saying that after it consolidates for a month or two, then it starts going up smoothly. Yeah, I think I wrote that exact thing in this journal.
 
-![](images/image-1414.png)
-![](images/image-1415.png)
-![](images/image-1416.png)
-![](images/image-1417.png)
-![](images/image-1418.png)
+![](../images/image-1414.png)
+![](../images/image-1415.png)
+![](../images/image-1416.png)
+![](../images/image-1417.png)
+![](../images/image-1418.png)
 
 Yeah, that is exactly how it is. It's why I wasn't getting anywhere a decade ago.
 
-![](images/image-1419.png)
-![](images/image-1420.png)
-![](images/image-1421.png)
-![](images/image-1422.png)
-![](images/image-1423.png)
+![](../images/image-1419.png)
+![](../images/image-1420.png)
+![](../images/image-1421.png)
+![](../images/image-1422.png)
+![](../images/image-1423.png)
 
 > Many EP offers a better and lower risk entry post the Episodic Pivots.
 
 This is the video description. Ok...
 
-10:35am. ![](images/image-1424.png)
+10:35am. ![](../images/image-1424.png)
 
 11am. 
 
-![PRM](images/image-1425.png)
+![PRM](../images/image-1425.png)
 
 This earnings reaction was beyond crazy.
 
-![PRM](images/image-1427.png)
-![PRM](images/image-1426.png)
+![PRM](../images/image-1427.png)
+![PRM](../images/image-1426.png)
 
 Oh wow. This is the kind of EP I'd expect to go up a lot too. I'd get completely fucked on it.
 
-![](images/image-1428.png)
+![](../images/image-1428.png)
 
 I keep seeing these reversal patterns and they work very well.
 
@@ -16558,15 +16558,15 @@ https://youtu.be/LeDXXOHsUYI?t=454
 
 11:45am. Let me go have breakfast.
 
-![NEM](images/image-1429.png)
+![NEM](../images/image-1429.png)
 
 Wow, these really broke out cleanly.
 
-![NEM](images/image-1430.png)
+![NEM](../images/image-1430.png)
 
 They would have stopped me out post the earnings day.
 
-![GOLD](images/image-1431.png)
+![GOLD](../images/image-1431.png)
 
 Ok, enough. I am just wasting my time looking at the charts.
 
@@ -16691,7 +16691,7 @@ There are all kinds of ways to make big money in the market that don't involve s
 
 Those news trading examples Lance showed me were quite something.
 
-![](images/image-1432.png)
+![](../images/image-1432.png)
 
 Let me watch this. Some of the products this guy sells are trash, but he does interesting analysis. I bet he makes bank.
 
@@ -16707,11 +16707,11 @@ I might be mad at the dumbass founders, but they sold a company to investors for
 
 Sure they'll get cleaned out in the upcoming crypto crash, but for a moment they cracked the code.
 
-![](images/image-1433.png)
+![](../images/image-1433.png)
 
 Wow, half the traders got wiped out on Hyperliquid. And they are coming back for more it seems?
 
-![](images/image-1434.png)
+![](../images/image-1434.png)
 
 It'd really be great if we could have charts like these in stocks. It sounds like it could be a great indicator.
 
@@ -16725,7 +16725,7 @@ For real money, I should create a real system in the future. No matter how I tra
 
 Take a look at Barron Trump. 19 and has a net worth of 150 million. How many Dan Zangers would it take to match him?
 
-3:45pm. ![](images/image-1435.png)
+3:45pm. ![](../images/image-1435.png)
 > Humans hallucinating about AI.
 
 It's not the AI that's hallucinating. It's the humans. Top comment.
@@ -16760,7 +16760,7 @@ Entrepreneurship Expert: How To Build A $1m Business Without Hard Work!
 
 Tomorrow I will focus on what I am really good at.
 
-![TLT](images/image-1436.png)
+![TLT](../images/image-1436.png)
 
 This is interesting. When I looked at forex it was crap, but treasuries have good 2 week trends. I was thinking for a while whether to put my money into treasuries.
 
@@ -16778,17 +16778,17 @@ But I'd have to trade through the bot then instead of through the charts. It mig
 
 5pm. Regarding the poker bot, I keep looking at my stash as unecessary, but really, how long would it take me to get from say 50$ to 100k assuming the bot's winare is 2bb/100? Wait, I have to have it wrong. 2bb/100 seems a lot. I'll ask ChatGPT about it.
 
-![](images/image-1437.png)
-![](images/image-1438.png)
-![](images/image-1439.png)
-![](images/image-1440.png)
-![](images/image-1441.png)
+![](../images/image-1437.png)
+![](../images/image-1438.png)
+![](../images/image-1439.png)
+![](../images/image-1440.png)
+![](../images/image-1441.png)
 
 Wow, it would take 2 years for somebody good playing 2k hands a month. Holy crap. I was assuming it would be a lot quicker than that.
 
-![](images/image-1442.png)
-![](images/image-1443.png)
-![](images/image-1444.png)
+![](../images/image-1442.png)
+![](../images/image-1443.png)
+![](../images/image-1444.png)
 
 I see. So I'd have to start it out at NL200. That bb of 2$. 200 stakes. It would require a bankroll of about 5k for 25 buyins.
 
@@ -16796,8 +16796,8 @@ It would have been difficult before, but now I just have about enough.
 
 Keep in mind this is just on a single platform. On multiple platforms, I might need far more bankrolls.
 
-![](images/image-1445.png)
-![](images/image-1446.png)
+![](../images/image-1445.png)
+![](../images/image-1446.png)
 
 Ah, fuck screenshotting all of this. Let me just paste it. This reply is hillarious. I am laughing here.
 
@@ -17158,17 +17158,17 @@ Would you like me to rerun it assuming the bot is **slightly exploitative** (e.g
 
 It seems copying just the text leave out the charts.
 
-![](images/image-1447.png)
+![](../images/image-1447.png)
 
 As you can see it screwed them up.
 
 This is weird. It feels far too slow. Let me calculate it in Python. Or actually, let me write an F# script.
 
-![](images/image-1448.png)
+![](../images/image-1448.png)
 
 So it would take 1m hands to get to 60k at NL200, or 5 months.
 
-![](images/image-1449.png)
+![](../images/image-1449.png)
 
 This chart is obviously messed up.
 
@@ -17182,7 +17182,7 @@ ABSOLUTE CINEMA - Girls Frontline 2 | Spark Of Sin ALL Cutscenes
 
 I think reinstall GF2 just so I can watch the cutscenes.
 
-8:15pm. ![](images/image-1450.png)
+8:15pm. ![](../images/image-1450.png)
 
 You know, maybe I should put my preconceptions aside, and have ChatGPT help me trade.
 
@@ -17192,7 +17192,7 @@ What a letdown given how good Reverse Collapse was. Reverse Collapse is a 10/10 
 
 10/20/2025
 
-9:50am. ![](images/image-1451.png)
+9:50am. ![](../images/image-1451.png)
 
 Let me do my morning chilling and then I will get started. This guy in the screenshot is right by the way.
 
@@ -17216,33 +17216,33 @@ I need to focus on just how good that will be.
 
 11:20am. I've decided.
 
-![PRM](images/image-1452.png)
+![PRM](../images/image-1452.png)
 
 These types of reversals like in PRM here and RHM in the past are such strong buy signals. Even if I get stopped out on them, I should just buy back in the same day with a stop at the lows.
 
 It will add some to my bottom line in the long haul. They happen very rarely, but when they do....
 
-![APP](images/image-1453.png)
+![APP](../images/image-1453.png)
 
 They work really well.
 
-![APP](images/image-1454.png)
+![APP](../images/image-1454.png)
 
 Here is how they look like intraday. It's best if they are preceeded by a breakout.
 
 11:30am. With that rule in place, I am set. Let me start programming. I need to get into the swing of things.
 
-![](images/image-1455.png)
+![](../images/image-1455.png)
 
 The ATR stop loss strategy could be a replacement for Donchian.
 
 Still it's not that much better. The 2 week donchian strategy would have caught the entirety of the move in TASR.
 
-![TASR](images/image-1456.png)
+![TASR](../images/image-1456.png)
 
 The only place it would ever wick you out is here.
 
-![TASR](images/image-1457.png)
+![TASR](../images/image-1457.png)
 
 The rest of the time it would have kept you in for the entirety of the move.
 
@@ -17250,7 +17250,7 @@ Yeah this is it.
 
 The strategy that can catch all of the biggest winners.
 
-![TASR](images/image-1458.png)
+![TASR](../images/image-1458.png)
 
 The breakouts here were so nasty, but never came to the point of violating the 2 weekly lows.
 
@@ -17260,15 +17260,15 @@ I have plenty of that to go around.
 
 I just have to use the simplest strategy that works. Forget ATR. Even a baby could follow the 2 week strategy.
 
-3pm. ![The /biz/ tiers of financial independence.](images/image-1459.png)
+3pm. ![The /biz/ tiers of financial independence.](../images/image-1459.png)
 
 The /biz/ tiers of financial independence.
 
-8:45pm. ![](images/image-1460.png)
+8:45pm. ![](../images/image-1460.png)
 
 This guy developed an ATR based indicator that also takes into account the speed and direction.
 
-8:50pm. ![](images/image-1461.png)
+8:50pm. ![](../images/image-1461.png)
 
 The fear that was there yesterday might as well never been there. The market just keeps grinding higher.
 
@@ -17289,13 +17289,13 @@ Once the market sets up, I'll do it with real money and pyramid on the way up.
 
 I will admit, I was impressed by the ATR trailing stops. There is something to them.
 
-![MP](images/image-1462.png)
+![MP](../images/image-1462.png)
 
-![AXON](images/image-1463.png)
+![AXON](../images/image-1463.png)
 
 I guess whether it would have caught TASR is always the true test.
 
-9:45pm. ![NVDA](images/image-1464.png)
+9:45pm. ![NVDA](../images/image-1464.png)
 
 It's actually very good at catching long term trends. Pradeep calls them duration moves.
 
@@ -17372,7 +17372,7 @@ If you didn't have the poker botting path, then it might be reasonable to trade 
 
 You know...
 
-![RHM](images/image-1465.png)
+![RHM](../images/image-1465.png)
 
 Maybe I ended up losing money on the euro defense stock trades. But I did 10/10 on predicting my own reaction to market movements.
 
@@ -17386,11 +17386,11 @@ Conviction! Perseverance! Pursuit!
 
 6:40pm. Another good session today.
 
-![CRWV](images/image-1466.png)
+![CRWV](../images/image-1466.png)
 
 CRWV stopped me out.
 
-![](images/image-1467.png)
+![](../images/image-1467.png)
 
 The fact that the market keeps going up and yet my paper trading porfolio is going down proves that something isn't right.
 
@@ -17398,17 +17398,17 @@ My intuition just keeps saying to stay away.
 
 The daily lows strategy should work in the beginning stages of a bull market. But I haven't been using it for a long time so I am not sure if I am being smashed due to simply trading the wrong stocks.
 
-![](images/image-1468.png)
+![](../images/image-1468.png)
 
 I think I might just want to get the CSP full version before closing the company. I am only using it for thumbnails, but that's useful enough.
 
 Or I could just give Krita a try, but I don't want to go through the hassle of switching.
 
-![](images/image-1469.png)
+![](../images/image-1469.png)
 
 I have some leftover coins from the donations to my Patreon account, but as usual Paypal has it locked up. I can never log into my Paypal account, and there is no recourse for it.
 
-![](images/image-1470.png)
+![](../images/image-1470.png)
 
 Thanks to my fans for sponsoring Simulacrum: Heaven's Key. Sorry for not writing in a while.
 
@@ -17419,13 +17419,13 @@ Implementing The Enumerative CFR Algorithm For Leduc Poker In Spiral's Host Cuda
 
 Incidentally, here is the link to the latest screencast. I keep forgetting to post these in the journal.
 
-7:30pm. ![](images/image-1471.png)
+7:30pm. ![](../images/image-1471.png)
 
 Goddamit, I don't even feel like watching this right now as I am tired from my programming session.
 
 Let me go take a batch. I'll set the recording on.
 
-9:45pm. ![](images/image-1472.png)
+9:45pm. ![](../images/image-1472.png)
 
 These guys are such salesmen. I'll just let the webinar run again and get the discount in the future.
 
@@ -17441,13 +17441,13 @@ Right now I am hung up on waiting for that panic so I could go long, but if I ha
 
 Having good RR trades come up several times a day is much better than it happening several times per year.
 
-![](images/image-1473.png)
+![](../images/image-1473.png)
 
 10:10am. https://smbtraining.com/cheatsheets
 
 Here they are. This is why I hung around till the end. The scalp radar cheat sheets. I missed the first 40m of the webinar.
 
-![](images/image-1474.png)
+![](../images/image-1474.png)
 
 Ah damn it, I just went to take a bath, but the audio was blocked by this box. It only started once I click on it.
 
@@ -17455,13 +17455,13 @@ Nevermind, I'll have to watch the first 40mins at a later time.
 
 10:15pm. Damn it, if only the weekly momentum strategy didn't have so much volatility to it.
 
-![](images/image-1475.png)
+![](../images/image-1475.png)
 
 Just look at this shit.
 
 10:25pm. Let me go have dinner.
 
-![CRTV](images/image-1476.png)
+![CRTV](../images/image-1476.png)
 
 I get the feeling CRTV will have good follow through. This chart is good. Too bad the market's closed.
 
@@ -17474,7 +17474,7 @@ Holy crap, I can't believe Chris Camillo maxed out his credit card debt to go lo
 
 10:20am. Let me start. I want to do programming. I had time to chill and now is the time to work. I am not sure whether I'll be able to make the next part work so I have to challenge myself. I'll probably manage it, but there is some risk involved.
 
-7:05pm. ![](images/image-1477.png)
+7:05pm. ![](../images/image-1477.png)
 
 Another great programming session today. As for the stock market, I see that it's sending me a message. The message says:
 
@@ -17482,10 +17482,10 @@ Another great programming session today. As for the stock market, I see that it'
 
 Is this really not the market top? What does the momentum screen say?
 
-![](images/image-1478.png)
-![](images/image-1479.png)
-![](images/image-1480.png)
-![](images/image-1481.png)
+![](../images/image-1478.png)
+![](../images/image-1479.png)
+![](../images/image-1480.png)
+![](../images/image-1481.png)
 
 You cannot see the fear in the indices, but momentum stocks are getting absolutely destroyed.
 
@@ -17556,7 +17556,7 @@ I've been playing this game yesterday. For some reason the Save Data mechanic do
 
 Let me start.
 
-10:20am. ![](images/image-1482.png)
+10:20am. ![](../images/image-1482.png)
 
 Let me watch this video. I've posted the MC-CFR video and scheduled the Improving HD CFR one.
 
@@ -17587,7 +17587,7 @@ Walking a little more, the first economist looks at the second and says, "You kn
 
 Lol.
 
-![](images/image-1483.png)
+![](../images/image-1483.png)
 
 Love the comments.
 
@@ -17597,13 +17597,13 @@ https://libeigen.gitlab.io/eigen/docs-nightly/group__TutorialSlicingIndexing.htm
 
 None of this is beyond my ability. I just have to go for it. I have to take the risk of believing in myself.
 
-11:25am. ![](images/image-1484.png)
+11:25am. ![](../images/image-1484.png)
 
 What the hell is happening in CS2? Never heard that you could trade items for real money in it.
 
 Nwm, let me get back to the docs. I need to focus.
 
-11:50am. ![](images/image-1485.png)
+11:50am. ![](../images/image-1485.png)
 
 I don't understand these columnwise and rowwise operations. When ChatGPT showed me how to implement the softmax, after fixing some minor errors, the program worked, but I couldn't understand why that was. That is why I am going through the docs now.
 
@@ -17630,13 +17630,13 @@ No wait, I am wrong. It doesn't matter either way since the probabilities of tak
 
 12:15pm.
 
-![](images/image-1486.png)
+![](../images/image-1486.png)
 
 Taking this nice and easy is the best.
 
 12:20pm. 
 
-![](images/image-1487.png)
+![](../images/image-1487.png)
 
 There isn't much here. Ok, let me stop here so I can have breakfast and then I will revisit that code ChatGPT gave me and see if I can understand it. It did a lot of weird things when calculating the softmax. I might have to ask it to explain certain parts as I go through it step by step.
 
@@ -17649,12 +17649,12 @@ Where To Farm? - DON'T Waste Your TIME or ENERGY!!! [Chaos Zero Nightmare]
 
 So this is why I am losing my Save Data. What a rip-off. I wasted my time in Chaos mode.
 
-![](images/image-1488.png)
+![](../images/image-1488.png)
 > That is why it's not worth mindlessly getting into Chaos to get upgrades.
 
 3:55pm. Let me resume.
 
-![](images/image-1489.png)
+![](../images/image-1489.png)
 
 I need to figure out what this code does.
 
@@ -17664,43 +17664,43 @@ The only part I don't really get is this.
 
 Hmmm....
 
-![](images/image-1490.png)
+![](../images/image-1490.png)
 
 Previously I fixed this by removing the rowwise from the first one.
 
-![](images/image-1491.png)
+![](../images/image-1491.png)
 
 This is one way of doing it, but is replicating the array like this really necessary. Eigen has broadcasting capability. So maybe...
 
-![](images/image-1492.png)
+![](../images/image-1492.png)
 
 Yeah, got it.
 
-![](images/image-1493.png)
+![](../images/image-1493.png)
 
 This makes sense.
 
-![](images/image-1494.png)
+![](../images/image-1494.png)
 
 This works, I just don't know why.
 
-![](images/image-1495.png)
+![](../images/image-1495.png)
 
 What does `array().colwise()` do?
 
-![](images/image-1496.png)
+![](../images/image-1496.png)
 
 Good luck figure out what the template error is.
 
-![](images/image-1497.png)
+![](../images/image-1497.png)
 
 ChatGPT is being retarded as always. It doesn't understand what it's writing.
 
-![](images/image-1498.png)
+![](../images/image-1498.png)
 
 Ah so this works...
 
-![](images/image-1499.png)
+![](../images/image-1499.png)
 
 Ah, I get it. So the array is necessary for the `/` operator to work. I guess you cannot divide a vector by a vector natively. They have to be converted to array views.
 
@@ -17742,7 +17742,7 @@ But for now I'll focus on poker and save my ammunition for situation that really
 
 11:40pm. 
 
-![](images/image-1500.png)
+![](../images/image-1500.png)
 
 I didn't play CZN much today, but I found this really good comment. I had no idea that playing a card rerolls the mental breakdown cards.
 
@@ -17750,7 +17750,7 @@ That is a massive tip.
 
 10/30/2025
 
-9:25am. ![NVDA](images/image-1501.png)
+9:25am. ![NVDA](../images/image-1501.png)
 
 Oh, NVDA is breaking out. Ok, forget the bear perspective. If I cared about trading I'd go long here.
 
@@ -17840,11 +17840,11 @@ Let me take a break while I catch up to Shangri-La. The part I am now on in my p
 
 I just have to make sure not to forget to cancel the subscription next week.
 
-![INCY](images/image-1502.png)
+![INCY](../images/image-1502.png)
 
 Oh yeah, it was on INCY. It had this huge earnings selloff and reversal.
 
-![LASR](images/image-1503.png)
+![LASR](../images/image-1503.png)
 
 Also on LASR because it's having this long sequence of higher lows. It might pop next week on earnings.
 
@@ -17879,25 +17879,25 @@ There is no reason why I couldn't be successful with just this single setup.
 
 1:45pm. The CZN drama is insane.
 
-![](images/image-1504.png)
-![](images/image-1505.png)
+![](../images/image-1504.png)
+![](../images/image-1505.png)
 
 Damn, this is really sad because I really am enjoying the game.
 
-![](images/image-1506.png)
-![](images/image-1507.png)
+![](../images/image-1506.png)
+![](../images/image-1507.png)
 
 The director is saying they are going to rewrite the story entirely.
 
 11/4/2025
 
-8:15pm. ![BTC](images/image-1508.png)
+8:15pm. ![BTC](../images/image-1508.png)
 
 BTC along with my (paper trading) porfolio is sliding into the dirt again.
 
 BTC is a really good risk sentiment indicator. What about NVDA?
 
-![NVDA](images/image-1509.png)
+![NVDA](../images/image-1509.png)
 
 It's doing decently well relative to 2 weeks ago, but is down decently for the day.
 
@@ -17905,13 +17905,13 @@ To be honest, it really bothers me how my portfolio is doing. Why are my picks s
 
 I think I am going to computerize the chart patterns at some point because it doesn't seem like I am contributing much when it comes to stock picks.
 
-10:05pm. ![](images/image-1510.png)
+10:05pm. ![](../images/image-1510.png)
 
 I don't know why, but was very funny.
 
-![](images/image-1511.png)
+![](../images/image-1511.png)
 
-10:15pm. ![](images/image-1512.png)
+10:15pm. ![](../images/image-1512.png)
 
 WSB is hillarious.
 
@@ -17968,20 +17968,20 @@ Not sure what I want to do now.
 https://www.youtube.com/watch?v=nhuWF-8CK1E
 How to Spot & Crush Poker BOTS (Before They Beat You)
 
-![](images/image-1513.png)
+![](../images/image-1513.png)
 
 8:30pm. https://youtu.be/rZ1ij7Za7HA
 Behind the Swings: The Legend of Isildur1
 
 Is Viktor Bloom dead? I hope not. But it sure feels like a documentary on a dead famous person.
 
-9:20pm. ![NVDA](images/image-1514.png)
+9:20pm. ![NVDA](../images/image-1514.png)
 
 Oh my god, I hate these shit breakouts. Even thoug stocks are making new highs, the easy part was definitely during the first 6 months of the rally.
 
 We simply need a proper flush out in order for the market to setup.
 
-![NBIS](images/image-1515.png)
+![NBIS](../images/image-1515.png)
 
 NBIS really got dipped.
 
@@ -18003,18 +18003,18 @@ I should put some effort into prowling the OpenHoldem forums.
 
 9:30pm. https://documentation.help/OpenHoldem/
 
-![](images/image-1516.png)
+![](../images/image-1516.png)
 
 Pretty dead forum. The docs aren't loading properly either. The last update on Github was 4 years ago.
 
-![](images/image-1517.png)
+![](../images/image-1517.png)
 
 WTF? Did the author just dump the source on Github and scrammed?
 
 9:50pm. https://youtu.be/f-tEa4dGmEw
 How on earth did I SURVIVE all these CRAZY SWINGS...
 
-![](images/image-1518.png)
+![](../images/image-1518.png)
 
 Oh my god, these AIs are so annoying.
 
@@ -18024,7 +18024,7 @@ Let's try the Venice models.
 
 Venice was the big provider that was supposed to come in on the Morpheus platform and give us the much needed customers at Tao Ceti, but then they bailed. I guess they decided to just run their own models.
 
-![](images/image-1519.png)
+![](../images/image-1519.png)
 
 At least it's not complaining about this being illegal.
 
@@ -18075,8 +18075,8 @@ https://pokerbrosi-bot-ai.com/
 
 ///
 
-![](images/image-1520.png)
-![](images/image-1521.png)
+![](../images/image-1520.png)
+![](../images/image-1521.png)
 
 I guess I'll have to give OpenHoldem a try.
 
@@ -18086,11 +18086,11 @@ Without a doubt it's this. It's linked in the references section.
 
 10:20pm. The docs are working just fine now.
 
-10:25pm. ![](images/image-1522.png)
+10:25pm. ![](../images/image-1522.png)
 
 This is good advice. I should stay away from Stars and other monolithic sites at the beginning. The other sites will probably be softer too.
 
-![](images/image-1523.png)
+![](../images/image-1523.png)
 
 The life of a poker botter sounds harsh. I admit, I wanted to start on Stars.
 
@@ -18103,7 +18103,7 @@ Also today I learned that the online poker economy is only 6 billion. That's pre
 
 12:05pm. Whatever. I'll try small sites, big sites. If I get banned here or there it's not a big deal as long as I can beat the variance.
 
-![](images/image-1524.png)
+![](../images/image-1524.png)
 
 11/8/2025
 
@@ -18200,7 +18200,7 @@ Maybe also this.
 
 11/13/2025
 
-12:15pm. ![](images/image-1525.png)
+12:15pm. ![](../images/image-1525.png)
 
 > One weird thing about software development is that there are plenty of things which motivated individual developers can achieve which large companies can't even write the requirements for, let alone achieve.
 
@@ -18208,7 +18208,7 @@ I'll keep this quote in mind.
 
 11/14/2025
 
-12:40pm. ![](images/image-1526.png)
+12:40pm. ![](../images/image-1526.png)
 
 Finally fear is coming into the market. I am using Reddit /r/stocks as a sentiment indicator and when people are saying don't fold, you know deep down they are scared.
 
@@ -18216,11 +18216,11 @@ Incidentally, I just made the request to pull all my money from my trading accou
 
 I'll have to make a judgement call if I want to trade the biweekly momentum after the next market panic.
 
-![](images/image-1527.png)
+![](../images/image-1527.png)
 
 I've been losing money hand over fist over the past month in my paper trading account.
 
-![](images/image-1528.png)
+![](../images/image-1528.png)
 
 Down to 75k. Impressive.
 
@@ -18232,11 +18232,11 @@ I don't want to sell stocks short, but paper trading long to get in tune with th
 
 11/16/2025
 
-10:15am. ![](images/image-1529.png)
+10:15am. ![](../images/image-1529.png)
 
 In my own programming, I seem to be getting fucked over by ML algos all over again. It's the same recurring story over the past 10 years. I am going to try out neural gas, and if that doesn't work, just hand craft the score function. I want to wrap up poker.
 
-8pm. ![](images/image-1530.png)
+8pm. ![](../images/image-1530.png)
 Open RL problems to be solved.
 
 At any rate, I've thrown in the towel on the clustering algos. We'll be doing things the old fashioned way from here on out.
@@ -18247,7 +18247,7 @@ This kind of waste of time is as usual for me. I am not going to be scammed by M
 
 My RSI is coming back so I'll keep my writing short.
 
-![](images/image-1531.png)
+![](../images/image-1531.png)
 
 Good posts in this thread.
 
@@ -18280,11 +18280,11 @@ The integer pickler that I did is the world telling me which way I should go.
 
 11:10am. Let me watch that video.
 
-![](images/image-1532.png)
+![](../images/image-1532.png)
 
 200m hands in this database? That is a goldmine depening on your approach. I need to get this.
 
-![](images/image-1533.png)
+![](../images/image-1533.png)
 
 This is great info.
 
@@ -18295,7 +18295,7 @@ This is the video by the way.
 
 Yeah, I need to change my ways. I need to change my approach.
 
-![](images/image-1534.png)
+![](../images/image-1534.png)
 > Pool tends to be very good at "GTO" frequencies on the surface
 > But players fall apart on the rivers and under the mental pressure
 
@@ -18308,14 +18308,14 @@ Amazing content. This is very useful to me.
 
 I am almost done with it.
 
-2pm. ![](images/image-1535.png)
+2pm. ![](../images/image-1535.png)
 > Ignition has 25% of the player base as bots.
 
-![](images/image-1536.png)
+![](../images/image-1536.png)
 
 I wonder if the WPN challenge is still live? Maybe I could take it?
 
-2:15pm. ![](images/image-1537.png)
+2:15pm. ![](../images/image-1537.png)
 
 https://youtu.be/2dWOIMJyEtw
 💀 This Crypto Crash Is Different...
@@ -18361,11 +18361,11 @@ My hands are a good indicator for when I've been going forward too hard.
 
 In fact, my approach to the market will be the same as if I were doing poker. Not the way I've been doing it which is to try to find a ML method, but solely using tabular RL.
 
-1:05pm. ![](images/image-1538.png)
+1:05pm. ![](../images/image-1538.png)
 
 Here are some tools. I'll probably have to get the data from one of these.
 
-1:20pm. ![](images/image-1539.png)
+1:20pm. ![](../images/image-1539.png)
 
 He's setting the step wrong on these slides. `==` is the equality operator.
 5
@@ -18373,11 +18373,11 @@ He's setting the step wrong on these slides. `==` is the equality operator.
 
 It's as good a place as any. I do have a Python backend in Spiral, so that would take care of that need as well, in case they don't have C++.
 
-1:35pm. ![](images/image-1540.png)
+1:35pm. ![](../images/image-1540.png)
 
 What the fuck, is this really it?
 
-![](images/image-1541.png)
+![](../images/image-1541.png)
 
 I think maybe the CloudQuant firm changed it's business model. I could try QuantConnect instead?
 
@@ -18386,12 +18386,12 @@ Backtesting Trading Systems - Everything You Need To Know
 
 Let me watch this.
 
-1:50pm. ![](images/image-1542.png)
+1:50pm. ![](../images/image-1542.png)
 > You'd be surprised how many strategies from books like these just don't work.
 
 I think quant trading is the true technical analysis.
 
-![](images/image-1543.png)
+![](../images/image-1543.png)
 > It gave a 40% improvement in expectancy.
 
 He is talking about stopping out next day on open vs in-market like I am doing in my paper trades.
@@ -18400,7 +18400,7 @@ https://youtu.be/t2ceon0vNZg?t=2031
 
 Here he is talking about trading software. He already mentioned Portfolio123.
 
-![](images/image-1544.png)
+![](../images/image-1544.png)
 
 He is using Norgate and Metastock for data sources.
 
@@ -18417,40 +18417,40 @@ Those SMB Capital setups won't systematize themselves.
 
 I'll start with the VWAP system and the ORB systems and then move from there.
 
-![](images/image-1545.png)
+![](../images/image-1545.png)
 
 I know nothing about options so I'll keep this one in mind.
 
-![](images/image-1546.png)
-![](images/image-1547.png)
+![](../images/image-1546.png)
+![](../images/image-1547.png)
 
 This is worth keeping in mind.
 
-![](images/image-1548.png)
+![](../images/image-1548.png)
 
 He actually has a lot of good suggestions.
 
-![](images/image-1549.png)
+![](../images/image-1549.png)
 
 Linear algebra.
 
-![](images/image-1550.png)
-![](images/image-1551.png)
+![](../images/image-1550.png)
+![](../images/image-1551.png)
 
 3:20pm. https://youtu.be/n5acv8R-lN8
 Neural Networks for Quant Finance
 
 I am interestedin watching this. Let me take the time to do the chores.
 
-3:25pm. ![](images/image-1552.png)
+3:25pm. ![](../images/image-1552.png)
 
 Oh, QuantConnect has an interactive bootcamp. Change of plans. I'll do these tutorials.
 
-4:40pm. ![](images/image-1553.png)
+4:40pm. ![](../images/image-1553.png)
 
 The ORB seems to be a popular strategy unfortunately.
 
-![](images/image-1554.png)
+![](../images/image-1554.png)
 
 I'll start going through this tomorrow.
 
@@ -18459,7 +18459,7 @@ https://youtu.be/n5acv8R-lN8?t=364
 
 I know myself that it won't work, but I am not sure exactly why myself, so I am curious.
 
-![](images/image-1555.png)
+![](../images/image-1555.png)
 
 The reason why it would be a bad idea to use ML to predict prices directly according to Roman Paolucci is because their generating distribution is violently unstable, so the expectation that ML models learn is of little value. I guess that applies to people too.
 
@@ -18480,11 +18480,11 @@ I am going to kill the markets with the perfect hashing pickler. And after I am 
 
 6pm. Let me watch it just a little bit.
 
-![](images/image-1556.png)
+![](../images/image-1556.png)
 
 One of his 3 paths is algorithmic trading. That's not going to be covered in the guide and that is where I am going.
 
-![](images/image-1557.png)
+![](../images/image-1557.png)
 > Algorithmic systematic edges at some point stop working.
 
 Yeah, the same would be true for poker. I'll have to keep in mind that the market is dynamic.
@@ -18494,15 +18494,15 @@ Yeah, the same would be true for poker. I'll have to keep in mind that the marke
 6:45pm. https://youtu.be/QBbKEa52NW8
 Trading Is Becoming an ESPORT — And No One Is Ready
 
-7:45pm. ![](images/image-1558.png)
+7:45pm. ![](../images/image-1558.png)
 
 He says that Alt coins can be traded with market sentiment.
 
-8:10pm. ![](images/image-1559.png)
+8:10pm. ![](../images/image-1559.png)
 
 Actually, I wasn't aware that in the US you could exchange cash for gold in banks as far as 1971.
 
-8:30pm. ![](images/image-1560.png)
+8:30pm. ![](../images/image-1560.png)
 
 This is pretty interesting. But the thing I really have to do is learn to take stats. The thing that made Jesse Livermore successful in the bucket shops. I need to learn to count the moves.
 
@@ -18510,7 +18510,7 @@ I am going to look for patterns and see if I can find where momentum follows thr
 
 I know what the big challenge of it is.
 
-![](images/image-1561.png)
+![](../images/image-1561.png)
 
 This is really good info. I had no idea markets followed these kinds of cycles so closely.
 
@@ -18520,7 +18520,7 @@ At this rate I'll watch the entirety of this video today.
 
 Let me add it to the readme.
 
-9:35pm. ![](images/image-1562.png)
+9:35pm. ![](../images/image-1562.png)
 
 Wow, great call.
 
@@ -18534,7 +18534,7 @@ I need to rewatch this stuff about the gold. I didn't really get why it's moving
 
 Ah because of real yields. When real yields are low then gold rallies as an inflation hedge.
 
-![](images/image-1563.png)
+![](../images/image-1563.png)
 
 Oh, so he is putting 5 year yields minus 5 year inflation rates. I had no idea you could do that on TradingView.
 
@@ -18562,38 +18562,38 @@ During the first month I worked Saturdays and Sundays to prove myself, but hones
 
 11:45am. Made a dentist's appointment tomorrow at 3pm. I guess I'll be out during that time. My dad's been sick for the past few days, I guess my mom will give me a ride.
 
-12:55pm. ![](images/image-1564.png)
+12:55pm. ![](../images/image-1564.png)
 
 I am going to code up these strategies. I'll also back up the course locally once I am done with it. It'd be a big loss if it was ever taken down. I read Larry Williams' books in the past. Also the one by Toby Crabel. Didn't do me much good.
 
-![](images/image-1565.png)
+![](../images/image-1565.png)
 
 Rule of 4 I've never heard about.
 
-![](images/image-1566.png)
+![](../images/image-1566.png)
 
 Pbd is also new to me.
 
-1:55pm. ![](images/image-1567.png)
+1:55pm. ![](../images/image-1567.png)
 > All of this is combined not as big as the option market.
 
 When did options become so huge. I don't know how to trade them at all though. It's really good that this course has a section on options.
 
-2:05pm. ![](images/image-1568.png)
+2:05pm. ![](../images/image-1568.png)
 
 Option strat, long call strategy. This could be useful for me. I did say repeatedly, that unlike with regular stocks where you can pick points on a chart to get a sense of how a strategy would have worked, with options it's much harder to backtest it by hand.
 
-2:30pm. ![](images/image-1569.png)
+2:30pm. ![](../images/image-1569.png)
 
 Yeah, I already showcased GEX in this journal. I learned about it from Andrea.
 
 https://youtu.be/KfjjHv7DB8o?t=17343
 
-![](images/image-1570.png)
+![](../images/image-1570.png)
 
 This is new. He is talking about the effect of 0DTEs on the market.
 
-![](images/image-1571.png)
+![](../images/image-1571.png)
 
 This is amazing.
 
@@ -18605,11 +18605,11 @@ The only weakness is that I don't really think the macro stuff has much to do wi
 
 I am thinking how it would be under a perfect hashing scheme and it should be more...
 
-![](images/image-1572.png)
+![](../images/image-1572.png)
 
 Yeah, the preflop is 18 as expected.
 
-![](images/image-1573.png)
+![](../images/image-1573.png)
 
 270 states on the flop in total.
 
@@ -18617,7 +18617,7 @@ Yeah, here it seems I am counting infosets for both players, but that is fine.
 
 90 states for each of the community card.
 
-![](images/image-1574.png)
+![](../images/image-1574.png)
 
 Here are the 30 states isolated to just the King. Why 30? Let me study it.
 
@@ -18644,15 +18644,15 @@ That is 3. Because pl 0 is the first to go. The other player gets the rest.
 
 So there are only 5 possibilities for every action.
 
-![](images/image-1575.png)
+![](../images/image-1575.png)
 
 Hmmm, what if I filtered out the triplicates?
 
-![](images/image-1576.png)
+![](../images/image-1576.png)
 
 Let me think about this. Why aren't there 18 possible preflop states represented here?
 
-![](images/image-1577.png)
+![](../images/image-1577.png)
 
 I think I got it. The perfect hashing schem I had in mind would have some states that that unrepresentable.
 
@@ -18697,13 +18697,13 @@ https://github.com/QuantConnect/Lean
 
 Hmmm, QuantConnect has this platform which is based on .NET. I could't find a way to use F# with it, but nwm that.
 
-7:35pm. ![](images/image-1578.png)
+7:35pm. ![](../images/image-1578.png)
 
 Quantpedia. I'll keep it in mind. Let me finish this vid and I'll take a bath.
 
 Yeah, maybe just coding in isolation for a few weeks would do me good. I don't need to Youtube everything.
 
-7:55pm. ![](images/image-1579.png)
+7:55pm. ![](../images/image-1579.png)
 
 Today BTC finally slipped below 90k and the markets are getting more fun. During days like this I think of how things are at Tao Ceti.
 
@@ -18714,13 +18714,13 @@ I don't get it, why is that a super strong area. There is nothing there basicall
 
 11/20/2025
 
-3:40pm. ![](images/image-1580.png)
+3:40pm. ![](../images/image-1580.png)
 
 I am looking up info on immitation learning in POMDPs.
 
 Despite everything I've said, I haven't completely decided to go into trading. At first I did, but now I am thinking about how I could train an agent to immitate fish, regs and other bots based on some dataset. I have no idea how actually, my best idea is reward shaping currently.
 
-![](images/image-1581.png)
+![](../images/image-1581.png)
 
 Hierarchical policies...
 
@@ -18729,7 +18729,7 @@ I actually don't know much about that.
 https://www.youtube.com/watch?v=K5MlmO0UJtI&list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan
 Hierarchical Reinforcement Learning
 
-![](images/image-1582.png)
+![](../images/image-1582.png)
 
 Oh, here is a RL course that focuses on making a trading bot.
 
@@ -18749,7 +18749,7 @@ https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2
 
 Ah, nwm, somebody backed it up. Udacity botched it completely.
 
-4:10pm. ![](images/image-1583.png)
+4:10pm. ![](../images/image-1583.png)
 
 Nevermind, it's just so more deep learning shit.
 
@@ -18759,7 +18759,7 @@ Let me focus on this playlist.
 
 4:10pm. It's true. When one door closes another opens. Now that I've decided to ditch ML completely in favor of tabular representations that gives me a lot.
 
-![](images/image-1584.png)
+![](../images/image-1584.png)
 
 Belief representation learning. Predictive state representations.
 
@@ -18786,7 +18786,7 @@ This one is by Bertsekas. It has something on POMDPs.
 
 5:05pm. I need to chill. I didn't get to finish the exercises before I went to the dentist, but let me do it right now.
 
-5:50pm. ![NVDA](images/image-1585.png)
+5:50pm. ![NVDA](../images/image-1585.png)
 
 Nvidia is really getting killed intraday.
 
@@ -18810,7 +18810,7 @@ Xi's Silent Scream: $15 Billion Vanishes, and Beijing's Blaming Uncle Sam | Digg
 
 Lel.
 
-10pm. ![NVDA](images/image-1586.png)
+10pm. ![NVDA](../images/image-1586.png)
 
 This NVDA earnings related selloff is unbelievable, it dragged the entire market down 1.5%. It looked so good in the morning too. I'll be quite surprised if this doesn't turn into the rout I was expecting.
 
@@ -18827,7 +18827,7 @@ https://www.reddit.com/r/reinforcementlearning/comments/1p2uz9c/is_there_an_algo
 
 I also made this post, but I am expecting negative feedback.
 
-12:15pm. ![](images/image-1587.png)
+12:15pm. ![](../images/image-1587.png)
 
 He really needs some AC in the classroom. On every video his shirt is damp with sweat.
 
@@ -18843,11 +18843,11 @@ MAXQ
 
 I can't imagine what this will be. Let me have a look.
 
-![](images/image-1588.png)
+![](../images/image-1588.png)
 
 He says that this is an ideally written paper, and that everybody should read it (Max Q Value Function Decomposition).
 
-3:25pm. ![](images/image-1589.png)
+3:25pm. ![](../images/image-1589.png)
 
 Yeah, you know what. I never wanted ML to begin with. What I wanted to learn all along was to understand how a brain like architecture could be programmed effectively.
 
@@ -18892,7 +18892,7 @@ Yeah, maybe that would be a good idea? I guess in that case the tricky part woul
 
 Just how much effort did I put into programming? I can think of ways to deal with this even if it's global tables on the GPU or nested closures on the host.
 
-5:55pm. ![](images/image-1590.png)
+5:55pm. ![](../images/image-1590.png)
 
 Yeah, this is what occured to me. If you only using task specific (pseudo) rewards, there is no way you can achieve hierarchical optimality, only recursive one.
 
@@ -18900,11 +18900,11 @@ But it really depends on how you define the subtasks though. It might be possibl
 
 I am not sure that propagating the core rewards through the entire trace is the way to go.
 
-6pm. ![](images/image-1591.png)
+6pm. ![](../images/image-1591.png)
 
 Wow the notation is confusing. I didn't realize that `i` and `a` are supposed to be subtasks. Ugh, what are the types for all these things supposed to be, I wish they'd write that out.
 
-6pm. ![](images/image-1592.png)
+6pm. ![](../images/image-1592.png)
 
 Is this even Q learning at this point? I guess it is since he's asuming the policy is deterministic.
 
@@ -18980,7 +18980,7 @@ Why All 1 Minute Timeframe Traders Are Broke.
 
 Forget these dumb opinions, but let me see what he says.
 
-![](images/image-1593.png)
+![](../images/image-1593.png)
 
 I feel like this guy is fake.
 
@@ -18998,15 +18998,15 @@ https://www.youtube.com/watch?v=AdxhPj0PDHM&list=PLmH30BG15SIoXhxLldoio0BhsIY84Y
 
 Actually let me go through this from the start.
 
-11:25am. ![](images/image-1594.png)
+11:25am. ![](../images/image-1594.png)
 
 You know, maybe instead of quantizing everything, I could learn a little MPC?
 
-11:30am. ![](images/image-1595.png)
+11:30am. ![](../images/image-1595.png)
 
 So AlphaZero only did offline training for the value net?
 
-11:50am. ![](images/image-1596.png)
+11:50am. ![](../images/image-1596.png)
 
 Ah whatever, let me go through the entire thing.
 
@@ -19037,13 +19037,13 @@ Let me get back to this. Or rather let me pause so I can exercise. My time is go
 
 4:50pm. Done with the exercises. Now this is boring me to death.
 
-5:15pm. ![](images/image-1597.png)
+5:15pm. ![](../images/image-1597.png)
 
 Interesting. It never occured to me to try dynamic programming for the travelling salesman.
 
 5:45pm. Done with lunch. I think it wouldn't be a bad idea if I simply took my time going through the course. I am not in a hurry to start trading. I can afford to take the time to update myself on RL every few years.
 
-6pm. ![](images/image-1598.png)
+6pm. ![](../images/image-1598.png)
 
 They can convert POMDPs to perfect information MDPs?
 
@@ -19068,13 +19068,13 @@ I Sold Puts in TQQQ for 1400 days. Here is What Happened.
 
 10:40am. Let me resume. Time to watch the rest of the lectures. I want to get through this course in the next few days and then I'll start going through the QuantConnect tutorials.
 
-![](images/image-1599.png)
+![](../images/image-1599.png)
 
 I need to go over this from the top. How is it selection the actual actions. I get that the blue lines are only using the nearest neighbor heuristic, but...
 
 11:15am. Ok, I see it. This is actually a pretty interesting method. In fact I'd do something similar for poker.
 
-12:15pm. ![](images/image-1600.png)
+12:15pm. ![](../images/image-1600.png)
 
 Actually, I didn't know this. So for poker, NNs could be used as crutches for rollouts?
 
@@ -19084,7 +19084,7 @@ Yeah, I have a poker plan, but I know that without NNs it wouldn't be good enoug
 
 Mhh...
 
-1pm. ![](images/image-1601.png)
+1pm. ![](../images/image-1601.png)
 
 Let me pause here, I need to take a break. The infinite horizon stuff makes no sense as expected.
 
@@ -19092,21 +19092,21 @@ Surprised that they'd say PI is faster than VI and is Newton's method for comput
 
 4:15pm. Jesus, where does the time go? Let me finally resume.
 
-![](images/image-1602.png)
+![](../images/image-1602.png)
 
 I am having serious difficulty focusing on these parts. Maybe I'll start skimming.
 
-![](images/image-1603.png)
+![](../images/image-1603.png)
 
 What is a Newton step?
 
 I know that it's possible to build a transition matrix and then solve it like in Zap Q algorithm, but I don't see anything beyond that.
 
-4:45pm. ![](images/image-1604.png)
+4:45pm. ![](../images/image-1604.png)
 
 I didn't know about this even though it makes intuitive sense. What this is saying that approx errors in the value net cause exponential errors in the policy.
 
-![](images/image-1605.png)
+![](../images/image-1605.png)
 
 Ah, I often read about these Lyapunov equations, but I never saw what they were.
 
@@ -19114,15 +19114,15 @@ Ah, I often read about these Lyapunov equations, but I never saw what they were.
 
 He is explaining why RL divergence happens in the context of Netwon's method. If you're very far away from the solution, there is no guarantee of convergence, but if you're close enough, you can converge very quickly.
 
-![](images/image-1606.png)
+![](../images/image-1606.png)
 
 Wait what really? Multi step lookehead is equivalent to applying the Riccati operator many times?
 
-5:15pm. ![](images/image-1607.png)
+5:15pm. ![](../images/image-1607.png)
 
 Ah so only the first one is exact. Actually, this is a really good course. I am learning a lot. And gives me time to think on how to structure my approach.
 
-![](images/image-1608.png)
+![](../images/image-1608.png)
 
 It's very impressive how they connected RL to the travelling salesman problem.
 
@@ -19158,11 +19158,11 @@ Lecture 4, 2025, POMDP, Systems with Changing Parameters, Adaptive Control, Mode
 
 Finally got to this point.
 
-11:50pm. ![](images/image-1609.png)
+11:50pm. ![](../images/image-1609.png)
 
 Here he is saying that it's necessary to pay attention to math because you make a coding mistake it's very easy to get figures that look reasonable. Mhhhh...
 
-12:45pm. ![](images/image-1610.png)
+12:45pm. ![](../images/image-1610.png)
 
 I'd express this more as a OR problem than a RL problem.
 
@@ -19175,11 +19175,11 @@ Scalping: An effective and highly profitable trading strategy
 
 Let me watch this and then I'll do exercises and chores.
 
-![](images/image-1611.png)
+![](../images/image-1611.png)
 
 Pradeep says that algorithmic scalping is the hotest business on the Street and I definitely want in. I wonder how I'll deal with tape reading. I'll figure something out.
 
-2:55pm. ![](images/image-1612.png)
+2:55pm. ![](../images/image-1612.png)
 
 I could code these scalping bullet points up. I need to remember this video in the future.
 
@@ -19190,22 +19190,22 @@ I'll leave this for later, I need to do the exercises. I really want to code a s
 
 Sure I want the trend days, but a scalping system would be super effective as well.
 
-3:55pm. ![](images/image-1613.png)
+3:55pm. ![](../images/image-1613.png)
 > 1 Minute Open Range Breakout at market open is my go to scalp play. 1st 1minute candle opening above VWAP ride the upward momentum as momentum stalls I’m out. If pulls back with low volume holds support and momentum picks back up I’m back in for the ride until it stalls.
 
 Need to keep this ORB idea in mind.
 
 4:35pm. Let me resume. The mount of time it takes me to do the chores and exercises is ridiculous.
 
-5pm. ![](images/image-1614.png)
+5pm. ![](../images/image-1614.png)
 
 Wtf, I don't get this shit at all?
 
-![](images/image-1615.png)
+![](../images/image-1615.png)
 
 Ah, I see. `x_k` might be a car speed, and `u_k` is the acceleration. `u_k` is selected by the user. I was thinking of it as some constant. And yeah, if you set x_k so it's a value > 1 then it wouldn't be possible to bring it back to 0 anymore. It's like a car going out of control.
 
-5:10pm. ![](images/image-1616.png)
+5:10pm. ![](../images/image-1616.png)
 
 I only realized that there is a difference between lookahead and rollout during the previous slide. Yeah, it's possible to combine the two. I actually never considered it for poker even though I should have.
 
@@ -19214,7 +19214,7 @@ Lecture 5, 2025, Revisit Finite Horizon DP Problems - Deterministic Rollout and 
 
 Finally done with the first 4 lectures.
 
-![](images/image-1617.png)
+![](../images/image-1617.png)
 
 I like how gung-ho this course is about rollout. None of the other courses were this practical.
 
@@ -19237,31 +19237,31 @@ I think I'll start with the scalping bot since the potential reward is greater t
 
 Found the algo trading subreddit.
 
-![](images/image-1618.png)
+![](../images/image-1618.png)
 
 > My unsolicited take: Momentum returns tend to exhibit catastrophic drawdowns
 
 https://www.sciencedirect.com/science/article/abs/pii/S0927539821000979?utm_source=perplexity
 
-![](images/image-1619.png)
-![](images/image-1620.png)
+![](../images/image-1619.png)
+![](../images/image-1620.png)
 
 This paper seems amazing. It's really great that they are testing it during the 1928-1945 period.
 
 7:40pm. Reading the sub...
 
-![](images/image-1621.png)
+![](../images/image-1621.png)
 
 The posts here are pretty low quality and give a fish feeling. Like the regs here are lost.
 
-![](images/image-1622.png)
+![](../images/image-1622.png)
 
 This is interesting. I think I'd best skip QuantConnect longer term and interface with IBKR directly.
 
 9:35pm. https://youtu.be/DtePicx_kFY
 "I Invented the Transformer. Now I'm Replacing It."
 
-![](images/image-1623.png)
+![](../images/image-1623.png)
 
 Thomas linked me to this talk and it's indeed interesting.
 
@@ -19292,7 +19292,7 @@ Lecture 12 2024; Off-line training with neural nets for approximate VI and PI. A
 
 I am curious what aggregation is.
 
-4:10pm. ![](images/image-1624.png)
+4:10pm. ![](../images/image-1624.png)
 https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=2624
 > There are some really big challenges here.
 
@@ -19302,29 +19302,29 @@ https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=2677
 https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=2794
 > You may see papers that use off policy methods, and there have been some successes, but what you don't see is the enormous amount of failure that people go through with off policy methods. They are notoriously flakey.
 
-![](images/image-1625.png)
+![](../images/image-1625.png)
 
 This last part is interesting to hear about. Parameters converge, but policies don't. It happens in poker, but that's the reason why we average the policies instead.
 
-4:25pm. ![](images/image-1626.png)
+4:25pm. ![](../images/image-1626.png)
 
 I see. So aggreggation is basically what I will be doing. I thought it might be.
 
-4:40pm. ![](images/image-1627.png)
+4:40pm. ![](../images/image-1627.png)
 
 So hard aggreggation is what I'll be doing to be more precise.
 
-5:05pm. ![](images/image-1628.png)
+5:05pm. ![](../images/image-1628.png)
 
 Yeah, this is exactly it. You need domain knowledge, but I do have just the thing for trading.
 
 https://youtu.be/Om45O-JsNHY?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj&t=5051
 
-5:45pm. ![](images/image-1629.png)
+5:45pm. ![](../images/image-1629.png)
 
 Wow, this is pretty cool. I'll give tldraw a try later.
 
-6:35pm. ![](images/image-1630.png)
+6:35pm. ![](../images/image-1630.png)
 
 Ah for fuck's sake, I should just look at the paper instead of wasting time with this video. Let me do it. Just what am I supposed to get from this infographic? All I understand is that they are modeling individual neuros as RNNs.
 
@@ -19338,11 +19338,11 @@ Here is the interview with Hinton's student who is a big deal now.
 
 I'll leave it for later, let me focus on the paper.
 
-6:40pm. ![](images/image-1631.png)
+6:40pm. ![](../images/image-1631.png)
 
 It's actually has been quite a long time since I've read a paper last. I used to do this all the time back in the 10s.
 
-![](images/image-1632.png)
+![](../images/image-1632.png)
 
 Veilcore is making music too fast for me to actually listen to.
 
@@ -19350,17 +19350,17 @@ https://pub.sakana.ai/ctm/#method
 
 This paper has amazing presentation.
 
-6:55pm. ![](images/image-1633.png)
+6:55pm. ![](../images/image-1633.png)
 
 Ah so this is the representation they use for synchronization. As usual the transformer authors have interesting ways of thought.
 
 I has to think for a bit what Z_t * Z_t.T is, but it makes sense.
 
-7:05pm. ![](images/image-1634.png)
+7:05pm. ![](../images/image-1634.png)
 
 So this model also uses the transformer attention on the inputs. I see.
 
-7:20pm. ![](images/image-1635.png)
+7:20pm. ![](../images/image-1635.png)
 
 They aren't using positional embeddings. That is something.
 
@@ -19396,11 +19396,11 @@ It's fine if I make only 5k from trading in 2026. I'll make 100k in 2027 if I ca
 
 Right now there is no doubt that I have the skills to be a quant trader. I just have to put them to good use.
 
-12:20pm. ![](images/image-1636.png)
+12:20pm. ![](../images/image-1636.png)
 
 It's very basic, but even the best programmer has to make the baby steps before he learns to walk. So let me get cracking.
 
-![](images/image-1637.png)
+![](../images/image-1637.png)
 
 This is pretty easy, but these kinds of tasks are ideal for familiarizing myself with the platform.
 
@@ -19412,15 +19412,15 @@ For the actual bot, I'd probably want to host it on a public cloud that's closes
 
 Let me resume.
 
-5:25pm. ![](images/image-1638.png)
+5:25pm. ![](../images/image-1638.png)
 
 This feels a bit like I am doing HackerRank easies, but it's not bad to do it. I could benefit a lot from getting familiar with the platform. I might even be able to make use of it for my own strategy if I could somehow upload large tables to it.
 
-![](images/image-1639.png)
+![](../images/image-1639.png)
 
 Working with event handles directly is pretty rough. I'd want to abstract these using channels.
 
-5:45pm. ![](images/image-1640.png)
+5:45pm. ![](../images/image-1640.png)
 
 Let me go to lesson 3.
 
@@ -19429,11 +19429,11 @@ Let me go to lesson 3.
 
 Let me watch this I'd don't feel like doing the easy tasks anymore today.
 
-6:15pm. ![](images/image-1641.png)
+6:15pm. ![](../images/image-1641.png)
 
 Wow, I am so glad he's covering this. ZJYL went from 10 to 500 in a span of 2 minutes. Seeing that example in his course and also noting that risks of shorting low floats have gotten far higher in the last decade, will make me think hard about whether I ever want to touch shorting.
 
-7:10pm. ![](images/image-1642.png)
+7:10pm. ![](../images/image-1642.png)
 
 Let me stop here for real. I am done for the day.
 
@@ -19455,45 +19455,45 @@ But I will try it using hand crafted features first and foremost.
 11am. https://youtu.be/ThUNhjblo24
 "we are not enron"
 
-11:35am. ![](images/image-1643.png)
+11:35am. ![](../images/image-1643.png)
 
 Let me finally start. I am constantly am thinking about this, but am having trouble just committing to going forward.
 
 But it's fine. Even if I cannot run, I can walk. Even if I cannot walk, I can crawl.
 
-11:50am. ![](images/image-1644.png)
+11:50am. ![](../images/image-1644.png)
 
 Ah, this only places one trade. I'd ideally want to close it before the close.
 
-![](images/image-1645.png)
+![](../images/image-1645.png)
 
 Lol, great system.
 
 But yeah, this is what you'd expect. The ORB paper only found it to work on Stocks In Play.
 
-12:15pm. ![](images/image-1646.png)
+12:15pm. ![](../images/image-1646.png)
 
 Time to learn gap fading strats.
 
-![](images/image-1647.png)
+![](../images/image-1647.png)
 
 This assignment is actually pretty tough because I don't know the types of anything. I'll have to look at the solution.
 
-12:55pm. ![](images/image-1648.png)
+12:55pm. ![](../images/image-1648.png)
 
 Oh, the opening gap trade has quite a decent edge. What if I put the the deviation as 2?
 
-![](images/image-1649.png)
+![](../images/image-1649.png)
 
 More trades, and even higher profit.
 
-![](images/image-1650.png)
+![](../images/image-1650.png)
 
 Though the 2k extra isn't really worth it. With deviations set to 4, this is what I get.
 
 I guess mean reversion strategies do work. You could do strategy chaining. Gap fades into ORB and so on.
 
-1:10pm. ![](images/image-1651.png)
+1:10pm. ![](../images/image-1651.png)
 
 Let me stop here.
 
@@ -19509,39 +19509,39 @@ Let me also watch this.
 
 The WCE guys are interesting.
 
-![](images/image-1652.png)
+![](../images/image-1652.png)
 
 So he is saying that most of the time prices outside the value area return to it.
 
 4:10pm. To be honest, this volume stuff isn't nearly as relevant to me as specific patterns like gap fills, ops, and ORBs are. The 5 setups Andrea showed me could make my career. Also today I learned about gap fades. Though that probably just is gap fill.
 
-4:15pm. ![](images/image-1653.png)
+4:15pm. ![](../images/image-1653.png)
 
 Let me resume.
 
 4:45pm. Need to stop wasting my time with Reddit. Focus on the task at hand.
 
-4:55pm. ![](images/image-1654.png)
+4:55pm. ![](../images/image-1654.png)
 
 I am not sure why, but this isn't running.
 
-![](images/image-1655.png)
+![](../images/image-1655.png)
 
 What are these errors?
 
-![](images/image-1656.png)
+![](../images/image-1656.png)
 
 The start and the end date is only 60 trading days, but we're using 200 day EMAs. Let me set the start date to 6 years earlier.
 
-5pm. ![](images/image-1657.png)
+5pm. ![](../images/image-1657.png)
 
 Ah, fuck it let me move on to this. The bootcamp example isn't the right place to experiment with EMA systems.
 
 5:35pm. https://www.reddit.com/r/algotrading/comments/1p86jju/which_trading_platforms_should_i_be_looking_into/
 
-![](images/image-1658.png)
-![](images/image-1659.png)
-![](images/image-1660.png)
+![](../images/image-1658.png)
+![](../images/image-1659.png)
+![](../images/image-1660.png)
 
 ChatGPT's answers here are really good.
 
@@ -19748,13 +19748,13 @@ Hmmmm...
 
 https://pypi.org/project/vectorbt/
 
-5:55pm. ![](images/image-1661.png)
+5:55pm. ![](../images/image-1661.png)
 
 Yeah, I think I'll study QuantConnect for a while longer, but I am really chomping to try backtesting what I have in mind, and am starting to run of of patience with these simplistic tutorials.
 
 6:20pm. https://www.reddit.com/r/algotrading/comments/1p7rzz5/finally_built_real_infrastructure_for_my_trading/
 
-![](images/image-1662.png)
+![](../images/image-1662.png)
 
 What is NATS?
 
@@ -19764,11 +19764,11 @@ Stale feed checks? Didn't think about that.
 
 I definitely am going to build a daily loss limit/kill switch.
 
-6:25pm. ![](images/image-1663.png)
+6:25pm. ![](../images/image-1663.png)
 
 Oh, it can spit out stats. Nice.
 
-6:30pm. ![](images/image-1664.png)
+6:30pm. ![](../images/image-1664.png)
 
 I am curious about how NNs can be used with QuantConnect, but to be honest I've had enough.
 
@@ -19778,7 +19778,7 @@ To be honest, I am super tired of lectures and these super basic tutorials. I wa
 
 I'll stop here for the day. Let me go have lunch.
 
-![](images/image-1665.png)
+![](../images/image-1665.png)
 
 There are plenty of resources going down this path.
 
@@ -19790,8 +19790,8 @@ Never found this while I was doing research on concurrency frameworks (like gRPC
 
 11/28/2025
 
-11:05am. ![](images/image-1666.png)
-![](images/image-1667.png)
+11:05am. ![](../images/image-1666.png)
+![](../images/image-1667.png)
 
 I thought of probabilistic rounding, but I didn't know whether that would preserve the mean. I see now that it would ok.
 
@@ -19818,7 +19818,7 @@ It also gave me this. Let me try it out. Does this really maintain the mean?
 
 11:30am. Using a sigma of 0.6 seems fine.
 
-![](images/image-1668.png)
+![](../images/image-1668.png)
 
 I've confirmed that these two implementations are the same, so I won't have trouble implementing the log normal distribution on the GPU.
 
@@ -19826,7 +19826,7 @@ Let me have breakfast and do the chores here. I have that appointment soon.
 
 I'll be using mixtures of gaussians and log normal to simulate the stock market price movements.
 
-11:55am. ![](images/image-1669.png)
+11:55am. ![](../images/image-1669.png)
 
 We really got hit by this at Tao Ceti.
 
@@ -19834,8 +19834,8 @@ We really got hit by this at Tao Ceti.
 
 3:35pm. Done with my appointment with the public notary. Let me get started for the day.
 
-3:40pm. ![](images/image-1670.png)
-![](images/image-1671.png)
+3:40pm. ![](../images/image-1670.png)
+![](../images/image-1671.png)
 
 This is good advice. It never occured to me to add a random delay.
 
@@ -19857,11 +19857,11 @@ https://vectorbt.dev/
 
 Here is the link to it.
 
-4:10pm. ![](images/image-1672.png)
+4:10pm. ![](../images/image-1672.png)
 
 Oh, it doesn't?
 
-![](images/image-1673.png)
+![](../images/image-1673.png)
 
 Wow, is nobody using the GPU for trading system design?
 
@@ -19869,7 +19869,7 @@ Wow, is nobody using the GPU for trading system design?
 
 I think I'll be better off just building my own.
 
-![](images/image-1674.png)
+![](../images/image-1674.png)
 
 Oh some of them have news! Yeah, that would be very useful to have.
 
@@ -19950,15 +19950,15 @@ Do you want me to build that list for you now?
 
 I'll back up this ChatGPT post here. I guess I'll check out Polygon.io.
 
-![](images/image-1675.png)
+![](../images/image-1675.png)
 
 I saw Alpaca being mentioned in a few places.
 
-![](images/image-1676.png)
+![](../images/image-1676.png)
 
 Really? It's commission free?
 
-![](images/image-1677.png)
+![](../images/image-1677.png)
 
 Wow, this sounds really good.
 
@@ -19966,13 +19966,13 @@ Wow, this sounds really good.
 
 https://massive.com/
 
-4:45pm. ![](images/image-1678.png)
+4:45pm. ![](../images/image-1678.png)
 
 Not too cheap, but paying for this will be a justifiable expense. I'll want to get second data to start with and move up to trade data before going live just so I can try out the 100-500ms delays.
 
 4:50pm. 200$/month might seem a lot, but it's not more than what I am paying my accountant currently.
 
-![](images/image-1679.png)
+![](../images/image-1679.png)
 
 Alpaca has free data, so I'll focus on it first.
 
@@ -20164,27 +20164,27 @@ Let me go through its docs.
 
 5pm. https://alpaca.markets/broker-resources/webinar/build-your-own-trading-app-broker-api?utm_campaign=2023%20-%20Broker%20API%20Webinars&utm_source=Webinar%20Chatflow
 
-![](images/image-1680.png)
+![](../images/image-1680.png)
 
 Let me go through these docs.
 
-![](images/image-1681.png)
+![](../images/image-1681.png)
 
 Really, they started out as a company using NNs to trade the markets.
 
-![](images/image-1682.png)
+![](../images/image-1682.png)
 
 They have a C# library.
 
 Nice. IBKR's APIs weren't that good.
 
-5:20pm. ![](images/image-1683.png)
+5:20pm. ![](../images/image-1683.png)
 
 PDT rules are convoluted. I am really glad I won't have to deal with them anymore.
 
 The PDT rule pretty much forces you to trade on the close. It contributed significantly to my failure in 2007 - 2014.
 
-5:35pm. ![](images/image-1684.png)
+5:35pm. ![](../images/image-1684.png)
 
 I'll definitely sign up and try it out.
 
@@ -20192,7 +20192,7 @@ I love the minimalist approach most of all. This is one SV trend that I like in 
 
 5:45pm. Lunch time.
 
-![](images/image-1685.png)
+![](../images/image-1685.png)
 
 I'll leave the tuts for later.
 
@@ -20315,19 +20315,19 @@ Logris is pretty bad in that regard. I got to see his management skills in actio
 
 https://alpaca.markets/learn/build-backtester
 
-5:15pm. ![](images/image-1686.png)
+5:15pm. ![](../images/image-1686.png)
 
 No reason why I couldn't use these libs to analyze my backtesting results.
 
 `QuantStats` or `Pyfolio`.
 
-![](images/image-1687.png)
+![](../images/image-1687.png)
 
 Ah, I see.
 
 So I don't need Alpaca at all then?
 
-5:25pm. ![](images/image-1688.png)
+5:25pm. ![](../images/image-1688.png)
 
 Lel, I'll keep the...
 
@@ -20429,7 +20429,7 @@ No, let's leave that for later. I can figure it out in due time. I'll add VWAP a
 
 5:50pm. I need to focus on paving my own path. I'll get some data and play around with it tomorrow and then start the next Spiral playlist.
 
-6:05pm. ![](images/image-1689.png)
+6:05pm. ![](../images/image-1689.png)
 
 Let me think. I need to get the daily data for the last two months so I can filter out stocks that aren't in play. And then for those particular days I'll get the minute bars. Then I want to figure out how to plot and study that data.
 
@@ -20439,11 +20439,11 @@ Once I have that I have no idea, maybe I'll test out the ORB system. I need to b
 
 I'll leave starting the new Spiral playlist for later. For now, I should just play a little and see where it gets me.
 
-6:10pm. ![](images/image-1690.png)
+6:10pm. ![](../images/image-1690.png)
 
 20 second delay? Damn.
 
-![](images/image-1691.png)
+![](../images/image-1691.png)
 
 Maybe I should hold off on IBKR.
 
@@ -20452,17 +20452,17 @@ https://lightspeed.com/
 
 I'll check out whether I can open an account with these two.
 
-![](images/image-1692.png)
+![](../images/image-1692.png)
 
 Ok, Lime is a go.
 
-6:40pm. ![](images/image-1693.png)
+6:40pm. ![](../images/image-1693.png)
 
 I'll go with Lime if possible. I guess IBKR will be getting passed over this time around. Unlike Ligthspeed, Lime is geared towards quants.
 
-![](images/image-1694.png)
+![](../images/image-1694.png)
 
-7pm. ![](images/image-1695.png)
+7pm. ![](../images/image-1695.png)
 
 This is really weird. I actually can't find a way to access this page directly from the site. If it wasn't for ChatGPT, I wouldn't have even known about it.
 
@@ -20477,7 +20477,7 @@ I go to bed late, have trouble falling asleep and as a consequence I am having t
 
 But the real problem is that I am having trouble overcoming the inertia. But I am starting to slowly feel *it*.
 
-![](images/image-1696.png)
+![](../images/image-1696.png)
 
 Alpaca is a wash.
 
@@ -20489,11 +20489,11 @@ I am getting some good advice from u/postTradeCheck.
 
 Yes, either way I should open an IB account because I need to park my money somewhere because my bank is giving me near 0 interest on my deposit. I'll get on it tomorrow.
 
-11:15am. ![](images/image-1697.png)
+11:15am. ![](../images/image-1697.png)
 
 Today my focus is going to be on Massive. I am happy to see they have data other than prices. In fact, one of my plans was to look into short interest so I can trade short squeezes on the long side. Since the short side got a lot more riskier, that naturally begs the question whether it would be possible to take advantage of that from the long side.
 
-![](images/image-1698.png)
+![](../images/image-1698.png)
 
 Oh they have ticker news? That would be super useful!
 
@@ -20507,7 +20507,7 @@ Let me finally watch the SMB video.
 
 12:10pm. I think I watched this years ago.
 
-![](images/image-1699.png)
+![](../images/image-1699.png)
 
 He says these have really strong edge.
 
@@ -20519,7 +20519,7 @@ Ok, let me watch this video, read the Massive tutorials and then I am going to s
 
 Let me note these here.
 
-12:25pm. ![](images/image-1700.png)
+12:25pm. ![](../images/image-1700.png)
 
 Yeah, before I start there is something I really want to do. I want to be able to create my own screener.
 
@@ -20527,19 +20527,19 @@ https://massive.com/blog/short-volume-short-interest-tutorial
 
 Let me just focus on these two articles for now.
 
-![](images/image-1701.png)
+![](../images/image-1701.png)
 
 > These examples show how elevated short interest, particularly in speculative or narrative-driven stocks, can increase the risk of violent price moves. Monitoring this data using the Short Interest API helps traders and analysts track exposure, spot rising pressure, and prepare for squeeze scenarios before they unfold.
 
 I like violent moves, so I really want to get in on these short squeeze trades. I just need to build a system that can take advantage of them first.
 
-![](images/image-1702.png)
+![](../images/image-1702.png)
 
 > The insights extracted are made available through a live API, which is updated in real-time with the latest news, enabling timely and relevant financial analysis.
 
 So I wouldn't have to train my own LLM to take advantage of this? Nice.
 
-![](images/image-1703.png)
+![](../images/image-1703.png)
 
 Mhhh, this analysis isn't very granular. I'd really like to know whether the news is groundbreaking rather than just positive, neutral or negative.
 
@@ -20549,7 +20549,7 @@ Maybe this article will have something on how to build a screener. If not I'll l
 
 ChatGPT existing made me a lot lazier.
 
-12:55pm. ![](images/image-1704.png)
+12:55pm. ![](../images/image-1704.png)
 
 Ah, I see. So I want flat files for market wide historical data.
 
@@ -20570,7 +20570,7 @@ Mike Bellafiore says this and then goes on to explain why.
 
 > There is a tremendous amount of hedging that's going on in gold has nothing to do with people thinking whether gold is going to go up or down.
 
-![](images/image-1705.png)
+![](../images/image-1705.png)
 
 Scanz. Never heard about this tool before.
 
@@ -20600,25 +20600,25 @@ https://massive.com/blog/hunting-anomalies-in-the-stock-market
 
 Damn, I really don't feel reading the code here right now. Forget the video for a few mins. Let me skim it.
 
-4:20pm. ![](images/image-1706.png)
+4:20pm. ![](../images/image-1706.png)
 
 Interesting that they are actually counting the number of trades instead of looking at the volume. I've never seen a screener that'd be able to filter based on that criteria.
 
-4:25pm. ![](images/image-1707.png)
+4:25pm. ![](../images/image-1707.png)
 
 I admit, I had no idea how the z score was calculated until today.
 
-![](images/image-1708.png)
-![](images/image-1709.png)
+![](../images/image-1708.png)
+![](../images/image-1709.png)
 
 Masterful pretty printing. This is one thing the author has done a lot better than I would have.
 
-![](images/image-1710.png)
-![](images/image-1711.png)
+![](../images/image-1710.png)
+![](../images/image-1711.png)
 
 This is very cool.
 
-4:30pm. ![](images/image-1712.png)
+4:30pm. ![](../images/image-1712.png)
 
 This'd be useful if I ever do quant investing as opposed to trading.
 
@@ -20632,12 +20632,12 @@ Knowing whether the upcoming day's range is likely to be wide or narrow is a hug
 
 5:10pm. https://www.reddit.com/r/algotrading/comments/1pal8oh/are_there_good_quant_youtubers_out_there/
 
-![](images/image-1713.png)
-![](images/image-1714.png)
+![](../images/image-1713.png)
+![](../images/image-1714.png)
 
 A little bit of self promotion.
 
-5:15pm. ![](images/image-1715.png)
+5:15pm. ![](../images/image-1715.png)
 
 I'll leave this for tomorrow. I am just too damn tired to focus anymore. It doesn't matter than I grasp this today. What matters is that I set out on my path.
 
@@ -20649,11 +20649,11 @@ I am back to who I used to be. The period of my life at Tao Ceti was an abberati
 
 12/1/2025
 
-11am. ![](images/image-1716.png)
+11am. ![](../images/image-1716.png)
 
 This guy is quite something.
 
-![](images/image-1717.png)
+![](../images/image-1717.png)
 
 This guy on the other hand...
 
@@ -20714,7 +20714,7 @@ No, it's best to take no risks with the lawmen.
 
 12:30pm. I'll wait until the bank account is closed and then open a ticket to close the account. I don't want them to mess up and send me 50 euros by accident.
 
-![](images/image-1718.png)
+![](../images/image-1718.png)
 
 Ok, now I just have to wait.
 
@@ -21374,19 +21374,19 @@ What a drag, but it's better to do this than having to draw down my trading acco
 
 Let me just catch my breath a bit and then I will resume. In fact, let me do some research whether it's possible to get daily data further into the past.
 
-![](images/image-1719.png)
+![](../images/image-1719.png)
 
 Oh, it's pay as you go.
 
-![](images/image-1720.png)
+![](../images/image-1720.png)
 
 This is very expensive though.
 
-![](images/image-1721.png)
+![](../images/image-1721.png)
 
 Or maybe not. SPY data for the last 5 years is less than a cent.
 
-![](images/image-1722.png)
+![](../images/image-1722.png)
 
 This is how much it costs for the entire dataset. And they do give 125$ in free credits when signing up. Ok, nevermind this right now. Let me watch Lance's video.
 
@@ -21398,15 +21398,15 @@ Stop Using MACD to Plan Your Entries and Exits
 
 Let me just watch these for a bit before I resume.
 
-![](images/image-1723.png)
+![](../images/image-1723.png)
 
 It honestly feels there might be something to MACD. Not the crossover, but specifically the part where it's deeply green or red and starts turning the other way. I saw a forex trader using it successfully like that for scalp trades.
 
-3:25pm. ![](images/image-1724.png)
+3:25pm. ![](../images/image-1724.png)
 
 This guy is really good at tech analysis. This is the first time I saw SPY divided by the money supply.
 
-![](images/image-1725.png)
+![](../images/image-1725.png)
 
 This guy is a pretty good trader.
 
@@ -21441,7 +21441,7 @@ What pissed me off the most is the complete lack of skill and control over my eq
 
 Thomas inadvertedly is bailing me out in this trading venture. It would have been a lot more annoying doing all this without the agentic coding tool he introduced me to.
 
-8pm. ![](images/image-1726.png)
+8pm. ![](../images/image-1726.png)
 
 Let me check this out.
 
@@ -21499,7 +21499,7 @@ At any rate, let me finally start for the day. How about I create a proper quant
 
 6:50pm. Done for today. I'll give up on the momentum backtest as it requires more discretion than I would have thought. But I'll derive the Janus Factor indicator tomorrow.
 
-![](images/image-1727.png)
+![](../images/image-1727.png)
 
 As my last journal entry for the day, let me showcase this. Using ML to filter out losing trades rather than to generate winning trades is an interesting idea.
 
@@ -21507,7 +21507,7 @@ As my last journal entry for the day, let me showcase this. Using ML to filter o
 
 Oh this is interesting.
 
-![](images/image-1728.png)
+![](../images/image-1728.png)
 
 Short is long.
 
@@ -21517,7 +21517,7 @@ Short is long.
 
 11:15am. Opened a ticket to close the IB account. With that out of the way let me start my session.
 
-5:40pm. ![](images/image-1729.png)
+5:40pm. ![](../images/image-1729.png)
 
 Let me save the plan for tomorrow here. I don't feel like resuming programming now, after taking the time to read the book again. Wonderful book on momentum trading.
 
@@ -21528,13 +21528,13 @@ Interesting thread.
 
 > It's striking how much the crypto world depends on trust in other parties. The whole point of crypto was supposed to be that it was "trustless". But it's not set up that way. All these crypto derivatives are not set up as contracts on a blockchain, with assets locked up until the derivatives settle. They're book entries with some weakly regulated exchange in Outer Nowhere.
 
-![](images/image-1730.png)
+![](../images/image-1730.png)
 
 Goddamn, I was right that the exchanges were risky after all.
 
 12/7/2025
 
-10:15am. ![](images/image-1731.png)
+10:15am. ![](../images/image-1731.png)
 
 I didn't think the trial would end so soon.
 
@@ -21549,7 +21549,7 @@ I wasted years of my life in crypto (twitter.com/kenchangh)
 
 > The normalization of making a quick buck from one another in a zero sum way is not how wealth is made long term. It may seem like it is, but it really isn’t. Being in crypto for 8 years have completely fucked with my ability to identify what is a sustainable business. In crypto, you don’t need a successful business or product to make money. Crypto as an industry has a long tail of high market cap coins, which have zero users.
 
-7:50pm. ![](images/image-1732.png)
+7:50pm. ![](../images/image-1732.png)
 
 If I think about hot vs cold IPOs is similar to hot vs cold breakouts. There is a lot to learn here.
 
@@ -21566,7 +21566,7 @@ I don't have the patience to wrestle with the image generators, so I'll pass on 
 
 Now let me play Ghostrunner 2. I've been wasting a lot of time today. Tomorrow I am going to get really into it. I want to test the ORB and the VWAP systems.
 
-12:15pm. ![](images/image-1733.png)
+12:15pm. ![](../images/image-1733.png)
 
 He says that if you go to a pro trading firm, this is what you'll see. You'll hardly see any charts.
 
@@ -21710,7 +21710,7 @@ Lol, it's kind of dumb.
 
 11:15am. https://bookmap.com/en/partner/dxfeed
 
-![](images/image-1734.png)
+![](../images/image-1734.png)
 
 It doesn't seem like Bookmap supports Massive.
 
@@ -21764,7 +21764,7 @@ The BEST Stock Market Simulators (Step-by-Step Guide)
 
 Let me watch this.
 
-11:40am. ![](images/image-1735.png)
+11:40am. ![](../images/image-1735.png)
 
 I don't think I can open an account with these. I'll probably have to go through IBKR.
 
@@ -21858,7 +21858,7 @@ Watch me Manage a -10.000$ trading Session
 
 Let me watch this while I have breakfast.
 
-1:05pm. ![](images/image-1736.png)
+1:05pm. ![](../images/image-1736.png)
 
 He is using regular charts for this. Is he looking at the order book somewhere off screen?
 
@@ -21921,7 +21921,7 @@ It will help me avoid the bear markets and lower the overall portfolio volatilit
 
 So that is a huge gain that I made.
 
-2pm. ![](images/image-1737.png)
+2pm. ![](../images/image-1737.png)
 
 I want to put some effort into understanding Bookmap, ATAS, Deepcharts...
 
@@ -21940,7 +21940,7 @@ A Beginner Guide to Deepcharts™
 
 You know what, why don't I just watch his stuff on the platform he is hyping. I want to understand why they developed it instead of just using Bookmap for example or ATAS.
 
-![](images/image-1738.png)
+![](../images/image-1738.png)
 
 It costs 130$ months, and only has 3 month subscriptions at the shortest.
 
@@ -21993,11 +21993,11 @@ Ah well, let me just have fun with this.
 
 I might as well take the time to learn. If I knew I was getting a job soon, I'd drop this to focus on longer term momentum trading, but for now let me just roll with it.
 
-![](images/image-1739.png)
+![](../images/image-1739.png)
 
 Wait, does this platform not support regular stocks? If so I'll pass.
 
-![](images/image-1740.png)
+![](../images/image-1740.png)
 
 Here is a better screenshot.
 
@@ -22036,7 +22036,7 @@ Would you like me to look into the **specific data feed requirements and costs**
 
 I'll keep these in mind, but I'll roll with Bookmap first.
 
-![](images/image-1741.png)
+![](../images/image-1741.png)
 
 That having said, does NinjaTrader really support equity trading. It doesn't feel like it does.
 
@@ -22077,17 +22077,17 @@ Would you prefer to look into **Quantower** or **ATAS** next, since they may off
 
 ///
 
-![](images/image-1742.png)
+![](../images/image-1742.png)
 
 Oh Quanttower supports Polygon.
 
-![](images/image-1743.png)
+![](../images/image-1743.png)
 
 Both Quanttower and ATAS have C# integration. I could create a C# backend for Spiral to help me with this.
 
 Nevermind this. Let me just watch Bookmap vids for a while.
 
-![](images/image-1744.png)
+![](../images/image-1744.png)
 
 Simulation, trading and replay. I'll need to make use of Replay.
 
@@ -22098,12 +22098,12 @@ Simulation, trading and replay. I'll need to make use of Replay.
 
 A clue that Polymarket is inefficient as suspected.
 
-![](images/image-1745.png)
+![](../images/image-1745.png)
 
 Very interesting thread.
 
-![](images/image-1746.png)
-![](images/image-1747.png)
+![](../images/image-1746.png)
+![](../images/image-1747.png)
 
 3:35pm. Let me do my shoulder exercises.
 
@@ -22134,11 +22134,11 @@ I think I watched this particular one already, but since I forgot everything by 
 
 Yeah, things are slow for me now, but this is how my journey was. I got good at programming, one lesson at a time and one project at a time. I have my own path, and it's not necessarily watching the market tick by tick.
 
-![](images/image-1748.png)
+![](../images/image-1748.png)
 
 It's for quants so I might get some use out of it.
 
-4:15pm. ![](images/image-1749.png)
+4:15pm. ![](../images/image-1749.png)
 
 Wait, they develop Bookmap to visualize trades in an HFT trading environment since that is where they were coming from. In other words, shouldn't it be suitable for quant traders then? I forgot about this fact.
 
@@ -22380,7 +22380,7 @@ I see.
 https://youtu.be/4JMro0jAOKQ
 Ultimate Footprint Showdown: ATAS vs. NinjaTrader vs. Quantower
 
-![](images/image-1750.png)
+![](../images/image-1750.png)
 
 Weird video. I have no idea what's going on.
 
@@ -22393,7 +22393,7 @@ Agh, let me watch this.
 
 To be honest, it never made sense that pension funds and endowments would be plowing into BTC, which is Logris' version of the story. It makes more sense that dumb gamblers would be plowing money into these companies instead.
 
-![](images/image-1751.png)
+![](../images/image-1751.png)
 > An actual CEO said this on an earnings call in all seriousness. And actual adults had to listen to it.
 
 Looollll!
@@ -22418,11 +22418,11 @@ This is an interview with Garret Drinon.
 
 11am. Done chilling.
 
-![](images/image-1752.png)
+![](../images/image-1752.png)
 
 Let me finally start. What is the momentum strategy he mentioned here?
 
-![](images/image-1753.png)
+![](../images/image-1753.png)
 
 I need to learn from the Bookmap traders. The fact that they are giving such great educational content is making me consider getting the application just for that.
 
@@ -22430,17 +22430,17 @@ I need to learn from the Bookmap traders. The fact that they are giving such gre
 
 And that would be the Rejection setup.
 
-11:20am. ![](images/image-1754.png)
+11:20am. ![](../images/image-1754.png)
 
 I absolutely need to code this up. No way will I be able to reach the peak with the primitive momentum model I showed in the intro video. I need to learn more. I need to go further.
 
 I need to believe that work will allow me to succeed.
 
-![](images/image-1755.png)
+![](../images/image-1755.png)
 
 V-bottom reversals and pullbacks. I want the reversals. I could never quite figure out the setup Garry Smith used.
 
-![](images/image-1756.png)
+![](../images/image-1756.png)
 
 > You would maybe start to anticipate the move back to where it broke from, but this information here, understanding the Depth Of Market would tell you that's not going to happen.
 
@@ -22454,10 +22454,10 @@ I feel like I am still missing a lot conceptually.
 
 Ok, so knowing the resting orders is valuable. But what about momentum?
 
-![](images/image-1757.png)
+![](../images/image-1757.png)
 > It doesn't have to be a lack of liquidity for it to be exhaustion.
 
-11:40am. ![](images/image-1758.png)
+11:40am. ![](../images/image-1758.png)
 
 You know, maybe this wouldn't be a bad arena for me to study ML? Poker was much worse than I anticipated for such a purpose.
 
@@ -22474,7 +22474,7 @@ Finally I resume from a few months ago. Let me watch it for 30m and then it's br
 
 I should do my best. There is a lot of room for me to grow in this field. The ceiling is a lot higher than in poker. And unlike in poker I won't be bashing my head against an RL problem. I've learned not to do that anymore.
 
-12:10pm. ![](images/image-1759.png)
+12:10pm. ![](../images/image-1759.png)
 
 To be honest, it's hard for me to differentiate sweeping from regular price action right now. It's not very obvious on this particular chart.
 
@@ -22484,20 +22484,20 @@ That's life.
 
 But now I have a chance to make it right. Instead of reading those useless charts, I should be studying the historical DOM.
 
-12:20pm. ![](images/image-1760.png)
+12:20pm. ![](../images/image-1760.png)
 
 Hmmmm...This is something to think of. I keep trend following, but short term behavior is more likely to be mean reverting. In real life, you buy when things are cheap and hold off when it's expensive. Why would stocks be any different?
 
-![](images/image-1761.png)
+![](../images/image-1761.png)
 > It think the statistic is that I've heard from many traders is if the price goes outside the range, rejects and comes back to the middle of the range, there is an 80% chance that it will test the other side of that range.
 
-12:45pm. ![](images/image-1762.png)
+12:45pm. ![](../images/image-1762.png)
 
 What really sticks out for me is the exhaustion in the middle when it broke down into the previous range. That is such a strong tell. I could take advantage of that.
 
 Yeah, I've been trying to trade price action all this time, but the information in the lower timeframes is just so much richer.
 
-12:55pm. ![](images/image-1763.png)
+12:55pm. ![](../images/image-1763.png)
 
 I think Fabio said in a video yesterday that rejections happen in low volume nodes.
 
@@ -22510,8 +22510,8 @@ Let me stop here for breakfast.
 
 2pm. 
 
-![](images/image-1769.png)
-![](images/image-1764.png)
+![](../images/image-1769.png)
+![](../images/image-1764.png)
 
 Here is the reversal strategy.
 
@@ -22519,8 +22519,8 @@ I think by front-running he means to use limit orders as targets a tick or two b
 
 2:05pm. 
 
-![](images/image-1765.png)
-![](images/image-1768.png)
+![](../images/image-1765.png)
+![](../images/image-1768.png)
 
 Here is the momentum strategy.
 
@@ -22528,8 +22528,8 @@ Here is the momentum strategy.
 
 2:20pm. 
 
-![](images/image-1767.png)
-![](images/image-1766.png)
+![](../images/image-1767.png)
+![](../images/image-1766.png)
 
 Here is the pullback strategy.
 
@@ -22540,7 +22540,7 @@ Let me take a break here. I need to do the exercises.
 
 4:20pm. Done with exercises. Let me resume.
 
-4:45pm. ![](images/image-1770.png)
+4:45pm. ![](../images/image-1770.png)
 
 He is going over the reversal trade again. He says it's very little risk. Yeah, I see it.
 
@@ -22554,7 +22554,7 @@ I was stuck the whole time bashing my head against the wall. I want to give Book
 
 Trading is a privilege.
 
-4:50pm. ![](images/image-1771.png)
+4:50pm. ![](../images/image-1771.png)
 
 They have interesting orders here. The escape one pull the limit to towards the liquidity level.
 
@@ -22572,35 +22572,35 @@ I'll leave implementing the probabilistic programming ideas for later.
 
 I need to get some basic screentime, and maybe ideas for a better simulation, one that simulates the order book will come to me. I am already thinking about it, but I don't have any good theories for how that simulation should work.
 
-5:50pm. ![](images/image-1772.png)
+5:50pm. ![](../images/image-1772.png)
 
 He says that the CVD indicator should be singificantly lower for good pullback trades than it is here.
 
-6pm. ![](images/image-1773.png)
+6pm. ![](../images/image-1773.png)
 
 I like this chart of the NQ much more than I do the ES. I want to trade the most volatile intruments there are. That's where the easy money is. Assuming I could actually get good enough to get it.
 
-6:10pm. ![](images/image-1774.png)
+6:10pm. ![](../images/image-1774.png)
 
 I am curious about 0DTEs, so I'll watch some of those. I shouldn't be looking into options right now, but screw it. I should just have fun with this, that is the most important thing.
 
 If I can make trading fun, I'll have no problems making it into the big leagues.
 
-6:20pm. ![](images/image-1775.png)
+6:20pm. ![](../images/image-1775.png)
 
 Egh, it's classic tech analysis.
 
 Is this really a 0DTE course. Let me watch it since it's short.
 
-6:25pm. ![](images/image-1776.png)
-![](images/image-1777.png)
-![](images/image-1778.png)
+6:25pm. ![](../images/image-1776.png)
+![](../images/image-1777.png)
+![](../images/image-1778.png)
 
 I'll leave this for after lunch. This 'why I prefer options' screams gambler.
 
 But I am curious about 0DTEs. Is it worth even considering them?
 
-6:55pm. ![](images/image-1779.png)
+6:55pm. ![](../images/image-1779.png)
 
 This is what I want. What are the correlations?
 
@@ -22615,11 +22615,11 @@ https://bookmap.com/learning-center/en/vwap-avwap-mastery/vwap-avwap-mastery-wit
 
 Let me watch this for a bit. 
 
-![](images/image-1780.png)
+![](../images/image-1780.png)
 
 7 months in prison. Lol. Ok, I'll listen to this guy.
 
-7:10pm. ![](images/image-1781.png)
+7:10pm. ![](../images/image-1781.png)
 
 Really? Institutional traders use it as a benchmark?
 
@@ -22655,7 +22655,7 @@ First of all, let me resurect the Factory account.
 
 11:45am. I purchased a number and even got Factory to send me an SMS. But where on SMSPool do I actually see it?
 
-![](images/image-1782.png)
+![](../images/image-1782.png)
 
 That's piracy for you. Should have just paid the monthly subscription.
 
@@ -22720,7 +22720,7 @@ Want me to build that list for you now?
 
 Whatever, let me check out some of these other ones. This is a good lesson for me. It feels like I spent 3.2 euros for nothing for that SMSPool account. Piracy used to be cheaper in the old days.
 
-12:05pm. ![](images/image-1783.png)
+12:05pm. ![](../images/image-1783.png)
 
 I suppose I could try out Amp. I like it that they have demand based billing. The trouble with Factory is that their cheapest tier is 20/month and the next tier is 200/month. I don't use them that much.
 
@@ -22734,7 +22734,7 @@ They don't say what the usage limit exactly is.
 
 12:15pm. Ah whatever. Anthropic is in the lead so I might as well give it a try first.
 
-![](images/image-1784.png)
+![](../images/image-1784.png)
 
 It's pretty popular.
 
@@ -22746,11 +22746,11 @@ https://antigravity.google/
 
 What is this?
 
-12:30pm. ![](images/image-1785.png)
+12:30pm. ![](../images/image-1785.png)
 
 This looks like VS Code. Maybe they forked it?
 
-![](images/image-1786.png)
+![](../images/image-1786.png)
 
 Damn it, I have a lot of these legacy scripts, I forgot what most of it does. This all needs to be refactored. I've worked on the codebase for only a few days and it's already a mess.
 
@@ -22764,7 +22764,7 @@ Ah, ok.
 
 12:40pm. The installer is just the same as it is for VS Code. It seems that they forked it.
 
-12:45pm. ![](images/image-1787.png)
+12:45pm. ![](../images/image-1787.png)
 
 It's integrated with Chrome? Ah, I give up. I'll just embrace the tech and see where it leads me.
 
@@ -22804,7 +22804,7 @@ I need this in order to preserve historical trades as they are.
 
 I've gone too far and too fast in the previous video and I need to put things in order first, because all the code that was written is legacy trash half a week after it was written.
 
-9:45pm. ![](images/image-1788.png)
+9:45pm. ![](../images/image-1788.png)
 
 Tom Vorvald is very insightful, but it will be a struggle to turn their insights into strategies.
 
@@ -22874,7 +22874,7 @@ This story is sick. Crude oil drops 9% and he makes it all back making 200 trade
 
 He says it was the best trading day in his life. It's like the opposite of revenge trading.
 
-7:40pm. ![](images/image-1789.png)
+7:40pm. ![](../images/image-1789.png)
 
 Let me paste the feedback to Thomas here on Antigravity. I just spent an entire day trying it out before exhausting the creds at around 6pm.
 
@@ -22912,7 +22912,7 @@ Right now, it feels like I am not being very productive since I just spent the d
 
 I am just hoping that EF Core will be enough to do all the SQL operations that I want, but in truth, Sonnet was so good at SQL that maybe I could just ditch EF Core. It's not nearly as high of a value add as it used to be.
 
-8pm. ![](images/image-1790.png)
+8pm. ![](../images/image-1790.png)
 
 Lel, this sub is funny.
 
@@ -22922,7 +22922,7 @@ The problems in this article don't really happen to me. I generally know when to
 
 12/12/2025
 
-9:50am. ![](images/image-1791.png)
+9:50am. ![](../images/image-1791.png)
 
 Nevermind, Thomas got me a cheap Chinese proxy, but this one is too cheap. It's going to get tedious very fast if I have to keep manually ignoring the thinking tags. Let me get the Claude subscription.
 
@@ -22979,7 +22979,7 @@ I want to do programming. I am really into Claude Opus 4.5 now.
 
 If it wasn't for Thom giving me a free Chinese key, I'd be ponying up for the 100-200$/month subscriptions.
 
-![](images/image-1792.png)
+![](../images/image-1792.png)
 
 There is good discussion on this sub.
 
@@ -23015,7 +23015,7 @@ How To Be In The Best Stocks Every Day
 
 I'll leave this for later. Let me play Ghostrunner 2. Or rather, let me just watch the first one for a while.
 
-![](images/image-1793.png)
+![](../images/image-1793.png)
 
 CLAUDE.md. I need to keep this one in mind.
 
@@ -23029,7 +23029,7 @@ Maybe I should lurk here in the future?
 
 12/15/2025
 
-4:10pm. ![](images/image-1794.png)
+4:10pm. ![](../images/image-1794.png)
 
 Nevermind getting this deal for now.
 
@@ -23037,15 +23037,15 @@ What I am doing at the moment is thinking through the ORB system. I've also star
 
 Since there is a Bookmap webinar, let me watch it just for a bit. I guess I won't be programming much today.
 
-4:30pm. ![](images/image-1795.png)
+4:30pm. ![](../images/image-1795.png)
 
 Intraday price action here is so confusing.
 
-4:35pm. ![](images/image-1796.png)
+4:35pm. ![](../images/image-1796.png)
 
 Damn, it's really selling off. I wonder what the market internals are like? If I looked at the whole market, I wonder what the volume weighted prices would be like from second to second. What about volume in stocks going up vs volume in stocks going down from second to second? In fact, what I should be looking at is total dollar volume in each of the stocks relative to past second. We could multiply that by the gap.
 
-![](images/image-1797.png)
+![](../images/image-1797.png)
 
 Yeah, forget this. I am not going to get this approach.
 
@@ -23074,7 +23074,7 @@ I know what I want to do as a trader. I want to bet it all on the power of the a
 
 6:40pm. I am through 36% of the book. I'll leave it for later.
 
-![NVTS](images/image-1798.png)
+![NVTS](../images/image-1798.png)
 
 Seriously, fuck this market. I can't believe NVTS crashed down to earth.
 
@@ -23093,34 +23093,34 @@ Does this guy really have an edge?
 
 What about Carmine Rosato?
 
-10:20pm. ![](images/image-1799.png)
+10:20pm. ![](../images/image-1799.png)
 
 Actually this is kind of decent. I've been thinking the whole day today, and I really have to forget regular candlesticks and start thinking in terms of VWAP prices and standard deviations around those points. That is the true chart.
 
-10:35pm. ![](images/image-1800.png)
+10:35pm. ![](../images/image-1800.png)
 
 I don't get it. Does it really matter if prices are moving due to aggressive buyers or sellers? Maybe it should, but if I ask my self why this would be important I don't understand why at all.
 
-10:45pm. ![](images/image-1801.png)
+10:45pm. ![](../images/image-1801.png)
 
 I suppose this makes sense. But wouldn't the same apply to exhaustion?
 
-![](images/image-1802.png)
+![](../images/image-1802.png)
 
 I see. Fabio talked about trapped buyers and sellers.
 
-10:50pm. ![](images/image-1803.png)
+10:50pm. ![](../images/image-1803.png)
 
 These tutorial videos are actually very good. Yeah, it drives me crazy to see good downtrends like these reverse constantly in the S&P. I just have no way of dealing with them.
 
-10:50pm. ![](images/image-1804.png)
+10:50pm. ![](../images/image-1804.png)
 > Would you buy this market at this moment right here.
 
 This guy is absolutely the real deal.
 
 There is no way I could buy into such an obvious downtrend.
 
-![](images/image-1805.png)
+![](../images/image-1805.png)
 
 Yeah, high volume breakouts failing are my bane. The reason why I came up with the strategy that I did in the start-mid of the year is because I cannot deal with them.
 
@@ -23137,25 +23137,25 @@ Today I finally finished Ghostrunner 2 on hardcode. It was super fun.
 
 Damn, if only I could understand the markets better, I could get somehwere, and this guy is quite a boon. The actual trade examples he shows are gold.
 
-11:15pm. ![](images/image-1806.png)
+11:15pm. ![](../images/image-1806.png)
 
 Or I could just watch this while I eat. He says he doesn't put much value into resting orders.
 
 But he does say we can see a large aggressive buyer and large passive seller transact as an example.
 
-11:25pm. ![](images/image-1807.png)
+11:25pm. ![](../images/image-1807.png)
 
 This is first rate. I can really see the differential between candlestick chart and DOM now.
 
-11:30pm. ![](images/image-1808.png)
+11:30pm. ![](../images/image-1808.png)
 
 This gives me something to watch. I actually wouldn't be able to spot the volume delta on the heatmap.
 
-11:40pm. ![](images/image-1809.png)
+11:40pm. ![](../images/image-1809.png)
 
 This is amazing content.
 
-11:55pm. ![](images/image-1810.png)
+11:55pm. ![](../images/image-1810.png)
 
 Damn, I meant to go to bed earlier today. Let me finish watching this and I'll do so. I'll watch the rest tomorrow.
 
@@ -23176,7 +23176,7 @@ Yeah, let me just focus on learning. I guess to the list I wrote yesterday we ca
 
 Who knows how things will go. Maybe I'll get a new job before I can put this to practice, maybe I won't. At least now I have the DOM indicator ready.
 
-![](images/image-1811.png)
+![](../images/image-1811.png)
 
 I need to send this to Thomas. I never took the chance to watch the videos on that guy he showed me though.
 
@@ -23188,27 +23188,27 @@ He has an order flow playlist.
 
 Before I pester Thom, I should give it a chance to see if there is anything to it.
 
-9:50am. ![](images/image-1812.png)
+9:50am. ![](../images/image-1812.png)
 > Would go long, or would you go short next?
 
 Going by the chart it's a long.
 
-![](images/image-1813.png)
+![](../images/image-1813.png)
 
 But the DOM tells you where to actually go long.
 
-![](images/image-1814.png)
+![](../images/image-1814.png)
 
 The system I'd make would probably be flat here.
 
 10am. Carmine Rosato completely destroyed the momentum system that I'd proposed in the intro video. There is no fucking point anymore. I need a system that could read the order flow.
 
-![](images/image-1815.png)
+![](../images/image-1815.png)
 > Would you long this, or would you short this?
 
 It's smack dab in the middle of the range of a very flat market. I'd do neither.
 
-![](images/image-1816.png)
+![](../images/image-1816.png)
 
 Damn it, how do I read the table on the right side? At any rate, this is amazing insight.
 
@@ -23217,35 +23217,35 @@ He is actually doing what I dreamed about which is using his reason to find good
 10:35am. https://youtu.be/5qBo04SMUFc?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ
 How To Use Support and Resistance the RIGHT Way
 
-![](images/image-1817.png)
+![](../images/image-1817.png)
 
 Support and resistance is probably the concept I understand the least after 6 years of trading, so I've been looking forward to this video.
 
-11am. ![](images/image-1818.png)
+11am. ![](../images/image-1818.png)
 
 Based trader.
 
-![](images/image-1819.png)
+![](../images/image-1819.png)
 
 Yeah, I've been reading charts for years, so I know that buying breakouts in SP 500 doesn't work, but I couldn't really figure out the opposite strategy either. It ended up putting me in a difficult ambiguous position.
 
 11:10am. https://youtu.be/w7tvJCuZAq8?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ
 You've Been Using Volume WRONG This Whole Time...
 
-![](images/image-1820.png)
+![](../images/image-1820.png)
 
 Yeah, high volume breakouts are my bane.
 
-11:35am. ![](images/image-1821.png)
+11:35am. ![](../images/image-1821.png)
 
 Yeah, this is would for me.
 
-11:55am. ![](images/image-1822.png)
+11:55am. ![](../images/image-1822.png)
 > Carmine, what is it that makes you click the buy or sell button.
 
 10/10 series so far. I love it when people just give me a completely new way of thinking.
 
-12pm. ![](images/image-1823.png)
+12pm. ![](../images/image-1823.png)
 > Would you take the long when the market looks like this?
 
 Absolutely not according to the momentum system that I proposed in the first video of the Building The Trading Edge series.
@@ -23253,13 +23253,13 @@ Absolutely not according to the momentum system that I proposed in the first vid
 12:05pm. https://youtu.be/7facFfjQ0UE?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ&t=811
 How To Enter and Exit Trades Like a Professional
 
-![](images/image-1824.png)
+![](../images/image-1824.png)
 
 This info he is giving me here is worth 10s of thousands of dollars easily. Amazing how he just waited for the volume delta and then went long. You couldn't see this on a candlestick chart.
 
 Yeah, this is how you sell order flow trading. The Bookmap course wasn't really it.
 
-12:20pm. ![](images/image-1825.png)
+12:20pm. ![](../images/image-1825.png)
 
 Yeah, the whole system I proposed is based on time, but he is explaining quite convincingly why volume is what validates a system.
 
@@ -23270,14 +23270,14 @@ The last video in the series. Time to wrap it up.
 
 Let me get breakfast while I am at it.
 
-1:35pm. ![](images/image-1826.png)
+1:35pm. ![](../images/image-1826.png)
 
 This example is different from the others. I wonder if he took it from some of his older videos.
 
-1:45pm. ![](images/image-1827.png)
+1:45pm. ![](../images/image-1827.png)
 > Retail charts are not being used by any professional firms.
 
-2pm. ![](images/image-1828.png)
+2pm. ![](../images/image-1828.png)
 
 Damn, it's really embarassing that I spent nearly 7 years as a trader without finding any of this out. I had no idea how banks were doing it. I never made an attempt to learn.
 
@@ -23289,7 +23289,7 @@ Sigh.
 
 Well, in the end, my persistence got me this far, so let's see how far I can go.
 
-2:10pm. ![](images/image-1829.png)
+2:10pm. ![](../images/image-1829.png)
 
 He actually shows his stats. 250k per year is quite decent. Ironically, my old programming job was close to this.
 
@@ -23297,14 +23297,14 @@ But really it isn't that great for a trader. Lance made 100m over 10 years, so t
 
 No way can I make that much as a software developer. Not unless I make trading systems or open my own company.
 
-![](images/image-1830.png)
+![](../images/image-1830.png)
 > I was taught to build tools from scratch.
 
 Wow, really?
 
 Ok, this guy is 100% the real deal. What he's teaching is very similar to Carmine Rosato.
 
-![](images/image-1831.png)
+![](../images/image-1831.png)
 
 Here comes the pitch.
 
@@ -23312,7 +23312,7 @@ Here comes the pitch.
 
 Let me chill a bit here. I need to do the chores and exercises. Then I'll continue reading the One Good Trade book.
 
-5:55pm. ![](images/image-1832.png)
+5:55pm. ![](../images/image-1832.png)
 
 I really am not a good fit for a trader, so it's no wonder I couldn't win back then. But who cares about fit. I just need to do the research, make the plan and then execute it.
 
@@ -23330,7 +23330,7 @@ I should just do that. Ditch Spiral and finally get some use out of NNs.
 
 Uah, I hope that I some point I'll get an actual real world use out of that language.
 
-6:20pm. ![](images/image-1833.png)
+6:20pm. ![](../images/image-1833.png)
 
 Lol'd heavily at this. Based.
 
@@ -23359,7 +23359,7 @@ Sent this to Jeff Holden just now. I'd really like to see a review video on this
 
 9:05pm. https://yandex.com/search/?text=smb+capital+tape+reading+download
 
-![](images/image-1834.png)
+![](../images/image-1834.png)
 
 Maybe I should just get this?
 
@@ -23481,7 +23481,7 @@ These guys are really willing to improve and consider new ideas. This is exactly
 
 This is pretty sweet.
 
-2:30pm. ![](images/image-1835.png)
+2:30pm. ![](../images/image-1835.png)
 
 To be honest, I am getting bored with this book. I'd rather just get the tape reading course and study it instead.
 
@@ -23495,11 +23495,11 @@ I feel like I benefited greatly from Carmine Rosato's course. It hit in a way th
 
 Hrmmm, there are different versions of this floating out there, and the rar files one didn't work out. But the 3.5gb is probably incomplete. It has only the setups. But the torrent in disorganized and might not have the seeders.
 
-![](images/image-1836.png)
+![](../images/image-1836.png)
 
 Nope the torrent is stalled. I might really have to buy it. But even so just the video titles are giving me useful info. I had no idea they were using Lightspeed as a broker.
 
-2:50pm. ![](images/image-1837.png)
+2:50pm. ![](../images/image-1837.png)
 
 Ok, it's not like there is nobody on the torrent so I'll keep it open for a few days and see where it goes.
 
@@ -23517,7 +23517,7 @@ Let me finish the book and then I will get the tape reading course. It's what I 
 
 I say finish, but I am only 50% into it.
 
-4:25pm. ![](images/image-1838.png)
+4:25pm. ![](../images/image-1838.png)
 
 I must learn tape reading. I am just glad that I can get the tape reading course for 33.5 euros.
 
@@ -23525,7 +23525,7 @@ Sigh, the longer term timeframe trading effort really did mess me up. Now that I
 
 It might be a grind, but it should also be fun. I could have had fun in 2007 - 2014, but I picked a poor path to go down on.
 
-![](images/image-1839.png)
+![](../images/image-1839.png)
 
 Oh wow, take a look at this. It's actually downloading. But without a seeder, only 55% of the course will be there.
 
@@ -23545,11 +23545,11 @@ But with 3k account, I am not sure that I would have had the guts to buy the dat
 
 Even right now, I have to think hard about whether I want to spend 30$ on something or not.
 
-5:25pm. ![](images/image-1840.png)
+5:25pm. ![](../images/image-1840.png)
 
 Nice a seeder did come in.
 
-6:20pm. ![](images/image-1841.png)
+6:20pm. ![](../images/image-1841.png)
 
 Now it's slow again. But I'll just keep at it, and it will download in a while.
 
@@ -23557,7 +23557,7 @@ Now it's slow again. But I'll just keep at it, and it will download in a while.
 
 > A skill that too few developing traders have mastered is about to enter the room. Reading the Tape is the first skill that new traders should master, the very first skill! Let me explain in the following chapter.
 
-6:40pm. ![](images/image-1842.png)
+6:40pm. ![](../images/image-1842.png)
 
 Let me leave this for later. I'll continue the book tomorrow.
 
@@ -23590,11 +23590,11 @@ Marko Grdinić
 
 I hope that this won't annoy him. Let me resume the book.
 
-8:40pm. ![](images/image-1843.png)
+8:40pm. ![](../images/image-1843.png)
 
 This is a great tape reading lesson. I can imagine this would show up as a positive delta on a footprint chart.
 
-8:45pm. ![](images/image-1844.png)
+8:45pm. ![](../images/image-1844.png)
 
 Got this reply to the Massive email on the VWAP issue. I need to ask about the volume.
 
@@ -23602,11 +23602,11 @@ https://massive.com/blog/understanding-trade-eligibility
 
 Though I suppose instead of replying I should have looked at this first. Ugh, I'll think about this at a future date. I guess I could continue using Massive.
 
-![](images/image-1845.png)
+![](../images/image-1845.png)
 
 He gave me another link. Wow, why is this so complicated. At any rate, let me continue with the book.
 
-9:15pm. ![](images/image-1846.png)
+9:15pm. ![](../images/image-1846.png)
 
 Here is a good lesson. Buyers at key levels sounds like what Carmine Rosato was doing.
 
@@ -23618,17 +23618,17 @@ A little by little the pieces are falling into place. I can't wait to start stud
 
 I actually like reading charts and this will be a new past time for me.
 
-9:30pm. ![](images/image-1847.png)
+9:30pm. ![](../images/image-1847.png)
 
 Previously I wouldn't make much of it, but after Carmine's order flow course I can mentally translate 'too much buying' into 'abnormal negative volume delta'.
 
 This is such a huge edge!
 
-![](images/image-1848.png)
+![](../images/image-1848.png)
 
 This is my favorite chapter of the book so far.
 
-![](images/image-1849.png)
+![](../images/image-1849.png)
 
 I need to start studying the trades.
 
@@ -23636,7 +23636,7 @@ I need to start studying the trades.
 
 > It is easier to learn how to Read the Tape, or at least learn how to Read the Tape for signals to buy or sell than to learn how to trade with just charts. The traders I know who mainly trade off of the charts these days all learned first how to Read the Tape. And while they claim that they do not look at the Level 2 much these days, many are just mistaken. They have so mastered reading the tape that they do not even understand that they are using it to lighten up or where to enter with their trades.
 
-10pm. ![](images/image-1850.png)
+10pm. ![](../images/image-1850.png)
 
 > Charts just weren’t getting it done for me. They were great at telling me about the past, but were of little use in foretelling the future. Some who worship at the altar of charts may counter that the purpose of charts is not to predict, but to provide hints or clues to the future. Regardless of the semantics, I would have been much better off never looking at a chart. So it wasn’t a tough decision in the spring of 1985 to throw out the charts and never consult them again.
 
@@ -23656,17 +23656,17 @@ I am getting that fucking course. Sign me up!
 
 Tomorrow that is.
 
-10:05pm. ![](images/image-1851.png)
+10:05pm. ![](../images/image-1851.png)
 
 I like this book more than The Playbook now. I am going to stop here for the day.
 
 'Reminiscences Of A Stock Operator' literally starts with the protagonist learning to read the tape and making large amounts of money in bucket shops from virtually nothing. And yet I decided that I want to emulate him in his later phase when he was struggling with longer term trading. I am such a fool.
 
-11:15pm. ![](images/image-1852.png)
+11:15pm. ![](../images/image-1852.png)
 
 I am not sure why I clicked on this. It's full of people who have gambling issues.
 
-![](images/image-1853.png)
+![](../images/image-1853.png)
 
 Oh lol.
 
@@ -23693,7 +23693,7 @@ Ok, this is nearly an hour long so I'll leave it for later. I clicked on it, but
 
 11:45am. Let me start. I've decided yesterday that I am going to go with Quantower instead of Bookmap. Bookmap has only Nasdaq equities, and if there is another year like 2008 in the future I'll want the capability to trade NYSE stocks with footprint charts.
 
-12:20pm. ![](images/image-1854.png)
+12:20pm. ![](../images/image-1854.png)
 
 This is quite thorough. Yeah, I'll have to do my analysis carefully. In particular, I'll have to look at the bids and offers for some of the trades.
 
@@ -23705,13 +23705,13 @@ No wait, the power's back on. The UPS saved me.
 
 ...The internet is down though.
 
-12:50pm. ![](images/image-1855.png)
+12:50pm. ![](../images/image-1855.png)
 
 I myself would be likely to make this kind of execution mistake. Once I give it a try, I am going to have to start fighting for the cents.
 
 12:55pm. Let me go get breakfast.
 
-2:15pm. ![](images/image-1856.png)
+2:15pm. ![](../images/image-1856.png)
 
 This is so annoying. The download has completely stalled at 50%. I was getting hopeful, but I guess I might have to buy the course at some later date. Instead, I'll get the tape reading course once I am done with the book. After that I'll get the trades level data and the Quantower subscription.
 
@@ -23725,7 +23725,7 @@ But well, I'll try my best.
 
 Sigh, it feels that tape reading is big revelation for me. I wish I could have a similar revelation in ML. ML feels like my charting days as a trader. I understand that it's wrong, but I can't take a step further into clarity.
 
-2:40pm. ![](images/image-1857.png)
+2:40pm. ![](../images/image-1857.png)
 
 Oh, wow! To think I was considering giving up the torrent. A dedicated seeder can really make a difference.
 
@@ -23751,11 +23751,11 @@ Here he talks about the SMB training programs. I am really looking forward to th
 
 I want to check out the course.
 
-8:15pm. ![](images/image-1858.png)
+8:15pm. ![](../images/image-1858.png)
 
 Oh lol.
 
-![](images/image-1859.png)
+![](../images/image-1859.png)
 
 I am surprised how dated this video from the course is. Lehman Bros went bust famously in 2008 during the financial crisis. This is the tech they were using then. It can't be what they are still using now?
 
@@ -23774,15 +23774,15 @@ Ok, let me finish the video and I'll finish for the day. I am really tired at th
 
 8:50pm. For reference, this is how Quantower looks like.
 
-![](images/image-1860.png)
+![](../images/image-1860.png)
 
 I had to configure the clusters charts to show the delta, but it works fine.
 
-![](images/image-1861.png)
+![](../images/image-1861.png)
 
 Oh, I saw this. I was wondering what an unusual delta would be, but then this 271 bar came out and now the price is going down. I thought to myself that this could be the time to sell.
 
-![](images/image-1862.png)
+![](../images/image-1862.png)
 
 Or maybe not. Nwm this. It's a rangebound market. These just aren't that significant deltas.
 
@@ -23849,7 +23849,7 @@ Fuck. To think I spent 7 years as a trader without ever learning about true supp
 
 At least this time around I can be sure that I am not fucking up my learning curve.
 
-10:30am. ![](images/image-1863.png)
+10:30am. ![](../images/image-1863.png)
 
 Oh, I am done. I though that I'd have a bunch more left.
 
@@ -23857,7 +23857,7 @@ Lance's course gives me some mixed feelings right now. It presents itself as sim
 
 I am definitely going to learn more about those in the SMB course so let me dive into it.
 
-![](images/image-1864.png)
+![](../images/image-1864.png)
 
 I wish these were ordered properly, but beggars can't be choosers. Let me dive in. I am going to have to watch the level 2 basics again. Just why is a midpoint trade white? Shouldn't it be either on the bid or the ask. I'll have Claude Opus answer it all for me.
 
@@ -23896,7 +23896,7 @@ Roy explains how the midpoint trades can be possible. It's when the orders are h
 
 11:40am. Let me pause here. Now that I understand what I should be looking for let me go through that tape reading video again.
 
-11:45am. ![](images/image-1865.png)
+11:45am. ![](../images/image-1865.png)
 
 I see they've really modernized their setup, but goddamn the tape he is showing there is fast.
 
@@ -23906,11 +23906,11 @@ https://youtu.be/YEL79Kpufxo?t=351
 
 Yeah, the tape is simply extremely fast here. A page on it lasts barely a quarter of a second before refreshing.
 
-11:55am. ![](images/image-1866.png)
+11:55am. ![](../images/image-1866.png)
 
 Here is the checklist.
 
-12:05am. ![](images/image-1867.png)
+12:05am. ![](../images/image-1867.png)
 
 No, I think this tape is too hard to read. I have zero idea at all what the volumes executed at particular levels are. But I think I get the overall concept. I need to wait until the buyers are in control and then stepping in. I need to do that around important levels.
 
@@ -23918,7 +23918,7 @@ Let me go back to the course.
 
 12:10pm. Yeah, the big problem with the fast tape is that, it has numerical values on it and it flashes every quarter of a second. If you're just doing pattern recognition on images, that is one thing, but when you have to sum up the volumes at particular price levels and figure out the delta, I think I'll just stick to footprint charts. Now that I know what they are, I'd have invented them myself had they not existed.
 
-![](images/image-1868.png)
+![](../images/image-1868.png)
 
 Egh, look at them using these candlestick charts in live trading. Egh.
 
@@ -23951,13 +23951,13 @@ Yeah, I am back to who I was before. Within a few months, I will have finished m
 
 3:45pm. Done with exercises and chores. Let me go through that tape reading video. It's called Prints On The Close.
 
-4pm. ![](images/image-1869.png)
+4pm. ![](../images/image-1869.png)
 
 The tape is so nice and slow here. The one in the Youtube video is 10x faster.
 
 They are using Windows XP in the video, so this version of the course has to be from over 15 years ago. I see LEHM amongst the tickers.
 
-![](images/image-1870.png)
+![](../images/image-1870.png)
 > ARCA dropped. He's not there anymore so you should put your orders in to short the stock.
 
 Wow, I didn't know they're actually trying to read what the other party is doing. That is pretty advanced. It'd be much harder to do this if the tape is faster by 10x though.
@@ -23966,11 +23966,11 @@ I need to rewatch this. How does he know that the ARCA buyer was holding up the 
 
 4:15pm. Yeah, this is pretty hard. I have no idea what the volume at each level is.
 
-4:30pm. ![](images/image-1871.png)
+4:30pm. ![](../images/image-1871.png)
 
 I won't lie, this is kind of putting me to sleep. I think I need some practical experience to help me focus. I might have to change gears, and get full L2 data as well as a Quantower subscription if I want to apply these concepts in simulated trading.
 
-4:40pm. ![](images/image-1872.png)
+4:40pm. ![](../images/image-1872.png)
 > This is what we're waiting for. We're waiting for the level to develop.
 > This is becoming a little bit of a resistance level. The more he sells the bigger the resistance level.
 
@@ -23980,7 +23980,7 @@ But well, it's not like Jesse Livermore could see the order book in the bucket s
 
 Just by incorporating the insight of how much volume it usually takes to move a stock into my trading could develop into a significant edge.
 
-![](images/image-1873.png)
+![](../images/image-1873.png)
 > We haven't see that before. 10k shares. Big level.
 
 He already went short prior to that. I wonder if he'll short more?
@@ -23993,7 +23993,7 @@ I actually missed the big print myself as I was focusing on the L2 box and looki
 
 We'll it probably does, but it's well hidden.
 
-5pm. ![](images/image-1874.png)
+5pm. ![](../images/image-1874.png)
 
 When I am reading charts, these extraneous prints fuck me over. But he knew well to just ignore it. Yeah, I am starting to get into this.
 
@@ -24001,17 +24001,17 @@ On a footprint chart I could see this large print, but I'd see the price staying
 
 Incidentally, I missed the print again and had to rewind the video a bit to see it. I should just put the bid/ask on the bar directly.
 
-![](images/image-1875.png)
+![](../images/image-1875.png)
 
 Bear Sterns also went bust in the 2008 financial panic. I wonder on what date this video was recorded?
 
-5:20pm. ![](images/image-1876.png)
+5:20pm. ![](../images/image-1876.png)
 
 Why is he shorting it at .85? He is saying how undisciplined traders short down there.
 
 ...I think he cancelled the order.
 
-5:30pm. ![](images/image-1877.png)
+5:30pm. ![](../images/image-1877.png)
 
 Oh my god, why is he trading here? After the initial drop from the top was disproved, it's much less likely that it will continue dropping. At that point, it's just fighting here.
 
@@ -24019,7 +24019,7 @@ I am learning a lot from this, but it's also putting me to sleep.
 
 I guess that bodes poorly for me as a trader.
 
-![](images/image-1878.png)
+![](../images/image-1878.png)
 
 He says that the bids got hit fast here and that's a sign of weakness. And the offers getting hit fast is a sign of strength.
 
@@ -24062,13 +24062,13 @@ I don't understand this part. Is he saying that I should pay attention to midpoi
 
 7:05pm. Done with lunch. Let me watch that video. I think these early video are the most important. The tape reading parts are what I am missing. The actual setups aren't that big of a deal.
 
-7:25pm. ![](images/image-1879.png)
+7:25pm. ![](../images/image-1879.png)
 
 Is this JThoma?
 
 7:30pm. Ok, enough for today.
 
-![](images/image-1880.png)
+![](../images/image-1880.png)
 
 I think I'll skip the rest of the videos on day 1 as they are essentially pep talks. I want to get to the nitty gritty technicals.
 
@@ -24086,13 +24086,13 @@ The more I code up, the less I'll have to do in the real world, and the higher m
 
 9:25am. https://www.reddit.com/r/Daytrading/comments/1pqjv5c/why_i_stopped_trading_patterns_and_focused_purely/
 
-![](images/image-1881.png)
-![](images/image-1882.png)
-![](images/image-1883.png)
+![](../images/image-1881.png)
+![](../images/image-1882.png)
+![](../images/image-1883.png)
 
 > This chart tracks individual large order lots and vector momentum in real time. The human eye cannot process this data speed manually. By the time you spot a divergence on a standard footprint chart with your naked eye, HFTs and algos have already front-run the move. My script calculates the variance, checks the tick sequencing, and paints a signal.
 
-![](images/image-1884.png)
+![](../images/image-1884.png)
 
 I decided to try the daytrading sub, and I found this really interesting thread right off the bat.
 
@@ -24111,30 +24111,30 @@ I still haven't found my 'order flow' there.
 10:15pm. https://youtu.be/wfjvphj1-LU
 Trading Order Flow: Keeping It Simple, Practical & Effective
 
-![](images/image-1885.png)
+![](../images/image-1885.png)
 
 To think that in daytrading you can find reversals consistently, but swing traders have to use time stops.
 
-![](images/image-1886.png)
+![](../images/image-1886.png)
 
 I feel this really resonates with me.
 
 I can do some myself, and I can have the computer help me with it.
 
-10:25pm. ![](images/image-1887.png)
-![](images/image-1888.png)
-![](images/image-1889.png)
-![](images/image-1890.png)
+10:25pm. ![](../images/image-1887.png)
+![](../images/image-1888.png)
+![](../images/image-1889.png)
+![](../images/image-1890.png)
 
 I feel like I am going to win this time. And the reason why I feel that way is because I won't be making uninformed trades anymore. I am going to be sure that the trades I am making have an edge before I make them.
 
-![](images/image-1891.png)
+![](../images/image-1891.png)
 
 This is so much edge. I just have to learn the language. And then I can be proud that I have done it.
 
 > It's not a matter of whether they are there in a reversal, but how obvious they are.
 
-10:30pm. ![](images/image-1892.png)
+10:30pm. ![](../images/image-1892.png)
 
 You can't see them on a price chart. This was a big surprise to me when Carmine Rosato revealed it to me.
 
@@ -24142,7 +24142,7 @@ Just what is Lance doing teach them that way then?
 
 Maybe his setups are particularly juicy?
 
-10:40pm. ![](images/image-1893.png)
+10:40pm. ![](../images/image-1893.png)
 > If you can't read momentum, you'll be the victim of it.
 
 He says it's the easiest order flow skill to learn, but is less attractive to traders compared to momentum.
@@ -24151,7 +24151,7 @@ I am going to have to go over the video later, I didn't understand the previous 
 
 > If the market moves against you with low momentum, it's not the same as a momentum move against you.
 
-![](images/image-1894.png)
+![](../images/image-1894.png)
 > People are looking at the DOM to see the prices moving up and down.
 > Information about the trades executing and the volume profile contains about ten times as much actionable information as the bids and offers.
 
@@ -24159,13 +24159,13 @@ This is a truly excellent video.
 
 10:50pm. > So if the bids and offers aren't there, you can be an accomplished order flow trader.
 
-![](images/image-1895.png)
+![](../images/image-1895.png)
 > That's the ideal place to start - just use momentum to keep you out of the trades that will run against you.
 > Use momentum to help you manage the trades.
 
 In a way I learned that from Lance with the 2 min bar system.
 
-![](images/image-1896.png)
+![](../images/image-1896.png)
 
 They have a platform similar to Bookmap.
 
@@ -24200,7 +24200,7 @@ Mastering the DOM: The DOM vs Charts | Gary Norden
 
 This caught my attention.
 
-![](images/image-1897.png)
+![](../images/image-1897.png)
 > There is another part of order flow analysis. We've the orders. We got the positions, which is to me is the volume profile where we can kind of presume where their positions and stops are. And the other kind of aspect to it is the resting order or the limit orders in the market and how they've been manipulated.
 > So that means that traders are hiding their real intent and putting in large orders to deceive you into thinking the market is stronger or weaker.
 > So we'll see iceberg orders where liquidity shown is small, but actual supply and demand is higher.
@@ -24221,11 +24221,11 @@ I had to go over this again and write it down as it's both funny and poignant.
 
 > If the bids and offers weren't there you could still be an accomplished order flow trader.
 
-![](images/image-1898.png)
+![](../images/image-1898.png)
 
 > If you try a strategy of buying against big bids and selling against big offers, you will absolutely lose money.
 
-![](images/image-1899.png)
+![](../images/image-1899.png)
 
 I really wonder what the drill they're giving the people are? I should be doing those.
 
@@ -24291,11 +24291,11 @@ Please remember, this isn’t theory… This is how professionals develop their 
 
 ///
 
-11:55am. ![](images/image-1900.png)
+11:55am. ![](../images/image-1900.png)
 
 Lol'd at Opus giving me a direct link to this pirate site. I'll keep it in mind.
 
-12pm. ![](images/image-1901.png)
+12pm. ![](../images/image-1901.png)
 
 Yeah, maybe I could get this course and move on to doing the drills. I am not sure I want to spend an entire month just watching lectures when I could be getting taught directly by the market instead.
 
@@ -24380,7 +24380,7 @@ If I after putting in a few months of effort doing these drills every day still 
 
 I'll do that eventually either way, so I'll win either way.
 
-12:35pm. ![](images/image-1902.png)
+12:35pm. ![](../images/image-1902.png)
 
 Ugh, I don't get what I am looking at on the screen here. It's confusing.
 
@@ -24392,7 +24392,7 @@ What I should do is get really good at sim trading and afterwards I can consider
 
 I'll take the proper steps.
 
-![](images/image-1903.png)
+![](../images/image-1903.png)
 > If we look at the size of the trade this is exceptional.
 > We can look at a circle here this is the circle.
 
@@ -24408,7 +24408,7 @@ I am a bit confused though. I don't think the DOM here is the same as the L2 box
 
 Ok, I could deal with that. The Time & Sales is just too fast nowadays, but I could reasonably trade the DOM. I should make it a priority to learn how to set it up.
 
-2:05pm. ![](images/image-1904.png)
+2:05pm. ![](../images/image-1904.png)
 
 Predictive style. First time hearing that term, but it clicks well.
 
@@ -24433,7 +24433,7 @@ If you can't find these settings, check Quantower's DOM Surface or Volume Analys
 
 This sounds really interesting. I'll check it out later.
 
-![](images/image-1905.png)
+![](../images/image-1905.png)
 > It doesn't work that way.
 
 2:40pm. Ok, nevermind, I am not interested in watching the whole thing or the other parts of the series. It's just a grouchy rant against charts. It gives an old-man-yells-at-clouds vibe.
@@ -24480,7 +24480,7 @@ This is the first time I've actually heard a definition of it.
 
 Ah, I see, there is a difference in terminology between the two.
 
-![](images/image-1906.png)
+![](../images/image-1906.png)
 
 Ok, I am reading the tape along with the trader, but I don't have a good sense of how much has been transacted at a particular price and what is unusual and what isn't.
 
@@ -24488,22 +24488,22 @@ A footprint chart or an advanced DOM like the one I'll use could tell me that. L
 
 All of this should be possible at a glance, but the technology they are using isn't good.
 
-5:15pm. ![](images/image-1907.png)
+5:15pm. ![](../images/image-1907.png)
 
 This is kind of nice. You get a few trades at most every second. The latest video by Jeff Holden on tape reading had over a 100 trades per second. I am not sure how it would be humanly possible to keep track of that.
 
-![](images/image-1908.png)
+![](../images/image-1908.png)
 
 This is wonderful. Watching the tape print at 73c and then finally go up is just so much more meaningful than seeing a 1m chart go up.
 
-![](images/image-1909.png)
+![](../images/image-1909.png)
 > That was unusual hold on the bid.
 > You're gonna see them once or twice a week.
 > When you see them, you want to be very aggressive.
 
 Oh, so they don't come around that often?
 
-5:30pm. ![](images/image-1910.png)
+5:30pm. ![](../images/image-1910.png)
 
 Yeah, I do have to admit, it's pretty boring just watching the tape like this. Since I know what the condition I am looking for is, I could write a filter for it.
 
@@ -24533,7 +24533,7 @@ https://youtu.be/DokWC7aIPM4?t=440
 
 I am looking forward to this.
 
-![](images/image-1911.png)
+![](../images/image-1911.png)
 
 Whoa they have custom volume profiles.
 
@@ -24554,13 +24554,13 @@ Reconstructed Tape or Aggregated Time & Sales in Quantower platform
 
 Let me take a look at this.
 
-![](images/image-1912.png)
+![](../images/image-1912.png)
 
 Really, how does this work?
 
 Ah, it puts in a time delay. Huh, I mean sure, that could also be a way of slowing the tap down.
 
-![](images/image-1913.png)
+![](../images/image-1913.png)
 
 This could be used to filter large trades.
 
@@ -24568,7 +24568,7 @@ This could be used to filter large trades.
 
 You know, before I buy the full Massive subscription with the order flow data, I am going to ask on the Quantower forums or whatever they have whether the data from Massive is any good.
 
-7:20pm. ![](images/image-1914.png)
+7:20pm. ![](../images/image-1914.png)
 
 Let me watch this just for a bit again and then I am going to stop for the day. I should at least watch the first 5 days of this course before I start watching the stock in play myself.
 
@@ -24586,32 +24586,32 @@ Let me go to day 3.
 
 Let me watch the breakout tape reading video and I'll stop for the day for real here.
 
-![](images/image-1915.png)
+![](../images/image-1915.png)
 
 Hmmm, this is tape is pretty fast. Now this is where I'd put in a delay.
 
-7:40am. ![](images/image-1916.png)
+7:40am. ![](../images/image-1916.png)
 
 Wow, the 05 is really holding.
 
 You cannot get this experience from charts.
 
-![](images/image-1917.png)
+![](../images/image-1917.png)
 > Big sign of strength when the buyer drops and comes right back to the bid.
 
 This'd be really hard to deal with on a chart, but over here I can clearly see just a few trades being printed.
 
-![](images/image-1918.png)
+![](../images/image-1918.png)
 > Now your mindset should be to get short in front of 50.05 because that completely failed right there.
 
-![](images/image-1919.png)
+![](../images/image-1919.png)
 > When that guy drops you have to be the first person to hit the bids.
 
 I see. I think I'd really want to use scripts to help me on these kinds of trades if I want to maximize speed.
 
 8:05pm. Skimmed some of the future vids. So much for watching the whole course. Let me just move forward. Let me take a look at the DOM for the Quantower. I want to see what volume capabilities does it have.
 
-8:15pm. ![](images/image-1920.png)
+8:15pm. ![](../images/image-1920.png)
 
 I know I am supposed to try to use the DOM, but this platform is insanely awesome.
 
@@ -24621,7 +24621,7 @@ In the DOM trader, I could put the volume column, but it was missing any values.
 
 Could I really connect this platform to Polygon though. There doesn't seem any way of actually doing that.
 
-8:30pm. ![](images/image-1921.png)
+8:30pm. ![](../images/image-1921.png)
 
 Yeah, I guess it's not like these types of trades were a secret.
 
@@ -24632,7 +24632,7 @@ Power Trades Scanner — What it is? How it works? How to use it in trading?
 
 Let me watch this video.
 
-8:45pm. ![](images/image-1922.png)
+8:45pm. ![](../images/image-1922.png)
 
 I guess I have no choice, but to just work at it. Now that I know the value of these zones, I'll have to make an attempt at a quant system for them.
 
@@ -24669,11 +24669,11 @@ ULTIMATE Guide To PROFITING From Footprint Charts
 
 This guy went from level 2 to footprint charts. Let me watch it.
 
-![](images/image-1923.png)
+![](../images/image-1923.png)
 
 This is my first time hearing about MotiveWave.
 
-10:20pm. ![](images/image-1924.png)
+10:20pm. ![](../images/image-1924.png)
 
 I am not sure what to do. Ok, for now how about I bet on volume analysis and see where it goes. I'll start with footprint charts. Forget those drills. I'll learn to analyze the footprint charts.
 
@@ -24765,11 +24765,11 @@ I'd rather do research than trade at this point. Psychologically, it much more i
 
 1:40pm. Oh right, let me just figure out how to connect Massive to Quantower.
 
-![](images/image-1925.png)
+![](../images/image-1925.png)
 
 Also I need to figure out why the figures aren't showing up for some sybols. Nevermind that for now.
 
-1:45pm. ![](images/image-1926.png)
+1:45pm. ![](../images/image-1926.png)
 
 It was actually very easy to connect Massive to Quantower. I'll have to pay for a higher tier data subscription though.
 
@@ -24815,7 +24815,7 @@ Many platforms let you display both together or toggle between them, since they 
 
 I see. So the TPO profile was measuring time. It wasn't obvious to me just looking at the chart.
 
-2:05pm. ![](images/image-1927.png)
+2:05pm. ![](../images/image-1927.png)
 
 These bricks he is talking about are like Renko charts, but % based. They make a new candle only when the price closes above or below a % and smooth out the trends.
 
@@ -24840,13 +24840,13 @@ CEOS ARE CRASHING OUT HARD ON LINKEDIN! (PAY TO APPLY TO A JOB!?)
 
 Lol.
 
-![](images/image-1928.png)
+![](../images/image-1928.png)
 
 Damn, I am just so full of ideas right now. I don't feel like watching courses or anything like that. Damn, I forgot the exercises.
 
 Tomorrow, I am going to start easing myself into programming. Then I am going to get the trades data and start cracking.
 
-3:30pm. ![](images/image-1929.png)
+3:30pm. ![](../images/image-1929.png)
 
 Reminds me of the time as a kid when I was reading SomethingAwful. This guy is making his Youtube career satirizing LinkedIn.
 
@@ -25420,7 +25420,7 @@ I'd start with the Bookmap and Topstep Discords since they're free and specifica
 
 6:45pm. I am done with the chat. 
 
-![](images/image-1930.png)
+![](../images/image-1930.png)
 
 At any rate, the one in the middle seems like an interesting post. I never knew that momentum gap up is extremly risky.
 
@@ -25734,8 +25734,8 @@ starting point:
 > fund with $100-1k for testing target high-volume markets (politics/crypto)
  > expect 50-70% win rate but focus on positive EV
 
-![](images/image-1931.png)
-![](images/image-1932.png)
+![](../images/image-1931.png)
+![](../images/image-1932.png)
 
 ***
 
@@ -25778,11 +25778,11 @@ Netrunner ~ Full Album Stream Synthwave / Vaprowave /Cyberpunk / Retrowave Music
 
 This is pretty good. I thought it would be some techno trash.
 
-![](images/image-1933.png)
+![](../images/image-1933.png)
 
 I keep thinking that 2012 would have great graphics, but they look so dated now.
 
-![](images/image-1934.png)
+![](../images/image-1934.png)
 
 You know what, I'll give it a chance.
 
@@ -25794,7 +25794,7 @@ One thing that has me struggling with System Shock besides the shitty level layo
 
 12:25am. Dishonered is great. The art style reminds me of No One Lives Forever which I like.
 
-![](images/image-1935.png)
+![](../images/image-1935.png)
 
 Deus Ex is on sale as well. I've only played the original, but not the rest. Maybe I should get them?
 
@@ -25847,7 +25847,7 @@ This is an amazing algorithm. Pretty simple to implement too. I'll be using this
 7:25pm. https://news.ycombinator.com/item?id=46392115
 Rob Pike Goes Nuclear over GenAI (skyview.social)
 
-![](images/image-1936.png)
+![](../images/image-1936.png)
 
 Lel.
 
@@ -25855,7 +25855,7 @@ Lel.
 
 12/27/2025
 
-6:45pm. ![](images/image-1937.png)
+6:45pm. ![](../images/image-1937.png)
 
 Holy crap, is this Tim Sykes now? He looks and sounds nothing like I remember him.
 
@@ -25863,7 +25863,7 @@ At any rate, I am going to have to think very seriously how I want to do the nex
 
 The bot has been doing great work up to now, but it's in over its head.
 
-![](images/image-1938.png)
+![](../images/image-1938.png)
 > Now there is infinitely more chares to short, infinitely more brokers that...
 
 So maybe it won't be as much of a problem to try out Tim strategy at some point.
@@ -25886,7 +25886,7 @@ Looooooooollll!
 8:15pm. https://youtu.be/KZb7XCrVxWY?t=527
 Why Are Female Snipers Executed Upon Capture
 
-![](images/image-1939.png)
+![](../images/image-1939.png)
 
 Holy crap. Dead horses, fake trees. Don't want to go up against a sniper.
 
@@ -25918,7 +25918,7 @@ But since I am at it, I might as well investigate how to do simulation at the or
 
 Opus will know the way.
 
-12:25pm. ![](images/image-1940.png)
+12:25pm. ![](../images/image-1940.png)
 
 If the order book sims turn out to be too hard, maybe I could try out market making on Polymarket by the end of this book.
 
@@ -26104,7 +26104,7 @@ Now I will be going straight to the root. I think understanding how market makin
 
 5:05pm. Nice.
 
-![](images/image-1941.png)
+![](../images/image-1941.png)
 
 I forgot how Python's dataclasses work up to now.
 
@@ -26162,8 +26162,8 @@ Worth syncing with your friend to see what he's learned about the API and any go
 
 12/30/2025
 
-8:30am. ![](images/image-1942.png)
-![](images/image-1943.png)
+8:30am. ![](../images/image-1942.png)
+![](../images/image-1943.png)
 
 My thoughts were heavy tonight. I was really tired yesterday so I went to sleep at 8pm, but it was a slog to fall asleep.
 
@@ -26179,7 +26179,7 @@ I am in a weak position again. Briefly, for the first few months at Tao Ceti I w
 
 To make it strong, I either need the poker bot or the trading bots. I must complete those projects. The 100k that I have now will vanish if I just sit on my ass and do nothing.
 
-8:45am. ![](images/image-1944.png)
+8:45am. ![](../images/image-1944.png)
 
 I love the anons who keep making these every year.
 
@@ -26187,7 +26187,7 @@ I love the anons who keep making these every year.
 
 Time to do it.
 
-9:35am. ![](images/image-1945.png)
+9:35am. ![](../images/image-1945.png)
 
 Honestly, the refresher on Python classes is welcome. I never knew how abstract base classes worked up to now.
 
@@ -26203,12 +26203,12 @@ And nobody can keep losing all the time.
 
 I'll aim to finish it within a week. It doesn't matter how long this system takes. An year should be enough for me to become a profitable trader either way.
 
-![](images/image-1946.png)
+![](../images/image-1946.png)
 > Anyone else old enough to remember when whitepapers were summaries and discussions of scientifically proven technologies rather than marketing documents for scammers
 
 Crypto companies love doing these papers.
 
-10:40am. ![](images/image-1947.png)
+10:40am. ![](../images/image-1947.png)
 
 Agh, I can't focus too much on this. It's not too interesting. I already have the functional programming skills to tackle this complexity, though the way they're taking advantage of Python iterators is novel to me.
 
@@ -26216,11 +26216,11 @@ Agh, I can't focus too much on this. It's not too interesting. I already have th
 
 Honestly, it's fine if I cannot focus. I'll dedicate myself to the book for as long as it takes.
 
-12:20pm. ![](images/image-1948.png)
+12:20pm. ![](../images/image-1948.png)
 
 It's a real slog for me to go through this now. I have trouble believing that I will win. I have trouble believing that it's possible for me to win. I lack faith. But that is how it always was for me.
 
-12:35pm. ![](images/image-1949.png)
+12:35pm. ![](../images/image-1949.png)
 
 Ah damn it. I can't follow this at all, due to the boredom.
 
@@ -26499,7 +26499,7 @@ What granularity are you working at—are you counting orders per second, per 10
 
 ///
 
-3:50pm. ![](images/image-1950.png)
+3:50pm. ![](../images/image-1950.png)
 
 I am going to have to revisit this later. I am just skimming it now. I know that inventory management in a store is directly related to market making, but I don't want to commit myself until I see how they will use these concepts to tackle the actual markets. I'll only try out market making if the models they propose are actually attractive enough and make sense to me. If it's some bullshit that gets killed on vol bursts I'll stay clear of it.
 
@@ -26519,18 +26519,18 @@ Epic Metal Instrumentals Power for Motivation🔥No.073
 
 These music videos are much better than they should be given their AI generated nature. The guy is churning them out 1 per day.
 
-6:10pm. ![](images/image-1951.png)
+6:10pm. ![](../images/image-1951.png)
 
 Let me stop here on page 153. Every few dozen minutes I get distracted and start reading HN it feels. I'll finish this book before long. It's a bit dry and formal in an attempt to be thorough. I don't need all that fluff. I want to get to the meat of it.
 
 7:15pm. https://youtu.be/_9V_Hbe-N1A
 A neuroscientist on what the AI field is getting wrong – Adam Marblestone
 
-8:55pm. ![](images/image-1952.png)
+8:55pm. ![](../images/image-1952.png)
 
 I might want to try the PC port of Bloodborne.
 
-10:40pm. ![](images/image-1953.png)
+10:40pm. ![](../images/image-1953.png)
 
 Got the Deus Ex and Wrath Of The Righteous bundles for 26 euros. I am also strongly tempted to get Stellar Blade, Darkest Dungeon and Slay The Spire.
 
@@ -26540,11 +26540,11 @@ Getting the Tao Ceti job was nothing short of a miracle for me. Thomas was prett
 
 11:25am. Agh, I kind of want to play Wrath Of The Righteous.
 
-![](images/image-1954.png)
+![](../images/image-1954.png)
 
 Do I get Stellar Blade or not? Agh, I have the money and I want to dress up Eve so why not.
 
-11:40pm. ![](images/image-1955.png)
+11:40pm. ![](../images/image-1955.png)
 
 Got'em. I have plans to resume DS2 and Monster Hunter World, but they're both hard games so I don't feel like straining myself right now.
 
@@ -26586,17 +26586,17 @@ Doesn't mean you don't have to, it just depends on what you're looking for. If y
 
 12pm. Instead of looking at what I am losing, I need to look at what I am gaining. Let's do everything step by step.
 
-12:05pm. ![](images/image-1956.png)
+12:05pm. ![](../images/image-1956.png)
 
 Let me start. I don't want to bother reading all this since I am already familiar with the algos.
 
-12:40pm. ![](images/image-1957.png)
+12:40pm. ![](../images/image-1957.png)
 
 Yeah, the book is tiresome to read if you know this stuff.
 
 Hopefully it will start to get fun once we get to actual trading parts.
 
-2:20pm. ![](images/image-1958.png)
+2:20pm. ![](../images/image-1958.png)
 
 Oh yeah, we're finally getting here. I've just cancelled my Massive sub. I'll have all the features until Jan 3rd.
 
@@ -26606,17 +26606,17 @@ This sounds promising.
 
 3:50pm. Breakfast, chores and exercises are done. Let me see if I can focus on the book.
 
-4pm. ![](images/image-1959.png)
+4pm. ![](../images/image-1959.png)
 
 Yeah, I think I'll be able to get into this. I don't need any more knowledge in RL, but I do need more finance knowledge.
 
 The problem with the book is that so far, it didn't really describe how crappy RL is in practice.
 
-4:20pm. ![](images/image-1960.png)
+4:20pm. ![](../images/image-1960.png)
 
 I am falling asleep again. Let me skim this. I want to get to the trading systems. This book is just wasting my time with this trash.
 
-![](images/image-1961.png)
+![](../images/image-1961.png)
 
 I've skipped to this.
 
@@ -26624,7 +26624,7 @@ I've skipped to this.
 
 Focus me, focus.
 
-4:50pm. ![](images/image-1962.png)
+4:50pm. ![](../images/image-1962.png)
 
 The options pricing chapter was too involved. The math is very deep and I'd need to code it up myself in order to understand it.
 
@@ -26632,13 +26632,13 @@ Nevermidn it for now. Let me read the order book trading algo chapter. That is w
 
 Forget reading books. Just focus on mastering aspects of them relevant to your interest.
 
-5:10pm. ![](images/image-1963.png)
+5:10pm. ![](../images/image-1963.png)
 
 This is a good place to slow down and focus.
 
 I honestly quite like this book. If were a beginner at RL and ML it would have been great. But right now, it seems that this is the only chapter relevant to me in the whole book.
 
-5:20pm. ![](images/image-1964.png)
+5:20pm. ![](../images/image-1964.png)
 
 I really want to take a break, but this is exactly the interesting part of the book for me. I wonder what sort of assumptions they will bring into this?
 
@@ -26650,11 +26650,11 @@ I really want to take a break, but this is exactly the interesting part of the b
 
 No shit. That would actually be valuable to me.
 
-![](images/image-1965.png)
+![](../images/image-1965.png)
 
 I'll have to check out these papers. The next section is on optimal market making.
 
-5:50pm. ![](images/image-1966.png)
+5:50pm. ![](../images/image-1966.png)
 
 The math goes from very easy to very hard in a flash in this book.
 
@@ -26662,7 +26662,7 @@ The math goes from very easy to very hard in a flash in this book.
 
 It's gibberish.
 
-5:55pm. ![](images/image-1967.png)
+5:55pm. ![](../images/image-1967.png)
 
 At least this section has some references I could look into.
 
@@ -26672,7 +26672,7 @@ I guess I should've known better when it became boring.
 
 This is a good spot to stop for the day. Tomorrow I am going to backtrack into the conversations by Opus and check out some of its recommendations. Those simulators by JP Morgan sound interesting.
 
-6pm. ![](images/image-1968.png)
+6pm. ![](../images/image-1968.png)
 
 The actual papers should be more interesting.
 
@@ -26766,22 +26766,22 @@ https://ora.ox.ac.uk/objects/uuid:8af3b96e-a088-4e29-ba1e-0760222277b7/files/s69
 
 Found this.
 
-12:15pm. ![](images/image-1969.png)
+12:15pm. ![](../images/image-1969.png)
 
 This is a very complicated paper, and the method in it is overkill for my needs. I think I'll just go with my own stochastic model idea. But I'll want to familiarize myself with ABM.
 
 https://news.ycombinator.com/item?id=46406570#46452162
 Reminiscences of a Stock Operator (1923) (gutenberg.org)
 
-![](images/image-1970.png)
+![](../images/image-1970.png)
 
 RIP Jesse Livermore.
 
-12:35pm. ![](images/image-1971.png)
+12:35pm. ![](../images/image-1971.png)
 
 Oh interesting. I had no idea about these stylized facts.
 
-12:40pm. ![](images/image-1972.png)
+12:40pm. ![](../images/image-1972.png)
 
 Let me take a break here.
 
@@ -26835,16 +26835,16 @@ Let me read the paper for 30m and then I will stop for the day.
 
 I just cannot seem to sleep properly. My morning are always early tense affairs, and it's hard to fall asleep.
 
-5pm. ![](images/image-1973.png)
+5pm. ![](../images/image-1973.png)
 Table 1: Contrast between standard economic abstractions and more realistic ones 
 
-5:05pm. ![](images/image-1974.png)
+5:05pm. ![](../images/image-1974.png)
 
 I don't know if this time around I will be successful, but at least now I know. I know how I would have approached the problem if I had my current skills back then. It might end up not being enough, but now I can go beyond what my old self could even imagine.
 
 5:10pm. Today I am a programmer, and back then I was not.
 
-5:20pm. ![](images/image-1975.png)
+5:20pm. ![](../images/image-1975.png)
 
 I had enough, let me stop here for the day. This is pretty interesting though. Honestly, I had never heard about agent based modeling up to now. In truth, I always wanted to play a trading game, but never knew any that existed. Maybe firing up ABIDES and training an agent to beat it could be a fruitful exercise.
 
@@ -27086,21 +27086,21 @@ I am going to look into ABIDES either way. I want to see how it deals with the t
 
 Maybe I could have an event queue. Like the low level machine could queue sampling an action in 10ms, but higher level machines could schedule their own re-evals more granulary.
 
-3pm. ![](images/image-1976.png)
+3pm. ![](../images/image-1976.png)
 
 This paper is a snoozefest. I guess I better skim it.
 
-3:05pm. ![](images/image-1977.png)
-![](images/image-1978.png)
-![](images/image-1979.png)
+3:05pm. ![](../images/image-1977.png)
+![](../images/image-1978.png)
+![](../images/image-1979.png)
 
 Actually this is more interesting than I thought it would be.
 
-![](images/image-1980.png)
+![](../images/image-1980.png)
 
 At least the finance parts are interesting.
 
-3:15pm. ![](images/image-1981.png)
+3:15pm. ![](../images/image-1981.png)
 
 Oh really? I had no idea.
 
@@ -27146,8 +27146,8 @@ What's your current thinking on the training data side? Have you made progress o
 
 ///
 
-![](images/image-1982.png)
-![](images/image-1983.png)
+![](../images/image-1982.png)
+![](../images/image-1983.png)
 
 This was interesting.
 
@@ -27170,21 +27170,21 @@ ABIDES: Towards High-Fidelity Market Simulation for AI Research
 
 Let me start with the paper.
 
-![](images/image-1984.png)
+![](../images/image-1984.png)
 
 Hmmmm...
 
-4:50pm. ![](images/image-1985.png)
+4:50pm. ![](../images/image-1985.png)
 
 Yeah, I want a time based sim. I wasn't ready for it before.
 
 Ok, nevermind ABIDES. I don't want to bother with this. Rather, I want to go with my original idea, but I'll refine so that individual trades are generated. And I'll run a stack of abstract machines in 10 milisecond increments to deal with all the episode transitions.
 
-5:15pm. ![](images/image-1986.png)
+5:15pm. ![](../images/image-1986.png)
 
 Yeah it makes sense that info being costly would make a market inefficient. Cost doesn't have to be money. It can be time and effort as well. Getting good info is hard.
 
-5:20pm. ![](images/image-1987.png)
+5:20pm. ![](../images/image-1987.png)
 
 Reminds me of the financial games that current AI companies are playing.
 
@@ -27229,7 +27229,7 @@ It's I myself who got fucked seriously pursuing RL. If I wanted to do art, I'd b
 
 So what I should do is pursue trading in an artistic fashion. Sketch out the distribution and trade accordingly to it.
 
-12:30pm. ![](images/image-1988.png)
+12:30pm. ![](../images/image-1988.png)
 > Why do we care about stationarity? The answer to that becomes much clearer when we discuss strategies as statistical arbitrage which rely on stationarity as central to the whole process of arbitraging the prices of one asset versus another.
 
 I had no idea that stat arb relies on stationarity. I mean why would it? Stocks aren't stationary.
@@ -27245,19 +27245,19 @@ I am really considering simulating the order book instead of generating random t
 
 Let me have breakfast here.
 
-1:45pm. ![](images/image-1989.png)
+1:45pm. ![](../images/image-1989.png)
 
 I had no idea that in the past it wasn't possible to use limit orders.
 
-2pm. ![](images/image-1990.png)
+2pm. ![](../images/image-1990.png)
 
 Yeah, those 2 large block trades in LW influenced a lot of activity.
 
-![](images/image-1991.png)
+![](../images/image-1991.png)
 
 Goddamit, I don't understand differential equations at all.
 
-2:05pm. ![](images/image-1992.png)
+2:05pm. ![](../images/image-1992.png)
 
 This paper is impenetrable to me.
 
@@ -27265,17 +27265,17 @@ This paper is impenetrable to me.
 
 What about the order book simulation paper?
 
-![](images/image-1993.png)
+![](../images/image-1993.png)
 
 No, it's specifically not a simulation paper. But will try to approxmate it analytically.
 
-2:25pm. ![](images/image-1994.png)
+2:25pm. ![](../images/image-1994.png)
 
 The math is super heavy with infinities going in every direction. I am not going to be able to use this to simulate the order book.
 
 Let me read the paper and then I will so more research on this topic.
 
-2:30pm. ![](images/image-1995.png)
+2:30pm. ![](../images/image-1995.png)
 
 Yeah, good luck using this shit for anything.
 
@@ -27289,7 +27289,7 @@ He says it's not a stock bubble, but a debt bubble.
 1:50pm. https://youtu.be/xBM307YwVRw
 I can't believe he was right.
 
-![](images/image-1996.png)
+![](../images/image-1996.png)
 
 Yeah, Claude Opus got me too.
 
@@ -27458,7 +27458,7 @@ Lance has some good vids on his Twitter. This is one of them.
 
 Hmmmm...
 
-![](images/image-1997.png)
+![](../images/image-1997.png)
 
 It's dumb, but I like this meme.
 
@@ -27482,7 +27482,7 @@ Here is an interesting thread on prediction markets.
 
 https://mangadex.org/title/647c6480-a877-4899-9382-5757fcfba1d3/kanreki-hime
 
-![](images/image-1998.png)
+![](../images/image-1998.png)
 
 This is fucking hillarious. It's just a still frame, but I lol'd.
 
@@ -27497,11 +27497,11 @@ The Most Dangerous Person in History Who Ever Lived | Prof Jiang Xueqin
 
 This video about Christianity really caught my interest yesterday, and I want to finish it now.
 
-![](images/image-1999.png)
+![](../images/image-1999.png)
 
 How long was it since I studied anything religious last. The explanation for why Christianity took off compared to other religions is pretty good.
 
-11:55am. ![](images/image-2000.png)
+11:55am. ![](../images/image-2000.png)
 
 So his teachings were actually pretty elitist with thn need to take on individual responsibility and think for yourself.
 
@@ -28311,7 +28311,7 @@ The 1970 paper is difficult to read, so I guess that leave Youtube.
 
 He's explaining it wrong. What makes the proposal distribution symmetric is that it's additive to the original state. Also he mistok the min for the max on the slides.
 
-11:55am. ![](images/image-2001.png)
+11:55am. ![](../images/image-2001.png)
 
 I really don't understand where that determinant of the jacobian is coming from though.
 
@@ -28339,7 +28339,7 @@ type t =
 
 That would be a space with a volume of 2. Then if we consider `t * t * t` that would be a space with a volume of 8. I am guessing the jacobian is supposed to compensate for these sorts of transformations. Like if you want the detailed balance condition to hold, you might want to make it so that `t` and `t * t * t` are sampled with equal probability.
 
-![](images/image-2002.png)
+![](../images/image-2002.png)
 
 Like in this video they talk about Bayesian model selection.
 
@@ -28380,23 +28380,23 @@ The Strange Math That Predicts (Almost) Anything
 
 Let me watch this.
 
-2:45pm. ![](images/image-2003.png)
+2:45pm. ![](../images/image-2003.png)
 
 The notation here is so difficult. What is this dx at the top. Where does it come from?
 
-![](images/image-2004.png)
+![](../images/image-2004.png)
 
 As a programmer, the formulas here barely make any sense at all with x, x' and dx coming out of nowhere. How is x related to dx here?
 
-3:25pm. ![](images/image-2005.png)
+3:25pm. ![](../images/image-2005.png)
 
 Agh, this is so complicated. It's such a disappointment. But really, why did Opus suggest indicator variables. If birth death requires the determinant, then it would have to be the case that...
 
-![](images/image-2006.png)
+![](../images/image-2006.png)
 
 Well to be fair, they do simplify here.
 
-![](images/image-2007.png)
+![](../images/image-2007.png)
 
 And even in the split/merge example, the jacobian goes away.
 
@@ -28476,11 +28476,11 @@ The programming game is all about understanding. And I need the ability to refle
 
 If the Singularity is truly destined to happen, then the world will push generative modeling and Bayesian reasoning beyond the toy stage. It will pull it from the basket of dreams and raise onto the light of the sun.
 
-2:05pm. ![](images/image-2008.png)
+2:05pm. ![](../images/image-2008.png)
 
 Ok, I am understanding this so far. I am going through this paper slowly and carefully making sure I understand every piece.
 
-2:10pm. ![](images/image-2009.png)
+2:10pm. ![](../images/image-2009.png)
 
 I haven't look at it too deeply, but I think these rules are similar to how reversible computation works.
 
@@ -28496,7 +28496,7 @@ Once I internalize it, maybe I'll be able to get my motivation back and overcome
 
 4:05pm. I'll be leaving soon.
 
-![](images/image-2010.png)
+![](../images/image-2010.png)
 
 Wow, I really forgot everything there is about integration. I think I did this in high school.
 
@@ -28520,7 +28520,7 @@ I'll play the New Game+ eventually. I want to try something else for now.
 
 12pm. Fuck, I need to stop reading Pathfinder guides and start studying. Those Jacobians won't learn themselves.
 
-![](images/image-2011.png)
+![](../images/image-2011.png)
 
 Yeah, I am pretty sure they are doing this kind of trick in the paper, but some of the steps have been left out. I'll have to work them out.
 
@@ -28537,11 +28537,11 @@ Accept-Reject Sampling : Data Science Concepts
 
 Let me watch this next. The jacobian vid was a straightforward calculus vid.
 
-12:20pm. ![](images/image-2012.png)
+12:20pm. ![](../images/image-2012.png)
 
 Hmmm, all the missing scopes are making my head spin. If you do the substitution you run into variable naming issues. I am not sure what is what at all.
 
-![](images/image-2013.png)
+![](../images/image-2013.png)
 
 I can't really follow the substitution on page 6 here. In the integration video, I know that the integral itself and the variables should be changed. How exactly should that resulting form come out as?
 
@@ -28609,7 +28609,7 @@ Does this clarify the substitution? I'm happy to work through the specific numer
 
 Didn't know that markdown supported Latex. I can see the rendered formulas in the VS Code preview.
 
-12:40pm. ![](images/image-2014.png)
+12:40pm. ![](../images/image-2014.png)
 
 This is really weird. f(y) to f(h(x)).
 
@@ -28762,11 +28762,11 @@ I need to learn a bit more.
 
 Then I'll get back to Opus.
 
-4:20pm. ![](images/image-2015.png)
+4:20pm. ![](../images/image-2015.png)
 
 Since my departure in early September, the Tao Ceti AI token price has lost 90% of its value. Given that the insiders aren't buying it on the cheap, it's fair to say that the company has ceased.
 
-![](images/image-2016.png)
+![](../images/image-2016.png)
 
 The social media activity seems to have ceased since November. Crystal was responsible for these. I wonder if she's still there? I am not going to go to Discord to see what is going on. I was banned from the whole Ceti group and it'd be pathetic to try to get back.
 
@@ -28776,13 +28776,13 @@ I guess now that it's down 90% it seems safe to say that my exit was timed well.
 
 Let me go back to studying acceptance ratios.
 
-4:45pm. ![](images/image-2017.png)
+4:45pm. ![](../images/image-2017.png)
 
 I am really taking my time in studying this. This is pretty amazing math. Shouldn't `D(s|A)` be 1?
 
 ...Let me watch the actual video.
 
-5pm. ![](images/image-2018.png)
+5pm. ![](../images/image-2018.png)
 
 I just keep looking at this and thinking. Damn, you really can do anything with the Bayes rule, can't you?
 
@@ -28906,7 +28906,7 @@ Markov Chain Stationary Distribution : Data Science Concepts
 
 Let me watch these.
 
-5:55pm. ![](images/image-2019.png)
+5:55pm. ![](../images/image-2019.png)
 
 My brain is full of fuck. What the hell, the uniform distribution is 1 by 1 square.
 
@@ -28953,7 +28953,7 @@ Inverse Transform Sampling : Data Science Concepts
 
 Let me watch this.
 
-11:55am. ![](images/image-2020.png)
+11:55am. ![](../images/image-2020.png)
 
 Mhhhh, damn I am groggy.
 
@@ -28967,7 +28967,7 @@ At any rate, I need to focus on the videos. In the middle here, how can he just 
 
 12:35pm. Let me take a break here. Damn it, I am just going to focus on the two vids from yesterday from today. I am super tired, and I want to game. But I should be able to figure this stuff out if I focus.
 
-12:55pm. ![](images/image-2021.png)
+12:55pm. ![](../images/image-2021.png)
 
 Is what he is writing on the blackboard here sensible at all?
 
@@ -28978,7 +28978,7 @@ Fx(x) = P(X <= x)
 
 This is causing my brain to fail compilation. What he is writing sort of makes sense if you step back, but once I dig in, it stops making sense.
 
-2:15pm. ![](images/image-2022.png)
+2:15pm. ![](../images/image-2022.png)
 
 Wow, I didn't know you could use vision of madness on the enemies. Also yesterday I learned that there is a metamagic feat to avoid friendly fire on spells like grease. That would make them so much more less tedious to use. I really want to learn how to play this game in real time as opposed to turn based because turn based takes so much time.
 
@@ -29207,7 +29207,7 @@ It might have been this one.
 
 Honestly instead of watching this I should just talk to Opus instead.
 
-![](images/image-2023.png)
+![](../images/image-2023.png)
 
 Nevermind this shit. Let me talk to Opus. I am just going to fall asleep at this rate.
 
@@ -29216,7 +29216,7 @@ Why do we need MCMC and how does it work? -- Ben Lambert (Oxford)
 
 Actually let me try watching this since I already had it open.
 
-3:40pm. ![](images/image-2024.png)
+3:40pm. ![](../images/image-2024.png)
 
 This is a good point. This gives me a reason why swaps should be random instead of just adjacent. I'll have to change the way the day session episodes are being perturbed.
 
@@ -29226,7 +29226,7 @@ I am not going to watch anymore Youtube vids on this. Let me take a break here a
 
 4:30pm. Let me resume. Time to figure out the acceptance probability.
 
-4:40pm. ![](images/image-2025.png)
+4:40pm. ![](../images/image-2025.png)
 
 Wow, is this how it works. It does make sense!
 
@@ -29481,17 +29481,17 @@ MCMC - 5 - Hamiltonian Monte Carlo (HMC)
 
 Oh, yeah, I should also look into Gibbs sampling. I forgot what it was.
 
-5:45pm. ![](images/image-2026.png)
+5:45pm. ![](../images/image-2026.png)
 
 https://www.youtube.com/@MeerkatStatistics
 
 This is a good channel. I should watch more of it later.
 
-![](images/image-2027.png)
+![](../images/image-2027.png)
 
 Yeah, this is a good time to expand my horizons a bit.
 
-![](images/image-2028.png)
+![](../images/image-2028.png)
 
 So the proposal distribution is based on an exponential one?
 
@@ -29506,19 +29506,19 @@ SBI - Simulation Based Inference - 1 - Intro
 
 I've never heard about SBI, so I might as well check it out.
 
-11:40am. ![](images/image-2029.png)
+11:40am. ![](../images/image-2029.png)
 
 You know what, nevermind this.
 
 Let me just refresh my memory of VI for a bit.
 
-12pm. ![](images/image-2030.png)
+12pm. ![](../images/image-2030.png)
 
 Let me start for real. With what I know about MCMC now, I am not sure how I'd express the problem in terms of VI. I want to understand it better.
 
 12:20pm. Sigh, yesterday I slept well, but today I went to bed past 3am again. And today I am tired.
 
-12:35pm. ![](images/image-2031.png)
+12:35pm. ![](../images/image-2031.png)
 
 Damn it, I cannot follow the math here again.
 
@@ -29658,7 +29658,7 @@ Ah whatever. Let me study simulation based vids.
 https://youtu.be/TsSbW4MYWbM?list=PLJ71tqAZr195v4B42fOGzHMjHBR0bWw1X
 SBI - Simulation Based Inference - 1 - Intro
 
-2:35pm. ![](images/image-2032.png)
+2:35pm. ![](../images/image-2032.png)
 
 Ah forget it, I am not into this. MH MCMC + regular supervised learning should be enough to get me what I want.
 
@@ -30500,11 +30500,11 @@ I had a lot easier time playing Stellar Blade and Dishonored than Pathfinder: Wr
 
 1:45pm. Let me screencast just for a bit and then I will do the chores and exercises.
 
-4:10pm. ![](images/image-2033.png)
+4:10pm. ![](../images/image-2033.png)
 
 Found this on /pol/. It can't possibly be real.
 
-![](images/image-2034.png)
+![](../images/image-2034.png)
 
 If I wasn't so annoyed at this, I'd say this is based behavior. I used to be really into right wing stuff a decade ago, but those guys were all about race and IQ. It's ironic that when the right wing revolution finally happened, they picked the dumbest, most corrupt sleaze bag imaginable to be their leader.
 
@@ -30525,14 +30525,14 @@ https://news.ycombinator.com/item?id=46680515
 6:55pm. https://news.ycombinator.com/item?id=46670524
 Prediction markets are ushering in a world in which news becomes about gambling (theatlantic.com)
 
-![](images/image-2035.png)
+![](../images/image-2035.png)
 > The people "betting against" you dying just paid to have you killed.
 
 Oh wow.
 
 https://thezvi.substack.com/p/the-online-sports-gambling-experiment
 
-![](images/image-2036.png)
+![](../images/image-2036.png)
 
 I'll leave this for later. Let me go take a bath.
 
@@ -30592,7 +30592,7 @@ I am making good progress. I just need to focus on it. At the very least unlike 
 
 12:20pm. For some extra weirdness, I got this email today.
 
-![](images/image-2037.png)
+![](../images/image-2037.png)
 
 So apparently I am in the top 1% of Haskell devs somehow now?
 

@@ -24,3 +24,15 @@ I sure hope so.
 ![](images/image-2041.png)
 
 He says that this is really simple, but requires practice.
+
+![](images/image-2042.png)
+
+He says that when you spent time on this stuff the different algos are very easy to indentify. There are like 15 different algos he says.
+
+Ok, I could code that up. Make a generative model, and then go the other way.
+
+5:50pm. Done with the video.
+
+![](images/image-2043.png)
+
+The training needs about 40k more batches until it's done. I guess I'll have to wait for that to finish before I can start playing Pathfinder.

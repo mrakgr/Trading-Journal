@@ -20,3 +20,7 @@ He says that they're trying to put a story on the stock.
 > Leading indicator.
 
 I sure hope so.
+
+![](images/image-2041.png)
+
+He says that this is really simple, but requires practice.

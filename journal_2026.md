@@ -36,3 +36,5 @@ Ok, I could code that up. Make a generative model, and then go the other way.
 ![](images/image-2043.png)
 
 The training needs about 40k more batches until it's done. I guess I'll have to wait for that to finish before I can start playing Pathfinder.
+
+6:45pm. Ugh, the training crashed after 6h. More details in the video.

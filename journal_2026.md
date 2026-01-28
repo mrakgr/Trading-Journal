@@ -38,3 +38,13 @@ Ok, I could code that up. Make a generative model, and then go the other way.
 The training needs about 40k more batches until it's done. I guess I'll have to wait for that to finish before I can start playing Pathfinder.
 
 6:45pm. Ugh, the training crashed after 6h. More details in the video.
+
+1/28/2026
+
+4:30pm. https://boards.4chan.org/a/thread/285630984/nia-liston-anime-confirmed
+
+![](images/image-2044.png)
+
+Nia Liston is getting an anime. Let me get back to trying out the gMLP architecture.
+
+The recent successes are making more more hopeful. My motivation is going up.

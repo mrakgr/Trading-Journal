@@ -48,3 +48,20 @@ The training needs about 40k more batches until it's done. I guess I'll have to 
 Nia Liston is getting an anime. Let me get back to trying out the gMLP architecture.
 
 The recent successes are making more more hopeful. My motivation is going up.
+
+1/29/2026
+
+2:10pm. Had an apointment with an orthoped today. I'll take the chance to finally put together the clips I recorded and post them online.
+
+I just realized that I haven't posted a video in over a month. It's going to be quite a lot of content.
+
+2:50pm. It's rendering. Nice.
+
+7pm. Time for WotR.
+
+I am considering getting Rogue Trader as well. I didn't feel like doing any programming today. I'll get back into it tomorrow.
+
+https://youtu.be/-mk6ad_5Qyg
+Quantifying Order Flow (Pt. 2)
+
+Here is the video. The next one is scheduled in a few days.

@@ -88,3 +88,7 @@ Lol, anyway let me chill for a bit longer and I will resume. Right now I am uncl
 ![](images/image-2048.png)
 
 The author of this is turbo based.
+
+8:30pm. ![](images/image-2049.png)
+
+Trade of the month. One day I'll be capable of catching them.

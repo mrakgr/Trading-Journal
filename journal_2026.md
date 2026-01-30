@@ -75,3 +75,9 @@ My right arm is quite stiff from the shoulder injection I got yesterday.
 Hopefully this will melt that calcificate for good.
 
 The previous attempt failed.
+
+3:30pm. https://mangabuddy.com/magical-girls-defeat-trial/chapter-1
+
+Holy crap, this is way more explicit than I thought it would be. FuckNovelpia is back in another form and I was looking for Magical Girl Defeat Addiction (it can be found under the name 'magic girl defeat addiction' now) and found this.
+
+Lol, anyway let me chill for a bit longer and I will resume. Right now I am unclear on what my near term goals are.

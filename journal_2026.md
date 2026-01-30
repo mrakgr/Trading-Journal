@@ -81,3 +81,10 @@ The previous attempt failed.
 Holy crap, this is way more explicit than I thought it would be. FuckNovelpia is back in another form and I was looking for Magical Girl Defeat Addiction (it can be found under the name 'magic girl defeat addiction' now) and found this.
 
 Lol, anyway let me chill for a bit longer and I will resume. Right now I am unclear on what my near term goals are.
+
+7:25pm. ![](images/image-2045.png)
+![](images/image-2046.png)
+![](images/image-2047.png)
+![](images/image-2048.png)
+
+The author of this is turbo based.

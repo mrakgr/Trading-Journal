@@ -65,3 +65,13 @@ https://youtu.be/-mk6ad_5Qyg
 Quantifying Order Flow (Pt. 2)
 
 Here is the video. The next one is scheduled in a few days.
+
+1/30/2026
+
+11:30am. Got up over an hour ago. Let me finally start.
+
+My right arm is quite stiff from the shoulder injection I got yesterday.
+
+Hopefully this will melt that calcificate for good.
+
+The previous attempt failed.

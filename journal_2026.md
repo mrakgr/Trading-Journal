@@ -92,3 +92,9 @@ The author of this is turbo based.
 8:30pm. ![](images/image-2049.png)
 
 Trade of the month. One day I'll be capable of catching them.
+
+2/3/2026
+
+3:10pm. ![](images/image-2050.png)
+
+More data centers in space nonsense. I thought it was a joke by Bezos, but Elon is now seriously pushing it.

@@ -98,3 +98,9 @@ Trade of the month. One day I'll be capable of catching them.
 3:10pm. ![](images/image-2050.png)
 
 More data centers in space nonsense. I thought it was a joke by Bezos, but Elon is now seriously pushing it.
+
+2/4/2026
+
+3:40pm. ![](images/image-2051.png)
+
+The Nightmare.

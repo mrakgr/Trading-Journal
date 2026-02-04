@@ -104,3 +104,27 @@ More data centers in space nonsense. I thought it was a joke by Bezos, but Elon 
 3:40pm. ![](images/image-2051.png)
 
 The Nightmare.
+
+7:45pm. I guess this week it's another downleg in the market. Gold and silver dumped, and BTC is now solidly below 80k.
+
+I myself am done making simplistic models. I need to move on to making realistic ones.
+
+The plan is to take a break from programming and go through the SMB Capital course that I downloaded a while ago.
+
+I need to start baking in actual order flow patterns into the generative model. Swapping between episodes is very obvious.
+
+8:50pm. I'll slow down my pace and think more carefully how I want to do modeling.
+
+In efficient markets it's hard to do trend following. The patterns where drift/volatility is greater than 0.1 is rare.
+
+Most of the patterns are volatility with no drift.
+
+9:05pm. Starting tomorrow, I am going to slow down. Yeah, just programming isn't going to get me far. I need to start studying again.
+
+I know 1 pattern which is the held bid/offer, but there have to be other ones. I need to get everything I can from SMB.
+
+Then I will try coding it up into a coherent system. If it turns out that tape reading absolutely cannot be distilled into a neural network then so be it. I'll apologize to Thomas for misleading him again (the first time was the Hopfield dictionary) and move on to something else.
+
+The 107k I have lying around is permission for me to put the try this. If I am not going to do it now then when?
+
+Ok, so price patterns on 1s charts are one thing, but there could very well be differences when I look into actual order flow, especially at extreme situations.

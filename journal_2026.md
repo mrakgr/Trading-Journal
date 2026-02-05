@@ -191,3 +191,27 @@ I need to model the passive and aggresive flow and the interplay between them.
 5pm. The sooner I start thinking about the bids and the asks the better. I have to admit the experiments really made me realize just how the drift and volatility components interact.
 
 Let me finish the video instead of falling into thought here.
+
+5:30pm. ![](images/image-2054.png)
+
+Watching this again. He says the downside is 1-2 pennies and the upside is 30-100 cents for unusual holds on the bid.
+
+Yeah, this is what I want.
+
+Imagine if I was a big buyer. I'd start off accumulating slowly and then stepping up once the level has been exhausted. I just need to look for those kinds of patterns, but at the same time I want to see all of SMB's setups, at least from that time.
+
+I need to model this and the order book to a simplified degree.
+
+6:20pm. ![](images/image-2055.png)
+
+Today I learned about coming back to the bid pattern. 
+
+6:25pm. I'll stop here for the day. It's going to be hell to bake all of this into the model. I am going to learn to both read the tape and model quantitatively.
+
+This is only day 2 and the course is 25 days long so I have my work cut out for me.
+
+I wonder why in the later courses they put less of an emphasis on tape reading? Do the retail fish traders not like it?
+
+Who knows, maybe it's this course that I actually need rather than the up to date versions. It's all tape reading.
+
+Let's see if I can maintain a pace of 1 day of the course per real life day.

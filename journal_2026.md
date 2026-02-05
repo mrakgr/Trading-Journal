@@ -148,3 +148,23 @@ Who knows whether shelling out money for this is right or not, but either way it
 ![](images/image-2052.png)
 
 I wonder if the dumbass founders are still long this shit or if they've bailed earlier? I bet BTC is very scary to hold for many people right now. Stock indices just refuse to collapse though despite the fundamentals getting worse and worse.
+
+3:45pm. https://youtu.be/9EFSF444b7Q
+The Killer Mistake to Avoid at All Costs
+
+Let me watch this.
+
+I am trying to figure out what my goals are. I thought about the opening plays and yes, that is what I want to do. Forget generating the whole day, I'll cut out everything, but the first hour and focus solely on that to start off.
+
+My beginner's strategy will be to focus only on the first hour. I'll generate some consolidations and some opening drives and focus solely on that.
+
+The random price action model is quite powerful. I can take advantage of deviations from it.
+
+As I go through the SMB course, I will focus just on that, the opening drive.
+
+4:10pm. Let me start going through the course. This will take me a while.
+
+4:15pm. ![](images/image-2053.png)
+
+This is my first time seeing Brett Steenbarger talk. I used to read just blog a lot back in the day.
+

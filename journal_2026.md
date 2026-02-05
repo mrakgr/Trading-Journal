@@ -173,3 +173,21 @@ This is my first time seeing Brett Steenbarger talk. I used to read just blog a 
 > And finally the best goals are based on strengths, on what do well.
 
 Great talk and I am already halfway in.
+
+4:45pm. Balance vs imbalance. I think I understand it now. Balance is when drift < volatility. When it's below 0.1 the noise dominates the drift. And when it's the opposite That is when you breakouts. In the market, I find that it goes between extremes.
+
+I'll really want to get my hands on trade sides and study those in nuance.
+
+I think I need to introduce a concept. A trade can be highly probable to hit the bid or the ask, but at the same time when you have absorbtions or held levels, those levels tend to hold. In other words, in breakouts to the upside, the bids should be holding. Volume on the bid shouldn't drop the price, but volume on the ask should lead to the levels rising.
+
+And in absorbtion, strong momentum to the upside where trades are mostly getting executed on the ask will start having difficulty pushing prices up.
+
+The model I have now doesn't represent this well.
+
+4:55pm. Yeah, this is a major weakness of my modeling effort.
+
+I need to model the passive and aggresive flow and the interplay between them.
+
+5pm. The sooner I start thinking about the bids and the asks the better. I have to admit the experiments really made me realize just how the drift and volatility components interact.
+
+Let me finish the video instead of falling into thought here.

@@ -168,3 +168,4 @@ As I go through the SMB course, I will focus just on that, the opening drive.
 
 This is my first time seeing Brett Steenbarger talk. I used to read just blog a lot back in the day.
 
+> You want to trade with a microscope - that's the tape, and trade with the telescope, that's the big picture.

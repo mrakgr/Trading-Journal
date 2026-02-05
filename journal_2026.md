@@ -215,3 +215,11 @@ I wonder why in the later courses they put less of an emphasis on tape reading? 
 Who knows, maybe it's this course that I actually need rather than the up to date versions. It's all tape reading.
 
 Let's see if I can maintain a pace of 1 day of the course per real life day.
+
+9:25pm. ![BTCUSD](images/image-2056.png)
+
+Bitcoin is absolutely melting. If this doesn't crush the markets eventually, I don't know what will. The indices just refuse to go down.
+
+![QQQ](images/image-2057.png)
+
+I mean, it is going down, but it's still solidly above April lows.

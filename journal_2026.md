@@ -169,3 +169,7 @@ As I go through the SMB course, I will focus just on that, the opening drive.
 This is my first time seeing Brett Steenbarger talk. I used to read just blog a lot back in the day.
 
 > You want to trade with a microscope - that's the tape, and trade with the telescope, that's the big picture.
+> I want to be my goals, not just have goals! Do you see the difference? Too many people have goals, like you have a car, you have a goal. It's something separate from you.
+> And finally the best goals are based on strengths, on what do well.
+
+Great talk and I am already halfway in.

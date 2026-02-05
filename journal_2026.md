@@ -147,4 +147,4 @@ Who knows whether shelling out money for this is right or not, but either way it
 
 ![](images/image-2052.png)
 
-I wonder if the dumbass founders are still long this shit or if they've bailed earlier? I bet BTC is very scary to hold for many people right now. Stock indices just refused to collapse though despite the fundamentals getting worse and worse.
+I wonder if the dumbass founders are still long this shit or if they've bailed earlier? I bet BTC is very scary to hold for many people right now. Stock indices just refuse to collapse though despite the fundamentals getting worse and worse.

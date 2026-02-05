@@ -128,3 +128,23 @@ Then I will try coding it up into a coherent system. If it turns out that tape r
 The 107k I have lying around is permission for me to put the try this. If I am not going to do it now then when?
 
 Ok, so price patterns on 1s charts are one thing, but there could very well be differences when I look into actual order flow, especially at extreme situations.
+
+2:25pm. Here is what it takes to get hired at SMB.
+
+* 100 trades in the last 60 trading sessions.
+* Winners bigger than losses.
+* Going through the SMB Training.
+
+https://payment.smbtraining.com/smbspecial/trainingcamp-re.php
+
+4k price tags. I don't have enough in my bank account even if I wanted to. I'll leave it for later.
+
+I am going to focus on the old course, and if I am having success with that I'll definitely go through the main one even if it means paying 2-4k in fees. Because if I could attain profitability it would be worth it. Right now it isn't.
+
+Who knows whether shelling out money for this is right or not, but either way it will take me time to build up a track record and make these systems. I am not in a hurry. Let me start with day 2 from the old course and I'll go from there.
+
+2:30pm. Let me do the chores and then I will get started with the course.
+
+![](images/image-2052.png)
+
+I wonder if the dumbass founders are still long this shit or if they've bailed earlier? I bet BTC is very scary to hold for many people right now. Stock indices just refused to collapse though despite the fundamentals getting worse and worse.

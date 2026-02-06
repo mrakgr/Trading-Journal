@@ -255,3 +255,20 @@ I really need to go through the SMB course and then I will put them to the test.
 I am also considering going into crypto because the high quality data is cheap there and gives me everything I need to try out my theories.
 
 5:55pm. I am giddy right now. It's been a while since I've been engrossed in thinking like this.
+
+11:50pm. https://youtu.be/tOMwDcdxd_c
+Our Worst Market Week Ever — How We Make It Back x2
+
+I am watching this as I prepare to go to bed, and am wondering once again why Chris has such a gambler's mentality. Double down bucket? Triple down bucket?
+
+11:55pm. Why is he doing option trades on AMZN? Doesn't he have any infoarb trades to do?
+ 
+The guy to the left says Chris is deep into margin.
+
+Holy shit.
+
+The AI bubble could easily pop and wipe him out.
+
+12am. Let me stop at the 8m mark. Listening to Chris talk enrages me.
+
+Look, there is nothing wrong just being 100% long and holding for the long term. But being on margin and holding long term is guaranteed to get you killed. Chris is going to find that out the hard way. Every gambler think that he is an exception and that risk management rules don't apply to him. They do.

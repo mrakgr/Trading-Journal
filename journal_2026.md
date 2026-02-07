@@ -291,3 +291,9 @@ https://youtu.be/JpK4fcFNKbM
 ASTARTES 8K (Remastered)
 
 I keep seeing Warhammer 40k vids on Youtube lately and it has gotten me curious.
+
+3:45pm. Let me continue watching the course. Let's see if I can finish day 3 today.
+
+4:10pm. ![](images/image-2058.png)
+
+Lel. Let me go back to the vids. I've just finished one.

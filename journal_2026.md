@@ -336,4 +336,4 @@ He is talking about buying programs.
 
 > Who's the buyer, who's the seller.
 
-I've noticed that they look for that a lot, but I find it very hard to keep track of things on the tape.
+I've noticed that they look for that a lot, but I find it very hard to keep track of things on the box.

@@ -313,3 +313,7 @@ All the edge in trading is learning to analyze order flow.
 4:35pm. ![](images/image-2060.png)
 
 He's teaching to get long in front of a big bid. It does go away the next moment though.
+
+4:40pm. It's really hard to focus on both the tape and the inside market. I have no idea how these guys could possibly be capable of tracking the volume.
+
+In fact, tracking numerical quantities is the hardest thing there is.

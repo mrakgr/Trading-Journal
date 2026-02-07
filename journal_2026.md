@@ -327,3 +327,9 @@ Damn, I cannot follow this at all. Does this guy have one eye on the inner marke
 He is telling me how he'd go in front of big bids and then hitting out if they got decremented.
 
 So it's not just held bids or offers.
+
+6pm. The talk about the inside market is really good.
+
+> You really can get to know the patterns based on bids and offers.
+
+He is talking about buying programs.

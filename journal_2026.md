@@ -271,7 +271,7 @@ The AI bubble could easily pop and wipe him out.
 
 12am. Let me stop at the 8m mark. Listening to Chris talk enrages me.
 
-Look, there is nothing wrong just being 100% long and holding for the long term. But being on margin and holding long term is guaranteed to get you killed. Chris is going to find that out the hard way. Every gambler think that he is an exception and that risk management rules don't apply to him. They do.
+Look, there is nothing wrong just being 100% long and holding for the long term. But being on margin and holding long term is guaranteed to get you killed. Chris is going to find that out the hard way. Every gambler thinks that he is an exception and that risk management rules don't apply to him. They do.
 
 2/7/2026
 
@@ -281,3 +281,4 @@ Which I guess is an improvement.
 
 Right now my mindset is the same when I was working on Spiral. It such a fresh challenge.
 
+1:25pm. Jan 2008 was the best trading market they've seen in 7 years.

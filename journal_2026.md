@@ -282,3 +282,12 @@ Which I guess is an improvement.
 Right now my mindset is the same when I was working on Spiral. It such a fresh challenge.
 
 1:25pm. Jan 2008 was the best trading market they've seen in 7 years.
+
+2pm. Phew, done with day 2. So the held bids and offers the best trading ops according to them.
+
+2:05pm. Let me take a short break and I'll continue to day 3.
+
+https://youtu.be/JpK4fcFNKbM
+ASTARTES 8K (Remastered)
+
+I keep seeing Warhammer 40k vids on Youtube lately and it has gotten me curious.

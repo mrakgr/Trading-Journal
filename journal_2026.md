@@ -317,3 +317,7 @@ He's teaching to get long in front of a big bid. It does go away the next moment
 4:40pm. It's really hard to focus on both the tape and the inside market. I have no idea how these guys could possibly be capable of tracking the volume.
 
 In fact, tracking numerical quantities is the hardest thing there is.
+
+![](images/image-2061.png)
+
+Damn, I cannot follow this at all. Does this guy have one eye on the inner market and the other on the tape? Things just change so fast.

@@ -497,3 +497,23 @@ It's ironic that the easiest patterns (abnormal volume & tape speed, order book 
 I really like that the 16 year old SMB course is all about tape reading. The Trader DNA and the Winning Trader courses aren't about that.
 
 ...You know what, once I push through this course, and get my fill, I'll get the tape reading course as well for 30$ off Yandex. It's a more up to date course and could be a great investment for that sum.
+
+7:25pm. ![](images/image-2064.png)
+
+Oh lol, Opus accidentally found the Winning Trader course pirated on this site. I myself only ever found the Tape Reading one on Yandex.
+
+![](images/image-2065.png)
+
+Here is the Trader DNA one as well.
+
+Damn, now I actually found a torrent for the SMB Tape Reading course on [LimeTorrents](https://www.limetorrents.fun/). It's downloading as we speak. It's only 2.7Gb large.
+
+...It stalled at 97% of all things. At any rate, I should be able to download it tomorrow. I guess I'll change my plans a little.
+
+![](images/image-2066.png)
+
+Also GigaCourses has the two SMB courses for cheap as well. Ok.
+
+7:40pm. I didn't expect I'd be able to find the Tape Reading course today. It's annoying that it stalled at 97%, but if it can finish then...should I drop the Foundation course and move on to the tape reading one.
+
+But the Foundation course is pretty much a tape reading course as it is so I am getting what I want either way.

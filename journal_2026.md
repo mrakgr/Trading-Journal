@@ -390,3 +390,110 @@ Worth noting: the *quality* of crypto order book data is lower in some ways (mor
 ///
 
 Nice. Opus gives me a lot of options for crypto trading. It might be good to start at these places.
+
+6:40pm. ![](images/image-2063.png)
+
+Actually Taris.dev is expensive as fuck.
+
+> Taris.dev start at 700/month minimum. It's pretty expensive.
+
+///
+
+You're right, I should check the actual pricing rather than going from potentially outdated info. Let me look it up.Thanks for the correction. Tardis.dev's minimum order is $300 and their subscriptions are indeed in the hundreds per month range — not the cheap option I initially suggested.
+
+Here's a more accurate picture of the landscape:
+
+**Free options (the real story):**
+
+Binance provides historical trades and aggTrades for free via data.binance.vision — these include the `is_buyer_maker` flag (aggressor side), so you get trade-level order flow for free. However, historical order book data for futures requires a Futures account and is restricted to VIP 1 or above users. So the trade data with aggressor side is free, but the full order book depth history is gated.
+
+For real-time data, every major exchange gives you full depth order book + trade stream with aggressor side via WebSocket for free. The catch is you have to **collect and store it yourself** going forward — you can't go back in time.
+
+**The DIY approach (actually $0):**
+
+The most practical path for someone in your situation would be to start recording the data yourself now. Connect to Binance/Bybit perp WebSocket feeds, capture the L2 order book updates and trade stream, dump it into DuckDB or Parquet files. You'd have exactly the data you need within a few weeks/months of collection. The Tardis open-source `tardis-machine` library can help with normalized collection and is completely free to use for real-time data, connecting directly to exchanges' WebSocket APIs with no API key required.
+
+**Paid historical options:**
+
+- **Tardis.dev**: $300 minimum order for historical, subscriptions from there. Best quality according to most quants.
+- **Crypto Lake** (crypto-lake.com): cheaper than Tardis but with less coverage — offers 20-level order book snapshots.
+- **CCXT**: Free library for scraping normalized data from exchanges, though you're limited to what exchange REST APIs will give you historically.
+
+You're right that it's still not trivially cheap for historical depth data. But the key difference from equities remains: you *can* collect it yourself for free going forward, and the trade data with aggressor labeling is genuinely free historically. For equities, even real-time depth-of-book feeds require expensive exchange subscriptions before you can even start recording.
+
+///
+
+Nevermind that for now. I need to know how the order book and the order flow behave.
+
+7pm. > What is the SMB Capital Low Float Trade?
+
+///
+
+SMB Capital's **Low Float Trade** is a specific intraday trading setup taught by the proprietary trading firm SMB Capital (founded by Mike Bellafiore and Steve Spencer). Let me search for the most current details on this.Based on what I've found, SMB Capital actually teaches two related low float setups. The one most commonly referred to as **the** "Low Float Trade" is the **Low Float Reversal Trade** (sometimes just called the "Low Float Short" or "backside trade"). Here's how it works:
+
+## The Setup
+
+**Stock characteristics:**
+- Stocks with less than ~10 million shares float, with a sweet spot around 5 million shares
+- High short interest, often >20% of float
+- These are typically low-priced, small-cap stocks that have experienced a parabolic run-up driven by promotion, news catalysts, or speculative momentum
+
+**The Core Idea:**
+SMB teaches traders to wait for the "backside of the trade" — staying away from the "front side" saves you from getting caught in a short squeeze and the potential for substantial trading losses. The "front side" is the parabolic move up (which is dangerous to short due to squeeze risk). The "backside" is where the stock has peaked and begins to reverse.
+
+**Why it works:**
+Low float stocks are not as competitive as other stocks, and thus easier to trade. When they reverse, the downmove is substantial and fast, with profits realized immediately. When they reverse, you can sit and hold a core position, making fewer trade decisions. Very little capital is necessary to take a very large position, and the risk/reward is enormous.
+
+**The pattern repeats reliably:** These come every week, without fail, as there is a period of pump and then dump in these low float trades.
+
+## How It's Traded
+
+The general approach is:
+
+1. **Identify** a low float stock that has had a parabolic run (often 50-200%+ in days)
+2. **Wait** for the move to exhaust — look for the stock to fail at resistance, show declining volume on bounces, or break key intraday support levels
+3. **Short the backside** once the reversal is confirmed, typically using VWAP, prior day levels, or intraday support breaks as entry triggers
+4. **Manage risk tightly** — this trade requires extreme discipline and risk management given the wide spreads and potential for violent squeezes
+5. **Hold a core position** as the stock unwinds, often over multiple days
+
+## Key Nuance
+
+SMB emphasizes this as a **short-side trade on the backside**, not trying to buy the pump or short into strength. The edge comes from patience — letting the overextended move play out and then capitalizing on the inevitable mean reversion in a stock with limited float and exhausted buying.
+
+This ties directly into your interest in order flow analysis, Marko — the "unusual hold on bid/offer" patterns you're detecting could be very relevant for identifying when these low float names are being accumulated or distributed near turning points.
+
+///
+
+This is Tim's trade basically. On the Winning Trade course page they call it a favorite of beginning retail traders.
+
+I myself like anything that is easy to spot.
+
+I've been looking at some 1s charts of BTC and they have pretty smooth trends. But they are also mostly rangebound, and you can't really tell when the turns will come.
+
+7:05pm. I am going to try to push through the entire course in the next week if possible so I can move on to programming. The sooner I can start scanning for setups the better. The sooner I can start studying the market the better. The sooner I can code up my insights the better. The sooner I can start making money the better.
+
+I've thing I've realize from today's lectures is that I am really going to have to look into the order book in order to get a sense for the stocks' liquidity. Or rather my bot will. Whenever I take a position, I am going to have to look into easy it would be to get out if the market turns. It'd be terrible to take a position that's too large and get crushed.
+
+Bella's definitely looking into order book imbalances when making trades. I wonder how I am going to model that?
+
+They also look at very specific patterns. They recounted a pattern where the market would pop if there was a big buy order by JP Morgan below the bid. Some of their traders would trade that consistently for about a month.
+
+One trade he talked about that sometimes happened is that there would be a big buyer on the bid, and then he would keep lifting the bid until it is exhausted.
+
+If I just look at trades, I'd miss that completely.
+
+You know, I don't have to bake everything into a NN model. I can have simpler rule based systems as well. We'll see.
+
+But well, I did make the order book generator for a reason. I can simulate the order book imbalances using that.
+
+If the move is strongly positive there should be an order book imbalance in some direction, right?
+
+7:15pm. Sigh, this is really nice.
+
+There is a challenge to this. And there is the possibility of a big win.
+
+It's ironic that the easiest patterns (abnormal volume & tape speed, order book imbalances, held levels) to detect are also ones that are more likely to be long lasting. Patterns that require deep reads of the market like with that JPM bid, are the ones that are likely to be transient.
+
+I really like that the 16 year old SMB course is all about tape reading. The Trader DNA and the Winning Trader courses aren't about that.
+
+...You know what, once I push through this course, and get my fill, I'll get the tape reading course as well for 30$ off Yandex. It's a more up to date course and could be a great investment for that sum.

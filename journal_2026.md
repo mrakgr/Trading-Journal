@@ -301,3 +301,11 @@ Lel. Let me go back to the vids. I've just finished one.
 4:20pm. > When a stock gets good, it has a lot of volume. When a stock isn't trading it doesn't have a lot of volume.
 
 Wisdom quote by Bella from 16 years ago.
+
+4:30pm. ![](images/image-2059.png)
+
+Here he is teaching me to get in front of a big offer, but otherwise get out if it goes away. Makes sense.
+
+Yeah, it's not that trading is complicated, it's just that I completely got not even fooled, but defeated by randomness and my own laziness. This time around you can be sure I'll substitute my programming skill to make it a success.
+
+All the edge in trading is learning to analyze order flow.

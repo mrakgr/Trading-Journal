@@ -272,3 +272,12 @@ The AI bubble could easily pop and wipe him out.
 12am. Let me stop at the 8m mark. Listening to Chris talk enrages me.
 
 Look, there is nothing wrong just being 100% long and holding for the long term. But being on margin and holding long term is guaranteed to get you killed. Chris is going to find that out the hard way. Every gambler think that he is an exception and that risk management rules don't apply to him. They do.
+
+2/7/2026
+
+12:30pm. Let me get started with the SMB course videos. My sleeping pattern has changed during the past few days. I'd get up at 8 and go back to sleep only to get up at close to 12pm.
+
+Which I guess is an improvement.
+
+Right now my mindset is the same when I was working on Spiral. It such a fresh challenge.
+

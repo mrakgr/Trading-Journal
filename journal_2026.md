@@ -333,3 +333,7 @@ So it's not just held bids or offers.
 > You really can get to know the patterns based on bids and offers.
 
 He is talking about buying programs.
+
+> Who's the buyer, who's the seller.
+
+I've noticed that they look for that a lot, but I find it very hard to keep track of things on the tape.

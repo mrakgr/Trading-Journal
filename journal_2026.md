@@ -321,3 +321,9 @@ In fact, tracking numerical quantities is the hardest thing there is.
 ![](images/image-2061.png)
 
 Damn, I cannot follow this at all. Does this guy have one eye on the inner market and the other on the tape? Things just change so fast.
+
+![](images/image-2062.png)
+
+He is telling me how he'd go in front of big bids and then hitting out if they got decremented.
+
+So it's not just held bids or offers.

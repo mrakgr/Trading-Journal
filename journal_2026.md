@@ -297,3 +297,7 @@ I keep seeing Warhammer 40k vids on Youtube lately and it has gotten me curious.
 4:10pm. ![](images/image-2058.png)
 
 Lel. Let me go back to the vids. I've just finished one.
+
+4:20pm. > When a stock gets good, it has a lot of volume. When a stock isn't trading it doesn't have a lot of volume.
+
+Wisdom quote by Bella from 16 years ago.

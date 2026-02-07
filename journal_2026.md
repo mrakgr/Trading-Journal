@@ -337,3 +337,56 @@ He is talking about buying programs.
 > Who's the buyer, who's the seller.
 
 I've noticed that they look for that a lot, but I find it very hard to keep track of things on the box.
+
+6:15pm. Done with day 3. Damn, all this is bad news for me because to be on par with those guys I am going to require full quote data which costs thousands of dollars per month.
+
+I don't think I'll need it all at the start so I might be able to get away with less.
+
+This is good reason to maybe try out crpto trading instead.
+
+...Nevermind, let me stop watching lectures here for the day. The stuff I learned about the inside market is noteworthy.
+
+Those guys are hawks. I might be able to get away with less by picking my setups better. Like, do what Lance teaches and fade euphoric moves at the right time.
+
+Like the BTC collapse recently. I really want to look into those kinds of patterns.
+
+Let me do some research on how easy it is to get data from crypto exchanges.
+
+> I think that full order book data should be easier to get for crypto than for stocks given that they trade openly on the blockchain.  For perpetual futures trading, how much would it cost to get the full trade data that includes the aggressor side as well as full order book data for a particular time period? I think for stocks it would cost thousands of dollars per month. I haven't seen it offered to retail traders anywhere.
+
+///
+
+You're raising an interesting point, but there's actually a common misconception here worth unpacking.
+
+**Crypto exchange order books ≠ blockchain data**
+
+Most crypto trading — especially perpetual futures — happens on **centralized exchanges** (Binance, Bybit, OKX, Deribit, etc.), not on-chain. The order book, matching engine, and trade execution all live on the exchange's internal infrastructure, just like a stock exchange. The blockchain only gets involved for deposits/withdrawals. So the order book transparency isn't inherently better because of blockchain technology.
+
+Even on DEXs like dYdX v4 or Hyperliquid, the order book mechanics are off-chain or on an app-chain, not sitting transparently on Ethereum L1.
+
+**That said, you're right that the data is vastly more accessible and cheaper.** But the reason isn't the blockchain — it's that crypto exchanges compete for retail flow and offer generous free APIs.
+
+**What you can get for free or cheap:**
+
+- **Real-time L2 order book snapshots** (typically top 5-20 levels) — free via WebSocket on Binance, Bybit, OKX, etc.
+- **Full depth order book** — Binance offers this free via WebSocket (`depth@100ms` or snapshot endpoints with up to 5000 levels)
+- **Trade stream with aggressor side** — free on virtually every major exchange. Every trade message includes whether the taker was a buyer or seller (i.e., the aggressor flag). This is the equivalent of what you'd need expensive data for in equities.
+- **Aggregated trades** — also free, which bundle fills at the same price/time/side
+
+**For historical data:**
+
+- **Binance** publishes historical trades and aggregated trades as free CSV downloads on their data portal (data.binance.vision). This includes the `is_buyer_maker` flag (aggressor side). Order book snapshots are also available.
+- **Tardis.dev** — probably the gold standard for historical crypto market data. Full L2/L3 order book, trades with aggressor side, liquidations, funding rates, etc. Pricing starts around **$0–$50/month** for individual/research tiers, with pay-per-use options. Compare that to thousands/month for equivalent equity data.
+- **CoinAPI, Kaiko, Amberdata** — institutional-grade providers, more expensive ($hundreds–$thousands/month), but still cheaper than equity equivalents and with more generous trial/free tiers.
+
+**So for your use case specifically:**
+
+If you wanted full trade data with aggressor side + order book snapshots for, say, BTC-USDT perpetual on Binance for a 6-month historical window, you could realistically get it for **$0–$100** through a combination of Binance's free data portal and Tardis.dev. In real-time, it's completely free via the exchange WebSocket APIs.
+
+The equity world is expensive because exchanges (NYSE, NASDAQ, CBOE) treat market data as a revenue stream and charge heavily for it, especially for full depth-of-book feeds like ITCH/PITCH. Crypto exchanges took the opposite approach — data accessibility drives volume drives fee revenue.
+
+Worth noting: the *quality* of crypto order book data is lower in some ways (more spoofing, wash trading, less regulatory oversight on data integrity), so keep that in mind if you're training models on it.
+
+///
+
+Nice. Opus gives me a lot of options for crypto trading. It might be good to start at these places.

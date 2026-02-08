@@ -559,3 +559,8 @@ Oh, this guy actually is using a heat chart here.
 5pm. ![](images/image-2070.png)
 
 If you're going to use a heatmap what's even the point of these shitty candlesticks?
+
+5:30pm. ![](images/image-2071.png)
+
+Good point on avoiding conference calls. I only learned about this yesterday.
+

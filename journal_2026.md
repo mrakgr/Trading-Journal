@@ -708,3 +708,7 @@ Linda Raschke recommends market profile? First time I heard about it.
 11:20pm. Let me have dinner here. I'll leave the futures course for tomorrow. Futures traders really swear by market profile don't they. In fact, I couldn't find good resources on Youtube about this, so this material is a very good find for me.
 
 Sigh, since I have the fondations course, I guess I don't really need the tape reading one. The examples in the videos have them trading defunct companies like RIMM and AIG. Those are already covered in the foundations course.
+
+12:05am. ![](images/image-2084.png)
+
+Feels like giberish. Let me go to bed here. I'll continue this tomorrow. The more I study, the more viable my quant analysis feels.

@@ -601,3 +601,19 @@ Let me do it right now.
 The only thing the Trader DNA is making me hesitate about is that the tape reading is 1 module out of 14, but in the 2010 course it is almost half of it.
 
 But what is 15$ to trial the course? Absolutely nothing. If I can succeed at trading, I'll want to try applying to SMB down the road, so they'll be making more money off me than they ever would by selling these courses.
+
+6:40pm. Ugh, CourseHabitat doesn't accept cards, only crypto. I guess I'll pass. Gigacourses has them as well, but they are 30% more expensive there, but it's still in the acceptable range.
+
+Gigacourses processes orders manually for some reason.
+
+I ended up finding a torrent for the DNA of Successful Trading course and it has seeders. It's 20Gb and it seems like it has full availability.
+
+7pm. ![](images/image-2075.png)
+
+From what I can tell the torrent is from a version of the course in 2016. The newest one (in the screenshot) is split into 14 modules, while the 2016 course that I am torrenting is split into 9 weeks.
+
+Ok, it's donwloading in the background. It doesn't matter too much. I'll focus on the 2010 course regardless.
+
+7:15pm. Focus. I have the capability to go through the 2010 course in less than half a month and then I can start programming. I cannot let myself fall into the trap of just watching course videos forever. I'll build up the foundations and then start in earnest.
+
+Plus just learning passively is boring. It's best when you can apply the lessons you've learned.

@@ -683,6 +683,10 @@ Trades are often hitting one side or the other in sequences, so it's not unusual
 
 But that can be dealt with.
 
-Most importantly though, I am going to have to make the model obey the delta time instead of just using it in expectation. I got that wrong in the video.
+Most importantly though, I am going to have to make the model obey the delta time instead of just using it in expectation. I got that wrong in the video even though it was right initially. For when the trade count is above the mean, I'll instead scale the drift and volality directly.
 
 9:55pm. Complete engrossment and obsession is how I created Spiral. It is how I became the programmer that I am today. I **am** going to master trading.
+
+10:20pm. Weird that Merril Black is very bullish about market profile. He says that he traded price action and market profile made a huge difference to him.
+
+Right now I am watching some intro psychology videos since he begged me to do it.

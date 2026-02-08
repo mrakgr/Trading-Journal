@@ -533,3 +533,5 @@ Sigh, the tape reading course has no seeds and seems to be stuck at 97%.
 12:35pm. Let me watch the last vid.
 
 12:45pm. Bella says he's not a fan of the large bid trade.
+
+12:50pm. > A really important level trumps the intraday trend of the stock.

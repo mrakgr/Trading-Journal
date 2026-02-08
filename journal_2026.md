@@ -690,3 +690,17 @@ Most importantly though, I am going to have to make the model obey the delta tim
 10:20pm. Weird that Merril Black is very bullish about market profile. He says that he traded price action and market profile made a huge difference to him.
 
 Right now I am watching some intro psychology videos since he begged me to do it.
+
+10:45am. ![](images/image-2082.png)
+
+Confirmed that there is a version of it here for free. Interesting, I didn't know there are different versions of it.
+
+And yes, had I looked, I could have found it 16 years ago. But good luck figuring out a probabilistic programming approach in that day and age.
+
+I simply didn't have the skills then.
+
+10:55am. Agh, so annoying the tape reading course is stuck at 97% the whole day. But probably its content is already baked in the Foundations course. The Foundations course might be their in-house offering according to Opus. I think its concent is now essentially split into 3 courses: DNA, Winning Trader and Tape Reading courses. All of this could set you back a cool 15k without any discounts.
+
+11:15pm. ![](images/image-2083.png)
+
+Linda Raschke recommends market profile? First time I heard about it.

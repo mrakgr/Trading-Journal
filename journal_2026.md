@@ -617,3 +617,45 @@ Ok, it's donwloading in the background. It doesn't matter too much. I'll focus o
 7:15pm. Focus. I have the capability to go through the 2010 course in less than half a month and then I can start programming. I cannot let myself fall into the trap of just watching course videos forever. I'll build up the foundations and then start in earnest.
 
 Plus just learning passively is boring. It's best when you can apply the lessons you've learned.
+
+8:05pm. ![](images/image-2076.png)
+
+I might have found a more up to date version on this site.
+
+You know what, let me chance it.
+
+![](images/image-2077.png)
+
+They also have the Futures Foundation program that I didn't know even exists, but the files require premium membership on FileAxa to download them.
+
+8:20pm. Paid the 18 euro price for a 1 month subscription to FileAxa. Ok, let's see if the trader DNA course is the up to date one or the one from 2016.
+
+Man, I have no idea where I even found the trading foundations torrent.
+
+Let me stop the program.
+
+Lol, yeah, I have fibre optic, so my download speeds should cap out at 125 Mb/s (megabytes). I am looking at 7mb/s and wondering if I have more room left. Yes, I do. I can get the course files in parallel.
+
+8:35pm. Tsk, unfortunately the Trader DNA course was from the 2016.
+
+8:45pm. ![](images/image-2078.png)
+
+This is how the video looks like. Some asshole must have downscaled it and pasted the watermarks all over it. Ptuu.
+
+At any rate, I am going to focus on the trading foundations since it focuses on tape reading.
+
+![](images/image-2079.png)
+
+The winning trader course only goes up to 2018. But that's still a huge improvement.
+
+8:55pm. Anyway, I can give the DNA course a pass. Without any order flow content it is useless to me.
+
+Good news is that I have enough bandwidth to get all 3 courses today. I wonder what the futures course contains? It isn't even featured on the SMB Training site for whatever reason. Claude says it is sold through their futures division.
+
+9:15pm. I like the futures course. It has pdfs instead of docx files, it is organized chronologically rather than having the files randomly strewn about, and the videos are high resolution and the audio isn't noisy.
+
+9:25pm. Who knows, maybe the futures course will be a bigger gain than the other two stock courses.
+
+It would have sucked to shell out 2k for the DNA course only to find out that it isn't very actionable.
+
+Thankfully I only had to pay 18 euros instead.

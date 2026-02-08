@@ -569,3 +569,35 @@ Good point on avoiding conference calls. I only learned about this yesterday.
 Interesting that he isn't looking at gap % and premarket volume first and is instead reading the news.
 
 5:50pm. Sigh, just how much of a difference could having access to this info in 2007 and 2008 make which was the period when I was starting out as a trader. I botched that attempt completely didn't I?
+
+5:55pm. Uf, the videos in day 5 are really long.
+
+Good thing is that day 4 pretty much covered most of the trading plays that they do. I might not need the whole course necessarily.
+
+6pm. No, I will.
+
+6:05pm. To be honest, I am getting bored watching these videos, and that means I won't be able to just rush through them.
+
+The video is bad, the audio is noisy, but none of the courses I've ever watched come close to the informational quality of this one.
+
+It's really temping me to get the Trader DNA course instead since it is newer instead of persisting with this one. Like this video I've been watching is literally from 18 years ago.
+
+6:30pm. Done with lunch.
+
+You know what...
+
+![](images/image-2073.png)
+
+It's only 15$ so I'll get it tomorrow. There is no point in being so cheap here.
+
+The Foundation course is very unpolished, so I might get better value for my time if I went through the newer one instead.
+
+![](images/image-2074.png)
+
+This one is 30$ here so it a bit more expensive, but it should be worth getting as well.
+
+Let me do it right now.
+
+The only thing the Trader DNA is making me hesitate about is that the tape reading is 1 module out of 14, but in the 2010 course it is almost half of it.
+
+But what is 15$ to trial the course? Absolutely nothing. If I can succeed at trading, I'll want to try applying to SMB down the road, so they'll be making more money off me than they ever would by selling these courses.

@@ -567,3 +567,5 @@ Good point on avoiding conference calls. I only learned about this yesterday.
 5:45pm. ![](images/image-2072.png)
 
 Interesting that he isn't looking at gap % and premarket volume first and is instead reading the news.
+
+5:50pm. Sigh, just how much of a difference could having access to this info in 2007 and 2008 make which was the period when I was starting out as a trader. I botched that attempt completely didn't I?

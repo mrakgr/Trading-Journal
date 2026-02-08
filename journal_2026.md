@@ -535,3 +535,23 @@ Sigh, the tape reading course has no seeds and seems to be stuck at 97%.
 12:45pm. Bella says he's not a fan of the large bid trade.
 
 12:50pm. > A really important level trumps the intraday trend of the stock.
+
+1pm. Nice. Done with day 4.
+
+Ugh, that stupid course is still stalled.
+
+1:20pm. ![](images/image-2067.png)
+
+Wow, I am shocked that there are tape reading courses on Udemy.
+
+4:35pm. Today's break took a bit too long. Let me resume the SMB course.
+
+I was really enjoying catching up to Surviving As A Barbarian. The story is really good.
+
+4:40pm. ![](images/image-2068.png)
+
+Held bid at 29.99 and he actually went short the moment it broke below.
+
+4:55pm. ![](images/image-2069.png)
+
+Oh, this guy actually is using a heat chart here.

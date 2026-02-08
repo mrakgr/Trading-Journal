@@ -652,10 +652,37 @@ The winning trader course only goes up to 2018. But that's still a huge improvem
 
 Good news is that I have enough bandwidth to get all 3 courses today. I wonder what the futures course contains? It isn't even featured on the SMB Training site for whatever reason. Claude says it is sold through their futures division.
 
-9:15pm. I like the futures course. It has pdfs instead of docx files, it is organized chronologically rather than having the files randomly strewn about, and the videos are high resolution and the audio isn't noisy.
+9:15pm. I like the futures course. It has pdfs instead of docx files, it is organized chronologically rather than having the files randomly strewn about, and the videos are high resolution and the audio isn't noisy. I have to add, the files are also named nicely.
 
 9:25pm. Who knows, maybe the futures course will be a bigger gain than the other two stock courses.
 
 It would have sucked to shell out 2k for the DNA course only to find out that it isn't very actionable.
 
 Thankfully I only had to pay 18 euros instead.
+
+9:25pm. Now if only the tape reading course would finish downloading.
+
+![](images/image-2080.png)
+![](images/image-2081.png)
+
+I haven't heard about iMF tracker, but I have about Axia futures.
+
+9:40am. I might as well get these courses tomorrow after the midnight reset.
+
+In fact, since I'll be starting out my systems development on crypto, the content might be more topical than the stock trading stuff in fact.
+
+9:50pm. Nice, very nice.
+
+This is how the post work rest period should be spent.
+
+While I stopped watching the SMB course past 6pm, I put in the extra effort to get added educational material for myself. And as I watch the videos and learn these concepts I am thinking how I will express them through programming. I have had some idea for how to deal with order flow. It's not that difficult.
+
+One thing I've realized as I watched the tape examples is that the tape is very bursty. You have many second where nothing gets printed and then you have anther page appearing in only a few frames of the video.
+
+Trades are often hitting one side or the other in sequences, so it's not unusual to see 4-12 trades on the bid, followed by 4-12 trades on the offer in quick bursts. If I just randomly switch between bid and offer, things won't work well.
+
+But that can be dealt with.
+
+Most importantly though, I am going to have to make the model obey the delta time instead of just using it in expectation. I got that wrong in the video.
+
+9:55pm. Complete engrossment and obsession is how I created Spiral. It is how I became the programmer that I am today. I **am** going to master trading.

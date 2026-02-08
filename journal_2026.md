@@ -555,3 +555,7 @@ Held bid at 29.99 and he actually went short the moment it broke below.
 4:55pm. ![](images/image-2069.png)
 
 Oh, this guy actually is using a heat chart here.
+
+5pm. ![](images/image-2070.png)
+
+If you're going to use a heatmap what's even the point of these shitty candlesticks?

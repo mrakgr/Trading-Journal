@@ -517,3 +517,19 @@ Also GigaCourses has the two SMB courses for cheap as well. Ok.
 7:40pm. I didn't expect I'd be able to find the Tape Reading course today. It's annoying that it stalled at 97%, but if it can finish then...should I drop the Foundation course and move on to the tape reading one.
 
 But the Foundation course is pretty much a tape reading course as it is so I am getting what I want either way.
+
+2/8/2026
+
+10:45am. Every hour I put into Patfinder worsens my sleep by some %.
+
+11:20am. Let me get started for today. Let me resume the tape reading course torrent.
+
+Forget gaming. Instead obsess. Obsess like you did about Spiral. Obsess like you did about the old projects. That is the way to build up skill.
+
+Sigh, the tape reading course has no seeds and seems to be stuck at 97%.
+
+11:30am. Ok, if I cannot download it the whole day today I'll just shell out 30$ to get it outright. It got 97% of it in a couple of minutes, and now I am finding waiting hours for it to get that last 3%.
+
+12:35pm. Let me watch the last vid.
+
+12:45pm. Bella says he's not a fan of the large bid trade.

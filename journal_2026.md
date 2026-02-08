@@ -564,3 +564,6 @@ If you're going to use a heatmap what's even the point of these shitty candlesti
 
 Good point on avoiding conference calls. I only learned about this yesterday.
 
+5:45pm. ![](images/image-2072.png)
+
+Interesting that he isn't looking at gap % and premarket volume first and is instead reading the news.

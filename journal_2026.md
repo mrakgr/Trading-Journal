@@ -981,3 +981,15 @@ The only choice is whether I want to give this system a try and be whipped on ho
 It's just crazy how much more volume the key level here has compared to the rest. If that isn't a trend indicator then nothing is.
 
 This is what I was missing, the key conceptual insight! It's very counter unintuitive. I mean, Bella was talking about the levels in his book, the One Good Trade and I didn't understand it. It's like I was in a haze.
+
+8:50pm. Let me stop for the day here for real. I need to take a bath.
+
+I'll finish these courses, program a system and start trading for real.
+
+Let's take it one step a time.
+
+The most important thing of all is understanding.
+
+Livermore said it best: "Millions come more easily than thousands did in the days of his ignorance."
+
+This is the best feeling of all. The feeling of coming to an understanding of a difficult subject.

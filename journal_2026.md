@@ -748,3 +748,9 @@ He says that market profile people only look at the range for the gaps instead o
 And no correlation was found. Is he going to say that there is correlation in value migration?
 
 > Just because we close higher one day there is essentially a 50/50 chance that we close higher the following day.
+
+![](images/image-2087.png)
+
+If this is an actual effect, I wonder if it could be used to swing trade?
+
+But he hasn't yet said that it exists.

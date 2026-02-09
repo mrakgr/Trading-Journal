@@ -712,3 +712,18 @@ Sigh, since I have the fondations course, I guess I don't really need the tape r
 12:05am. ![](images/image-2084.png)
 
 Feels like giberish. Let me go to bed here. I'll continue this tomorrow. The more I study, the more viable my quant analysis feels.
+
+2/9/2026
+
+11:20am. I am up. It's time to obsess again. In this state of mind, it seems I have early morning nightmares before falling back asleep, but I think this kind of pressure is preferable to playing games and then being tired during the day.
+
+https://archive.is/OAEU2
+Job Hunters Are So Desperate That They’re Paying to Get Recruited
+
+> Landing a white-collar job is getting so tough that candidates—not companies—are paying recruiters to match them with positions. 
+
+People are starting to pay recruiters to land them a job. Since Covid ended the labor market just keeps getting worse and worse. The Tao Ceti job as bad as it turned out to be in the end was a huge stroke of luck. I managed to get out of the market before the worst happened. What's going to happen is probably another market crash once the AI bubble pops.
+
+This would just make the job market for software engineers even worse.
+
+At some point it has to get better, but who knows how many years that will be? I'll be a profitable trader by that time.

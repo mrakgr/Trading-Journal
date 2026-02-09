@@ -846,3 +846,9 @@ There is another trade here far out of line to mess up the charts.
 Another hold at 50.
 
 To be honest, I didn't really notice the hold at .89 that well. I should review.
+
+...Let me backtrack.
+
+![](images/image-2106.png)
+
+Yeah, it should be around here, but it wasn't a very strong hold.

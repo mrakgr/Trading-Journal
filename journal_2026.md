@@ -731,3 +731,13 @@ At some point it has to get better, but who knows how many years that will be? I
 > So AI writes the job applications that then get screened by AI to decide whether to proceed with an interview that may include an AI interviewer. Truly the machines are taking over.
 
 Lol. Truly the machines are taking over.
+
+12pm. Let me watch the market profile videos.
+
+12:10pm. It seems the reset didn't happen last night for some reason, and I can't download the courses. I just got one by Mike Valtos. Crap, now I am just wasting my time getting gorged on that crap.
+
+Let me focus on the SMB courses. I only have the capacity to digest so many courses.
+
+![](images/image-2085.png)
+
+He says that market profile people only look at the range for the gaps instead of the close.

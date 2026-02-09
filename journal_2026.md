@@ -836,3 +836,7 @@ Oh, my god those quotes far from the action are driving me insane. The tape and 
 3:05pm. ![](images/image-2103.png)
 
 He went short below the 49.89 level as that was where last time a hold was there.
+
+![](images/image-2104.png)
+
+There is another trade here far out of line to mess up the charts.

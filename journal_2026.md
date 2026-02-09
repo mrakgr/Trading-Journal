@@ -818,3 +818,5 @@ Oh, I think this is finally a hold.
 ![](images/image-2099.png)
 
 He quietly went long 800 shares in front.
+
+Yeah, this is it. This is what I've been missing in my trading education. You really cannot possibly miss this on the tape.

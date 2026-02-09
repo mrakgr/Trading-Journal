@@ -754,3 +754,17 @@ And no correlation was found. Is he going to say that there is correlation in va
 If this is an actual effect, I wonder if it could be used to swing trade?
 
 But he hasn't yet said that it exists.
+
+12:40pm. ![](images/image-2088.png)
+
+This feels like gibberish.
+
+12:50pm. You know what, nevermind this course. I am not impressed by the market profile stuff. The tape reading SMB teaches is more interesting than this. Maybe I'll get back to this course later.
+
+Sure, looking at volume profiles is better than looking than OHLC bars, but I knew that already.
+
+Let me have breakfast here and I will get back to the foundations course. I want to prioritize getting through it. Then I'll look at the Winning Trader course to see the various setups they are teaching.
+
+The foundations course is great. They come out with what is most important and effective (holds) and then move on from there.
+
+My challenge is to quantify it, and then I will be minting money.

@@ -768,3 +768,5 @@ Let me have breakfast here and I will get back to the foundations course. I want
 The foundations course is great. They come out with what is most important and effective (holds) and then move on from there.
 
 My challenge is to quantify it, and then I will be minting money.
+
+Now that I have some programming skills and ML knowledge, the trading material they are teaching feels so primitive. These guys don't know a lick of statistics.

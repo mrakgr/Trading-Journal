@@ -810,3 +810,7 @@ Yeah, it is making be a bit bullish that the price isn't going down despite the 
 ![](images/image-2097.png)
 
 Oh, I think this is finally a hold.
+
+![](images/image-2098.png)
+
+50k on the bid. 7k on the bid. So this is what we've been waiting for.

@@ -824,3 +824,7 @@ Yeah, this is it. This is what I've been missing in my trading education. You re
 ![](images/image-2100.png)
 
 And it dropped.
+
+![](images/image-2101.png)
+
+It went back to 50 and now it broke again. He says that we'd want to play the downward momentum.

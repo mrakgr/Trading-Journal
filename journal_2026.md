@@ -920,3 +920,8 @@ Let me take a look at the course by Mike Valtos.
 ![](images/image-2111.png)
 
 At least this course is entirely on order flow.
+
+6:35pm. ![](images/image-2112.png)
+> If you're watching this it's moving so fricking fast.
+
+7:15pm. Done with lunch. Let me continue watching the course by Mike.

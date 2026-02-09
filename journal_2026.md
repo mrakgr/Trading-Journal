@@ -741,3 +741,10 @@ Let me focus on the SMB courses. I only have the capacity to digest so many cour
 ![](images/image-2085.png)
 
 He says that market profile people only look at the range for the gaps instead of the close.
+
+12:25pm. ![](images/image-2086.png)
+> There have been a lot of studies done on serial correlation in financial markets.
+
+And no correlation was found. Is he going to say that there is correlation in value migration?
+
+> Just because we close higher one day there is essentially a 50/50 chance that we close higher the following day.

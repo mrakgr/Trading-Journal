@@ -727,3 +727,7 @@ People are starting to pay recruiters to land them a job. Since Covid ended the 
 This would just make the job market for software engineers even worse.
 
 At some point it has to get better, but who knows how many years that will be? I'll be a profitable trader by that time.
+
+> So AI writes the job applications that then get screened by AI to decide whether to proceed with an interview that may include an AI interviewer. Truly the machines are taking over.
+
+Lol. Truly the machines are taking over.

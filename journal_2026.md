@@ -832,3 +832,7 @@ It went back to 50 and now it broke again. He says that we'd want to play the do
 ![](images/image-2102.png)
 
 Oh, my god those quotes far from the action are driving me insane. The tape and the chart are telling a completely different story.
+
+3:05pm. ![](images/image-2103.png)
+
+He went short below the 49.89 level as that was where last time a hold was there.

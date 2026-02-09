@@ -975,3 +975,9 @@ But this is really good.
 The disadvantage of using holds as levels is that the market can often whip around them, but the reality is, the market whips around either way. So I'll be whipped while trading either way.
 
 The only choice is whether I want to give this system a try and be whipped on holds or whether I want to make random entries and exists and be whipped on them.
+
+![](images/image-2115.png)
+
+It's just crazy how much more volume the key level here has compared to the rest. If that isn't a trend indicator then nothing is.
+
+This is what I was missing, the key conceptual insight! It's very counter unintuitive. I mean, Bella was talking about the levels in his book, the One Good Trade and I didn't understand it. It's like I was in a haze.

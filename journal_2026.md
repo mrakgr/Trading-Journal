@@ -776,3 +776,7 @@ Or rather, the language they are using to teach is dumb.
 ![](images/image-2089.png)
 
 I'll give Mike Valtos' course a chance since it focuses on order flow.
+
+2:15pm. ![](images/image-2090.png)
+
+Why the fuck are the quotes crossed?

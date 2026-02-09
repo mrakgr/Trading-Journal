@@ -814,3 +814,7 @@ Oh, I think this is finally a hold.
 ![](images/image-2098.png)
 
 50k on the bid. 7k on the bid. So this is what we've been waiting for.
+
+![](images/image-2099.png)
+
+He quietly went long 800 shares in front.

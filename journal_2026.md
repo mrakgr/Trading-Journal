@@ -866,3 +866,17 @@ So now the plan is to look for a held bid around the current level.
 Large seller at .49.
 
 Not sure I like how this stock is trading. He's been trying to catch a move for quite a while now. It's been nearly an hour after the open and it still hasn't resulted in a clean move.
+
+3:55pm. Wow, I am done with the 53m video.
+
+Ok, that was informative.
+
+Was that my first real life trading session where I could see an actual trader trade and have him explain his reasoning for being in the trade? Yes, it seems like it.
+
+All the other sessions were bite sized pieces.
+
+4pm. Let me watch the stocks for the close video and then I'll stop so I can do the chores and exercises.
+
+Actually let me do it now.
+
+If the levels are this important, maybe a different kind of model instead of geometric brownian motion would be better? Daytrading is very sensitive to execution, getting in too late would kill the results.

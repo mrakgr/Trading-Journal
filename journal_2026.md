@@ -772,3 +772,7 @@ My challenge is to quantify it, and then I will be minting money.
 Now that I have some programming skills and ML knowledge, the trading material they are teaching feels so primitive. These guys don't know a lick of statistics.
 
 Or rather, the language they are using to teach is dumb.
+
+![](images/image-2089.png)
+
+I'll give Mike Valtos' course a chance since it focuses on order flow.

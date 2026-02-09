@@ -790,3 +790,7 @@ Right now the prices are just girating above and below 50.
 ![](images/image-2092.png)
 
 Nikkei 225 caught my eye since it was up 4% on Friday. I didn't think it would be breaking out to new high.
+
+2:30pm. ![](images/image-2093.png)
+
+This is interesting. NYSE stepped up with a big bid and got whacked. Bella is explaining how this is bearish. The seller might have a big sell order otherwise why would he hit it so aggressively? He would have tried to finese it.

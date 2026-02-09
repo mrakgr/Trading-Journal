@@ -880,3 +880,43 @@ All the other sessions were bite sized pieces.
 Actually let me do it now.
 
 If the levels are this important, maybe a different kind of model instead of geometric brownian motion would be better? Daytrading is very sensitive to execution, getting in too late would kill the results.
+
+5:15pm. Let me resume. Let's see if I can watch some other vids in day 5.
+
+I really find keeping track of the box quite difficult. I have no idea how Bella can watch both the inner market as well as the tape. I find it very hard to focus.
+
+5:40pm. Ok, I am at my limit as to how much I can focus on the tape for one day. My eyes are just glazing over at this point.
+
+If I had to do that as my real job, I think I'd rather just do something else. Thankfully I'll let a bot do it instead.
+
+I'll skip some of these ultra low audio quality videos where they are just chatting around as they review the trades.
+
+I want to focus on the most obvious trades which are holds and abnormal volume and speed.
+
+As a rule, the easier it is for a bot to spot something, the easier it would be for me to spot it as well.
+
+5:45pm. I'll do half and half. I'll watch the tape with the SMB guys for a bit, and maybe I'll watch some of the other courses when I am tired of that.
+
+Let me see if the refresh has gone through.
+
+...Not yet. I'll download the iMF and some other order flow courses tomorrow.
+
+I am looking at the reset time on the dashboard, and last night it was 4h, but now it's saying 7h left.
+
+![](images/image-2110.png)
+
+This place is nice, it has a lot of 3d modeling courses. I used to be into that back in 2022. Never went far with it.
+
+Well, even if I never download anything else from this site, it would still have been worth the price tag.
+
+6:20pm. Nevermind, the SMB futures course is devoid of useful information. A lot of traders are deluded where their edge comes from given that they are buried in the noise and tend to ascribe it to the equivalent of reading tea leaves and astrology.
+
+Wasn't there that market wizard who was making a lot of money using fibonacci's?
+
+There are all kinds of cranks out there. No wonder it's not featured on the main site.
+
+Let me take a look at the course by Mike Valtos.
+
+![](images/image-2111.png)
+
+At least this course is entirely on order flow.

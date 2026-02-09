@@ -852,3 +852,7 @@ To be honest, I didn't really notice the hold at .89 that well. I should review.
 ![](images/image-2106.png)
 
 Yeah, it should be around here, but it wasn't a very strong hold.
+
+3:25pm. ![](images/image-2107.png)
+
+Lol, he is getting chopped up and squeezed. Shouldn't the plan be to cover above 50?

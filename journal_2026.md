@@ -794,3 +794,7 @@ Nikkei 225 caught my eye since it was up 4% on Friday. I didn't think it would b
 2:30pm. ![](images/image-2093.png)
 
 This is interesting. NYSE stepped up with a big bid and got whacked. Bella is explaining how this is bearish. The seller might have a big sell order otherwise why would he hit it so aggressively? He would have tried to finese it.
+
+2:35pm. ![](images/image-2094.png)
+
+This could be a part of the strategy. A big hit could be a catalyst, and I could look at the book just to make sure that no big orders are in front.

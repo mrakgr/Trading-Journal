@@ -925,3 +925,29 @@ At least this course is entirely on order flow.
 > If you're watching this it's moving so fricking fast.
 
 7:15pm. Done with lunch. Let me continue watching the course by Mike.
+
+7:35pm. ![](images/image-2113.png)
+
+The essence of the system that Mike Bellafiore is teaching is that you want to be short below important levels and long above them. It's very nice and simple.
+
+If you look back at 2025, I was spitting on breakouts considering them too unreliable, but I never considered trading around big volume price levels. Footprint charts should be a natural fit for that sort of trading.
+
+You can see those big volume levels of 4-5 contracts each in the screenshot. Those are trades of 200k worth of Bitcoin.
+
+The thing is, this system can be somewhat obscured by the noise, but what the other option? To trade in random places?
+
+7:45pm. Remember the VWAP system?
+
+What would be the easiest way of implementing the SMB system in a rules based mechanical fashion? Look back at the high volume levels in the last 1-10m and ask whether the inner market is above or below that. That is what the trend is.
+
+Interestingly, it could be done off of footprint charts, but not based of candlesticks.
+
+7:55pm. ![](images/image-2114.png)
+
+I am feeling so inspired right now. Bella was very persistent in flipping between long and short as the market moved between key levels.
+
+These are the points of control on the footprint charts. This is way easier than I even though.
+
+The VWAP system is adjancent to this one, but not quite it. It would always lag.
+
+Oh yeah, remember that series on the Anchored VWAP system on Bookmap? I thought it was nonsense, but not really. You can see how the POCs dominate on the charts by Mike Valtos.

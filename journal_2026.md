@@ -802,3 +802,7 @@ This could be a part of the strategy. A big hit could be a catalyst, and I could
 ![](images/image-2095.png)
 
 This is a bit interesting. A big bid comes in and gets taken out.
+
+![](images/image-2096.png)
+
+Yeah, it is making be a bit bullish that the price isn't going down despite the big bids getting taken out., but what it this trade right here? It totally messes up the chart. A tape reader would just ignore it though. This is why it's a poor idea to rely on price charts.

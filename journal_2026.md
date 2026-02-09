@@ -860,3 +860,9 @@ Lol, he is getting chopped up and squeezed. Shouldn't the plan be to cover above
 ![](images/image-2108.png)
 
 So now the plan is to look for a held bid around the current level.
+
+3:40pm. ![](images/image-2109.png)
+
+Large seller at .49.
+
+Not sure I like how this stock is trading. He's been trying to catch a move for quite a while now. It's been nearly an hour after the open and it still hasn't resulted in a clean move.

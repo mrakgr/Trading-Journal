@@ -806,3 +806,7 @@ This is a bit interesting. A big bid comes in and gets taken out.
 ![](images/image-2096.png)
 
 Yeah, it is making be a bit bullish that the price isn't going down despite the big bids getting taken out., but what it this trade right here? It totally messes up the chart. A tape reader would just ignore it though. This is why it's a poor idea to rely on price charts.
+
+![](images/image-2097.png)
+
+Oh, I think this is finally a hold.

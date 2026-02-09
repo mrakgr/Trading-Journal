@@ -840,3 +840,9 @@ He went short below the 49.89 level as that was where last time a hold was there
 ![](images/image-2104.png)
 
 There is another trade here far out of line to mess up the charts.
+
+3:15pm. ![](images/image-2105.png)
+
+Another hold at 50.
+
+To be honest, I didn't really notice the hold at .89 that well. I should review.

@@ -770,3 +770,5 @@ The foundations course is great. They come out with what is most important and e
 My challenge is to quantify it, and then I will be minting money.
 
 Now that I have some programming skills and ML knowledge, the trading material they are teaching feels so primitive. These guys don't know a lick of statistics.
+
+Or rather, the language they are using to teach is dumb.

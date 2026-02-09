@@ -950,4 +950,28 @@ These are the points of control on the footprint charts. This is way easier than
 
 The VWAP system is adjancent to this one, but not quite it. It would always lag.
 
-Oh yeah, remember that series on the Anchored VWAP system on Bookmap? I thought it was nonsense, but not really. You can see how the POCs dominate on the charts by Mike Valtos.
+Oh yeah, remember that series on the Anchored VWAP system on Bookmap? I thought it was nonsense, but not really. You can see how the POCs dominate on the charts by Mike Valtos.'
+
+8:25pm. I can do it. I should be able to do it with this insight.
+
+I knew a lot of things about trading.
+
+I knew about momentum. I knew about volatility.
+
+But I didn't really understand volume up to now. I only understood it up to the level of knowing that elevated volume periods also lead to strong moves.
+
+But if I understand the holds as points of control on a footprint chart, then that gives me a precise way to orient myself and control my risk - the main thing I was missing in my system!
+
+Even after going through Carmine Rosato's Order Flow course I didn't really understand the essence of the abnormal deltas he was looking for. I sort of comprehended they happened at important places, but I didn't really understand the way to take advantage of them.
+
+The advantage is that I can just trade around those levels, and ignore the random spots inbetween and it will give me a very good RR.
+
+It should be enough to let me become a profitable trader.
+
+Previously my best strategies were to flip around VWAP on the 1m chart or you know how my long term system was to flip every 2 weeks. Yeah, those are crappy systems which is why I am not using them.
+
+But this is really good.
+
+The disadvantage of using holds as levels is that the market can often whip around them, but the reality is, the market whips around either way. So I'll be whipped while trading either way.
+
+The only choice is whether I want to give this system a try and be whipped on holds or whether I want to make random entries and exists and be whipped on them.

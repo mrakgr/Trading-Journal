@@ -828,3 +828,7 @@ And it dropped.
 ![](images/image-2101.png)
 
 It went back to 50 and now it broke again. He says that we'd want to play the downward momentum.
+
+![](images/image-2102.png)
+
+Oh, my god those quotes far from the action are driving me insane. The tape and the chart are telling a completely different story.

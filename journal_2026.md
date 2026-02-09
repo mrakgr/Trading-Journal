@@ -780,3 +780,13 @@ I'll give Mike Valtos' course a chance since it focuses on order flow.
 2:15pm. ![](images/image-2090.png)
 
 Why the fuck are the quotes crossed?
+
+2:25pm. ![](images/image-2091.png)
+
+So over here he is waiting for the stock to tell him whether it is going to hold above 50 or not. So he's waiting for a hold. I really find it very hard to read both the time and sales and the order book. Sometimes large order would flash and get pulled, it's hard.
+
+Right now the prices are just girating above and below 50.
+
+![](images/image-2092.png)
+
+Nikkei 225 caught my eye since it was up 4% on Friday. I didn't think it would be breaking out to new high.

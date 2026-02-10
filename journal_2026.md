@@ -1118,4 +1118,24 @@ I am watching the price ladder intro course I am curious as to how they are doin
 
 Ngl, this course looks really interesting. Futures price ladders have an integrated volume, so they are much easier to deal with than stock boxes.
 
-Anyway the site I menionted is basically a course sharing site like many other. They don't give a bunch of free courses hosted on file sharing sites, so it's not as good of a value.
+Anyway the site I mentioned is basically a course sharing site like many other. They don't give a bunch of free courses hosted on file sharing sites, so it's not as good of a value.
+
+3:30pm. ![](images/image-2129.png)
+
+Stops runs, the bane of the retal trader.
+
+3:40pm. ![](images/image-2130.png)
+
+Didn't know that footprint charting packages allow value areas.
+
+Let me finish this video. I am really enjoying imagining how I am going to trade. I know that I only need to have the patience to wait for the holds and then I'll be able to profit off of them.
+
+I'll drop the SMB course to focus on the futures order flow ones. Then I am going to start studying the data and modeling the price action.
+
+I'll ditch the model I've made and ask Opus about the brownian bridge and move from there.
+
+5:45pm. ![](images/image-2131.png)
+
+To be honest this course is pretty boring. Instead of just filling in the time, I wish he'd get to actual strategies. Descriptions aren't worth shit in the market.
+
+At any rate, my bro's birthday is today so I am going out. Let me finish the video and I close up.

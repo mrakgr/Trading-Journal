@@ -990,6 +990,32 @@ Let's take it one step a time.
 
 The most important thing of all is understanding.
 
-Livermore said it best: "Millions come more easily than thousands did in the days of his ignorance."
+Livermore said it best: "Millions come more easily to a trader than thousands did in the days of his ignorance."
 
 This is the best feeling of all. The feeling of coming to an understanding of a difficult subject.
+
+2/10/2026
+
+10:35am. Had a hard time falling asleep as I was excited.
+
+Now that I've finally internalized the concept of holds, the edge that I was struggling to find is finally in my grasp. Previously I wasn't really sure if I can make it, but now I think the odds are 100% in my favor.
+
+10:40am. Let me see if I can download some of those other courses.
+
+Yes, I can. Let me get the iMF Tracker Order Flow and the Axia Futures Footprint courses.
+
+10:40am. Though I had a hard time falling asleep, I am decently rested. It seems it's gaming that does lasting damage.
+
+Anyway since I know how to daytrade now, I could reasonably do some demo trading, but let's leave that until I am done with the courses.
+
+11am. Come to think of it, had I bothered learning to daytrade back in 2000s I could have just focus on unusual holds and that would have gotten me above the 25k range.
+
+...
+
+Or maybe not. You need the capability to allow for some whipsaw in order to trade like this. It would have been excruciating to deal with the PDT rule. But I could have just opened a cash account.
+
+Yeah, I see it. I could have won, but all the restrictions I placed on myself barred my path.
+
+11:10am. ![](images/image-2116.png)
+
+Ugh, will this stupid torrent ever finish downloading. It's been stuck as 97% for days. I'll give it another day and then stop.

@@ -1043,3 +1043,13 @@ Ugh, I am a bit tired today and in need of a break.
 12:15pm. ![](images/image-2119.png)
 
 Ok, this would definitely be a hold.
+
+12:20pm. ![](images/image-2120.png)
+
+Yeah, this isn't that bad. Large offers are a good hint. There is no reason not to at least visualize them in a heatmap.
+
+It could give you confidence while trading.
+
+But the basic strategy is to be short below high volume POCs and long above them. The latest POC is the most important and the higher the volume the strong the expected trend. Using this I will be able to pick tops and bottoms much better. I'll be able to be in tune with the market.
+
+I will be able to have something that has eluded me for a long time - skill and consistency. And I will be able to make money this time for good, without struggling to find jobs at companies. Much more upside, much more interesting work.

@@ -1066,4 +1066,16 @@ Yes, elevated volatility periods tend to be accompanied by high volume. Large mo
 
 But now I understand that I could trade around these levels. Be long if the bid is higher than the level, be short if the offer is lower than the level and I'll catch the move to either side with low risk. I needed this so badly.
 
-Feb 9th 2026. The day I finally figured out the market. Or rather, I just came to an understanding of a single profitable setup, but that is enough to graduate from a loser to a winner.
+Feb 9th 2026. The day I finally figured out the market. Or rather, I just came to an understanding of a single profitable setup and its variations, but that is enough to graduate from a loser to a winner.
+
+12:40pm. Done with the video.
+
+Done with day 5. I'll to the course by Mike Valtos.
+
+Then I will be able to start playing around in demo mode maybe and also resume coding. Before that I'll also check out the other courses that I got.
+
+There is one major thing I should do. I've been having Opus create candlestick charts, and I should test it's capability for creating footprint charts. I don't know why, but Quantconnect wasn't doing well with data from Massive.
+
+I didn't want to bother testing Opus with footprint charts because I suspected it couldn't do it, but I think footprints and heatmaps are the next step in my own visualization work. Fuck it, I'll just create my own charting library if it's giving me trouble. Opus will be able to do that without much trouble.
+
+Let me have breakfast here.

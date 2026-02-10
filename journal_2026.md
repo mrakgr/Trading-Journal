@@ -1107,3 +1107,15 @@ Axia offers 3 self guided courses. One is based on footprint charts, one is on v
 I am interested in at least watching the intro for the other two.
 
 And even though there was some data corruption in the rar files, most of the files are there as far as I can tell. I think I am missing the drill 1b in module 9, but that's about it.
+
+3:10pm. ![](images/image-2127.png)
+
+A lot of the courses I've downloaded are actually from this site. The SMB course had the name of this site plastered over it.
+
+I am watching the price ladder intro course I am curious as to how they are doing it.
+
+![](images/image-2128.png)
+
+Ngl, this course looks really interesting. Futures price ladders have an integrated volume, so they are much easier to deal with than stock boxes.
+
+Anyway the site I menionted is basically a course sharing site like many other. They don't give a bunch of free courses hosted on file sharing sites, so it's not as good of a value.

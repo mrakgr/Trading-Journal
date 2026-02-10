@@ -1053,3 +1053,17 @@ It could give you confidence while trading.
 But the basic strategy is to be short below high volume POCs and long above them. The latest POC is the most important and the higher the volume the strong the expected trend. Using this I will be able to pick tops and bottoms much better. I'll be able to be in tune with the market.
 
 I will be able to have something that has eluded me for a long time - skill and consistency. And I will be able to make money this time for good, without struggling to find jobs at companies. Much more upside, much more interesting work.
+
+12:25pm. The trick is that you have to look at a chart relative to some strategy you have in mind.
+
+I didn't understand footprint charts before because the price action was simply too noisy. POCs seem random, even after I learned about holds from SMB, I didn't at all connect them to POCs on a footprint chart. I didn't look at the chart with the intention of being whipped.
+
+I looked at a footprint chart the same way I'd look at a candlestick, and so I didn't see the added possibilities it gave to me.
+
+I used to try to frame high volume bars as being bullish, but as I gained experince as a trader I realizd that they are just as a random as anything else.
+
+Yes, elevated volatility periods tend to be accompanied by high volume. Large moves tend to accompany high volume and it looks great on cheery picked example, but in practice I realized that this doesn't matter if the stock is just as likely to go down as it would to go up. High volatility without any ability to control the risk or direction just means I'd lose money faster.
+
+But now I understand that I could trade around these levels. Be long if the bid is higher than the level, be short if the offer is lower than the level and I'll catch the move to either side with low risk. I needed this so badly.
+
+Feb 9th 2026. The day I finally figured out the market. Or rather, I just came to an understanding of a single profitable setup, but that is enough to graduate from a loser to a winner.

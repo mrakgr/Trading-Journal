@@ -1018,4 +1018,24 @@ Yeah, I see it. I could have won, but all the restrictions I placed on myself ba
 
 11:10am. ![](images/image-2116.png)
 
-Ugh, will this stupid torrent ever finish downloading. It's been stuck as 97% for days. I'll give it another day and then stop.
+Ugh, will this stupid torrent ever finish downloading? It's been stuck as 97% for days. I'll give it today and then stop.
+
+11:50am. https://youtu.be/NIXd3PEbsNk
+The Torture Will Continue Until Shareholder Value Improves
+
+I'll leave this GN video for tomorrow.
+
+Let me watch some videos. I'll finish SMB day 5 and then switch to the order flow course.
+
+12:05pm. ![](images/image-2117.png)
+> Pattern recognition - A big offer coming lower
+
+Let me watch this.
+
+![](images/image-2118.png)
+
+The main question for me is whether this large sell order would show up as a major POC on a footprint chart? Does the level really have a lot of volume? I'd hard for me to know just by looking at the tape. I might make this my last tape reading video. I should be focusing on the tape and it's not doing it for me. I end up defaulting to listening to the guy's voice and tuning out because trying to keep track of the volume in my head is hard work.
+
+If this pattern is just going to be an easily detectable hold on a footprint chart then I am wasting my time reading the tape.
+
+Ugh, I am a bit tired today and in need of a break.

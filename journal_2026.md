@@ -1079,3 +1079,31 @@ There is one major thing I should do. I've been having Opus create candlestick c
 I didn't want to bother testing Opus with footprint charts because I suspected it couldn't do it, but I think footprints and heatmaps are the next step in my own visualization work. Fuck it, I'll just create my own charting library if it's giving me trouble. Opus will be able to do that without much trouble.
 
 Let me have breakfast here.
+
+2:35pm. It seems the Axia Futures course has some file errors unfortunately.
+
+I guess I'll give it a pass. The iMF Tracker course is also unordered.
+
+![](images/image-2121.png)
+
+Surprised there is a course by Neerav on building a data store of all things.
+
+![](images/image-2122.png)
+
+Thomas like this guy. I need to show this site to him.
+
+2:55pm. ![](images/image-2123.png)
+
+I like this. These are really good charts.
+
+You have to keep in mind that these are 5m charts. It's likely that 70 BTC worth of volume in a single level isn't something that is done in a single trade. It likely took half a minute to a minute for the trades to execute and the hold to develop.
+
+![](images/image-2124.png)
+![](images/image-2125.png)
+![](images/image-2126.png)
+
+Axia offers 3 self guided courses. One is based on footprint charts, one is on volume profiling and one is on price ladder trading.
+
+I am interested in at least watching the intro for the other two.
+
+And even though there was some data corruption in the rar files, most of the files are there as far as I can tell. I think I am missing the drill 1b in module 9, but that's about it.

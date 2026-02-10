@@ -1039,3 +1039,7 @@ The main question for me is whether this large sell order would show up as a maj
 If this pattern is just going to be an easily detectable hold on a footprint chart then I am wasting my time reading the tape.
 
 Ugh, I am a bit tired today and in need of a break.
+
+12:15pm. ![](images/image-2119.png)
+
+Ok, this would definitely be a hold.

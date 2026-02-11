@@ -1139,3 +1139,15 @@ I'll ditch the model I've made and ask Opus about the brownian bridge and move f
 To be honest this course is pretty boring. Instead of just filling in the time, I wish he'd get to actual strategies. Descriptions aren't worth shit in the market.
 
 At any rate, my bro's birthday is today so I am going out. Let me finish the video and I close up.
+
+8:25pm. I am back. Before I left, the Axia Futures price ladder course finished downloading and I'll look into it tomorrow. I had some wine, plus it's late so no way do I feel like studying now.
+
+2/11/2026
+
+10:40am. I've been up for 20m. I am looking forward to resuming the courses. The tape reading course is still at 97%, but the Axia Futures price ladder course actually downloaded.
+
+I am not sure what to think. It doesn't seem like resets work properly on FileAxa. I won't be able to download more courses today. At any rate, let me focus on the crypto course by Mike Valtos and then I'll check out the Axia Futures one.
+
+![](images/image-2132.png)
+
+This could finally be a first good module. I want to see whether the course by Mike actually end up offering me a strategy.

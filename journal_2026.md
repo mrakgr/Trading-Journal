@@ -1151,3 +1151,16 @@ I am not sure what to think. It doesn't seem like resets work properly on FileAx
 ![](images/image-2132.png)
 
 This could finally be a first good module. I want to see whether the course by Mike actually end up offering me a strategy.
+
+10:55am. ![](images/image-2133.png)
+> Wait until the bar closes for that confirmation.
+
+You really shouldn't do this.
+
+Is that guy any good at all?
+
+The way Mike trades when these holds develop is that he wants to be long or short as soon as possible.
+
+![](images/image-2134.png)
+
+Using POCs is much better than than using bar lows and highs as the stop or entry points. I wonder why Lance it teaching crap with the 2 min bar trend system? That cannot be how he trades himself.

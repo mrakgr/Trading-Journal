@@ -1398,3 +1398,31 @@ Bookmap supports that.
 > Good people have the obligation to be good. Bad people do not have the obligation to be bad.
 
 Yujiro helps an old lady today.
+
+9:35pm. Let me note an idea I had today.
+
+Instead of the drift model, I will pay more respect to support and resistance in the future.
+
+The drift model has a major weakness - if the drift is positive, it will make it possible to distinguish the episode purely based on the % of upmoves. If you take a normal distribution and shift it up, then will no longer be 50% positive, but above that. It will be such a huge distinguishing mark, and the large the number of trades the more obvious it will be.
+
+While I was thinking of how to represent support and resistance levels, I thought of a solution.
+
+I'll make the S/R levels probabilistic, I'll sample them from a log normal distribution or maybe even normal, and just reject the moves through the level. That means that moves near the level will have some drift, but it will no longer be possible to have large trades smashing through the major levels by accident.
+
+This kind of model would also give reason to buying on pullbacks and selling on upmoves.
+
+If a move gets too far from the major levels it will be essentially 50/50 in EV.
+
+The way the moves will work in the new system is that I am going to have two levels on every move and simply contract the initial level towards the other one as the move unfolds.
+
+In an upmove for example, I'd just move the support towards the resistance in a linear fashion proportional to the time delta. If a trade tries to be generated below the support, it will have to roll for acceptance. And the same goes for going beyond resistance.
+
+The drift model has a big weakness in that large moves in either direction have no particular meaning, but I don't feel it is like that in real trading. In real trading large moves are a good indicator of trend changes. At least that is how I used to feel.
+
+Recently, the model work that I've been doing is making me feel that I might be overlooking the information provided by the smaller moves.
+
+Large moves may grab attention, but they aren't the best indicator.
+
+...I should just go to bed. I am looking forward to resuming the course tomorrow. Just by going through the Axia Futures one, I have so much to gain it's crazy.
+
+I hadn't gotten AGI yet, but 2026 has its own perks. The learning is there for those who wish to receive it. I wish I had this 2 decades ago.

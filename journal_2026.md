@@ -1214,3 +1214,11 @@ fttuts people suck. They paste their shitty watermark and they leave a cursor wi
 This coures will have mentors doing live trading so I'll be able to learn exactly how they are doing it.
 
 I already sort of know, but there might be strategies I am not aware of.
+
+12:25pm. Let me resume. Took some time to send an email to Thom recommending Psdly to him.
+
+![](images/image-2139.png)
+
+I appreciate that they show strategies and will have live market trading.
+
+The reason why I could figure it out in Bookmap is because even though they spell it out, I didn't really understand how to deal with noise.

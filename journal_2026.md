@@ -1247,3 +1247,39 @@ Pretty good intro.
 I dislike these kinds of footprints. All the colors are distracting and I find it difficult to figure out the POCs.
 
 In fact, if things are like this on a chart, then it would actually be far harder to do it on tape. I'd have to do math to sum up the number. Here I just have to add two numbers and I can barely do it.
+
+![](images/image-2145.png)
+> Certain strategies like momentum or flow tend to be better revealed using a Point & Figure chart.
+
+Interesting.
+
+> What are P&F charts?
+
+///
+
+Point & Figure (P&F) charts are a charting method that filters out time and focuses purely on **price movement**. Unlike candlestick or bar charts, they don't have a time axis — a new column or mark is only added when price moves by a specified amount.
+
+**How they work:**
+
+Columns of **X's** represent rising prices and columns of **O's** represent falling prices. Two key parameters define the chart:
+
+- **Box size** — the minimum price increment each X or O represents (e.g., $1 per box).
+- **Reversal amount** — how many boxes price must move in the opposite direction to start a new column (commonly 3 boxes, called a "3-box reversal").
+
+So on a 3-box reversal chart, if price is rising (X column), it keeps adding X's as long as it moves up by at least one box. It only switches to a new O column if price drops by 3 or more boxes from the high.
+
+**Why traders use them:**
+
+- **Noise filtering** — by ignoring small moves and time, P&F charts strip out a lot of intraday chop and highlight meaningful supply/demand shifts.
+- **Clear support/resistance** — horizontal rows of X's and O's at the same price level make S/R zones visually obvious.
+- **Pattern recognition** — classic P&F patterns like double tops/bottoms, triple tops/bottoms, bullish/bearish catapults, and triangle formations have well-defined entry signals.
+- **Price targets** — P&F has built-in target methods (horizontal and vertical counts) that project price objectives based on the width or height of consolidation patterns.
+
+**Relevance to order flow:** P&F charts can be interesting for what you're working on because they're essentially a primitive form of filtering for "meaningful" price action — somewhat analogous to detecting when price is being held at a level versus just passing through. Some order flow traders overlay P&F logic to identify when accumulation/distribution is happening at key levels.
+
+///
+
+2:45pm. ![](images/image-2146.png)
+
+He says that color is great and make it easy to make quick effective decisions. Ok, I was wrong. The darker areas do make it easier to spot important levels.
+

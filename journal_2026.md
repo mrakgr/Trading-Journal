@@ -1343,3 +1343,7 @@ Let me stop here so I can do the chores.
 5:45pm. ![](images/image-2156.png)
 
 He talks about peripheral awareness across all the markets. That with practice you can see a move in peripheral vision. Crazy.
+
+5:50pm. ![](images/image-2157.png)
+
+Since I torrented the course, the problem I am having is that it's very downscaled.

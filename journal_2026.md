@@ -1369,3 +1369,6 @@ He's talking about using the speed and the intensity of orders at key levels as 
 Yeah, this is what I am missing. This what I need.
 
 Idiots learn to just never sell.
+
+7:30pm. ![](images/image-2161.png)
+> You can really increase size when the order flow picks up towards a critical juncture point.

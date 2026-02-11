@@ -1392,3 +1392,9 @@ That having said, real time L2 data is much cheaper. I could restrict myself to 
 Bookmap supports that.
 
 ...Yes, going through this course won't magically make me a good trader, but it will tell me what kinds of patterns I need to look for and that will open a realistic path of improvement as a trader. I'll clear the 2 Axia Futures courses by the end of the month.
+
+7:55pm.
+
+> Good people have the obligation to be good. Bad people do not have the obligation to be bad.
+
+Yujiro helps an old lady today.

@@ -1302,3 +1302,7 @@ This course is starting out very strong.
 It's not that it's just hyping up a particular tool, but is covering their strengths and weaknesses.
 
 > Weaknesses of one tool can be a strength of another.
+
+3:05pm. Regarding level 3, he says that it's very noisy and it can be nigh on impossible to make discretionary trading decisions. This is what SMB is trying to teach us to use.
+
+Though I am wondering why he is putting Bookmap in the same bucket?

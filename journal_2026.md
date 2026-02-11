@@ -1306,3 +1306,7 @@ It's not that it's just hyping up a particular tool, but is covering their stren
 3:05pm. Regarding level 3, he says that it's very noisy and it can be nigh on impossible to make discretionary trading decisions. This is what SMB is trying to teach us to use.
 
 Though I am wondering why he is putting Bookmap in the same bucket?
+
+![](images/image-2151.png)
+
+Here are the strengths of the footprint. He says that different tools offset the weaknesses of the other.

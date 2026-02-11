@@ -1372,3 +1372,7 @@ Idiots learn to just never sell.
 
 7:30pm. ![](images/image-2161.png)
 > You can really increase size when the order flow picks up towards a critical juncture point.
+
+![](images/image-2162.png)
+
+More price ladder hype.

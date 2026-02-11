@@ -1206,3 +1206,11 @@ What he should have said is that you absolutely have to be paying attention when
 You cannot actually anticipate that this pattern will develop based on deltas or anything else. You have to be present to see and take the trade.
 
 Speed is the answer. The levels are the question.
+
+11:35am. ![](images/image-2138.png)
+
+fttuts people suck. They paste their shitty watermark and they leave a cursor with a highlight in the recording. But it's better than nothing. It beats paying 1200k for this course.
+
+This coures will have mentors doing live trading so I'll be able to learn exactly how they are doing it.
+
+I already sort of know, but there might be strategies I am not aware of.

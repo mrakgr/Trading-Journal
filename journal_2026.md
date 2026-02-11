@@ -1376,3 +1376,19 @@ Idiots learn to just never sell.
 ![](images/image-2162.png)
 
 More price ladder hype.
+
+7:40pm. Ok, I am feeling the fatigue. Let me stop here for real. Amazing that there are people capable of following 16 different price ladders.
+
+I really want to know what kinds of order book patterns there are. Footprints will only show volume clustering in actual trades. If I am going to be looking at footprints, it would be great if I could also overlay the order book as a heatmap. But it isn't indispensable at the moment.
+
+As long as learn the patterns in this course, I'll be able to make an informed decision as to how much I need the L2 data. Will Massive be enough for stock market data or should I shop higher?
+
+I need to answer the question whether futures would be fine or should I really just stick to stocks in play?
+
+If I can make a bot to just look for trade patterns without the need for L1 or L2 data that would be a great place to start. L2 data is expensive, so I'd need to first start earning enough to be able to afford it.
+
+That having said, real time L2 data is much cheaper. I could restrict myself to Nasdaq stocks and get it for 100$/month.
+
+Bookmap supports that.
+
+...Yes, going through this course won't magically make me a good trader, but it will tell me what kinds of patterns I need to look for and that will open a realistic path of improvement as a trader. I'll clear the 2 Axia Futures courses by the end of the month.

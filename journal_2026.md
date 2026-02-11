@@ -1310,3 +1310,17 @@ Though I am wondering why he is putting Bookmap in the same bucket?
 ![](images/image-2151.png)
 
 Here are the strengths of the footprint. He says that different tools offset the weaknesses of the other.
+
+3:15pm. ![](images/image-2152.png)
+
+What a long video. Honestly I am curious about the price ladder and how it could be used effectively, so why don't switch between the two.
+
+![](images/image-2153.png)
+
+The way the course has been ripped is pretty weird. There was a free session 1 on the website and I am sure it had slides rather than just the presenter.
+
+If I really like these courses I might want to buy them outright.
+
+Why am I even watching the price ladder course? Because footprints feel natural, but the price ladder seems like black magic. I am really curious what sort of strategies they will represent.
+
+I am really eating good here. Let me watch these 2 courses. I might end up not needing anything else.

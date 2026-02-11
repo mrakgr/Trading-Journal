@@ -1339,3 +1339,7 @@ Let me stop here so I can do the chores.
 
 5:10pm. > When the market has a lot of activity, when the trader volume is going through the market very aggressively, very fast then in those types of conditions you're more prone to potential breakouts trades, or it's easier to see absorption plays.
 > The picture that I am trying to paint you is that there is an entire personality to what you see to what is going on in the trading ladder and the level of intent can really help you put forth a really strong trading strategy and trading plan to profit from the personality and the acceleration and the non-acceleration of what is going through the price ladder.
+
+5:45pm. ![](images/image-2156.png)
+
+He talks about peripheral awareness across all the markets. That with practice you can see a move in peripheral vision. Crazy.

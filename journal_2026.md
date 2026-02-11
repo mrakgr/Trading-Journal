@@ -1336,3 +1336,6 @@ Oh this is a good point. He is saying that you can tell when an event is a key e
 He talks about acceleration and non-acceleration in the price ladder. The pace of the tape is something SMB talks about as well. Good breakouts have fast tape for example. This is something I wouldn't be able to see on a footprint chart.
 
 Let me stop here so I can do the chores.
+
+5:10pm. > When the market has a lot of activity, when the trader volume is going through the market very aggressively, very fast then in those types of conditions you're more prone to potential breakouts trades, or it's easier to see absorption plays.
+> The picture that I am trying to paint you is that there is an entire personality to what you see to what is going on in the trading ladder and the level of intent can really help you put forth a really strong trading strategy and trading plan to profit from the personality and the acceleration and the non-acceleration of what is going through the price ladder.

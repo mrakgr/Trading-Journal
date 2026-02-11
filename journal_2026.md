@@ -1358,3 +1358,6 @@ Since I torrented the course, the problem I am having is that it's very downscal
 ![](images/image-2159.png)
 
 Ah what the hell, let me do a bit more.
+
+7:10pm. ![](images/image-2160.png)
+> The charts don't show you the underlying intention of the market.

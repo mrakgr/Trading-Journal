@@ -1164,3 +1164,21 @@ The way Mike trades when these holds develop is that he wants to be long or shor
 ![](images/image-2134.png)
 
 Using POCs is much better than than using bar lows and highs as the stop or entry points. I wonder why Lance it teaching crap with the 2 min bar trend system? That cannot be how he trades himself.
+
+11:10am. ![](images/image-2135.png)
+
+Extreme volume at a level like on this chart here tends to be followed by a large move in either direction. You just have to follow the trend, and be patient in waiting for the setup.
+
+I think this guy is kind of full of shit though, but the footprint charts are gold. I don't think the delta means anything at all.
+
+Sigh, this is so fucking easy and I didn't realize it at all.
+
+I really messed it up in 2007 - 2014. You know what, fine, it doesn't matter that I didn't make money during that periods. Maybe 3k would have been too little to succeed either way.
+
+But the fact that I could not realize this concept is a large failure of research on my part.
+
+Unless you understand how volume works, it's impossible to be successful as a trader and I didn't.
+
+I couldn't do it as a gamer, but as a software developer my research abilities have gone up significantly. That is the main difference between me now and the me of 20 years ago.
+
+In the end, the experience does count for something. I haven't wasted my time. I have a different mindset now.

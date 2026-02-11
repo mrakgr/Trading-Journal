@@ -1233,3 +1233,7 @@ I thought delta is nonsense, but if this guy is saying there could be a strategy
 The video goes on for another 40m, so let me have breakfast here.
 
 I really have high hopes for this video. Maybe learning from futures trades will be better than from stock traders. I feel like SMB could really have done more on the tech side.
+
+2:10pm. ![](images/image-2142.png)
+
+First time I see the history of footprint charts here.

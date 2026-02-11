@@ -1226,3 +1226,10 @@ The reason why I could figure it out in Bookmap is because even though they spel
 12:45pm. ![](images/image-2140.png)
 
 I thought delta is nonsense, but if this guy is saying there could be a strategy around it, I am willing to give him the benefit of the doubt.
+
+12:50pm. ![](images/image-2141.png)
+> You only need 1 trade strategy to be prosperous.
+
+The video goes on for another 40m, so let me have breakfast here.
+
+I really have high hopes for this video. Maybe learning from futures trades will be better than from stock traders. I feel like SMB could really have done more on the tech side.

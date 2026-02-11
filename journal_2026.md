@@ -1347,3 +1347,7 @@ He talks about peripheral awareness across all the markets. That with practice y
 5:50pm. ![](images/image-2157.png)
 
 Since I torrented the course, the problem I am having is that it's very downscaled.
+
+![](images/image-2158.png)
+> You might think this looks confusing, but the human brain is incredible. And the human brain over a period of time starts putting all of this into really one picture and you'll notice quite quickly how your proprial awareness starts picking up.
+

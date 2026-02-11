@@ -1182,3 +1182,14 @@ Unless you understand how volume works, it's impossible to be successful as a tr
 I couldn't do it as a gamer, but as a software developer my research abilities have gone up significantly. That is the main difference between me now and the me of 20 years ago.
 
 In the end, the experience does count for something. I haven't wasted my time. I have a different mindset now.
+
+11:20am. ![](images/image-2136.png)
+> Imagine getting short ahead of this guy that has 70 bitcoin to sell.
+
+No, don't! Don't imagine that! That's the wrong way to trade. Rather just react. Short 1 tick below the lever or buy 1 tick above. 
+
+This guy doesn't know how to trade, I am sure of that now. Maybe I should just switch to the Axia futures course before I get any more bad advice.
+
+I mean, think about it, just what could these tiny delta differences tell you? Absolutely nothing.
+
+Prior to the big hold developing the market has been moving sideways doing nothing. All the levels have low volume. It's a place to avoid trading.

@@ -1361,3 +1361,5 @@ Ah what the hell, let me do a bit more.
 
 7:10pm. ![](images/image-2160.png)
 > The charts don't show you the underlying intention of the market.
+
+He's talking about using the speed and the intensity of orders at key levels as an indicator and how that is impossible to see on a chart.

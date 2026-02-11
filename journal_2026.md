@@ -1283,3 +1283,6 @@ So on a 3-box reversal chart, if price is rising (X column), it keeps adding X's
 
 He says that color is great and make it easy to make quick effective decisions. Ok, I was wrong. The darker areas do make it easier to spot important levels.
 
+![](images/image-2147.png)
+
+Ah, the shades are showing delta. I thought they are showing absolute volume. Absolute volume at a level is more important.

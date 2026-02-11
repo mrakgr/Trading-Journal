@@ -1324,3 +1324,7 @@ If I really like these courses I might want to buy them outright.
 Why am I even watching the price ladder course? Because footprints feel natural, but the price ladder seems like black magic. I am really curious what sort of strategies they will represent.
 
 I am really eating good here. Let me watch these 2 courses. I might end up not needing anything else.
+
+3:35pm. ![](images/image-2154.png)
+
+So there might be an advantage of having just level 2 data.

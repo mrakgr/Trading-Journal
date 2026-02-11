@@ -1294,3 +1294,9 @@ So they use all 3 tools. I've never seen the market profile course anywhere. But
 ![](images/image-2149.png)
 
 Didn't think they'd talk about Bookmap.
+
+3pm. ![](images/image-2150.png)
+
+This course is starting out very strong.
+
+It's not that it's just hyping up a particular tool, but is covering their strengths and weaknesses.

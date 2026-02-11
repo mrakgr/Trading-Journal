@@ -1222,3 +1222,7 @@ I already sort of know, but there might be strategies I am not aware of.
 I appreciate that they show strategies and will have live market trading.
 
 The reason why I could figure it out in Bookmap is because even though they spell it out, I didn't really understand how to deal with noise.
+
+12:45pm. ![](images/image-2140.png)
+
+I thought delta is nonsense, but if this guy is saying there could be a strategy around it, I am willing to give him the benefit of the doubt.

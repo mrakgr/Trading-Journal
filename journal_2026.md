@@ -1241,3 +1241,9 @@ First time I see the history of footprint charts here.
 2:15pm. ![](images/image-2143.png)
 
 Pretty good intro.
+
+2:25pm. ![](images/image-2144.png)
+
+I dislike these kinds of footprints. All the colors are distracting and I find it difficult to figure out the POCs.
+
+In fact, if things are like this on a chart, then it would actually be far harder to do it on tape. I'd have to do math to sum up the number. Here I just have to add two numbers and I can barely do it.

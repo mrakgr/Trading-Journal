@@ -1328,3 +1328,8 @@ I am really eating good here. Let me watch these 2 courses. I might end up not n
 3:35pm. ![](images/image-2154.png)
 
 So there might be an advantage of having just level 2 data.
+
+3:45pm. ![](images/image-2155.png)
+
+Oh this is a good point. He is saying that you can tell when an event is a key event by the thinning out of the order book. Andrea Cimi talked about market markets taking off their positions before key reports.
+

@@ -1290,3 +1290,7 @@ Ah, the shades are showing delta. I thought they are showing absolute volume. Ab
 2:55pm. ![](images/image-2148.png)
 
 So they use all 3 tools. I've never seen the market profile course anywhere. But nevermind it.
+
+![](images/image-2149.png)
+
+Didn't think they'd talk about Bookmap.

@@ -1300,3 +1300,5 @@ Didn't think they'd talk about Bookmap.
 This course is starting out very strong.
 
 It's not that it's just hyping up a particular tool, but is covering their strengths and weaknesses.
+
+> Weaknesses of one tool can be a strength of another.

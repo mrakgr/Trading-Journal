@@ -1237,3 +1237,7 @@ I really have high hopes for this video. Maybe learning from futures trades will
 2:10pm. ![](images/image-2142.png)
 
 First time I see the history of footprint charts here.
+
+2:15pm. ![](images/image-2143.png)
+
+Pretty good intro.

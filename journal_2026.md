@@ -1198,3 +1198,11 @@ Prior to the big hold developing the market has been moving sideways doing nothi
 > You could sell it right here, be happy and go downstairs to make your coffee...
 
 So you'd active in a trade, but go off to do something else when you should be watching it? I am facepalming here.
+
+11:25am. Let me skip to the Axia Futures course, hearing this guy talk is embarassing.
+
+What he should have said is that you absolutely have to be paying attention when those big levels start to develop and when the volume starts coming in. Then you take a position. And would be absolutely impossible to notice this pattern on a candlestick chart.
+
+You cannot actually anticipate that this pattern will develop based on deltas or anything else. You have to be present to see and take the trade.
+
+Speed is the answer. The levels are the question.

@@ -1333,3 +1333,6 @@ So there might be an advantage of having just level 2 data.
 
 Oh this is a good point. He is saying that you can tell when an event is a key event by the thinning out of the order book. Andrea Cimi talked about market markets taking off their positions before key reports.
 
+He talks about acceleration and non-acceleration in the price ladder. The pace of the tape is something SMB talks about as well. Good breakouts have fast tape for example. This is something I wouldn't be able to see on a footprint chart.
+
+Let me stop here so I can do the chores.

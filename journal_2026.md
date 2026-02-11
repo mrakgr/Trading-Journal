@@ -1193,3 +1193,8 @@ This guy doesn't know how to trade, I am sure of that now. Maybe I should just s
 I mean, think about it, just what could these tiny delta differences tell you? Absolutely nothing.
 
 Prior to the big hold developing the market has been moving sideways doing nothing. All the levels have low volume. It's a place to avoid trading.
+
+![](images/image-2137.png)
+> You could sell it right here, be happy and go downstairs to make your coffee...
+
+So you'd active in a trade, but go off to do something else when you should be watching it? I am facepalming here.

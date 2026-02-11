@@ -1363,3 +1363,9 @@ Ah what the hell, let me do a bit more.
 > The charts don't show you the underlying intention of the market.
 
 He's talking about using the speed and the intensity of orders at key levels as an indicator and how that is impossible to see on a chart.
+
+> ...Whereas it approaches it by a couple of ticks, you've bought a lump, it's popped a coupld of tick and it's getting no follow through on the auction activity and the speed of orders that are going through on the ladder, you can quickly start reducing your exposure.
+
+Yeah, this is what I am missing. This what I need.
+
+Idiots learn to just never sell.

@@ -1351,3 +1351,10 @@ Since I torrented the course, the problem I am having is that it's very downscal
 ![](images/image-2158.png)
 > You might think this looks confusing, but the human brain is incredible. And the human brain over a period of time starts putting all of this into really one picture and you'll notice quite quickly how your proprial awareness starts picking up.
 
+6:50pm. Yeah, let me stop here. As much as fun this is, there is only so much I can learn in a single day. Let me not push myself.
+
+...
+
+![](images/image-2159.png)
+
+Ah what the hell, let me do a bit more.

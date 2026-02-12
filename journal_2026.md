@@ -1545,3 +1545,9 @@ He is also talking about how the market is running up quickly, it will bounce of
 ![](images/image-2180.png)
 
 Ok, I want the L2 data. I need to see these large orders in the order book. Especially if they've been there for a while.
+
+> That's how you can see the larger order, because it's accepting being traded into.
+
+![](images/image-2181.png)
+
+Whoa, the 1,000 lots got cleared out in a flash. I would definitely have been too late to react!

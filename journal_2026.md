@@ -1514,3 +1514,7 @@ Is the sidedness of an auctioning level really expressed as being high or low?
 3:15pm. I am so lucky to be able to get this course. Normally, I wouldn't have considered buying it and it is such a goldmine.
 
 3:20pm. Maybe to simulate low auction levels, I could added serial correlation. If the previous trade was up, make the next trade more likely to be up. I could reject a trade down with some probability and reroll in order to get that effect.
+
+![](images/image-2176.png)
+
+If I want to be profitable, these are the patterns I need to recognize.

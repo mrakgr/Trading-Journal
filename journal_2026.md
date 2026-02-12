@@ -1460,3 +1460,7 @@ Yeah, I think I made a mistake in my modeling. The speed differentials between c
 > If the speed picks up as the market moves to the upside then you will potentially have to cover the trade.
 > If the speed picks up you will have to start paying very close attention.
 > If the speed start to pick up then the likelihood of a breakout starts increasing rapidly.
+
+12:55pm. He's is saying that when the auctioning activity is only one way, like there is only a buyer taking the offers and no sellers, the probability of a reversal increases significantly. Healthy actioning activity would have both buyers and sellers on both sides of the spread.
+
+I didn't know that. Though I am recalling the strategy Andrea Cimi is using, which was based on exactly this principle. He showed a strategy in one of his videos of waiting for a weep and then putting in the order to play the reversal of that sweep.

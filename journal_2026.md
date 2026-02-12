@@ -1443,3 +1443,7 @@ Like Jigsaw, Axia futures course has these drill that I could do. Not that I am 
 > Platforms to develop your HFTs and algos.
 
 I am really into that. Should be an interesting module for me.
+
+12:35pm. ![](images/image-2165.png)
+
+Velocity of order flow is important.

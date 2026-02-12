@@ -1494,3 +1494,5 @@ Controlling representations to myself isn't that much different from controlling
 
 ![](images/image-2173.png)
 > Absorbtion, flipping, momentum
+
+Actually let me stop here I really need to get some exercise.

@@ -1496,3 +1496,5 @@ Controlling representations to myself isn't that much different from controlling
 > Absorbtion, flipping, momentum
 
 Actually let me stop here I really need to get some exercise.
+
+3pm. Nevermind, I'll have to wait until my dad finishes smoking. We have a bike in the living room that I ride for 20m every day. He just lit one up as soon as I was walking into the room.

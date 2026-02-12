@@ -1531,3 +1531,17 @@ What is a large order?
 > If you just see a large order appear out of nowhere at a price the market is trading, then there is a strong likelihood that is not a genuine large order.
 
 Large order wisdom.
+
+![](images/image-2178.png)
+> The large orders are most genuine when the market is in a high panic state.
+
+![](images/image-2179.png)
+> Sometimes you can get a quick 20 tick move when you notice the large order not being filled. It will chase up the order book.
+
+He is also talking about how the market is running up quickly, it will bounce of a large order.
+
+5pm. Done with chores. Let me resume. Tbh, there is less material in the modules that I though there would be.
+
+![](images/image-2180.png)
+
+Ok, I want the L2 data. I need to see these large orders in the order book. Especially if they've been there for a while.

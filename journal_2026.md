@@ -1522,3 +1522,12 @@ If I want to be profitable, these are the patterns I need to recognize.
 3:40pm. ![](images/image-2177.png)
 
 What is a large order?
+
+> How do you measure a genuine nature of a large order?
+> What is really important is that a genuine order wants to be filled.
+> It's not a flipper or a spoofer who doesn't have the intention of being filled. It is actually an order that wishes to be filled.
+> And most importantly is the duration. If the 
+> If the large order has been sitting on the orderbook at that price for the entire morning or you saw it prior to the futures open at a key level, then that has a strong nature.
+> If you just see a large order appear out of nowhere at a price the market is trading, then there is a strong likelihood that is not a genuine large order.
+
+Large order wisdom.

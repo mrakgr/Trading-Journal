@@ -1451,3 +1451,6 @@ Velocity of order flow is important.
 ![](images/image-2166.png)
 > It's so critically important to understand market velocity.
 
+![](images/image-2167.png)
+
+Yeah, I think I made a mistake in my modeling. The speed differentials between consolidations and high intensity episodes should be as much as 10-50x. In fact, it's speed the produces a difference in volume in a zone.

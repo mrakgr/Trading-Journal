@@ -1510,3 +1510,7 @@ Very interesting matrix. I think I might not be understanding exactly what aucti
 Can the auctioning level really be one sided if the velocity and the volume are high?
 
 Is the sidedness of an auctioning level really expressed as being high or low?
+
+3:15pm. I am so lucky to be able to get this course. Normally, I wouldn't have considered buying it and it is such a goldmine.
+
+3:20pm. Maybe to simulate low auction levels, I could added serial correlation. If the previous trade was up, make the next trade more likely to be up. I could reject a trade down with some probability and reroll in order to get that effect.

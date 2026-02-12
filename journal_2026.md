@@ -1568,3 +1568,21 @@ My focus is starting to wane. Let me see if I can finish this module today. This
 ![](images/image-2183.png)
 
 This might be a strategy more suited for footprints.
+
+6:10pm. I'll leave the live examples for later. I am too tired.
+
+But the story they are telling me is in line with what I learned from SMB.
+
+I just want to see different perspectives on what I am learning to see that I am not missing anything when it is time to resume.
+
+I got my fill figuring out MCMC and doing some modeling, but once I am done with the courses I am going to implement the systems that will be used with real money on the line.
+
+So it's best that even if I cannot trade them manually that I have the right patterns in mind when I do my modeling. It's a basic principle of programming, to explore your problem domain before making a big commitment in coding.
+
+Had I done this far back in late 2006, my life would have turned out so much more differently. People who don't know how to do reseach will inevitably get fucked.
+
+I love this.
+
+If I can master just one play - One Play, I will be able to align my life onto its proper course. The difference between 0 and positive is infinite. I've been stuck at 0 for far too long, dreaming of the day I would have power. The Tao Ceti job turned rotten, but if I can get this to work, I will have a clean edge that won't fade away. I will have a job worth doing until the end of the era of man.
+
+It will be the kind of job where my profit factor will just keep increasing the stronger the machines become and the deeper our understanding of the algorithmic basis of intelligence becomes.

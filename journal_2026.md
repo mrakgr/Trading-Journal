@@ -1551,3 +1551,9 @@ Ok, I want the L2 data. I need to see these large orders in the order book. Espe
 ![](images/image-2181.png)
 
 Whoa, the 1,000 lots got cleared out in a flash. I would definitely have been too late to react!
+
+Time for module 9.
+
+Honestly watching the ladder, I would have joined in hitting the bid once it went below 500 lots, but the feeding accelerated far beyond my expections. I have no idea whether I could execute on this trade at all without the help of the machines.
+
+This is a goldmine. I just have to implement these strategies and then I will start printing money. It's a great challenge for me as a programmer.

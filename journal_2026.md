@@ -1432,3 +1432,9 @@ I hadn't gotten AGI yet, but 2026 has its own perks. The learning is there for t
 11:10am. Let me get started.
 
 11:20am. I did some thinking, and even if it turns out to be the case that I won't need L2 data to recognize the key levels, I still need it to estimate the liquidity and the risk of a trade. You know how the spread in LW became 10% on the hold released? Yeah. If I was entering that trade, it would really have been a good idea to see how much I would have lost if the trade reversed.
+
+11:40am. Sergey Hoffman talked about this drill.
+
+![](images/image-2163.png)
+
+Like Jigsaw, Axia futures course has these drill that I could do. Not that I am going to do it. I am not going to trade off price ladders. Right now, I am just looking at conceptual understanding, and once I have it, I will start coding it up.

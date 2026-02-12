@@ -1475,3 +1475,6 @@ Shit, how am I going to model that? Figuring that out is my job. If I can surmou
 ![](images/image-2170.png)
 
 I am going to have to model this. I had no idea that trade velocity can vary by price zone.
+
+![](images/image-2171.png)
+> When the relative price starts slowing down, you're going to start booking your profits potentially.

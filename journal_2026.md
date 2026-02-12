@@ -1518,3 +1518,7 @@ Is the sidedness of an auctioning level really expressed as being high or low?
 ![](images/image-2176.png)
 
 If I want to be profitable, these are the patterns I need to recognize.
+
+3:40pm. ![](images/image-2177.png)
+
+What is a large order?

@@ -1464,3 +1464,10 @@ Yeah, I think I made a mistake in my modeling. The speed differentials between c
 12:55pm. He's is saying that when the auctioning activity is only one way, like there is only a buyer taking the offers and no sellers, the probability of a reversal increases significantly. Healthy actioning activity would have both buyers and sellers on both sides of the spread.
 
 I didn't know that. Though I am recalling the strategy Andrea Cimi is using, which was based on exactly this principle. He showed a strategy in one of his videos of waiting for a weep and then putting in the order to play the reversal of that sweep.
+
+![](images/image-2169.png)
+> When you have good speed and good auctioning activity, the likelihood of momentum play happening...
+
+Yeah, this is exactly why I am taking this course. I had no idea about the importance of auctioning activity.
+
+Shit, how am I going to model that? Figuring that out is my job. If I can surmount that challenge, I can have everything I ever wanted out of trading.

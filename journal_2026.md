@@ -1459,4 +1459,4 @@ Yeah, I think I made a mistake in my modeling. The speed differentials between c
 > As you can see the trader is short.
 > If the speed picks up as the market moves to the upside then you will potentially have to cover the trade.
 > If the speed picks up you will have to start paying very close attention.
-
+> If the speed start to pick up then the likelihood of a breakout starts increasing rapidly.

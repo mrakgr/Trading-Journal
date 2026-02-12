@@ -1456,4 +1456,7 @@ Velocity of order flow is important.
 Yeah, I think I made a mistake in my modeling. The speed differentials between consolidations and high intensity episodes should be as much as 10-50x. In fact, it's speed the produces a difference in volume in a zone.
 
 ![](images/image-2168.png)
+> As you can see the trader is short.
 > If the speed picks up as the market moves to the upside then you will potentially have to cover the trade.
+> If the speed picks up you will have to start paying very close attention.
+

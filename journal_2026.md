@@ -1561,3 +1561,10 @@ This is a goldmine. I just have to implement these strategies and then I will st
 ![](images/image-2182.png)
 > It's always easy to spot the level. But the difficult part is to trade the level.
 
+5:50pm. I might have to watch this multiple times, but what he is saying that the trading velocity is the most important in trading absorption patterns.
+
+My focus is starting to wane. Let me see if I can finish this module today. This is quite interesting as it should be.
+
+![](images/image-2183.png)
+
+This might be a strategy more suited for footprints.

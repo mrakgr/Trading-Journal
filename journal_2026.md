@@ -1447,3 +1447,7 @@ I am really into that. Should be an interesting module for me.
 12:35pm. ![](images/image-2165.png)
 
 Velocity of order flow is important.
+
+![](images/image-2166.png)
+> It's so critically important to understand market velocity.
+

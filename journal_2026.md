@@ -1426,3 +1426,9 @@ Large moves may grab attention, but they aren't the best indicator.
 ...I should just go to bed. I am looking forward to resuming the course tomorrow. Just by going through the Axia Futures one, I have so much to gain it's crazy.
 
 I hadn't gotten AGI yet, but 2026 has its own perks. The learning is there for those who wish to receive it. I wish I had this 2 decades ago.
+
+2/12/2026
+
+11:10am. Let me get started.
+
+11:20am. I did some thinking, and even if it turns out to be the case that I won't need L2 data to recognize the key levels, I still need it to estimate the liquidity and the risk of a trade. You know how the spread in LW became 10% on the hold released? Yeah. If I was entering that trade, it would really have been a good idea to see how much I would have lost if the trade reversed.

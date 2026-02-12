@@ -1478,3 +1478,6 @@ I am going to have to model this. I had no idea that trade velocity can vary by 
 
 ![](images/image-2171.png)
 > When the relative price starts slowing down, you're going to start booking your profits potentially.
+> This is one of the most important things. Once you understand market velocity you're going to be able to seize up on that market velocity.
+
+Yeah, the most important things are the most obvious. I won't put too much stock into whether the auction activity is one or two sided. It will be one sided on strong momentum moves.

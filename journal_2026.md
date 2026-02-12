@@ -1557,3 +1557,7 @@ Time for module 9.
 Honestly watching the ladder, I would have joined in hitting the bid once it went below 500 lots, but the feeding accelerated far beyond my expections. I have no idea whether I could execute on this trade at all without the help of the machines.
 
 This is a goldmine. I just have to implement these strategies and then I will start printing money. It's a great challenge for me as a programmer.
+
+![](images/image-2182.png)
+> It's always easy to spot the level. But the difficult part is to trade the level.
+

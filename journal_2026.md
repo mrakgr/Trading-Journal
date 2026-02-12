@@ -1491,3 +1491,6 @@ Yeah, I cannot eat and take notes, so let stop here.
 2:45pm. Let me resume. I've been having plenty on insights ever since I started on his path. Previously discovering all of these new tools would have astounded me, but the essence of programming is creating my own tools. Footprint charts are nothing. I can do better.
 
 Controlling representations to myself isn't that much different from controlling representations the NN will ingest.
+
+![](images/image-2173.png)
+> Absorbtion, flipping, momentum

@@ -1586,3 +1586,26 @@ I love this.
 If I can master just one play - One Play, I will be able to align my life onto its proper course. The difference between 0 and positive is infinite. I've been stuck at 0 for far too long, dreaming of the day I would have power. The Tao Ceti job turned rotten, but if I can get this to work, I will have a clean edge that won't fade away. I will have a job worth doing until the end of the era of man.
 
 It will be the kind of job where my profit factor will just keep increasing the stronger the machines become and the deeper our understanding of the algorithmic basis of intelligence becomes.
+
+8:15pm. Damn, maybe I should just go to bed. I can't wait to go through the rest of the course. The chapter on spoofing I am particularly interested in.
+
+I have no idea what sort of strategy they will suggest for when the activity is low. I am also really looking forward to seeing whether they will have something more interesting than my idea of just being long above and short below key levels.
+
+After the footprints course, I am going to check out the SMB Winning Trader course to see the full list of setups within.
+
+And that will be enough. After I am done with these 3 courses, I will have gotten what I needed and will be able to start researching real data and resume the modeling work. I already know that I want to do momentum and absorbtion plays. Dan Zanger most likely got to 40m using those setups and I'd like to replicate his success. I want to trade momentum.
+
+I don't want to fight for a few ticks here and there in front of large orders.
+
+Eventually, I'd like to be able to chain ORBs into longer term momentum moves.
+
+Instead of doing ORBs when the highs get broken, if I instead use the order flow momentum patterns for them, my performance should skyrocket.
+
+But I also want to try trading perp futures since the data is great on them, and they are easy to short. Maybe I'll be playing them on the short side long term.
+
+I wonder if they will turn out to be anything other than a passing fad?
+
+Ah whatever. I'll always have stocks either way. There are 100s of diffent instruments I will be able to play absorption and momo patterns on even excluding stocks. Unlike a single trader who will have only a single main market, the whole world will be my oyster.
+
+Perp futures do have some appeal, but the companies they are based on are pure trash. I want crypto to grow up and move beyond scams.
+

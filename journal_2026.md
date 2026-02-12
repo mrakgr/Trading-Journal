@@ -1502,3 +1502,11 @@ Actually let me stop here I really need to get some exercise.
 3:05pm. ![](images/image-2174.png)
 
 Chart traps.
+
+3:10pm. ![](images/image-2175.png)
+
+Very interesting matrix. I think I might not be understanding exactly what auctioning level is.
+
+Can the auctioning level really be one sided if the velocity and the volume are high?
+
+Is the sidedness of an auctioning level really expressed as being high or low?

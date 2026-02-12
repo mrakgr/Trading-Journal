@@ -1471,3 +1471,7 @@ I didn't know that. Though I am recalling the strategy Andrea Cimi is using, whi
 Yeah, this is exactly why I am taking this course. I had no idea about the importance of auctioning activity.
 
 Shit, how am I going to model that? Figuring that out is my job. If I can surmount that challenge, I can have everything I ever wanted out of trading.
+
+![](images/image-2170.png)
+
+I am going to have to model this. I had no idea that trade velocity can vary by price zone.

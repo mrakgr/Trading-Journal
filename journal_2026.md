@@ -1437,4 +1437,9 @@ I hadn't gotten AGI yet, but 2026 has its own perks. The learning is there for t
 
 ![](images/image-2163.png)
 
-Like Jigsaw, Axia futures course has these drill that I could do. Not that I am going to do it. I am not going to trade off price ladders. Right now, I am just looking at conceptual understanding, and once I have it, I will start coding it up.
+Like Jigsaw, Axia futures course has these drill that I could do. Not that I am going to do it. I am not going to trade off price ladders. Right now, I am just looking for conceptual understanding, and once I have it, I will start coding it up.
+
+11:50am. ![](images/image-2164.png)
+> Platforms to develop your HFTs and algos.
+
+I am really into that. Should be an interesting module for me.

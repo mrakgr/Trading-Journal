@@ -1785,3 +1785,17 @@ Let me take a break here.
 I need to do the chores and the exercises.
 
 My focus is low to day. I got up far too early and am not really giving it my all.
+
+5:40pm. Done with chores.
+
+![](images/image-2202.png)
+
+Wow they are actually adding into the breakout as it progresses. These strategies are pretty complicated in fact.
+
+My focus is not really there today. I'll want to maybe replay the practical examples in the future, but it fine if I don't completely get it right now.
+
+![](images/image-2203.png)
+
+Thankfully there are high volume levels that can mark the start of breakouts. But this idea of adding into breakouts is really interesting.
+
+I haven't been able to figure out how to make pyramiding work, and here it does work.

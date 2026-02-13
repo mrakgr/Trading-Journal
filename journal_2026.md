@@ -1715,3 +1715,15 @@ Time for module 11.
 1:45pm. ![](images/image-2190.png)
 
 I wonder what he means by order type initiation?
+
+![](images/image-2191.png)
+
+He's not talking about absorptions, but about flow off tops here.
+
+Sigh...
+
+Isn't this fun? Being able to make actual realistic plans to reach your goals instead of just bashing your head against the wall on the dailies?
+
+I couldn't reach the Singularity, but the pursuit of it gifted me this. I just kept believing that if I kept going that it would not be futile.
+
+I should just enjoy myself studying the markets and slowly getting better at the game. That is how thing should go.

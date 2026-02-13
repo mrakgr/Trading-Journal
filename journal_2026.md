@@ -1668,3 +1668,10 @@ This is nice.
 http://uk.business.insider.com/what-is-spoofing-2015-10
 
 Dead link. Ok, I get what spoofing is, let me move on with the video.
+
+![](images/image-2188.png)
+> Once you see the absorption on above the ladder, you join the absorption on the sell side.
+
+Ah, I see, that's what he meant by auction activity. It's not whether it is one side or two sided. Rather, it whether the bids are being pulled up strongly with low liquidity.
+
+Usually, the market has to be hit by aggressive buying in order to move up, but when spoofing is going on, you'd just see the prices move up without without that aggressive buying happening.

@@ -1819,3 +1819,5 @@ Ah, and I also realized why they are using a limit order in pattern 2. They aren
 ![](images/image-2206.png)
 
 Ah, so I want to buy the above the low volume node instead of inside it. He says that I don't want the market to trade there.
+
+What the hell, it did go into it. I could have bought there. Isn't the theory that the market has a tendency to fill in the gaps, so I think it might make more sense to buy inside the low volume area.

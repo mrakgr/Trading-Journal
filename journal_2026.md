@@ -1732,3 +1732,6 @@ I should just enjoy myself studying the markets and slowly getting better at the
 
 I am really happy to hear that the market has a consistent level of activity between the episodes. That's exactly how I am modeling them!
 
+3:05pm. Let me go to module 12.
+
+I think my focus is worse today compared to yesterday. I start preparing for bed past 10pm, but it's taking me too long to actually go to bed. I end wasting too much time instead of resting.

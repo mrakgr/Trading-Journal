@@ -1675,3 +1675,7 @@ Dead link. Ok, I get what spoofing is, let me move on with the video.
 Ah, I see, that's what he meant by auction activity. It's not whether it is one side or two sided. Rather, it whether the bids are being pulled up strongly with low liquidity.
 
 Usually, the market has to be hit by aggressive buying in order to move up, but when spoofing is going on, you'd just see the prices move up without without that aggressive buying happening.
+
+![](images/image-2189.png)
+
+So no auction implies a revisit. More broadly, Andrea Cimi did say that gaps get filled most of the time on the day they happen.

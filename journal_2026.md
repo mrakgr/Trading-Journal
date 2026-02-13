@@ -1821,3 +1821,41 @@ Ah, and I also realized why they are using a limit order in pattern 2. They aren
 Ah, so I want to buy the above the low volume node instead of inside it. He says that I don't want the market to trade there.
 
 What the hell, it did go into it. I could have bought there. Isn't the theory that the market has a tendency to fill in the gaps, so I think it might make more sense to buy inside the low volume area.
+
+6:05pm. Ok, let me deal with module 13 today as well. It only has 2 vids.
+
+6:10pm. No, let me stop here, I am too tired to watch this properly right now.
+
+I'll leave module 13 for much later and move on to the footprint course tomorrow. Now that I know some price ladder setups, I am really interested in contrasting that with footprints.
+
+8:40pm. I give up. The SMB tape reading course cannot be torrented.
+
+![](images/image-2207.png)
+
+I've never encountered a situation like this before. Sometimes I see seeders coming in and going, but not contributing anything, it's maddening.
+
+8:45pm. I think I should just get it for 20$ and be done with it. I just clicked on the Hunt Orders chapter at random and learned something new.
+
+8:55pm. Oh I see. fttuts.com is actually better than I thought.
+
+![](images/image-2208.png)
+
+Some of the courses are free for members (which costs 34$/month), but other have an addon cost. I thought all of them had to be paid individually like with other course resellers.
+
+9:05pm. Ok enough, I am done for the day here. Part of me is thinking what I should do and it would be best if I just went to bed.
+
+Novels and games aren't interesting to me anymore, trading is where it is at. I haven't even read FX Senshi Kurumi yet. It's getting an anime along with Nia Liston.
+
+I have the manga files sitting on my hard drive unread. I need to focus on finishing the courses and I will resume programming.
+
+You know those spoofing trades are actually interesting. The only example was them showing a spoof order coming in, and then saying that that is a scalping opportunity and it is.
+
+Even if that large order is only sitting there for a second, that still gives the machine plenty of opportunity to scalp. The same goes for the other large order trades. It's definitely an edge even if it feels to my eyes like random noise.
+
+I feel like the Axia course is 10/10. I made the right choice to get it.
+
+It's improved my understanding of order flow trading significantly. I am really looking forward to the footprint one.
+
+It's very interesting though, that they didn't put much emphasis on key levels in the price ladder course.
+
+Eh...well good night.

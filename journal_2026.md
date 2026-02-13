@@ -1753,3 +1753,14 @@ Yeah, this is how I want to trade. No doubt about it. I am not into scalping for
 ![](images/image-2195.png)
 
 Ohhh, actually it never even occured to me to track open interest. I should be able to feed that as a data point to a NN. But these patterns are easy enough to tell apart by volume, so I don't really need it.
+
+![](images/image-2196.png)
+
+Hold -> Move -> Hold -> Move
+
+That is how I'll architect the next generative model.
+
+![](images/image-2197.png)
+![](images/image-2198.png)
+
+Lance talked about combining multiple timeframe together when doing momentum plays.

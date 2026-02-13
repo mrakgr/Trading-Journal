@@ -1764,3 +1764,7 @@ That is how I'll architect the next generative model.
 ![](images/image-2198.png)
 
 Lance talked about combining multiple timeframe together when doing momentum plays.
+
+![](images/image-2199.png)
+
+This is the first time I saw it talk about automated entries and exists for momentum plays.

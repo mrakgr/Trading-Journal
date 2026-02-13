@@ -1783,3 +1783,5 @@ I can only feel pity for the longer term trader who are using tight stops. They 
 Let me take a break here.
 
 I need to do the chores and the exercises.
+
+My focus is low to day. I got up far too early and am not really giving it my all.

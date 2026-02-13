@@ -1807,3 +1807,11 @@ Damn it spiked!
 Is this an exhaustion top? No, not yet, a trend reversal move requires the tape to slow down first. You don't sell while it is still going up.
 
 There is a shift that's visible on the tape, but not on the chart.
+
+![](images/image-2205.png)
+
+He says I could start entering the trades into low volume zones. That was the first pattern covered 2 vids ago.
+
+You know, since this pattern does take a while to develop, I bet I could pick up quite a lot of size along the way. This doesn't matter at the start my trading career, but it will as I go along.
+
+Ah, and I also realized why they are using a limit order in pattern 2. They aren't necessarily taking the other side of the market, but they don't want to use a market order and get massive slippage during the stop hunt. OCO is a bracket order, so when they are doing a stop hunt at the lows, they'd use a limit sell that automatically turns into a buy when they get filled.

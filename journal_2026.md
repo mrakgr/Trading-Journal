@@ -1799,3 +1799,11 @@ My focus is not really there today. I'll want to maybe replay the practical exam
 Thankfully there are high volume levels that can mark the start of breakouts. But this idea of adding into breakouts is really interesting.
 
 I haven't been able to figure out how to make pyramiding work, and here it does work.
+
+![](images/image-2204.png)
+
+Damn it spiked!
+
+Is this an exhaustion top? No, not yet, a trend reversal move requires the tape to slow down first. You don't sell while it is still going up.
+
+There is a shift that's visible on the tape, but not on the chart.

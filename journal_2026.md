@@ -1711,3 +1711,7 @@ It occurs that spoofing would just appear as a low volume climb on a footprint c
 1:35pm. Oh wow these patterns are so short term. I wouldn't have thought of them as being anything other than noise!
 
 Time for module 11.
+
+1:45pm. ![](images/image-2190.png)
+
+I wonder what he means by order type initiation?

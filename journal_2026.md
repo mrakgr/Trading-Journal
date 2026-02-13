@@ -1773,3 +1773,13 @@ This is the first time I saw it talk about automated entries and exists for mome
 > Volume slam dunk is one of my favorite plays because you can get away with a lot of size with high probability.
 
 I am also curious what the passive strategy is.
+
+![](images/image-2201.png)
+
+So they are using a stop (limit) order to enter the market on this trade?
+
+I can only feel pity for the longer term trader who are using tight stops. They are market chow.
+
+Let me take a break here.
+
+I need to do the chores and the exercises.

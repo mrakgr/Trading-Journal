@@ -1739,3 +1739,17 @@ I think my focus is worse today compared to yesterday. I start preparing for bed
 ![](images/image-2193.png)
 
 I feel like some of the videos must be missing in the torrent because some of these strategies weren't covered at all in the previous module.
+
+3:20pm. ![](images/image-2194.png)
+
+Markets are in congested zones 70% of the time.
+
+> When the market moves above or below the congestion you get this presure release.
+
+Bu the way the image of traffic is great.
+
+Yeah, this is how I want to trade. No doubt about it. I am not into scalping for ticks against the flippers.
+
+![](images/image-2195.png)
+
+Ohhh, actually it never even occured to me to track open interest. I should be able to feed that as a data point to a NN. But these patterns are easy enough to tell apart by volume, so I don't really need it.

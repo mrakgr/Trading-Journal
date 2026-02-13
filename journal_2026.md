@@ -1771,3 +1771,5 @@ This is the first time I saw it talk about automated entries and exists for mome
 
 ![](images/image-2200.png)
 > Volume slam dunk is one of my favorite plays because you can get away with a lot of size with high probability.
+
+I am also curious what the passive strategy is.

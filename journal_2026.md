@@ -1727,3 +1727,8 @@ Isn't this fun? Being able to make actual realistic plans to reach your goals in
 I couldn't reach the Singularity, but the pursuit of it gifted me this. I just kept believing that if I kept going that it would not be futile.
 
 I should just enjoy myself studying the markets and slowly getting better at the game. That is how thing should go.
+
+![](images/image-2192.png)
+
+I am really happy to hear that the market has a consistent level of activity between the episodes. That's exactly how I am modeling them!
+

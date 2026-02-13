@@ -1634,3 +1634,37 @@ Hopefully that will be more rewarding in daytrading than it is on longer term ti
 > The relative rate of exchange start decreasing.
 
 Then you hit it.
+
+10:30am. Done with the absorption module. Time for the next part.
+
+Module 10 Market Flipping, Layering and Spoofing Price Patterns
+
+I really wonder if momentum is just the opposite of absorption. We'll see. For now let me go through module 10.
+
+![](images/image-2187.png)
+
+He's telling me to read these links.
+
+https://mahifx.com/mfxtrade/blog/an-interview-with-paul-rotter-adapting-to-survive
+
+Damn, I think the first one is dead.
+
+https://www.mql5.com/en/blogs/post/10367
+
+Opus found it for me.
+
+> Given your interest in order flow and market microstructure, the parts about how he used his own fills as information ("from my fills I could feel what the market wanted to do by how it reacted to my orders") and his description of reading market psychology at support/resistance levels are especially relevant.
+
+https://www.elitetrader.com/et/threads/article-on-flipper-and-spoofing-strategies-from-john-arnold.289335/
+
+Let's see if this is up. I am just using the text extractor tool from Powertools to get the URLs from the video.
+
+I didn't think the interview by Paul Rotter was worth it my time to read.
+
+> Front-running is profitable against traditional orders entered by humans. But with spoofers in the mix, the picture looks quite different: When the front-running HFT algorithm jumps ahead of a spoof order, the front-runner gets fooled and loses money. The HFT’s front-running algorithm can't easily distinguish between legitimate orders and spoofs. Suddenly the front-runner faces real market risk and makes the rational choice to do less front-running. In short, spoofing poses the risk of making front-running unprofitable. Because spoofing is only profitable if front-running exists, allowing both would ensure that neither is widespread.
+
+This is nice.
+
+http://uk.business.insider.com/what-is-spoofing-2015-10
+
+Dead link. Ok, I get what spoofing is, let me move on with the video.

@@ -1672,10 +1672,42 @@ Dead link. Ok, I get what spoofing is, let me move on with the video.
 ![](images/image-2188.png)
 > Once you see the absorption on above the ladder, you join the absorption on the sell side.
 
-Ah, I see, that's what he meant by auction activity. It's not whether it is one side or two sided. Rather, it whether the bids are being pulled up strongly with low liquidity.
+Ah, I see, that's what he meant by auction activity. It's not whether it is one sided or two sided. Rather, it whether the bids are being pulled up strongly with low activity.
 
 Usually, the market has to be hit by aggressive buying in order to move up, but when spoofing is going on, you'd just see the prices move up without without that aggressive buying happening.
 
 ![](images/image-2189.png)
 
 So no auction implies a revisit. More broadly, Andrea Cimi did say that gaps get filled most of the time on the day they happen.
+
+11:40pm. Let me take a break here. I'll take a look at the drill video after that.
+
+Module 01 Learning Objectives, Outcomes & Methodology
+Module 02 Introduction to The DOM (Depth of Market)
+Module 03 Course Curriculum Outline and Roadmap
+Module 04 What The Ladders Tell You That The Charts Don't
+Module 05 Market Participants with Algorithms & High Frequency Trading
+Module 06 Auctioning Exchange and Market Velocity
+Module 07 Introduction to Order Flow Price Patterns
+Module 08 Large Orders
+Module 09 Absorption Order Flow Events
+Module 10 Market Flipping, Layering and Spoofing Price Patterns
+Module 11 Trend Reversal Order Flow Indicator
+Module 12 Momentum Breakout Order Flow Patterns
+Module 13 Practice - Confluence of Order Flow Strategies
+Module 14 Evolution of Order Flow and Price Patterns
+Module 15 What Makes an Elite Order Flow Trader
+Module 16 Interviews with Elite Order Flow Traders
+Module 17 Bonus Advanced Replay Drills and Practice
+
+There are bunch of modules left to go, but I am going to skip 14 and up. Maybe even 13 and move on to the footprints course instead.
+
+...Ugh, reading the tape course torrent is driving me insane. I never experienced being stuck at 97% for days.
+
+1:20pm. Let me resume.
+
+It occurs that spoofing would just appear as a low volume climb on a footprint chart.
+
+1:35pm. Oh wow these patterns are so short term. I wouldn't have thought of them as being anything other than noise!
+
+Time for module 11.

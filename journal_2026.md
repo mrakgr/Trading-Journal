@@ -1735,3 +1735,7 @@ I am really happy to hear that the market has a consistent level of activity bet
 3:05pm. Let me go to module 12.
 
 I think my focus is worse today compared to yesterday. I start preparing for bed past 10pm, but it's taking me too long to actually go to bed. I end wasting too much time instead of resting.
+
+![](images/image-2193.png)
+
+I feel like some of the videos must be missing in the torrent because some of these strategies weren't covered at all in the previous module.

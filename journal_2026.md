@@ -1609,3 +1609,28 @@ Ah whatever. I'll always have stocks either way. There are 100s of diffent instr
 
 Perp futures do have some appeal, but the companies they are based on are pure trash. I want crypto to grow up and move beyond scams.
 
+2/13/2026
+
+9:30am. Let me resume the courses.
+
+It's time to pick up the pace. That larger order video gave me a lot to think about. In particular, the 4-5 tick wins could easily be 10 tick losses with poor execution. I've been thinking that I need to trade using scripts.
+
+According to my own trading plan, I'd probably have leaned on the large order, and then promptly gotten hit for 10 ticks when the level broke. Oh yeah, today I intended to put that video into OBS so I can go through it frame by frame.
+
+Ok, I've counted it. It took 15 frames for it to go from 950 to fully consumed. At 25 FPS, that would be slightly more than half a second of time to react. It took 8 frame to go from below 500 lots to consumed.
+
+![](images/image-2184.png)
+
+If I just try to automate this trade as a generic key level trade I'd end up selling below the 50.35 level and buying when it goes back up above it again. I'd lose money when I could have made it instead.
+
+![](images/image-2185.png)
+
+Let me get back to this. The price ladder traders try to scalp ticks here and there, while I'd like to hold for longer.
+
+Hopefully that will be more rewarding in daytrading than it is on longer term timeframes.
+
+![](images/image-2186.png)
+> So what you want to see, is first you want to see the absorber and once you've observed the absorber or the iceberg, you want to see the velocity of the exchange start decreasing.
+> The relative rate of exchange start decreasing.
+
+Then you hit it.

@@ -2024,3 +2024,7 @@ Yes, this is what I am afraid of. That 800 transaction hold in 3s in LW is somet
 7:05pm. He says that we shouldn't waste 6-9 months watching the prices go up and down, but we should at least spend 2-3 weeks doing it.
 
 His views are pretty interesting.
+
+> Why is that? Why are we looking at T&S? Why don't we just over to the footprint & cumulative delta?
+
+Incidentally, he things his education is better than what I could get at a prop firm. We'll see.

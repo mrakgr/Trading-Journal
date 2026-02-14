@@ -2014,3 +2014,6 @@ Phew.
 Yes, this is what I am afraid of. That 800 transaction hold in 3s in LW is something that I keep thinking about constantly.
 
 > So the competition in that timeframe has increased severely.
+
+![](images/image-2223.png)
+> B is that the resting orders because of this algorithmic flow, a lot of it is fake.

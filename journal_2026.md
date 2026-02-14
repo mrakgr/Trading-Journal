@@ -2000,3 +2000,10 @@ He's saying that in a pro trading environment, the charts aren't even looked at 
 > The people transacting in the futures market are massive institutions.
 
 He's talking why forex futures are such a great proxy for spot. Honestly, this is new to me. I've been wondering why one would ever touch forex futures given that spot is so much bigger?
+
+He's saying that the institutions see the order flow and that is reflected in the futures market.
+
+![](images/image-2222.png)
+> You're not going to have to spent the next few months staring at this going up and down.
+
+Phew.

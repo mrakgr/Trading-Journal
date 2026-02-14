@@ -2017,3 +2017,7 @@ Yes, this is what I am afraid of. That 800 transaction hold in 3s in LW is somet
 
 ![](images/image-2223.png)
 > B is that the resting orders because of this algorithmic flow, a lot of it is fake.
+> It doesn't mean it's not important for you to have an understanding of. But in terms of gaining an edge and being able to make money out of it...
+> It's there 1 minute and gone the next.
+> It's not something that's going to be helpful for you long term.
+

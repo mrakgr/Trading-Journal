@@ -1979,3 +1979,16 @@ Right now, I am still not doing enough. I am still my old lazy self. I need to p
 5:35pm. ![](images/image-2218.png)
 
 If the tape is too fast, maybe I should just replay it in slow motion.
+
+![](images/image-2219.png)
+
+In the first module he really wafles about irrelevant stuff so I skipped that, but this is interesting. 10 bid, 18 ask, but in the time and sales it's much more fragmented.
+
+I need to backtrack in order to understand how the DOM is configured. It aggregated the trades, which is good.
+
+5:55pm. I kind of like the approach of Neerav. I am going to get the fttuts membership and get all the order flow courses that have caught my eye.
+
+I kind of feel more at ease with the the DOM. Wish stocks could be traded like this. Don't want to spend 1.5k a month just to practice on them.
+
+![](images/image-2220.png)
+> I've felt like this at the start. There's too much information, there's too many columns, there's too much.

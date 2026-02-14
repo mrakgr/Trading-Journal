@@ -2007,3 +2007,8 @@ He's saying that the institutions see the order flow and that is reflected in th
 > You're not going to have to spent the next few months staring at this going up and down.
 
 Phew.
+
+> The major reason for that is that the landscape has changed in the last 10-20 years. There is a lot more algorithmic flow now which is automated flow, machines. In particular big hedge funds have come into the space. Obviously banks as well and they are using automation.
+> What that means that the speed of transactions at the miscroscopic level is very fast.
+
+Yes, this is what I am afraid of. That 800 transaction hold in 3s in LW is something that I keep thinking about constantly.

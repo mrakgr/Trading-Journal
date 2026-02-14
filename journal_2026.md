@@ -1903,3 +1903,9 @@ The price ladder traders on the other hand just concern themselves with auction 
 The first course of Neerav Vadera is also on DOM trading. He says that banks start of their traders with that, and in a later course does he bring in the footprint charts. Since it is on DOM trading, I'll check it out. I've already downloaded it.
 
 I've spat on Mike Valtos' course, but the fact that he had POCs highlighted made it a lot easier to interpret them.
+
+3:10pm. Nevermind this, I am jumping straight to the strategy sections.
+
+![](images/image-2215.png)
+
+Get to the strategy.

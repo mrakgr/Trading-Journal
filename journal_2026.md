@@ -1879,3 +1879,11 @@ Ok, so now I know what getting good data would take. I've just been looking into
 10:55am. ![](images/image-2211.png)
 
 Interesting, he says we'll develop a strategy using the imbalance information. Is that sound?
+
+2:50pm. ![](images/image-2212.png)
+
+I wonder if it makes sense to really bother with this course? This is just the usual techno analysis claptrap.
+
+There is one thing I am realizing - the importance of speed. The faster I am as a trader the more money I will make.
+
+Looking at charts will not get me far. Being in the flow will.

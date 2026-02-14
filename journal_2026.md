@@ -1955,3 +1955,21 @@ Let me skip to Neerav's course and then I will get the tape reading course by SM
 It will be a lot easier for me to quantify tape reading than it will be to quantify chart analysis. I think chartists are full of shit.
 
 Sigh, the only thing I like was him showing a volume footprint shart with the different shades. No bid or ask, just the volume. That makes it easy to read.
+
+5:10pm. Time to resume.
+
+![](images/image-2217.png)
+
+I was thinking of getting the Jigsaw course, but the modules names here are exactly the same as for the Axia Futures course, so they are very likely the same courses.
+
+I thought of a drill just now.
+
+I should learn to read the ladder, and I should try to make it so that the market I am simulating is as indistinguishable from the one on the ladder as possible!
+
+Yes, that is the golden standard I should be aiming towards as a quant trader.
+
+Obviously I cannot make the simulation realistic if I don't understand what realistic should even look like.
+
+I need to develop a feel for the markets so that I can develop a feel for the simulation.
+
+Right now, I am still not doing enough. I am still my old lazy self. I need to push myself to the absolute limit. Only then will I succeed.

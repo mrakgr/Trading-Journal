@@ -2033,3 +2033,6 @@ Incidentally, he things his education is better than what I could get at a prop 
 > You're not given charts. You'll be given multiple screens and this is what you'll be watching go up and down.
 
 Nightmare.
+
+![](images/image-2225.png)
+> There is no difference to what is going on in the financial market to what is going on in any market in the world.

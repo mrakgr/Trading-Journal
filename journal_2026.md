@@ -1992,3 +1992,5 @@ I kind of feel more at ease with the the DOM. Wish stocks could be traded like t
 
 ![](images/image-2220.png)
 > I've felt like this at the start. There's too much information, there's too many columns, there's too much.
+
+He's saying that in a pro trading environment, the charts aren't even looked at for the first few months.

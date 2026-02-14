@@ -2046,4 +2046,40 @@ I have things I want to do already in mind, but it simply makes sense to study p
 
 7:45pm. ![](images/image-2226.png)
 
-Why the hell is Russia dependent on western communications for their C&C? Why wasn't this shit earlier? Crazy.
+> Why is Russia dependent on western communications for their C&C? Why wasn't Starlink shut down earlier?
+
+///
+
+Great question — let me search for the latest on this topic, as it touches on recent developments in the Russia-Ukraine conflict.This is a really fascinating story that's unfolding right now. Let me break down both of your questions.
+
+## Why is Russia dependent on Western comms for C2?
+
+Several converging factors:
+
+**Russia's own military comms infrastructure is terrible.** A Russian war blogger wrote that "funds to create domestic military communications were embezzled," and that high-quality communications remain nonexistent. This is a consequence of decades of corruption hollowing out Russia's defense sector — the money earmarked for indigenous satellite and tactical communications systems was stolen.
+
+**The battlefield demands outpaced legacy systems.** Drones now account for roughly 60% of all fire damage along the front compared to 40% by artillery, and drones need constant, high-bandwidth, jam-resistant connectivity to function. Russia's existing radio and relay systems simply can't provide this — they're vulnerable to Ukrainian electronic warfare, have limited range, and can't handle the data throughput needed for live video feeds and real-time drone control.
+
+**Starlink is just far superior to anything else available.** As one Ukrainian analyst put it, alternatives exist, but nothing humanity has invented matches Starlink's capabilities. Russia's domestic alternatives are bleak — Gazprom Space Systems has only five communications satellites in orbit, offering limited coverage, weak signal, high costs, and difficult field maintenance. Russia has repeatedly attempted to create a Starlink equivalent through programs like "Sfera" and "Rassvet," but none were fully implemented, while SpaceX's constellation has surpassed 9,600 satellites.
+
+So Russia took the path of least resistance: they illegally imported more than 50,000 terminals through third countries, primarily via Central Asia, disguising them as tourist equipment or auto parts. The terminals worked because they were technically located on Ukrainian territory where Starlink coverage exists.
+
+## Why wasn't it shut down earlier?
+
+This is the more politically charged question, and there are a few reasons:
+
+**Technical difficulty of selective blocking.** Starlink coverage over or near the frontline cannot be deactivated or jammed without potentially harming Ukraine's own ability to use the system. The terminals used by Russian forces were technically on Ukrainian soil (occupied territory), making geofencing by location alone insufficient — you'd cut off Ukrainian forces too.
+
+**The whitelisting solution took time to develop.** The approach that was finally implemented — requiring all terminals in Ukraine to register on a verified whitelist — is a significant logistical and technical undertaking. Ukraine's digital transformation minister had been talking about finding a solution to deactivate Russian terminals as far back as early 2024.
+
+**Political dynamics around Musk/SpaceX.** SpaceX had a complicated relationship with the conflict from the start — providing terminals to Ukraine while simultaneously limiting their military use and resisting coverage expansion to Crimea. The willingness to cooperate on a crackdown seems to have been catalyzed by reports that Russian forces were strapping Starlink terminals to long-range drones — essentially weaponizing the system for terror strikes deep into Ukrainian territory, which crossed a line even for SpaceX.
+
+The impact of the shutdown has been dramatic: nearly 90% of Russian units lost connectivity, Russian battlefield command was described as "effectively paralyzed," and they're now scrambling with inferior alternatives like chains of LTE modems and Wi-Fi bridges. One Russian soldier said they "completely descended into the Stone Age" overnight.
+
+///
+
+Holy crap, so that is how it was. Lol'd at the funds for comms infrastructure being embezzled.
+
+Anyway, given that Russia was desperate enough to rely on Starlink before going to war, it seems that this might be the tipping point that is going to end it. It couldn't conquer Ukraine despite being at war with it for 4 years, so that speaks volumes about its strength or lack thereof. Russia is so fucked.
+
+I would never had imagined that Russia could have such an vulnerability.

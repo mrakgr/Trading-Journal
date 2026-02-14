@@ -2036,3 +2036,4 @@ Nightmare.
 
 ![](images/image-2225.png)
 > There is no difference to what is going on in the financial market to what is going on in any market in the world.
+> It's like driving a car, you just get used to it.

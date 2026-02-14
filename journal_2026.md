@@ -1875,3 +1875,7 @@ My god, this fragmentation makes trading stocks far more difficult than it shoul
 The full package would require paying 200$/month.
 
 Ok, so now I know what getting good data would take. I've just been looking into whether it would be possible to do DOM trading on stocks and went down this hole.
+
+10:55am. ![](images/image-2211.png)
+
+Interesting, he says we'll develop a strategy using the imbalance information. Is that sound?

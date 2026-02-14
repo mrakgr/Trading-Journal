@@ -1859,3 +1859,19 @@ It's improved my understanding of order flow trading significantly. I am really 
 It's very interesting though, that they didn't put much emphasis on key levels in the price ladder course.
 
 Eh...well good night.
+
+2/14/2026
+
+10:15am. Ok, it's time for footprints.
+
+![](images/image-2209.png)
+
+Doing some research and it seems that DataBento offers L2 data and the trade aggressor sides.
+
+My god, this fragmentation makes trading stocks far more difficult than it should be.
+
+![](images/image-2210.png)
+
+The full package would require paying 200$/month.
+
+Ok, so now I know what getting good data would take. I've just been looking into whether it would be possible to do DOM trading on stocks and went down this hole.

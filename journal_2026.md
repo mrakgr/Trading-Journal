@@ -1887,3 +1887,19 @@ I wonder if it makes sense to really bother with this course? This is just the u
 There is one thing I am realizing - the importance of speed. The faster I am as a trader the more money I will make.
 
 Looking at charts will not get me far. Being in the flow will.
+
+2:55pm. ![](images/image-2213.png)
+
+Ok, let me start skimming this course. I am not going to suffer through this chart claptrap. I have better ways of thinking and modeling.
+
+The way the chart is shown with these useless colors is annoying. I can barely see the POCs. I am going to skip to the strategy sections.
+
+![](images/image-2214.png)
+
+Jesus Christ, so much for this being simple. He made a big deal about keeping it simple, but is just introducing principle after principle for 2 hours.
+
+The price ladder traders on the other hand just concern themselves with auction activity, volume, liquidity and price velocity.
+
+The first course of Neerav Vadera is also on DOM trading. He says that banks start of their traders with that, and in a later course does he bring in the footprint charts. Since it is on DOM trading, I'll check it out. I've already downloaded it.
+
+I've spat on Mike Valtos' course, but the fact that he had POCs highlighted made it a lot easier to interpret them.

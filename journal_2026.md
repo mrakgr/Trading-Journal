@@ -2012,3 +2012,5 @@ Phew.
 > What that means that the speed of transactions at the miscroscopic level is very fast.
 
 Yes, this is what I am afraid of. That 800 transaction hold in 3s in LW is something that I keep thinking about constantly.
+
+> So the competition in that timeframe has increased severely.

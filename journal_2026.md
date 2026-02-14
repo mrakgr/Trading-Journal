@@ -2021,3 +2021,6 @@ Yes, this is what I am afraid of. That 800 transaction hold in 3s in LW is somet
 > It's there 1 minute and gone the next.
 > It's not something that's going to be helpful for you long term.
 
+7:05pm. He says that we shouldn't waste 6-9 months watching the prices go up and down, but we should at least spend 2-3 weeks doing it.
+
+His views are pretty interesting.

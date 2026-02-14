@@ -1973,3 +1973,9 @@ Obviously I cannot make the simulation realistic if I don't understand what real
 I need to develop a feel for the markets so that I can develop a feel for the simulation.
 
 Right now, I am still not doing enough. I am still my old lazy self. I need to push myself to the absolute limit. Only then will I succeed.
+
+...Ok, let me check out the course by Neerav.
+
+5:35pm. ![](images/image-2218.png)
+
+If the tape is too fast, maybe I should just replay it in slow motion.

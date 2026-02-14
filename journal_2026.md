@@ -1909,3 +1909,49 @@ I've spat on Mike Valtos' course, but the fact that he had POCs highlighted made
 ![](images/image-2215.png)
 
 Get to the strategy.
+
+3:20pm. ![](images/image-2216.png)
+
+He has 3 different tools on his screen when one should suffice.
+
+In fact the volume profile on the DOM is the ideal tool. You could see the volume clustering on it exactly.
+
+Sigh, I really like the tape reading courses. The price ladder one just places the patterns into 4 sensible blocks.
+
+Nevermind this course, I am skipping it.
+
+Quant trading has far more in common with tape reading and price ladder trading than it does with chart reading ironically enough.
+
+Contrary how I thought it would be, it's very easy to understand the price ladder course.
+
+Let's say the large order patterns. You can do 3 things:
+
+* Lean on the order scalp it.
+* When it starts getting consumed, push into it and play the break.
+* After it breaks play the reversal as the market fill in the gap.
+
+For spoofing:
+* You see a large order come out of the blue, lean on it and scalp it.
+
+For absorbition patterns:
+* You see reloading on the bid and offer, start scalping or build a core position.
+
+For momentum patterns:
+* Play the acceleration in the tape.
+
+For reversals:
+* Play the decceleration in the tap.
+
+All the lessons are few minutes each and have fairly understandable criteria.
+
+In fact those criteria are exactly what I am modeling in my own codebase. They are in-line what SMB has taught me.
+
+What isn't in line is that SMB plays trends off key levels, while Axia Futures price ladder course has more niche patterns. The reason for that is because they trading assets that aren't in play that don't trend well.
+
+SMB traders trade momentum in its various forms. Those patterns appear more frequently when there is a catalyst and abnormal volume at a broader level.
+
+Let me skip to Neerav's course and then I will get the tape reading course by SMB.
+
+It will be a lot easier for me to quantify tape reading than it will be to quantify chart analysis. I think chartists are full of shit.
+
+Sigh, the only thing I like was him showing a volume footprint shart with the different shades. No bid or ask, just the volume. That makes it easy to read.

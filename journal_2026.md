@@ -2028,3 +2028,8 @@ His views are pretty interesting.
 > Why is that? Why are we looking at T&S? Why don't we just over to the footprint & cumulative delta?
 
 Incidentally, he things his education is better than what I could get at a prop firm. We'll see.
+
+![](images/image-2224.png)
+> You're not given charts. You'll be given multiple screens and this is what you'll be watching go up and down.
+
+Nightmare.

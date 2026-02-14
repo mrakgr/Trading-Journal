@@ -2043,3 +2043,7 @@ Nightmare.
 It's Thomas who pointed the guy out to me a few months ago, but contrary to my expectations, it seems what he will teach me will be pretty promising. It seems like he found a way to merge DOM, footprints and volume profile tools.
 
 I have things I want to do already in mind, but it simply makes sense to study pro methods before I go off on my own. Could save me months of wasted effort down the line.
+
+7:45pm. ![](images/image-2226.png)
+
+Why the hell is Russia dependent on western communications for their C&C? Why wasn't this shit earlier? Crazy.

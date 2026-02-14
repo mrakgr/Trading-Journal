@@ -1994,3 +1994,9 @@ I kind of feel more at ease with the the DOM. Wish stocks could be traded like t
 > I've felt like this at the start. There's too much information, there's too many columns, there's too much.
 
 He's saying that in a pro trading environment, the charts aren't even looked at for the first few months.
+
+![](images/image-2221.png)
+> The reason why it's such an excellent proxy for it...
+> The people transacting in the futures market are massive institutions.
+
+He's talking why forex futures are such a great proxy for spot. Honestly, this is new to me. I've been wondering why one would ever touch forex futures given that spot is so much bigger?

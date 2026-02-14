@@ -2009,7 +2009,7 @@ He's saying that the institutions see the order flow and that is reflected in th
 Phew.
 
 > The major reason for that is that the landscape has changed in the last 10-20 years. There is a lot more algorithmic flow now which is automated flow, machines. In particular big hedge funds have come into the space. Obviously banks as well and they are using automation.
-> What that means that the speed of transactions at the miscroscopic level is very fast.
+> What that means that the speed of transactions at the microscopic level is very fast.
 
 Yes, this is what I am afraid of. That 800 transaction hold in 3s in LW is something that I keep thinking about constantly.
 
@@ -2037,3 +2037,9 @@ Nightmare.
 ![](images/image-2225.png)
 > There is no difference to what is going on in the financial market to what is going on in any market in the world.
 > It's like driving a car, you just get used to it.
+
+7:30pm. Let me stop here for the day, the next video is 1.5h long. I"ll leave it for tomorrow.
+
+It's Thomas who pointed the guy out to me a few months ago, but contrary to my expectations, it seems what he will teach me will be pretty promising. It seems like he found a way to merge DOM, footprints and volume profile tools.
+
+I have things I want to do already in mind, but it simply makes sense to study pro methods before I go off on my own. Could save me months of wasted effort down the line.

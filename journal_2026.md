@@ -2083,3 +2083,8 @@ Holy crap, so that is how it was. Lol'd at the funds for comms infrastructure be
 Anyway, given that Russia was desperate enough to rely on Starlink before going to war, it seems that this might be the tipping point that is going to end it. It couldn't conquer Ukraine despite being at war with it for 4 years, so that speaks volumes about its strength or lack thereof. Russia is so fucked.
 
 I would never had imagined that Russia could have such an vulnerability.
+
+8:20pm. https://youtu.be/WXBxLHdYFi8
+What Most Prop Desks Don't Want You To Know
+
+This video is on grading setups. It's too long though, let me go to bed. I really want to go through these essential courses.

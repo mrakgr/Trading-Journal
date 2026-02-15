@@ -2258,3 +2258,7 @@ I got it wrong, I don't think he went short at that time, instead he went long b
 Even though I have a goal, it should be better to let others give me a template first.
 
 And yes, he made his point about FX. It's really hard to see key levels on FX.
+
+![](images/image-2245.png)
+
+He is saying that sellers weren't able to do anything in the value area, so once it breakthrough, it should go up strongly.

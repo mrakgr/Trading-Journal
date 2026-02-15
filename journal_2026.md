@@ -2519,3 +2519,7 @@ This talk is excellent.
 > It's not going to be good for you, your soul. Your wellbeing.
 
 Neerav Vadera really has an interesting view. I do recommend that people get his courses.
+
+> But much more importantly, I just don't think that is the most efficient way to become profitable. Because you're competing agains the machines.
+
+An important point.

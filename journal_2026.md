@@ -2183,3 +2183,17 @@ After a while he moves on to the point.
 10am. Honestly, while I am tempted to just skip the pro course, the guy has convictions and that makes him interesting. He is really taking care to keep things simple.
 
 I'll have to get the fttuts subscription then.
+
+In fact, how I get it now while I am watching this video so I can download it in the background? I also want the tape reading course so that will kill two birds in one stone. There are other tape reading courses on that site.
+
+10:05am. Ok, I paid 34$ for a fttuts subscription. The membership has manual activation, so I'll have to wait for the webmaster to do it. I'll get an email when it's done.
+
+Once that happens I'll get the order flow courses that have caught my eye along with the Pro course by Neerav.
+
+Honestly, I really do believe Neerav even though the first course isn't that useful. The FX market is the most random of all the markets, you can see it on the weekly charts as well. In the treasury markets you can see relative to the 2 week bar system that it often goes into trend mode, but in the FX market that doesn't work at all.
+
+Meanwhile the footprint edge course just jumps straight into an example in the eurodollar futures. That's one of the factors that made me mistrust it. The main one is that it just kept heaping concepts upon another haphazardly.
+
+10:10am. Ok, let me watch the video and then I will look into DOM trading in stocks. I wonder if Quanttower has a good DOM. TWS has one for sure, but I am not sure if I want to use it.
+
+You know what, I'll look into crypto just to see whether the DOM works properly. In stocks I'd have to get an IBKR subscription.

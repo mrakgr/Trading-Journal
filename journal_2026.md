@@ -2114,3 +2114,15 @@ Holy crap, the file is corrupted. I'll get that fttuts subscription and see whet
 ![](images/image-2228.png)
 
 This is such a waste of my time. I don't need him to explain bid/offer for an entire hour, but how to actually trade.
+
+8:55pm. Let me aim to finish this course today.
+
+9am. ...Or maybe I'll aim to finish it in the few minutes. This course is far too damn basic. I don't want to hear a guy explain for an hour how bid and asks work.
+
+This is something that is obvious with a few minutes of thought.
+
+Let me take a look at his real trade example.
+
+9:15am. ![](images/image-2229.png)
+
+It took a while, but this example where he is walking me through a live trade is good. I pretty much skipped the whole course to get to this point.

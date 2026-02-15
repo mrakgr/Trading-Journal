@@ -2100,3 +2100,7 @@ And after that I might learn to read the tape or just do a study. It occurs to m
 If I could do that study, I could fit the NN to it and begin trading.
 
 Once I do that study I'll be able to objectively confirm the edge. That will tell me exactly where I stand.
+
+8am. Ok, let me get started. Let's see what Neerav's got to teach me.
+
+Let me just make a commment. Though I dislike the footprint chart courses, the charts Mike Valtos posted of BTC were amazing. The key levels in them are so clear. But then I came into the forex futures markets and all of those levels stopped being so clear.

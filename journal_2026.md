@@ -2527,3 +2527,5 @@ An important point.
 ![](images/image-2256.png)
 
 You know, since he is so insistent on this framework, maybe I should actually learn it instead of treating it the same I would technical analysis?
+
+Ok, I'll give it a chance. It wasn't on my list, but I trust him more than the other courses, he has made sense so far.

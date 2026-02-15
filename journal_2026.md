@@ -2572,4 +2572,6 @@ Rather than push my half baked approach, I might as well take in what he has to 
 
 5:55pm. ![](images/image-2258.png)
 
-Reality check.
+Reality check. 
+
+Why is he telling not to trade futures? Isn't the course based on that?

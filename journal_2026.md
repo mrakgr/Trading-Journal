@@ -2262,3 +2262,7 @@ And yes, he made his point about FX. It's really hard to see key levels on FX.
 ![](images/image-2245.png)
 
 He is saying that sellers weren't able to do anything in the value area, so once it breakthrough, it should go up strongly.
+
+> These sellers were not able to achieve much in the context of the value.
+
+Not in some random place, but the value.

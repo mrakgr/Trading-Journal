@@ -2368,3 +2368,7 @@ My guess is that quotes matter the most on hold releases.
 2:25pm. Yeah, I am tired. I don't want to read the tape. I don't want to study courses anymore. I want to get back to programming and data analysis.
 
 I want to get a small edge, and then I will get a big one after that even if it means having to read the DOM or whatever else.
+
+3pm. Ohhh, I get a reply from the admin. I got the courses!
+
+Let me do the exercises while they finished downloading. The only course I really want to clear is the one by Neerav. I am really curious about it, the rest I will leave for later.

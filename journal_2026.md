@@ -2219,3 +2219,13 @@ Ah, no, it is how I want to do it. He is waiting for an absorption pattern basic
 
 ![](images/image-2238.png)
 > If we keep establishing value and we move higher, I am going to get long. Because that is a big clue.
+
+![](images/image-2239.png)
+
+He says that 140 node is a subtle area of value. In thicker markets is much easier, that is why he is recommending trading orderly markets.
+
+Wow...ok.
+
+I am convinced that the SMB traders have to be doing something wrong with their tech.
+
+Like it's true that the bids and the asks can be fast, but I don't have to look at them, I can just look at the volume profile to understand how the market is trading in real time. I think bids and asks might be better just for the tempo.

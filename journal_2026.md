@@ -2108,3 +2108,9 @@ Let me just make a commment. Though I dislike the footprint chart courses, the c
 8:25pm. ![](images/image-2227.png)
 
 Wait, if everything in the supply side is really supply then would it become thin in extreme points?
+
+Holy crap, the file is corrupted. I'll get that fttuts subscription and see whether that makes a difference.
+
+![](images/image-2228.png)
+
+This is such a waste of my time. I don't need him to explain bid/offer for an entire hour, but how to actually trade.

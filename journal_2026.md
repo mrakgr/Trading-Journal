@@ -2204,3 +2204,5 @@ You know what, I'll look into crypto just to see whether the DOM works properly.
 ![](images/image-2235.png)
 > I want to play to the next area of value or back in.
 > Again it's just unbelievable how people push FX to be the best market to trade in the world. It's complete garbage. These orderly markets are the best.
+
+> In the orderly markets, these clues that I talked about - they're available. You don't really have these clues in the FX markets.

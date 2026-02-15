@@ -2169,3 +2169,12 @@ Wiz.
 > A huge part of that 5 trillion number is such...
 > They say it as if it is a good thing.
 > They say that the market is 5 trillion and that is why you should be looking at it. Like with most things in the retail FX market the opposite is true.
+> The fact that it is so large and the flows are so random....
+> Clearly it is not impossible to trade, I am trading it very profitably.
+> "So you're telling as NV that the forex market is difficult and random, and that we should go to more orderly markets, and yet you're trading it and making money from it consistently?"
+
+After a while he moves on to the point.
+
+> You can significantly increase your range in these orderly markets.
+> The way I am trading foreign exchange is very different and much more advanced than the way I'll be trading for example, some of the more established futures markets.
+

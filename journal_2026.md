@@ -2575,3 +2575,6 @@ Rather than push my half baked approach, I might as well take in what he has to 
 Reality check. 
 
 Why is he telling not to trade futures? Isn't the course based on that?
+
+![](images/image-2259.png)
+> I've never met a trader who has used traditional retail tools and has succeeded. Not one. The success rate is 0%.

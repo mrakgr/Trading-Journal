@@ -2251,4 +2251,10 @@ He is talking about how experienced traders know to take it all the way back up.
 ![](images/image-2244.png)
 > I am fairly relaxed even though the market has gone against me a little bit.
 
-I got it wrong, I don't think he went short at at time, instead he went long below.
+I got it wrong, I don't think he went short at that time, instead he went long below.
+
+11:20am. Yeah, you know what, once I get that fttuts membership, there has to be at least a single person in the world who think futures style DOM trading is better on stocks. Probably one of the tape reading courses will show me how it should be done.
+
+Even though I have a goal, it should be better to let others give me a template first.
+
+And yes, he made his point about FX. It's really hard to see key levels on FX.

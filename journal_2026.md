@@ -2500,3 +2500,5 @@ Bring it on.
 ![](images/image-2255.png)
 
 He says that the tools he'll teach me are the ones they teach at best investment firms and proprietary trading desks.
+
+4:50pm. He says that most of the order flow is now machines so the humans don't have the same kind of edge trading the DOM.

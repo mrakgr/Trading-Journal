@@ -2583,3 +2583,6 @@ Why is he telling not to trade futures? Isn't the course based on that?
 
 > People using those tools, the success rate is very low, buuuut...a good 10-20% make it.
 > But firstly, I don't want you to be disheartened by that figure because a big chunk of that is, the reasons why people don't make it, is not necessarily to do with people not understanding the market. It's for non-direct trading elements.
+
+![](images/image-2260.png)
+> It's really important that you make a distinction between technical analysis and institutional analysis.

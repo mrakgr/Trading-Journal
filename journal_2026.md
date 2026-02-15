@@ -2502,3 +2502,5 @@ Bring it on.
 He says that the tools he'll teach me are the ones they teach at best investment firms and proprietary trading desks.
 
 4:50pm. He says that most of the order flow is now machines so the humans don't have the same kind of edge trading the DOM.
+
+> In fact, I don't know any traders that are profitable trading the DOM manually. I know quite a few, and I actually have a few friends that make a signficiant sums of money trading in the DOM using an algorithm. So they programmed an algorithm, they're very good at programming. And obviously they've programmed an algorithm to read the volume profile.

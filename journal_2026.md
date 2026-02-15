@@ -2492,3 +2492,7 @@ Ah, I see, it is just his book.
 ![](images/image-2254.png)
 
 Interesting that he puts the value of tape reading at only 5%. Maybe it is only 5% when you're good at it?
+
+> If you've not done the exercises, you will suffer in this section.
+
+Bring it on.

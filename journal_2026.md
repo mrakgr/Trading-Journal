@@ -2197,3 +2197,6 @@ Meanwhile the footprint edge course just jumps straight into an example in the e
 10:10am. Ok, let me watch the video and then I will look into DOM trading in stocks. I wonder if Quanttower has a good DOM. TWS has one for sure, but I am not sure if I want to use it.
 
 You know what, I'll look into crypto just to see whether the DOM works properly. In stocks I'd have to get an IBKR subscription.
+
+![](images/image-2234.png)
+> I am going to the edge of value and coming back in.

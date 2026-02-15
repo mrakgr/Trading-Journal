@@ -2486,3 +2486,9 @@ Let me try tracking down the End To The Bull article.
 ![](images/image-2253.png)
 
 Ah, I see, it is just his book.
+
+4:35pm. At any rate, now that I have the courses I feel more motivated to at least sample them. They say it's going to take months and I believe them.
+
+![](images/image-2254.png)
+
+Interesting that he puts the value of tape reading at only 5%. Maybe it is only 5% when you're good at it?

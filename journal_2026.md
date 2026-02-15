@@ -2578,3 +2578,5 @@ Why is he telling not to trade futures? Isn't the course based on that?
 
 ![](images/image-2259.png)
 > I've never met a trader who has used traditional retail tools and has succeeded. Not one. The success rate is 0%.
+> We've got to be very careful. I am talking about retail traders who use retail tools.
+> I actually know a lot, maybe not a lot, but quite a few retail traders who've never worked in institutional environments, but they are using institutional tools

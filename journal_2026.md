@@ -2206,3 +2206,9 @@ You know what, I'll look into crypto just to see whether the DOM works properly.
 > Again it's just unbelievable how people push FX to be the best market to trade in the world. It's complete garbage. These orderly markets are the best.
 
 > In the orderly markets, these clues that I talked about - they're available. You don't really have these clues in the FX markets.
+
+![](images/image-2236.png)
+> I wanted to see some volume build so I could key off it.
+> Some volume build and we get the edge of it, and trade back in.
+
+Interestingly, he is actually trading the opposite of how I want to do.

@@ -2243,3 +2243,12 @@ Oh, he went short in the big value area and now his position is showing a profit
 ![](images/image-2242.png)
 
 This is super difficult. He is talking about value pockets, and to my eyes, the value area itself very wide. It's be much easier if it were narrower. Having it be on a single level would send a much clearer signal. A lot of this not that much better than random.
+
+![](images/image-2243.png)
+
+He is talking about how experienced traders know to take it all the way back up.
+
+![](images/image-2244.png)
+> I am fairly relaxed even though the market has gone against me a little bit.
+
+I got it wrong, I don't think he went short at at time, instead he went long below.

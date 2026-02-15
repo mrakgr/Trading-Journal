@@ -2507,3 +2507,15 @@ He says that the tools he'll teach me are the ones they teach at best investment
 > And volume at each level and do things accordingly. But it's done by a machine.
 > That program, that algorithm can do in milliseconds, the changes in bids and offers on the DOM.
 > We can't do that!
+
+This talk is excellent.
+
+> We just don't have the hand eye coordination to keep up with the machine at any point in life.
+> So rather than accept that, I look now still, and I did my research before I put this program together and I spoke with a few contacts that I had to see since I did my proprietary trader training many years ago to now has much changed?
+> And I've really noticed through speaking to the people in the industry, they haven't changed it.
+> They still want you to sit on the DOM for 12 months. Become profitable.
+> That can take a year, it can be a difficult endeavor to master.
+> And I just don't think that is healthy for you, to be staring at the numbers all day.
+> It's not going to be good for you, your soul. Your wellbeing.
+
+Neerav Vadera really has an interesting view. I do recommend that people get his courses.

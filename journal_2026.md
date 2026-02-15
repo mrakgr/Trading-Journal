@@ -2178,3 +2178,4 @@ After a while he moves on to the point.
 > You can significantly increase your range in these orderly markets.
 > The way I am trading foreign exchange is very different and much more advanced than the way I'll be trading for example, some of the more established futures markets.
 
+> Because the volume (in FX) is so random, it's very difficult for the market to establish where fair price is.

@@ -2165,3 +2165,7 @@ Wow.
 > Most teenagers are doing that. And they are doing it randomly.
 
 Wiz.
+
+> A huge part of that 5 trillion number is such...
+> They say it as if it is a good thing.
+> They say that the market is 5 trillion and that is why you should be looking at it. Like with most things in the retail FX market the opposite is true.

@@ -2130,3 +2130,8 @@ It took a while, but this example where he is walking me through a live trade is
 ![](images/image-2230.png)
 > There are people who enter, leave a stop loss and a target. Crazy.
 > As you can see, after you enter you're getting information all the time.
+
+![](images/image-2231.png)
+> Why am I not bailing out even though it has gone against me for the past 15 minutes? I am taking into account what has been happening over the last 15 minutes. We've seen absorption at all of the levels.
+
+Now this is real education.

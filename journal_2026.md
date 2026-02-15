@@ -2320,3 +2320,15 @@ I am not going to trade FX, it's far too hard to read. I want the key levels to 
 I want to trade the most volatile of the volatile stocks. I am not going to take large positions in treasuries or index futures.
 
 As a general principle I should trade whatever the key levels work the best. Not sure if that will be penny stocks, crypto tokens or something else. We'll see.
+
+12:45pm. Mhhh, I haven't even finished the Axia Futures ladder course.
+
+1pm. Trading was very difficult for me in 2007 - 2014. I read Darwas and O'Neil's books and one exercise I did was to look at stocks making new highs and how consistent they were in their behavior after they broke out. My conclussion was that they were pretty random. If there is any edge in doing that, it was very thin.
+
+Maybe I did spend some time looking at intraday charts, but what really stood out to me is that sometimes intraday stocks would be very volatile and other times they would be smooth and trending.
+
+I guess what I am going to be doing this time around is repeating that same exercise with key levels.
+
+I'll look at the trade activity carefully. When I read the tape I'll try to take note of the differences between successful and unsuccessful trades. I am not sure whether there will be a point to that, I didn't really understand Neerav's reasoning too well. We'll see. I'll need some time to digest what he demonstrated to me.
+
+That trade where he held the treasury even though it ticked against him because he was seeing absorbtion was great. I wouldn't have thought of doing that myself.

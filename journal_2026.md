@@ -2531,3 +2531,41 @@ You know, since he is so insistent on this framework, maybe I should actually le
 Ok, I'll give it a chance. It wasn't on my list, but I trust him more than the other courses, he has made sense so far.
 
 I'll put my return to coding on hold.
+
+5:25pm. I am thinking how I could get these courses to Thomas down the road. It turns out there is an utility called `croc`.
+
+///
+
+croc is much more suited to a one-off transfer like yours. It's a command-line tool where the sender runs something like croc send myfile.zip, gets a code phrase, and the receiver runs croc <code phrase> to receive it. It handles NAT traversal automatically (so no port forwarding needed), encrypts everything end-to-end, and can resume interrupted transfers — which matters a lot at 20GB. There's no size limit since it goes directly between the two machines via a relay that just brokers the connection.
+
+For a one-time 20GB transfer, croc is probably the better pick — it's minimal setup, just install and run one command on each end. The only catch is you both need to be comfortable opening a terminal. If that's a dealbreaker, Syncthing has a nice web-based GUI.
+
+///
+
+Nice.
+
+5:35pm. ![](images/image-2257.png)
+
+He says that the footprint is just fine tuning and that context is every thing.
+
+And he says that the volume profile on a weekly timeframe is the same as the DOM. Hmmmmmm...
+
+I am actually pretty focus when I hear him speak now.
+
+"If you want to learn how to trade - learn a framework." -Brett Steenbarger
+
+I think I saw this quote by Brett in one of the SMB videos most likely.
+
+And indeed this is definitely my weakness.
+
+He says that every institutional trader learns to develop hypotheses and then tests the in the market, but I do not have such a skill.
+
+I am trying to substitute it with momentum, but I know that I am still missing something.
+
+Thinking back to his forex trade I am especially taken how the market profiles can be nested on different timeframes. This is in fact what my episodic splits would result in.
+
+Hmmm, I'll have to construct volume and time profiles to verify that though.
+
+Ok, let me just continue with this.
+
+Rather than push my half baked approach, I might as well take in what he has to teach me.

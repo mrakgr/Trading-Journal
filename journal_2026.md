@@ -2496,3 +2496,7 @@ Interesting that he puts the value of tape reading at only 5%. Maybe it is only 
 > If you've not done the exercises, you will suffer in this section.
 
 Bring it on.
+
+![](images/image-2255.png)
+
+He says that the tools he'll teach me are the ones they teach at best investment firms and proprietary trading desks.

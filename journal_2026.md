@@ -2135,3 +2135,17 @@ It took a while, but this example where he is walking me through a live trade is
 > Why am I not bailing out even though it has gone against me for the past 15 minutes? I am taking into account what has been happening over the last 15 minutes. We've seen absorption at all of the levels.
 
 Now this is real education.
+
+![](images/image-2232.png)
+> Go out, do a screen recording.
+> Watch it, try to do it in real time, but then play it back to yourself.
+
+9:35am. Ok, there is one more live example there and then I am going to do some research on how to trade stocks with a DOM. I don't like the way SMB traders have so many windows open in different places.
+
+The DOM tool is possibly the most ideal trading tool for a human. It has exactly the right info. But L3 is too much.
+
+I need to learn to play the game.
+
+I think I need to watch the DOM for a while, and I also need to do a quant study of volume clusters.
+
+9:40am. He says that his next example in the FX markets not because he wants to teach us how to make money, but the opposite, to highlight how thin they are and why people should be trading the more orderly markets like treasuries and stocks.

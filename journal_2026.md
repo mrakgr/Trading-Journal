@@ -2149,3 +2149,8 @@ I need to learn to play the game.
 I think I need to watch the DOM for a while, and I also need to do a quant study of volume clusters.
 
 9:40am. He says that his next example in the FX markets not because he wants to teach us how to make money, but the opposite, to highlight how thin they are and why people should be trading the more orderly markets like treasuries and stocks.
+
+![](images/image-2233.png)
+
+This video is really interesting because he has a background in institutional FX trading and he is talking about it. He is saying that the size of the FX markets, while it is in the trillions, we don't have access to it.
+

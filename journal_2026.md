@@ -2179,3 +2179,7 @@ After a while he moves on to the point.
 > The way I am trading foreign exchange is very different and much more advanced than the way I'll be trading for example, some of the more established futures markets.
 
 > Because the volume (in FX) is so random, it's very difficult for the market to establish where fair price is.
+
+10am. Honestly, while I am tempted to just skip the pro course, the guy has convictions and that makes him interesting. He is really taking care to keep things simple.
+
+I'll have to get the fttuts subscription then.

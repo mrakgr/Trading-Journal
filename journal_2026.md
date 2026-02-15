@@ -2273,3 +2273,6 @@ Not in some random place, but the value.
 ![](images/image-2246.png)
 > He just got filled for 91 contracts. Real buyer, not fake seller. (He's talking about that 150 spoof offer half an hour ago.)
 > Huge clue that we'll be going higher.
+
+![](images/image-2247.png)
+> Even this is a perfectly logical area to exit the trade because we've established some value.

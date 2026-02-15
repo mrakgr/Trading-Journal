@@ -2266,3 +2266,5 @@ He is saying that sellers weren't able to do anything in the value area, so once
 > These sellers were not able to achieve much in the context of the value.
 
 Not in some random place, but the value.
+
+> We established such a strong area of value that if we come back in, they are going to defend this area.

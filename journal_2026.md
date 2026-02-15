@@ -2235,3 +2235,11 @@ Like it's true that the bids and the asks can be fast, but I don't have to look 
 > I am interested in trading down here, but I also want some mini pockets of value that I can lean on.
 
 Yeah, this makes complete sense and is in line with how I want to trade.
+
+![](images/image-2241.png)
+
+Oh, he went short in the big value area and now his position is showing a profit right away.
+
+![](images/image-2242.png)
+
+This is super difficult. He is talking about value pockets, and to my eyes, the value area itself very wide. It's be much easier if it were narrower. Having it be on a single level would send a much clearer signal. A lot of this not that much better than random.

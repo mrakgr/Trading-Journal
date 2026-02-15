@@ -2276,3 +2276,47 @@ Not in some random place, but the value.
 
 ![](images/image-2247.png)
 > Even this is a perfectly logical area to exit the trade because we've established some value.
+
+11:55am. I'll take a break here.
+
+I don't really understand why he played for a breakout through the second value area. 
+
+Also, towards the end he says he expects it to consolidate at the third one. How do you tell a breakout from that one then?
+
+Maybe I should have focused more. I admit I started tunning out halfway in.
+
+12:05pm. I got the fttuts membership. Damn I have to email him the courses that I want?
+
+Ok....
+
+G7FX – Pro Course
+SMB – Reading The Tape
+Red Jacket Course by The Norden Method
+Price Action Room – Tape Reading Explained
+Price Action Room – The Scalper’s Boot Camp
+
+I've heard about this guy. Didn't really like his interview, but since I have 5 courses a day, I might as well take advantage of it.
+
+![](images/image-2248.png)
+
+This one is definitely fake.
+
+No BS Day Trading Webinar 2016 and Starter Course
+No BS Day Trading – Intermediate Course
+G7FX – Foundation Course
+G7FX Fundamentals
+
+
+Eh, whatever. I really want just the first 2 courses and now I am gorging myself. No way am I going to clear them all. No idea if PA Room will be any good, I've never heard of it before, but it on tape reading so I might as well give it a try. I'll leave the No BS courses for tomorrow.
+
+I am going to set a limit how long I intend to consume courses. Since I am entering a whole new profession, doing it for another 2 weeks is fine, but otherwise I really have to either start coding or/and watching tape. Spending too much time studying will just leave me stuck in tutorial hell.
+
+(Peeks at last commit in the ML repo.) Fuck, I've already been doing this for 10 days. I'll try to wrap it up in the next 10. While I wait for the links from the admin, I'll check out the Winning Trader course by SMB. I am curious about the setups they are trading. Only saw a few in the webinars.
+
+Last night I've been trying to figure out what my goals are and I really I need to implement the system I have in mind and then do a study on how well it works on stocks in play.
+
+I am not going to trade FX, it's far too hard to read. I want the key levels to be strong and tight, rather than weak and loose.
+
+I want to trade the most volatile of the volatile stocks. I am not going to take large positions in treasuries or index futures.
+
+As a general principle I should trade whatever the key levels work the best. Not sure if that will be penny stocks, crypto tokens or something else. We'll see.

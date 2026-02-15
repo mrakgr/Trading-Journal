@@ -2216,3 +2216,6 @@ Interestingly, he is actually trading the opposite of how I want to do.
 ![](images/image-2237.png)
 
 Ah, no, it is how I want to do it. He is waiting for an absorption pattern basically. The market is going down and he is waiting for volume to come in so he could go long above it. This is what my strategy would be in stocks.
+
+![](images/image-2238.png)
+> If we keep establishing value and we move higher, I am going to get long. Because that is a big clue.

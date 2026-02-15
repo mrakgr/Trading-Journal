@@ -2523,3 +2523,7 @@ Neerav Vadera really has an interesting view. I do recommend that people get his
 > But much more importantly, I just don't think that is the most efficient way to become profitable. Because you're competing agains the machines.
 
 An important point.
+
+![](images/image-2256.png)
+
+You know, since he is so insistent on this framework, maybe I should actually learn it instead of treating it the same I would technical analysis?

@@ -2104,3 +2104,7 @@ Once I do that study I'll be able to objectively confirm the edge. That will tel
 8am. Ok, let me get started. Let's see what Neerav's got to teach me.
 
 Let me just make a commment. Though I dislike the footprint chart courses, the charts Mike Valtos posted of BTC were amazing. The key levels in them are so clear. But then I came into the forex futures markets and all of those levels stopped being so clear.
+
+8:25pm. ![](images/image-2227.png)
+
+Wait, if everything in the supply side is really supply then would it become thin in extreme points?

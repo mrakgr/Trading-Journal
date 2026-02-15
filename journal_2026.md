@@ -2589,3 +2589,11 @@ Why is he telling not to trade futures? Isn't the course based on that?
 
 ![](images/image-2261.png)
 > In a professional trading firm they will not let you touch real money for a good 6 to 9 months.
+
+6:45pm. Uah, let me stop at the 24m mark. I am too tired to keep listening to this lecture.
+
+So I'll proceed with the change of plans and actually go through Neerav's entire course. I wasn't really into the bare basics, but given how he obsessively drills down into topics, am really interested in his lectures on volume profiling and context building. Mostly because I haven't bee able to figure out how once could find that useful apart from on the very short term scale. Maybe I did get a few hints though.
+
+What I think are holds are subsets of what would be volume profiles humps on a chart.
+
+Those clear key levels are really just a very specific pattern of a more broader one. That's my hypothesis.

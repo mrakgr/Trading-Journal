@@ -2586,3 +2586,6 @@ Why is he telling not to trade futures? Isn't the course based on that?
 
 ![](images/image-2260.png)
 > It's really important that you make a distinction between technical analysis and institutional analysis.
+
+![](images/image-2261.png)
+> In a professional trading firm they will not let you touch real money for a good 6 to 9 months.

@@ -2088,3 +2088,15 @@ I would never had imagined that Russia could have such an vulnerability.
 What Most Prop Desks Don't Want You To Know
 
 This video is on grading setups. It's too long though, let me go to bed. I really want to go through these essential courses.
+
+2/15/2026
+
+7:40am. I am having trouble sleeping as usual, but it's different from when I was gaming when I would go late and wake up tired. Yesterday I went to bed early, and had a hard wakeup today. It must have been an hour ago. The reason for that is that for me the tension is running high.
+
+I have a couple of path open to me, but for now I will focus on the courses.
+
+And after that I might learn to read the tape or just do a study. It occurs to me that the quotes are only really important during hold releases. So even if I just study the raw trade data I should be able to get a good grasp on how well do key levels work.
+
+If I could do that study, I could fit the NN to it and begin trading.
+
+Once I do that study I'll be able to objectively confirm the edge. That will tell me exactly where I stand.

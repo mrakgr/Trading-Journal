@@ -2332,3 +2332,39 @@ I guess what I am going to be doing this time around is repeating that same exer
 I'll look at the trade activity carefully. When I read the tape I'll try to take note of the differences between successful and unsuccessful trades. I am not sure whether there will be a point to that, I didn't really understand Neerav's reasoning too well. We'll see. I'll need some time to digest what he demonstrated to me.
 
 That trade where he held the treasury even though it ticked against him because he was seeing absorbtion was great. I wouldn't have thought of doing that myself.
+
+If one looked at the chart, the trade might have appeared to be working.
+
+2:05pm. Ok, let me watch some of the SMB videos. Damn I am tired. I really got up way too early today.
+
+![](images/image-2249.png)
+
+Oh my god, this asshole who recorded the video had some weird art program open and it's taking up half the screen.
+
+2:25pm. ![](images/image-2250.png)
+
+Dogshit quality. 640 x 360 resolution. This is the worst rip out of all the courses thus far.
+
+Anyway, I am really feeling the fatigue. I honestly don't care anymore, let me take a break here.
+
+I want to see the pro course by Neerav, but otherwise I want to start coding.
+
+The idea is to test the system on just the trades data (from Massive) on In Play stocks.
+
+The system is simply, just be long/short above volume clusters. It will also take note of volume and trade frequency to estimate the strength of the trend. It's similar to what I have now, but I'll define the support and resistance in a better fashion.
+
+I want to see some positive results on the most In Play stocks where such systems would have the greatest edge. If I cannot get some positive feedback on paper using such a system then I am just wasting my time trading.
+
+Just trades vs quotes data should really only be a difference of a few seconds in the information quality at most.
+
+I'd say that would be important for futures which are efficient markets, but not so much for penny stocks.
+
+If getting in late by a second or two turns out to be ruining my trading then that is some competition!
+
+I think I should be able to just code the trade initiations into the bot itself rather than have to bake it into the model.
+
+My guess is that quotes matter the most on hold releases.
+
+2:25pm. Yeah, I am tired. I don't want to read the tape. I don't want to study courses anymore. I want to get back to programming and data analysis.
+
+I want to get a small edge, and then I will get a big one after that even if it means having to read the DOM or whatever else.

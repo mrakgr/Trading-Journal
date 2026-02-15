@@ -2268,3 +2268,8 @@ He is saying that sellers weren't able to do anything in the value area, so once
 Not in some random place, but the value.
 
 > We established such a strong area of value that if we come back in, they are going to defend this area.
+> Gives me a lot of confidence.
+
+![](images/image-2246.png)
+> He just got filled for 91 contracts. Real buyer, not fake seller. (He's talking about that 150 spoof offer half an hour ago.)
+> Huge clue that we'll be going higher.

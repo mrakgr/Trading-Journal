@@ -2212,3 +2212,7 @@ You know what, I'll look into crypto just to see whether the DOM works properly.
 > Some volume build and we get the edge of it, and trade back in.
 
 Interestingly, he is actually trading the opposite of how I want to do.
+
+![](images/image-2237.png)
+
+Ah, no, it is how I want to do it. He is waiting for an absorption pattern basically. The market is going down and he is waiting for volume to come in so he could go long above it. This is what my strategy would be in stocks.

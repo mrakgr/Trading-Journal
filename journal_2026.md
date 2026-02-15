@@ -2372,3 +2372,117 @@ I want to get a small edge, and then I will get a big one after that even if it 
 3pm. Ohhh, I get a reply from the admin. I got the courses!
 
 Let me do the exercises while they finished downloading. The only course I really want to clear is the one by Neerav. I am really curious about it, the rest I will leave for later.
+
+3:45pm. I am trying to unpack the G7FX course and it is corrupted.
+
+![](images/image-2251.png)
+
+What the fuck, did something go wrong with the download? I am trying to unpack one file and it's like it's trying to extract something else?
+
+...Wierd.
+
+3:55pm. I'll try downloading the files one by one.
+
+...Fuck, but that messes up the directory structure.
+
+This might be some bug by mega or windows or the browser that is causing it to mix data between different files. I'll try downloading the courses one by one instead of simultaneously.
+
+Good, now that I've redownloaded it, it's extracting properly.
+
+4:25pm. Here is the curriculum for the Red Jacket course.
+
+///
+
+Curriculum
+
+01. Introduction
+Welcome from Gary
+Why Market Making
+
+02 Our Approach
+Our First Principles
+Professional Standards
+Win Rates
+OODA Loop
+Continuous Improvement
+
+03 Our Tools
+No Charts or Technical Analysis
+Only DOM & Tape
+Watchlists and Newsfeed
+Every Trade Counts
+
+04 Our Edge
+Due Diligence First
+The Edge of the Spread
+Precision Order Entry
+Precision Entry
+The Trades You Wouldn’t Have Seen Previously
+How Frequency Compounds
+Importance of Queue Position
+Effective Queue Position
+Avoiding Larger Traders
+Importance of a Quick Fill
+Liquidity and Order Flow
+
+05 Value
+How We Determine Value
+Value in Slow Market
+Value in Faster Markets
+Waiting Until Everything Lines Up
+Value Change When Price Doesn’t In Slow Market
+Anticipating Value Change in a Slower Market
+Debunking Highs, Lows, and Levels
+Buying the High, Selling the High
+Buying the Low, Selling the Low
+Supplemental Correlations Video
+
+06 Application
+Trade Setups & Scratching
+Faster & Thinner Markets
+Getting Filled First Time
+Pulling Orders
+Pulling and Fill
+Trading the Chop vs. Moves
+Chop vs. Move
+Two-way Order Flow
+Two-Way Business, Two-Way RTH
+One Way Business
+DOM Tips & Unusual Activity
+DOM Tips
+Trading During Extreme Volatility
+Post Fill Checklist
+Norden Method Exit Rules
+Scratch
+Missing The Scratch
+How Many Ticks
+Faster Market Unwanted Trade
+Increasing Size & Automating Exits
+Bringing It All Together: Three Trades
+Bringing It All Together: NQ
+
+07 Improvement
+Premarket Preparation
+Purposeful Practice
+Performance Assessment
+Trader Review Video
+
+08 Summary
+Closing Thoughts
+Next Steps
+
+///
+
+Yeah, this is exactly what I am looking for.
+
+I need to take a look at this course.
+
+4:30pm. Nice I got all the courses.
+
+![](images/image-2252.png)
+
+Let me try tracking down the End To The Bull article.
+
+![](images/image-2253.png)
+
+Ah, I see, it is just his book.

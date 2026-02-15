@@ -2569,3 +2569,7 @@ Hmmm, I'll have to construct volume and time profiles to verify that though.
 Ok, let me just continue with this.
 
 Rather than push my half baked approach, I might as well take in what he has to teach me.
+
+5:55pm. ![](images/image-2258.png)
+
+Reality check.

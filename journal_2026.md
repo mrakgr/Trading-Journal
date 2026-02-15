@@ -2154,3 +2154,9 @@ I think I need to watch the DOM for a while, and I also need to do a quant study
 
 This video is really interesting because he has a background in institutional FX trading and he is talking about it. He is saying that the size of the FX markets, while it is in the trillions, we don't have access to it.
 
+> A lot of that flow is random.
+> People are transacting foreign exchange for many different reasons.
+> Believe it or not, someone going on a holiday holding currency and then using that currency is going to have a much more lasting impact on the foreign exchange market than a local even trading several lots.
+> For example, he is not going to have nearly as much impact as someone merely buying 1,000 to 2,000 dollars.
+
+Wow.

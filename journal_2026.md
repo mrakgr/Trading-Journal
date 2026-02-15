@@ -2229,3 +2229,9 @@ Wow...ok.
 I am convinced that the SMB traders have to be doing something wrong with their tech.
 
 Like it's true that the bids and the asks can be fast, but I don't have to look at them, I can just look at the volume profile to understand how the market is trading in real time. I think bids and asks might be better just for the tempo.
+
+![](images/image-2240.png)
+> 1.50 carton of milk is up there.
+> I am interested in trading down here, but I also want some mini pockets of value that I can lean on.
+
+Yeah, this makes complete sense and is in line with how I want to trade.

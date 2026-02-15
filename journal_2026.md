@@ -2160,3 +2160,8 @@ This video is really interesting because he has a background in institutional FX
 > For example, he is not going to have nearly as much impact as someone merely buying 1,000 to 2,000 dollars.
 
 Wow.
+
+> And going on a holiday.
+> Most teenagers are doing that. And they are doing it randomly.
+
+Wiz.

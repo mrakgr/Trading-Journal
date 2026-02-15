@@ -2126,3 +2126,7 @@ Let me take a look at his real trade example.
 9:15am. ![](images/image-2229.png)
 
 It took a while, but this example where he is walking me through a live trade is good. I pretty much skipped the whole course to get to this point.
+
+![](images/image-2230.png)
+> There are people who enter, leave a stop loss and a target. Crazy.
+> As you can see, after you enter you're getting information all the time.

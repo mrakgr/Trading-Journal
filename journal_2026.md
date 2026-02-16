@@ -2660,3 +2660,5 @@ For those that desire, there should be a path.
 For a 3-4 months he means.
 
 He says he is going to be talking about probability distributions. That should be interesting. I wonder how he uses them?
+
+10:20am. A big point he is hammering down is that financial markets are the same as any other market, and big companies have systems in place to collect what is essentially volume profile data.

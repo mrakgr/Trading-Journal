@@ -2703,3 +2703,5 @@ Of course I am going to get fucked in big way (paper) trading them naively. But 
 He's talking about the financial markets compared to actual goods like bread. Large retails are dominant in controlling the price of bread and they can decide to raise or lower prices, but in financial markets the supply is such is that if you try raising prices, somebody else will replace you in a second.
 
 > So who is dictating the price? Market orders. They are now becoming the dominant force in financial markets.
+
+> You've been watching the DOM for 3 months, and when have you seen the supply just clear out without the market orders not getting involved? It doesn't happen. Why? Because there is an abundance of supply.

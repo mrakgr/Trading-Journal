@@ -2641,3 +2641,7 @@ At any rate, this is pretty good video. But I feel such an allure in becoming ab
 > The ones that actually made it didn't have traditional backgrounds. They studied random things.
 
 He says that one of the important changed that he made is that he accepted that he was never gonna be able to copy someone else.
+
+> You're going to have to accept that when it comes to specifics, the actual fine tuning of entries, you getting the same entry point as me, forget about it.
+
+He is talking to make a point how you cannot predict the behavior of a person in the real world using some indicator. And multiply that times a million and you get the market.

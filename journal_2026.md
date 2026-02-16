@@ -2743,3 +2743,9 @@ He's talking about why the failure rate is so high even excluding the retail tra
 
 > (In the financial markets) profit opportunities for the suppliers simply don't exist as they do in the real world because there are so many of them.
 
+![](images/image-2268.png)
+> People try to see opportunity...
+> All this zigzagging it doesn't mean anything.
+> It's just the effect.
+
+He's preparing to explain how can we close the gap with value, meaning how real businesses in the real world try to discover it.

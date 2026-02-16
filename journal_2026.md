@@ -2798,3 +2798,15 @@ Actually make it 10m, just so I can see what I can expect. I really don't feel l
 I am surprised that pure tape would be better than the DOM for him. He also said that doing it purely off the charts is the hardest thing he ever tried.
 
 Right now I am sampling some other courses briefly. I never heard about this guy so I am going in blind.
+
+8:25pm. https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html
+> But Microsoft’s AI CEO is saying AI is going to take everybody’s job. And Sam Altman is saying that AI will wipe out entire categories of jobs. And Matt Shumer is saying that AI is currently like Covid in January 2020—as in, “kind of under the radar, but about to kill millions of people”.
+
+Lel.
+
+> I legitimately feel like I am going insane when I hear AI technologists talk about the technology. They’re supposed to market it. But they’re instead saying that it is going to leave me a poor, jobless wretch, a member of the “permanent underclass,” as the meme on Twitter goes. Half the videos and blog posts I see about new models boil down to somebody running it through a benchmark, then saying “chat we’re cooked, might as well end it all now.” This isn’t just a strange way of marketing a product, it is a completely psychotic one.
+
+8:50pm. https://news.ycombinator.com/item?id=47034192
+> Socialism is always talked out how it works out in practice, capitalism is talked about how it works out in theory
+
+I'll remember this quote.

@@ -2785,3 +2785,9 @@ He can get a bit tedious. At this point, I am just watching if what he is going 
 5:50pm. A while earlier I took a peek at some of the contents of Steven Dux's course and I see he has stats on some simple systems like gap fills.
 
 The reason why I didn't get Tim Sykes' videos instead is that I know the short setup Tim was promoting 1.5 decades ago, and even though he has probably changed, back then I did follow his trading and he would often violate his stops. I really didn't like it. The annoying thing is even though I recognized the validity of the setup I couldn't hack it myself because there were simply no shares to short for any of such stocks on IBKR. So he might as well have been paper trading the whole time.
+
+7:10pm. Time to work more. I'll watch 30m more of his video.
+
+Actually make it 10m, just so I can see what I can expect. I really don't feel like it anymore. I guess there is no hurrying trader skill development.
+
+7:15pm. Ok, nevermind, I cannot take any more of this today. He is going to talk about bread again.

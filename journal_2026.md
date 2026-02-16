@@ -2625,3 +2625,9 @@ The Volume Traders – Order Flow Mastery 2024
 I'll get the courses by Axia Futures since I am paying for the membership. I am not interested in these at all. The only reason I am getting the footprint edge again is because it had a corrupt file.
 
 The volume traders course is just a punt. I probably won't even look at it.
+
+9:05am. ![](images/image-2262.png)
+
+I wonder what he will recommend that we trade since he is saying not to trade futures...
+
+Mhhh, why am I even asking this? What else is there to trade, but stocks for the smaller account? Crypto tokens perhaps?

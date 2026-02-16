@@ -2738,3 +2738,5 @@ Like what I am writing here feels like common sense now, but I was completely bl
 > Even these guys coming through the professional firms. And that why I realized even when they are given these tools as I am going to give you, very few people make it.
 
 He's talking about why the failure rate is so high even excluding the retail traders using retail tools which have a 0% success rate.
+
+4:20pm. Oh my god, he is droning about the differences between financial and common markets. I wish he'd just move on, I get it.

@@ -2712,3 +2712,13 @@ He's talking about the financial markets compared to actual goods like bread. La
 Wonderful course. I think I am going to pay the full price once I've made enough trading profits for it. I said to Lance that I would buy his and I owe it that much to this guy.
 
 So far, it's Lance, SMB (I need to see if the tape reading course specifically is worth it), and the Axia price ladder course that I'd put in the top tier of courses. It's only fair that I actually pay the price for them when I've earned what I've learned. In fact, I want to spend money on such luxuries when I have the freedom to do so.
+
+12:25pm. I'll stop here for breakfast. The video are pretty long, the last one was nearly 2h.
+
+It will take me a while to cover the entirety of the course, but I am looking forward to it.
+
+Rather than a few setups, understanding how the market actually works might be a lot more valuable.
+
+SMB and Axia give me the practice, but not so much the theory. Neerav is different.
+
+He said, I'd be struggling, but everything he is saying pretty easy to understand.

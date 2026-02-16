@@ -2762,3 +2762,7 @@ I might be misinterpreting it.
 He talks about value, but is saying there is no fair price. Aren't prices fair in a value area?
 
 I am a bit confused about this, but whatever. The proof is in the pudding.
+
+> People get so specific about prices. It's about range of values, it a value area.
+
+Ok, I think I get it. Maybe if you're not trying to predict the next step at every moment it does get easier.

@@ -2709,7 +2709,7 @@ He's talking about the financial markets compared to actual goods like bread. La
 ![](images/image-2266.png)
 > Can you see why in my career I've moved away from the supply side?
 
-Wonderful course. I think I am going to pay the full price once I've made enough trading profits for it. I said to Lance that I would buy his and I owe it that much to this guy.
+Wonderful course. I think I am going to pay the full price once I've made enough trading profits for it. I said to Lance that I would buy his and I owe it that much to this guy as well.
 
 So far, it's Lance, SMB (I need to see if the tape reading course specifically is worth it), and the Axia price ladder course that I'd put in the top tier of courses. It's only fair that I actually pay the price for them when I've earned what I've learned. In fact, I want to spend money on such luxuries when I have the freedom to do so.
 
@@ -2724,3 +2724,5 @@ SMB and Axia give me the practice, but not so much the theory. Neerav is differe
 He said I'd be struggling, but everything he is saying pretty easy to understand.
 
 12:35pm. I really feel I've made a conceptual leap in my understanding of the markets today. Whereas yesterday I knew a bunch of setups, now I have a general principle which is much more valuable. And thanks to this I will be able to really understand what the market is telling me.
+
+Like what I am writing here feels like common sense now, but I was completely blind to it for 6 years when I tried trading seriously almost 2 decades ago. And for 6 years I didn't realize it.

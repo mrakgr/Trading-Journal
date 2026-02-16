@@ -2740,3 +2740,6 @@ Like what I am writing here feels like common sense now, but I was completely bl
 He's talking about why the failure rate is so high even excluding the retail traders using retail tools which have a 0% success rate.
 
 4:20pm. Oh my god, he is droning about the differences between financial and common markets. I wish he'd just move on, I get it.
+
+> (In the financial markets) profit opportunities for the suppliers simply don't exist as they do in the real world because there are so many of them.
+

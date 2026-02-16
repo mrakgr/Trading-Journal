@@ -2771,3 +2771,6 @@ Ok, I think I get it. Maybe if you're not trying to predict the next step at eve
 
 ![](images/image-2270.png)
 > Fair value is not one point, but it's basically this. The whole thing.
+> You've got to start moving away from thinking price moving to another price.
+> Because you've basically got no profit opportunity.
+> You've got to start thinking of the concept of value.

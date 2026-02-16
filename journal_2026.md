@@ -2749,3 +2749,5 @@ He's talking about why the failure rate is so high even excluding the retail tra
 > It's just the effect.
 
 He's preparing to explain how can we close the gap with value, meaning how real businesses in the real world try to discover it.
+
+He's saying that isn't not about individual price points and the market is efficient on a per price basis. He's starting to talk about volume profile and value areas.

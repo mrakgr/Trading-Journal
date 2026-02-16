@@ -2693,3 +2693,5 @@ The volume and the intensity of trading is always the strongest near the open, s
 This thought never occured to me even once in 2007 - 2014. I know I am just rationalizing what I learned from SMB and the price ladder course, and giving it a different perspective, but it's powerful.
 
 Let me resume the course.
+
+11:25am. Ah, and this also gives me a lens into high volume breakouts. They aren't bullish or bearish. They are extremes. A few months ago I tried paper trading them and got absolutely smoked. That was kind of my experience in the past with them. I keep expecting they should be powerful bullish signals, but what they should be looked at is as extremes.

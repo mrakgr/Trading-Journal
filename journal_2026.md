@@ -2658,3 +2658,5 @@ For those that desire, there should be a path.
 > You've got to understand, if you started in a professional trading firm tomorrow, you'd be spending 8-10 hours a day sitting and listening to a teacher talking to you about the markets.
 
 For a 3-4 months he means.
+
+He says he is going to be talking about probability distributions. That should be interesting. I wonder how he uses them?

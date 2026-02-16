@@ -2645,3 +2645,12 @@ He says that one of the important changed that he made is that he accepted that 
 > You're going to have to accept that when it comes to specifics, the actual fine tuning of entries, you getting the same entry point as me, forget about it.
 
 He is talking to make a point how you cannot predict the behavior of a person in the real world using some indicator. And multiply that times a million and you get the market.
+
+![](images/image-2264.png)
+> Just be discreet with the information I am showing you and I'd appreciate it if you didn't go and talk about it on public forums and things like that.
+
+Honestly, if this journal starts causing trouble, I might have to take it private. But I am such a small fry that it doesn't matter right now in the least. I am doing my coding out in the open, so the edge I'll be giving away personally will be much greater than this discretionary stuff anyway.
+
+Honestly if it hurts me a little, I'd like other people to succeed. I feel that it is unfair that people that put in the effort shouldn't be able to succeed.
+
+For those that desire, there should be a path.

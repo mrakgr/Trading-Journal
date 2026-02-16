@@ -2695,3 +2695,5 @@ This thought never occured to me even once in 2007 - 2014. I know I am just rati
 Let me resume the course.
 
 11:25am. Ah, and this also gives me a lens into high volume breakouts. They aren't bullish or bearish. They are extremes. A few months ago I tried paper trading them and got absolutely smoked. That was kind of my experience in the past with them. I keep expecting they should be powerful bullish signals, but what they should be looked at is as extremes.
+
+Of course I am going to get fucked in big way (paper) trading them naively. But that was roughly what I expected, I knew they didn't work.

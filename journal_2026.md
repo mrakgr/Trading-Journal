@@ -2730,3 +2730,11 @@ Like what I am writing here feels like common sense now, but I was completely bl
 2:40pm. Princess Principal is as good as it ever was. Just finished movie 4. By now I complely forgot what the previous eps were about. The only thing remaining in my memory is how good the anime series is.
 
 2:45pm. Let me do the chores and the exercises here.
+
+3:55pm. Let me resume.
+
+![](images/image-2267.png)
+> Very few people understand what the market is. They just don't understand it.
+> Even these guys coming through the professional firms. And that why I realized even when they are given these tools as I am going to give you, very few people make it.
+
+He's talking about why the failure rate is so high even excluding the retail traders using retail tools which have a 0% success rate.

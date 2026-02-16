@@ -2705,3 +2705,10 @@ He's talking about the financial markets compared to actual goods like bread. La
 > So who is dictating the price? Market orders. They are now becoming the dominant force in financial markets.
 
 > You've been watching the DOM for 3 months, and when have you seen the supply just clear out without the market orders not getting involved? It doesn't happen. Why? Because there is an abundance of supply.
+
+![](images/image-2266.png)
+> Can you see why in my career I've moved away from the supply side?
+
+Wonderful course. I think I am going to pay the full price once I've made enough trading profits for it. I said to Lance that I would buy his and I owe it that much to this guy.
+
+So far, it's Lance, SMB (I need to see if the tape reading course specifically is worth it), and the Axia price ladder course that I'd put in the top tier of courses. It's only fair that I actually pay the price for them when I've earned what I've learned. In fact, I want to spend money on such luxuries when I have the freedom to do so.

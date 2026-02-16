@@ -2721,4 +2721,6 @@ Rather than a few setups, understanding how the market actually works might be a
 
 SMB and Axia give me the practice, but not so much the theory. Neerav is different.
 
-He said, I'd be struggling, but everything he is saying pretty easy to understand.
+He said I'd be struggling, but everything he is saying pretty easy to understand.
+
+12:35pm. I really feel I've made a conceptual leap in my understanding of the markets today. Whereas yesterday I knew a bunch of setups, now I have a general principle which is much more valuable. And thanks to this I will be able to really understand what the market is telling me.

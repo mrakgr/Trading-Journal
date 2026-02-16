@@ -2669,3 +2669,21 @@ He says he is going to be talking about probability distributions. That should b
 > Do you think they are looking at this trendline or this RSI or this MACD or do you think they use actual transactions 95p (to set the price)?
 
 The large companies are constantly testing the market to find where the demand is. And they are using the actual market feedback to set the price.
+
+11am. Oh, an idea occurs to me.
+
+The volume profile might look like a normal distribution over a particular day, but that doesn't mean that in any given second it is like that. It's actually possible for there to be a lot of demand at the lows and highs and a little demand in the middle of the range in terms of volume, but because it spends most of the time trading there, it ends up being normal.
+
+I am listening to him drone on about this, and looking at that bell curve and thinking, how exactly do the tails being thin make sense relative to what my volume clustering system implies about the market.
+
+Let's say we're trading bread. In the fair value area people wouldn't be rushing out to buy it. The price would just consolidate there and draw out the bell shaped volume profile over time. But at the extremes where the volume profile is thin, that is where the buyers would react significantly. At the lows they would step in, and at the highs they would step back and look for alternatives.
+
+Stocks are a liquid two way market, so it would have different behaviors. In bread you'd just have buyers stepping away at the higher extreme, but since financial assets are two way, the sellers would also step in bigly to meet the demand.
+
+I didn't realize the implications of auction market theory, but you would expect volume and activity to be subdued in the value area over time on the lower timeframes. And you'd expect on the lower timeframes that they anormal volume and pace on a particular level would occur only at longer timeframe extremes.
+
+...
+
+Wait, is that why the opening range breakout system works?
+
+The volume and the intensity of trading is always the strongest near the open, so according to theory you'd expect it to be an extreme. And that is in fact what you see in practice.

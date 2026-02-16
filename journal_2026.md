@@ -2751,3 +2751,8 @@ He's talking about why the failure rate is so high even excluding the retail tra
 He's preparing to explain how can we close the gap with value, meaning how real businesses in the real world try to discover it.
 
 He's saying that isn't not about individual price points and the market is efficient on a per price basis. He's starting to talk about volume profile and value areas.
+
+![](images/image-2269.png)
+> There is no fair price.
+
+There is only the value it seems. He says that I really to grasp that the odds of the next price is 50/50.

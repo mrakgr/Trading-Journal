@@ -2791,3 +2791,10 @@ The reason why I didn't get Tim Sykes' videos instead is that I know the short s
 Actually make it 10m, just so I can see what I can expect. I really don't feel like it anymore. I guess there is no hurrying trader skill development.
 
 7:15pm. Ok, nevermind, I cannot take any more of this today. He is going to talk about bread again.
+
+7:25pm. ![](images/image-2271.png)
+> If I had to rank them in terms of effectiveness it'd be just as it is shown here.
+
+I am surprised that pure tape would be better than the DOM for him. He also said that doing it purely off the charts is the hardest thing he ever tried.
+
+Right now I am sampling some other courses briefly. I never heard about this guy so I am going in blind.

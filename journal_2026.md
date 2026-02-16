@@ -2756,3 +2756,9 @@ He's saying that isn't not about individual price points and the market is effic
 > There is no fair price.
 
 There is only the value it seems. He says that I really to grasp that the odds of the next price is 50/50.
+
+I might be misinterpreting it.
+
+He talks about value, but is saying there is no fair price. Aren't prices fair in a value area?
+
+I am a bit confused about this, but whatever. The proof is in the pudding.

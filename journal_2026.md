@@ -2631,3 +2631,5 @@ The volume traders course is just a punt. I probably won't even look at it.
 I wonder what he will recommend that we trade since he is saying not to trade futures...
 
 Mhhh, why am I even asking this? What else is there to trade, but stocks for the smaller account? Crypto tokens perhaps?
+
+At any rate, this is pretty good video. But I feel such an allure in becoming able to beat the market. I do feel like betting on my own approach.

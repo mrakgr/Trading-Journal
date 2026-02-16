@@ -2775,3 +2775,13 @@ Ok, I think I get it. Maybe if you're not trying to predict the next step at eve
 > Because you've basically got no profit opportunity.
 > You've got to start thinking of the concept of value.
 > Perfect price doesn't exist. Market will close that. But value opportunities do exist.
+
+5:45pm. Uah, I need to take a break.
+
+The videos in module one are all massive. The other modules have shorter chapters thankfully.
+
+He can get a bit tedious. At this point, I am just watching if what he is going to say will confirm or reject my theories.
+
+5:50pm. A while earlier I took a peek at some of the contents of Steven Dux's course and I see he has stats on some simple systems like gap fills.
+
+The reason why I didn't get Tim Sykes' videos instead is that I know the short setup Tim was promoting 1.5 decades ago, and even though he has probably changed, back then I did follow his trading and he would often violate his stops. I really didn't like it. The annoying thing is even though I recognized the validity of the setup I couldn't hack it myself because there were simply no shares to short for any of such stocks on IBKR. So he might as well have been paper trading the whole time.

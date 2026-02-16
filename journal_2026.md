@@ -2597,3 +2597,31 @@ So I'll proceed with the change of plans and actually go through Neerav's entire
 What I think are holds are subsets of what would be volume profiles humps on a chart.
 
 Those clear key levels are really just a very specific pattern of a more broader one. That's my hypothesis.
+
+2/16/2026
+
+8:35am. Time to resume. A framework is what I am lacking the most right now, so if Neerav could improve my understanding of the markets, that could be a huge step forward.
+
+No BS Day Trading Webinar 2016 and Starter Course
+No BS Day Trading – Intermediate Course
+G7FX – Foundation Course
+G7FX Fundamentals
+Steven Dux – Freedom Challenge Course
+
+Let me prep the next batch of courses. The foundation course has a corrupted file so I'll try to get it again and this time from fttuts.
+
+What else should I get?
+
+Ok, how about this? I really wasn't sure about the 5th, so the course by Steven Dux caught my eye. Steven Dux was Tim Sykes' top student and made tens of millions personally. To be honest, I have all the courses that I want already, so these are just the icing on the cake.
+
+8:50am. Ok, for tomorrow...
+
+Axia Futures – Volume Profiling with Strategy Development
+Axia Futures – Futures Trading and Trader Development
+AXIA Futures – Central Bank Trading Strategies
+Axia Futures – The Footprint Edge Course
+The Volume Traders – Order Flow Mastery 2024
+
+I'll get the courses by Axia Futures since I am paying for the membership. I am not interested in these at all. The only reason I am getting the footprint edge again is because it had a corrupt file.
+
+The volume traders course is just a punt. I probably won't even look at it.

@@ -2687,3 +2687,9 @@ I didn't realize the implications of auction market theory, but you would expect
 Wait, is that why the opening range breakout system works?
 
 The volume and the intensity of trading is always the strongest near the open, so according to theory you'd expect it to be an extreme. And that is in fact what you see in practice.
+
+11:15am. Wow, I am really starting to put things together. You wouldn't expect that volume extremes on a 1s timeframe to be the low volume tails on a daily timeframe, but it does make sense.
+
+This thought never occured to me even once in 2007 - 2014. I know I am just rationalizing what I learned from SMB and the price ladder course, and giving it a different perspective, but it's powerful.
+
+Let me resume the course.

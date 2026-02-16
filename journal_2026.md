@@ -2654,3 +2654,7 @@ Honestly, if this journal starts causing trouble, I might have to take it privat
 Honestly if it hurts me a little, I'd like other people to succeed. I feel that it is unfair that people that put in the effort shouldn't be able to succeed.
 
 For those that desire, there should be a path.
+
+> You've got to understand, if you started in a professional trading firm tomorrow, you'd be spending 8-10 hours a day sitting and listening to a teacher talking to you about the markets.
+
+For a 3-4 months he means.

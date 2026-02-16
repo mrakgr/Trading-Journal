@@ -2668,4 +2668,4 @@ He says he is going to be talking about probability distributions. That should b
 ![](images/image-2265.png)
 > Do you think they are looking at this trendline or this RSI or this MACD or do you think they use actual transactions 95p (to set the price)?
 
-The large companies are constantly testing the market to find where the demand is.
+The large companies are constantly testing the market to find where the demand is. And they are using the actual market feedback to set the price.

@@ -2662,3 +2662,8 @@ For a 3-4 months he means.
 He says he is going to be talking about probability distributions. That should be interesting. I wonder how he uses them?
 
 10:20am. A big point he is hammering down is that financial markets are the same as any other market, and big companies have systems in place to collect what is essentially volume profile data.
+
+10:35am. Got the next batch of courses, my guess is that he is using an LLM to automate the process.
+
+![](images/image-2265.png)
+> Do you think they are looking at this trendline or this RSI or this MACD or do you think they use actual transactions 95p (to set the price)?

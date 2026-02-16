@@ -2636,4 +2636,7 @@ At any rate, this is pretty good video. But I feel such an allure in becoming ab
 
 ![](images/image-2263.png)
 > My first two years in proprietary trading were very flat.
+> Let's say there were 10 of us in our cohort. Out of all of us, most did go to business school and had a very structured background in terms of education, but they all failed.
+> I'll be very blunt with you. They All Failed.
+> The ones that actually made it didn't have traditional backgrounds. They studied random things.
 

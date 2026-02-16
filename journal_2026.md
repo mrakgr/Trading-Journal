@@ -2726,3 +2726,7 @@ He said I'd be struggling, but everything he is saying pretty easy to understand
 12:35pm. I really feel I've made a conceptual leap in my understanding of the markets today. Whereas yesterday I knew a bunch of setups, now I have a general principle which is much more valuable. And thanks to this I will be able to really understand what the market is telling me.
 
 Like what I am writing here feels like common sense now, but I was completely blind to it for 6 years when I tried trading seriously almost 2 decades ago. And for 6 years I didn't realize it.
+
+2:40pm. Princess Principal is as good as it ever was. Just finished movie 4. By now I complely forgot what the previous eps were about. The only thing remaining in my memory is how good the anime series is.
+
+2:45pm. Let me do the chores and the exercises here.

@@ -2633,3 +2633,7 @@ I wonder what he will recommend that we trade since he is saying not to trade fu
 Mhhh, why am I even asking this? What else is there to trade, but stocks for the smaller account? Crypto tokens perhaps?
 
 At any rate, this is pretty good video. But I feel such an allure in becoming able to beat the market. I do feel like betting on my own approach.
+
+![](images/image-2263.png)
+> My first two years in proprietary trading were very flat.
+

@@ -2640,3 +2640,4 @@ At any rate, this is pretty good video. But I feel such an allure in becoming ab
 > I'll be very blunt with you. They All Failed.
 > The ones that actually made it didn't have traditional backgrounds. They studied random things.
 
+He says that one of the important changed that he made is that he accepted that he was never gonna be able to copy someone else.

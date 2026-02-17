@@ -2829,3 +2829,6 @@ Maybe I should have gotten this one instead of that unknown volume traders cours
 > People have this notion of relating price to price.
 
 He's explaining how wrong that is and how irrelevant prices are. Even though he was using the volume profile on a DOM there was a period where he fell into the trap of using charts. Retail traders use support and resistance levels and fall into the trap of relating prices to prices.
+
+> Prices is the effect. Effect of what? Tesco moving. Tesco looking at demand and thinking, "Let's move the price."
+> How can we capture the cause?

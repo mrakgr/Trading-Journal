@@ -2799,7 +2799,9 @@ I am surprised that pure tape would be better than the DOM for him. He also said
 
 Right now I am sampling some other courses briefly. I never heard about this guy so I am going in blind.
 
-8:25pm. https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html
+8:25pm. https://news.ycombinator.com/item?id=47037628
+
+https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html
 > But Microsoft’s AI CEO is saying AI is going to take everybody’s job. And Sam Altman is saying that AI will wipe out entire categories of jobs. And Matt Shumer is saying that AI is currently like Covid in January 2020—as in, “kind of under the radar, but about to kill millions of people”.
 
 Lel.
@@ -2810,3 +2812,15 @@ Lel.
 > Socialism is always talked out how it works out in practice, capitalism is talked about how it works out in theory
 
 I'll remember this quote.
+
+2/17/2026
+
+8:10am. Time to make more headway into the course.
+
+8:30am. Done with chilling. Let me finally start. What was the last batch of courses?
+
+8:35pm. Ok, sent an email. For tomorrow:
+
+Mark Minervini – Private Access 2024
+
+Maybe I should have gotten this one instead of that unknown volume traders course. But nevermind. Let me watch the course by Neerav.

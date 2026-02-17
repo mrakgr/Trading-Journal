@@ -2844,4 +2844,6 @@ I get the sense that this course will have a profound influence on my thinking. 
 > It's looking at demand.
 > And it happening off the chart.
 
-> I really recommmend you stop looking at the chart as price vs price.
+> I really recommend you stop looking at the chart as price vs price.
+
+He says that all the profitable algorithms in the world (bar none) are looking at volume at every single level.

@@ -2834,3 +2834,8 @@ He's explaining how wrong that is and how irrelevant prices are. Even though he 
 > How can we capture the cause?
 > I always knew that market orders - demand, depth of market - supply, whatever, was pretty much like 80% of it.
 > This is when I realized it is 100%.
+
+> You've got to stop looking at the line, it's meaningless.
+> The thing that is driving the line is not the line, or the previous lines.
+
+I get the sense that this course will have a profound influence on my thinking. Not sure how it will affect my strategy design. I don't have any better ideas that the trifecta of velocity, volume and auction intensity.

@@ -2903,3 +2903,7 @@ This is bringing a tear to my eye. He is talking about how she was the happiest 
 > You shouldn't be trading gold because it is a very thin profile.
 > The same goes for the forex markets.
 > No professional firm is going to let you trade those markets because they understand how thin the volume is.
+
+![](images/image-2279.png)
+
+He said he worked on an options desk and the math on the top right was like English to him.

@@ -2974,3 +2974,11 @@ He says that we'll only be focusing on S&P and Crude Oil for the rest of the pro
 Then he shits on forex some more. It's a gray market, it's very difficult and...
 
 > There is not a single professional firm on this planet that will let you trade foreign exchange when you start, they all - check it! Go and check! They're all gonna get you trading the S&P 500 and maybe if you're lucky crude oil.
+
+5:20pm. He is saying to trade liquid markets and to avoid illiquid ones.
+
+> Everyone around me traded S&P, crude oil, treasuries.
+
+FX is a 24h market with random players and thin volume. Much like the markets themselves he can't let this go can't he?
+
+He is also saying that the market profile shouldn't include the overnight session and I agree. I mean why even use market profile? Just use volume profile to get a clearer picture of what actually matters.

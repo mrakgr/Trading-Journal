@@ -2907,3 +2907,7 @@ This is bringing a tear to my eye. He is talking about how she was the happiest 
 ![](images/image-2279.png)
 
 He said he worked on an options desk and the math on the top right was like English to him.
+
+> The reason why I am telling you this is because it's worked to my disadvantage massively!
+
+Lol.

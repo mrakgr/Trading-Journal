@@ -2843,3 +2843,5 @@ I get the sense that this course will have a profound influence on my thinking. 
 > Tesco is not looking at the chart.
 > It's looking at demand.
 > And it happening off the chart.
+
+> I really recommmend you stop looking at the chart as price vs price.

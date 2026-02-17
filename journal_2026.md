@@ -2877,3 +2877,5 @@ Now that is thinking out of the box!
 The price is the effect and the cause is the volume.
 
 10:20am. I am going to die of boredom here. He is really overdoing it. I wish he'd get to the meat of the course. If he does stop talking about bread, starting with the next video I'll start skimming.
+
+I never used indicators to begin with, but I did try to find places where momentum worked. I could never do so consistently, and just by looking at volume profile, it's hard to see how one could trade using it either.

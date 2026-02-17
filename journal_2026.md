@@ -2915,3 +2915,7 @@ Lol.
 He was actually mathematician, can you believe that?
 
 > Markets in a balanced environment behave as a statistical normal distribution.
+
+12:45pm. ![](images/image-2280.png)
+
+Let me stop here so I can have breakfast. This is so boring.

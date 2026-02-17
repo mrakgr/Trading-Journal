@@ -2892,4 +2892,4 @@ At this point I've crossed some threshold of boredom so I hope he gets on with i
 
 RIP Dog.
 
-This bring a tear to my eye. He is talking about she was the happiest when should hear him talk.
+This is bringing a tear to my eye. He is talking about how she was the happiest when could hear him talk.

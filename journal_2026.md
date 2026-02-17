@@ -2960,3 +2960,7 @@ He is telling me to never take anyone's word ever, even himself, and not to do d
 I only remembered now. I guess I should go to the unemployment office again.
 
 Agh, ok, I'll think about it. If I can get unemployment that will be 500/euro month roughly for a couple of months so I have to do it even though I have to wade through a shitshow of bureaucracy. It's going to be a boring grind.
+
+![](images/image-2283.png)
+
+He says that we'll only be focusing on S&P and Crude Oil for the rest of the pro course. They are only a proxy for a market that has volume. He reiterates that we shouldn't trade futures.

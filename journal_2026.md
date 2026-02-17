@@ -2867,3 +2867,6 @@ So he got more efficient at his work.
 > I am going to show you, I literally remove price from my chart.
 
 Now that is thinking out of the box!
+
+![](images/image-2275.png)
+> People who are trading the depth of market don't see the previous days, but I am going to show you they are absolutely crucial.

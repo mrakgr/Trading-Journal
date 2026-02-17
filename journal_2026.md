@@ -2970,3 +2970,7 @@ He says that we'll only be focusing on S&P and Crude Oil for the rest of the pro
 > And as you've seen, more importantly the action on the depth of market is very slow.
 > It's more about taking small ticks and we want to move away from that.
 > In terms of range the best market is the S&P 500. And globally, can you see a single currency? I can't.
+
+Then he shits on forex some more. It's a gray market, it's very difficult and...
+
+> There is not a single professional firm on this planet that will let you trade foreign exchange when you start, they all - check it! Go and check! They're all gonna get you trading the S&P 500 and maybe if you're lucky crude oil.

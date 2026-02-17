@@ -2895,3 +2895,11 @@ RIP Dog.
 This is bringing a tear to my eye. He is talking about how she was the happiest when could hear him talk.
 
 > The market doesn't trend. The market is never trending.
+
+11:30am. Let me take a break here.
+
+12:15pm. 
+
+> You shouldn't be trading gold because it is a very thin profile.
+> The same goes for the forex markets.
+> No professional firm is going to let you trade those markets because they understand how thin the volume is.

@@ -2870,3 +2870,8 @@ Now that is thinking out of the box!
 
 ![](images/image-2275.png)
 > People who are trading the depth of market don't see the previous days, but I am going to show you they are absolutely crucial.
+
+![](images/image-2276.png)
+> You need to stop looking at the effect and you need to start looking at the cause and then you've got a fighting chance.
+
+The price is the effect and the cause is the volume.

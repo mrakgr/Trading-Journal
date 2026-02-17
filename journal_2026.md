@@ -2832,3 +2832,5 @@ He's explaining how wrong that is and how irrelevant prices are. Even though he 
 
 > Prices is the effect. Effect of what? Tesco moving. Tesco looking at demand and thinking, "Let's move the price."
 > How can we capture the cause?
+> I always knew that market orders - demand, depth of market - supply, whatever, was pretty much like 80% of it.
+> This is when I realized it is 100%.

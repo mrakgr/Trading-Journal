@@ -2951,3 +2951,5 @@ He's refering by the two books by Dalton and Steildermeyer.
 > The problem is with them, they are incredibly dogmatic.
 
 He is telling me to never take anyone's word ever, even himself, and not to do due diligence, but double due diligence.
+
+> Don't take anyone's word for it. It's going to propel you to different levels if that is how you approach things.

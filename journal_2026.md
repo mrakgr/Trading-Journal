@@ -2847,3 +2847,7 @@ I get the sense that this course will have a profound influence on my thinking. 
 > I really recommend you stop looking at the chart as price vs price.
 
 He says that all the profitable algorithms in the world (bar none) are looking at volume at every single level.
+
+> Unless the aggression comes in, can you see the price isn't going to move?
+
+He's saying that absorption just by itself doesn't move the price.

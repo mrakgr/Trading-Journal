@@ -2947,3 +2947,5 @@ In this part he is going to explain market profile vs volume profile.
 > But more interesting are these two books.
 
 He's refering by the two books by Dalton and Steildermeyer.
+
+> The problem is with them, they are incredibly dogmatic.

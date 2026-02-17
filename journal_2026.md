@@ -2851,3 +2851,9 @@ He says that all the profitable algorithms in the world (bar none) are looking a
 > Unless the aggression comes in, can you see the price isn't going to move?
 
 He's saying that absorption just by itself doesn't move the price.
+
+![](images/image-2273.png)
+
+Why is he even trying to prove that the thing on the left is the same as the thing on the right? The volume profile I mean.
+
+It's obvious.

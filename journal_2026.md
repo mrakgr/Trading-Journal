@@ -2964,3 +2964,8 @@ Agh, ok, I'll think about it. If I can get unemployment that will be 500/euro mo
 ![](images/image-2283.png)
 
 He says that we'll only be focusing on S&P and Crude Oil for the rest of the pro course. They are only a proxy for a market that has volume. He reiterates that we shouldn't trade futures.
+
+> Let's ignore treasuries for now because they are quite a specialized market.
+> There is of course speculation going on there, but it's a different type of speculation generally and can be a little more complex.
+> And as you've seen, more importantly the action on the depth of market is very slow.
+> It's more about taking small ticks and we want to move away from that.

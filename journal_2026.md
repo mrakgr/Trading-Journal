@@ -2989,3 +2989,15 @@ He is also saying that the market profile shouldn't include the overnight sessio
 > We've got the depth of market and we've got the volume profile. Why are we even looking at market profile?
 
 Yes, that is exactly what I've been wondering for the past 20 minutes.
+
+6:50pm. Ok, that is enough. Let me stop at the 1:40h mark. There is another hour left in this video and I don't feel like going through it today.
+
+Honestly, listening to this market/volume profile stuff feels like nonsense. I'd rather do my own modeling and teach the machine to read the tape, but I'll persevere.
+
+I won't lie that it is giving me some inspiration.
+
+Damn, even after all of this, while I don't feel like going through the SMB foundation course, I do need to study the tape reading one. Thankfully that one is much shorter, and is mostly documents.
+
+After that, I still haven't finished the Jigsaw course. And I saw that Steven Dux has some statistics which an approach we can learn from.
+
+You know how about I spend a little time watching that SMB video?

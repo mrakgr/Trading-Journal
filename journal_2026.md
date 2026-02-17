@@ -2824,3 +2824,8 @@ I'll remember this quote.
 Mark Minervini – Private Access 2024
 
 Maybe I should have gotten this one instead of that unknown volume traders course. But nevermind. Let me watch the course by Neerav.
+
+![](images/image-2272.png)
+> People have this notion of relating price to price.
+
+He's explaining how wrong that is and how irrelevant prices are. Even though he was using the volume profile on a DOM there was a period where he fell into the trap of using charts. Retail traders use support and resistance levels and fall into the trap of relating prices to prices.

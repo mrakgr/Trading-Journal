@@ -2954,3 +2954,9 @@ He is telling me to never take anyone's word ever, even himself, and not to do d
 
 > Don't take anyone's word for it. It's going to propel you to different levels if that is how you approach things.
 > It's going to make you an amazing trader because while you're doing that you're going to figure out other things.
+
+4:55pm. Ah, fuck. I just realized that on Sunday I noticed that my company was finally closed. I completely forgot it yesterday.
+
+I only remembered now. I guess I should go to the unemployment office again.
+
+Agh, ok, I'll think about it. If I can get unemployment that will be 500/euro month roughly for a couple of months so I have to do it even though I have to wade through a shitshow of bureaucracy. It's going to be a boring grind.

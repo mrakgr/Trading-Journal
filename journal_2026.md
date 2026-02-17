@@ -2886,4 +2886,4 @@ I wonder if I am really not wasting my time with this course? If somebody showed
 
 > When I show you trading opportunities, all this theory stuff and me talking to you is going to pay off.
 
-At this point I've crossed some threshold of boredom so I hope he gets on with it.
+At this point I've crossed some threshold of boredom so I hope he gets on with it. 

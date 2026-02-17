@@ -2891,3 +2891,5 @@ At this point I've crossed some threshold of boredom so I hope he gets on with i
 ![](images/image-2278.png)
 
 RIP Dog.
+
+This bring a tear to my eye. He is talking about she was the happiest when should hear him talk.

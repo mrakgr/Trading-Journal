@@ -2875,3 +2875,5 @@ Now that is thinking out of the box!
 > You need to stop looking at the effect and you need to start looking at the cause and then you've got a fighting chance.
 
 The price is the effect and the cause is the volume.
+
+10:20am. I am going to die of boredom here. He is really overdoing it. I wish he'd get to the meat of the course. If he does stop talking about bread, starting with the next video I'll start skimming.

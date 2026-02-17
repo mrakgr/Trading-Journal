@@ -3001,3 +3001,8 @@ Damn, even after all of this, while I don't feel like going through the SMB foun
 After that, I still haven't finished the Jigsaw course. And I saw that Steven Dux has some statistics which an approach we can learn from.
 
 You know how about I spend a little time watching that SMB video?
+
+https://youtu.be/WXBxLHdYFi8
+What Most Prop Desks Don't Want You To Know
+
+> The most undertalked about part of trading is the value of trading your setups correctly. In fact I'd argue it is the whole game.

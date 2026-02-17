@@ -2839,3 +2839,7 @@ He's explaining how wrong that is and how irrelevant prices are. Even though he 
 > The thing that is driving the line is not the line, or the previous lines.
 
 I get the sense that this course will have a profound influence on my thinking. Not sure how it will affect my strategy design. I don't have any better ideas that the trifecta of velocity, volume and auction intensity.
+
+> Tesco is not looking at the chart.
+> It's looking at demand.
+> And it happening off the chart.

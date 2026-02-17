@@ -2941,4 +2941,6 @@ Let me watch the video.
 In this part he is going to explain market profile vs volume profile.
 
 > They are really wishy washy? Did I learn anything from them, even Market Wizards? No.
-
+> It was a good read, yeah, just to see what different traders are doing, but there was no strategy in there. It was more like interviewing them and they gave a lot of the cliches, you know the trading cliches like...I don't know if you've watched on Instagram, you get some of those Instagram posts going up and down, they have like quotes on them and I do quotes myself, but I hope you agree I do institutional quotes. But some of the quotes, let's be honest, are just ridiculous. You know, leave your emotions out the door and all that stuff. Does that really help you, it's not going to really help you become a better trader.
+> And that what I found a lot of the books they recommend to you I found were.
+> If there was one of all of the sort of wishy washy books that they recommend, I'd say read market wizards if you want. It's a decent read. But if you don't it's honestly not going to make a difference. 

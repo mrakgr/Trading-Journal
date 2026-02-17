@@ -2979,6 +2979,8 @@ Then he shits on forex some more. It's a gray market, it's very difficult and...
 
 > Everyone around me traded S&P, crude oil, treasuries.
 
-FX is a 24h market with random players and thin volume. Much like the markets themselves he can't let this go can't he?
+FX is a 24h market with random players and thin volume. Much like the markets themselves he can't let this go can't he? He keeps poking around the subject.
 
 He is also saying that the market profile shouldn't include the overnight session and I agree. I mean why even use market profile? Just use volume profile to get a clearer picture of what actually matters.
+
+5:50pm. Oh yeah, I need to leave a note on his style. He said that crude is volatile so he's avoiding it. Personally, I'd like to do exactly the opposite. I'll make a study on penny stocks and see what I can get out of super volatile stocks in general.

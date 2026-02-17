@@ -2913,3 +2913,5 @@ He said he worked on an options desk and the math on the top right was like Engl
 Lol.
 
 He was actually mathematician, can you believe that?
+
+> Markets in a balanced environment behave as a statistical normal distribution.

@@ -2919,3 +2919,9 @@ He was actually mathematician, can you believe that?
 12:45pm. ![](images/image-2280.png)
 
 Let me stop here so I can have breakfast. This is so boring.
+
+2:25pm. Let me resume. I'll watch for another hour and then do the exercises and take a bath.
+
+![](images/image-2281.png)
+
+Ok, I cannot take it anymore. Let me start skimming here.

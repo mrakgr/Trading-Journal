@@ -2929,3 +2929,13 @@ Ok, I cannot take it anymore. Let me start skimming here.
 2:50pm. > I hope you've been like me and taken a few days off after that heavy market auction theory part.
 
 Nope. Let's keep going for a bit longer. Time for the next video. I lost my patience over the normal distribution. I know what it is, so let's move on.
+
+3pm. Let me take a break here.
+
+4:15pm. Taken a bath. I'll skip today's exercises to give my shoulders time to rest.
+
+Let me watch the video.
+
+![](images/image-2282.png)
+
+In this part he is going to explain market profile vs volume profile.

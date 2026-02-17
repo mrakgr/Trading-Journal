@@ -2857,3 +2857,9 @@ He's saying that absorption just by itself doesn't move the price.
 Why is he even trying to prove that the thing on the left is the same as the thing on the right? The volume profile I mean.
 
 It's obvious.
+
+![](images/image-2274.png)
+
+Those arrows in the screenshot indicate absorption. He is saying how he went from looking at the profile on the window on the right to the right (in the DOM) to the profile on the window on the left (on the chart) because looking at it on the right was a waste of time.
+
+So he got more efficient at his work.

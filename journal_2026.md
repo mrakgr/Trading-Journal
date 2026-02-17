@@ -3006,3 +3006,12 @@ https://youtu.be/WXBxLHdYFi8
 What Most Prop Desks Don't Want You To Know
 
 > The most undertalked about part of trading is the value of trading your setups correctly. In fact I'd argue it is the whole game.
+
+StockBee Bootcamp – European Members – March 2023
+Mark Minervini – Private Access 2024
+
+Let me add these two courses for tomorrow.
+
+![](images/image-2285.png)
+
+Interesting slide, but that is pretty much what Lance is trying to teach me.

@@ -2863,3 +2863,7 @@ It's obvious.
 Those arrows in the screenshot indicate absorption. He is saying how he went from looking at the profile on the window on the right to the right (in the DOM) to the profile on the window on the left (on the chart) because looking at it on the right was a waste of time.
 
 So he got more efficient at his work.
+
+> I am going to show you, I literally remove price from my chart.
+
+Now that is thinking out of the box!

@@ -2883,3 +2883,7 @@ I never used indicators to begin with, but I did try to find places where moment
 ![](images/image-2277.png)
 
 I wonder if I am really not wasting my time with this course? If somebody showed me this picture I wouldn't say that that this is any more useful than charts.
+
+> When I show you trading opportunities, all this theory stuff and me talking to you is going to pay off.
+
+At this point I've crossed some threshold of boredom so I hope he gets on with it.

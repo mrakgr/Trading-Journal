@@ -2925,3 +2925,7 @@ Let me stop here so I can have breakfast. This is so boring.
 ![](images/image-2281.png)
 
 Ok, I cannot take it anymore. Let me start skimming here.
+
+2:50pm. > I hope you've been like me and taken a few days off after that heavy market auction theory part.
+
+Nope. Let's keep going for a bit longer. Time for the next video. I lost my patience over the normal distribution. I know what it is, so let's move on.

@@ -2984,3 +2984,8 @@ FX is a 24h market with random players and thin volume. Much like the markets th
 He is also saying that the market profile shouldn't include the overnight session and I agree. I mean why even use market profile? Just use volume profile to get a clearer picture of what actually matters.
 
 5:50pm. Oh yeah, I need to leave a note on his style. He said that crude is volatile so he's avoiding it. Personally, I'd like to do exactly the opposite. I'll make a study on penny stocks and see what I can get out of super volatile stocks in general.
+
+![](images/image-2284.png)
+> We've got the depth of market and we've got the volume profile. Why are we even looking at market profile?
+
+Yes, that is exactly what I've been wondering for the past 20 minutes.

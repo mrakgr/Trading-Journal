@@ -2953,3 +2953,4 @@ He's refering by the two books by Dalton and Steildermeyer.
 He is telling me to never take anyone's word ever, even himself, and not to do due diligence, but double due diligence.
 
 > Don't take anyone's word for it. It's going to propel you to different levels if that is how you approach things.
+> It's going to make you an amazing trader because while you're doing that you're going to figure out other things.

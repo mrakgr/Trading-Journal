@@ -2969,3 +2969,4 @@ He says that we'll only be focusing on S&P and Crude Oil for the rest of the pro
 > There is of course speculation going on there, but it's a different type of speculation generally and can be a little more complex.
 > And as you've seen, more importantly the action on the depth of market is very slow.
 > It's more about taking small ticks and we want to move away from that.
+> In terms of range the best market is the S&P 500. And globally, can you see a single currency? I can't.

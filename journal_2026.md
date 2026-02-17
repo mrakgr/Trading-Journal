@@ -2939,3 +2939,6 @@ Let me watch the video.
 ![](images/image-2282.png)
 
 In this part he is going to explain market profile vs volume profile.
+
+> They are really wishy washy? Did I learn anything from them, even Market Wizards? No.
+

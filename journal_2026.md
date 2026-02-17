@@ -2911,3 +2911,5 @@ He said he worked on an options desk and the math on the top right was like Engl
 > The reason why I am telling you this is because it's worked to my disadvantage massively!
 
 Lol.
+
+He was actually mathematician, can you believe that?

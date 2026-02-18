@@ -3167,3 +3167,13 @@ Maybe the lesson from my poker failures is that RL isn't really important at all
 > That's all I am doing all day long.
 
 He's finally getting to the meat of things.
+
+5:45pm. Saying that the ambuguity of the methods he is using is actually an opportunity to make alpha, and that we need to find our own way of using it.
+
+...Yeah, this is more than about trading now. This is how I am going to get to the next level as a programmer.
+
+I need to do it top down rather than bottom up. Nature is almost certainly not doing it bottom up.
+
+I'll use the market to deepen my understanding of programming.
+
+That is justice. That is the way to win.

@@ -3113,3 +3113,9 @@ Yes, I could have been programming for the last 2 weeks instead of watching cour
 No, I think it was quite good. I learned quite a few new things and expanded my perspective on the market.
 
 Why don't I at least finish Neerav's course? If it's really a waste of time, it might delay my resumption by a few days, but who cares.
+
+4:20pm. ![](images/image-2289.png)
+
+I made the right choice to continue. He says that he had the fortune of working on a sterling desk so he had first hand insight into the flows, and says even the prop traders don't know this.
+
+What he says is going on is that every time the market dips, but doesn't take out the lows, the stops start getting built up, until boom, they finally get taken out and a flush out happens.

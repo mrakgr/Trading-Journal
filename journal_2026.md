@@ -3037,3 +3037,7 @@ I should just focus on finding the path and following it.
 ![](images/image-2287.png)
 
 While you cannot split volume profiles, there is nothing really stopping him from merging them. What's the problem?
+
+![](images/image-2288.png)
+
+Yeah, they are very similar, the main differences will be once you drill down.

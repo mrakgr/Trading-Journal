@@ -3014,4 +3014,8 @@ Let me add these two courses for tomorrow.
 
 ![](images/image-2285.png)
 
-Interesting slide, but that is pretty much what Lance is trying to teach me.
+Interesting slide, but that is pretty much what Lance is was telling me in his course.
+
+2/18/2026
+
+10:10am. It's been getting easier for me to visualize my victory. Honestly, the course by Neerav doesn't matter that much. I'll cut up the market into different patterns and extract the alpha that way. Even so, it helps to know what you are doing, so I'll take my sweet time studying.

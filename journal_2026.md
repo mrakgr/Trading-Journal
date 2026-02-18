@@ -3119,3 +3119,6 @@ Why don't I at least finish Neerav's course? If it's really a waste of time, it 
 I made the right choice to continue. He says that he had the fortune of working on a sterling desk so he had first hand insight into the flows, and says even the prop traders don't know this.
 
 What he says is going on is that every time the market dips, but doesn't take out the lows, the stops start getting built up, until boom, they finally get taken out and a flush out happens.
+
+> The stops build up.
+> ...And the market knows this, and it needs to clear out the inventory before continuing higher on its merry way.

@@ -3083,3 +3083,9 @@ I did gain a lot from these courses, but a lot of it is indirect. Mike Valtos fo
 That was more important than anything he was actually saying in the course itself.
 
 Forget the theory. What is really important in trading is to look at the data!
+
+12:15pm. I am the best programmer, but I didn't get here listening to people talk about programming. I never paid attention to any of that and instead cultivated my own skills, learning whatever algos that I could.
+
+Similarly, for trading I should just work on my models and compare them to data and see where that gets me. SMB basically already told me what already matters in the early days of the course. And Axia Futures ladder course reinforced it.
+
+Once I have the initial model and check it agains the data, the way forward will open naturally.

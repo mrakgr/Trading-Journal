@@ -3177,3 +3177,11 @@ I need to do it top down rather than bottom up. Nature is almost certainly not d
 I'll use the market to deepen my understanding of programming.
 
 That is justice. That is the way to win.
+
+6:25pm. ![](images/image-2291.png)
+
+This course swings between brilliant and incredibly tedious. The only bring spot now is that modules 2 and 3 combined are half the size of module 1. Hopefully the VWAP stuff will be more on point.
+
+Damn it, I'll finish it. This course, and the SMB tape reading course and the Axia Futures ladder course are going to be the only ones I'll focus on.
+
+Taking only a few weeks for all 3 of them is already doing them in record time. As badly as I want to get some exercise, let me persevere with NV's course.

@@ -3093,3 +3093,23 @@ Once I have the initial model and check it against the data, the way forward wil
 Qullamaggie was right. My competition is basically brainless. I can beat them.
 
 I am absolutely not that same as a decade ago. The programming skills and the hardware and the software advances will make a huge difference.
+
+12:50pm. Ok, done with breakfast. I need to make a statement for the unemployment office.
+
+1:40pm. Done. Sent the statement along with an email to my accountant and I'll have to wait and see what happens next. I am missing some documents before I can go to the unemployment office. Ideally, she could get them for me.
+
+Let me take a break here. 
+
+1:50pm. I'll focus on breaking the ice in order to get back into programming again.
+
+I am finally done with courses. I had enough of them. I'll rely on my own power from here on out. I'll find holds in the highest volatility stocks there are and play their releases. I will create a neural network model to detect and a bot to trade them.
+
+3:30pm. I've had a change of heart. As I was doing the exercises I realized that Neerav did seriously affect my thinking.
+
+The thing about tech analysis is that it works on some things and doesn't on others. It only really takes advantage of momentum effects, which happen sometimes in regular stocks, but they happen absolutely never in efficient markets like S&P 500. So of course he wouldn't be using it there.
+
+Yes, I could have been programming for the last 2 weeks instead of watching courses. But was my return really that bad?
+
+No, I think it was quite good. I learned quite a few new things and expanded my perspective on the market.
+
+Why don't I at least finish Neerav's course? If it's really a waste of time, it might delay my resumption by a few days, but who cares.

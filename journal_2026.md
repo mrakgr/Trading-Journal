@@ -3041,3 +3041,45 @@ While you cannot split volume profiles, there is nothing really stopping him fro
 ![](images/image-2288.png)
 
 Yeah, they are very similar, the main differences will be once you drill down.
+
+11:10am. Ok, at this point I am thinking of dropping the course because I can't imagine this stuff being particularly useful, and he is taking ages to get to the strategies. I am really, really bored. I could be doing actual valuable programming work instead of listening to this and frittering away my time.
+
+...Ok, enough, enough, I am dropping it. Here is what I am going to do.
+
+I am going to sample some of the order flow courses, maybe finish up the Axia ladder course and the SMB tape reading course. That scalping bootcamp thing caught my eye, I want to see the guy trade using T&S. I am also curious about Steven Dux's course.
+
+Nevermind, actually paying for all this. That I am posting my own stuff online and on Youtube is enough.
+
+11:20am. Let me take a break here. I should take this opportunity to tie up the loose ends with the Rajnet company.
+
+I am done with courses. I got a bunch of them, but I really don't feel like watching them anymore. I'll go back to programming, and once I've made headway in that maybe I will shift gears towards studying again.
+
+The API key should run out in a few days, do I bother Thomas with them since it is his turn or should I just get a new one myself? I'll decide once it runs out.
+
+...
+...
+...
+
+Here is the plan:
+
+I am going to move from the drift model, to a rejection sampling model. That will allow me to implement fuzzy support and resistance levels. Instead of having a drift, what I will do is move the support upwards during upmoves and the resistance level downwards during downmoves.
+
+Holds will just episodes where resistance and support are equal or in a tight range.
+
+After that, rather than having 7 different episodes like I do now, I will introduce a large number of different episodes. I could make up 100s of them each with different volatility, volume and auction intensity profiles.
+
+Then I will get the trades data from Massive and see how often they occur naturally on very high volatility stocks. Then I will adjust the model so the episode durations and frequencies match more what occurs in real world data.
+
+In other words, getting good at trading is a simple loop of:
+
+Initial model -> improve based on data -> improve based on data -> improve based on data -> ...
+
+And so on.
+
+I definitely need to start somewhere regardless of the data, but eventually I'll tune the priors of the generative model so it matches the data closely.
+
+I did gain a lot from these courses, but a lot of it is indirect. Mike Valtos for example showed me footprint charts of BTC and I could really see how clear the key levels in it are. It convinced me that I should be looking at the total volume and that the bid and ask sides aren't that important. So that makes Massive's data ok for my needs.
+
+That was more important than anything he was actually saying in the course itself.
+
+Forget the theory. What is really important in trading is to look at the data!

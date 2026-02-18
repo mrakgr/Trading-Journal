@@ -3033,3 +3033,7 @@ All the way back, back in 2007, I had the notion that winning in the market is s
 Really, whether it is my body or my mind, it never is quite as I want it, so why should I care about all of that?
 
 I should just focus on finding the path and following it.
+
+![](images/image-2287.png)
+
+While you cannot split volume profiles, there is nothing really stopping him from merging them. What's the problem?

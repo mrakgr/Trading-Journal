@@ -3122,3 +3122,39 @@ What he says is going on is that every time the market dips, but doesn't take ou
 
 > The stops build up.
 > ...And the market knows this, and it needs to clear out the inventory before continuing higher on its merry way.
+
+5pm. An idea struck me.
+
+I've been thining about the human brain algorithm for a long time with little success. I could never figure out how to go beyond backprop...but...
+
+Just now as I think about my own probabilistic program for trading the market, I've contrasted that approach with how the brain could build in the various social desires, reproductive desires and even simply desires to consume food.
+
+Let's focus on consuming food. During the night I've been thinkin that on the surface eating food would be the easiest thing to define in an RL setting.
+
+When hungry, just set a positive value and run it.
+
+But in the real world, actually finding food, and even eating it, that is controlling the body to do all of that would be quite difficult to do with a RL framework! So much that it feels impossible that this is the right way to think about this.
+
+We are assuming there the brain is a predictive machine. Or an effcient memory system.
+
+But if it is really built from the bottom-up then how would it be possible to ever access the internal representations to program an animal or a human to eat food?
+
+It never occured to me to think of it from the other perspective because it just seems so unbelievable given how much learning humans do during their lifetime, but what if they already have a generative model of the world to begin with? Some kind of higher level meta-model to call it that.
+
+Then the problem of control would become a lot easier, wouldn't it? At least it would become plausible.
+
+...
+
+Yes, in all likelihood, the brain is using more powerful algorithms that we programmers have access to. I've been focusing on that aspect for well over a decade now. I thought figuring those out was the most important thing and once I had them, that would let me ignite the Singularity. But what if they aren't important at all?
+
+What if they'll turn out to be just a single piece in our toolkit, and what is really important is our general purpose programming skills? The very thing I've been so consistently and desperately building up all this time and with actual success.
+
+All the blows I've taken in RL and the latest failure with Hopfield dictionaries took its bite out of me, but what if that doesn't really matter at all, but the improvements to Spiral that I've done, and the experience of working through the problems is what might really matter in the long term.
+
+To get to the point, what if the answer to the problem of the Singularity really is probabilistic functional programming?
+
+What if I really just do need to get better at probabilistic programming?
+
+The financial markets are the ideal arena for it.
+
+Maybe the lesson from my poker failures is that RL isn't really important at all.

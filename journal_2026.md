@@ -3162,3 +3162,8 @@ Maybe the lesson from my poker failures is that RL isn't really important at all
 5:25pm. ![](images/image-2290.png)
 > Indicators don't tell you if the market is balanced or imbalances.
 > And you've got to understand that 80% of the time the market is balances.
+
+> You need to become experts in identifying when the market is balanced or imbalanced.
+> That's all I am doing all day long.
+
+He's finally getting to the meat of things.

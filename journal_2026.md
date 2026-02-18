@@ -3019,3 +3019,17 @@ Interesting slide, but that is pretty much what Lance is was telling me in his c
 2/18/2026
 
 10:10am. It's been getting easier for me to visualize my victory. Honestly, the course by Neerav doesn't matter that much. I'll cut up the market into different patterns and extract the alpha that way. Even so, it helps to know what you are doing, so I'll take my sweet time studying.
+
+10:30am. Let me get started.
+
+![](images/image-2286.png)
+
+Honestly, this market profile stuff is trash. If this is what the institutional traders are doing, it's not much better than technical analysis.
+
+Since they are doing it, whatever, I might as well dedicate the time to go through it, but the method, or rather the overall plan I have in mind for how to look for patterns in the market will be far superior. It seems that this time around I won't be losing.
+
+All the way back, back in 2007, I had the notion that winning in the market is simply a matter of having the right perspective. It was a huge blow to my ego that I couldn't find it.
+
+Really, whether it is my body or my mind, it never is quite as I want it, so why should I care about all of that?
+
+I should just focus on finding the path and following it.

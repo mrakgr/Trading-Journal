@@ -3158,3 +3158,7 @@ What if I really just do need to get better at probabilistic programming?
 The financial markets are the ideal arena for it.
 
 Maybe the lesson from my poker failures is that RL isn't really important at all.
+
+5:25pm. ![](images/image-2290.png)
+> Indicators don't tell you if the market is balanced or imbalances.
+> And you've got to understand that 80% of the time the market is balances.

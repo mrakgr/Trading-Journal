@@ -3088,4 +3088,8 @@ Forget the theory. What is really important in trading is to look at the data!
 
 Similarly, for trading I should just work on my models and compare them to data and see where that gets me. SMB basically already told me what already matters in the early days of the course. And Axia Futures ladder course reinforced it.
 
-Once I have the initial model and check it agains the data, the way forward will open naturally.
+Once I have the initial model and check it against the data, the way forward will open naturally.
+
+Qullamaggie was right. My competition is basically brainless. I can beat them.
+
+I am absolutely not that same as a decade ago. The programming skills and the hardware and the software advances will make a huge difference.

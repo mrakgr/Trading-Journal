@@ -3301,3 +3301,13 @@ I'll pass for now. The big challenge is developing an edge, rather than sizing i
 11:10am. The point I am trying to prove is - absolutely nobody in the public space is taking the same approach as me, but at the same time, my approach does make sense so there should be some edge in it.
 
 There are a bunch of quant courses, but they are all beneath my skill level.
+
+11:55am. Had to take a break. Let me just listen to the prints lecture and I'll have breakfast.
+
+To Thomas I am going to recommend the SMB tape reading course and the Axia Futures price ladder course once he is back to his workplace from his vacation.
+
+The stuff by NV is very interesting philosophy, and should be mandatory for a pro trader to know, but at the same time, it doesn't have much practical use compared to probabilitic programming and tape reading skills. I don't want him wasting his time on things that won't make him money in the markets.
+
+I want him to spent his time on things that will give him the most value once he is ready to start.
+
+More important than theory for a pro trader is profitability.

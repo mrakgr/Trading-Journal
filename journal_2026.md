@@ -3200,6 +3200,12 @@ Taking so much time on market profile has to be some kind of lunacy. There is no
 
 And the benefit of tape reading - yes, for sure, you can detect volume clustering and holds that you couldn't on the chart, but it also doesn't lie like the chart. On the chart extreme values can completely mess up your analysis and mislead you. Every once in a while you get a wild trade outside of the reasonable range that the chart tags on, so what could be a straightforward prcie action seems like extreme mess.
 
-1:05pm. Ok, let me start skimming this part.
+10:05am. Ok, let me start skimming this part.
 
 Him geeking out over this reminds me of how Minervini and O'Neil put charts in their books and they are essentially pretty much random.
+
+10:15am. Let me skip to the next video.
+
+![](images/image-2293.png)
+
+This is consistent with what SMB and Axia are teaching me. It seems that holds developing can cause imbalance. Also going out of value areas can cause imbalance. Holds outside the value area can also cause imbalance.

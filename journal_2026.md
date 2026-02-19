@@ -3216,4 +3216,30 @@ It's also subsumed by tape reading.
 
 If imbalance = trending and balance = rangebound, the it makes no difference from tech analysis concepts. In fact, he says as much a few videos ago when it compares what he is teaching to retail concepts.
 
-Besides, you now have World Class Edge guys teaching these concepts on Youtube.
+Besides, you now have World Class Edge guys teaching these concepts on Youtube for free.
+
+10:35am. Nevermind this, let me skip to the WVAP module. I want to make sure that there are no regrets before I really start programming.
+
+...Ah, fuck. I thought that stage 2 and 3 would be shorted because videos are shorter in terms of bytes, but now that I am loading them up, I see that is not the case!
+
+No, no, I cannot take this anymore.
+
+I have to code. I have to create statistical models of the market. That is where my edge is going to come from.
+
+From hard work.
+
+From actual work.
+
+The fact that I am so bored is proof enough this is of limited value.
+
+I honestly liked the first few auction market theory videos where he was contrasting regular markets for everyday items and how non-financial traders set prices. They are just looking at supply and demansd.
+
+Say you have a GPU and you raise prices. The demand goes down. So finding the price means just balancing profits based on price and volume information.
+
+Imagine being Nvidia and trying to price GPUs based on a price momentum system. It would be insane. But that is what I've been trying to accomplish. That is how I've been trading.
+
+And that is a good reality check for me.
+
+Ok, let me focus on the SMB tape reading course and the rest of the price ladder course. I'll miss Neerav, but it's time to go on.
+
+I have my own path.

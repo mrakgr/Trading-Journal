@@ -3243,3 +3243,61 @@ And that is a good reality check for me.
 Ok, let me focus on the SMB tape reading course and the rest of the price ladder course. I'll miss Neerav, but it's time to go on.
 
 I have my own path.
+
+10:55am. Let me take this time to do just a little bit more learning. A few days more and then I am done.
+
+I don't want to start programming right away. It isn't right. But I should resume soon.
+
+Here is what the course is about.
+
+...
+
+No, I won't paste that copyrighted content here, but the intro talks about teaching scalp plays and big picture plays.
+
+It says this.
+
+> The basis of tape reading boils down to holds, unusual holds and hunt orders.
+
+So this will give me what I wanted from the Foundation course, but in a much more condensed manner.
+
+Sigh, I've been wondering what the institutions are doing, but if NV's course is anything to go by, it's just as much astrology as tech analysis.
+
+I did take a look at quant courses on fttuts. Let me do a review.
+
+![](images/image-2294.png)
+
+It's pretty low level shit if all they are using is Python. 35 strategies? What a riot.
+
+You only 1. You need to learn probabilistic programming, and how to design your own models.
+
+![](images/image-2295.png)
+
+Idiots. If this is the approach retail traders take then I won't have any trouble beating them.
+
+Indicators have a low ceiling compared to generative models. They don't scale to sophisticated pattern matching behaviors you see in real beings.
+
+![](images/image-2296.png)
+
+I put in generative model, I get crickets. The same for generative.
+
+![](images/image-2297.png)
+
+`neural`? This course mentions Elon's Neuralink.
+
+![](images/image-2298.png)
+
+Forex mastery? That can't be good.
+
+![](images/image-2299.png)
+
+Bayesian?
+
+Ok, this one did caught my eye I admit.
+
+![](images/image-2300.png)
+
+I'll pass for now. The big challenge is developing an edge, rather than sizing it properly.
+
+11:10am. The point I am trying to prove is - absolutely nobody in the public space is taking the same approach as me, but at the same time, my approach does make sense so there should be some edge in it.
+
+There are a bunch of quant courses, but they are all beneath my skill level.

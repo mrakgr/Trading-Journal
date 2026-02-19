@@ -3325,3 +3325,7 @@ It might not be a bad idea to finally take a break today though. Maybe I'll do o
 I am going to move the trading stuff to a separate repo. I'll call it the Trading Edge. I am going to move the series outside the Spiral playlist from here on out.
 
 That should be a great icebreaker.
+
+1pm. I keep telling myself not to write anymore emails to Thom until he is ready, but I cannot help myself I'll do it after breakfast.
+
+4:40pm. It's thundering. Let me shut down here for a while.

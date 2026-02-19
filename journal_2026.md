@@ -3185,3 +3185,17 @@ This course swings between brilliant and incredibly tedious. The only bring spot
 Damn it, I'll finish it. This course, and the SMB tape reading course and the Axia Futures ladder course are going to be the only ones I'll focus on.
 
 Taking only a few weeks for all 3 of them is already doing them in record time. As badly as I want to get some exercise, let me persevere with NV's course.
+
+2/19/2026
+
+9:25am. Today I'll finally finish module 1 of this course. It could be realistically cut to a third of its size, but nevermind. Nareev's comparisons of regular and financial markets have been very thought provoking, and opened my eyes to reality.
+
+9:35am. Let me start. It's time to finish module 1.
+
+9:45am. It's going to turn out that spending so much time on courses is an embarassment probably, but damn let me just do it. If the prop firm guys have to spend months going through this, I can do it as well.
+
+![](images/image-2292.png)
+
+Taking so much time on market profile has to be some kind of lunacy. There is no way this can ever give you an edge. The edge has to come from being really fast and reading the tape.
+
+And the benefit of tape reading - yes, for sure, you can detect volume clustering and holds that you couldn't on the chart, but it also doesn't lie like the chart. On the chart extreme values can completely mess up your analysis and mislead you. Every once in a while you get a wild trade outside of the reasonable range that the chart tags on, so what could be a straightforward prcie action seems like extreme mess.

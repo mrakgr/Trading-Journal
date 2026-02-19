@@ -3311,3 +3311,17 @@ The stuff by NV is very interesting philosophy, and should be mandatory for a pr
 I want him to spent his time on things that will give him the most value once he is ready to start.
 
 More important than theory for a pro trader is profitability.
+
+12:30pm. Ok, I am done. I've pretty much exhausted all my desire to watch anymore courses at this point.
+
+I cannot watch the SMB or the Axia course anymore, I'll have to leave them for much later. I need to transition to putting what I've learned to practice.
+
+It's become far too boring for me. Even if might make rational sense to watch for longer, I cannot bear it emotionally.
+
+Hopefully, Thomas can go through the SMB tape reading course and tell me anything that I might have missed. At this point I haven't been doing any programming for 14 days and I want to get back into it.
+
+It might not be a bad idea to finally take a break today though. Maybe I'll do only some light programming.
+
+I am going to move the trading stuff to a separate repo. I'll call it the Trading Edge. I am going to move the series outside the Spiral playlist from here on out.
+
+That should be a great icebreaker.

@@ -3209,3 +3209,11 @@ Him geeking out over this reminds me of how Minervini and O'Neil put charts in t
 ![](images/image-2293.png)
 
 This is consistent with what SMB and Axia are teaching me. It seems that holds developing can cause imbalance. Also going out of value areas can cause imbalance. Holds outside the value area can also cause imbalance.
+
+10:30am. He's worried about this going out in the open, but honestly, he shouldn't be. This is completely useless without a system to execute on this. It's no better than tech analysis.
+
+It's also subsumed by tape reading.
+
+If imbalance = trending and balance = rangebound, the it makes no difference from tech analysis concepts. In fact, he says as much a few videos ago when it compares what he is teaching to retail concepts.
+
+Besides, you now have World Class Edge guys teaching these concepts on Youtube.

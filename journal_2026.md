@@ -3329,3 +3329,24 @@ That should be a great icebreaker.
 1pm. I keep telling myself not to write anymore emails to Thom until he is ready, but I cannot help myself I'll do it after breakfast.
 
 4:40pm. It's thundering. Let me shut down here for a while.
+
+2/20/2026
+
+9:35am. Let me chill a bit and then I will start the screencast.
+
+10:05am. Let me start. I need to break the ice.
+
+2/21/2026
+
+8pm. ![](images/image-2301.png)
+
+Logris talked a little about real world asset tokenization during our meetings.
+
+Surprised that China did a full ban on this.
+
+https://youtu.be/Xhrzm4CmpEo
+Bitcoin Is Crashing and Exchanges Freezing Up
+
+My timing in leaving the company was impeccable (even though I got fired.)
+
+At any rate, I am doing a lot of programming so I haven't felt much need to write in this journal.

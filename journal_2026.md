@@ -3355,3 +3355,6 @@ At any rate, I am doing a lot of programming so I haven't felt much need to writ
 The Truth About Trading Consistency No One Explains
 
 I'll watch this later.
+
+6:40pm. ![](images/image-2302.png)
+> This is the complete oppositve of what you want to be doing.

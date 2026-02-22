@@ -3358,3 +3358,6 @@ I'll watch this later.
 
 6:40pm. ![](images/image-2302.png)
 > This is the complete oppositve of what you want to be doing.
+
+![](images/image-2303.png)
+> Consistency is not what you want. Consistency is what limits upside.

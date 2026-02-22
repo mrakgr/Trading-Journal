@@ -3361,3 +3361,6 @@ I'll watch this later.
 
 ![](images/image-2303.png)
 > Consistency is not what you want. Consistency is what limits upside.
+
+![](images/image-2304.png)
+> New traders can be more consistent.

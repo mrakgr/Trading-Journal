@@ -3350,3 +3350,8 @@ Bitcoin Is Crashing and Exchanges Freezing Up
 My timing in leaving the company was impeccable (even though I got fired.)
 
 At any rate, I am doing a lot of programming so I haven't felt much need to write in this journal.
+
+5:30pm. https://youtu.be/a4iFMZ8PjZE
+The Truth About Trading Consistency No One Explains
+
+I'll watch this later.

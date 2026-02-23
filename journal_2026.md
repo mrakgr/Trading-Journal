@@ -3388,3 +3388,13 @@ When You've Won the Game, Stop Playing | What Great Investors Taught Us About Po
 I've barely even started, but I do wonder how far I should go.
 
 > Strategy to get rich is very different from the strategy to stay rich.
+
+10:10pm. ![](images/image-2306.png)
+
+I need to comment on the video I watched yesterday. The one on trading consistency.
+
+SMB traders are actually way better than this, Bella himself is profitable 80% of all days, and there are traders with 300 day win streaks.
+
+This just proves what Lance said about futures being hard, and Axia Futures is giving me the confirmation in this video.
+
+It just confirms that you are only as good as what you trade. And futures aren't good.

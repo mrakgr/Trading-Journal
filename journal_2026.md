@@ -3378,3 +3378,6 @@ I'll have to do it once every month from here on out.
 Last night I was brainstorming so I didn't rest well at all. I'd rather just skip today session, but I'll try to put in an hour or two.
 
 4:05pm. Let me start. I'll try putting some work in.
+
+7pm. ![](images/image-2305.png)
+> One of the things I teach highly wealthy people is that once you've won the game, you should stop playing.

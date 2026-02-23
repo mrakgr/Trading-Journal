@@ -3381,3 +3381,10 @@ Last night I was brainstorming so I didn't rest well at all. I'd rather just ski
 
 7pm. ![](images/image-2305.png)
 > One of the things I teach highly wealthy people is that once you've won the game, you should stop playing.
+
+https://youtu.be/wAjfbzvYGQk
+When You've Won the Game, Stop Playing | What Great Investors Taught Us About Portfolio and Purpose
+
+I've barely even started, but I do wonder how far I should go.
+
+> Strategy to get rich is very different from the strategy to stay rich.

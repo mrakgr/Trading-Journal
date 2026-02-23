@@ -3328,7 +3328,7 @@ That should be a great icebreaker.
 
 1pm. I keep telling myself not to write anymore emails to Thom until he is ready, but I cannot help myself I'll do it after breakfast.
 
-4:40pm. It's thundering. Let me shut down here for a while.
+4:40pm. It's thundering. Let me shut down here for a while
 
 2/20/2026
 
@@ -3364,3 +3364,17 @@ I'll watch this later.
 
 ![](images/image-2304.png)
 > New traders can be more consistent.
+
+2/23/2026
+
+2pm. I am finally back. I am popped.
+
+Maybe I shouldn't have tried applying for unemployment, it's going to be a huge waste of time. I didn't think I'd have to make an appointment to the office every month. I thought I'd just collect benefits. I have to go there tomorrow at 10:30am too.
+
+I'll have to do it once every month from here on out.
+
+2:10pm. Today, pretty much every manga on the Mangadex feed is out of the list I am really interested in so let me have it.
+
+Last night I was brainstorming so I didn't rest well at all. I'd rather just skip today session, but I'll try to put in an hour or two.
+
+4:05pm. Let me start. I'll try putting some work in.

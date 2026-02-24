@@ -3406,3 +3406,5 @@ It just confirms that you are only as good as what you trade. And futures aren't
 I slept better tonight than yesterday.
 
 2:25pm. Ok, exercises, chores and then I will start programming. Yesterday I was pretty tired so I didn't manage to review the codebase the bot made.
+
+4:20pm. That took a while. Let me start. I've finally relaxed enough. Let me put in a few hours into it.

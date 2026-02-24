@@ -3398,3 +3398,11 @@ SMB traders are actually way better than this, Bella himself is profitable 80% o
 This just proves what Lance said about futures being hard, and Axia Futures is giving me the confirmation in this video.
 
 It just confirms that you are only as good as what you trade. And futures aren't good.
+
+2/24/2026
+
+12:30pm. Done with today's appointment. It wasn't as strenuous as the one yesterday, but let me chill for a while.
+
+I slept better tonight than yesterday.
+
+2:25pm. Ok, exercises, chores and then I will start programming. Yesterday I was pretty tired so I didn't manage to review the codebase the bot made.

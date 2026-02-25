@@ -3427,3 +3427,7 @@ I've been having great programming sessions back to back. Today I got started wi
 So they're also looking for markets in play. They say they're news focused.
 
 > Understanding narrative is massively important.
+
+12:10am. Done with dinner. I'll finish the video tomorrow.
+
+I was just surprised that at some point he mentioned that Axia had a Croatian floor. I might want to look into that later.

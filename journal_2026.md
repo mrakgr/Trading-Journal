@@ -3408,3 +3408,16 @@ I slept better tonight than yesterday.
 2:25pm. Ok, exercises, chores and then I will start programming. Yesterday I was pretty tired so I didn't manage to review the codebase the bot made.
 
 4:20pm. That took a while. Let me start. I've finally relaxed enough. Let me put in a few hours into it.
+
+2/25/2026
+
+10:30pm. https://youtu.be/WyY2vNSgHG4
+How To Choose The Easiest Markets To Trade
+
+![](images/image-2307.png)
+
+He says that NQ is very hard to get a handle on. I didn't know that.
+
+At any rate, I am done catching up to the Tower of God, including Urek Mazino's prequel. How about I just watch this and then go to bed early?
+
+I've been having great programming sessions back to back. Today I got started with modeling holds and tomorrow I'll try out some ideas the bot suggested. I am actually quite enjoying myself.

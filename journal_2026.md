@@ -3425,3 +3425,5 @@ I've been having great programming sessions back to back. Today I got started wi
 ![](images/image-2308.png)
 
 So they're also looking for markets in play. They say they're news focused.
+
+> Understanding narrative is massively important.

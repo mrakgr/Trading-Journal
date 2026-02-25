@@ -3421,3 +3421,7 @@ He says that NQ is very hard to get a handle on. I didn't know that.
 At any rate, I am done catching up to the Tower of God, including Urek Mazino's prequel. How about I just watch this and then go to bed early?
 
 I've been having great programming sessions back to back. Today I got started with modeling holds and tomorrow I'll try out some ideas the bot suggested. I am actually quite enjoying myself.
+
+![](images/image-2308.png)
+
+So they're also looking for markets in play. They say they're news focused.

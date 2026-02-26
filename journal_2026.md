@@ -3452,3 +3452,6 @@ The Only 3 Trades That Mattered In January
 ![](images/image-2309.png)
 > The best market was gold, and I'll explain how we came to that conclussion.
 
+7:20pm. ![](images/image-2310.png)
+
+Oh, so this is how they've come to the conclussion that gold was the way to express the trade.

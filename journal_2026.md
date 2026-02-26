@@ -3431,3 +3431,17 @@ So they're also looking for markets in play. They say they're news focused.
 12:10am. Done with dinner. I'll finish the video tomorrow.
 
 I was just surprised that at some point he mentioned that Axia had a Croatian floor. I might want to look into that later.
+
+2/26/2026
+
+6:20pm. Done for today. Things are going well. I should be able to do something using the current approach.
+
+Once March starts, I'll try getting in touch with Logris and seeing how the corporate grind is treating him.
+
+6:25pm. Things are pretty fun for me at the moment. I just have to keep doing this and I'll find some way of extracting money from the market.
+
+There is no need to hurry. I only to put the steps in every day and I'll get to where I want to go. Who knows maybe it will turn out that daytrading will be too competitive, but I honestly doubt that will be the case.
+
+I said to Logris when we parted that the amount of money I've made is lifechanging and I just have to not do anything stupid if I want to keep it.
+
+Far from stupid, what I am doing now is pretty smart. It's definitely smarter than what I was trying to do in 2007 - 2014.

@@ -3445,3 +3445,10 @@ There is no need to hurry. I only to put the steps in every day and I'll get to 
 I said to Logris when we parted that the amount of money I've made is lifechanging and I just have to not do anything stupid if I want to keep it.
 
 Far from stupid, what I am doing now is pretty smart. It's definitely smarter than what I was trying to do in 2007 - 2014.
+
+7:15pm. https://youtu.be/VCRnwqXJ3gM
+The Only 3 Trades That Mattered In January
+
+![](images/image-2309.png)
+> The best market was gold, and I'll explain how we came to that conclussion.
+

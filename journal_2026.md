@@ -3460,3 +3460,10 @@ Oh, so this is how they've come to the conclussion that gold was the way to expr
 
 2:15pm. https://youtu.be/sSRUr28pelQ
 Why I hate to put money in Europe?
+
+8:40pm. ![](images/image-2311.png)
+
+https://youtu.be/BotPHbWFRUA
+Hawkes Processes for Quant Finance
+
+I'll want to watch some of the videos on jump diffusion.

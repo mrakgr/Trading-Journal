@@ -3455,3 +3455,8 @@ The Only 3 Trades That Mattered In January
 7:20pm. ![](images/image-2310.png)
 
 Oh, so this is how they've come to the conclussion that gold was the way to express the trade.
+
+2/27/2026
+
+2:15pm. https://youtu.be/sSRUr28pelQ
+Why I hate to put money in Europe?

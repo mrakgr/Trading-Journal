@@ -3495,3 +3495,22 @@ I want to take some time to watch Romano's HMM video.
 Anyway, let me move to the next thing.
 
 That being those videos.
+
+1pm. While the music is downloading, let me have breakfast. I got the intro, outro and thumbnails done already.
+
+4:10pm. Done with chores. Let me figure out the descriptions for the 3 videos.
+
+4:45pm. https://youtu.be/LIw3nJFI6Bo
+Quantifying Order Flow (Pt. 4)
+
+Here is the first one. I've written the descriptions for them.
+
+5:10pm. Let's stop here earlier for the day. Tomorrow, I am going to resume. I think I'll start by making better charting tools. I want to see if I can generate (better) tick charts as well as footprint ones.
+
+I really need a library that's easier to use than plotly. We'll see...
+
+At any rate, in the last few days I was introduced to tick charts and I really like them. I want to see how the LW trades appear on it.
+
+The holds that I've generated synthetically are beautiful.
+
+I want to go through various stocks in play and see how they appear on the tick charts. I like how tick markers can be sized by the sqrt of volume.

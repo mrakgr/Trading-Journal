@@ -3467,3 +3467,17 @@ https://youtu.be/BotPHbWFRUA
 Hawkes Processes for Quant Finance
 
 I'll want to watch some of the videos on jump diffusion.
+
+3/2/2026
+
+10:55am. Let me take that long awaited break today so I can write that email to Logris and also put the clips I've recorded so far on Youtube. I'll have to split it into 3 videos most likely.
+
+As for Logris, it's been 6 months, and I am curious whether the company is even alive.
+
+![CETI/USD](images/image-2312.png)
+
+No volume whatsoever. I couldn't have gotten out even if I wanted to.
+
+I'll boot up the Signal app and see whether there are any message left to me before the email.
+
+11am. First comes resting though.

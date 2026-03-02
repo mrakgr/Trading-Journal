@@ -3481,3 +3481,17 @@ No volume whatsoever. I couldn't have gotten out even if I wanted to.
 I'll boot up the Signal app and see whether there are any message left to me before the email.
 
 11am. First comes resting though.
+
+Tomorrow, Thomas should be getting back from his vacation and if he's serious about this, and I think that most likely he will be, he'll want me to send him some courses. I'll have to also give an overview of what I've been up to.
+
+I want to take some time to watch Romano's HMM video.
+
+11:30am. Ok, let me start. Nothing on Signal.
+
+...Yep nothing. Let me send that email.
+
+12:15pm. Wrote that email and sent it. Maybe I'll get a reply, maybe I won't. Everyone has his own life. I don't really expect my path to cross Logris' again, but I'd rather have good relations with him than not.
+
+Anyway, let me move to the next thing.
+
+That being those videos.

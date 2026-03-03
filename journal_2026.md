@@ -3514,3 +3514,15 @@ At any rate, in the last few days I was introduced to tick charts and I really l
 The holds that I've generated synthetically are beautiful.
 
 I want to go through various stocks in play and see how they appear on the tick charts. I like how tick markers can be sized by the sqrt of volume.
+
+3/3/2026
+
+10:55am. Got a reply from Logris. It seems the founders did just sell the machines, take the money and bail with full silence.
+
+The community is exploring their legal options he says.
+
+11am. I have had a good idea during the night. My latest obsession will be to do volume constant charts. I'll try visualizing bars that are exactly n shares in volume. The holds will likely be easier to spot on those.
+
+11:40am. ![virgin vc-backed founder vs chad bootstrapped founder](images/image-2313.png)
+
+Let get started.

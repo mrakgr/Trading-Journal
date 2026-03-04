@@ -3526,3 +3526,21 @@ The community is exploring their legal options he says.
 11:40am. ![virgin vc-backed founder vs chad bootstrapped founder](images/image-2313.png)
 
 Let get started.
+
+3/4/2026
+
+7:05pm. Things are moving. I really struck gold with the [volume charts](https://github.com/mrakgr/Trading-Edge/blob/55b16c573a64649e3847d92e106bb9268f6c5033/scripts/visualization/massive_volume.py). Without a doubt, they are the representation I should be looking into myself and feeding into the NN models.
+
+I considered raw trade data as well of course, but it's too noisy. I have a better way.
+
+All the clues are pointing that this is the right way to trade order flow.
+
+I've gotten the visualization scripts ready, so I'll be able to show it to Thomas without issue when he's settled back in.
+
+Tomorrow I am going to build t-digest visualizations for trade sizes. And after that I am going to resubscribe to Massive and study stocks in play intensely and calibrate my model so it resembles more what I see out there.
+
+Once it's sufficiently calibrated, I'll use it to train the NN models and then use those to trade the actual markets.
+
+7:10pm. It's making me stressed out, which is ironic since victory is getting closer to my grasp.
+
+Let me go play Limbus.

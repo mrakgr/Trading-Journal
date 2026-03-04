@@ -3544,3 +3544,8 @@ Once it's sufficiently calibrated, I'll use it to train the NN models and then u
 7:10pm. It's making me stressed out, which is ironic since victory is getting closer to my grasp.
 
 Let me go play Limbus.
+
+https://youtu.be/b5NZNKdpOlg?t=2010
+Inside AXIA’s 2025: Performance, Culture & Reality
+
+They are talking about Croatian floors in this part of the video. I really might look this up.

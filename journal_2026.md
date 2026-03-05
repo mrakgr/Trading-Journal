@@ -3552,12 +3552,12 @@ They are talking about Croatian floors in this part of the video. I really might
 
 3/5/2026
 
-9:45am. I guess everybody is busy these days. That's all I'll say.
-
-Ok, whatever. I think it's time to start slowly transitioning in phase 2 of my trading. I probably need a break at this point to calm my mind.
+9:45am. I think it's time to start slowly transitioning in phase 2 of my trading. I probably need a break at this point to calm my mind.
 
 But as usual, I'll endeavor to do a little every day.
 
 9:55am. I guess the closer you get to the truth, the more you want to look away.
 
 I should be glad to be making such good progress, and attaining new insights, but it's making me stressed instead. Am I really that afraid of the market? Am I that desirous of offloading my responsibility?
+
+10:25am. Let me start. Enough of my negative mindset. Let's put some work in.

@@ -3561,3 +3561,14 @@ But as usual, I'll endeavor to do a little every day.
 I should be glad to be making such good progress, and attaining new insights, but it's making me stressed instead. Am I really that afraid of the market? Am I that desirous of offloading my responsibility?
 
 10:25am. Let me start. Enough of my negative mindset. Let's put some work in.
+
+3/6/2026
+
+2:25pm. https://youtu.be/MlcwkmSpQaY
+The 5 Levels of Day Trading Competence
+
+I like this video. I have no idea which level I am at to be honest. 2 or 3 maybe? A lot of my behavior 2 decadesa ago was even level 1.
+
+But let's say level 3 since I was not a losing, but a breakeven trader even at my worst.
+
+I feel like I should be able to reach level 4 eventually.

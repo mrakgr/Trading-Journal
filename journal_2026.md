@@ -3572,3 +3572,88 @@ I like this video. I have no idea which level I am at to be honest. 2 or 3 maybe
 But let's say level 3 since I was not a losing, but a breakeven trader even at my worst.
 
 I feel like I should be able to reach level 4 eventually.
+
+4:50pm. https://youtu.be/IljU-iWHNU8
+A-Level Maths: S1-19 Tilting: An Introduction
+
+Crap, just like the time I studied MCMC for a while, this time around I am going to have to study exponential tilting.
+
+
+
+> Yeah, this is a really good idea, far better than my beta distribution one. Well, I suppose I could still use it with a mean of 0.5 and differing scales...
+
+> Ignore that last comment and show me an F# implementation of it. I am fine with just shifting the mean. How could we find the right lamba parameter efficiently given the target mean?
+
+///
+
+The λ search is just a root-finding problem: you want to find λ such that m(λ) - target_mean = 0, where m(λ) is the tilted mean. Since m(λ) is monotonically increasing in λ (more tilt → higher mean), bisection works reliably, and Newton's method converges fast if you also compute the derivative, which is just the tilted variance.
+
+Let me write that up:
+
+```fsharp
+module ExponentialTilt =
+
+    /// Given t-digest centroids (value, weight) and a target mean,
+    /// finds lambda via Newton's method and returns tilted weights.
+    let tiltWeights (centroids: (float * float) array) (targetMean: float) =
+        let values = centroids |> Array.map fst
+        let weights = centroids |> Array.map snd
+
+        // Tilted mean and its derivative (= tilted variance) for a given lambda
+        let tiltedMeanAndVariance lambda =
+            // For numerical stability, subtract max(lambda * v_i) before exp
+            let shifted = values |> Array.map (fun v -> lambda * v)
+            let maxShift = Array.max shifted
+            let unnormalized =
+                Array.map2 (fun w s -> w * exp (s - maxShift)) weights shifted
+            let z = Array.sum unnormalized
+            let tiltedWeights = unnormalized |> Array.map (fun u -> u / z)
+            let mean =
+                Array.map2 (fun tw v -> tw * v) tiltedWeights values |> Array.sum
+            // Derivative of mean w.r.t. lambda is the variance under tilted distribution
+            let variance =
+                Array.map2 (fun tw v -> tw * (v - mean) * (v - mean)) tiltedWeights values
+                |> Array.sum
+            mean, variance
+
+        // Newton's method: solve tiltedMean(lambda) = targetMean
+        let rec newton lambda iter =
+            if iter > 100 then lambda // safety bail
+            else
+                let mean, variance = tiltedMeanAndVariance lambda
+                let error = mean - targetMean
+                if abs error < 1e-10 then lambda
+                // Newton step: lambda -= f(lambda) / f'(lambda)
+                // f = mean - targetMean, f' = variance
+                elif variance < 1e-15 then lambda // degenerate
+                else newton (lambda - error / variance) (iter + 1)
+
+        let lambda = newton 0.0 0
+
+        // Compute final tilted weights
+        let shifted = values |> Array.map (fun v -> lambda * v)
+        let maxShift = Array.max shifted
+        let unnormalized =
+            Array.map2 (fun w s -> w * exp (s - maxShift)) weights shifted
+        let z = Array.sum unnormalized
+        let tiltedWeights = unnormalized |> Array.map (fun u -> u / z)
+
+        lambda, tiltedWeights
+
+    /// Sample from tilted distribution using inverse CDF on the discrete centroids
+    let sample (values: float array) (tiltedWeights: float array) (u: float) =
+        let mutable cumulative = 0.0
+        let mutable i = 0
+        while i < tiltedWeights.Length - 1 && cumulative + tiltedWeights.[i] < u do
+            cumulative <- cumulative + tiltedWeights.[i]
+            i <- i + 1
+        values.[i]
+```
+
+A few things worth noting. The `maxShift` subtraction is important — without it, when λ is large and your values span orders of magnitude (which they do with trade sizes), you'll get inf/inf from the exponentials. Subtracting the max cancels out in the normalization and keeps everything in a reasonable range.
+
+Newton's method converges very fast here because m(λ) is smooth and its derivative is the tilted variance, which is always positive (so the function is strictly monotone). In practice you'll hit convergence in 5-10 iterations. Starting from λ = 0 (the original distribution) is natural since you're asking "how much do I need to tilt from where I am?"
+
+If you ever hit a case where Newton oscillates (unlikely but possible with extreme target means near the boundary of the support), you could fall back to bisection — just bracket λ between some negative and positive bound and halve the interval.
+
+///

@@ -3669,3 +3669,13 @@ This part of the journey that I am on currently will be hard, and has a decent c
 Right now I might be leaning too much into generalizing the price action which will be difficult. Instead of doing that, I should create various different variations of a setup and use that to train the NN.
 
 It's a fool's erand to try to fit the market into a simplistic model. Still, I want to see what the nested ATM model results in.
+
+10:20am. As an aside, here is some tragedy.
+
+https://www.reddit.com/r/CryptoScams/comments/1pilyjj/the_multi_million_ceti_scam_by_an_active_reddit/
+
+It's the company I worked at previously. The founders scammed the investors and ran off with the money, literally just closed the shop and left. It's likely Logris does not have anything to do with with the theft, much like myself he is being used as cover by the founders for their betrayal.
+
+Honestly, I don't understand Logris, I feel like our relationship should be better than it is, and I have no idea why it isn't. I got a reply to my first email and got ghosted on the second.
+
+I guess we probably won't cross paths again.

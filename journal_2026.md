@@ -3679,3 +3679,5 @@ It's the company I worked at previously. The founders scammed the investors and 
 Honestly, I don't understand Logris, I feel like our relationship should be better than it is, and I have no idea why it isn't. I got a reply to my first email and got ghosted on the second.
 
 I guess we probably won't cross paths again.
+
+10:45am. In that thread he is making the same mistake of being defensive as I did in my last week. If you reveal your vulnerable side, people who do not like you will inevitably try to take advantage of it.

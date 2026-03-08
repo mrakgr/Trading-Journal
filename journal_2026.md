@@ -3657,3 +3657,15 @@ Newton's method converges very fast here because m(λ) is smooth and its derivat
 If you ever hit a case where Newton oscillates (unlikely but possible with extreme target means near the boundary of the support), you could fall back to bisection — just bracket λ between some negative and positive bound and halve the interval.
 
 ///
+
+3/8/2026
+
+10:10am. ![](images/image-2314.png)
+
+Paid work would be easier than what I am doing now, but I'll resist that desire to focus on the job at hand.
+
+This part of the journey that I am on currently will be hard, and has a decent chance of failure, but if I can get past it, the rewards will be great.
+
+Right now I might be leaning too much into generalizing the price action which will be difficult. Instead of doing that, I should create various different variations of a setup and use that to train the NN.
+
+It's a fool's erand to try to fit the market into a simplistic model. Still, I want to see what the nested ATM model results in.

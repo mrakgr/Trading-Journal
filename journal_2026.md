@@ -3689,3 +3689,14 @@ I want to find better people to surround myself with who have shared interests.
 10:50am. I won't be able to move on unless I master the markets. So let's get on with that.
 
 I've been letting the bot do too much work on its own. I feel like I should dive in and do some design myself.
+
+7:10pm. https://youtu.be/Zu4sL5u-WyU
+STOP Sampling EVERY CANDLE (The Quant Process 03)
+
+I am tired, I'll watch this later.
+
+I wanted to do more coding today, but my mom nabbed me to help them around the house. I am pretty stressed. I really want to see how the nested ATM model will perform.
+
+This heavy feeling reminds me of my work on Spiral.
+
+Hope I manage to clear some this hurdle before Thomas asks me for a chat. I'd like to demo him the latest and greatest.

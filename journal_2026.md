@@ -3681,3 +3681,11 @@ Honestly, I don't understand Logris, I feel like our relationship should be bett
 I guess we probably won't cross paths again.
 
 10:45am. In that thread he is making the same mistake of being defensive as I did in my last week. If you reveal your vulnerable side, people who do not like you will inevitably try to take advantage of it.
+
+Well, this won't the first relationship that was broken in my life. I had friends I never heard from again. A lot of the times that was due to myself.
+
+I want to find better people to surround myself with who have shared interests.
+
+10:50am. I won't be able to move on unless I master the markets. So let's get on with that.
+
+I've been letting the bot do too much work on its own. I feel like I should dive in and do some design myself.

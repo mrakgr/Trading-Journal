@@ -3700,3 +3700,82 @@ I wanted to do more coding today, but my mom nabbed me to help them around the h
 This heavy feeling reminds me of my work on Spiral.
 
 Hope I manage to clear some this hurdle before Thomas asks me for a chat. I'd like to demo him the latest and greatest.
+
+7:40pm. https://news.ycombinator.com/item?id=47303111
+
+///
+
+A stock market daytrading system, I am live coding it on my Youtube channel: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Opus has been amazingly useful at answering various statistics question that I had for it, and my current idea is a nested auction market theory inspired model. My biggest discovery is that replacing time with volume on the x axis (on a chart) and putting the bar duration on the bottom panel instead of volume normalize the price movements and makes some of the profitable setups I've seen described in tape reading/price ladder trading courses actually visible on naked charts. A great insight I've gleamed is that variance should be proportional to volume instead of time or trade count. When plotted, it has the effect of expanding high volume areas, and compressing low volatility ones, which exposes trending price action much more readily. It honestly amazing, it's making me think that I could actually win at the trading game.
+
+///
+
+I left this comment in that thread.
+
+3/10/2026
+
+7:50pm. Finally done with the nested Auction Target Model system. Unfortunately, I realized too late that changing targets on top level episode changes is a really poor idea. It's leading to large breakouts during midday just as trading activity is dying down. Clearly not how the targets should be distributed throughout the day. I'd be better off with a static target throughout the entire day.
+
+Unfortunately, it also means that my architectures is broken now.
+
+I've designed it with the intention that every Morning to Mid to Close session should transition the intermediate term targets, and I am not sure how I'd bake in the volume patterns without that.
+
+https://www.reddit.com/r/algotrading/comments/1rq187e/how_pr_wires_move_small_caps_before_anyone_else/
+
+There is interesting research here.
+
+///
+
+Been digging into press release-driven moves on small caps lately and wanted to share some observations.
+
+Most people get their news from Yahoo Finance, Benzinga, Google, RSS feeds, whatever. But none of those are the actual source. The source is the PR wire — Business Wire, PR Newswire, GlobeNewswire, ACCESSWIRE. When a company has something material to announce, it goes to the wire first. Everything else is just republishing it on a delay.
+
+The issue is that delay matters a lot more than people realize, especially on small caps.
+
+I've been logging timestamps on these moves. The pattern is pretty consistent:
+
+Wire publishes the release. Price starts moving immediately.
+
+2-5 minutes later, free news sources pick it up. Stock is already up 40-80%.
+
+15-30 minutes later, articles get written about the move. It's either peaked or fading.
+
+An hour or two later, someone on Reddit asks "why did XYZ run?"
+
+A few recent ones:
+
+PRSO — March 6. ACCESSWIRE dropped a release about their mmWave tech getting picked for military drone ID systems. Was sitting at 0.81 when it hit the wire, ran to 2.07. By the time it showed up on free sources, most of that move was already in.
+
+ABUS — March 3. Business Wire published a 2.25B settlement. Stock was 4.75 at wire time, hit $8.35. The settlement was worth ~8x the company's market cap, so the math was obvious to anyone who saw it early.
+
+GXAI — March 5. GlobeNewswire, Navy counter-UAS drone license. 1.19 to 2.51. Same story.
+
+I've tested the latency on different sources and it's roughly:
+
+Direct wire: under a second
+
+Benzinga API: usually pretty fast but inconsistent
+
+Free RSS feeds from the wire services: couple minutes
+
+Yahoo/Google Finance: anywhere from 3-10 min
+
+For large caps this doesn't really matter. AAPL isn't doubling on a press release. But for a $50-200M market cap company announcing a contract worth half their valuation, those first couple minutes are where the entire move happens.
+
+Institutional desks pay $10-50K/month for direct wire feeds and trade on them programmatically, so they are able to get in these moves at the very bottom.
+
+Not saying every press release is worth trading. Most aren't. But the ones that do move stocks — contract wins, FDA results, big settlements — they all start at the wire.
+
+Curious if anyone else here trades on news catalysts?
+
+///
+
+11pm. https://www.youtube.com/watch?v=neJfDXAMQ9s
+The Next Era of Futures Trading Is Here
+
+> From the end of the Asian session through Europe and into the US open, the European screen-based trader has operated in one of the most demanding environments in the history of speculation. Speed, stamina, and reaction time separated the winners from the rest.
+> But the landscape is shifting again.
+> In this conversation, Alex and Peter explore what AI, co-pilots, and intelligent agents mean for the future of DOM trading, and why the next great trader may look very different from the last.
+ 
+They are basically saying the future winning traders are going be more like me. I sure hope so. I better live up to the expectations.

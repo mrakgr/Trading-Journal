@@ -3779,3 +3779,11 @@ The Next Era of Futures Trading Is Here
 > In this conversation, Alex and Peter explore what AI, co-pilots, and intelligent agents mean for the future of DOM trading, and why the next great trader may look very different from the last.
  
 They are basically saying the future winning traders are going be more like me. I sure hope so. I better live up to the expectations.
+
+3/11/2026
+
+6:30pm. Shit, I keep going down the wrong paths, so I had to take today to just think about it. It turns out my original model was closer to being right, but I missed the insight that the individual moves I should be measuring in terms of volume rather than time.
+
+It's ironic that the time that I work the hardest, I make the least amount of progress. Oh well, I am going to get back on track soon and finish this system.
+
+Then I am going to start emulating various market moves and training the system on those. That will actually be profitable.

@@ -3782,8 +3782,18 @@ They are basically saying the future winning traders are going be more like me. 
 
 3/11/2026
 
-6:30pm. Shit, I keep going down the wrong paths, so I had to take today to just think about it. It turns out my original model was closer to being right, but I missed the insight that the individual moves I should be measuring in terms of volume rather than time.
+6:30pm. Shit, I keep going down the wrong paths, so I had to take today to just think about it. It turns out my original model was closer to being right, but I missed the insight that the individual moves I should be measuring in terms of volume rather than time. Their duration has to be specified in units of shares trader rather than seconds.
 
 It's ironic that the time that I work the hardest, I make the least amount of progress. Oh well, I am going to get back on track soon and finish this system.
 
 Then I am going to start emulating various market moves and training the system on those. That will actually be profitable.
+
+6:45pm. Sigh, I need a break. It feels like I've gone haywire over the last few days. Thankfully, I am working for myself so there is no danger of being fired due to going on tilt.
+
+It sucks. When I use time durations, sometimes the big moves don't get exhausted properly and when the episode shifts to a consolidation you get a big move in price on no volume. It's unrealistic trash.
+
+I've been expecting to make a demo to Thom these past few days and that hasn't happened. I've sent an email to my orthoped because my arm is hurting when I lift it to the side, and I am getting ghosted.
+
+On the plus side, I am not really dependent on Thom to get anything done. Trader pals and prop firms might improve my trading for the better, but they won't affect the final destination.
+
+I've learned so much. I just have to backtrack a bit and go down the proper path instead. Then I will create the system and will be able to move on to studying gap trades.

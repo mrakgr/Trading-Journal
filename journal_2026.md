@@ -3833,3 +3833,7 @@ I don't know, would I myself like to associate with a person who things that, ha
 6:05pm. ![](images/image-2315.png)
 
 I'll never trust anything on the right ever again.
+
+7:55pm. https://www.reddit.com/r/stocks/comments/1rqkaw7/what_happens_to_the_flow_of_oil_if_trump_declares/
+
+Fascinating thread.

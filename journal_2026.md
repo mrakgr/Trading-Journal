@@ -3797,3 +3797,21 @@ I've been expecting to make a demo to Thom these past few days and that hasn't h
 On the plus side, I am not really dependent on Thom to get anything done. Trader pals and prop firms might improve my trading for the better, but they won't affect the final destination.
 
 I've learned so much. I just have to backtrack a bit and go down the proper path instead. Then I will create the system and will be able to move on to studying gap trades.
+
+3/13/2026
+
+9:15am. I am up. Yesterday I went to bed in a timely manner and slept well during the night, but in the morning I had a nightmare and woke up early. I think it's due to stress.
+
+But well, stress isn't bad. It's motivating.
+
+Sigh, I admit, when it comes to Thom, I'd like to have seen questions coming from him starting this month since he had come back from his vacation. I also promised to send him learning material, those courses I downloaded a while ago, but he didn't say a peep about it. And the email I sent him a few days ago hasn't been replied to. This indicates a lack of seriousness towards trading from him. He's not going to make it like this.
+
+I am going to find a prop firm to join once I am ready, and that will cure my loneliness. Thom has his own life outside of trading, but my current goal is my all.
+
+Today is a special day. Yesterday I finished the ATM combinators and today I am going to model the downtrend day. That should be interesting.
+
+And once I am done with that, I am going to get more data and start modeling gap up trades.
+
+Once I've done that to a sufficient degree I will be able to start making money using these models. Maybe it won't take a full year. Being able to achieve profitability in less than 6 months would definitely be a record time.
+
+But it is doable for me. While I am not much of a trader, I am an apex programmer. It's ridiculous that I had to hobble along this far witout achieving anything, but that is going to change.

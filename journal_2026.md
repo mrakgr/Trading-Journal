@@ -3578,8 +3578,6 @@ A-Level Maths: S1-19 Tilting: An Introduction
 
 Crap, just like the time I studied MCMC for a while, this time around I am going to have to study exponential tilting.
 
-
-
 > Yeah, this is a really good idea, far better than my beta distribution one. Well, I suppose I could still use it with a mean of 0.5 and differing scales...
 
 > Ignore that last comment and show me an F# implementation of it. I am fine with just shifting the mean. How could we find the right lamba parameter efficiently given the target mean?
@@ -3815,3 +3813,19 @@ And once I am done with that, I am going to get more data and start modeling gap
 Once I've done that to a sufficient degree I will be able to start making money using these models. Maybe it won't take a full year. Being able to achieve profitability in less than 6 months would definitely be a record time.
 
 But it is doable for me. While I am not much of a trader, I am an apex programmer. It's ridiculous that I had to hobble along this far witout achieving anything, but that is going to change.
+
+5:30pm. I'll stop 'early' for the day here. I am pretty tired in fact.
+
+But this latest redesign is going very well in fact. I love it.
+
+I am going to come up with a kickass system starting from here.
+
+Tomorrow, I'll stop so I can publish the video material accumulated thus far and publish it on Youtube. Then after that I'll probably subscribe to Massive again and start modeling real world patterns. I am most interested in gap and go trades, but I'll let the market tell me what to do. Whichever patterns are the most effective, I'll bias the system towards.
+
+It's funny, I really hope Thom didn't decide to ghost me because of that unhinged email about freedom. 
+
+"Slaves don't trade, slaves are traded."
+
+I was actually quoting Brett Steenbarger, but I did pretty much say that everybody who doesn't trade is a slave.
+
+I don't know, would I myself like to associate with a person who things that, haha?

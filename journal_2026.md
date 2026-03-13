@@ -3829,3 +3829,7 @@ It's funny, I really hope Thom didn't decide to ghost me because of that unhinge
 I was actually quoting Brett Steenbarger, but I did pretty much say that everybody who doesn't trade is a slave.
 
 I don't know, would I myself like to associate with a person who things that, haha?
+
+6:05pm. ![](images/image-2315.png)
+
+I'll never trust anything on the right ever again.

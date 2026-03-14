@@ -3837,3 +3837,25 @@ I'll never trust anything on the right ever again.
 7:55pm. https://www.reddit.com/r/stocks/comments/1rqkaw7/what_happens_to_the_flow_of_oil_if_trump_declares/
 
 Fascinating thread.
+
+3/14/2026
+
+9:40am. Today I'll take a break to publish the material on Youtube.
+
+From here on out, I will be doing what could be considered real modeling. We'll be going to the next stage. Well, I say 'we', but right now it does feel it's still just me.
+
+I need to see what's going on with Thomas.
+
+Honestly, this is the expected way things should go. Most people would give up on trading once they start. It's a pity.
+
+9:50am. Yeah, it's hard. Despite all the work that I did, this was only enough for me to become acclimated with the bare essentials. It's only from here that I will be building the proper edge.
+
+And yet, despite it all, it feels like I've been making extreme progress.
+
+It's really been happening very quickly thanks to Opus, and my own accumulated skills.
+
+The combinator ATM architecture that I've invented wouldn't be possible without the latter and without the former I'd have a harder time figuring out a lot of the statistics concepts.
+
+It's really possible that this will work and get me my millions. After that who knows. Maybe I'll take some time to write Simulacrum while trading on the side.
+
+I can't imagine that I'll just be going full tilt all the time even as a full time trader.

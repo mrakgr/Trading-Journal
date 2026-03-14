@@ -3937,3 +3937,17 @@ Let's see is the second youtube video up?
 I'll just take it easy. Then after that is done I am getting the Massive subscription and going ham with it. I am going to study the shit out of the stocks in play using the volume charts. I want to see how often holds appear and whether they work well.
 
 Then it's modeling time. I am going to draw out the full power of pattern combinators.
+
+5:05pm. ![](images/image-2316.png)
+
+https://youtu.be/V-ASQFpDL0g
+The Missing Piece That Made Trading 5x Easier
+
+This video in on team trading, which is starting to become my desire. After I do more work on pattern combinators and the stocks in play reviews, I am definitely look for places to join.
+
+https://youtu.be/KeGZ7SoAc_k
+Fix Your Trading Mindset the Way Top Firms Do 
+
+This particular video by Lance is timely, and I even emailed it to Thom.
+
+I really hope something bad hasn't happened to him. Well, let me watch this for a bit.

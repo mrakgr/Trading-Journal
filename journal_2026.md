@@ -3951,3 +3951,8 @@ Fix Your Trading Mindset the Way Top Firms Do
 This particular video by Lance is timely, and I even emailed it to Thom.
 
 I really hope something bad hasn't happened to him. Well, let me watch this for a bit.
+
+https://youtu.be/V-ASQFpDL0g?t=1268
+> If you don't have a process for grading setups it's going to be very difficult.
+
+He's talking on about his experiences on 2-man pods.

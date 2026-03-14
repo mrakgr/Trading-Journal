@@ -3956,3 +3956,5 @@ https://youtu.be/V-ASQFpDL0g?t=1268
 > If you don't have a process for grading setups it's going to be very difficult.
 
 He's talking on about his experiences on 2-man pods.
+
+They are saying that it's important to align the playbooks.

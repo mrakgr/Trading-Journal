@@ -3964,3 +3964,8 @@ https://youtu.be/V-ASQFpDL0g?t=3208
 
 https://youtu.be/V-ASQFpDL0g?t=3562
 > If you're worried about losing the edge by sharing, you have no idea of the edge you're going to gain.
+
+https://youtu.be/V-ASQFpDL0g?t=3876
+> All good teams have a pretty high level of constant communication.
+
+Logris and Curtis should take note.

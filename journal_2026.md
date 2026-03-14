@@ -3958,3 +3958,9 @@ https://youtu.be/V-ASQFpDL0g?t=1268
 He's talking on about his experiences on 2-man pods.
 
 They are saying that it's important to align the playbooks.
+
+https://youtu.be/V-ASQFpDL0g?t=3208
+> You always get somebody who is super technologically inclined.
+
+https://youtu.be/V-ASQFpDL0g?t=3562
+> If you're worried about losing the edge by sharing, you have no idea of the edge you're going to gain.

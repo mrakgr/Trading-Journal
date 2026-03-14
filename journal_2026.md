@@ -3859,3 +3859,81 @@ The combinator ATM architecture that I've invented wouldn't be possible without 
 It's really possible that this will work and get me my millions. After that who knows. Maybe I'll take some time to write Simulacrum while trading on the side.
 
 I can't imagine that I'll just be going full tilt all the time even as a full time trader.
+
+10:35am. Ok, let's start with the videos. Enough chilling.
+
+11:20am. It's rendering. 10h in 2 seperate videos.
+
+Let me write the descriptions for them.
+
+///
+
+The first half of March saw two noteworthy developments.
+
+It was almost an afterthought, and we weren't thinking much when initially creating the visualization script, but when we saw the volume-based charts, we were blown away how it actually clearly showed the holds and similar setups that would otherwise require tape reading. The principle behind them is simple. Regular time-based charts have the price on the y axis, the time on the x axis and volume on the bottom panel.
+
+Instead, what we did was put price on the y axis, volume on the x axis and the time on the bottom panel. We did so by grouping the individual trades into fixed blocks such as 10,000 shares each and plotting a line though their volume weighted average prices. For the bar lows and highs, we used 2 standard deviations from the bar's VWAP.
+
+To our surprise it normalized the price action, made the key levels and large block trades clear and showed fairly clear moves devoid of the noise inherent in price action charts. After experiencing this, we cannot look at charts the same way again and we have truly ascended to the next stage.
+
+We're going to be using these features for NN training in the future as they are so superior to time-based ones.
+
+The second development flows from the above. We're starting to actually understand the importance of volume, and how it subsumes time.
+
+Our current theory is that the most important pro trading skill is learning to operate in volume space rather than time space, and we're pivoting to basing our modeling assumptions on that.
+
+The volume-based charts are easy to read, but the tricky part is the speed. Some bars can last 0.2 seconds, and other dozens, and we're not interested in developing our reflexes when the machines can do this for us.
+
+Besides the above, we've gone through most of the modeling basics by now and are starting to bring our functional programming skills to bear on the problem. We're starting work on representing patterns as combinators. The combinator architecture for the Trading Edge library will make it much easier to model real world price action and develop the trading system.
+
+///
+
+///
+
+Before realizing that we need to take the combinator approach, we've been trying out a nested Auction Target Model approach using variance redistribution, but it wasn't working well, so we ditched it.
+
+The author didn't put enough thought into how nesting should be done and ended up wasting a few days on that before realizing pattern combinators are the way to go.
+
+The aim in the following sessions will be to get the data of last month's stocks in play and model their order flow activity using pattern combinators. Once we do that, we will be able to train a NN on the pattern combinator data, iterate the process and improve the model.
+
+There is no need why we couldn't trade successfully using this approach and we aim to prove it in this series.
+
+We will show you the true power of functional programming. The main reason we failed at poker is because we were obsessed about achieving AI breakthroughs, but in this series, we'll do proper work without going over the line.
+
+There is nothing difficult in what we're doing now, and anyone can learn it with patience and effort.
+
+Life is hard, but it doesn't have to be.
+
+One step at a time, we will attain our freedom.
+
+Our first million is waiting for us to come and get it.
+
+Playtime is over.
+
+///
+
+Yeah, seems good.
+
+Here is the music:
+
+【作業用BGM】Epic Background Music 戦闘BGM/Battle Rock『Umbraxiom』: https://youtu.be/m_nDaqTnAvw
+Epic Metal Instrumentals Power for Motivation🔥No.141: https://youtu.be/ZT3Jt0oir0w
+Epic Metal Instrumentals Power for Motivation🔥No.142: https://youtu.be/Hdu4cQetNpE
+Epic Metal Instrumentals Power for Motivation🔥No.143: https://youtu.be/L8hnpG_-JlY
+Epic Metal Instrumentals Power for Motivation🔥No.144: https://youtu.be/fyQXSkwroOA
+Epic Metal Instrumentals Power for Motivation🔥No.145: https://youtu.be/xMU4bH5_Ebc
+Epic Metal Instrumentals Power for Motivation🔥No.146: https://youtu.be/9WO2-XpcH3w
+
+12:50pm. Sent Thom a gentle wake-up email because he hasn't been engaging enough.
+
+I am not going to be sending progress reports every week or two to somebody who isn't interested in trading, of course that doesn't affect my personal relationship with him. If he's not interested in trading and wants to do something else, that is fine and I'd prefer he do that if that's the case.
+
+I want to create a trading pod and there will be skill requirements to be a member of it.
+
+Let's see is the second youtube video up?
+
+4:45pm. Ok, I guess that's it for today. Tomorrow I am going to play more with simulated patterns. I want to try doing trend days using breakout style moves.
+
+I'll just take it easy. Then after that is done I am getting the Massive subscription and going ham with it. I am going to study the shit out of the stocks in play using the volume charts. I want to see how often holds appear and whether they work well.
+
+Then it's modeling time. I am going to draw out the full power of pattern combinators.

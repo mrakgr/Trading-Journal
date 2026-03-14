@@ -3969,3 +3969,29 @@ https://youtu.be/V-ASQFpDL0g?t=3876
 > All good teams have a pretty high level of constant communication.
 
 Logris and Curtis should take note.
+
+9pm. I am going to bed here. I couldn't even imagine playing games like before. I am so into this now.
+
+Even if I had to pay for SMB Inside Access, I want to find a place.
+
+Of course before that I need to finish my self-guided apprenticeship. The sooner I do that, the sooner I will attain my independence, the thing I had very briefly when I believed in Tao Ceti and hadn't known that it would become a steaming pile of shit.
+
+I dislike how Logris in the Redit posts was taking all the credit for himself when it comes to doing the work, as if I wasn't pulling in massive hours during my time at the company. Even Curtis did work even though he did the best to hide it from me. If he's that sort of person, it really casts doubt on his 40% per year performance claims. During our time at the company he had a thesis that ETH would go up due to the treasury companies buying it, and now he's averaging down like a loser. I wonder what his thesis is currently?
+
+Generally when the market goes against your thesis you change your mind.
+
+Sigh, he probably lost his entire salary from Ceti in that crypto hack he mentioned. I went through the last 6 months of his posting history and found that out.
+
+...
+
+Sigh...
+
+The sooner I find my place, the better.
+
+Tomorrow, I'll take another step to find it.
+
+I think it should take me another 3 months before I firmly establish my foundation as a trader. I could be wrong, and the petrol station project might be a good back up plan if I cannot meet my goals, but I'll know for sure once I do my studies of volume based charts.
+
+Maybe in as much as a month I will be able to determine whether I'll be able to make it as a trader.
+
+If I could build my edge, I could eat for a lifetime. 

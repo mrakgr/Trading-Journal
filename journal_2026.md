@@ -3995,3 +3995,9 @@ I think it should take me another 3 months before I firmly establish my foundati
 Maybe in as much as a month I will be able to determine whether I'll be able to make it as a trader.
 
 If I could build my edge, I could eat for a lifetime. 
+
+3/15/2026
+
+9:05am. Today I am going to knock it out of the park.
+
+9:20am. Let me start for today. I am eager to get going.

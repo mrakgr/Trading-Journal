@@ -4021,3 +4021,9 @@ Either I will be able to keep improving and attain profitability or I won't.
 Sigh, I wish I could just take a break today, but I can't. I have nothing else better to do. I am in full on research mode.
 
 Let me go do my chores and exercises.
+
+6:50pm. Today's session was great. My conjectures around order flow trading are proving true! High volume breakouts that seem impossibly fast on the candlestick chart, have a regular pattern on the volume chart. I am going to create a breakout system around this insight, but before that I'll go through what I have of Lance's Magnus Opus course and study his reversal trades. I also want to study that big short squeeze trade. The one which went form 20 to 500 in the span of 2 minutes. I want to see how it looked like on a volume chart.
+
+> Holy shit. Back in December 2023, ZJYL squeezed from 20 to 500 in the span of minutes. For me that'd be instant death.
+
+So that's what it was called.

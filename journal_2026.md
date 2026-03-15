@@ -4001,3 +4001,23 @@ If I could build my edge, I could eat for a lifetime.
 9:05am. Today I am going to knock it out of the park.
 
 9:20am. Let me start for today. I am eager to get going.
+
+1:35pm. Done with breakfast and phase 1 of my trading journey.
+
+During today's morning session I figure out what the ideal way of modeling trends is. Wide and long moves with retargeting pattern combinators.
+
+Yesterday I was playing with different kinds of moves and it wasn't quite right, but now I am nailed it. I have everything, pattern combinators and a good starting model for a downtrend day.
+
+I won't lie, my nerves are frayed because I both have to tackle the primary challenge of modeling real world price action. And also, I am starting to to suspect I lost Thom. We're supposed to have a chat 10 days ago, but I haven't heard from him in a while despite sending him a few emails inbetween.
+
+It's like the situation with Curtis used to be. I have no idea what the reason for this is because empty silence is poor feedback.
+
+Truly, I am so weak. Trading bore a hole in my heart 1.5 decades ago that hasn't healed. If only I could build up some supports that would go a long way in strengthening my heart.
+
+I need to do it. I need to tackle the challenge otherwise I will never get rid of this feeling of insecurity. It's either hell or heaven from here on out.
+
+Either I will be able to keep improving and attain profitability or I won't.
+
+Sigh, I wish I could just take a break today, but I can't. I have nothing else better to do. I am in full on research mode.
+
+Let me go do my chores and exercises.

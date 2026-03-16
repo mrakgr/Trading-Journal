@@ -4027,3 +4027,32 @@ Let me go do my chores and exercises.
 > Holy shit. Back in December 2023, ZJYL squeezed from 20 to 500 in the span of minutes. For me that'd be instant death.
 
 So that's what it was called.
+
+3/16/2026
+
+7:30am. Whoa, I thought I was in bed for a while, but I am up fucking early.
+
+Let me show you two charts.
+
+![NBIS](images/image-2317.png)
+![NBIS](images/image-2318.png)
+
+I said to myself before I began these studies that if the high volume breakouts on the time-based charts show trending action on the volume-based charts that I am going to make so much money. And that is proving to be true!
+
+I am also seeing good breakout setups on other kinds of charts.
+
+The gap I couldn't cross 1.5 decades ago is being crossed now. I am currently traveling the bridge towards profitability.
+
+My survival is at stake here.
+
+I have zero reason to be mad at Thomas for not engaging with this. If he cannot see the value in what I am showing him, then he can try out other strategies and come to his own conclussions.
+
+I myself am in need of a mindset change as well. I am crossing one bridge, so I might as well burn the others.
+
+The Implico job is just a burden on me. If trading fails, it's not like I won't be able to find another by myself. So it's not like I am reliant on this. In fact, it would be better if it didn't happen, as right now it's just a blade hanging over my trading journey.
+
+If I had to pick between a well paid job now and trading, it would be a hard choice to make. I'd better off forgetting about those choices lest I make a mistake.
+
+Forget that job. It's a source of emotional vulnerability. Once I quantify these breakouts setups, I will achieve profitability and doors will open to places which have competent people in them. I'll be able to move on from Tao Ceti for good.
+
+The best part is, I won't even need to be around other traders to be good. I'll have my own power to sustain me either way.

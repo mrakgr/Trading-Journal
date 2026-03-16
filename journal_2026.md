@@ -4105,3 +4105,9 @@ If I had trading skills, what would I need SMB or Axia for?
 Rhethorical questions aside I think though it would still be more fun to do trading as a team than in isolation. I need to liven up my life a little.
 
 By now I think I've put hundreds of hours into trading already. I know what my edge will be and I just need to do the last stretch before I can play in sim mode for a month. Then I will do the 100 trades in 2 months challenge that SMB set out as their requirement for joining their desk.
+
+6:20pm. It's a good litmus test for whether I am working too much by whether I have time to game after the work is done.
+
+Maybe once I normalize my mental state, I'll stop wanting to join a trading firm so much.
+
+Right now I am going to try and get back into Pathfinder Wotr.

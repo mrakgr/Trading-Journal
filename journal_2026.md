@@ -4063,3 +4063,9 @@ The best part is, I won't even need to be around other traders to be good. I'll 
 ![ZJYL](images/image-2320.png)
 
 Conclussion - the squeeze was after hours, the reason it looked so weird on Lance's chart is probably because his chart was merging gaps even though it really shouldn't have been doing so on intraday timeframes. It basically has had only a single hour of trading during the day, and the squeeze happens many hours later after the close instead of it happening suddenly during the middle of it. I didn't realize that by looking at Lance's chart because of the gap removal.
+
+12pm. Breakfast time.
+
+Lance's course is a stock in play course, not a news course or a reversal play course. When I tried looking for reversal trades to review I actually had trouble finding them. In the end, I could only find 1 proper V bottom reversal on one penny stock, but the vast majority of setups weren't like that.
+
+Sorry Lance, I completely misjudged your course. I have no idea how that happened.

@@ -4093,3 +4093,15 @@ Either what I am doing now is right and I will be profitable, or profitable trad
 I am always insecure thinking: "What if this isn't enough? I need to work harder."
 
 I don't trust myself to work consistently, so I'd rather go over the limit than under it, but it's time to leave that aside and aim for consistency. My hands are starting to hurt anyway.
+
+2:25pm. Let me take a nap here. I'll aim towards doing a single session per day and I already did one today. I'll lower the pace and then ramp it up.
+
+I don't want to play games, read or watch anything. I should just chill in bed and let my thoughts wonder.
+
+Here is some food for thought. I want to be around competent people to resolve my insecurities, but it seems those insecurities are what is pushing other people away. If I didn't have the insecurities to begin with what would I need other people for?
+
+If I had trading skills, what would I need SMB or Axia for?
+
+Rhethorical questions aside I think though it would still be more fun to do trading as a team than in isolation. I need to liven up my life a little.
+
+By now I think I've put hundreds of hours into trading already. I know what my edge will be and I just need to do the last stretch before I can play in sim mode for a month. Then I will do the 100 trades in 2 months challenge that SMB set out as their requirement for joining their desk.

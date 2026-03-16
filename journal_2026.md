@@ -4069,3 +4069,27 @@ Conclussion - the squeeze was after hours, the reason it looked so weird on Lanc
 Lance's course is a stock in play course, not a news course or a reversal play course. When I tried looking for reversal trades to review I actually had trouble finding them. In the end, I could only find 1 proper V bottom reversal on one penny stock, but the vast majority of setups weren't like that.
 
 Sorry Lance, I completely misjudged your course. I have no idea how that happened.
+
+12:45pm. I have determined my next goal.
+
+100 of examples of stocks in play. I'll select the ones I want to base my models on and use them for backtesting.
+
+Easy mission.
+
+It's so simple, all I have to do is that and I will have a profitable system.
+
+The thing, right now I am pretty mentally exhausted. Last night I went to bed at 8pm, could't fall asleep for hours, and today I even got up early.
+
+I think I really do need to take a few days off to chill. At least today and maybe tomorrow.
+
+It's really undeniable, replacing time with volume has an edge to it when combined with other stocks in play concepts will make me profitable. And I have the programming skills to automate most of that system. The only thing I myself will do is come an hour before the open and create a list of stocks to be traded during the day.
+
+I need a break, and then I should just dig in. I'm so stressed that I've started talking to myself out of earshot of other people, though my mom spotted me so I am not doing that far out enough.
+
+Focus needs a limit. Right now I am over it.
+
+Either what I am doing now is right and I will be profitable, or profitable trading is so hard as to be literally impossible and I am just wasting my time on it.
+
+I am always insecure thinking: "What if this isn't enough? I need to work harder."
+
+I don't trust myself to work consistently, so I'd rather go over the limit than under it, but it's time to leave that aside and aim for consistency. My hands are starting to hurt anyway.

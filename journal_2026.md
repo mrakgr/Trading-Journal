@@ -4058,3 +4058,8 @@ Forget that job. It's a source of emotional vulnerability. Once I quantify these
 The best part is, I won't even need to be around other traders to be good. I'll have my own power to sustain me either way.
 
 7:45am. Ok, now let's check out ZJYL.
+
+![ZJYL](images/image-2319.png)
+![ZJYL](images/image-2320.png)
+
+Conclussion - the squeeze was after hours, the reason it looked so weird on Lance's chart is probably because his chart was merging gaps even though it really shouldn't have been doing so on intraday timeframes. It basically has had only a single hour of trading during the day, and the squeeze happens many hours later after the close instead of it happening suddenly during the middle of it. I didn't realize that by looking at Lance's chart because of the gap removal.

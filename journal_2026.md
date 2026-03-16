@@ -4056,3 +4056,5 @@ If I had to pick between a well paid job now and trading, it would be a hard cho
 Forget that job. It's a source of emotional vulnerability. Once I quantify these breakouts setups, I will achieve profitability and doors will open to places which have competent people in them. I'll be able to move on from Tao Ceti for good.
 
 The best part is, I won't even need to be around other traders to be good. I'll have my own power to sustain me either way.
+
+7:45am. Ok, now let's check out ZJYL.

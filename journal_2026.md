@@ -4214,3 +4214,7 @@ No way I'd hold with the volume going against me.
 Ok, noted. I think The Big Picture is what I am most likely to get wrong personally.
 
 I'll try to rely on Opus so it summarizes the most important news and upcoming events I need to consider.
+
+> In One Good Trade, I wrote about the opportunities from trading Stocks In Play for the short-term trader, as this allows us to be most efficient with our capital. Intraday Fundamentals is our fancy way of saying we want to trade a Stock In Play. To be even clearer, we seek stocks that have fresh news. This fresh news can come after the previous close or before the open.
+
+Intraday Fundaments - Stocks In Play.

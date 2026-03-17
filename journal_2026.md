@@ -4218,3 +4218,7 @@ I'll try to rely on Opus so it summarizes the most important news and upcoming e
 > In One Good Trade, I wrote about the opportunities from trading Stocks In Play for the short-term trader, as this allows us to be most efficient with our capital. Intraday Fundamentals is our fancy way of saying we want to trade a Stock In Play. To be even clearer, we seek stocks that have fresh news. This fresh news can come after the previous close or before the open.
 
 Intraday Fundaments - Stocks In Play.
+
+![](images/image-2324.png)
+
+If I can master these changing fundamentals plays, that will prepare me well for longer term trading when my account gets bigger. I love it that there is a natural progression here.

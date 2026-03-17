@@ -4160,3 +4160,15 @@ Weren't there supposed to be 3 more?
 4:35pm. I do hope Thomas gets back in touch with me at some point. I guess he's not interested in trading after all, but that doesn't matter. Dropping this friendship we've been nurturing because I've been too pushy would be a cruel thing to do. I did Google his name, by there are plenty of people that go by his name and surname in the world. Trying to get in touch with his father just to check whether he is alive would be extremely awkward in case he is avoiding me on purpose.
 
 That's the Internet for you.
+
+4:40pm.
+
+* The Big Picture
+* Intraday Fundamentals
+* Technical Analysis
+* Reading the Tape
+* Trade Management
+* Trade Strategy
+* Trade Review
+
+Ahhh, so it's like this. Ok.

@@ -4185,3 +4185,7 @@ That is exactly what I will be doing starting now. I had a huge hole in Reading 
 > 5. Intuition
 
 Ah, so it's more like 5.
+
+> We think of a trading decision as a big circle with all of these variables inside. Can you picture that big circle with your decision making tools inside? It’s up to the trader to determine what proportion of the circle to color for each variable, how much weight to give each indicator. 
+
+I see. So it's up to me to weight them.

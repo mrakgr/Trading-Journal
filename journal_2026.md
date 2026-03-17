@@ -4222,3 +4222,45 @@ Intraday Fundaments - Stocks In Play.
 ![](images/image-2324.png)
 
 If I can master these changing fundamentals plays, that will prepare me well for longer term trading when my account gets bigger. I love it that there is a natural progression here.
+
+> These high-beta stocks have a daily built-in catalyst, as so many are trading them off technical levels. Examples of high-beta stocks are/have been AMZN, AAPL, GOOG, BIDU, NFLX, CMG, and LULU, to name a few. A good cheat sheet for finding these stocks is at StockTwits 50 (http://stocktwits50.com ), which consistently tracks the best performing stocks. It’s usually the case that if you have a high-beta stock with a significant technical level, you will not need fresh news to trade it. We will discuss much more about all of this later.
+
+> Let me make an important point about trading using technical analysis here. As stated earlier, sometimes Intraday Fundamentals are absent from our decisions. And if a stock is near a very important technical level, it might not need Intraday Fundamentals to consider.
+
+Ah, I see.
+
+5:40pm.
+
+> When we make a trading decision, we consider those five indicators (or checks) listed at the beginning of this chapter. When we archive a setup for our PlayBook, as SMB Trader The King of Men did for us below, we also include the following:
+> • Trade Management
+> • Trade Strategy for the setup (optional but recommended)
+> • Trade Review
+
+Badass nickname.
+
+At any rate, this explains my confusion. I think I'll just mostly focus on intraday fundamentals. In other words, news.
+
+I won't reread the whole book as that would take days.
+
+5:40pm. It's easy to factor volume, price and news into my decision making process, but it's hard for me to make tape reading a part of the setup or to consider what the rest of the market is doing.
+
+I want to play momentum when volume starts coming in, and getting out on exhaustions.
+
+• Trade Management
+• Trade Strategy for the setup (optional but recommended)
+• Trade Review
+
+Obvoiusly I'll have to review the trades, but this particular section will be done in an automated fashion with, so I won't have to philosophize about it.
+
+> Knowing the trends and levels in the overall market is crucial to executing Second Day Plays properly. They can be used to get more or less aggressive depending on the direction of the market relative to the direction of the Second Day Play setup. When the trend in the market lines up with the trend in the individual stock, trading these types of setups can present a great deal of opportunity.
+
+Ok, how about I do give looking at the market a try. I can plot the volume chart of QQQ or SPY next to the stock in play.
+
+>  Note that Second Day Plays don’t have to occur exclusively on the second day. In some cases, the stock can consolidate for several days before the key levels are finally taken out. If the proper setup doesn’t develop on the second day, set alerts that don’t expire in front of the important levels, wait for the levels to be tested, and reevaluate when the stock returns to those important prices.
+
+Yeah, you know what, I am going to finish chapter one and check out the SMB course on trading setups.
+
+> ![](images/image-2325.png)
+
+I bet the volume chart of this would be an amazing trend day to behold. On the minute chart you just have these volume spikes, but the volume charts would show clear trends instead.
+

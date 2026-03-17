@@ -4327,7 +4327,30 @@ Given your order flow focus, the setups that most naturally align with what you'
 
 ///
 
-6:155pm. > I have seen countless developing traders sit next to superstar traders and make no improvement to their trading. These traders are often befuddled. How can this be? I am sitting next to this great trader but I am not making more? The reason is each trader cannot make money in a setup unless he makes the trade his own. We will offer you the ingredients for you to put together a PlayBook of trades that make the most sense to you, but you have to decide how much salt tastes good to you (in this case, that is, the right balance of the Big Picture, Technicals, Intraday Fundamentals, Reading the Tape, and your Intuition).
+6:15pm. > I have seen countless developing traders sit next to superstar traders and make no improvement to their trading. These traders are often befuddled. How can this be? I am sitting next to this great trader but I am not making more? The reason is each trader cannot make money in a setup unless he makes the trade his own. We will offer you the ingredients for you to put together a PlayBook of trades that make the most sense to you, but you have to decide how much salt tastes good to you (in this case, that is, the right balance of the Big Picture, Technicals, Intraday Fundamentals, Reading the Tape, and your Intuition).
 
 Great book. It matches what Neerav Vadera said.
 
+6:35pm. Ok, enough for today. I should be focusing on lowering my stress level and going to bed on time, not studying setups.
+
+M01 Stock Selection 2018-05-02.mp4
+M02 Changing Fundamentals 2018-05-02.mp4
+M02 Changing Fundamentals Trade Bella.mp4
+M03 2nd Day Play 2018-05-02.mp4
+M03 2nd Day Play Spencer.mp4
+M04 TWT Winner Swing Trade in SPY & Changing Fundamentals.mp4
+M05 VWAP Shark.mp4
+M06 Price Spikes (Head Quant).mp4
+M07 Gap & Go.mp4
+M08 Long Low Floats Swang.mp4
+M09 Beauty In Simplicity - Technical Swing Trades Evan.mp4
+M10 Big Dog Consolidation Trade.mp4
+M10 Big Dog Consolidation Trade2.mp4
+M11 - Market Play Trade 2017-04-17 Q&A.mp4
+M12 The Opening Drive Play.mp4
+M13 The Return Pullback Trade.mp4
+Winning Trader - 2017-04-19 The Winner.mp4
+Winning Trader - Metrics For Stocks.mp4
+Winning Trader - Question.mp4
+
+I'll watch some of these videos tomorrow. I should probably watch all of them in fact. That should be my focus.

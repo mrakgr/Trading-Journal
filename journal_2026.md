@@ -4111,3 +4111,27 @@ By now I think I've put hundreds of hours into trading already. I know what my e
 Maybe once I normalize my mental state, I'll stop wanting to join a trading firm so much.
 
 Right now I am going to try and get back into Pathfinder Wotr.
+
+3/17/2026
+
+9:10am. Let's start for today. Yesterday I was very mentally exhausted, but right now I feel like doing some light work.
+
+What's our goal?
+
+docs/stocks_in_play_reference.md
+
+What we want to do is create a reference document for stocks in play. We should do data work until we've collected examples of 100 different stocks in play, reviewed them and wrote them up in the document. In particular we'll also try to embed both the volume and time based charts in that document if the markdown supports it.
+
+As far as programming goes this will be pretty light work, but it is absolutely vital.
+
+The most important thing is that we study examples of actual stocks in play, not the average stock on an average day. There is no money to be made in the average situation in the market. It's just noise.
+
+It's only on days where there is significant abnormal volume going on that we're going to find good setups.
+
+Yesterday we looked at the volume charts for some of them, and today we're going to establish a framework for how we study them.
+
+It's only when we've built up a reference document filled with examples that we're going to move on to actual modeling work.
+
+It's going to be great.
+
+I've really been running ragged with how much I've been pushing myself, but working too much, while better than working too little is still not ideal. Overwork isn't a virtue. It shouldn't be praised. The one who is strong is the one who paces himself properly.

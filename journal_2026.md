@@ -4189,3 +4189,28 @@ Ah, so it's more like 5.
 > We think of a trading decision as a big circle with all of these variables inside. Can you picture that big circle with your decision making tools inside? It’s up to the trader to determine what proportion of the circle to color for each variable, how much weight to give each indicator. 
 
 I see. So it's up to me to weight them.
+
+> As a trader, know the story the market is most interested in. Picture yourself writing the copy for a nightly financial news station. What would you highlight? This information is massively important to all of your trading decisions and uniformly undervalued by underperforming traders. For example, if the majority of market participants are hypersensitive about whether the euro zone will remain intact, like they were in the summer of 2012, then news of a member potentially exiting should affect the market. We need to know this narrative and be prepared for how it may move our trading positions. A stock in a beautiful uptrend (we jokingly say supermodel chart) may be sold if negative market news hits, as this will probably bring selling to the entire market and your positions.
+
+The big picture is about anticipating the news whenever possible.
+
+> Let’s start with the Big Picture. We do not initiate a trade without understanding the Big Picture for the market. The Big Picture is the strength or weakness of the overall market and what catalysts are moving it. More specifically, we need to know the following:
+> • What are the most important technical levels in our markets?
+> • How far is the market from important technical levels?
+> • Is the market trending up or down?
+> • What is the market most concerned about presently?
+> • What is moving the market?
+
+To be honest, I am not sure what I would do with this info even if I had it. Should I not go long if the overall market is going the other way. I doubt it.
+
+I think I'll just focus on the news, and leave technical levels of the broader market aside. It's a waste of time to try to factor in too many variables.
+
+![](images/image-2323.png)
+
+No way I'd hold with the volume going against me.
+
+> If the market is most interested in new housing starts, we hawk this number before and after its release, factoring this into our individual stock decisions. In fact, we might not trade until after the release of this number.
+
+Ok, noted. I think The Big Picture is what I am most likely to get wrong personally.
+
+I'll try to rely on Opus so it summarizes the most important news and upcoming events I need to consider.

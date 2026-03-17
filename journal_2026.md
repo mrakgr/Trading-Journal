@@ -4135,3 +4135,28 @@ It's only when we've built up a reference document filled with examples that we'
 It's going to be great.
 
 I've really been running ragged with how much I've been pushing myself, but working too much, while better than working too little is still not ideal. Overwork isn't a virtue. It shouldn't be praised. The one who is strong is the one who paces himself properly.
+
+4:20pm. Let me go for the afternoon session. It's time to revisit The Playbook by Mike Bellafiore.
+
+I want to refresh my memory of how SMB structures its trades. I made a list of stocks in play in the other repo, that is 5 of them from yesterday's study.
+
+I need to fill in the data and review every stock on the list properly.
+
+![](images/image-2321.png)
+
+It's time to get started with this. This is what I need right now. Though I'll skip the chapter with his father having a stroke and his mom dying. I am really afraid for my own parents I am acutely aware of how old they are, and I don't think I could stand reading that part of the book again. I feel insecure as it is.
+
+![](images/image-2322.png)
+
+I am confused. Is this another situation like with Lance's course where my memory is clearly failing me. I get the sense based on the titles that there are 4 criteria:
+
+* The Big Picture
+* Intraday Fundamentals
+* Technical Analysis
+* Tape Reading
+
+Weren't there supposed to be 3 more?
+
+4:35pm. I do hope Thomas gets back in touch with me at some point. I guess he's not interested in trading after all, but that doesn't matter. Dropping this friendship we've been nurturing because I've been too pushy would be a cruel thing to do. I did Google his name, by there are plenty of people that go by his name and surname in the world. Trying to get in touch with his father just to check whether he is alive would be extremely awkward in case he is avoiding me on purpose.
+
+That's the Internet for you.

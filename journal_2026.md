@@ -4264,3 +4264,70 @@ Yeah, you know what, I am going to finish chapter one and check out the SMB cour
 
 I bet the volume chart of this would be an amazing trend day to behold. On the minute chart you just have these volume spikes, but the volume charts would show clear trends instead.
 
+6pm. I am talking with Opus here.
+
+> What is the definition of SMB's Second Day play?
+
+///
+
+Let me search the web for SMB's definition. SMB's Second Day Play is one of their core setups, and they consider it among the easiest trades for newer traders. Here's the concept:
+
+**The core idea:** A 2nd Day Trade uses the most important prices from Day 1 of when a stock was In Play. So if a stock reported, what were the most important prices from that Day 1? The next trading session you trade off of those prices.
+
+**How it works:** After a stock has some type of catalyst, it attracts many large market participants who take positions on the first day. As short-term traders, you analyze that Day 1 price action — identifying key support/resistance levels, where buyers and sellers showed up, how the stock traded relative to the market — and then develop a plan for Day 2.
+
+Trading doesn't necessarily take place on the very next calendar day. The price could consolidate for some time after the initial trend move, and only then sharply move again.
+
+**The practical setup:**
+
+On Day 1, you're gathering intelligence: Where did the stock find support? Where was it capped? Was there relative strength or weakness vs. the market? Were there identifiable large participants (buyers or sellers) at specific levels?
+
+On Day 2, you're watching whether those key levels hold or break. The MS earnings example from the SMB blog illustrates this well — after MS released earnings and traded in a 2-point range, the trader noted it showed relative weakness into the close, couldn't hold above key levels, and developed a short bias for the following session.
+
+Similarly with ADBE, Steve Spencer looked for the stock to pull back from the previous day's highs to find a buying opportunity with favorable risk/reward.
+
+**Why SMB considers it one of the easiest setups:** The catalyst has already created the volatility and attracted institutional participation. You've had a full session to map out the important levels. By Day 2, you have a clear framework of prices to trade around, specific risk levels for stops, and the stock is still "in play" with elevated volume and attention. It's essentially a prepared, level-driven trade rather than a reactive one.
+
+This fits naturally into the Stocks In Play framework you're building around — the Day 1 catalyst identification is part of the screening process, and the Day 2 price action around key levels is where order flow signals could add edge to the entry timing.
+
+///
+
+> What are SMB's core setups?
+
+///
+
+Here's the list. Mike Bellafiore published a list of the core setups taught at SMB (described as "not an exhaustive list"):
+
+1. **Fade Trades** — trading against an overextended move
+2. **Trend Trend Trades** — riding a stock that's trending within a broader market trend (calmer, slower trades)
+3. **Intraday Trend Trades** — capturing a directional move that develops during the session
+4. **IPO Trades** — trading newly listed stocks on their first days of trading
+5. **High Beta Technical Trades** — technical setups in volatile, high-beta names
+6. **Tape Reading Trades** — entries driven by reading order flow on the tape/Level 2
+7. **Reversal Trades** — catching turning points (this would include the Low Float Reversal we discussed before)
+8. **Opening Drive Trades** — trading the initial directional push at the open (fast, aggressive)
+9. **Scalp Trades** — quick in-and-out trades for small moves
+10. **Microscalp Trades** — even shorter-duration scalps
+11. **VWAP Trades** — using VWAP as the key reference for entries and exits
+12. **Breakout Trades** — trading through key resistance/support levels
+13. **Momentum Trades** — riding strong directional moves
+14. **Range Trades** — trading within defined price ranges
+15. **Support and Resistance Trades** — level-based entries at key S/R
+16. **2nd Day Play** — the one we just discussed, trading off Day 1's key levels
+17. **Gap and Go** — trading continuation of a gap move at the open
+18. **Short Trades** — dedicated short-side setups
+19. **Market Play** — using proxies like SPY to capitalize on market-wide movements
+20. **Pullback Trade** — described as "GMan's Pullback Trade," a model setup at SMB
+
+Additionally, the PlayBook and Winning Trader programs reference a few other named setups: the **Dr. S Trade** (formulated by in-house psychologist Dr. Brett Steenbarger, based on unusual volume patterns at market open), and the **Stuffed Trade** (identifying and trading rejected new highs at breakout levels).
+
+SMB's philosophy is that traders are exposed to all of these setups and then focus on the ones that statistically work for them and match their personality. They encourage mastering one trade at a time and building personalized filters. The idea is that most profitable traders at SMB make their living from just a handful of these, not all 20.
+
+Given your order flow focus, the setups that most naturally align with what you're building are probably the Tape Reading Trades, 2nd Day Plays, VWAP Trades, and Reversal Trades — since those are the ones where systematic detection of bid/offer holding patterns and unusual trade size distributions would add the most edge to entry timing.
+
+///
+
+6:155pm. > I have seen countless developing traders sit next to superstar traders and make no improvement to their trading. These traders are often befuddled. How can this be? I am sitting next to this great trader but I am not making more? The reason is each trader cannot make money in a setup unless he makes the trade his own. We will offer you the ingredients for you to put together a PlayBook of trades that make the most sense to you, but you have to decide how much salt tastes good to you (in this case, that is, the right balance of the Big Picture, Technicals, Intraday Fundamentals, Reading the Tape, and your Intuition).
+
+Great book. It matches what Neerav Vadera said.
+

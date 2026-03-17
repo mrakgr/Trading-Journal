@@ -4175,4 +4175,13 @@ Ahhh, so it's like this. Ok.
 
 > Recently, I met with a series of very experienced but underperforming traders. The common denominator for this group was that none of them had a methodology to archive their favorite setups, nor could they clearly, definitively, and instantly articulate their best plays. They were more or less just flying by the seat of their pants (that is, unorganized and unstudied intuition). Your PlayBook’s contents are up to you. But its existence, with all due respect, should not be. All traders should build a PlayBook.
 
-That is exactly what I will be doing starting now. I had a huge hole in Reading The Tape part that I've only recently filled up.
+That is exactly what I will be doing starting now. I had a huge hole in Reading The Tape part that I've only recently filled up.:
+
+> We make trading decisions based on five indicators, or checks:
+> 1. The Big Picture
+> 2. Intraday Fundamentals
+> 3. Technical Analysis
+> 4. Reading the Tape
+> 5. Intuition
+
+Ah, so it's more like 5.

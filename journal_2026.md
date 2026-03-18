@@ -4371,3 +4371,11 @@ At a rational level, it always been 100% because I am just that good at programm
 > On many days you will have 1 or 2 stocks that meet these 3 criteria.
 
 But it's fine, these are the best of the best.
+
+![](images/image-2327.png)
+> This techinque of identifying these stocks in the premarket is going to give you a huge edge over the average trader.
+
+* 1m shares average daily volume for novice trades and 100-500k for experienced traders.
+* 10% of the average traded premarket. 50% preferable.
+* 5% gap to ensure sufficient volatility.
+

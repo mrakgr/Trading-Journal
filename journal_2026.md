@@ -4529,3 +4529,7 @@ Here is example 2.
 These are such awesome examples.
 
 Damn, it really didn't take much volume to break below 43. It's going to be tricky figuring out what is the right volume level.
+
+3:50pm. Maybe we could think of it as every day having its own baseline volatility. What might be high volume on one day might be low on another.
+
+I think the system should be able to determine that on its own as the day goes along.

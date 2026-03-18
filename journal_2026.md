@@ -4465,4 +4465,7 @@ He talks about how consistent Swang is in his scalping. He doesn't make money on
 
 ![](images/image-2346.png)
 
-You can tell a lot of these trades by their RVOL.
+You can tell a lot of these trades by their RVOL alone.
+
+![](images/image-2347.png)
+> This is a textbook A+ scalp on a stock in play.

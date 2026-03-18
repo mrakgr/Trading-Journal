@@ -4503,3 +4503,6 @@ That was him talking about wicks. He says that he requires both time and price a
 3:15pm. ![](images/image-2350.png)
 
 Time for second day plays. I should enjoy myself watching these videos and not care about the time. I'll let it just come to me.
+
+![](images/image-2351.png)
+> The simplest setup we teach to new traders.

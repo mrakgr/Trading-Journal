@@ -4545,3 +4545,11 @@ Rather it had that down day, and on day 3 it broke out to the upside. He's talki
 ![](images/image-2358.png)
 
 It's a pity, but it doesn't seem like the momentum move had that much volume.
+
+![](images/image-2359.png)
+
+The second day plays aren't what I imagine. These examples he is showing don't have such particularly strong catalysts in my view. 1 ATR up or down as the initial condition isn't that much.
+
+![](images/image-2360.png)
+
+Ok, this chart I like. I like it when prices go up on heavy volume rather than drifting. On the volume chart that would result in strong trending action. That is what I want to get good at.

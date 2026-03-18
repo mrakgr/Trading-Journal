@@ -4541,3 +4541,7 @@ Ah, I see. It's not a straightforward changing fundamentals trade.
 Rather it had that down day, and on day 3 it broke out to the upside. He's talking about the automation he is using.
 
 > Third day is what I'd consider the maximum for a second day play.
+
+![](images/image-2358.png)
+
+It's a pity, but it doesn't seem like the momentum move had that much volume.

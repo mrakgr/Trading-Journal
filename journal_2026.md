@@ -4415,3 +4415,6 @@ This is good. I could just check whether the market is above or below VWAP.
 > We're looking at a stock with no overhead resistance.
 
 I need to pay attention to these factors. I should become an expert in this trade.
+
+![](images/image-2337.png)
+> We want to see the stock close strongly in the after hours after it had reported, and in the premarket we want to see it open more strongly that it had closed in the after hours.

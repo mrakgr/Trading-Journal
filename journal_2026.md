@@ -4399,3 +4399,7 @@ Why did that asshole have the CAD program taking up most of the screenspace?
 They covered it in the book.
 
 He says this is the trade he goes for first.
+
+![](images/image-2333.png)
+
+Once again, here are the Playbook variables.

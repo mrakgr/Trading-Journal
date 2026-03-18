@@ -4419,3 +4419,7 @@ I need to pay attention to these factors. I should become an expert in this trad
 ![](images/image-2337.png)
 > We want to see the stock close strongly in the after hours after it had reported, and in the premarket we want to see it open more strongly that it had closed in the after hours.
 > We want to see that momentum continuing to the upside.
+
+![](images/image-2338.png)
+
+His own recommendation for this type of trade is to get in with full size on the morning breakout and hold until the end of the day unless there is a reason to sell. The junior trader who made this plan is more hands on.

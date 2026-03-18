@@ -4518,3 +4518,7 @@ Here is the first day.
 Here is the second day.
 
 He didn't say what the catalyst for the first day was.
+
+![](images/image-2354.png)
+
+Here is example 2.

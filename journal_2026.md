@@ -4455,5 +4455,9 @@ Honestly the style of trading of entering with a short stop as a scalp and then 
 
 He says that Brian drew up the trade as a swing trade, but Bella said that this is a scalp. How do those work?
 
+> But you don't have to short it and hold it. You can and CORS was a good example of that. You can take a thesis in a particular stock and trade that thesis by scalping it.
+> You can make a good argument that you can make more money by scalping it with more size than if just hold these trades.
 > It's completely false that real trader make real money by simply holding things. That is just not true.
+> Don't feel a pressure to hold.
 
+He talks about how consistent Swang is in his scalping.

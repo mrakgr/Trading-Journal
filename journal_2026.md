@@ -4571,3 +4571,5 @@ Ok, I like this. There was strong volume on the last day. That would result in s
 ![](images/image-2363.png)
 
 I like this chart as well. I don't like some of the duration style moves Bella showed. I like it when volume is coming in and going out. I have to decide what to play and what not, and I'd rather avoid duration style moves in favor of the magnitude ones.
+
+5:05pm. He says that we have to keep stats on these setups because if one month they aren't going more than 20% of ATR against us and the other they are going 25-30% against us on average then that is a different market environment.

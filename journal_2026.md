@@ -4555,3 +4555,5 @@ The second day plays aren't what I imagine. These examples he is showing don't h
 Ok, this chart I like. I like it when prices go up on heavy volume rather than drifting. On the volume chart that would result in strong trending action. That is what I want to get good at.
 
 4:35pm. Wait, is this particular pattern Pradeep's momentum burst?
+
+It seems like it.

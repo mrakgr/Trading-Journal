@@ -4382,3 +4382,7 @@ But it's fine, these are the best of the best.
 ![](images/image-2328.png)
 
 I wonder if I could handle this sort of trade now that I have the volume perspective protecting me? If you're trading 1m candles, then large moves up often have large moves down. The volatility has a way of evening itself out. But on the volume charts you see trends instead.
+
+![](images/image-2329.png)
+
+Why did that asshole have the CAD program taking up most of the screenspace?

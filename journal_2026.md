@@ -4393,3 +4393,7 @@ Why did that asshole have the CAD program taking up most of the screenspace?
 
 ![](images/image-2331.png)
 > You can build a career around this one trade.
+
+![](images/image-2332.png)
+
+They covered it in the book.

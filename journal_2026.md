@@ -4561,3 +4561,5 @@ It seems like it.
 ![](images/image-2361.png)
 
 Egh, I don't like these. I thought the 2nd day plays would be on strongs with strong catalysts that would be Changing Fundamentals trades on their 1st day. Instead this is more like Pradeep's momentum burst pattern. I'd rather not trade some of the slow moving stocks he is showcasing.
+
+4:55pm. Yeah, the Changing Fundamentals are Pradeep's Episodic Pivot and the Second Day plays are the momentum bursts. The way they play the latter is using opening range breakouts.

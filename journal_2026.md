@@ -4491,3 +4491,9 @@ I am just going to look for momentum moves instead.
 ![](images/image-2349.png)
 
 I am surprised this is an A+ setup to him. It wouldn't be for me. There was no real momentum during the day, it just trended up.
+
+2:45pm. Fate/Strange Fake is realy interesting. I watched the first ep on a whim and I like it.
+
+I'll leave it for later. Let me watch more of the trading course. I want to learn all those setups.
+
+> When you are in a stock with a really strong catalyst, you need something that shows you you're wrong. And a wick is not something that shows you you're wrong. 

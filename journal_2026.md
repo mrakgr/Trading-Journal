@@ -4487,3 +4487,7 @@ For this trade they'd wait out the first 15-20m for the trend to develop. In fac
 > In the first 45m the stocks don't trend. That's price discovery. But after that price discovery if the stock is holding above VWAP, if it's holding the trend line then we can start to swing it.
 
 I am just going to look for momentum moves instead.
+
+![](images/image-2349.png)
+
+I am surprised this is an A+ setup to him. It wouldn't be for me. There was no real momentum during the day, it just trended up.

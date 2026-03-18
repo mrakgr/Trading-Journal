@@ -4391,3 +4391,5 @@ Why did that asshole have the CAD program taking up most of the screenspace?
 > If you want to go fast, go alone.
 > If you want to go far, go together.
 
+![](images/image-2331.png)
+> You can build a career around this one trade.

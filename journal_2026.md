@@ -4454,3 +4454,6 @@ Honestly the style of trading of entering with a short stop as a scalp and then 
 ![](images/image-2345.png)
 
 He says that Brian drew up the trade as a swing trade, but Bella said that this is a scalp. How do those work?
+
+> It's completely false that real trader make real money by simply holding things. That is just not true.
+

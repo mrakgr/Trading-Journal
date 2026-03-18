@@ -4423,3 +4423,7 @@ I need to pay attention to these factors. I should become an expert in this trad
 ![](images/image-2338.png)
 
 His own recommendation for this type of trade is to get in with full size on the morning breakout and hold until the end of the day unless there is a reason to sell. The junior trader who made this plan is more hands on.
+
+![](images/image-2339.png)
+
+I need to master this trade. The volume charts are the key to it.

@@ -4438,3 +4438,9 @@ This video has example of it on the short side. Of course, the LW stock that I s
 
 ![](images/image-2342.png)
 > I don't like trading stocks that have a short float of 30%, we're in a safe zone.
+
+![](images/image-2343.png)
+> What does 'seller wins on the tape' mean? Held offer, big offer or...
+> Seller pushes down lower with size.
+
+In my parlance that would be negative momentum with fast volume.

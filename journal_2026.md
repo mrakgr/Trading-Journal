@@ -4354,3 +4354,20 @@ Winning Trader - Metrics For Stocks.mp4
 Winning Trader - Question.mp4
 
 I'll watch some of these videos tomorrow. I should probably watch all of them in fact. That should be my focus.
+
+3/18/2026
+
+9:45am. I am up. Yeah, slowing my pace down is doing a lot of good for my mentality. Trading is the kind of goal I should walk towards rather than run. The faster I go, the further away it gets.
+
+Let me do my reads and I'll start watching these videos.
+
+At an emotional level, because I did my studies, I no longer feel that I am certain to fail. I think I have a 30% shot of succeeding, because my volume chart conjectures have proven to hold in the studies that I did.
+
+At a rational level, it always been 100% because I am just that good at programming now. But the rational view isn't what matters. The rational view can be wrong.
+
+9:55am. Watching either Trader DNA or Winning Trader is one of the prerequisites for joining SMB, in addition to 100 trades in 2 months, so I might as well clear it here. Too bad that my Massive sub isn't being used while I do this, but that is fine. I can bear 2$ per day on average in terms of expense.
+
+10:20am. ![](images/image-2326.png)
+> On many days you will have 1 or 2 stocks that meet these 3 criteria.
+
+But it's fine, these are the best of the best.

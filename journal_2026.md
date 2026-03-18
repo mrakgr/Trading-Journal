@@ -4527,3 +4527,5 @@ Here is example 2.
 ![](images/image-2356.png)
 
 These are such awesome examples.
+
+Damn, it really didn't take much volume to break below 43. It's going to be tricky figuring out what is the right volume level.

@@ -4379,3 +4379,6 @@ But it's fine, these are the best of the best.
 * 10% of the average traded premarket. 50% preferable.
 * 5% gap to ensure sufficient volatility.
 
+![](images/image-2328.png)
+
+I wonder if I could handle this sort of trade now that I have the volume perspective protecting me? If you're trading 1m candles, then large moves up often have large moves down. The volatility has a way of evening itself out. But on the volume charts you see trends instead.

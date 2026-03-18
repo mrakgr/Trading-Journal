@@ -4579,3 +4579,8 @@ I like this chart as well. I don't like some of the duration style moves Bella s
 This is the backtest of buying the 5 day low and selling the 5 day high when the market is above the 200 day moving average.
 
 5:55pm. Shit, on Monday I have to take a trip to the unemployment office and on Tuesday I've just made an appointment for an MR scan of my right shoulder. I'll be busy. In other news, Thom is back. He was just busy, false alarm. What can I say, I am pretty insecure. But I did go through the whole Tao Ceti experience, so getting randomly ignored was ingrained in me.
+
+6:05pm. ![](images/image-2365.png)
+> Bella: When we talk about these changing fundamentals trades I hope people don't take away that they have to hold for the entire move.
+
+Let me stop here for lunch. I should be able to finish this course in a few days at this rate.

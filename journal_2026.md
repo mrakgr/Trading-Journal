@@ -4427,3 +4427,7 @@ His own recommendation for this type of trade is to get in with full size on the
 ![](images/image-2339.png)
 
 I need to master this trade. The volume charts are the key to it.
+
+![](images/image-2340.png)
+
+Oh my god, the video quality of this couldn't be any lower.

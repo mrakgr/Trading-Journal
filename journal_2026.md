@@ -4557,3 +4557,7 @@ Ok, this chart I like. I like it when prices go up on heavy volume rather than d
 4:35pm. Wait, is this particular pattern Pradeep's momentum burst?
 
 It seems like it.
+
+![](images/image-2361.png)
+
+Egh, I don't like these. I thought the 2nd day plays would be on strongs with strong catalysts that would be Changing Fundamentals trades on their 1st day. Instead this is more like Pradeep's momentum burst pattern. I'd rather not trade some of the slow moving stocks he is showcasing.

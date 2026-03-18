@@ -4506,3 +4506,5 @@ Time for second day plays. I should enjoy myself watching these videos and not c
 
 ![](images/image-2351.png)
 > The simplest setup we teach to new traders.
+
+Oh yeah, unlike with 1st day Changing Fundamentals trades, I get the sense the premarket is less important for these.

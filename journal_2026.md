@@ -4448,3 +4448,5 @@ In my parlance that would be negative momentum with fast volume.
 ![](images/image-2344.png)
 
 The chart isn't ideal for my preferred style of trading. I'd like to get in on momentum and out on exhaustions, but this trade was a slow volume trend day. I guess a lot of these kinds of stocks will be like that. I should really pick out the best of the best and not worry about catching the slow volume moves.
+
+Honestly the style of trading of entering with a short stop as a scalp and then holding for a long time until the close is a strong one. I'll consider it.

@@ -4407,3 +4407,11 @@ Once again, here are the Playbook variables.
 ![](images/image-2334.png)
 
 This is good. I could just check whether the market is above or below VWAP.
+
+![](images/image-2336.png)
+> Online sales up 50% which is a key theme for investors.
+
+![](images/image-2335.png)
+> We're looking at a stock with no overhead resistance.
+
+I need to pay attention to these factors. I should become an expert in this trade.

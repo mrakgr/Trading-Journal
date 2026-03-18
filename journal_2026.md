@@ -4533,3 +4533,9 @@ Damn, it really didn't take much volume to break below 43. It's going to be tric
 3:50pm. Maybe we could think of it as every day having its own baseline volatility. What might be high volume on one day might be low on another.
 
 I think the system should be able to determine that on its own as the day goes along.
+
+![](images/image-2357.png)
+
+Ah, I see. It's not a straightforward changing fundamentals trade.
+
+Rather it had that down day, and on day 3 it broke out to the upside. He's talking about the automation he is using.

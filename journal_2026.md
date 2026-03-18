@@ -4431,3 +4431,7 @@ I need to master this trade. The volume charts are the key to it.
 ![](images/image-2340.png)
 
 Oh my god, the video quality of this couldn't be any lower.
+
+![](images/image-2341.png)
+
+This video has example of it on the short side. Of course, the LW stock that I studied is a good example of it as well.

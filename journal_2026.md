@@ -4386,3 +4386,8 @@ I wonder if I could handle this sort of trade now that I have the volume perspec
 ![](images/image-2329.png)
 
 Why did that asshole have the CAD program taking up most of the screenspace?
+
+![](images/image-2330.png)
+> If you want to go fast, go alone.
+> If you want to go far, go together.
+

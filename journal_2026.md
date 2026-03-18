@@ -4567,3 +4567,7 @@ Egh, I don't like these. I thought the 2nd day plays would be on strongs with st
 ![](images/image-2362.png)
 
 Ok, I like this. There was strong volume on the last day. That would result in strong trending action.
+
+![](images/image-2363.png)
+
+I like this chart as well. I don't like some of the duration style moves Bella showed. I like it when volume is coming in and going out. I have to decide what to play and what not, and I'd rather avoid duration style moves in favor of the magnitude ones.

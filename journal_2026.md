@@ -4435,3 +4435,6 @@ Oh my god, the video quality of this couldn't be any lower.
 ![](images/image-2341.png)
 
 This video has example of it on the short side. Of course, the LW stock that I studied is a good example of it as well.
+
+![](images/image-2342.png)
+> I don't like trading stocks that have a short float of 30%, we're in a safe zone.

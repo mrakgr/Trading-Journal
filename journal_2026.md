@@ -4403,3 +4403,7 @@ He says this is the trade he goes for first.
 ![](images/image-2333.png)
 
 Once again, here are the Playbook variables.
+
+![](images/image-2334.png)
+
+This is good. I could just check whether the market is above or below VWAP.

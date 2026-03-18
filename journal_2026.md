@@ -4497,3 +4497,9 @@ I am surprised this is an A+ setup to him. It wouldn't be for me. There was no r
 I'll leave it for later. Let me watch more of the trading course. I want to learn all those setups.
 
 > When you are in a stock with a really strong catalyst, you need something that shows you you're wrong. And a wick is not something that shows you you're wrong. 
+
+That was him talking about wicks. He says that he requires both time and price as confirmation.
+
+3:15pm. ![](images/image-2350.png)
+
+Time for second day plays. I should enjoy myself watching these videos and not care about the time. I'll let it just come to me.

@@ -4485,3 +4485,5 @@ So it was about holds.
 For this trade they'd wait out the first 15-20m for the trend to develop. In fact, they do say that the first quarter hour can be pretty choppy. The MSTR top in late 2024 was a good example of it chopping around during the first 20 mins.
 
 > In the first 45m the stocks don't trend. That's price discovery. But after that price discovery if the stock is holding above VWAP, if it's holding the trend line then we can start to swing it.
+
+I am just going to look for momentum moves instead.

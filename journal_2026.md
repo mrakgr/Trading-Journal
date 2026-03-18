@@ -4539,3 +4539,5 @@ I think the system should be able to determine that on its own as the day goes a
 Ah, I see. It's not a straightforward changing fundamentals trade.
 
 Rather it had that down day, and on day 3 it broke out to the upside. He's talking about the automation he is using.
+
+> Third day is what I'd consider the maximum for a second day play.

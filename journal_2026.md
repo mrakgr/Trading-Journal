@@ -4473,3 +4473,9 @@ You can tell a lot of these trades by their RVOL alone.
 ![](images/image-2348.png)
 > Stocks with a high short interest are always going to be whippier than stocks with a low short interest.
 > When a short float gets to high, it's too difficult for a developing trader to trade.
+
+> What does buyer or a seller winning mean?
+> You have a buyer at 83 cents and a seller at 84 cents and the bid drops. The seller won.
+> Had the offer lifted, the buyer would have won.
+
+So it was about holds.

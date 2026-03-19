@@ -4758,3 +4758,7 @@ I just need high volatility, and high volume and that is it. I don't need compli
 ![](images/image-2387.png)
 
 Those sharp spikes will turn into smooth trends on the volume chart.
+
+![](images/image-2388.png)
+
+I could get better RR than just 1:3 using volume charts.

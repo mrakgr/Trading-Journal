@@ -4750,3 +4750,7 @@ Ohhhh, this is it. This is what I want to trade!
 ![](images/image-2386.png)
 
 When you have extremes in volume, it's easier to see buying and selling making waves. It's much easier to trade those kinds of moves than drift.
+
+4:35pm. I like how unlike with Changing Fundamentals type of trades is that he is looking for high short interest rather than low. Yeah, I am starting to feel my focus coming in. I was thinking how I'd want to trade these types of stocks. And they fit my new volume based chart trading like a glove.
+
+I just need high volatility, and high volume and that is it. I don't need complicated systems to trade these at all.

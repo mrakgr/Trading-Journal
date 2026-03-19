@@ -4660,3 +4660,7 @@ Lol, I'll have to study these as well. Forgot about fat fingers.
 ![](images/image-2372.png)
 
 I am really curious how this would look like on the volume charts.
+
+![](images/image-2373.png)
+
+Interesting methodology. I don't have to do all. In fact I'll just stick with what I think should be easier setups and keep this on the back of my mind.

@@ -4656,3 +4656,7 @@ For your order flow detection system, you'd probably want to combine the conditi
 ![](images/image-2371.png)
 
 Lol, I'll have to study these as well. Forgot about fat fingers.
+
+![](images/image-2372.png)
+
+I am really curious how this would look like on the volume charts.

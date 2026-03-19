@@ -4728,3 +4728,7 @@ Actually make that should. Let's see what Swang has to say about low floats.
 ![](images/image-2381.png)
 
 This sounds like something like I would like. These are bound to be volatile.
+
+![](images/image-2382.png)
+
+The video quality is horrible, but I love this chart. Large gaps don't have large differences in order flow, but hese stocks can have serious abnormal buying coming into them.

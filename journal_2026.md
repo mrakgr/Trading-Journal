@@ -4732,3 +4732,13 @@ This sounds like something like I would like. These are bound to be volatile.
 ![](images/image-2382.png)
 
 The video quality is horrible, but I love this chart. Large gaps don't have large differences in order flow, but hese stocks can have serious abnormal buying coming into them.
+
+![](images/image-2383.png)
+
+This would have been a riot to trade.
+
+Yeah, this is bringing me awake. What I need to make money is order flow, not duration moves. It's not like money cannot be made on those shaky large caps, but low floats have extremes in volume, which on the volume charts will translate into smooth trends.
+
+![](images/image-2384.png)
+
+I am going to watch some vids on the SMB channel on low float trading after finishing the course.

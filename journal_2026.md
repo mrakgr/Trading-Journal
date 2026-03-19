@@ -4667,6 +4667,8 @@ Interesting methodology. I don't have to do all. In fact I'll just stick with wh
 
 11:55am. Let me take a break here. I'll finish the video later. It seems that Virgin Punk came out yesterday on Youtube, I wonder if somebody translated it.
 
-12:20pm. > There is no excuse for trading price spikes without the news.
+12:20pm. > There is no excuse for trading price spikes without the news. It's probably pretty risky if you do.
 
 He says they are a lot of news sources I can subscribe to these days.
+
+> If you're quick to a news headline that has market impact, 6 figure trades are easily possible.

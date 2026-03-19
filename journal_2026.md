@@ -4650,3 +4650,5 @@ For your order flow detection system, you'd probably want to combine the conditi
 ///
 
 11:25am. He says it's really easy to find these news trades off price spike filters.
+
+> I've made money on 90-95% of these types of trades.

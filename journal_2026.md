@@ -4592,3 +4592,7 @@ Let me stop here for lunch. I should be able to finish this course in a few days
 Interesting bit of work. Rather than using this, once I am ready I should just switch brokers to Lime or try to join SMB and use their tech stack instead.
 
 Let me resume the vids.
+
+10:20am. ![](images/image-2366.png)
+
+I like these charts a lot. Looking for volume coming in and riding the waves is what I want to do.

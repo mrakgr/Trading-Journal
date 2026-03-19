@@ -4796,3 +4796,16 @@ I really like day 2 of this. What an amazing move. By the time you get an entry 
 The key is to see the volume coming in early and acting upon it. When the volume gets fast, so should I.
 
 If you're trading on the 1m chart, that big up candle could just as well be followed by a big down candle. But if we replace those with smooth trends on the volume charts, the setup's EV improves massively. Sigh, I get it. I finally get what I couldn't get for 6 years back then. I'll finish this course and then start making a list of these moves.
+
+6:10pm. The second big dog video is just better quality first one.
+
+I'll skip the market play video.
+
+M12 The Opening Drive Play.mp4
+M13 The Return Pullback Trade.mp4
+
+That will only leave these two. I'll clear them tomorrow and then get back to working on my own playbook.
+
+Oh yeah, I also said I'd watch some low float vids on the SMB channel. God knows I should because they'll have better quality than this shitty fttuts course.
+
+Maybe I should have just gotten the list of trades from the SMB training site and then checked them out on Youtube. The Youtube vids are of far higher quality than this.

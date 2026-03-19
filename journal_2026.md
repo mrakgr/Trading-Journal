@@ -4690,3 +4690,7 @@ I am really looking forward ot the next two videos. I am not into news, but into
 【本編フル】ヴァージン・パンク Clockwork Girl｜3.25まで公開
 
 Virgin Punk: Clockwork Girl is amazing. I had to pick auto translation from Japanese to English, and it's censored, but I'll be rewatching it.
+
+2:50pm. ![](images/image-2374.png)
+
+Surprised he says they don't happen that often.

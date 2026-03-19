@@ -4780,3 +4780,7 @@ I might just skip this one so I can get to opening drive plays and whatever big 
 ![](images/image-2391.png)
 
 Here is the checklist. It's also a Changing Fundamentals trade.
+
+![](images/image-2392.png)
+
+Lol, this is a low float stock as well. I like these patterns. It's a great feeling seeing a move like this and knowing that those uncatchable price spikes will be smooth trends on the volume chart.

@@ -4746,3 +4746,7 @@ I am going to watch some vids on the SMB channel on low float trading after fini
 ![](images/image-2385.png)
 
 Ohhhh, this is it. This is what I want to trade!
+
+![](images/image-2386.png)
+
+When you have extremes in volume, it's easier to see buying and selling making waves. It's much easier to trade those kinds of moves than drift.

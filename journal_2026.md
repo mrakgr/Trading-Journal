@@ -4664,3 +4664,9 @@ I am really curious how this would look like on the volume charts.
 ![](images/image-2373.png)
 
 Interesting methodology. I don't have to do all. In fact I'll just stick with what I think should be easier setups and keep this on the back of my mind.
+
+11:55am. Let me take a break here. I'll finish the video later. It seems that Virgin Punk came out yesterday on Youtube, I wonder if somebody translated it.
+
+12:20pm. > There is no excuse for trading price spikes without the news.
+
+He says they are a lot of news sources I can subscribe to these days.

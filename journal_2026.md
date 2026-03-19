@@ -4774,3 +4774,9 @@ Having constant volume is of zero interest to me.
 5pm. ![](images/image-2390.png)
 
 I might just skip this one so I can get to opening drive plays and whatever big dog consolidations are.
+
+5:25pm. Done with lunch. Let's skip that video. I am not interested in moving averages.
+
+![](images/image-2391.png)
+
+Here is the checklist. It's also a Changing Fundamentals trade.

@@ -4600,3 +4600,7 @@ I like these charts a lot. Looking for volume coming in and riding the waves is 
 ![](images/image-2367.png)
 
 I like this stock on the first day. I should be having my systems stalk these stocks for volume coming in and then striking hard.
+
+10:55am. ![](images/image-2368.png)
+
+Done with pullbacks. Next are price spikes. I wonder what that will be about.

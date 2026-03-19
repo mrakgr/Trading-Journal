@@ -4672,3 +4672,16 @@ Interesting methodology. I don't have to do all. In fact I'll just stick with wh
 He says they are a lot of news sources I can subscribe to these days.
 
 > If you're quick to a news headline that has market impact, 6 figure trades are easily possible.
+
+12:25pm. With this I am done with half the course.
+
+M07 Gap & Go.mp4
+M08 Long Low Floats Swang.mp4
+M09 Beauty In Simplicity - Technical Swing Trades Evan.mp4
+M10 Big Dog Consolidation Trade.mp4
+M10 Big Dog Consolidation Trade2.mp4
+M11 - Market Play Trade 2017-04-17 Q&A.mp4
+M12 The Opening Drive Play.mp4
+M13 The Return Pullback Trade.mp4
+
+I am really looking forward ot the next two videos. I am not into news, but into breakout trading on stocks in play.

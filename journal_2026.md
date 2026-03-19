@@ -4604,3 +4604,5 @@ I like this stock on the first day. I should be having my systems stalk these st
 10:55am. ![](images/image-2368.png)
 
 Done with pullbacks. Next are price spikes. I wonder what that will be about.
+
+In truth, I am not that interested in VWAP, but I am in some of these other vids, so Kenny's presentation was a chore to go through.

@@ -4742,3 +4742,7 @@ Yeah, this is bringing me awake. What I need to make money is order flow, not du
 ![](images/image-2384.png)
 
 I am going to watch some vids on the SMB channel on low float trading after finishing the course.
+
+![](images/image-2385.png)
+
+Ohhhh, this is it. This is what I want to trade!

@@ -4610,3 +4610,43 @@ In truth, I am not that interested in VWAP, but I am in some of these other vids
 11:05am. ![](images/image-2369.png)
 
 I'll have to figure out how to deal with halts. But I like these patterns a lot more than the VWAP trades or second day plays.
+
+11:15am. ![](images/image-2370.png)
+
+In addition to splitting up the trades, I am going to have to introduce special blocks for halts. That will be the only way to deal with them. Or rather, it might not be a bad idea to filter them out entirely.
+
+https://massive.com/knowledge-base/article/stock-trade-conditions
+
+Ah fuck it, why did I create that reference document. There is a trade conditions page here.
+
+> Is there a way to detect trading halts in Massive's trade data?
+
+///
+
+That's a great question. Let me search for current information on how Massive (Polygon.io) handles trading halts in their data feeds.Let me fetch the actual trade conditions page to get the specific halt-related condition codes.Yes — there are a couple of ways to detect trading halts in Massive's data, though there's no single dedicated "halt" event stream. Here's what's available:
+
+**Condition code 40 — "Held"**
+
+This is the most directly halt-related condition. Condition 40 marks trades received from a non-primary participant during a primary market regulatory halt. These trades are held by the CTS Processor and disseminated after the close of the primary market with a "Held Trade Indicator" code. So if you see condition 40 on trades, you know they occurred during a halt period.
+
+**Condition 18 — "Market Center Reopening Trade"**
+
+This identifies a single-priced reopening transaction by the Market Center under Reg NMS Rule 611(b)(3). The presence of reopening prints implies there was a halt beforehand. This is a useful signal to detect when a halt has *ended*.
+
+**Condition 46 — "Contingent Trade" (halt-related variant)**
+
+This denotes a correction to the last indication or new indication, containing the corrected approximation of what the security's opening or reopening price range will be when trading resumes after a delayed opening or trading halt.
+
+**Inferring halts from gaps in the data**
+
+Since Massive's trade data only flows when trades actually happen, a sudden absence of trades and quotes for a normally liquid stock during market hours is itself a strong halt signal — especially if you then see reopening prints (condition 18) or held trades (condition 40) afterward.
+
+**The "market events" endpoint**
+
+Massive's advanced plan includes market events covering limit up/limit down halts and similar. This would give you explicit halt notifications rather than inferring them from trade conditions. Worth checking if your subscription tier includes it.
+
+For your order flow detection system, you'd probably want to combine the condition-code approach with a gap-detection heuristic. A sudden drop in trade/quote flow for a stock that was active, followed by condition 18/40 prints, would reliably identify halt periods. You could filter these out of your t-digest distributions so halt-period data doesn't contaminate your "normal" order flow baselines.
+
+///
+
+11:25am. He says it's really easy to find these news trades off price spike filters.

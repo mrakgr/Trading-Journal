@@ -4698,3 +4698,7 @@ Surprised he says they don't happen that often.
 ![](images/image-2375.png)
 
 Here is the checklist.
+
+![](images/image-2376.png)
+
+Goddamit, he didn't give precise criteria. I am not even sure what the difference between these trades and some of the others even is.

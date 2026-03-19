@@ -4706,3 +4706,9 @@ Goddamit, he didn't give precise criteria. I am not even sure what the differenc
 ![](images/image-2377.png)
 
 I guess it's a high volume ATH play on the open.
+
+![](images/image-2378.png)
+
+Yeah, that is how it seems like.
+
+At the start of the video he says that entries into these setup are great for establishing longer term positions.

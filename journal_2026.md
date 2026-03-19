@@ -4685,3 +4685,8 @@ M12 The Opening Drive Play.mp4
 M13 The Return Pullback Trade.mp4
 
 I am really looking forward ot the next two videos. I am not into news, but into breakout trading on stocks in play.
+
+2:15pm. https://youtu.be/FsgjXJIdJUY
+【本編フル】ヴァージン・パンク Clockwork Girl｜3.25まで公開
+
+Virgin Punk: Clockwork Girl is amazing. I had to pick auto translation from Japanese to English, and it's censored, but I'll be rewatching it.

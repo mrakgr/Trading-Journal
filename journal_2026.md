@@ -4722,3 +4722,5 @@ So you're supposed to go into these trades right at the open.
 I see. So maybe these trades are when multiple timeframe align. I get it.
 
 4pm. Let me watch the low float vid. Honestly, this is a bit boring, which is an indication that I am not getting as much as I could out of this course.
+
+Actually make that should. Let's see what Swang has to say about low floats.

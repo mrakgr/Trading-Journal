@@ -4788,3 +4788,11 @@ Lol, this is a low float stock as well. I like these patterns. It's a great feel
 ![](images/image-2393.png)
 
 This is a great pattern. You can see the volume move price unlike with some higher priced stocks.
+
+![](images/image-2394.png)
+
+I really like day 2 of this. What an amazing move. By the time you get an entry on the charts it's basically already over. That pullback in the other direction is basically late comers and chart readers getting stopped out.
+
+The key is to see the volume coming in early and acting upon it. When the volume gets fast, so should I.
+
+If you're trading on the 1m chart, that big up candle could just as well be followed by a big down candle. But if we replace those with smooth trends on the volume charts, the setup's EV improves massively. Sigh, I get it. I finally get what I couldn't get for 6 years back then. I'll finish this course and then start making a list of these moves.

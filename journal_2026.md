@@ -4716,3 +4716,7 @@ At the start of the video he says that entries into these setup are great for es
 ![](images/image-2379.png)
 
 So you're supposed to go into these trades right at the open.
+
+![](images/image-2380.png)
+
+I see. So maybe these trades are when multiple timeframe align. I get it.

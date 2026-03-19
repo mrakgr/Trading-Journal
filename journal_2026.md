@@ -4712,3 +4712,7 @@ I guess it's a high volume ATH play on the open.
 Yeah, that is how it seems like.
 
 At the start of the video he says that entries into these setup are great for establishing longer term positions.
+
+![](images/image-2379.png)
+
+So you're supposed to go into these trades right at the open.

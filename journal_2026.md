@@ -4606,3 +4606,7 @@ I like this stock on the first day. I should be having my systems stalk these st
 Done with pullbacks. Next are price spikes. I wonder what that will be about.
 
 In truth, I am not that interested in VWAP, but I am in some of these other vids, so Kenny's presentation was a chore to go through.
+
+11:05am. ![](images/image-2369.png)
+
+I'll have to figure out how to deal with halts. But I like these patterns a lot more than the VWAP trades or second day plays.

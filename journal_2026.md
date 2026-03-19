@@ -4809,3 +4809,12 @@ That will only leave these two. I'll clear them tomorrow and then get back to wo
 Oh yeah, I also said I'd watch some low float vids on the SMB channel. God knows I should because they'll have better quality than this shitty fttuts course.
 
 Maybe I should have just gotten the list of trades from the SMB training site and then checked them out on Youtube. The Youtube vids are of far higher quality than this.
+
+6:30pm. ![](images/image-2395.png)
+
+Look at the volume on the USO. I could have traded this potentially.
+
+https://youtu.be/2JOTJp67zo4
+The Early Signs of a Successful Trader
+
+They really emphasize trading the news much like SMB does. I'll watch it today and then stop for the day. Tomorrow I'll finish the course and the low float vids and then resume the review the day after that.

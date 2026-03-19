@@ -4770,3 +4770,7 @@ I could get better RR than just 1:3 using volume charts.
 This is a great chart because you can see the price going nowhere when the volume is low, and trending strongly when it's high. That is the fundamental pattern that I want to take advantage of as a trader.
 
 Having constant volume is of zero interest to me.
+
+5pm. ![](images/image-2390.png)
+
+I might just skip this one so I can get to opening drive plays and whatever big dog consolidations are.

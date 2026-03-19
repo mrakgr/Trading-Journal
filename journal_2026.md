@@ -4584,3 +4584,11 @@ This is the backtest of buying the 5 day low and selling the 5 day high when the
 > Bella: When we talk about these changing fundamentals trades I hope people don't take away that they have to hold for the entire move.
 
 Let me stop here for lunch. I should be able to finish this course in a few days at this rate.
+
+3/19/2026
+
+9:25am. https://www.reddit.com/r/algotrading/comments/1rveu7e/i_reverseengineered_the_ib_gateway_and_rebuilt_it/
+
+Interesting bit of work. Rather than using this, once I am ready I should just switch brokers to Lime or try to join SMB and use their tech stack instead.
+
+Let me resume the vids.

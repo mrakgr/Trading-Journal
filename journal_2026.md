@@ -4694,3 +4694,7 @@ Virgin Punk: Clockwork Girl is amazing. I had to pick auto translation from Japa
 2:50pm. ![](images/image-2374.png)
 
 Surprised he says they don't happen that often.
+
+![](images/image-2375.png)
+
+Here is the checklist.

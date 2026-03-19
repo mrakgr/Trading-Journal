@@ -4762,3 +4762,5 @@ Those sharp spikes will turn into smooth trends on the volume chart.
 ![](images/image-2388.png)
 
 I could get better RR than just 1:3 using volume charts.
+
+4:45pm. Yeah, I don't like the second day play from the perspective of price. I like it from the perspective of volume. If I missed the 1st day in these low floats which can happen, I should have my systems watching them on the following days until the volume dries for a few days. That seems like it could make sense.

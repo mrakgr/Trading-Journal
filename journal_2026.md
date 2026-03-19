@@ -4596,3 +4596,7 @@ Let me resume the vids.
 10:20am. ![](images/image-2366.png)
 
 I like these charts a lot. Looking for volume coming in and riding the waves is what I want to do.
+
+![](images/image-2367.png)
+
+I like this stock on the first day. I should be having my systems stalk these stocks for volume coming in and then striking hard.

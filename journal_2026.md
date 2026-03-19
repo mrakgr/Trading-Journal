@@ -4754,3 +4754,7 @@ When you have extremes in volume, it's easier to see buying and selling making w
 4:35pm. I like how unlike with Changing Fundamentals type of trades is that he is looking for high short interest rather than low. Yeah, I am starting to feel my focus coming in. I was thinking how I'd want to trade these types of stocks. And they fit my new volume based chart trading like a glove.
 
 I just need high volatility, and high volume and that is it. I don't need complicated systems to trade these at all.
+
+![](images/image-2387.png)
+
+Those sharp spikes will turn into smooth trends on the volume chart.

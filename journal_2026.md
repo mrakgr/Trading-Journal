@@ -4884,3 +4884,10 @@ Then I am going to watch this. There aren't that many videos on low floats.
 https://youtu.be/iGab0nsrS10?t=229
 > Automation is a must.
 
+![](images/image-2398.png)
+> Gap up holding VWAP.
+
+This is interesting.
+
+![](images/image-2399.png)
+> Your PnL isn't defined by how aggressive you are. It's defined by how specific and how selective you are.

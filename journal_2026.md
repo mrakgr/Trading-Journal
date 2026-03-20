@@ -4818,3 +4818,15 @@ https://youtu.be/2JOTJp67zo4
 The Early Signs of a Successful Trader
 
 They really emphasize trading the news much like SMB does. I'll watch it today and then stop for the day. Tomorrow I'll finish the course and the low float vids and then resume the review the day after that.
+
+3/20/2026
+
+8:55am. Let me start. It's time to clear the last two vids.
+
+I think it would really be worth it to get the full course for SMB at some point. The fttuts one has dogshit quality.
+
+...Lol, the opening drive play is 3 minutes long.
+
+Yeah, for a course this is dogshit quality. He didn't even explain the trade.
+
+Let me watch the last video. So far, I think price spikes was the most interesting video as it's the furthest away from my intended style.

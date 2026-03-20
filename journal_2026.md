@@ -4859,3 +4859,8 @@ How To Trade A *Low Float* Stock Without Blowing Up Your Account
 Let me finally watch some low floats.
 
 He says the sweet spot is 5m shares and what makes them good is that we aren't trading against other institutional traders, but against retail participants.
+
+https://youtu.be/AJJ-ZSJw7hc?t=316
+> When they get over 5 dollars, they become marginable again.
+
+Ah, I didn't realize that stocks below 5$ aren't marginable.

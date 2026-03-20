@@ -4923,3 +4923,5 @@ Day 1 Changing Fundamentals play followed by a Second Day play (on the 3rd day.)
 ![](images/image-2402.png)
 
 The stocks they are trading here are just lovely. Exactly the kind of bipolar action that is to my taste.
+
+He neglected to mention how the average volume has been going up on this chart.

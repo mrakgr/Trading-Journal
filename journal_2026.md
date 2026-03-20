@@ -4925,3 +4925,7 @@ Day 1 Changing Fundamentals play followed by a Second Day play (on the 3rd day.)
 The stocks they are trading here are just lovely. Exactly the kind of bipolar action that is to my taste.
 
 He neglected to mention how the average volume has been going up on this chart.
+
+![](images/image-2403.png)
+
+He's pointing out how the volume is missing on the breakout of the wedge. And indeed, I'd give this trade a pass because of that, but maybe it will come in further down the line.

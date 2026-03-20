@@ -4915,3 +4915,8 @@ Ah whatever, let me check this out and then I will take a break. I wasn't really
 ![](images/image-2400.png)
 
 Oh, they'll be covering NVTS.
+
+![](images/image-2401.png)
+
+Day 1 Changing Fundamentals play followed by a Second Day play (on the 3rd day.)
+

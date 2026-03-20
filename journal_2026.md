@@ -4940,3 +4940,14 @@ I'll watch this after watching the breakout video.
 https://youtu.be/wpPHULhcsn4?t=1335
 > When you're in from great prices, it doesn't hurt to keep 10-20% to see what could happen. It starts to trade your swing trading brain.
 
+![](images/image-2404.png)
+![](images/image-2409.png)
+![](images/image-2410.png)
+![](images/image-2408.png)
+![](images/image-2407.png)
+![](images/image-2406.png)
+![](images/image-2405.png)
+
+This is the Changing Fundamentals + Second Day setups applied to low floats. Exactly what I want.
+
+I am done with the videos for now.

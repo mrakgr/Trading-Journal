@@ -4951,3 +4951,31 @@ https://youtu.be/wpPHULhcsn4?t=1335
 This is the Changing Fundamentals + Second Day setups applied to low floats. Exactly what I want.
 
 I am done with the videos for now.
+
+Oh, wait I have the Opening Drive video to go through.
+
+![](images/image-2411.png)
+
+The tape is unreadable as usual.
+
+12:10pm. Ok, nevermind this. I am not going to get anything more out of these tape reading vids compared to using volume charts.
+
+I've been thinking how I am going to architect the expected volume, and I think that for every fixed block, I am just going to pass in the expected duration as an argument. The reason why this will be necessary is because I'll have to feed model with the needed info on what the likely expected volume should be. It needs to know what abnormal buying and selling is on the open.
+
+We'll see. We'll see...
+
+12:15pm. Let me stop here for the morning. I did some good work.
+
+I am really going to focus in documenting the various setups from here on out. I'll start work on making the reference playbook of 100 of the best stocks in play suitable for me.
+
+Ideally they should have:
+* Strong catalysts.
+* High volume.
+* Low float.
+* High short interest.
+
+Once I start documenting these, it will be easier to detect them in real time.
+
+Then I'll be able to either scalp into them for swing trades or trade them move to move. It will be great.
+
+Let me have breakfast here. I am not sure if I'll be doing that work today. I need to work with my dad so we can setup my physical exercise methods. I am supposed to use a band for my shoulder exercise, but I have nowhere around the house to hook them.

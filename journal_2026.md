@@ -4868,3 +4868,19 @@ Ah, I didn't realize that stocks below 5$ aren't marginable.
 ![](images/image-2397.png)
 
 These stocks are so bipolar. But that's exactly what I want. I want the stocks to just tell me when they want to go up or not via volume. I don't want them to be steady like large caps.
+
+By the way, that would have been a sick second day trade.
+
+9:50am. https://youtu.be/iGab0nsrS10
+How to trade the open
+
+Let me watch this.
+
+https://www.youtube.com/watch?v=Cz6YVuaRo38
+Top 10 Gap Trading Mistakes You Must Avoid (And how to make them big winners)
+
+Then I am going to watch this. There aren't that many videos on low floats.
+
+https://youtu.be/iGab0nsrS10?t=229
+> Automation is a must.
+

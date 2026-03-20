@@ -4898,7 +4898,7 @@ Great quote.
 
 I know how to construct the playbook without looking.
 
-* Big Picture
+* Big Picture (Market & Themes)
 * Intraday Fundamentals (RVOL, Premarket Volume, News Catalyst, Gap %, Short Interest)
 * Technical Analysis (Important long term S/R levels, Long term momentum)
 * Tape Reading (Volume charts)
@@ -4911,3 +4911,7 @@ Another part of the big picture is knowing what themes are in play in the market
 Elite Prop Trader's High Odds Breakout Technique (Step-by-Step Instructions)
 
 Ah whatever, let me check this out and then I will take a break. I wasn't really prepared to start working on the reviews today, so I might as well continue what I was doing until the end of the morning session. After the break I'll focus on reviewing the first 5 stocks on the list. And then I am going to be adding more starting with the recent examples.
+
+![](images/image-2400.png)
+
+Oh, they'll be covering NVTS.

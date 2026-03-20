@@ -4891,3 +4891,23 @@ This is interesting.
 
 ![](images/image-2399.png)
 > Your PnL isn't defined by how aggressive you are. It's defined by how specific and how selective you are.
+
+Great quote.
+
+10:40am. Ok, with this I think I am basically done with the courses and the videos.
+
+I know how to construct the playbook without looking.
+
+* Big Picture
+* Intraday Fundamentals (RVOL, Premarket Volume, News Catalyst, Gap %, Short Interest)
+* Technical Analysis (Important long term S/R levels, Long term momentum)
+* Tape Reading (Volume charts)
+
+When it comes to the big picture, I won't pay too much importance to it. I'll just check that the market isn't crashing or in a high vol area like April 2025.
+
+Another part of the big picture is knowing what themes are in play in the market. I'll ignore that for the first 5 stocks as I it's hard for me to go back and figure this out. I'll try asking Opus about it.
+
+10:50am. https://youtu.be/wpPHULhcsn4
+Elite Prop Trader's High Odds Breakout Technique (Step-by-Step Instructions)
+
+Ah whatever, let me check this out and then I will take a break. I wasn't really prepared to start working on the reviews today, so I might as well continue what I was doing until the end of the morning session. After the break I'll focus on reviewing the first 5 stocks on the list. And then I am going to be adding more starting with the recent examples.

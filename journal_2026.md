@@ -4936,3 +4936,7 @@ https://youtu.be/L-_lufNM7sI
 The Opening Drive Momentum Trade (reading the tape)
 
 I'll watch this after watching the breakout video.
+
+https://youtu.be/wpPHULhcsn4?t=1335
+> When you're in from great prices, it doesn't hurt to keep 10-20% to see what could happen. It starts to trade your swing trading brain.
+

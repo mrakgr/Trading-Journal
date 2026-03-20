@@ -4864,3 +4864,7 @@ https://youtu.be/AJJ-ZSJw7hc?t=316
 > When they get over 5 dollars, they become marginable again.
 
 Ah, I didn't realize that stocks below 5$ aren't marginable.
+
+![](images/image-2397.png)
+
+These stocks are so bipolar. But that's exactly what I want. I want the stocks to just tell me when they want to go up or not via volume. I don't want them to be steady like large caps.

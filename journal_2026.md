@@ -4929,3 +4929,10 @@ He neglected to mention how the average volume has been going up on this chart.
 ![](images/image-2403.png)
 
 He's pointing out how the volume is missing on the breakout of the wedge. And indeed, I'd give this trade a pass because of that, but maybe it will come in further down the line.
+
+...Nope. But this is a good reason not to miss the opening drive.
+
+https://youtu.be/L-_lufNM7sI
+The Opening Drive Momentum Trade (reading the tape)
+
+I'll watch this after watching the breakout video.

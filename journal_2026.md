@@ -4830,3 +4830,32 @@ I think it would really be worth it to get the full course for SMB at some point
 Yeah, for a course this is dogshit quality. He didn't even explain the trade.
 
 Let me watch the last video. So far, I think price spikes was the most interesting video as it's the furthest away from my intended style.
+
+https://smbpowerpoints.s3.amazonaws.com/The+Winning+Trader+Program+Syllabus.pdf
+
+I won't buy the course as without the discount it would be 6k, but I should just look up some of these on their channel.
+
+![](images/image-2396.png)
+
+Hmmmm...
+
+Ok, nevermind. Merritt's explanations make no sense to me.
+
+I am done with the course. Let me look up what I am curious about on their channel.
+
+https://youtu.be/M-zYadVdSLg
+The Explosive Second Day Play (trading strategy)
+
+The stuff on their channel is better than in the pirated course. The audio and video are of proper quality.
+
+9:20am. https://youtu.be/sbFSVUj43nM
+How to Nail Winning Trades at Market Open (in only 30 minutes)
+
+He says that 80% of stocks don't trend after the open. But the other 20% do, maybe, I could make it work with proper movement.
+
+https://youtu.be/AJJ-ZSJw7hc
+How To Trade A *Low Float* Stock Without Blowing Up Your Account
+
+Let me finally watch some low floats.
+
+He says the sweet spot is 5m shares and what makes them good is that we aren't trading against other institutional traders, but against retail participants.

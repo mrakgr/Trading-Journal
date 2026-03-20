@@ -4979,3 +4979,12 @@ Once I start documenting these, it will be easier to detect them in real time.
 Then I'll be able to either scalp into them for swing trades or trade them move to move. It will be great.
 
 Let me have breakfast here. I am not sure if I'll be doing that work today. I need to work with my dad so we can setup my physical exercise methods. I am supposed to use a band for my shoulder exercise, but I have nowhere around the house to hook them.
+
+1:10pm. ![](images/image-2412.png)
+
+Amazing video. I had no idea Jeffrey Epstein was connected to the Rothchilds.
+
+https://youtu.be/aQSDSqdlFxk
+Game Theory #13: Epstein's World
+
+Lol'd at him running his sex island for fun. He says that Elon Musk and Bill Gates were begging him for money.

@@ -4988,3 +4988,11 @@ https://youtu.be/aQSDSqdlFxk
 Game Theory #13: Epstein's World
 
 Lol'd at him running his sex island for fun. He says that Elon Musk and Bill Gates were begging him for money.
+
+3/21/2026
+
+2:05pm. ![](images/image-2413.png)
+
+SMB is legit, I am sure of it.
+
+Nevermind, I am just wasting my time reading this sub. The people there are unironically retarded. Let me do my daily exercises instead of wasting time like this.

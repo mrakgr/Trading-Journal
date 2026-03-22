@@ -4996,3 +4996,16 @@ Lol'd at him running his sex island for fun. He says that Elon Musk and Bill Gat
 SMB is legit, I am sure of it.
 
 Nevermind, I am just wasting my time reading this sub. The people there are unironically retarded. Let me do my daily exercises instead of wasting time like this.
+
+3/22/2026
+
+2:15pm. https://youtu.be/0g3yo1DjiLM?t=2121
+Secret History #3: Death by Gerontocracy
+
+> In finance, where do the dumbest people work?
+
+Actually, I am not sure myself. I am curious what the answer will be. Do they even work in finance?
+
+> They work in pension funds.
+
+Lol.

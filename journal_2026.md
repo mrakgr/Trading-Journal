@@ -5016,3 +5016,7 @@ Lol.
 > And this has created huge issues within government pension funds throughout the world.
 
 Fascinating video.
+
+![](images/image-2414.png)
+
+He says that digital currencies are a tool of repression.

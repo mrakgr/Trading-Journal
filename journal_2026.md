@@ -5023,3 +5023,13 @@ He says that digital currencies are a tool of repression.
 
 6:40pm. https://youtu.be/K-_l9jBGo74?t=1499
 > Abstraction is just a fancy way of saying you're removed from reality.
+
+7:35pm. Phew, I've caught up to Limbus over the past few days, and I really wish I could play Nioh 3 instead of War of the Righteous.
+
+It seems that it's going to go the way of the Kingmaker where I quite in the final act. I wish I was playing action games with beatiful FeMCs, with WoTR it feels like I am going over areas sweeping them like a janitor.
+
+I could even play Bloodborne instead. I could also do a NG+ of Stellar Blade.
+
+I think I'll give Wotr a few more days to decide and then stop.
+
+I am making pretty good progress documenting various stocks in play in the other repo. I haven't been finding that many momentum opportunities lately. At this rate I might have to trend trade instead, but that is fine.

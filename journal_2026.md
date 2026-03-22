@@ -5020,3 +5020,6 @@ Fascinating video.
 ![](images/image-2414.png)
 
 He says that digital currencies are a tool of repression.
+
+6:40pm. https://youtu.be/K-_l9jBGo74?t=1499
+> Abstraction is just a fancy way of saying you're removed from reality.

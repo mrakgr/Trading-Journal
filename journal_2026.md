@@ -5009,3 +5009,10 @@ Actually, I am not sure myself. I am curious what the answer will be. Do they ev
 > They work in pension funds.
 
 Lol.
+
+> Why? Because it's a boring job. You just sit there and do nothing all day.
+> So these pension funds are constantly getting ripped off by investment banks where the smart people are.
+> So if you look at all the investment vehicles, pension funds have lost the most money.
+> And this has created huge issues within government pension funds throughout the world.
+
+Fascinating video.

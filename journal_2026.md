@@ -5033,3 +5033,15 @@ I could even play Bloodborne instead. I could also do a NG+ of Stellar Blade.
 I think I'll give Wotr a few more days to decide and then stop.
 
 I am making pretty good progress documenting various stocks in play in the other repo. I haven't been finding that many momentum opportunities lately. At this rate I might have to trend trade instead, but that is fine.
+
+3/23/2026
+
+7:55am. I woke up really early today. I really might just get Nioh 3 even though it's 70 euros. I am a big boy now so I should do what I want. Using money to buy games is something that I had wanted anyway.
+
+8:25am. Let me start.
+
+It feels really incomfortable not having income so I need to work hard at this.
+
+![](images/image-2415.png)
+
+Holy crap, did SNDK do well.

@@ -5045,3 +5045,17 @@ It feels really incomfortable not having income so I need to work hard at this.
 ![](images/image-2415.png)
 
 Holy crap, did SNDK do well.
+
+3/25/2026
+
+8:45am. Now that I am playing Nioh, my sleep is getting worse again. I need to learn to chill.
+
+At any rate, I want to watch more of Neerav's course today.
+
+8:55am. I'll want to iterate between filling out the reference document and the course. I got a decent bit done yesterday despite having my whole day taken up.
+
+9:20am. Ok, let me start work for the day. I want to watch the course just for a bit. I am curious about the VWAP sections. I'll skim it all and then get back to the usual work.
+
+9:30am. Nevermind, I cannot watch his courses anymore. I forgot how nonsensical he is. I'll take what I can from the early sections and be done with it.
+
+Let me focus on my own path. Let me fill out the document more.

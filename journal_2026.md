@@ -5056,6 +5056,10 @@ At any rate, I want to watch more of Neerav's course today.
 
 9:20am. Ok, let me start work for the day. I want to watch the course just for a bit. I am curious about the VWAP sections. I'll skim it all and then get back to the usual work.
 
-9:30am. Nevermind, I cannot watch his courses anymore. I forgot how nonsensical he is. I'll take what I can from the early sections and be done with it.
+9:30am. Nevermind, I cannot watch his courses anymore. I forgot how nonsensical he is. I'll keep what I have taken from the early sections already and be done with it.
 
 Let me focus on my own path. Let me fill out the document more.
+
+5:15pm. I am tired so I'll stop early for the day here. If you can consider 5:10pm early. Usually I try to push it till 6pm, but since this is turning into a grind, I decided to cut it loose early. I've established my workflow so I'll try putting another 30 tickers into the document tomorrow. For reference, I am only at 30/100 currently.
+
+The novelty of volume charts is wearing off for me, and I just want to start doing actual backtesting next. I am looking forward to that.

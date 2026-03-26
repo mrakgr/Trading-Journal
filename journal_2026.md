@@ -5063,3 +5063,14 @@ Let me focus on my own path. Let me fill out the document more.
 5:15pm. I am tired so I'll stop early for the day here. If you can consider 5:10pm early. Usually I try to push it till 6pm, but since this is turning into a grind, I decided to cut it loose early. I've established my workflow so I'll try putting another 30 tickers into the document tomorrow. For reference, I am only at 30/100 currently.
 
 The novelty of volume charts is wearing off for me, and I just want to start doing actual backtesting next. I am looking forward to that.
+
+3/26/2026
+
+6:45pm. https://youtu.be/0aASxQrJYuo?t=224
+Game Theory #16: Pax Judaica Rising
+
+> We negotiate, uh, with bombs.
+
+I can't believe he actually said that. Holy crap, lol.
+
+Based retards.

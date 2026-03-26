@@ -5105,3 +5105,7 @@ Now he is talking about data centers in the middle east. Israel unlike its compe
 ![](images/image-2421.png)
 
 How is this possible?
+
+![](images/image-2422.png)
+
+Ah, because the US removed the sanctions on Iran. Galaxy brained move by the US.

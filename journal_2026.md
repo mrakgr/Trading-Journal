@@ -5079,3 +5079,8 @@ Based retards.
 > These things, they are not designed to win wars. They are designed to steal as much money from the American taxpayer.
 
 Lol.
+
+![](images/image-2417.png)
+> ISIS is basically a Mossad operation.
+
+I didn't know this.

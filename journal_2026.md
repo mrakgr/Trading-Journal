@@ -5101,3 +5101,7 @@ It makes sense. I guess this also explains why Israel exists. I had a hard time 
 
 ![](images/image-2420.png)
 Now he is talking about data centers in the middle east. Israel unlike its competitors has the human capital to operate them. And the reason AI is important is for the sake of creating a surveilance state.
+
+![](images/image-2421.png)
+
+How is this possible?

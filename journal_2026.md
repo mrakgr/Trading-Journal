@@ -5091,3 +5091,8 @@ You know, this guy really beats what I was reading on the right wing sites 1.5 d
 > The problem with Empire as it grows old is that it doesn't want to do bad things.
 
 I could be playing Nioh 3, but instead I am watching this. I can't believe he is actually convincing me that Israel is the same as the left side of this list.
+
+![](images/image-2419.png)
+> Their main enemy is the American empire.
+
+It makes sense. I guess this also explains why Israel exists. I had a hard time conceiving why, but Jiang says they are mercenaries for the Anglo-American empire. They were created to control the Middle East on their behalf.

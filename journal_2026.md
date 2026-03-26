@@ -5084,3 +5084,5 @@ Lol.
 > ISIS is basically a Mossad operation.
 
 I didn't know this.
+
+You know, this guy really beats what I was reading on the right wing sites 1.5 decades ago.

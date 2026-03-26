@@ -5113,3 +5113,6 @@ Ah, because the US removed the sanctions on Iran. Galaxy brained move by the US.
 ![](images/image-2423.png)
 
 He says that Israel and Iran aren't enemies except ideologically.
+
+![](images/image-2424.png)
+> If Iran proves it is strong, and if Israel proves it is strong, and if GCC and US prove they are weak, they will get together and say screw these guys.

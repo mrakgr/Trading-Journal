@@ -5071,6 +5071,11 @@ Game Theory #16: Pax Judaica Rising
 
 > We negotiate, uh, with bombs.
 
-I can't believe he actually said that. Holy crap, lol.
+I can't believe Pete Hegseth actually said that. Holy crap, lol.
 
 Based retards.
+
+7:55pm. ![](images/image-2416.png)
+> These things, they are not designed to win wars. They are designed to steal as much money from the American taxpayer.
+
+Lol.

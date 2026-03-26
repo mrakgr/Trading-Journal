@@ -5109,3 +5109,7 @@ How is this possible?
 ![](images/image-2422.png)
 
 Ah, because the US removed the sanctions on Iran. Galaxy brained move by the US.
+
+![](images/image-2423.png)
+
+He says that Israel and Iran aren't enemies except ideologically.

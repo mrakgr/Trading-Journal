@@ -5116,3 +5116,4 @@ He says that Israel and Iran aren't enemies except ideologically.
 
 ![](images/image-2424.png)
 > If Iran proves it is strong, and if Israel proves it is strong, and if GCC and US prove they are weak, they will get together and say screw these guys.
+> Because that is the law of the jungle. That is what is in the best interest of Israel according to game theory.

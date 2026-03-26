@@ -5086,3 +5086,8 @@ Lol.
 I didn't know this.
 
 You know, this guy really beats what I was reading on the right wing sites 1.5 decades ago.
+
+![](images/image-2418.png)
+> The problem with Empire as it grows old is that it doesn't want to do bad things.
+
+I could be playing Nioh 3, but instead I am watching this. I can't believe he is actually convincing me that Israel is the same as the left side of this list.

@@ -5096,3 +5096,5 @@ I could be playing Nioh 3, but instead I am watching this. I can't believe he is
 > Their main enemy is the American empire.
 
 It makes sense. I guess this also explains why Israel exists. I had a hard time conceiving why, but Jiang says they are mercenaries for the Anglo-American empire. They were created to control the Middle East on their behalf.
+
+> So in other words, you use this war in Iran to destroy the American empire.

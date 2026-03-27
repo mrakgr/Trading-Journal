@@ -5120,3 +5120,10 @@ He says that Israel and Iran aren't enemies except ideologically.
 
 ![](images/image-2425.png)
 > The weak don't work well together. They are weak because they are stupid.
+
+3/27/2026
+
+1:55pm. https://news.ycombinator.com/item?id=47534848
+We haven't seen the worst of what gambling and prediction markets will do (derekthompson.org)
+
+More prediction market threads.

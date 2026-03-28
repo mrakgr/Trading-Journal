@@ -5132,8 +5132,12 @@ More prediction market threads.
 
 12pm. ![](images/image-2426.png)
 
-I think the 106k that I have in my brokerage account is going to be convenient for paying family expenses when the crisis hits, though my parents have been good at that historically. It's best to just stay out of bear markets, they aren't a joke. The market can be trending down for many weeks and reverse all of that in a few days. Unless I have a firmly tested intraday trading system, I have no business making bets in the market.
+I think the 106k that I have in my brokerage account is going to be convenient for paying family expenses when the crisis hits, though my parents have been good at that historically and I've never felt the need to contribute, we had no issue in 2008. It's best to just stay out of bear markets, they aren't a joke. The market can be trending down for many weeks and reverse all of that in a few days. Unless I have a firmly tested intraday trading system, I have no business making bets in the market.
 
 In other news, I finally cross 100 entries in the refence document. I need to review the latest batch, but after that I will be moving to modeling and backtesting.
 
 2:25pm. I want to skip exercises, but I really need to do them, so let me. Then I will be able to review the finaly third of the stocks on the list and will be able to move on to more interesting work.
+
+6:50pm. Done for the day. There are some very interesting charts in the reference document now. A lot of food for thought is there.
+
+I couldn't finish the review in time today, but I'll do so tomorrow. Time to rest.

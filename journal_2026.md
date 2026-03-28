@@ -5127,3 +5127,11 @@ He says that Israel and Iran aren't enemies except ideologically.
 We haven't seen the worst of what gambling and prediction markets will do (derekthompson.org)
 
 More prediction market threads.
+
+3/28/2026
+
+12pm. ![](images/image-2426.png)
+
+I think the 106k that I have in my brokerago account is going to be convenient for paying family expenses. It's best to just stay out of bear markets, they aren't a joke. The market can be trending down for weeks and reverse all of that in a few days. Unless I have a firmly tested intraday trading system, I have no business making bets in the market.
+
+In other news, I finally cross 100 entries in the refence document. I need to review the latest batch, but after that I will be moving to modeling and backtesting.

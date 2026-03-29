@@ -5141,3 +5141,9 @@ In other news, I finally cross 100 entries in the refence document. I need to re
 6:50pm. Done for the day. There are some very interesting charts in the reference document now. A lot of food for thought is there.
 
 I couldn't finish the review in time today, but I'll do so tomorrow. Time to rest.
+
+3/29/2026
+
+10:10am. ![](images/image-2427.png)
+
+Lol'd at these comments. I think the clock skipped an hour today so I am later than usual. I'll start soon.

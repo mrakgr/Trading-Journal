@@ -5147,3 +5147,7 @@ I couldn't finish the review in time today, but I'll do so tomorrow. Time to res
 10:10am. ![](images/image-2427.png)
 
 Lol'd at these comments. I think the clock skipped an hour today so I am later than usual. I'll start soon.
+
+> "If you are not as dumb as you appear, you will be able to deceive the enemy. If you are as dumb as you appear, you will be able to deceive yourself." Don Tzu
+
+Ok, this one is to remember.

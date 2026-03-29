@@ -5151,3 +5151,38 @@ Lol'd at these comments. I think the clock skipped an hour today so I am later t
 > "If you are not as dumb as you appear, you will be able to deceive the enemy. If you are as dumb as you appear, you will be able to deceive yourself." Don Tzu
 
 Ok, this one is to remember.
+
+4:40pm. Done with the chart reviews. After all is said and done I have no idea what the profitability of various strategies I have in mind will be.
+
+But I am certain now that whatever strategy I pick, I will be able to analyze it with an objective outlook. And the edge of that is huge.
+
+I am going to beat all those hotshot discretionary traders and prove that there is no reason for a high level programmer to ever be poor.
+
+Starting tomorrow, we will be moving on to modeling and then backtesting. I am really looking forward to seeing how well the systems will do.
+
+Hmmm, I cannot start backtesting just yet, because the one model that I do have has only a single downtrending pattern.
+
+I'll want to do a decent mix of various different patterns and seeing where that gets me. If I can achieve profitability without comissions on the reference document I'll be able to move on to adding delays and comissions.
+
+A part of me doesn't really believe that I'll be able to make it, simply because that is the weight of my fate, but another part of me wants to oppose that.
+
+I just hope that as I go along I will be able to keep on improving.
+
+Poker or rather, AI itself was so bad to me. It gave me so much less than what I had asked of it.
+
+I wish just once that I could get what I really want.
+
+And what I want from trading is consistent profitability. If I could be profitable 80% of all trading days, I will be satisfied. And by that I don't mean by martingale strategies, but with anti martingale ones.
+
+Small losses, big winners and consistency is the holy trinity of trading.
+
+I will pursue it.
+
+...
+...
+...
+...
+...
+...
+
+4:50pm. Done for the day, let me do my exercises here. I'll post these clips on Youtube tomorrow and then move on to more interesting work. It feels like I haven't done serious programming in a while.

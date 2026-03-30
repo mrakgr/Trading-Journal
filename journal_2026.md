@@ -5186,3 +5186,9 @@ I will pursue it.
 ...
 
 4:50pm. Done for the day, let me do my exercises here. I'll post these clips on Youtube tomorrow and then move on to more interesting work. It feels like I haven't done serious programming in a while.
+
+3/30/2026
+
+9:20am. This sucks. I wish I could sleep more, but instead I am waking up earlier.
+
+Because of the hour skip yesterday, usually now would be 8:20. At any rate, I'll take it easy today and take the time to post the clips collected so far to Youtube.

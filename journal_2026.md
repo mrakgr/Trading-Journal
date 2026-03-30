@@ -5252,9 +5252,9 @@ Now I need to write the description.
 
 ///
 
-Part 1|2|3 of the 3 part Data Collection miniseries
+Part 1|2|3 of the 3-part Data Collection miniseries
 
-Before we can model, we need the data to base the models on. The goal is simple - gather 100 examples of stocks in play. Studying the volume charts of them will give us a realistic picture of how such stocks behave intraday and that will play a big part in our modeling effort. In addition to that, we'll be able to use such examples after we've trained the models for backtesting. So it is a vital step of our plan. We cannot be data scientists without the data.
+Before we can model, we need the data to base the models on. The goal is simple - gather 100 examples of stocks in play in a reference document. Studying the volume charts of them will give us a realistic picture of how such stocks behave intraday and that will play a big part in our modeling effort. In addition to that, we'll be able to use such examples after we've trained the models for backtesting. So, it is a vital step of our plan. We cannot be data scientists without the data.
 
 And once we have it we will be able to move on to more interesting things. We're definitely looking forward to getting back into programming. The pattern combinators are beckoning to us.
 
@@ -5270,3 +5270,14 @@ Let me go with this.
 
 12:05pm. Let me take a break today and maybe even tomorrow. I should use that time to think about what I really want to do.
 
+1:45pm. https://youtu.be/d6jgvQJN_tg
+Nioh Was Never a Soulslike
+
+Amazing review video.
+
+https://youtu.be/Z-sJzvaM_20
+How Europe Became "Un-Investable"
+
+Let me watch this. I realllly feel exhausted today. I'd rather just take a nap.
+
+I am going to go to bed at 10pm today.

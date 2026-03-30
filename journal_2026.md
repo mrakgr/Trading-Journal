@@ -5192,3 +5192,81 @@ I will pursue it.
 9:20am. This sucks. I wish I could sleep more, but instead I am waking up earlier.
 
 Because of the hour skip yesterday, usually now would be 8:20. At any rate, I'll take it easy today and take the time to post the clips collected so far to Youtube.
+
+11:25am. I've set the 3 vids to render.
+
+Here is this batch's music.
+
+Stone McKnuckle - Raptor - Call of the Shadows (remix): https://youtu.be/Y_SgzSU-Ok0
+Scarlet Strings - Jan 8, 2026: https://youtu.be/QNym1qREggY
+Symphony of Blades - Azure Dragon Knight: https://youtu.be/pwvdIif7uVU
+Veilcore Music - No.162: https://youtu.be/KHBlpZvq-Z8
+Veilcore Music - No.161: https://youtu.be/AMf1-_gl1HM
+KageYume - Harem Fantasy Rock Playlist: https://youtu.be/0EWB9PjMWjE
+KageYume - Boss Gate Awakening: https://youtu.be/vEQRhSJ3NpI
+KageYume - Mage Metal Boss Battle Theme: https://youtu.be/wxnBzt_V1YQ
+KageYume - Dark Samurai Boss Battle: https://youtu.be/1iTDPTauNII
+KageYume - Violin Bard Playlist: https://youtu.be/m96NR_ntetQ
+
+The last two I think didn't manage to fit.
+
+I've upgraded the yt-dlp download script a bit. Here it is for reference.
+
+```powershell
+# install this via pip: python -m pip install --force-reinstall https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
+# Also: winget install FFmpeg
+
+# $output = "-o", '%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s'
+
+# Download and merge the best video-only format and the best audio-only format,
+# or download the best combined format if video-only format is not available
+# $quality = "-f", "bv+ba/b"
+
+$vids = @(
+    ,@("https://youtu.be/Y_SgzSU-Ok0", "Stone McKnuckle - Raptor - Call of the Shadows (remix)")
+    ,@("https://youtu.be/QNym1qREggY", "Scarlet Strings - Jan 8, 2026")
+    ,@("https://youtu.be/pwvdIif7uVU", "Symphony of Blades - Azure Dragon Knight")
+    ,@("https://youtu.be/KHBlpZvq-Z8", "Veilcore Music - No.162")
+    ,@("https://youtu.be/AMf1-_gl1HM", "Veilcore Music - No.161")
+    ,@("https://youtu.be/0EWB9PjMWjE", "KageYume - Harem Fantasy Rock Playlist")
+    ,@("https://youtu.be/vEQRhSJ3NpI", "KageYume - Boss Gate Awakening")
+    ,@("https://youtu.be/wxnBzt_V1YQ", "KageYume - Mage Metal Boss Battle Theme")
+    ,@("https://youtu.be/1iTDPTauNII", "KageYume - Dark Samurai Boss Battle")
+    ,@("https://youtu.be/m96NR_ntetQ", "KageYume - Violin Bard Playlist")
+    )
+    
+foreach ($vid in $vids) {
+    $url, $name = $vid
+    yt-dlp -o screencast/$name.wav -x --audio-format wav --js-runtimes node --remote-components ejs:github $url
+}
+
+Write-Host Music:
+Write-Host ""
+foreach ($vid in $vids) {
+    $url, $name = $vid
+    Write-Host ${name}: $url
+}
+```
+
+Now I need to write the description.
+
+///
+
+Part 1|2|3 of the 3 part Data Collection miniseries
+
+Before we can model, we need the data to base the models on. The goal is simple - gather 100 examples of stocks in play. Studying the volume charts of them will give us a realistic picture of how such stocks behave intraday and that will play a big part in our modeling effort. In addition to that, we'll be able to use such examples after we've trained the models for backtesting. So it is a vital step of our plan. We cannot be data scientists without the data.
+
+And once we have it we will be able to move on to more interesting things. We're definitely looking forward to getting back into programming. The pattern combinators are beckoning to us.
+
+Are we doing this for the money or something else? The money is definitely a factor, but there are other easier ways to get money than gambling in the market. I guess we're trying to find an answer. We're really supposed to be working on AI, and even poker was selected to stimulate that development. But perhaps, instead of focusing on developing AI, we should have focused on our inability to develop AI. Maybe that is why the field of statistics exists?
+
+By conquering a game as hard and ambiguous as trading, maybe we will get an answer as to what we're truly missing.
+
+///
+
+Let me go with this.
+
+12pm. I've been really enjoying playing Nioh 3, but I am always so tired the morning after. It so exhausting. But that is my usual state it seems.
+
+12:05pm. Let me take a break today and maybe even tomorrow. I should use that time to think about what I really want to do.
+

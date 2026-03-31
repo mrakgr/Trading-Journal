@@ -5339,3 +5339,7 @@ Jiang is so based.
 
 > Liberty is about making money and spending money.
 > Freud - Sex is awesome.
+
+7:15pm. ![](images/image-2431.png)
+
+He's saying that the real reason 2008 happened is because it was more profitable to collapse the system than to keep it alive. The usual behavior for banks would be to roll over the debts, but becuase people started betting there wouldn't be defaults, they decided to let the defaults happen. They took the money from the dumb people.

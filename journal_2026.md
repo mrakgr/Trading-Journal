@@ -5317,3 +5317,7 @@ Also it would be a good idea to get stats on the sequence systems, like when the
 Making a generative model and training a NN would take a ton of computing power, but these tests I could do very easily.
 
 Given my past failures with NNs, I am afraid of getting stuck getting nowhere for months. It's a very real possibility. There are easier ways.
+
+5pm. ![](images/image-2429.png)
+
+Oh, I see. I have a Visa card and I am probably paying 1% extra every time I buy something with it.

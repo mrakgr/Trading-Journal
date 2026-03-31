@@ -5332,3 +5332,10 @@ I could see mysellf using a VWAP system with a regime fillter NN to get rid of t
 To think, I could actually begin trading with real money in a few weeks if I don't bother messing with NNs and stick to simple systems. I want to try aiming for that.
 
 If I use NNs to just detect patterns, I could also try using an anchored VWAP system.
+
+7pm. ![](images/image-2430.png)
+
+Jiang is so based.
+
+> Liberty is about making money and spending money.
+> Freud - Sex is awesome.

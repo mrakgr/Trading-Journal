@@ -5346,3 +5346,7 @@ He's saying that the real reason 2008 happened is because it was more profitable
 
 ![](images/image-2432.png)
 > The bubbles don't just collapse, they collapse when it is profitable for a few individuals to make the collapse.
+
+![](images/image-2433.png)
+
+Interesting how these currency pegs look like holds on the volume charts.

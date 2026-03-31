@@ -5343,3 +5343,6 @@ Jiang is so based.
 7:15pm. ![](images/image-2431.png)
 
 He's saying that the real reason 2008 happened is because it was more profitable to collapse the system than to keep it alive. The usual behavior for banks would be to roll over the debts, but becuase people started betting there wouldn't be defaults, they decided to let the defaults happen. They took the money from the dumb people.
+
+![](images/image-2432.png)
+> The bubbles don't just collapse, they collapse when it is profitable for a few individuals to make the collapse.

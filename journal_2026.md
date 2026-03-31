@@ -5281,3 +5281,20 @@ How Europe Became "Un-Investable"
 Let me watch this. I realllly feel exhausted today. I'd rather just take a nap.
 
 I am going to go to bed at 10pm today.
+
+3/31/2026
+
+10:15am. I went to bed 3h later than intended, but I slept well so I'll put in some work today. Let me just do my morning reading first.
+
+1:20pm. ![](images/image-2428.png)
+
+I feel like I am all over the spectrum when it comes to altruism and utilitarianism.
+
+I tried doing some programming earlier and it's not coming to me.
+
+I know what the problem is, but I need some time to mentally ready myself for what is to come. In fact, as a part of that I'll do a plan in this journal.
+
+https://youtu.be/rkt0HQOogHE
+Secret History #15: Capital and the Bronze Age Collapse
+
+I've never heard about Brian Johnson before. Lol'd at him doing blood transfusions to stay younger.

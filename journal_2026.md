@@ -5321,3 +5321,14 @@ Given my past failures with NNs, I am afraid of getting stuck getting nowhere fo
 5pm. ![](images/image-2429.png)
 
 Oh, I see. I have a Visa card and I am probably paying 1% extra every time I buy something with it.
+
+5:40pm. https://youtu.be/OfCdTtmyuSQ
+3 Execution Styles Every Trader Must Know
+
+Yeah, I'll take it a bit slower here until I have a firm direction in mind. Especially now that the volume charts have been invented, the breakout systems should be back on the table. I should test them. Because those charts use stddev bars, it will also be easy to combine the bars.
+
+I could see mysellf using a VWAP system with a regime fillter NN to get rid of the range days.
+
+To think, I could actually begin trading with real money in a few weeks if I don't bother messing with NNs and stick to simple systems. I want to try aiming for that.
+
+If I use NNs to just detect patterns, I could also try using an anchored VWAP system.

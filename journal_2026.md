@@ -5350,3 +5350,8 @@ He's saying that the real reason 2008 happened is because it was more profitable
 ![](images/image-2433.png)
 
 Interesting how these currency pegs look like holds on the volume charts.
+
+7:45pm. https://youtu.be/iQugwviOScM
+Windows 11 is LYING to You (3 Settings Killing Trades)
+
+Let me watch this and then I'll play Nioh 3.

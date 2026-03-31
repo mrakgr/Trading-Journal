@@ -5298,3 +5298,22 @@ https://youtu.be/rkt0HQOogHE
 Secret History #15: Capital and the Bronze Age Collapse
 
 I've never heard about Brian Johnson before. Lol'd at him doing blood transfusions to stay younger.
+
+4:50pm. https://youtu.be/ls-eE8FVM8E
+Every major economy is trying to ditch Visa & MasterCard
+
+Today it seems I am just considering my options. I've done all this work in order to collect the data, and now I have modeling choices ahead of me.
+
+Now that things are escalating, I am looking deep inside of myself and considering the possibilities.
+
+And I think that instead of going with my original plan of creating a generative model what I am going to do is test out simpler systems instead starting with the VWAP one.
+
+The most important thing isn't to get the best system possible, but to make every single step an iterative improvement.
+
+Now that I've had the chance to get a more nuanced view of things after going through over 100 charts of stocks in play, I think I should just get the stats on the VWAP and ORB systems.
+
+Also it would be a good idea to get stats on the sequence systems, like when there are over 15 upbars in a row for example. Also I could break up the periods into slow and fast zones and get the stats on those.
+
+Making a generative model and training a NN would take a ton of computing power, but these tests I could do very easily.
+
+Given my past failures with NNs, I am afraid of getting stuck getting nowhere for months. It's a very real possibility. There are easier ways.

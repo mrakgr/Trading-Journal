@@ -5355,3 +5355,11 @@ Interesting how these currency pegs look like holds on the volume charts.
 Windows 11 is LYING to You (3 Settings Killing Trades)
 
 Let me watch this and then I'll play Nioh 3.
+
+11:30pm. The Demon of Pride is destroying me. I am locked in currently. I might as well stop here for the day.
+
+![](images/image-2434.png)
+
+Surprised he doesn't have anybody at SMB he can ask. Or was that before he joined SMB?
+
+At any rate, yeah, I need to try out some of these simple systems first.

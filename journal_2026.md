@@ -5363,3 +5363,11 @@ Let me watch this and then I'll play Nioh 3.
 Surprised he doesn't have anybody at SMB he can ask. Or was that before he joined SMB?
 
 At any rate, yeah, I need to try out some of these simple systems first.
+
+4/1/2026
+
+11am. Surprised I spent this much time in bed. I am thinking how I am going to approach this. In either case, I think I should do some thorough research on VWAP systems. I feel that anchored VWAP systems in particular should have a strong edge.
+
+![](images/image-2435.png)
+
+Trump is a gift that keeps giving. Let's be real, the ground invasion will definitely happen. Let's no pretend this idiot is any way in control.

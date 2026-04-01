@@ -5370,4 +5370,8 @@ At any rate, yeah, I need to try out some of these simple systems first.
 
 ![](images/image-2435.png)
 
-Trump is a gift that keeps giving. Let's be real, the ground invasion will definitely happen. Let's no pretend this idiot is any way in control.
+Trump is a gift that keeps giving. Let's be real, the ground invasion will definitely happen. Let's not pretend this idiot is any way in control. It didn't make sense to invade Iran in the first place, but he did it. US's foreign policy isn't something that is in the hands of the president, it obvious that he is just getting stringed along. The same goes for all the other wars started by the US in the region. They didn't make sense, but the military industrial complex pushed them through.
+
+11:25am. Let's do some programming.
+
+But before that's let's make a plan.

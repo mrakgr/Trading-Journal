@@ -5375,3 +5375,53 @@ Trump is a gift that keeps giving. Let's be real, the ground invasion will defin
 11:25am. Let's do some programming.
 
 But before that's let's make a plan.
+
+...
+
+I've had the whole day to think about it yesterday. I've changed my mind on our approach.
+
+The most important thing is to keep it simple, and while the generative approach would work, it has risk factors.
+
+* We need to train the NN on the generative models which takes a lot of compute.
+* We need to create the models, which takes effort.
+
+We could get stuck on those two points for many months potentially.
+
+Instead of making simulations based on very incomplete understanding how the market works, how about instead we focus on very simple systems for a while based on VWAP and breakouts?
+
+'A Profitable Day Trading Strategy For The U.S. Equity Market.pdf'  
+'Volume Weighted Average Price (VWAP) - Holy Grail of Day Trading Systems.pdf'
+
+We have these two papers to guide us. Why not try out the VWAP strategy on the stocks in play? Instead of wasting time, we could start trading in as little as few weeks.
+
+And while those systems are doing their work in the background we could focus on extending our playbook with generative models.
+
+Yeah, we might not be profitable 80% of all days with a VWAP system, but that doesn't matter. As long as we make a profit at the end of the month, it's all good. It certainly beats going long momo stocks, holding them for months and having them go nowhere.
+
+I don't have to be the best, I just have to be profitable.
+
+I think in particular though, that VWAP, and particularly anchored VWAP systems could be quite profitable. We could trade all sorts of assets in play using them.
+
+We'll do something to maybe focus them when the volume is fast.
+
+Honestly I am not sure...but we'll go with a parsing approach and try to figure out how to get more out of the data that we have.
+
+For now, let's make it our goal to test out the VWAP system on all the stocks in our reference document.
+
+We'll start by creating the TradingEdge.Parsing project and moving from there. Instead of using generative combinators, we'll be using parser combinators, but we will do that on trade data.
+
+For example, the VWAP system will wait for 1 minute of trading after the opening print to elapse and then either go long or short.
+
+We'll express it using combinators such as...
+
+```
+between
+    (sequence [opening_print; after_min 1.0])
+    (sequence [closing_print; before_min 1.0])
+```
+
+The reason why I am specifying the opening print is because stocks can sometimes have delayed openings at times like 12:32, which happened in LW back in December. We'll want to take a combinator approach for the simple reason that it will simplify the creation of trading systems.
+
+If we could get this to work, we will have a huge edge.
+
+Testing rules based systems will be 100,000x times more efficient that training NNs on generative models, so there is no reason not to try this approach. At worst, we'll just figure out how to monetize the VWAP systems on stocks in play.

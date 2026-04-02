@@ -5434,3 +5434,6 @@ Jiang is a genius.
 
 https://youtu.be/xrmERlHUqBk
 Game Theory #18: Trump World Order
+
+3:55pm. That was a fun video, but it's giving the elites far too much credit. They aren't really planning decades into the future. They are just following the line of least resistance, the same as everybody else.
+

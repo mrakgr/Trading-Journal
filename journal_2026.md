@@ -5425,3 +5425,12 @@ The reason why I am specifying the opening print is because stocks can sometimes
 If we could get this to work, we will have a huge edge.
 
 Testing rules based systems will be 100,000x times more efficient that training NNs on generative models, so there is no reason not to try this approach. At worst, we'll just figure out how to monetize the VWAP systems on stocks in play.
+
+4/2/2026
+
+1:20pm. ![](images/image-2436.png)
+
+Jiang is a genius.
+
+https://youtu.be/xrmERlHUqBk
+Game Theory #18: Trump World Order

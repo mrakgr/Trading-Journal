@@ -5530,3 +5530,47 @@ Steady, modest and directed effort will get me to the position that I want.
 
 ...As for the goal of causing the Singularity, making trading models won't get me that closer to it. I can't see a path towards it yet, but I do hope OpenAI falls. The current AI companies are too much of a disappointment and don't deserve to rule the world.
 
+The AI and crypto elites are nothing more than profit driven liars.
+
+5:40pm. The stress is real.
+
+I picked up a tissue to blow my nose and got a bleedout like never before. I haven't done my exercises today either.
+
+I really should take a few days off and only resume programming when I feel certain in my goals.
+
+Goals have a weight to them. Sometimes they feel light and like fuel. But sometimes they feel endless and overbearing.
+
+I have these cycles.
+
+5:45pm. One thing I've realized is that I should definitely not even think of money beyond 1m. Thinking of how I am going to get to 10m and 100m is just a burden that is negatively affecting me.
+
+I made this same mistake in 2007 - 2014. My most important goal is the pursuit of the Singularity and I don't need massive cash reserves for that.
+
+I just need to establish a firm foundation and make my peace with the market, nothing more than that.
+
+5:55pm. The volume charts and a review of over 106 stocks in play should be enough to give me a clear image of the market.
+
+That image is chaos.
+
+By challenging the market, I will be challenging chaos itself.
+
+I don't need skill for this.
+
+I just need to overcome the flaws that prevented me from winning 1.5 decades ago.
+
+I need to focus on two singular goals.
+
+* The VWAP system.
+* And after that comes the simplest implementation of the auction target model.
+
+I need to keep in mind - I am not far from winning, but very close in fact. All the difficult modeling choices I can avoid.
+
+I can turn off during the day and see how the models did after the close. I won't have to take on the burden actually making the trades and watching my PL fluctuate.
+
+It won't be just letting money roll in. No matter what path I take there will be volatility, but as long as I keep closing up at the end of the month that is good enough.
+
+The SMB trades can be profitable 80% of all trades, but I can just accept that I am bad and leave that figure aside.
+
+It doesn't matter what my % of profitable days is as long as I control the risk tightly.
+
+It doesn't matter if I keep losing 100$ most of the days if I make 1,000$ on my winning days.

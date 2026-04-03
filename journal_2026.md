@@ -5437,3 +5437,96 @@ Game Theory #18: Trump World Order
 
 3:55pm. That was a fun video, but it's giving the elites far too much credit. They aren't really planning decades into the future. They are just following the line of least resistance, the same as everybody else.
 
+4/3/2026
+
+11:25am. I couldn't sleep the whole night. I knew this would happen at some point. I've become embroiled in the uncertainty and even now I am still obsessing which approach I should take for pattern detection.
+
+11:40am. I haven't been this obsessed in a very long while. I think I am going to let Nioh 3 to the side for a month or two while I dial in and create a proper profitable momentum system.
+
+It reminds me of my old work on Spiral. I thought that I had grown beyond this, but I guess not.
+
+11:45am. Ah, let me take it easy today. It seems I will be charging up for what comes ahead.
+
+https://youtu.be/afDpTJ6I3gA
+Best Earnings Trading Strategy (With step by step setups)
+
+I want to watch this as well.
+
+4:35pm. I am really thinking super hard here.
+
+What I can do, how far I can go.
+
+I think it is dawning on me.
+
+I think the VWAP system close to ideal in trending markets, but its fatal flaws is that it would get chopped up in rangebound ones.
+
+I keep trying to think of ways of adapting it so it detects such conditions. I had an idea which seemed promising at first, but it is a bust.
+
+There is no choice.
+
+I am going to need NNs as originally intended, but I am not going to aim far as I imagined.
+
+The reality is if I sit down and start modeling, there is very real danger that I might get trapped for months and years trying to find the ideal system.
+
+But as expensive as NNs are, if I am just using them with the intention of separating out the rangebound markets from the trending ones they could work very well!
+
+I am not going to make some extreme plays with these systems, but they could work just as well as the VWAP ones with some added risk control.
+
+They could adapt properly to holds and ranges, while keeping the ship steady during trending moves.
+
+4:45pm. I am being pressured incredibly hard right now, so much that I am starting to rebel in favor of the VWAP systems, but no, the VWAP systems are too simple and I cannot possibly control my risk properly by using them.
+
+The reason why I am pressured is a consequence of the review.
+
+I filled in the 106 examples, but in contrast to LW which had a beautiful trending move, there is actually a huge variety of patterns in the market.
+
+It's not clean and simple, the market dumped a lot of work on my lap.
+
+And all that work would take sophisticated models, the modeling decisions which I am not sure about.
+
+Markets change constantly, and I am well aware that if I put in a lot of effort into more complicated models, that might just make them more brittle.
+
+The simple drift style models would actually be the most robust!
+
+Ahhhh...
+
+I thought I would go a lot further. I've put in months of effort into the simulations just to enable future work into more sophisticated models, but I'll settle for simple ones.
+
+Not as simple as moving average style models, but those are too simple, and I actually cannot think of better handcrafted rules that would make NN models unneeded.
+
+Just volatility changes for example would be huge problems for me.
+
+4:55pm. Incredible computational demands. Incredible labor demands on myself.
+
+I am feeling the burden of all that future work.
+
+I need to draw a line.
+
+There will be a line on how complicated I am willing to make the models.
+
+5pm. I will use simple models. I will accept the risks. I will trade what is in play.
+
+...
+
+Sigh, this really hits where it hurts. It's like I am failing at trading already.
+
+With the simulation library I've opened a lot of options, but it seems I will be closing those out already.
+
+5:10pm. I need to choose a path and I need to pick one that has the likeliest chance of victory.
+
+My goal here is to make money and secure my financial future for good.
+
+I got a windfall from the Tao Ceti company, and getting a 250k year job isn't luck that is going to easily repeat itself. But the 106k euros I've saved up aren't enough for long term financial security. I need to find a way to get above 1m and trading is the best way to do it given my lack of options.
+
+I need to go above 1 million in the safest way possible.
+
+It is not my goal to be the best trader there ever was at SMB. That shit doesn't matter and trying to achieve it would in fact increase my chances of failing.
+
+5:15pm. I guess this is one of my flaws. I opened a lot of options and got greedy before I even started on the journey. I made me lose sight of my goals.
+
+Filling in the reference document is a good reality check for me. No matter how good of a system I create the market will always be hard so I shouldn't bother trying it too hard.
+
+Steady, modest and directed effort will get me to the position that I want.
+
+...As for the goal of causing the Singularity, making trading models won't get me that closer to it. I can't see a path towards it yet, but I do hope OpenAI falls. The current AI companies are too much of a disappointment and don't deserve to rule the world.
+

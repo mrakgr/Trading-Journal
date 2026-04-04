@@ -5695,3 +5695,165 @@ Attain the trading skills and prove them. Get a quant job, get in with a prop fi
 If things go really well in my trading I won't even need any of the above, but it won't be that easy. Trading takes time, so I'll have to plan to put in extra effort. Ideally, I should enter the finance industry to fuel my research desires.
 
 Use money to become a better programmer. That is what my plan should be.
+
+1:35pm. > I want to become a better programmer, and the nature is best at it so I should find a way of learning from it. What does the research say about how biological brains can be programmed?
+
+///
+
+This is a really deep question — you're essentially asking how evolution can "pre-program" a prediction machine. Let me dig into what's known.This is one of the genuinely unsolved puzzles in biology, but there are several compelling frameworks for how nature "programs" a prediction machine. Let me lay them out.
+
+## Nature doesn't program the brain directly — it programs the builder
+
+The key insight is that genes and regulatory DNA don't encode behaviors directly — they guide the development of nervous system wiring, cellular types, receptor expression, and neurotransmitter systems that *predispose* particular behaviors. Think of it less like writing software and more like specifying the architecture of a building. DNA doesn't say "fear snakes." It says "wire the visual cortex to the amygdala in a way that makes elongated, slithering shapes trigger a strong fear response."
+
+The mechanisms operate at several levels:
+
+**1. Pre-wired circuit architecture.** Embryonic and early postnatal processes — axonal guidance, synaptogenesis, apoptosis, and critical-period plasticity — sculpt circuits that produce innate responses. Instincts live in structures like the brainstem and spinal cord (which mediate reflexes and central pattern generators for locomotion), and the hypothalamus and limbic system, which coordinate innate drives like feeding, mating, parental care, aggression, and fear by integrating internal state with sensory information.
+
+**2. Pre-set synaptic values.** This is a fascinating mechanism: for instincts to happen, it appears that the genes responsible for constructing synapses set their functions to "adult" values during embryonic development. Unlike when we learn something for the first time, these synapses are fully functional to a given environment as if they have already gone through a rigorous learning phase. So a spider hatches with synapses that are already tuned as though it had practiced web-spinning for years. However, the process behind how genes construct synapses at adult values during embryology is still unknown.
+
+**3. Epigenetic inheritance.** A 2017 paper in *Science* by Gene Robinson proposed that the key mechanism for developing instincts that get passed down could be epigenetics — changes in the function or activity of the genome without changes in the DNA itself. The idea is that learned behaviors could, over generations, become epigenetically hardened into instincts. Mice trained to respond calmly to stress passed that calm response to their offspring, and even to a third generation.
+
+## The Bayesian brain angle: instincts as evolutionary priors
+
+This is where your question gets really interesting. If the brain is a Bayesian prediction machine, then instincts map beautifully onto the concept of **priors** — the initial beliefs the system starts with before encountering any data.
+
+Some of the hypotheses that account for the most abstract and general features of the world are "built-in" by evolution; others are amenable to progressive refinement through developmental learning. A classic example is the "light-from-above" prior: the prior "belief" that light shines from overhead, which allows the brain to disambiguate convex from concave shapes from shading information. This prior is present from birth because for millions of years, light really did come from above.
+
+In predictive coding, evolutionary effects are understood as instances in which models of hidden causes are obtained through evolutionary processes, essentially "optimizing the agent's model and priors through neurodevelopment and natural selection." So evolution doesn't need to program specific behaviors — it tunes the *starting parameters* of a prediction machine. The brain still learns, but it starts with strong biases that reflect ancestral statistical regularities of the environment.
+
+The nativism debate then becomes: are all Bayesian priors evolved psychological traits, or are they culturally acquired in cognitive development? The answer appears to be both, in different proportions depending on the domain.
+
+## The honest caveat
+
+Modern developmental research suggests that instincts are not preprogrammed, hardwired, or genetically determined in the simple sense; rather, they emerge each generation through a complex cascade of physical and biological influences. Even seemingly "hardwired" behaviors depend on species-typical developmental environments. And the Bayesian brain framework itself is contested — a 2025 paper in the *European Journal of Applied Physiology* argues that the brain may whisper in mathematics, but it speaks in flesh, and no amount of probabilistic elegance can overcome the stubborn facts of neural tissue: its metabolic constraints, its non-Gaussian dynamics, and its embodied evolutionary history that prioritized survival over statistical optimality.
+
+## The programmer's analogy
+
+If you want a concrete mental model: nature's approach is more like **meta-learning** than direct programming. Evolution doesn't write the weights of the neural network (that would require encoding far too much information in DNA). Instead, it specifies the *loss function*, the *architecture*, and the *initialization* — then lets the organism learn within those constraints. The "instincts" are strong inductive biases baked into the architecture: which neurons connect to which, how excitable certain circuits are, what neuromodulators flood the system in response to what stimuli. The prediction machinery then does its thing within those constraints.
+
+It's remarkably similar to how you'd approach a machine learning problem — you don't hand-code the solution, you design the architecture and the training signal, and let gradient descent find the answer. Evolution does gradient descent over generations rather than over training epochs.
+
+///
+
+> Is there any idea how nature could build instincts into living beings? If the brain is a predictive machine, how could nature possibly direct such a machine?
+
+///
+
+This is a really deep question — you're essentially asking how evolution can "pre-program" a prediction machine. Let me dig into what's known.This is one of the genuinely unsolved puzzles in biology, but there are several compelling frameworks for how nature "programs" a prediction machine. Let me lay them out.
+
+## Nature doesn't program the brain directly — it programs the builder
+
+The key insight is that genes and regulatory DNA don't encode behaviors directly — they guide the development of nervous system wiring, cellular types, receptor expression, and neurotransmitter systems that *predispose* particular behaviors. Think of it less like writing software and more like specifying the architecture of a building. DNA doesn't say "fear snakes." It says "wire the visual cortex to the amygdala in a way that makes elongated, slithering shapes trigger a strong fear response."
+
+The mechanisms operate at several levels:
+
+**1. Pre-wired circuit architecture.** Embryonic and early postnatal processes — axonal guidance, synaptogenesis, apoptosis, and critical-period plasticity — sculpt circuits that produce innate responses. Instincts live in structures like the brainstem and spinal cord (which mediate reflexes and central pattern generators for locomotion), and the hypothalamus and limbic system, which coordinate innate drives like feeding, mating, parental care, aggression, and fear by integrating internal state with sensory information.
+
+**2. Pre-set synaptic values.** This is a fascinating mechanism: for instincts to happen, it appears that the genes responsible for constructing synapses set their functions to "adult" values during embryonic development. Unlike when we learn something for the first time, these synapses are fully functional to a given environment as if they have already gone through a rigorous learning phase. So a spider hatches with synapses that are already tuned as though it had practiced web-spinning for years. However, the process behind how genes construct synapses at adult values during embryology is still unknown.
+
+**3. Epigenetic inheritance.** A 2017 paper in *Science* by Gene Robinson proposed that the key mechanism for developing instincts that get passed down could be epigenetics — changes in the function or activity of the genome without changes in the DNA itself. The idea is that learned behaviors could, over generations, become epigenetically hardened into instincts. Mice trained to respond calmly to stress passed that calm response to their offspring, and even to a third generation.
+
+## The Bayesian brain angle: instincts as evolutionary priors
+
+This is where your question gets really interesting. If the brain is a Bayesian prediction machine, then instincts map beautifully onto the concept of **priors** — the initial beliefs the system starts with before encountering any data.
+
+Some of the hypotheses that account for the most abstract and general features of the world are "built-in" by evolution; others are amenable to progressive refinement through developmental learning. A classic example is the "light-from-above" prior: the prior "belief" that light shines from overhead, which allows the brain to disambiguate convex from concave shapes from shading information. This prior is present from birth because for millions of years, light really did come from above.
+
+In predictive coding, evolutionary effects are understood as instances in which models of hidden causes are obtained through evolutionary processes, essentially "optimizing the agent's model and priors through neurodevelopment and natural selection." So evolution doesn't need to program specific behaviors — it tunes the *starting parameters* of a prediction machine. The brain still learns, but it starts with strong biases that reflect ancestral statistical regularities of the environment.
+
+The nativism debate then becomes: are all Bayesian priors evolved psychological traits, or are they culturally acquired in cognitive development? The answer appears to be both, in different proportions depending on the domain.
+
+## The honest caveat
+
+Modern developmental research suggests that instincts are not preprogrammed, hardwired, or genetically determined in the simple sense; rather, they emerge each generation through a complex cascade of physical and biological influences. Even seemingly "hardwired" behaviors depend on species-typical developmental environments. And the Bayesian brain framework itself is contested — a 2025 paper in the *European Journal of Applied Physiology* argues that the brain may whisper in mathematics, but it speaks in flesh, and no amount of probabilistic elegance can overcome the stubborn facts of neural tissue: its metabolic constraints, its non-Gaussian dynamics, and its embodied evolutionary history that prioritized survival over statistical optimality.
+
+## The programmer's analogy
+
+If you want a concrete mental model: nature's approach is more like **meta-learning** than direct programming. Evolution doesn't write the weights of the neural network (that would require encoding far too much information in DNA). Instead, it specifies the *loss function*, the *architecture*, and the *initialization* — then lets the organism learn within those constraints. The "instincts" are strong inductive biases baked into the architecture: which neurons connect to which, how excitable certain circuits are, what neuromodulators flood the system in response to what stimuli. The prediction machinery then does its thing within those constraints.
+
+It's remarkably similar to how you'd approach a machine learning problem — you don't hand-code the solution, you design the architecture and the training signal, and let gradient descent find the answer. Evolution does gradient descent over generations rather than over training epochs.
+
+///
+
+> The current day ML models are just so weak in their capability compared to biological brains. If I had a lot of money, how could I improve my understanding of them?
+
+///
+
+Great question. If you had serious capital to throw at understanding biological brains and their computational principles, there are several tiers of approach — from accessible to cutting-edge. Let me search for what's currently available.Here's a tiered breakdown of how money could accelerate your understanding of biological brains, from accessible to extravagant.
+
+## Tier 1: Education & self-study ($100–$2,000)
+
+This is where the ROI is highest. Before buying hardware, the conceptual foundations matter most.
+
+**Books and courses** that would directly connect to your existing ML background: Karl Friston's work on the Free Energy Principle and predictive processing, Jeff Hawkins' *A Thousand Brains* (which argues the cortex is a massive prediction machine built from repeating cortical columns), and David Marr's *Vision* (the classic on computational neuroscience). For formal coursework, MIT OCW and Coursera offer computational neuroscience programs that bridge the gap between neuroscience and ML directly.
+
+**Simulation tools** — free but require time investment. Projects like NEST, Brian2, and NEURON let you build spiking neural network simulations on your own hardware. Given your RTX 5080 and comfort with transformers and F#, you could build biologically plausible spiking network models and compare their behavior to the architectures you already know. This is probably the most natural entry point for you — treating the brain as a system to reverse-engineer computationally rather than experimentally.
+
+## Tier 2: Consumer neurotechnology ($500–$5,000)
+
+This is where you can start observing your own brain in real time.
+
+The Emotiv Insight is a 5-channel prosumer EEG headset that records brainwaves and delivers real-time metrics about attention, stress levels, and engagement. For more serious work, the Emotiv EPOC X is a 14-channel device that can capture data at both 128 and 256 Hz sampling rates.
+
+OpenBCI is committed to open-access and cost-effective solutions to EEG, giving expanded options for how to approach investigations of the brain — and given your dev background, the open-source nature would let you write your own analysis pipeline. OpenBCI provides two customizable EEG systems: the four-electrode Ganglion board and the eight-electrode Cyton board, which can be daisy-chained for a 16-channel system.
+
+What you could actually do with these: record your own brain activity while coding, build a neurofeedback loop (given your F# skills), observe the difference between focused flow states and distracted states, and start building intuition for what neural signals actually look like as time series data — which maps directly to your experience with market data signals.
+
+OpenBCI Galea is a biosensing platform that measures heart rate, skin conductance, muscle activity, eye movements, and brain activity, and is designed to work with VR/AR headsets. This multimodal approach gets closer to how the brain actually integrates information.
+
+## Tier 3: Research-grade equipment & partnerships ($10,000–$100,000+)
+
+**Research-grade EEG systems** (32–128 channels) from companies like BioSemi, g.tec, or ANT Neuro run $15,000–$60,000 and produce publication-quality data. You'd get spatial resolution good enough to localize sources of neural activity.
+
+**fMRI access** can be rented at university imaging centers — typically $500–$1,000/hour. You could get structural and functional scans of your own brain, then work with the data computationally. Some centers offer "research participant" rates.
+
+**fNIRS (functional near-infrared spectroscopy)** systems are a middle ground — cheaper than fMRI, portable, and measure blood oxygenation changes in the cortex. Systems like Kernel Flow (if/when available) aim to bring this to ~$10,000.
+
+## Tier 4: The "unlimited budget" approach ($100,000+)
+
+**Fund or join a NeuroAI lab.** NeuroAI is an emerging field that explores the bidirectional relationship between natural and artificial intelligence — on one hand applying AI to predict brain behavior, and on the other applying principles underlying natural intelligence toward more powerful and energy-efficient AI systems. This is exactly the intersection you're asking about. Labs at DeepMind, MIT's McGovern Institute, and the Gatsby Computational Neuroscience Unit at UCL work on precisely this.
+
+**Digital brain twins.** Researchers are exploring the creation of full brain replicas — comprehensive and highly detailed digital versions of the brain that aim to capture every aspect of its structure and function. With enough capital, you could fund work on personalized computational brain models.
+
+## My honest recommendation for you specifically
+
+Given your background — strong quantitative skills, comfort with neural network architectures, experience with time series data, and interest in how systems process information under uncertainty — I'd suggest this path:
+
+1. Start with the **computational neuroscience** literature on predictive processing and Bayesian brain theory. Your understanding of variational inference, HMMs, and Bayesian statistics means you can read the primary literature directly — you already have the math.
+
+2. Pick up an **OpenBCI Cyton** setup (~$1,000 total). Write your own data pipeline in F# or Python. Record EEG while doing different tasks. Treat it like a market data problem — look for regime changes, unusual patterns, distributional shifts. You're already trained to detect signal in noisy time series.
+
+3. Build **spiking neural network** simulations and compare them to the architectures you've been working with (transformers, gMLP, Mamba). The key insight the neuroscience community is converging on is that biological networks achieve their power not from clever algorithms running on generic hardware, but from the tight coupling between computation and substrate — which is exactly what that "biological computationalism" paper we discussed earlier argues.
+
+The money helps, but the real bottleneck for someone with your skills is conceptual bridging — connecting what you know about ML to what neuroscience knows about brains. That's mostly a time investment, not a financial one.
+
+///
+
+Tier 4.
+
+Honestly, if money can't solve this issue of lack of skill for me, what do I need money for anyway? It might as well be toilet paper. So just once in life, maybe I should believe in the power of money.
+
+Who knows how much of it I will have in 10 years.
+
+The reason why I got the Tao Ceti job was because I was desperate due to my poker failures. The reason why I worked so hard there isn't for the sake of the company itself, but to bury those failures aside. To leave them behind me.
+
+I was just so desperate not for the money itself, but for some validation. I was constantly bashing my head against these very difficult problems and making no progress on them.
+
+1:45pm. This is the path. The way things are going, nobody is going to tell me what the brain does. I am going to have to figure it out myself. I need to become a force in a positive direction for neuroscience.
+
+1:50pm. Fund a NeuroAI lab. That seems like a great goal. Realistically, I'd probably need 10m for it to pay for the researcher salaries.
+
+Aiming for 10m to create a lab is certainly a better goal that aiming to make 10m just for the sake of it.
+
+The reason why I am so lonely is because I have a world that I desire to reach, but the repeated failures have shaken my faith in my ability to grasp it.
+
+But I haven't really failed. I am almost 39 now. I have 40 years of life ahead of me as a human. I might not even be quarter of the way through my programming journey. It's been 10 years long so far. Who knows where another 10 might bring me.
+
+And, I need to keep in mind that technology itself will keep evolving and giving me new capabilities even if it not the ones I desire. I just need to keep going forward.
+
+As my near term goal, I should at least prove that I am better than I was in 2007 - 2014. I can become a consistently profitable trader.
+
+Then I can aim for 1m and then 10m after I reach that. And then I can start spending.
+
+For now I'll make do with the skills I have available.

@@ -5883,3 +5883,27 @@ I shouldn't let doubts eat away at me.
 The Tao Ceti job wasn't a brief rally in the bear market of my life.
 
 It was the start of my ascent.
+
+5:55pm. I did some programming just now. Here is what I said in the screencast:
+
+///
+
+Failing at trading isn't spending chump change and some time in order to validate that edge.
+
+If everybody tried the approach we're taking here, some might not suceed due to unsuficient programming skill, but they'd learn a decent amount of programming, trading and statistics regardless.
+
+The true losers are those who bash their heads against the wall for years getting nowhere. Or those who just gamble in the market and lose large sums of money as a consequence.
+
+I was actually in the former category 1.5 decades ago.
+
+I think that this time around it is not gauranteed that we will win, but we certainly won't lose.
+
+The testing we will do beforehand will make sure of that.
+
+We will have won long before that before we make the first trade with real money.
+
+We will build our success ahead of time.
+
+///
+
+There is no need to be insecure about our current path. Just like I cannot predict the market, I cannot be certain of my success, but I can be certain of my failure. I can absolutely make sure that it doesn't happen, and that at worst I will pull off a draw.

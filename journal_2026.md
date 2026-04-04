@@ -5574,3 +5574,124 @@ The SMB trades can be profitable 80% of all trades, but I can just accept that I
 It doesn't matter what my % of profitable days is as long as I control the risk tightly.
 
 It doesn't matter if I keep losing 100$ most of the days if I make 1,000$ on my winning days.
+
+4/4/2026
+
+11:40am. I've been lounging in bed this morning and have even gone to bed early last night.
+
+I need some time to work out my psychological issues.
+
+It's not relaxing at all, I wish I could take a break and kick my brain down a few gears.
+
+Let's say I didn't want either poker or trading.
+
+What could I do as a programmer to get to 1m in a scalable manner?
+
+Start a company?
+
+But being a CEO is one step removed from being a scam artist, it has nothing to do with technical excellence or actual power. CEOs are just money bags for those under them. I don't need them anymore.
+
+Besides, I don't have any good ideas for a business. I've never had those. I've never had connections or the desire to really work on ideas seriously.
+
+Who knows, maybe being a CEO is being able to hire good people rather than do things themselves, but 100k isn't enough for me to start my business anyway. You have to have backing to start a company. Every self made billionare comes from a millionare family.
+
+My family is working class rather than money class.
+
+This is maybe one of the roots of my psychological issues.
+
+I am always left wanting more, always left disappointed. It was like that with the poeple I knew. It was like that with the Tao Ceti founders.
+
+Always, always, I am always dissapointed in the end. It was like that with trading the first time. It was like that with AI.
+
+It wasn't like that with Spiral, but Spiral didn't give me the power that I wanted.
+
+No matter what, the only thing that contains the power that I want is the biological brain and I cannot unlock it. From the perspective of the brain, all my skills might as well be hacks.
+
+This psych moment that I am having is also making me realize that I don't want to be a trader.
+
+I'd only want to be a trader and join a pod to alleviate the loneliness that I've been feeling. I have a void that I cannot fill myself, so I am feeling like letting the others fill it.
+
+But that is not the answer.
+
+I am a programmer.
+
+I want to be a programmer.
+
+My rightful place isn't necessarily and SMB or Axia or some other prop firm.
+
+My rightful place is wherever will get me closer to unlocking the secrets of the brain.
+
+12pm. I am a programmer, and in the current era, programmers are weak. The step needed to take to reach true strength is as high as the heavens.
+
+If only I could make a plan for how to reach it.
+
+Ok, first off, what would I need to figure out the brain? Before reaching humans, I'd need to study biological brain on the smaller scales.
+
+If I could figure out how insects are programmed, that would be a big step in my trading career.
+
+And to do this kind of research I need money.
+
+12:05pm. Tao Ceti was a windfall, but I need more money to really do this research. Millions probably.
+
+12:10pm. Realistically, right now I can only do classification with NNs. I am completely clueless as to how a NN could be programmed to act in a robust manner in the real world. Let alone how nature could have possibly evolved such programs.
+
+If I had to do poker again, what I would do is use handcrafted features with tabular CFR and use a NN to detect different types of players and adapt to them.
+
+But actually using a single NN for everything would be far beyond my abilities.
+
+12:10pm. I hate this world that is filled with disappointment. I want the world of the future. Not the world that has tragedies and death waiting for me in store.
+
+Right now I am a skilled programmer relative to other humans, but that is just the worst, because my abilities in the absolute sense are low and worse yet, insufficient.
+
+But getting emotional over this isn't going to get me through my block.
+
+I have to accept that I am simply worse than nature.
+
+And I am at the point where I am past my limits. At this point I have to act like a CEO and simply take what I need instead of trying to do it through labo.
+
+I need two things:
+
+* The understanding of how biological brains are programmed.
+* The understanding of how evolution could have done this.
+
+Evolution in code has nowhere close to the achievements that biological evolution has. The complexity that exists in nature you could scarcely believe was created by a dumb process. I don't understand it.
+
+And most importantly, I need to understand how biological brains could be programmed. I have absolutely no idea what nature did to make humans happen.
+
+12:20pm. Right now just scarcely a living being. Because I just cannot understand this no matter how long I think about it.
+
+But success is mostly about the environment.
+
+So my most essential move now should be to change it.
+
+In order to do that I need to attain financial freedom. I need the trading skill and I need the confirmation of it. So 1m will do.
+
+12:25pm. I think it was back in high school that my decline started. In elementary school I was the national programming champion, but in high school the momentum left me. The old teacher that had supported me had not been there, and I didn't have the motivation to reach the top on my own.
+
+So picked trading.
+
+Then 6 years later I picked AI.
+
+And now I still haven't succeeded.
+
+Agh, it's so hard. This disappointment. All I really sought was just that one bit of inspiration that would let me break through the block.
+
+The block that I could't go past in high school. In trading. In AI.
+
+I am lonely, and I need to get closer to nature, but because only nature itself has the power that I seek. It's not other people. It's not anything else. It's nature itself.
+
+It can do so much, but I cannot learn from it, so my life is a cruel mockery. Nature is mocking my own weakness and stupidity.
+
+12:35pm. Let me make some predictions. Unless I change my environment and my approach, I am going to be stuck at my current level as a programmer forever. I will forever be in the fake world as this fake me.
+
+I will never become the me that I desire.
+
+The me who knows the secrets.
+
+There is a simple plan that I could follow.
+
+Attain the trading skills and prove them. Get a quant job, get in with a prop firm, whatever. If those can't be reached I will even try to get in another job in the 200-500k range so I can feed my trading account. Hell, even 100k would do to speed it up once I am good at trading if all else fails. If nothing else, having a job would allow me to risk up in my trading and absorb the early hits.
+
+If things go really well in my trading I won't even need any of the above, but it won't be that easy. Trading takes time, so I'll have to plan to put in extra effort. Ideally, I should enter the finance industry to fuel my research desires.
+
+Use money to become a better programmer. That is what my plan should be.

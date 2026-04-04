@@ -5857,3 +5857,29 @@ As my near term goal, I should at least prove that I am better than I was in 200
 Then I can aim for 1m and then 10m after I reach that. And then I can start spending.
 
 For now I'll make do with the skills I have available.
+
+4:10pm. What is the most important thing over the coming week?
+
+I need to keep in mind just what I am trying to accomplish in the near term.
+
+It is not to create the final system. What I am trying to do here is test if the fundamentals principles of trading as I understand them actually work.
+
+What doesn't matter is specific PnL figures specifically. What matters is that when I observe the trades that the system's decisions make sense to me and that they do what I would expect which is go long/short the trending moves, take small losses, get back in quickly if it turns out to be merely a shakeout and stay out of rangebound markets. I shouldn't see it holding on to losses and churn trading. Things of that nature. I might not be able to understand the market and see the patterns in it, but when I analyze the trades, I should be able to see patterns in the system's trading itself.
+
+If I can make this prototype system successful, that will pave the way for millions and tens of millions in future profits.
+
+And if I prove that trading stocks in play has too small of an edge, then I won't lose too much. Just the fees paid to Massive and Anthropic and NewCLI.
+
+It's not like poker where for one to win, the other has to lose.
+
+In trading I am not obligated to put up the antes while at the table.
+
+If I truly have no edge, that will be shown during backtesting and sim trading.
+
+Spending 300-500 bucks to start a 10m dollar a year business sounds like a good bet to me. It doesn't get better than that.
+
+I shouldn't let doubts eat away at me.
+
+The Tao Ceti job wasn't a brief rally in the bear market of my life.
+
+It was the start of my ascent.

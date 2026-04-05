@@ -5907,3 +5907,60 @@ We will build our success ahead of time.
 ///
 
 There is no need to be insecure about our current path. Just like I cannot predict the market, I cannot be certain of my success, but I can be certain of my failure. I can absolutely make sure that it doesn't happen, and that at worst I will pull off a draw.
+
+4/5/2026
+
+7:10pm. I am getting absolutely amazing results in backtesting. We'll see how it holds up when I add proper volatility based position sizing and realistic entries and exits rather than just entering and exiting trades at the VWAP price.
+
+https://www.reddit.com/r/wallstreetbets/comments/1scmtjy/i_spent_my_weekend_reading_98_sp_500_10ks_for/
+
+///
+
+everyone is talking about the iran war and trump’s tariffs, but i wanted to see which companies are actually panicking in their official sec filings. i spent my entire weekend digging through the "risk factors" section of the 2 most recent 10-Ks for 98 s&p 500 companies.
+
+i looked for 8 specific themes: tariffs, war, geopolitical, oil/energy, sanctions, supply chain, interest rates, and recession.
+
+here is the data. some of this makes zero sense on paper, but the 10-Ks don't lie.
+
+the "macro risk" top 10 (highest exposure)
+ticker	company	exposure score	key risk mentions
+MS	morgan stanley	95.6	221 total (massive geopolitical/war)
+C	citigroup	91.2	269 total (highest volume in the scan)
+BAC	bank of america	80.4	102 mentions
+GS	goldman sachs	67.2	heavy institutional/trading risk
+JPM	jpmorgan	62.1	systemic macro exposure
+CVX	chevron	58.0	188 oil/energy mentions (obviously)
+BLK	blackrock	52.1	asset management/global exposure
+EOG	eog resources	50.2	142 oil mentions
+CDNS	cadence	45.6	21 tariff mentions (semis getting hit)
+REGN	regeneron	43.7	36 tariff mentions (surprising for pharma)
+the "safe haven" list (the ones who don't care)
+if you're looking for where to hide, these companies basically didn't even mention the war or tariffs in their risk factors:
+
+PGR (progressive): only 7 mentions total.
+
+UNH (unitedhealth): 6 mentions.
+
+NFLX (netflix): 6 mentions.
+
+COST (costco): 8 mentions.
+
+3 things that surprised me:
+banks are the real "war" stocks: i expected oil companies to be #1, but morgan stanley and citi are screaming about geopolitical risk way louder. they are terrified of credit defaults and trade finance collapsing while the market is at all-time highs.
+
+the semiconductor "sanction" trap: nvda (ranked #13) and cdns have massive exposure to sanctions and tariffs. nvda has 50 mentions of "sanctions" alone. the "ai moat" is built on a very fragile geopolitical foundation. if the strait stays closed, the supply chain for chips is toast.
+
+pharma is not immune: regeneron (regn) has 36 tariff mentions. i didn't realize how much their supply chain for raw materials is tied to the current trade war.
+
+the "so what?"
+the market is pricing in a "soft landing" or a "short war," but the banks are writing 200+ page warnings about systemic collapse. either the banks are being overly cautious for legal reasons, or they are seeing a credit crunch that the retail market is completely ignoring.
+
+i'm personally looking at costco and progressive as the only real "sleep at night" stocks right now.
+
+what am i missing? are the banks just covering their asses with legal boilerplate, or is the risk in the financial sector a legitimate warning for the entire s&p 500?
+
+not financial advice. i'm just a guy who spent too much time on sec edgar this weekend.
+
+///
+
+Bnaks are scared.

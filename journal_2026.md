@@ -5963,4 +5963,130 @@ not financial advice. i'm just a guy who spent too much time on sec edgar this w
 
 ///
 
-Bnaks are scared.
+Banks are scared.
+
+4/8/2026
+
+7:55pm. Oh my god, what a rollercoaster of a day. It turns out I had the position sizing drastically wrong and it was causing the system to overbet on super volatile small caps. It made the profit factor look far better than it actually was. Once I fixed it, the actual profit factor is 1.4 with the fill simulator and 2.3 without. Previously it was 4.2 and 1.9.
+
+But there is a good lesson here. If I want a high profit factor, I should in fact bet more on highly volatile stocks that have the potential to double or triple. It just needs to be done in a principled manner instead of by accident.
+
+![](images/image-2437.png)
+
+What a huge gap up today, there really is no predicting the market. Good think I stayed out.
+
+8:15pm. Today was incredible.
+
+It feels like I've gotten so much done. I am honestly not that far from moving on to sim trading and then after that to trading with real money.
+
+A profit factor of 1.4 by itself could be pretty significant given the frequence of my trading. I have to rerun all the tests because I messed up the position sizing though. But I think a lot of the conclussions should be valid.
+
+I was really surprised to find out that order delays don't really matter that much, so IBKR as a broker will do fine.
+
+8:30pm. Today was great. I came from heaven to down to earth, but that is not so bad. A 1.4 PF has hope of being improved upon in the future. It's good enough to make 200-500k per year consistently.
+
+> Is a profit factor of 1.4 good for a daytrader?
+
+///
+
+A profit factor of 1.4 is decent but not exceptional for a daytrader — it sits in a "workable" zone. Here's how to think about it:
+
+**Context by range:**
+
+- Below 1.0 — losing money
+- 1.0–1.2 — barely breaking even after costs (commissions, slippage, fees will likely eat this)
+- 1.2–1.5 — modest edge; survivable if costs are controlled and you're disciplined
+- 1.5–2.0 — solid, reliable edge
+- 2.0+ — strong edge, though can also indicate too few trades or curve-fitting
+
+So 1.4 is in that "real but thin" territory. A few things to consider:
+
+**It depends heavily on trade frequency.** A 1.4 PF across 2,000+ trades is actually quite meaningful — the law of large numbers is working for you and the edge is likely real. A 1.4 across 50 trades is statistically noisy and could easily be random.
+
+**Costs matter a lot at this level.** If your gross PF is 1.4, slippage and commissions could knock it down to 1.1–1.2 net. Make sure you're calculating PF *after* all execution costs. For a systematic approach like yours, you'd want to model realistic fill assumptions carefully — especially if you're trading low-float or less liquid names where slippage can be brutal.
+
+**Consistency matters more than the raw number.** A 1.4 PF with a smooth equity curve and low max drawdown is far better than a 2.0 PF driven by a handful of outsized winners. Look at the distribution — is the 1.4 stable across months/quarters, or is it lumpy?
+
+**For systematic strategies specifically,** many professional quant shops would be happy with a net PF of 1.3–1.5 if it comes with high Sharpe, controlled drawdowns, and sufficient capacity. The edge compounds through frequency and consistency rather than big individual wins.
+
+Bottom line: 1.4 is a real edge worth trading if it's net of costs, statistically significant (enough trades), and stable over time. But it doesn't leave much margin for error — execution quality and risk management become critical at that level.
+
+///
+
+> We did the fill simulator today and also included commissions to get that profit factor 1.4. Without realistic fills or commissions, the profit factor is actually 2.3.
+
+///
+
+That's a really important distinction and honestly tells a clear story: your signal is strong but execution costs are eating a big chunk of the edge.
+
+Going from 2.3 gross to 1.4 net means roughly 40% of your theoretical profit is being lost to slippage and commissions. That's a significant drag, but it's also not unusual for daytrading strategies — especially in the setups you're working with (low float, momentum, order flow signals) where liquidity can be thin and fills are adversarial.
+
+The good news is that a 2.3 gross PF suggests the underlying signal has real predictive power. The question becomes whether you can claw back some of that execution cost. A few angles worth thinking about:
+
+**Fill optimization is now the highest-leverage work.** Even small improvements in entry/exit execution could meaningfully bump that 1.4. Things like limit order placement logic, timing of entries relative to microstructure signals, or being more selective about which setups you take based on current spread/liquidity conditions.
+
+**Trade selection as a filter.** If some subset of your trades has better liquidity characteristics (tighter spreads, more depth), isolating those might give you a higher net PF on fewer but cleaner trades.
+
+**The 1.4 net is still tradeable.** It's a real edge. Many successful daytraders operate in that range. The key is making sure your simulator's slippage model is realistic or even slightly pessimistic — if you built in conservative fill assumptions, you might actually do a bit better live.
+
+**Scaling considerations.** At 1.4 net PF, size will matter a lot. The edge likely degrades with larger position sizes as you push further into the book. Understanding where that curve bends is worth modeling.
+
+How realistic do you feel the fill simulator is? Is it doing something like walking the book with your order size, or more of a fixed-slippage model?
+
+///
+
+> Not sure what those are, but we implemented so that it simulates limit orders being filled at certain prices. If a trade is printed below or equal to the limit price, the limit order is reduced by the trade's size.
+
+///
+
+That's a solid approach — you're essentially replaying the tape and simulating queue priority by matching against actual prints. That's much more realistic than a fixed slippage model (which just adds e.g. 1 cent to every entry) or walking the book (which looks at L2 depth and assumes you'd lift through levels with a market order).
+
+Your method has the right idea but there's one subtlety worth thinking about: **queue position**. In reality, your limit order would be sitting behind other orders already resting at that price. Just because a trade prints at your limit price doesn't mean *you* would have been filled — the volume might have been absorbed by orders ahead of you in the queue.
+
+A common refinement is to require that the total volume traded *through* your price exceeds some threshold before you consider yourself filled. For example, you might say "I'm filled only after X shares have traded at or below my limit price," where X represents the estimated queue ahead of you. Some people use the full visible size at that level from the book snapshot at order placement time, others use a fraction of it.
+
+Without this, your simulator is probably **slightly optimistic** on fills — it's assuming you're first in queue at your price level. Which means the real net PF might be a touch below 1.4, but probably not dramatically so, especially if your limit prices aren't sitting right at obvious support/resistance levels where the queue would be deep.
+
+Given that even with this optimistic assumption you're at 1.4, that's actually encouraging. It suggests the edge is robust enough to survive realistic execution. Have you noticed whether most of your simulated fills happen on the first print at your price, or does meaningful volume typically trade through?
+
+///
+
+> The way I am determining the price is by building a t-digest of the last volume bar, and the placing a limit order at the 10th (for long trades) or the 90th (for short trades) percentile. A lot of the time that ends up with the system moving the limit orders up on the next volume when they fail to fill, but testing shows that this improves performance significantly overall.
+
+> Does queue position matter that much for relatively less liquid stocks that I am trading? I am not trading bond futures here.
+
+///
+
+Fair point. For the low-float, lower-liquidity names you're targeting, queue position is much less of a concern. The queues at any given price level are thin — maybe a few hundred or a few thousand shares — not the tens of thousands deep you'd see in ES or bond futures. So the "am I first in line" problem largely goes away because there just isn't much line to be behind.
+
+The t-digest percentile approach for limit placement is clever. You're essentially saying "I want a fill in the favorable tail of recent price action within this volume bar" — the 10th percentile for longs means you're trying to catch a dip within the bar's range rather than chasing. And the adaptive behavior of walking the limit up on the next bar when you don't fill is a nice balance between patience and not missing the trade entirely.
+
+The fact that this approach tests better than more aggressive entry makes intuitive sense too. You're giving up some trades entirely (the ones that just rip without pulling back) but getting meaningfully better average entry prices on the ones you do catch. For a strategy with a lot of trades, that price improvement on each fill compounds into real money — which is probably a big part of why your gross PF is 2.3 rather than something lower.
+
+One thing I'd be curious about: what's your fill rate roughly? If you're getting filled on say 60-70% of signals, the ones you're missing might be worth looking at — are they disproportionately winners (momentum that never pulls back) or is it fairly random? That would tell you whether the percentile filter is introducing any selection bias into your results.
+
+///
+
+> The system is getting filled on all of them because the system keeps moving the limit order up until it gets filled.
+
+///
+
+Ah right, I misread that. So it's not "give up if not filled" — it's "keep adjusting the limit until you get in." The t-digest percentile is just optimizing the *starting* price for the best possible entry, and then it chases if needed.
+
+That's a clean design. You get the price improvement on the trades where the market does cooperate, and you still capture every signal when it doesn't. The performance improvement you're seeing is basically the accumulated savings from all those times the initial limit caught a favorable print versus just market ordering in immediately.
+
+So then the 2.3 → 1.4 cost is mostly the difference between the idealized signal price and where you actually end up getting filled after the limit chasing, plus commissions. That makes the 1.4 feel more trustworthy since there's no fill rate bias — every signal is being taken.
+
+Given all that, 1.4 net is a solid foundation. The signal works, execution is realistic, and every trade is accounted for. At this point it's less about tweaking the simulator and more about whether you can find additional filters or signal refinements that push that number up while keeping trade count high enough to matter.
+
+///
+
+It's not quite 2k trades, but 1.6k trades.
+
+Yeah, this is real quant work. I am feeling pretty challenged doing this. Tomorrow I'll finish up the tests and redo the parameter optimizations.
+
+9:05pm. I am feeling it again. The feeling that I had in the early months at Tao Ceti.
+
+Yeah, it is pretty unlikely that I would get a profit factor 4.2 just like that. Even 1.8 would be exceptional. Probably, my highest value work in the intermediate term will be more data collection. More stocks in play. And then it would be great if I could get into SMB or another prop firm as a quant.
+
+Trading lightly for the first few months with a 30k max size target and 4.2k average size should be doable for me in order to build a track record.

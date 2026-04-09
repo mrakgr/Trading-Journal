@@ -6090,3 +6090,17 @@ Yeah, this is real quant work. I am feeling pretty challenged doing this. Tomorr
 Yeah, it is pretty unlikely that I would get a profit factor 4.2 just like that. Even 1.8 would be exceptional. Probably, my highest value work in the intermediate term will be more data collection. More stocks in play. And then it would be great if I could get into SMB or another prop firm as a quant.
 
 Trading lightly for the first few months with a 30k max size target and 4.2k average size should be doable for me in order to build a track record.
+
+4/9/2026
+
+8:25pm. What an amazing day. I managed to complete the system, and with the help of CMA-ES even push it above the 1.55 profit factor!
+
+In fact, the actual configuration that was found is 1.66. Holy crap. This is with the fill simulator enabled. Without it, the PF would be 3.
+
+I am very happy right now, I haven't been this happy since the early days at Tao Ceti. I am finally doing tangible, effectful work.
+
+Tomorrow I am taking a break to post the videos on Youtube, and then I am going to start prepping for simulation trading.
+
+I was so raring to go today that I got up at 6:30am, so let me go to bed early.
+
+I've earned a good night's rest. It feels like the last 11 years of effort in building my programming skills is finally starting to pay off.

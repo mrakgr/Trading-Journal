@@ -6370,3 +6370,12 @@ It's not that a trade has EV. It's the sytem that has EV. And I'll just align my
 I've made a huge advance yesterday, but I have the ingredients necessary to go from good to great, so why not take them?
 
 I need sim trading, but only to integrate with the API and verify that the system works correctly before I go live. I don't need to establish a track record of profitability for 3 months before I do this. That is what backtesting is for.
+
+1:45pm. ![](images/image-2439.png)
+
+Damn it, it actually is giving me a lot of inspiration. Right now to measure the strength of a trend, I just thought I could use moving averages relative to VWAP. Like the 100 bar moving average relative to VWAP.
+
+In a strong trend it would be in the 1-2 stddev range.
+
+Ok, just like Lance's I'll get Neerav's course to pay him back. I really owe Thom for telling me about him. It's been 3 weeks since I heard from him, I'll try emailing him later today after I do the exercises.
+

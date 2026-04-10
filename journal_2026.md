@@ -6382,3 +6382,542 @@ Ok, just like Lance's I'll get Neerav's course to pay him back. I really owe Tho
 ![](images/image-2440.png)
 
 Neerav is definitely worth listening to. It's just that it is too much to take in all at once.
+
+2:25pm. ![](images/image-2441.png)
+
+Oh, my system does have this issue currently.
+
+///
+
+The key idea in that comment is this:
+
+> **When you backtest limit orders, the biggest source of error usually isn’t slippage — it’s assuming you got filled when in reality you probably wouldn’t have, because you were too far back in the queue at that price level.**
+
+Here’s how that fits into the surrounding discussion on the page   [reddit.com](https://www.reddit.com/r/algotrading/comments/1sh6fug/help_to_calculate_accurate_slippage_in_a_backtest):
+
+---
+
+### 🎯 What the commenter is actually saying
+They’re responding to someone trying to model slippage realistically in a backtest. Several people point out that slippage isn’t a fixed number and depends on volatility, liquidity, order size, etc. But this commenter goes deeper:
+
+- **Market orders** → slippage is the main issue.
+- **Limit orders** → the *real* issue is **queue position**, not slippage.
+
+In other words, even if the market trades at your limit price, that does **not** mean you would have been filled.
+
+---
+
+### 🧠 Why queue position matters
+On a real exchange, every price level has a queue of limit orders waiting to be filled. They’re filled in strict FIFO order:
+
+1. Orders already resting at that price  
+2. Then your order  
+3. Then orders that arrive after you  
+
+So if you place a buy limit at \$100 and the order book already has 200 contracts ahead of you at \$100, then:
+
+- Even if the tape shows trades at \$100  
+- Even if price dips below \$100  
+- **You still might not get filled**  
+
+Because the market may have only traded, say, 50 contracts at that level before bouncing.
+
+Backtests that assume “price touched my limit → I got filled” are **wildly optimistic**.
+
+---
+
+### 📉 Why this breaks many backtests
+Most naive backtests do this:
+
+```
+if low <= limit_price:
+    assume fill
+```
+
+But in reality:
+
+- You might be 200th in queue  
+- Only 20 contracts traded at that price  
+- You get **zero** fill  
+
+This is especially important for:
+
+- High‑frequency strategies  
+- Mean‑reversion scalpers  
+- Tight‑spread ETF/ES/NQ trading  
+- Any strategy that relies on passive fills  
+
+These strategies often look amazing in backtests but fail in live trading because they never get the fills they assumed.
+
+---
+
+### 🔧 How the commenter handles it
+They mention running **two backtest modes**:
+
+1. **Optimistic**  
+   - Midpoint fills  
+   - No market impact  
+   - All limit orders fill when touched  
+
+2. **Pessimistic**  
+   - Cross the spread  
+   - 1.5× impact  
+   - **30% of limit fills are rejected** (i.e., assume you miss many fills)
+
+Their rule of thumb:
+
+> If the strategy doesn’t survive the pessimistic version, it’s not real.
+
+---
+
+### 🪄 Why this matters for your own algos
+Given your interest in algorithmic trading and your experience with futures and ETFs, this is exactly the kind of subtle execution detail that separates a “backtest that looks good” from a “strategy that actually works.”
+
+Queue position is one of the biggest hidden sources of overfitting in retail backtests.
+
+---
+
+If you want, I can walk you through how to model queue position realistically — from simple heuristics to full order‑book simulation.
+
+///
+
+> Go ahead, but why wouldn't my order get filled if the price traded through it?
+
+///
+
+The short version:  
+**Because “price traded through your level” does *not* mean the exchange traded enough volume at that price to reach *your* place in the FIFO queue.**
+
+Let’s unpack that using the context from the Reddit page you’re reading   [reddit.com](https://www.reddit.com/r/algotrading/comments/1sh6fug/help_to_calculate_accurate_slippage_in_a_backtest).
+
+---
+
+## 🧩 Why a limit order might *not* fill even when price trades through it
+
+### 1. **Exchanges fill limit orders strictly in FIFO**
+At each price level, there is a queue of resting limit orders:
+
+- Whoever placed their order first is at the front  
+- New orders go to the back  
+- Trades at that price consume the queue from the front backward  
+
+If you place a buy limit at \$100 and there are already 200 contracts resting at \$100, you are **#201 in line**.
+
+### 2. **The tape showing trades at your price doesn’t mean enough volume traded**
+Suppose the market dips to \$100 and prints a few trades:
+
+- Maybe only **30 contracts** traded at \$100  
+- But **200 contracts** were ahead of you  
+- So the exchange never reaches your order  
+- Price then bounces back up  
+
+On a chart, it looks like “price traded through your level,” but in reality:
+
+> **The market never consumed enough liquidity at that price to reach your order.**
+
+This is exactly what the commenter meant by “you might’ve been 200 deep in queue and never touched”   [reddit.com](https://www.reddit.com/r/algotrading/comments/1sh6fug/help_to_calculate_accurate_slippage_in_a_backtest).
+
+### 3. **Charts show *prices*, not *volumes at each price***  
+Backtests often do this:
+
+```
+if low <= limit_price:
+    assume fill
+```
+
+But that’s wrong because:
+
+- A single trade at your price is not enough  
+- You need *all* earlier orders at that price to be filled first  
+- Charts don’t show queue depth or how much volume traded at that level  
+
+### 4. **Fast markets make this worse**
+In fast-moving markets (ES, NQ, SPY, QQQ):
+
+- Price can “touch” your level for milliseconds  
+- Only a tiny amount of volume trades  
+- The book refreshes instantly  
+- You get zero fill  
+
+This is why many backtests dramatically overestimate fill rates for passive limit orders.
+
+---
+
+## 🧨 The core insight
+**A limit order only fills if:**
+
+\[
+\text{Volume traded at that price} \ge \text{queue ahead of you}
+\]
+
+Price movement alone tells you nothing about that.
+
+---
+
+## 🛠 Why this matters for your algos
+Given your background in futures and ETF trading, this is one of the biggest hidden execution traps:
+
+- Mean‑reversion scalpers  
+- Market‑making style entries  
+- Tight‑spread ETF strategies  
+- High‑frequency or intraday systems  
+
+All of these can look great in backtests but fail live because they assume fills that never happen.
+
+This is why the commenter runs a pessimistic mode where **30% of limit fills are rejected** — a crude but realistic way to account for queue failures   [reddit.com](https://www.reddit.com/r/algotrading/comments/1sh6fug/help_to_calculate_accurate_slippage_in_a_backtest).
+
+---
+
+## If you want, I can show you:
+- A simple heuristic model for queue position  
+- A more advanced model using L1/L2 data  
+- Or a full order‑book simulation approach  
+
+Which direction do you want to explore next?
+
+///
+
+I thought trading through the level meant trading below it.
+
+> I thought trading through the level meant trading beyond it. But ok, tell about all those approaches.
+
+///
+
+Great — let’s go deep.  
+And yes, you’re right: **“trading through” normally means price moved *past* your level**, not just touched it. But even *trading through* doesn’t guarantee your fill, because the market may have traded only a tiny amount of volume at that price before jumping past it. I’ll show you exactly why in a moment.
+
+Then I’ll walk you through **all three modeling approaches** — from simple heuristics to full order‑book simulation — so you can choose the right level of realism for your algos.
+
+---
+
+# 🧩 Why “trading through” still doesn’t guarantee a fill
+Let’s say you place a buy limit at **100.00**.
+
+The order book at that moment:
+
+- 200 contracts already resting at 100.00  
+- You place your order → you’re #201 in queue  
+
+Now price moves:
+
+- Market trades at 100.00  
+- Then 99.99  
+- Then 99.98  
+- Then bounces back up  
+
+On a chart, that looks like:
+
+```
+Price traded through your level → you assume fill
+```
+
+But what actually happened?
+
+- Only **50 contracts** traded at 100.00  
+- Then aggressive sellers *skipped* the level and hit bids lower  
+- Your queue position (#201) was never reached  
+- You get **zero fill** even though price traded *through* your limit
+
+This is extremely common in fast markets (ES, NQ, CL, crypto perpetuals).
+
+---
+
+# 🧠 Now — the three approaches to model this realistically
+
+Below are the three levels of sophistication traders use. You can pick whichever matches your data and your strategy’s sensitivity to execution.
+
+---
+
+# 1️⃣ **Heuristic / Statistical Fill Model (simple, practical)**  
+This is what the Reddit commenter was doing.
+
+### How it works
+You assume something like:
+
+- “Only 70% of limit orders that get touched actually fill”
+- Or: “Reject 30% of limit fills randomly”
+- Or: “Require price to trade through by X ticks before assuming fill”
+
+### Why it works
+It captures the fact that:
+
+- Touch ≠ fill  
+- Even trade‑through ≠ fill  
+- Queue position is unpredictable without L2 data  
+
+### When to use it
+- Daily/4H/1H strategies  
+- Swing trading  
+- ETF/futures strategies with wide stops  
+- Anything where microstructure isn’t the edge  
+
+### Pros
+- Easy  
+- Fast  
+- Surprisingly realistic for many strategies  
+
+### Cons
+- Doesn’t model queue dynamics  
+- Doesn’t adapt to volatility or liquidity  
+- Can under‑ or over‑estimate fills in certain regimes  
+
+---
+
+# 2️⃣ **Volume‑Based Queue Model (intermediate, very effective)**  
+This is the sweet spot for most serious intraday traders.
+
+### How it works
+You track:
+
+- Volume traded at your limit price  
+- Estimated queue depth at that price  
+- Your estimated position in queue  
+
+Then you fill only if:
+
+\[
+\text{Volume traded at price} \ge \text{queue ahead of you}
+\]
+
+### How to estimate queue depth
+You can approximate queue depth using:
+
+- Historical average resting size at that price  
+- Spread × volatility × liquidity model  
+- Exchange‑published order book statistics  
+- Your own live trading logs  
+
+### When to use it
+- Intraday futures  
+- Mean‑reversion scalpers  
+- Crypto perpetuals  
+- Anything where fill rate is critical to PnL  
+
+### Pros
+- Much more realistic  
+- Captures the “price traded through but no fill” phenomenon  
+- Still computationally light  
+
+### Cons
+- Requires assumptions about queue depth  
+- Needs tick‑level or at least volume‑at‑price data  
+
+---
+
+# 3️⃣ **Full Order‑Book Simulation (advanced, most accurate)**  
+This is the gold standard.
+
+### How it works
+You simulate:
+
+- The entire L2 order book  
+- Every resting order  
+- Every trade  
+- FIFO queue movement  
+- Your order entering the book  
+- Your order being filled or not  
+
+### Data required
+- Full depth-of-book (L2) historical data  
+- Millisecond timestamps  
+- Trade prints  
+- Order add/cancel/modify events (if available)
+
+### When to use it
+- Market making  
+- HFT  
+- Tight‑spread scalping  
+- Latency‑sensitive strategies  
+- Anything where queue position *is* the edge  
+
+### Pros
+- Most realistic possible  
+- Models queue position exactly  
+- Captures microstructure alpha and microstructure risk  
+
+### Cons
+- Expensive data  
+- Heavy compute  
+- Complex to implement  
+- Overkill for most strategies  
+
+---
+
+# 🧠 Which one should *you* use?
+Given your background (futures, ETFs, WSL dev environment, algotrading experience), here’s the honest take:
+
+- If your strategy trades **minutes or hours**, use **Approach #1 or #2**  
+- If your strategy trades **seconds or sub‑seconds**, you need **Approach #2**  
+- If your strategy trades **milliseconds**, you need **Approach #3**  
+
+Most retail backtests fail because they assume:
+
+```
+price <= limit → fill
+```
+
+This is wildly optimistic for any intraday strategy.
+
+---
+
+# If you want, I can:
+- Build a **queue‑depth model** with you  
+- Show you how to estimate queue position from **tick data**  
+- Help you implement a **volume‑based fill simulator**  
+- Or outline a **full L2 order‑book simulator** architecture  
+
+Which direction do you want to take this in next?
+
+///
+
+I guess these are my next projects.
+
+> Why wouldn't the queue be fully consumed at a particular level before going lower?
+
+///
+
+Here’s the key idea, Marko — and it’s the part that feels counter‑intuitive until you understand how matching engines actually work:
+
+> **The exchange does NOT require that all liquidity at one price be fully consumed before trades print at a lower price.**
+
+This is why the Reddit commenter said you can be “200 deep in queue and never touched” even though the price traded through your level   [reddit.com](https://www.reddit.com/r/algotrading/comments/1sh6fug/help_to_calculate_accurate_slippage_in_a_backtest).
+
+Let’s break it down cleanly and precisely.
+
+---
+
+# 🧩 Why the queue at your price *doesn’t* have to be fully consumed before lower prices trade
+
+## 1. **Trades are matched against *orders*, not against price levels**
+A market sell order doesn’t say:
+
+> “Fill me at the best price, but only after you fully clear the best bid.”
+
+Instead it says:
+
+> “Fill me immediately against *any* available bids, starting from the best price and going down until I’m fully filled.”
+
+If the incoming sell order is large enough, the matching engine will:
+
+- Fill part of it at 100.00  
+- Then immediately continue filling the rest at 99.99  
+- Then 99.98  
+- And so on  
+
+**It does not wait for the 100.00 queue to be fully consumed.**
+
+It just keeps matching until the entire market order is filled.
+
+---
+
+## 2. **The tape prints the *last* traded price, not the sequence**
+If a 500‑lot market sell order arrives and the book looks like:
+
+- 100.00 → 200 contracts  
+- 99.99 → 150 contracts  
+- 99.98 → 300 contracts  
+
+Then the matching engine will do:
+
+- First 200 contracts at 100.00  
+- Next 150 at 99.99  
+- Next 150 at 99.98  
+
+The **last** trade was at 99.98, so the tape prints **99.98**.
+
+On a chart, it looks like:
+
+```
+100.00 → 99.98
+```
+
+But that doesn’t mean the 100.00 queue was fully consumed before 99.99 and 99.98 traded.
+
+It just means the *final* fill of the market order happened at 99.98.
+
+---
+
+## 3. **Your order might be deep in the queue**
+Even if 200 contracts are resting at 100.00, you might be:
+
+- #201  
+- #350  
+- #900  
+
+If only 200 contracts trade at 100.00 before the matching engine moves on to 99.99, **you get nothing**.
+
+Even though the chart shows price traded *through* your level.
+
+This is exactly what the Reddit commenter was warning about:  
+> “you assume you got filled because the price traded through your level but in reality you might’ve been 200 deep in queue and never touched”   [reddit.com](https://www.reddit.com/r/algotrading/comments/1sh6fug/help_to_calculate_accurate_slippage_in_a_backtest).
+
+---
+
+## 4. **Fast markets make this effect extreme**
+In ES, NQ, SPY, QQQ, crypto perps:
+
+- Market orders are large  
+- Order flow is bursty  
+- Matching happens in microseconds  
+- The book can be swept multiple levels deep instantly  
+
+So you often see:
+
+- Price touches your limit  
+- Then trades below it  
+- But your order never fills  
+
+Because the volume at your price wasn’t enough to reach your queue position.
+
+---
+
+# 🧠 The mental model that fixes everything
+
+Think of the order book as a **stack of liquidity**, not a staircase.
+
+A big market order doesn’t step down one stair at a time.  
+It **plows straight through the stack** until it’s fully filled.
+
+Your limit order is just one tiny piece of that stack.
+
+Whether you get filled depends on:
+
+\[
+\text{Volume traded at your price} \ge \text{queue ahead of you}
+\]
+
+Price movement alone tells you nothing about that.
+
+---
+
+# If you want, I can now show you:
+- How to estimate queue depth from L1/L2 data  
+- How to simulate fills realistically in a backtest  
+- Or how to build a full order‑book simulator  
+
+Which direction do you want to take this next?
+
+///
+
+4:10pm. Phew, once the rejection sensitivity analysis has been done I see the degradation is graceful.
+
+///
+
+=== Results (mean ± std over 10 seeds per rejection rate) ===
+RejRate       PF_mean     PF_std     PF_min  PF_median     PF_max   PnL_mean    PnL_std Trips_mean
+----------------------------------------------------------------------------------------------------
+0.00           1.6459     0.0036     1.6420     1.6446     1.6518      14849         48       3164
+0.05           1.6343     0.0071     1.6232     1.6355     1.6446      14666        115       3149
+0.10           1.6311     0.0050     1.6234     1.6306     1.6436      14620         77       3121
+0.15           1.6185     0.0092     1.6051     1.6203     1.6301      14421        150       3098
+0.20           1.6094     0.0144     1.5905     1.6108     1.6380      14294        215       3075
+0.25           1.5954     0.0127     1.5673     1.5981     1.6127      14051        198       3056
+0.30           1.5788     0.0149     1.5584     1.5759     1.6087      13789        220       3043
+0.35           1.5753     0.0117     1.5625     1.5750     1.5961      13723        192       3035
+0.40           1.5540     0.0173     1.5329     1.5489     1.5883      13356        276       3006
+0.45           1.5404     0.0157     1.5128     1.5445     1.5617      13151        274       2982
+0.50           1.5273     0.0202     1.4946     1.5214     1.5635      12900        346       2947
+
+///
+
+I should keep going and get more data tomorrow. Let me do the exercises. This task blindsided me.

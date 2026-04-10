@@ -6939,3 +6939,7 @@ It seems the big deal was the VWAP paper by Zarattini in the end.
 It's quant way to the end for me. It's so easy to be objective with the quant approach. It fits me like a glove.
 
 And he did say he has a lot friends who make money in the market using algos so I should emulate them instead.
+
+8:10pm. Ah fuck it, let me go to bed. If Thom wants to learn to trade he is the one who should email me. Given steady growth in my skills, I am bound to find one person in the world who I can share interests with. I just need to reach a base level and then I'll find such people at a prop firm if nowhere else.
+
+Just a few more steps and I will be there.

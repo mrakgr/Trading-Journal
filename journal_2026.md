@@ -6104,3 +6104,221 @@ Tomorrow I am taking a break to post the videos on Youtube, and then I am going 
 I was so raring to go today that I got up at 6:30am, so let me go to bed early.
 
 I've earned a good night's rest. It feels like the last 11 years of effort in building my programming skills is finally starting to pay off.
+
+4/10/2026
+
+7:20am. I went to bed early, but I must have woken up an hour ago and lounged for a while.
+
+At any rate, I am decently rested and the Satanophany batch is waiting for me. Let me first deal with the videos.
+
+Music:
+
+KageYume - Dark Samurai Boss Battle: https://youtu.be/1iTDPTauNII
+KageYume - Violin Bard Playlist: https://youtu.be/m96NR_ntetQ
+Veilcore Music - No.163: https://youtu.be/q_J8aVAkav8
+Veilcore Music - No.164: https://youtu.be/EzyzOzwJUd8
+
+It's rendering. Let me write the descriptions:
+
+///
+
+Part 1|2 of the Vwap system miniseries.
+
+We collected the data, and now it is time to put it to good use. Early on we had a choice whether to go with the generative approach we were pioneering, or to backtrack a little and give the Vwap system a try. On the volume bars, it's essentially a simple moving average system anchored to the opening prints so it's not conceptually hard to understand. But the actual design and the implementation of the system took everything we learned over the last 11 years of our career. And the resulting product might be our first resounding success. It's been a long time coming, but the foundation the author has been building is finally starting to pay off for him.
+
+These two videos might be the most important ones on this channel. The system we've built has significant edge.
+
+We go through the entire process from the design of the pipeline architecture to the implementation to the backtesting and parameter optimization using CMA-ES. We even built a fill simulator to make sure that entries are realistic.
+
+It's a pity about the generative approach, but at this point we're completely in the rule based systems camp. It's not that the generative approach is non-viable, but going through the entire dataset takes a while even for the Vwap system. As good as our RTX 5080 is, we don't think it will do the job.
+
+The generative approach was useful as an exercise and it led us to building volume charts, but contrary to our expectations, it is possible to have an edge in the market without it. At some point we will return to it, but for now we should focus of taking advantage of what we have.
+
+In the next video, we will start our preparations for sim trading. We did order delay simulation and found that delays in the 20-500ms range make little difference to our results, so the Interactive Brokers will do fine as a broker. We won't need to go out and get a Lime or Lightspeed account for this style of trading.
+
+So the first order of business will be to figure out the IBKR API and integrate with it. Then comes the sim trading phase. We'll want to see if we can be profitable for at least a few weeks before going live with small amounts of money. 
+
+It's very exciting!
+
+Also, currently we have only 106 examples of stocks in play in our reference document and we should definitely collect more. Even within stocks in play there are differences in expected value, and if we could be more selective, it might be possible to get a profit factor above 2 within just that subset of setups. Right now we have perhaps 4 good examples of extreme stocks in play and that isn't enough, but it we added another 1,000 examples to the document, that could be 40 extra examples of truly A+ setups.
+
+We're ready and willing to take on that work now.
+
+///
+
+8:30am. Seems good. The 2nd video is still rendering, so I'll leave this for later.
+
+8:35am. I am thinking what to do next. I really should just let loose today and not jump into sim trading right away.
+
+Tomorrow, I should add the stocks in play that I've missed over the last 2 days to the document. Only then should I move to sim trading. I've unsubbed from Massive and it will run out in the 15th.
+
+I can always resubscribe, but I should take the opportunity to collect more data while I can.
+
+You know, I have the list of stocks already, nothing is really stopping me from downloading all on the list from the last year (or even a few) of trading. Then later I'll be able to sift through them at my leisure. I need 10x more data than I have now anyway. It's not like I don't have the hard drive space, so what is stopping me?
+
+8:45am. I don't have to put so much effort in building the reference document manually. Forget short interest and float. I can filter out the ETFs automatically. What I need is volume.
+
+Relative volume to the average for the day.
+Gap %.
+Premarket volume. Volume 5s after the opening print. Volume 30s after the opening print. Volume 2.5m after the opening print.
+
+I haven't squeezed out all the juice out of what I can do with what I have at my disposal already.
+
+Also, I should collect SPY for the days I am trading and see whether including the market's movements in the system helps any. But I can leave that work for later. Considering SPY isn't what really matters.
+
+Deeper volume analysis definitely does. I need to automate my data collection more.
+
+8:55am. For now I'll focus purely on stocks in play.
+
+I'll remove the bands from the system and add an extra offset parameter at the 25m mark.
+
+9am. Here is the plan.
+
+I am going to get data for the last two years. Also for every stock on the list, I am going to find their continuation days and keep adding them as long the RVOL is above 3x. When it goes below 3x, I'll still add it to the list, but I will stop adding any further days.
+
+I'll want to implement a feature into the system to just avoid trading the stock if the volume isn't there at the opening offsets. If I give it a stock and the volume isn't there, I want it to just pass on the stock.
+
+9:05am. You know, once I have all that data, I will be able to build an ML model that could correlate the various volume figures to the system's performance for that day.
+
+That will allow me to increase my bet sizing on the choiciest of setups. But I'll have hard data supporting those choices.
+
+9:15am. To factor out the breakouts we should calculate the % daily range before the breakout day and look at the daily range % on the breakout day and the few days after that.
+
+If it is abnormally low we'll just assume that the breakout is a buyout and we'll pass on it.
+
+9:20am. Yeah, we'll start with:
+
+* Get the full list of stocks in play.
+* Filter out the ETFs.
+* Filter out the buyouts.
+* Get their continuation days.
+
+For the fading continuation days we will let the system avoid them automatically using the volume criteria.
+
+I really need this last part, because the stocks I will be targetting in sim trading might fade during the day and won't always be neatly arranged like in the dataset.
+
+I should mark the continuation days by their number of days since the breakout. That will allow me to break down the system's profitability on them.
+
+Oh, yeah, I should also split the continuations into bull and bear continuations.
+
+9:45am. For the v2 of the VWAP system I'll have 15+1 params.
+
+* 5 params are the bar sizes relative to day's volume.
+* 5 params will be low end of the range for day's volume relative to the monthly average.
+* 5 params will be high end of the range for day's volume relative to the monthly average.
+* 1 param will the the fill percentile.
+
+I want to implement a system that bets between 0x to 4x depending on the day's volume relative to the average.
+
+That way I will be able to get some exponential bet sizing into the system in order to try to the improve profit factor.
+
+9:55am. Hrrmmmmm...no.
+
+The problem with giving the optimizer access to the bet sizing is that it might just push up the volume requirements. There is no point in having a high PF if the earnings drop too much.
+
+Let me ask Opus for how I could balance this type of optimization.
+
+> How could I balance optimizing the profit factor with the total profits?
+
+///
+
+This is a classic tension in trading system development. Here's how to think about it:
+
+**The core tradeoff:** Profit factor (gross profit / gross loss) rewards selectivity — taking only the highest-quality setups. Total profit rewards activity — taking more trades to capture more absolute P&L. Optimizing one often degrades the other.
+
+**Practical approaches:**
+
+**1. Constrained optimization**
+Optimize total profit subject to a minimum profit factor threshold (e.g., PF ≥ 1.5). This keeps you from chasing marginal trades that dilute edge quality. Alternatively, optimize PF subject to a minimum trade count — preventing overfitting to a handful of cherry-picked trades.
+
+**2. Composite scoring**
+Create a blended objective like:
+
+`Score = TotalProfit × (1 - 1/PF)`
+
+or weight them explicitly:
+
+`Score = α × normalize(TotalProfit) + (1-α) × normalize(PF)`
+
+The first formula naturally penalizes low PF while still rewarding absolute returns. The `1 - 1/PF` term goes to zero as PF approaches 1 and asymptotes toward 1 as PF grows.
+
+**3. Tiered filtering approach**
+Given your SMB-style setup framework, this maps naturally: use PF as a *filter* (only trade setups where historical PF exceeds threshold) and optimize total profit within the surviving universe. This is philosophically aligned with "Stocks In Play" thinking — you're already filtering for quality contexts, then maximizing within them.
+
+**4. Pareto frontier analysis**
+Sweep your parameter space, plot PF vs. total profit for each configuration, and identify the Pareto-efficient set. Then pick from the frontier based on your risk preferences. Points far from the frontier are dominated — strictly worse on both dimensions.
+
+**5. Think about what each metric actually tells you**
+
+- High PF + low total profit = you're leaving money on the table (too selective, or sizing too small)
+- Low PF + high total profit = you're grinding a thin edge over many trades (fragile to execution costs, slippage, regime change)
+- The sweet spot is usually moderate PF (1.5–2.5 for intraday) with meaningful trade count
+
+**What I'd suggest for your system:** Since you're building signals around order flow anomalies (unusual hold, distribution distance metrics), you have a natural quality filter already baked in. I'd optimize total profit with a PF floor constraint, and separately track PF per setup type. If a specific setup (e.g., Low Float Reversal vs. Gap and Go) has PF < 1.3 over a reasonable sample, drop it entirely rather than trying to tune it into profitability — that's the SMB "focus on your best setups" philosophy applied systematically.
+
+Want to dig into any of these approaches more concretely, like implementing the Pareto analysis or the composite scoring in F#/Python?
+
+///
+
+I really like the composite scoring. Ok here is what we're going to do. We'll train a system with just...
+
+* 5 params are the bar sizes relative to day's volume.
+* 5 params will be low end of the range for day's volume relative to the monthly average.
+* 1 param will the the fill percentile.
+
+With just the low end of the range, and we'll optimize for max profitability. That will give us the normalization constant for total profit. Then after that we'll do optimization runs weighted towards the profit factors.
+
+> I like the composite scoring approach. I could do a sweep that maximizes profits and then once that gives me the normalization constants for the total profit as well as the profit factor I could do various sweeps weighted towards the profit factors.
+
+///
+
+That's a solid two-phase approach. Run the unconstrained profit-maximizing sweep first to establish the empirical ranges, then use those ranges as your normalization anchors so the α weighting is meaningful.
+
+One thing to watch out for: if you normalize using the min/max from the initial sweep, your normalization constants are sample-dependent. If you later expand the parameter space or add new setups, the scaling shifts and your α values lose their original meaning. You could mitigate this by normalizing against economically meaningful reference points instead — e.g., normalize total profit against your target annual P&L, and PF against some baseline like 1.0 (breakeven) to 3.0 (exceptional). That way α = 0.5 always means the same thing regardless of which sweep produced it.
+
+The other consideration is what "weighted towards profit factor" means in practice for your system. Pushing α toward PF will tend to prune the noisier setups — the ones where your order flow signals fire frequently but with lower conviction. That's probably fine for something like the 2nd Day Play where you want high selectivity, but might be counterproductive for Opening Drive setups where catching the move matters more than filtering. You might end up wanting different α values per setup class rather than one global weight.
+
+How are you planning to structure the sweep itself — grid search over your signal thresholds, or something more efficient?
+
+///
+
+> I'll use CMA-ES. There is a good Python library for it, and I've already used it yesterday with great results. As an aside, I've stopped doing unusual hold detection because the Vwap based system I am working on currently gave such great results. My next step will be to automate the data collection. I am going to add variable bet sizing based on various volume criteria. I have a refenced document of 106 stocks in play, and I could easily get 10x as much data. I'll automate that data collection and then dig deeper into the volume criteria to get all that I can out of that.
+
+///
+
+CMA-ES is a great fit here — it handles the non-convex, noisy landscape of trading system optimization much better than grid search, and it'll scale well when you start sweeping over the additional volume-based sizing parameters.
+
+The VWAP system pivot makes sense. If it's already producing strong results on 106 stocks, scaling to 1000+ samples will give you much more confidence in the volume criteria and help you distinguish genuine edge from sample-specific artifacts. That's the right sequencing — nail the core signal first, then layer on sizing refinements with statistical power behind them.
+
+For the variable bet sizing, are you thinking along the lines of Kelly-style fractional sizing keyed to volume metrics (relative volume, trade size percentiles from your t-digest work), or more of a discrete tier system — like full size above some RVOL threshold, half size below?
+
+///
+
+> I thought I could make it a linear function from 0x to 4x in a certain % range of daily volume divided by the monthly average.
+
+///
+
+Clean and simple — a linear ramp avoids the fragility of discrete tiers and gives CMA-ES a smooth surface to optimize over. The daily/monthly relative volume ratio is a natural normalization too.
+
+So you'd have CMA-ES find the lower bound (where sizing hits 0x) and upper bound (where it caps at 4x), with linear interpolation between? That's just two parameters for the sizing component, which keeps the search space manageable.
+
+The main thing I'd think about is whether the relationship is actually linear across that range. It might be that the edge concentrates disproportionately at the high end — stocks at 3x+ relative volume might deserve more than the linear interpolation would give them. But honestly, start linear, let CMA-ES find the bounds, and then check the residuals. If you see the system consistently underperforms at certain volume levels relative to what the linear model predicts, you can add a shape parameter later (exponent on the ramp, making it convex or concave).
+
+Also worth considering: 4x max leverage means your tails matter a lot. With 1000+ samples you'll have enough data to check whether the volume criterion is genuinely predictive of *risk-adjusted* returns at full size, or if the high-volume trades just happen to have bigger moves in both directions. The composite score with PF weighting should help catch this, but it's worth eyeballing the P&L distribution at the upper sizing range specifically.
+
+///
+
+Decent advice.
+
+10:25am. So much for resting. I guess I am just planning. I want to watch Neerav's vids on the VWAP. I am really getting a lot out of it now, so doing that would be justified.
+
+Are the vids up yet?
+
+https://youtu.be/vuykh2Zq66Y
+The VWAP System (Pt. 1)
+
+Here it is. The next one is scheduled in 5 days.
+
+10:40am. You know what screw resting. Let me work. I feel like working so that is what I should do.
+
+Why should I rest when I finally attained a state of enjoying work? It makes no sense.

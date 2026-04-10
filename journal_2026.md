@@ -6921,3 +6921,13 @@ RejRate       PF_mean     PF_std     PF_min  PF_median     PF_max   PnL_mean    
 ///
 
 I should keep going and get more data tomorrow. Let me do the exercises. This task blindsided me.
+
+5:10pm. Done with the exercises. My hands feel a bit better now. They get numb if I sit in this chair for too long.
+
+At any rate, I am doing only 9.8 trades per day so I am not surprised that rejection analysis passed. I was scared though. What if all of this was just a dream? What if I really am deluded?
+
+You never know.
+
+Let me finish the video by Neerav and then I'll call it a day. What I am going to do starting tomorrow is Automated Data Collection.
+
+As much as I am tempted to start sim trading, this is more important. It's pretty much a given by now that this system works. I just need to feed it more and elaborate it more. And then I will be Ready.

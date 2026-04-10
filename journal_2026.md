@@ -6379,3 +6379,6 @@ In a strong trend it would be in the 1-2 stddev range.
 
 Ok, just like Lance's I'll get Neerav's course to pay him back. I really owe Thom for telling me about him. It's been 3 weeks since I heard from him, I'll try emailing him later today after I do the exercises.
 
+![](images/image-2440.png)
+
+Neerav is definitely worth listening to. It's just that it is too much to take in all at once.

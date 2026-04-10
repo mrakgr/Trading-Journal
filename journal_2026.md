@@ -6322,3 +6322,22 @@ Here it is. The next one is scheduled in 5 days.
 10:40am. You know what screw resting. Let me work. I feel like working so that is what I should do.
 
 Why should I rest when I finally attained a state of enjoying work? It makes no sense.
+
+10:45am. Let me just finish the manga I opened this morning and then I'll watch some of his VWAP videos.
+
+11:40am. Ahhhh, it's obvious!
+
+Instead of letting the optimizer control the bet sizing, I can just use different systems in parallel!
+
+I can have 1.4 PF system, 1.6 PF system and 1.8 PF system. I can then pick to bet bigger on the latter depending on whether it is active.
+
+Given that they have very similar entry criteria the fill simulator can just pick the best one and listen to it. That's the way to do it!
+
+11:45am. That would allow me to reduce the param count to...
+
+* 5 params will be percentages at offsets relative to day's volume.
+* 5 params will be percentages at offsets for day's volume relative to the monthly average.
+* 1 param will the the fill percentile.
+
+The middle group will have strict on and off behavior. Right, right, right, right...
+

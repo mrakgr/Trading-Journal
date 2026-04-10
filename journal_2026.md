@@ -6931,3 +6931,11 @@ You never know.
 Let me finish the video by Neerav and then I'll call it a day. What I am going to do starting tomorrow is Automated Data Collection.
 
 As much as I am tempted to start sim trading, this is more important. It's pretty much a given by now that this system works. I just need to feed it more and elaborate it more. And then I will be Ready.
+
+7:30pm. Nevermind, it's just more of his nonsense. I am really done this time around.
+
+It seems the big deal was the VWAP paper by Zarattini in the end.
+
+It's quant way to the end for me. It's so easy to be objective with the quant approach. It fits me like a glove.
+
+And he did say he has a lot friends who make money in the market using algos so I should emulate them instead.

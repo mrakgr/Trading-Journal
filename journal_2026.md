@@ -6341,3 +6341,32 @@ Given that they have very similar entry criteria the fill simulator can just pic
 
 The middle group will have strict on and off behavior. Right, right, right, right...
 
+1:05pm. ![](images/image-2438.png)
+> What is the rhythm at the start of the day?
+> It changes, something changes.
+> I talked a lot about this in the composites section.
+> I said guys we have major edge over algorithms where was can start to do logic. Do things from a discretionary perspective.
+> I tell you, it's gonna be difficult for an algorithm these types of conditions in the way we can almost a little bit form an analytical perspective.
+> Obviously where, it is clearly obvious they should be able to identify it.
+> But at the same time, look here.
+
+He points to the reversal that is close to the 2nd deviation upper band.
+
+> We have massive edge because when we program a system, what do you say to it?
+> "When you touch this second standard deviation, I want you to consider that a reversion."
+> "When you're a bit of a price away from it..."
+> Do you see what I mean?
+
+He is clueless. I could easily program a system to do this flexibly. The solution is a family of systems, each of the going long or short once the volume bar closes above or below a short term moving average. One of the decision parameters could be distance in standard deviations from the VWAP.
+
+So you would see the expectancy of such systems vary depending on that distance parameter and then you bet according to that expectancy.
+
+This pretty much how I am going to structure the VWAP system to deal with varying volume criteria. The system will be a collection of systems with different EV's per trade.
+
+It's not that a trade has EV. It's the sytem that has EV. And I'll just align my desired activity level with the system EV.
+
+1:20pm. Yeah, let me put off the entry into sim trading. Upgrading my process even more will benefit me greatly and I am not in a hurry to make money.
+
+I've made a huge advance yesterday, but I have the ingredients necessary to go from good to great, so why not take them?
+
+I need sim trading, but only to integrate with the API and verify that the system works correctly before I go live. I don't need to establish a track record of profitability for 3 months before I do this. That is what backtesting is for.

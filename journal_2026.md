@@ -6943,3 +6943,40 @@ And he did say he has a lot friends who make money in the market using algos so 
 8:10pm. Ah fuck it, let me go to bed. If Thom wants to learn to trade he is the one who should email me. Given steady growth in my skills, I am bound to find one person in the world who I can share interests with. I just need to reach a base level and then I'll find such people at a prop firm if nowhere else.
 
 Just a few more steps and I will be there.
+
+4/11/2026
+
+6:40am. Good morning.
+
+I think I woke up 2h ago and was just thinking about the system we're working on. I was thinking how I would generalize it to 24h markets and I think I know.
+
+I also know what I will name it. It's going to be my playbook trade.
+
+It's name is The Open.
+
+This seems superflous in 6.5h regulated markets, but in crypto markets which are 24h, how could it be applied?
+
+The system has 4 main characteristics:
+
+* Vol calculation starts 1h before the open.
+* We only start trading at some specified time after the open.
+* We place an anchored VWMA at the open.
+* We are also using volume criteria at specified times to determine the setup quality.
+
+So in 24h markets which don't have a predetermined open, we could just scan for abnormal 1 minute bars with abnormal volume and place an anchor at their start. We could also play those trades for a maximum of 8 hours assuming volume doesn't die.
+
+So the The Open is a setup that plays the VWMA in periods of abnormal volume.
+
+I was struggling how I could apply the system in crypto, and then I realized that I really absolutely have to scan for 1 minute bars. Getting in 1h after the breakout is too late.
+
+Being early solves pretty much all the issues that I can think of.
+
+...
+
+I was doing some really in depth thinking about key levels, and concluded that in fact the VWMA is the most objective measure of a key level. So this is why the anchoring the VWAP at the open works.
+
+The biggest problem is getting in late. It's really important to be there from the start of the move.
+
+Be early or don't play at all. Even 1m is too long. I'd rather it be 30 seconds.
+
+But we'll see what backtesting has to say about that.

@@ -6958,7 +6958,7 @@ This seems superflous in 6.5h regulated markets, but in crypto markets which are
 
 The system has 4 main characteristics:
 
-* Vol calculation starts 1h before the open.
+* Volatility calculation starts 1h before the open.
 * We only start trading at some specified time after the open.
 * We place an anchored VWMA at the open.
 * We are also using volume criteria at specified times to determine the setup quality.

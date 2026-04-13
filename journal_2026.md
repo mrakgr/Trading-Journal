@@ -7027,3 +7027,16 @@ If I can verify this strategy with real money, I think I am going to take the re
 Right now, it's still justifiable as I don't know myself for certain whether it will be true or whether I am overfitting.
 
 But if I got from 100k to 200k then that is that.
+
+5:25pm. Then towards the end he starts hawking his service.
+
+https://youtu.be/TEVRiSNxs50
+Turning Data Into Meaning (The Quant Process 02)
+
+Yeah, once I have the data I could do some bootstrapping to get a better sense of whether the system is overfitting or not.
+
+5:45pm. ![](images/image-2442.png)
+
+This is actually pretty good content and I find myself agreeing with everything he is saying.
+
+The generative approach I intiially took has a fatal weakness of not looking at the actual data, but it was a very useful exercise.

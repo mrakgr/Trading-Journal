@@ -6980,3 +6980,39 @@ The biggest problem is getting in late. It's really important to be there from t
 Be early or don't play at all. Even 1m is too long. I'd rather it be 30 seconds.
 
 But we'll see what backtesting has to say about that.
+
+4/13/2026
+
+4:10pm. Let me write the description for the Scaling Up video.
+
+///
+
+In this video we throughly prepare for scaling up our future backtesting efforts.
+
+* Limit order rejection sensitivity analysis.
+* Automating the data collection.
+* Saving the data in Parquet to get 20x compression in storage for the tick data.
+* Defining the custom binary format for 30x faster data loads
+* Optimizing the processing pipeline in terms of trades per second.
+* Figuring out how to optimally compile nested functions in F#.
+* Minimizing heap allocation.
+
+We manually collected 106 examples and optimized on them, and the next step will be to optimize the system in 100x more examples and see that gets us. Rather than manually filling in the reference document we'll do it biggest and better by borrowing on the strength of the machines. In the next video we'll take advantage of the work done in this video to really get a sense of the VWAP system's true worth. We'll try to see whether we can use volume hints to carefully tune our profit factor.
+
+Then after that we'll start with sim trading and ease up into real money trading after that.
+
+The only question is whether our real world profit factor will be 1.4 or whether we will manage to push it up to 1.6 and beyond.
+
+But who knows. Maybe we're deluded and this will all come to nothing. Maybe trading really is only for a chosen few with talent?
+
+Maybe that will be the case, but we shouldn't give up when the data is telling us that we will win. We need to keep going.
+
+///
+
+Music:
+
+Symphony Of Blades - Bloodfire: https://youtu.be/4z9t1_Egv6c
+Samurai Girl - Samurai Pirates: https://youtu.be/dstInCe633o
+Samurai Girl - Heavy & Steady (Slowtempo Anthems): https://youtu.be/TzrAfM4l_5k
+
+4:20pm. Phew, it is up. I got up to program at 6:30am today so I don't really feel like doing anything else for the day. But maybe I could just start the data downloads?

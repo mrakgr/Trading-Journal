@@ -7016,3 +7016,14 @@ Samurai Girl - Samurai Pirates: https://youtu.be/dstInCe633o
 Samurai Girl - Heavy & Steady (Slowtempo Anthems): https://youtu.be/TzrAfM4l_5k
 
 4:20pm. Phew, it is up. I got up to program at 6:30am today so I don't really feel like doing anything else for the day. But maybe I could just start the data downloads?
+
+5:05pm. https://youtu.be/M3-0LfZMsz4
+How Trading Is Actually Done (The Quant Process 01)
+
+This guy is great.
+
+If I can verify this strategy with real money, I think I am going to take the repos and the screecasts private. It's crazy to have an actually profitable strategy out in the open when anybody with half a brain could take it and arb it out.
+
+Right now, it's still justifiable as I don't know myself for certain whether it will be true or whether I am overfitting.
+
+But if I got from 100k to 200k then that is that.

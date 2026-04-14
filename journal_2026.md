@@ -7148,3 +7148,6 @@ I am certainly following this principle.
 ![](images/image-2447.png)
 
 I am not sure. Is what I am trying to do really an inefficiency or a risk premium? I am not sure.
+
+https://youtu.be/FxTLkyjYOAc?t=239
+> And for this reason most of my strategies are incredibly simple, as well as many other amazing quant and systematic traders that I know, they all trade very things. They all understand what they are trading, why ultimately they are getting a return and that's probably one of the most important factors to it.

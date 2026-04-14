@@ -7181,3 +7181,139 @@ Maybe I should get the Expected Returns book?
 ![](images/image-2455.png)
 
 What is the volatility risk premium?
+
+Here is what Sonnet has to say.
+
+///
+
+The **volatility risk premium (VRP)** is the compensation that option sellers receive for bearing the risk of providing volatility insurance to option buyers. It reflects the persistent tendency for **implied volatility (IV) to exceed realized volatility (RV)** over the same future period.
+
+## Core Intuition
+
+Options are priced using implied volatility — the market's forward-looking expectation of how much an asset will move. But historically, assets tend to move *less* than what options priced in. The difference is the VRP:
+
+**VRP ≈ Implied Volatility − Realized Volatility**
+
+For example, if the VIX (30-day implied vol on the S&P 500) reads 20%, but the S&P 500 only realizes 15% volatility over the next 30 days, the VRP was roughly 5 vol points. Option sellers captured that spread.
+
+## Why Does It Exist?
+
+The VRP exists for structural, economic reasons — it's not a free lunch:
+
+- **Insurance premium**: Option buyers (hedgers, institutions) are willing to overpay for downside protection, just as people overpay for car insurance relative to actuarial cost.
+- **Left-tail risk**: Realized vol occasionally spikes violently (crashes, crises). Option sellers demand compensation for this jump risk.
+- **Uncertainty premium**: The future is genuinely uncertain; IV embeds a risk premium on top of the "fair" forecast.
+- **Liquidity provision**: Market makers and vol sellers demand a spread for taking the other side of hedging flows.
+
+## How It's Harvested
+
+Common strategies that monetize the VRP:
+
+- **Short options / selling straddles or strangles** — collect premium, delta-hedge away directional risk
+- **Short variance swaps** — pure exposure to IV vs. RV spread, without delta hedging
+- **Covered calls / cash-secured puts** — retail-friendly variants
+- **VIX futures roll** — VIX futures tend to trade in contango (above spot VIX) because of VRP, creating a structural roll-down
+
+## Key Empirical Properties
+
+- The VRP is **persistent and positive on average** across most equity markets, commodities, and FX, but it's not constant — it varies with market regime.
+- It **spikes during crises** (2008, 2020) when realized vol explodes and option sellers suffer large losses.
+- It's **larger on the put side** than the call side (volatility skew), reflecting the asymmetric demand for downside protection.
+- It tends to be **mean-reverting** — high VRP environments (elevated fear) often precede attractive entry points for vol sellers.
+
+## Relationship to VIX
+
+The VIX is essentially a real-time market price of implied volatility. The long-run average VIX (~19-20) consistently exceeds long-run average realized S&P 500 vol (~15-16), and that persistent gap *is* the VRP in aggregate.
+
+## Risks
+
+- **Short gamma / convexity risk**: Losses accelerate as vol spikes (e.g., short a strangle when the market crashes)
+- **Path dependency**: Even if IV > RV on average, a single bad month can wipe out years of premium
+- **Correlation breakdown**: In crises, assets correlate to 1 and all vol strategies blow up simultaneously
+
+The VRP is one of the most well-documented and durable risk premia in finance, sitting alongside the equity risk premium and carry in the toolkit of systematic traders.
+
+///
+
+> Where do profits from trading stocks in play come from? Is it some kind of volatility risk premium or an inefficiency?
+
+///
+
+Great question — and the honest answer is that it's a mix of both, with some nuances specific to the low-float momentum world.
+
+## The Short Answer
+
+Stocks in play profits come primarily from **structural inefficiencies and microstructure frictions**, not from a risk premium in the classical sense. But there's a risk-bearing component too.
+
+---
+
+## What's Actually Being Exploited
+
+### 1. Informed vs. Uninformed Order Flow Imbalance
+
+When a stock has a catalyst (earnings surprise, FDA approval, short squeeze), there's a sudden **information asymmetry**. Traders who correctly interpret the catalyst faster or better than the crowd are effectively trading against:
+
+- **Retail FOMO buyers** chasing momentum without edge
+- **Stale liquidity** — market makers and limit order resting book that hasn't repriced yet
+- **Shorts covering involuntarily** at any price
+
+This is closer to an **informational edge** than a risk premium — you're being paid for reading the situation correctly, not just for bearing risk.
+
+### 2. Microstructure Frictions (The Spread & Liquidity Premium)
+
+Low-float stocks have wide spreads, thin books, and high impact costs. Someone has to provide liquidity into the panic buying and selling. Traders who fade exhaustion moves or add liquidity at extremes are:
+
+- Earning the **bid-ask spread** as compensation for adverse selection risk
+- Being paid for **absorbing imbalanced order flow**
+
+This *is* a risk premium of sorts — a **liquidity risk premium** — but it's microstructure-based, not volatility-based in the VRP sense.
+
+### 3. Behavioral Inefficiency
+
+Low-float momentum stocks attract a specific crowd: retail traders, momentum algos, and short sellers. Their behavior is **predictable and exploitable**:
+
+- Retail FOMO creates overextension → fade setups
+- Short sellers pile in after a big move → squeeze dynamics
+- Panic selling at VWAP breaks → reversal setups
+
+This is a genuine **behavioral inefficiency** — the market is temporarily mispricing the stock because participants are acting irrationally or mechanically rather than on fundamental value.
+
+### 4. Float and Supply Constraints
+
+A 1-2M float stock with 50M volume is a different animal than a large cap. The **float scarcity** creates mechanical price dislocations — there simply aren't enough shares to satisfy demand at any rational price. This is less an inefficiency and more a **structural supply/demand imbalance** that skilled traders position around.
+
+---
+
+## Is There a Risk Premium Component?
+
+Yes, but it's not VRP. It's closer to:
+
+- **Gap risk premium** — holding through binary events (halt resumptions, news gaps) demands compensation
+- **Liquidity risk premium** — you may not be able to exit at your intended price
+- **Adverse selection premium** — every time you add liquidity, you risk getting run over by someone who knows more
+
+These are real risks that uninformed or poorly capitalized participants won't bear, so there's compensation for taking them on skillfully.
+
+---
+
+## The Deeper Picture
+
+| Source | Type | Durable? |
+|---|---|---|
+| Reading catalyst faster/better | Informational edge | Degrades as competition increases |
+| Fading behavioral extremes | Behavioral inefficiency | Somewhat durable (human psychology is stable) |
+| Liquidity provision at extremes | Microstructure premium | Durable but requires skill/speed |
+| Float scarcity positioning | Structural imbalance | Durable as long as low-float market exists |
+| Absorbing gap/halt risk | Risk premium | Durable |
+
+---
+
+## Bottom Line
+
+The VRP is a *macro* phenomenon rooted in insurance demand and jump risk. Stocks-in-play trading is more **granular and microstructural** — you're extracting value from temporary dislocations caused by information asymmetry, behavioral overreaction, and supply constraints in illiquid names. The edge is less about being compensated for bearing risk systematically, and more about being **right about what the crowd will do next** in a specific chaotic situation.
+
+That's why it's hard to fully systematize — the crowd dynamics shift, the setups evolve, and pure rule-following without situational reads degrades faster than harvesting a structural risk premium would.
+
+///
+
+Hmmm, so it's hard to fully systematize. This was a great reply by Sonnet.

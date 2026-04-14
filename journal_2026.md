@@ -7084,3 +7084,9 @@ I have to remember that being a human is always walking a tightrope over the aby
 5:50pm. ![](images/image-2443.png)
 
 Oh, it's possible to share real time market data with the demo account. I read on Reddit that it wasn't. I guess that user was wrong.
+
+...
+
+Let me finish reading the Onahole chapter and watching this and then I will start getting back into gaming. I need to slow down my programming.
+
+I am amazed just how much effort even a VWAP system takes.

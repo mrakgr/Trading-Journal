@@ -7052,3 +7052,15 @@ I've been up 8:30h already so I need to take off here for a while. Maybe I'll gi
 3:40pm. Done, I am pooped. I don't feel even the slightest bit like programming right now. I'd rather just hit the sack.
 
 Let me do that. Fuck it I don't feel like doing anything, not even game. I haven't played Nioh 3 in a while either.
+
+4:50pm. I am up. Yeah, I can only think of this as the preliminary results being promising.
+
+I am not even close to winning. Winning is winning with real money. I will have to start with sim and make my way up.
+
+In fact, rather than IB, I could start demo trading with Alpaca instead if IB's API turns out to be a nightmare.
+
+4:55pm. It's pretty hard. 11 years of not getting anywhere is getting to my confidence. I'll have to build it step by step. I'll give it a month until I am ready to sim. I won't think about the near term too much. It will happen when it will happen. And then I will trade with small size once I go live.
+
+I'll be able to compare my simulated fills with live ones and see how well I do. If life fills are really killing my edge, then that will be that.
+
+I suppose I could always go the generative route or try to find other edges though.

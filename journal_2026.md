@@ -7168,3 +7168,9 @@ This is very good insight.
 ![](images/image-2451.png)
 
 Robert Carver said as much.
+
+8pm. ![](images/image-2452.png)
+
+![](images/image-2453.png)
+
+Maybe I should get the Expected Returns book?

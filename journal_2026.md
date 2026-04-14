@@ -7554,3 +7554,7 @@ This is definitely right. Opus is making a big difference in my trading system d
 ![](images/image-2460.png)
 
 I'll really have to figure out how to run my algos closer to the exchanges. I really shouldn't run them on my PC.
+
+![](images/image-2461.png)
+
+Let me finish this video and I'll go to bed.

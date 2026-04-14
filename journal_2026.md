@@ -7542,3 +7542,7 @@ I just had idea for how I could use queues to build volume bars for calculating 
 But I don't thing it matters much compared to the big blocks that I've built.
 
 I like Quallamaggie's saying that if you take care of the big things you shouldn't worry so much about the little ones. I think he himself probably got that from Pradeep.
+
+9pm. ![](images/image-2458.png)
+
+Costs with IB aren't too great especially with smaller position sizes. I'd best join a prop firm soon.

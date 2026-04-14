@@ -7568,3 +7568,7 @@ Once I am done with the current trend following strategy I am going to develop t
 ![](images/image-2463.png)
 
 I never thought of using IB for scanning. I was intending to use TradingView.
+
+![](images/image-2464.png)
+
+This is true. I am probably months ahead in my project that I would have been had I not been using Claude Code.

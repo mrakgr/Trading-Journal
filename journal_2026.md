@@ -7144,3 +7144,7 @@ This guy is alright. Maybe I'll join his group if I can't SMB.
 ![](images/image-2446.png)
 
 I am certainly following this principle.
+
+![](images/image-2447.png)
+
+I am not sure. Is what I am trying to do really an inefficiency or a risk premium? I am not sure.

@@ -7136,3 +7136,7 @@ As long as I keep going, I'll arrive at my ultimate destination. And the best wa
 7:25pm. Sometimes I really need somebody to tell me to chill. Opus can be pretty overwhelming in its pace. I need to take the reins in situations like these.
 
 I guess I have a lot to learn about using these chatbots.
+
+7:35pm. ![](images/image-2445.png)
+
+This guy is alright. Maybe I'll join his group if I can't SMB.

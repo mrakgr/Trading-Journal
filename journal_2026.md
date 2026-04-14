@@ -7098,3 +7098,5 @@ This market is amazing. I guess the AI bubble, the credit bubble and the oil cri
 Today it's a pretty sick trend day.
 
 I was wrong. The market is telling a story.
+
+6pm. Honestly, I am glad I am not in though. I don't want to deal with this volatility.

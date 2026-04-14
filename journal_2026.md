@@ -7321,3 +7321,224 @@ Hmmm, so it's hard to fully systematize. This was a great reply by Sonnet.
 ![](images/image-2456.png)
 
 I need to watch more of this guy.
+
+> What if my strategy is to be long above VWAP and short below it in stocks in play, which essentially trend following. What premium or inefficiency would that be taking advantage of?
+
+///
+
+Good framing — a VWAP-anchored trend following strategy in stocks in play is tapping into something fairly specific.
+
+## What You're Actually Exploiting
+
+### The Primary Source: Order Flow Autocorrelation
+
+In stocks in play, order flow is **serially correlated** — buying begets more buying, selling begets more selling. This happens because:
+
+- **Momentum chasers enter in waves** — retail sees the move, piles in sequentially, not all at once
+- **Short sellers add incrementally** as the stock rises, then are forced to cover in sequence as it keeps going
+- **Institutional participation** (if any) also drips in rather than hitting all at once
+
+VWAP serves as a **regime filter** for which side of this autocorrelation you're on. Above VWAP signals the buy-side imbalance is dominant; below signals the opposite. You're essentially betting that the current imbalance persists long enough to profit.
+
+This is a **microstructure inefficiency** — in a frictionless, fully rational market, all information would be incorporated instantly and there'd be no autocorrelation to exploit.
+
+---
+
+### Secondary Source: Anchoring Behavior Around VWAP
+
+VWAP is a **focal point** for a huge number of participants:
+
+- Institutions use it as an execution benchmark
+- Algorithms buy/sell relative to it mechanically
+- Retail traders and prop desks use it as a directional filter (exactly as you do)
+
+This self-reinforcing behavior creates a **reflexive dynamic** — because so many people treat VWAP as meaningful, it *becomes* meaningful. Trending above it attracts more buyers; losing it triggers selling. You're exploiting the predictable behavior of other VWAP-anchored participants, which is a **coordination inefficiency** — the market partially prices itself based on a technically arbitrary anchor.
+
+---
+
+### Tertiary Source: Delayed Price Discovery
+
+In a stock with a genuine catalyst, the "correct" new price isn't known immediately. Price discovery is a **process**, not an event. Participants are collectively figuring out what the stock is worth under the new information, and that process takes time — often the whole session. Trend following in this context is essentially **riding the price discovery process**, being long while the market is still revising upward, short while it's still revising downward.
+
+This is close to what academic literature calls a **momentum premium**, though at intraday timescales it's less about risk compensation and more about the sluggishness of information propagation through the participant base.
+
+---
+
+## Is There a Risk Premium Too?
+
+Yes — you're implicitly bearing **reversal risk**. VWAP trends in stocks in play fail and whipsaw constantly. Your strategy loses money on:
+
+- Failed breakouts where the stock reclaims VWAP aggressively
+- Halt resumptions that gap through your stop
+- Late-day reversals when momentum exhausts
+
+The fact that most retail traders *can't* hold through this noise — they cut too early, size too large, or don't have the statistical confidence — means the edge partially exists because **most people can't execute it consistently**. That's a form of behavioral barrier that keeps the premium alive.
+
+---
+
+## The Clean Framing
+
+| Component | What It Is |
+|---|---|
+| Order flow autocorrelation | Microstructure inefficiency |
+| VWAP anchoring by other participants | Coordination/behavioral inefficiency |
+| Delayed price discovery on catalyst | Information propagation inefficiency |
+| Compensation for whipsaw/reversal risk | Implicit risk premium |
+
+---
+
+## The Honest Caveat
+
+Pure VWAP trend following in isolation likely has a modest edge at best. The real alpha in stocks-in-play trend following typically comes from **selectivity** — knowing *which* stocks trending above VWAP on a given day have genuine sustained order flow versus which ones are just noise. That selectivity (catalyst quality, float, volume profile, time of day) is where most of the actual edge concentrates, and it's harder to fully systematize than the VWAP rule itself.
+
+///
+
+It's saying very good things.
+
+> I haven't really compared time based to volume-based aggregates in a quantitative manner, but I think the fact that I am creating bars by grouping trades into fixed volume blocks is giving me an edge. When I look at the chart, the moves do feel more consistent.
+
+///
+
+This is a genuinely interesting intuition worth examining carefully — both why it might be real and why it might be illusory.
+
+## Why Volume Bars Might Actually Help
+
+### Noise Reduction in Thin Periods
+Time bars aggregate trades uniformly regardless of market activity. In a stock in play, you might get 50 trades in one minute and 2 in the next. A time bar treats both minutes as equivalent "observations." Volume bars normalize for this — each bar represents the same amount of **economic activity**, so you're not comparing a frenzy bar to a dead bar as if they're the same thing.
+
+This means your indicators (VWAP deviation, momentum, etc.) are computed over **equal information units** rather than equal time units, which is theoretically more sound.
+
+### Better Alignment with Order Flow Structure
+The microstructure literature (Ané & Geman, 2000; Clark, 1973) has a strong result: **price changes are closer to i.i.d. when subordinated to trade volume or tick count rather than clock time**. The "business time" clock runs faster when markets are active. Volume bars are a natural approximation of this subordinated process. So your bars may genuinely have better statistical properties — more consistent volatility per bar, returns closer to normal — which makes pattern recognition cleaner.
+
+### Momentum Signals Are Sharper
+In a trending stock in play, sustained directional order flow means large volume bars form quickly on the trend side and slowly on the pullback side. This asymmetry is **implicit information** that volume bars encode but time bars obscure. A three-bar pullback on volume bars during a trend means something different than three time-based bars — it represents less actual selling pressure.
+
+---
+
+## Why the "Feels More Consistent" Observation Might Be Illusory
+
+This is where you should be cautious.
+
+### Visual Consistency Isn't Statistical Edge
+Volume bars tend to look smoother and more "trendlike" almost by construction. Because each bar requires the same volume to close, bars form slowly during low-activity consolidations (fewer, calmer bars) and quickly during high-activity moves (more bars, but each meaningful). This creates a **visual artifact of cleaner trends** even if the underlying predictability hasn't changed. Your eye is pattern-matching to something that looks more regular, not necessarily something that is more tradeable.
+
+### Lookahead in Bar Construction
+Volume bars are finalized only when the volume threshold is hit. In live trading, the current bar is always incomplete. If your visual assessment of "consistent moves" is partly based on how cleanly completed bars line up, you may be unconsciously benefiting from **knowing where each bar ended** — something you don't have in real time.
+
+### Selection Effect
+You're likely reviewing charts of stocks that had good moves on days where you noticed them. Volume bars on a clean trending stock will always look good. The question is how they look on the 60% of days where the setup fails.
+
+---
+
+## What a Quantitative Comparison Would Actually Show You
+
+The right test isn't visual — it's something like:
+
+- **Autocorrelation of returns** per bar type: are volume bar returns more serially correlated (momentum) or less (mean-reverting)?
+- **Volatility consistency**: is the standard deviation of bar returns more uniform for volume bars vs time bars?
+- **Signal-to-noise ratio** of your specific features (e.g., VWAP distance, bar close position) across bar types
+- **Strategy performance** on identical signals, just swapping bar construction — same entry/exit logic, same stocks, same days
+
+The last one is the only one that truly matters for your purposes. The theoretical arguments for volume bars are real, but whether they translate to measurable edge in *your specific strategy* on *your specific instruments* is an empirical question you currently can't answer visually.
+
+---
+
+## Bottom Line
+
+Your intuition has legitimate theoretical backing — volume bars do have better statistical properties in principle. But "feels more consistent visually" is a weak signal that could easily be a combination of smoothing artifacts and confirmation bias. It's worth doing the quantitative comparison properly, because if volume bars genuinely improve your signal quality, that's something worth knowing precisely rather than just believing.
+
+///
+
+> One thing that I've found surprising is that when I get the signal to buy above/sell below, it really helps to put the limit orders in the bottom 5 percentile of the last volume bar. And when I increase that percentile, the expected value per trade decreases significantly. Does very short intraday market behavior have mean reversion effects?
+
+///
+
+Yes — and what you're observing is a well-documented microstructure phenomenon. You're essentially rediscovering something that market makers and HFT firms have known for a long time.
+
+## What's Happening Mechanically
+
+Within a single volume bar, price doesn't move in one direction. Even in a strongly trending stock, the path looks like:
+
+**aggressive print up → small pullback → aggressive print up → small pullback**
+
+This intrabar oscillation exists because of the **bid-ask bounce** and **order book replenishment dynamics**. When aggressive buyers lift the offer, the best offer is consumed, price ticks up, but then either:
+
+- Market makers replenish the offer slightly lower to stay competitive
+- The aggressor pauses and the book mean-reverts slightly toward mid
+- Passive sellers who were waiting step in at the new price
+
+Your limit order at the bottom 5th percentile of the bar is catching these **intrabar pullbacks to value** — you're buying the micro-dip within a bullish bar rather than chasing the high print.
+
+---
+
+## The Theoretical Framework: Two Competing Effects
+
+At any timescale, price movement is a combination of:
+
+**Momentum** (positive autocorrelation) — informed order flow pushes price in a direction and it continues  
+**Mean reversion** (negative autocorrelation) — bid-ask bounce, liquidity replenishment, and overreaction correction pull price back
+
+These two forces operate at **different frequencies**:
+
+| Timescale | Dominant Effect |
+|---|---|
+| Milliseconds to seconds | Mean reversion (bid-ask bounce) |
+| Seconds to minutes (intrabar) | Mixed, mean reversion still significant |
+| Minutes to hours (your bar level) | Momentum (what your strategy trades) |
+| Days to weeks | Momentum fades, mean reversion returns |
+
+Your strategy is clever precisely because it exploits **both effects simultaneously** — momentum at the bar level to determine direction, mean reversion within the bar to get a better entry price.
+
+---
+
+## Why the Percentile Matters So Much
+
+The degradation in EV as you raise the percentile threshold is telling you something precise: you're measuring the **cost of adverse selection**.
+
+When you buy at the 50th+ percentile of a bar, you're increasingly likely to be buying near the top of a local oscillation — the exact point where the mean-reverting force is strongest against you. You're buying after the aggressive prints have already happened, meaning:
+
+- You paid more
+- You're closer to the point where the book replenishes and price ticks back down
+- Your stop is now further from the mean, so your risk/reward is worse
+
+At the 5th percentile, you're buying near the bottom of the intrabar oscillation, which means:
+- The mean-reverting force is now *working for you* in the short term
+- You have natural buffer before price needs to move in your direction
+- Your entry is closer to where informed flow was transacting, not where FOMO flow was chasing
+
+---
+
+## The Deeper Insight: You're Harvesting Adverse Selection Premium
+
+Market makers get paid the spread as compensation for adverse selection risk — the risk that the person trading against them knows more. You're doing something structurally similar by placing passive limit orders: you're **providing liquidity at a price the market briefly visits**, and collecting the implicit spread between your fill price and the subsequent mean-reversion back toward mid.
+
+The fact that this effect is so strong — that percentile placement has a significant impact on EV — suggests your fills at lower percentiles are genuinely better than random. That's a real signal about intrabar price structure, not noise.
+
+---
+
+## What This Implies for Your System
+
+A few things worth thinking about:
+
+**The t-digest percentile system you built is doing exactly the right thing** — tracking the empirical distribution of intrabar prices to find statistically cheap entry points. The fact that it's working validates the mean-reversion hypothesis quantitatively.
+
+**There's likely an optimal percentile range** rather than "lower is always better." At very low percentiles you'll get fewer fills and may miss moves entirely, creating a selection bias where you only trade the strongest setups (which might actually be fine or even desirable).
+
+**The effect probably varies by stock condition** — in a stock with extremely thin book and pure aggressor-driven flow, intrabar mean reversion may be weaker because there's less market maker activity stabilizing the mid. In more liquid stocks in play, the effect should be stronger and more consistent.
+
+**Time of day matters** — the mean-reversion effect within bars is likely stronger during the open when spreads are wider and book depth is thinner, and weaker mid-day when liquidity normalizes.
+
+You've essentially built an entry system that sits at the intersection of two well-documented market microstructure phenomena, which is why it works better than naive market orders or mid-bar limit entries.
+
+///
+
+![](images/image-2457.png)
+
+Great convo with Sonnet. So I am actually combining mean reversion and momentum in one strategy. Cool.
+
+I just had idea for how I could use queues to build volume bars for calculating the limit orders.
+
+But I don't thing it matters much compared to the big blocks that I've built.
+
+I like Quallamaggie's saying that if you take care of the big things you shouldn't worry so much about the little ones. I think he himself probably got that from Pradeep.

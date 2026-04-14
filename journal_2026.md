@@ -7128,3 +7128,5 @@ I might fail at trading, but if so, so what? Do I have anything better to do at 
 No. I should keep going.
 
 Just relax. I am doing high EV stuff here. I might have a heart attack and not wake up tomorrow, but that doesn't mean what I am doing here is wrong.
+
+7:05pm. For the next two months it doesn't matter if I win or not. What I should focus on is having fun.

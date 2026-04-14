@@ -7317,3 +7317,7 @@ That's why it's hard to fully systematize — the crowd dynamics shift, the setu
 ///
 
 Hmmm, so it's hard to fully systematize. This was a great reply by Sonnet.
+
+![](images/image-2456.png)
+
+I need to watch more of this guy.

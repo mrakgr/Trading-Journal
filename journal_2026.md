@@ -7040,3 +7040,15 @@ Yeah, once I have the data I could do some bootstrapping to get a better sense o
 This is actually pretty good content and I find myself agreeing with everything he is saying.
 
 The generative approach I intiially took has a fatal weakness of not looking at the actual data, but it was a very useful exercise.
+
+4/14/2026
+
+3:10pm. I need to stop early today because I am too mentally exhausted to do anything anymore.
+
+I've been getting up at 6:30 lately, but today I really got tired of it. It's been a while since I gamed.
+
+I've been up 8:30h already so I need to take off here for a while. Maybe I'll give Thom an update despite what I said.
+
+3:40pm. Done, I am pooped. I don't feel even the slightest bit like programming right now. I'd rather just hit the sack.
+
+Let me do that. Fuck it I don't feel like doing anything, not even game. I haven't played Nioh 3 in a while either.

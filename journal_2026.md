@@ -7140,3 +7140,7 @@ I guess I have a lot to learn about using these chatbots.
 7:35pm. ![](images/image-2445.png)
 
 This guy is alright. Maybe I'll join his group if I can't SMB.
+
+![](images/image-2446.png)
+
+I am certainly following this principle.

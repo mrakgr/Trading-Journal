@@ -7160,3 +7160,7 @@ Maybe I should consider profit targets at some point.
 ![](images/image-2449.png)
 
 This is very good info.
+
+![](images/image-2450.png)
+
+This is very good insight.

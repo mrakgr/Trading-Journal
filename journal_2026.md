@@ -7090,3 +7090,11 @@ Oh, it's possible to share real time market data with the demo account. I read o
 Let me finish reading the Onahole chapter and watching this and then I will start getting back into gaming. I need to slow down my programming.
 
 I am amazed just how much effort even a VWAP system takes.
+
+5:55pm. ![](images/image-2444.png)
+
+This market is amazing. I guess the AI bubble, the credit bubble and the oil crisis isn't enough to pull it down. I've been thinking what would be enough to turn me long term bullish, and this is basically it. Whoever as bearish must have already sold by now, and now it's on the way up.
+
+Today it's a pretty sick trend day.
+
+I was wrong. The market is telling a story.

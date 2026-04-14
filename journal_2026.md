@@ -7177,3 +7177,7 @@ Maybe I should get the Expected Returns book?
 
 ![](images/image-2454.png)
 > Most returns come from risk.
+
+![](images/image-2455.png)
+
+What is the volatility risk premium?

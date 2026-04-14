@@ -7061,6 +7061,22 @@ In fact, rather than IB, I could start demo trading with Alpaca instead if IB's 
 
 4:55pm. It's pretty hard. 11 years of not getting anywhere is getting to my confidence. I'll have to build it step by step. I'll give it a month until I am ready to sim. I won't think about the near term too much. It will happen when it will happen. And then I will trade with small size once I go live.
 
-I'll be able to compare my simulated fills with live ones and see how well I do. If life fills are really killing my edge, then that will be that.
+I'll be able to compare my simulated fills with live ones and see how well I do. If live fills are really killing my edge, then that will be that.
 
 I suppose I could always go the generative route or try to find other edges though.
+
+5:25pm. It's weird. It's not like I lost anything. It's more like I lost my high from the initial backtests of the Vwap system and now I am allowing doubts to creep in again.
+
+In times like these it's best to go back to the basics. Do 1 things per day and focus on that. Tomorrow I'll try to do the redesign. Then I will do large scale backtesting.
+
+Then I will add some more parameters and so on.
+
+What I am really the most afraid of? That this 1.5 PF system will turn out to be 1.2 PF system in practice. That it it will become 1 PF or even lower.
+
+If that turns out to be the case then it's going to be a big blow.
+
+Ultimately, my generative ideas aren't that better than this system.
+
+It's really important that if the system with realistic fill simulations says that I have 1.5, that that will be in fact what I will get on average.
+
+I have to remember that being a human is always walking a tightrope over the abyss. I do not have the ability to ensure success. All I can do is turtle down and keep pushing forward.

@@ -7080,3 +7080,7 @@ Ultimately, my generative ideas aren't that better than this system.
 It's really important that if the system with realistic fill simulations says that I have 1.5, that that will be in fact what I will get on average.
 
 I have to remember that being a human is always walking a tightrope over the abyss. I do not have the ability to ensure success. All I can do is turtle down and keep pushing forward.
+
+5:50pm. ![](images/image-2443.png)
+
+Oh, it's possible to share real time market data with the demo account. I read on Reddit that it wasn't. I guess that user was wrong.

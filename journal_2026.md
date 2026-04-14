@@ -7100,3 +7100,15 @@ Today it's a pretty sick trend day.
 I was wrong. The market is telling a story.
 
 6pm. Honestly, I am glad I am not in though. I don't want to deal with this volatility.
+
+6:35pm. I think this is a good time to start distancing myself from trading emotionally. Once you start pushing yourself and getting obsessive in a programming project, you need to take a step back.
+
+I just have to accept that I'll be going through these phases, and getting up at 6:30am and programming the whole day isn't sustainable, but it sure was fun for a while.
+
+Let's aim to do just few hours per day from here on out.
+
+Once I've regained my balance the feeling will come back to me.
+
+The achievements of the last few days were incredible.
+
+But it isn't up to me whether I will have something to eat tomorrow, it is up to this world. I'll just do my best to have the odds align.

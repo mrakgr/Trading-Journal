@@ -7164,3 +7164,7 @@ This is very good info.
 ![](images/image-2450.png)
 
 This is very good insight.
+
+![](images/image-2451.png)
+
+Robert Carver said as much.

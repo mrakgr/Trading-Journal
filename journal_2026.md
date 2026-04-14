@@ -7151,3 +7151,8 @@ I am not sure. Is what I am trying to do really an inefficiency or a risk premiu
 
 https://youtu.be/FxTLkyjYOAc?t=239
 > And for this reason most of my strategies are incredibly simple, as well as many other amazing quant and systematic traders that I know, they all trade very things. They all understand what they are trading, why ultimately they are getting a return and that's probably one of the most important factors to it.
+
+![](images/image-2448.png)
+> Your exit strategy matters 10x more than your entry strategy.
+
+Maybe I should consider profit targets at some point.

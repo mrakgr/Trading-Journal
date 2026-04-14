@@ -7558,3 +7558,9 @@ I'll really have to figure out how to run my algos closer to the exchanges. I re
 ![](images/image-2461.png)
 
 Let me finish this video and I'll go to bed.
+
+![](images/image-2462.png)
+
+This talk with Sonnet convinced me that I should really learn to fade behavioral extremes like Lance teaches. Something like prices being at the VWAP extremes (2-3 standard deviations) and above the 6 bar VWMA for 30+ bars. I've actually observed such patterns in some of the stocks in play, but they don't happen often.
+
+Once I am done with the current trend following strategy I am going to develop the counter trend one.

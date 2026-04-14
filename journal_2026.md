@@ -7112,3 +7112,19 @@ Once I've regained my balance the feeling will come back to me.
 The achievements of the last few days were incredible.
 
 But it isn't up to me whether I will have something to eat tomorrow, it is up to this world. I'll just do my best to have the odds align.
+
+7pm. Done with lunch. I have to remind myself of who I am and what I am.
+
+A programmer, not a trader. Forget trading. I got swept up in the exitement.
+
+Even though I am algorithmically deprived at the moment, I am still very strong. Regardless of whether I win or lose at trading nothing will change those achievements.
+
+I need to put in a few more months of effort. If it doesn't work, and the fill simulations fail me then so be it.
+
+I should just have fun doing it.
+
+I might fail at trading, but if so, so what? Do I have anything better to do at the moment? Will I really drop a potential 1.5 PF system to do something else?
+
+No. I should keep going.
+
+Just relax. I am doing high EV stuff here. I might have a heart attack and not wake up tomorrow, but that doesn't mean what I am doing here is wrong.

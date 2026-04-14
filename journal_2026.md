@@ -7564,3 +7564,7 @@ Let me finish this video and I'll go to bed.
 This talk with Sonnet convinced me that I should really learn to fade behavioral extremes like Lance teaches. Something like prices being at the VWAP extremes (2-3 standard deviations) and above the 6 bar VWMA for 30+ bars. I've actually observed such patterns in some of the stocks in play, but they don't happen often.
 
 Once I am done with the current trend following strategy I am going to develop the counter trend one.
+
+![](images/image-2463.png)
+
+I never thought of using IB for scanning. I was intending to use TradingView.

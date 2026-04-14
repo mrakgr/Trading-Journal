@@ -7174,3 +7174,6 @@ Robert Carver said as much.
 ![](images/image-2453.png)
 
 Maybe I should get the Expected Returns book?
+
+![](images/image-2454.png)
+> Most returns come from risk.

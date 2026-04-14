@@ -7546,3 +7546,7 @@ I like Quallamaggie's saying that if you take care of the big things you shouldn
 9pm. ![](images/image-2458.png)
 
 Costs with IB aren't too great especially with smaller position sizes. I'd best join a prop firm soon.
+
+9:05pm. ![](images/image-2459.png)
+
+This is definitely right. Opus is making a big difference in my trading system development work.

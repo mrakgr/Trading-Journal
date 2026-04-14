@@ -7550,3 +7550,7 @@ Costs with IB aren't too great especially with smaller position sizes. I'd best 
 9:05pm. ![](images/image-2459.png)
 
 This is definitely right. Opus is making a big difference in my trading system development work.
+
+![](images/image-2460.png)
+
+I'll really have to figure out how to run my algos closer to the exchanges. I really shouldn't run them on my PC.

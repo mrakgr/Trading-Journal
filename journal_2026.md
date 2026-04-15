@@ -7572,3 +7572,21 @@ I never thought of using IB for scanning. I was intending to use TradingView.
 ![](images/image-2464.png)
 
 This is true. I am probably months ahead in my project that I would have been had I not been using Claude Code.
+
+4/15/2026
+
+5:45pm. Anthropic is having an outage for the first time in a while.
+
+Also the Vwap system is decisively a bust. It cannot be made to work. I got tricked by overfitting.
+
+I really wasted my time with that reference document, I should have just downloaded the necessary data programatically.
+
+Right now I am down in the dumps. I'll try ORBs next, but otherwise the generative approach I was going for might be my best bet.
+
+The biggest obstacle to profitable trading is execution. By the time I get a VWAP signal, the entire edge is gone. Without the fill simulator I'd be easily getting a 1.9 PF. With the fill simulator it is 0.85.
+
+5:50pm. I guess this is the same old for me.
+
+I am just getting programming exercise and improving my skills.
+
+So much for the start of the ascent. This will be the start of the struggle.

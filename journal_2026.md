@@ -7590,3 +7590,30 @@ The biggest obstacle to profitable trading is execution. By the time I get a VWA
 I am just getting programming exercise and improving my skills.
 
 So much for the start of the ascent. This will be the start of the struggle.
+
+Music:
+
+Veilcore Music - No.177: https://youtu.be/qR3T9kvTdIg
+Veilcore Music - No.179: https://youtu.be/aGeIbrLC8Ew
+
+6:40pm. I don't usually do this, but let me make a video ahead of schedule. I need some rest time.
+
+Tomorrow, I'll give ORBs a shot, but otherwise, making an NN that detects holds and trading based on that might not be a bad idea.
+
+Actually even before that I could try some variations on VWAP continuation trades and try making that fade trade system.
+
+///
+
+We've gone from rich to poor in a volume bar. It seems the great results we were getting in the 2 VWAP videos were due to small sample size and overfitting. We didn't think it would happen to us.
+
+Yeah, we guess this is what you'd expect from trading.
+
+In the video we'll try some breakout systems, maybe some fade systems as well, but otherwise we'll go back to the generative approaches and try making that hold detector. The reason why we held off on neural nets is because they would be computationally expensive to train, but we don't have that many choices at our disposal anymore. Simple systems might work on longer timeframes, but after seeing our beautiful 1.5 profit factor system become a 0.85 profit factor system we'll going to have to go for approaches that emulate those of how humans would analyze the markets.
+
+I guess the root of the problem is that there is very little ground between moving average type of systems and generative approaches. It might be a chasm that we'll have to bridge over.
+
+///
+
+7:25pm. You know, maybe I am thinking about this all wrong. Maybe I should be looking at news feeds instead of charts?
+
+Especially after Lance's last video.

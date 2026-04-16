@@ -7617,3 +7617,45 @@ I guess the root of the problem is that there is very little ground between movi
 7:25pm. You know, maybe I am thinking about this all wrong. Maybe I should be looking at news feeds instead of charts?
 
 Especially after Lance's last video.
+
+4/16/2026
+
+6:25pm. The struggle is over and the ascent is back!
+
+I managed to create a system of above 2 PF that is robust and stable and not only that, but by controlling for volume I have systems that have profit factors of 3,4,5 and even 6!
+
+Holy shit!
+
+Though that does hinge if I could find ways of reliably predicting volume during the day. We'll see.
+
+But I know from experience that volume is easier to predict than price. I guess I better get interested in news.
+
+Volume isn't a signal that the trade will work out, but it greatly affects how well trend following ORB style of systems do.
+
+There is some very good data on this at: https://github.com/mrakgr/Trading-Edge/blob/opening_range_breakouts/docs/orb_session_findings.md
+
+It's a very scalable system too.
+
+There are huge differences between the short and the long side.
+
+The best trade on the short side are day 1 continuations that have high volume. In general though, the long side is superior to the short side.
+
+The results genuinely surprised me. I know volume mattered, but not in what way. I didn't thing that intraday swing trading of this sort had an edge at all.
+
+I guess at some level (up to today) I was a believer in market efficiency and thought I had to do something special to succeed.
+
+I guess I was too affected by the brief experience of trying out ORB style systems in paper trading last year and getting creamed.
+
+But testing on 8k examples reveals clear patterns.
+
+Too bad about the volume bars, but the time bars are far better it seems. The twist I made is to calculate their VWAP and VWSTD instead of the useless OHLC values that regular charts have.
+
+Right now though, the dataset has a lot of hindsight bias due to being filled with high RVOL days. I am going to have to do some research on how to actually separate them using price data and news.
+
+That will be an ongoing effort, but today's results give me the motivation to do that kind of work.
+
+I have a concrete path of improvement laid out ahead of me, all I have to do is travel it to its conclussion.
+
+I am going to win at this.
+
+This time isn't going to end the same as the last.

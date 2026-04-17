@@ -7640,7 +7640,7 @@ There are huge differences between the short and the long side.
 
 The best trade on the short side are day 1 continuations that have high volume. In general though, the long side is superior to the short side.
 
-The results genuinely surprised me. I know volume mattered, but not in what way. I didn't thing that intraday swing trading of this sort had an edge at all.
+The results genuinely surprised me. I know volume mattered, but not in what way. I didn't think that intraday swing trading of this sort had an edge at all.
 
 I guess at some level (up to today) I was a believer in market efficiency and thought I had to do something special to succeed.
 
@@ -7659,3 +7659,13 @@ I have a concrete path of improvement laid out ahead of me, all I have to do is 
 I am going to win at this.
 
 This time isn't going to end the same as the last.
+
+4/17/2026
+
+7:25am. I am up. Let me get something to eat since I skipped dinner. I thought of a few ways of predicting volume from less to more computationally intensive. We'll probably going to go with k-means to put it on a pattern. Using NNs is also an option.
+
+8:10am. ![](images/image-2465.png)
+
+Ah yes, the Tao Ceti plan.
+
+8:20am. Let me start. I guess I'll slowly today. I was tired yesterday and didn't review the codebase. I need to do that today.

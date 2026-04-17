@@ -7831,7 +7831,7 @@ If it'd help, I can write up a condensed design doc from this conversation that 
 
 ***
 
-7:40pm. I just figured out that triple * give an underscore so I'll change how I paste these conversations.
+7:40pm. I just figured out that triple * give an underscore in the preview so I'll change how I paste these conversations.
 
 I wonder if I should be looking into the Claude Code codebase to see how they control the nets for hints?
 
@@ -7844,3 +7844,5 @@ Maybe despite me being bearish on the chatbots this really is the prelude to the
 7:55pm. By the way, I absolutely disagree that the breakout system is the edge. It absolutely isn't. It just some risk management, but the real edge is in understanding the context the day is in.
 
 If I could master this, I will be able to build it into the machines. All these difficult inference algorithms I am going to put under my thumb. I guess it is time for a rematch with the old Probabilistic Programming course from Coursera. That one wrecked me in 2015.
+
+8pm. I want it so bad. There is so much left to go. I haven't given it all of myself yet.

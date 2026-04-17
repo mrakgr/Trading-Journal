@@ -7669,3 +7669,43 @@ This time isn't going to end the same as the last.
 Ah yes, the Tao Ceti plan.
 
 8:20am. Let me start. I guess I'll slowly today. I was tired yesterday and didn't review the codebase. I need to do that today.
+
+6:30pm. Is today's session really over?
+
+Now that I am doing realistic volume gating the edge is going away, and I am going to have to fight to recover it.
+
+The reason those 2-6 PF models had such good results is because I was purposely feeding them high rvol days, but without that the edge goes away.
+
+I'll have to spend some time studying how the volume filter is really working and whether it's doing what could be considered common sense.
+
+6:50pm. It doesn't really matter if I win or not.
+
+I can leave the hard money aside. What matters is that I really give it my best, to show what I am really made of as a programmer.
+
+I have an idea for a cross between the simulation approach and the rules based approach.
+
+It should be possible to create a model that does inference in an HMM dynamically so I can do proper matching on pattern changes in the market.
+
+I am going to spend another 70$ to get a Massive subscription so I can get all the 5% gap days and not just the ones above rvol 3.
+
+That will give me a proper point of comparison.
+
+6:55pm. The market **should** be beatable. I am just lacking as a programmer.
+
+If only I had better algorithms and techniques. I need to understand probablistic programming better.
+
+Forget NNs. What if I did a model that had transitions between different states...
+
+Basically, an HMM, but it would be architected like a neural network?
+
+What if I went down this path.
+
+In probabilistic programming, a huge obstacle is the lack of good inference algorithms.
+
+But what if it was more like an RNN?
+
+It could generate data and output the probability of that data. And there would be a supervisor that could keep track of the transition probabilities between them.
+
+I really want something like that. I don't want to really train NN on the stock market data. Perish the thought.
+
+Bayesian message passing combined with HMMs.

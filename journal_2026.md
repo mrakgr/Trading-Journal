@@ -7839,4 +7839,8 @@ This is very good advice that I am getting by Opus.
 
 I should not in fact abandon the old simulation approach. Rather I should upgrade my skills to the level where I could use it effectively. I could gain so so much from mastering this. I cannot understand a lot of what it is talking about, but having it is certainly leveling the playing field for me.
 
-Maybe despite me being bearish on the chatbots this is the prelude to the Singularity. They are after all allowing me to do so much more.
+Maybe despite me being bearish on the chatbots this really is the prelude to the Singularity. They are after all allowing me to do so much more.
+
+7:55pm. By the way, I absolutely disagree that the breakout system is the edge. It absolutely isn't. It just some risk management, but the real edge is in understanding the context the day is in.
+
+If I could master this, I will be able to build it into the machines. All these difficult inference algorithms I am going to put under my thumb. I guess it is time for a rematch with the old Probabilistic Programming course from Coursera. That one wrecked me in 2015.

@@ -7987,3 +7987,19 @@ I hate the AI bubble and the chatbot craze, but Opus is growing sweet on me.
 7:05am. ![](images/image-2466.png)
 
 Lol, I guess this explains why Iran and Israel are at odds.
+
+9:50am. I am really tired right now. I woke far too early.
+
+On the plus side, I discovered a genuine profitable system the likes of which don't require lookahead data.
+
+It turns out that after you do profile gating at 5x rvol and more, the existing breakout system becomes profitable. And significantly more so as the rvol goes up to 6x and 7x. It's amazing.
+
+https://github.com/mrakgr/Trading-Edge/blob/opening_range_breakouts/docs/orb_session_findings.md#L513
+
+The 2pf trades on breakout continuations happen only once a month, so the next thing I am supposed to be working on is broadening the system to the entire market.
+
+IBKR has all the world's market so I could potentially look for these setups on those markets as well.
+
+I finally have a real edge, but I don't feel like doing anything today. The emotional whipsawing has taken its toll.
+
+10:05am. Ah fuck it. Let me stop being such a pussy. I need to get the Massive subscription and get the data, better than staring off into space here.

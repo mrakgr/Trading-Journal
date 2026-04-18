@@ -8003,3 +8003,14 @@ IBKR has all the world's market so I could potentially look for these setups on 
 I finally have a real edge, but I don't feel like doing anything today. The emotional whipsawing has taken its toll.
 
 10:05am. Ah fuck it. Let me stop being such a pussy. I need to get the Massive subscription and get the data, better than staring off into space here.
+
+3:50pm. I am stopping here for the day. I am too fatigued to work properly anymore.
+
+Let me just write down some ideas.
+
+* New Minizinc goal: Find (Tv,Ta) such that the average rvol >= 3 and maximize number of trades.
+
+This is better than letting 10% of trades be random. I am going to write a Minizinc model to find these two parameters because the volume profiling model is pretty bad at its job.
+
+Decision rules will be much better statistically speaking.
+

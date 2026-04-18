@@ -8018,3 +8018,9 @@ Decision rules will be much better statistically speaking.
 Day Trading Just Changed Forever - Here's Who Wins and Who Doesn't
 
 Oh did the PDT rule get repealed? It doesn't really matter for me anymore, but it will for many smaller traders.
+
+5:15pm. https://youtu.be/UFd-wnaYHMY?t=596
+The Biggest Mistakes Traders Make When Trading Real Money [ATAS & AXIA]
+
+He is looking at people's winrate on days. 40% is pretty bad. I thought even 60% wasn't that good. I should be able to attain that with my system once I figure out the decision rules.
+

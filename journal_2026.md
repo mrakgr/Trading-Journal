@@ -7981,3 +7981,9 @@ Failure mode: overfitting regime definitions to the backtest until P(high volume
 Very cool of it.
 
 I hate the AI bubble and the chatbot craze, but Opus is growing sweet on me.
+
+4/18/2026
+
+7:05am. ![](images/image-2466.png)
+
+Lol, I guess this explains why Iran and Israel are at odds.

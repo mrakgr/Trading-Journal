@@ -8014,3 +8014,7 @@ This is better than letting 10% of trades be random. I am going to write a Miniz
 
 Decision rules will be much better statistically speaking.
 
+4:05pm. https://youtu.be/qdwQ0fZglbM
+Day Trading Just Changed Forever - Here's Who Wins and Who Doesn't
+
+Oh did the PDT rule get repealed? It doesn't really matter for me anymore, but it will for many smaller traders.

@@ -8024,3 +8024,25 @@ The Biggest Mistakes Traders Make When Trading Real Money [ATAS & AXIA]
 
 He is looking at people's winrate on days. 40% is pretty bad. I thought even 60% wasn't that good. I should be able to attain that with my system once I figure out the decision rules.
 
+4/21/2026
+
+8:30am. Amazing work is happening. I am currently calculating the volume and activity thresholds for the breakout system. It will take another hour to finish. It will also take roughly that time to finish downloading all the data from Massive needed for the validation set. I'll try on the calibration set first though.
+
+If I can get this experiment to work, I will at that point be able to consider myself a consistently profitable trader. I will have a very real edge.
+
+8:50am. Actually it seems I undestimated how long it would take to calculate the thresholds by a few hours.
+
+![](images/image-2467.png)
+
+A commodities trader? I'll have to read this interview. Edit: It's paywalled.
+
+...
+
+Fuck, WSL crashed.
+
+I should have started these in a separate terminal.
+
+Thankfully the scripts have been made to be resumable.
+
+9pm. Ah right. I should be running the downloads in tmux. I'll do that next time if it crashes again.
+

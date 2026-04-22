@@ -8070,4 +8070,20 @@ Ah what the hell, who cares. If I cannot get this to work, I'll move on to somet
 
 7:20pm. Done with lunch. At the very least tomorrow I am going to get the volume quantiles out of the way. In the last two days I simply went down the wrong rabbit hole.
 
-I can see that there is a lot of variance in the optimization results, which is a sign of overfit. Using Minizinc for this problem was the wrong choice.
+I can see that there is a lot of variance in the optimization results even for volume, which is a sign of overfit. Using Minizinc for this problem was the wrong choice.
+
+7:30pm. Maybe I just wanted to do nothing today? That might have been it.
+
+I am much less tired than usual since I've been watching the Killing Antidote playthrough on Youtube and not really doing anything. Maybe I'll be able to renormalize my sleep patterns as I've been getting up at 6:30am lately.
+
+If only I could recover the results from the volume profile that would be great. The Minizinc model solutions were all worse than it so far.
+
+...
+
+I think in order to get something halfway decent I should dive deeper into HMMs. Not those trained by NNs, but those which I can do inference for cheaply.
+
+That could unlock a lot of power for me. I should do it.
+
+If I can make HMMs simple that would be amazing.
+
+If I could have HMM represent quantiles...

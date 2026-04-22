@@ -8046,3 +8046,14 @@ Thankfully the scripts have been made to be resumable.
 
 9pm. Ah right. I should be running the downloads in tmux. I'll do that next time if it crashes again.
 
+4/22/2026
+
+4:55pm. ![](images/image-2468.png)
+
+I should check out this guy.
+
+5pm. This is so ridiculous. This entire day I've essentially been waiting on Minizinc to finish optimizing the buckets.
+
+![](images/image-2469.png)
+
+Here is a screenshot of results. Not very impressive. We'll see how it it does on the next few runs when I really turn on the screws to bring the number of decisions down significantly.

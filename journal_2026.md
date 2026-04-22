@@ -8057,3 +8057,17 @@ I should check out this guy.
 ![](images/image-2469.png)
 
 Here is a screenshot of results. Not very impressive. We'll see how it it does on the next few runs when I really turn on the screws to bring the number of decisions down significantly.
+
+6:20pm. Fixed a few bugs, and the results are roughly the same where they started. It turns out that the volume profile was better than this it seems.
+
+You know, maybe I should get rid of the activity thresholds and just pick the volume quantiles as a baseline. That would take 0.01s to calculate instead of 1.5h that I am taking now.
+
+Top 5% by activity, top 0.1% by volume. Right now the activity quantile is whipping around significantly, which is an indication of overfit.
+
+7pm. Great, now I am discouraged again. A failed experiment can impact you negatively.
+
+Ah what the hell, who cares. If I cannot get this to work, I'll move on to something else.
+
+7:20pm. Done with lunch. At the very least tomorrow I am going to get the volume quantiles out of the way. In the last two days I simply went down the wrong rabbit hole.
+
+I can see that there is a lot of variance in the optimization results, which is a sign of overfit. Using Minizinc for this problem was the wrong choice.

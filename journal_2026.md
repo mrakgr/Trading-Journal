@@ -8087,3 +8087,167 @@ That could unlock a lot of power for me. I should do it.
 If I can make HMMs simple that would be amazing.
 
 If I could have HMM represent quantiles...
+
+***
+
+Let's resume this conversation from a while ago. Could you tell me about structured variational inference? What is it?
+
+***
+
+Good question to dig into, because "structured VI" is exactly the technique you'd use for the factorial HMM, and understanding it clarifies why factorial HMMs are tractable at all.
+
+**The setup: why we need it**
+
+In exact inference for a factorial HMM with two chains z^(1) and z^(2), we want p(z^(1), z^(2) | x). The problem: the two chains are marginally independent in the prior (independent transition dynamics), but they become *coupled* in the posterior because they both explain the same observation x_t. This is "explaining away" — observing x_t correlates z^(1)_t and z^(2)_t even if they were independent a priori.
+
+If you try to run forward-backward on the joint state (z^(1)_t, z^(2)_t), you're back to a K^M-state HMM, which is what we were trying to avoid. The chains are entangled in the posterior and exact inference is exponential in the number of chains.
+
+**Variational inference, briefly**
+
+Standard VI: approximate the true posterior p(z|x) with a simpler distribution q(z) chosen from some family Q. Pick the q that minimizes KL(q || p), equivalently maximizes the ELBO:
+
+L(q) = E_q[log p(x, z)] − E_q[log q(z)]
+
+The whole game is choosing the family Q. Two poles:
+
+1. **Mean-field VI.** Q = all fully factorized distributions: q(z) = ∏_i q_i(z_i). Every latent is independent under q. Maximally tractable, maximally lossy — destroys all posterior correlation structure.
+
+2. **Exact posterior.** Q = everything. Trivially optimal (q = p), trivially intractable.
+
+Structured VI sits between these.
+
+**Structured VI: keep the tractable structure, drop the intractable coupling**
+
+The idea: factorize q along the boundaries that make inference hard, but preserve the structure *within* each factor that makes inference easy.
+
+For the factorial HMM, the natural structured approximation is:
+
+q(z^(1), z^(2)) = q_1(z^(1)) · q_2(z^(2))
+
+where each q_m(z^(m)) is itself a **full distribution over an entire chain** — not factorized across time. So you've broken the inter-chain coupling (the hard part) but kept each chain as a Markov chain (the easy part, where forward-backward works).
+
+Compare:
+- **Mean field**: q = ∏_t ∏_m q(z^(m)_t). Destroys temporal structure too.
+- **Structured**: q = ∏_m q_m(z^(m)_{1:T}). Each chain retains its Markov structure.
+
+The structured version is strictly better (higher ELBO, less approximation error) because it preserves temporal correlations within each chain, which are real in the true posterior.
+
+**The algorithm: coordinate ascent on ELBO**
+
+You iterate, updating one chain at a time while holding the other fixed:
+
+1. Fix q_2. The optimal q_1 under the ELBO turns out to be a Markov chain with modified emissions — the original emission factor gets replaced by one averaged over the current q_2. Concretely, the effective log-emission for chain 1 at time t becomes E_{q_2}[log p(x_t | z^(1)_t, z^(2)_t)].
+
+2. With these modified emissions, q_1 is just an HMM, so run forward-backward to get the new q_1 (its marginals and pairwise marginals).
+
+3. Swap: fix q_1, update q_2 the same way.
+
+4. Repeat until ELBO converges.
+
+Each step is forward-backward on a single chain — the dynamic programming you already know. The coupling gets handled by passing expectations between chains. This is the key trick: **structured VI in factorial models reduces to repeated exact inference on each tractable substructure, with messages between substructures being expectations under the other factor's current q.**
+
+**Why this works well for your case**
+
+- Each iteration is O(T·K²) per chain, which is fast.
+- Converges quickly in practice — usually 10–50 iterations.
+- Preserves the thing you care about: temporal persistence of each regime. Mean field would give you wobbly per-timestep marginals that destroy the "regimes have duration" intuition.
+- Gives you a lower bound on log p(x), useful for model comparison (is 3 volume states better than 4?).
+
+**The approximation cost**
+
+Structured VI assumes the posterior over (z^(1), z^(2)) factorizes across chains. It doesn't, in truth — that's the whole point of coupling. So you lose the ability to represent posterior correlations between chains *at the same time step*. Practically this means: if the true posterior says "either high-vol + uptrend OR low-vol + ranging, but not the mixed cases," structured VI can't represent that — it'll give you marginals that look like the product of the two modes.
+
+For regime detection this is usually fine because you *want* marginals (P(high volume) and P(uptrend) separately, which you then combine in your trading logic). You're not usually asking questions that need the full joint.
+
+**Relation to other things**
+
+- **Expectation propagation** is a cousin: also message passing, also approximates intractable messages, but does so by moment matching rather than KL minimization. Handles non-Gaussian emissions in continuous state-space models well.
+- **Loopy belief propagation** on the factor graph of the factorial HMM is another approximation — often similar quality to structured VI in practice, no ELBO guarantee.
+- **Variational message passing** (Winn & Bishop) is the general framework this all sits inside. Worth knowing the name.
+- **Particle filtering / SMC** is the sampling-based alternative. Given your PMMH/Particle Gibbs background you could also go that route, but for discrete factorial HMMs structured VI is cheaper and usually sufficient.
+
+**Practical note for implementation**
+
+The coordinate-ascent update has a clean form when emissions are in exponential family. For Gaussian emissions (your likely starting point), the modified emission for chain 1 is Gaussian with mean/variance computed from the posterior marginals of q_2 — just a few lines of code. The infrastructure is:
+
+1. A forward-backward routine that takes (log π, log A, log emission) and returns (log α, log β, posterior marginals, pairwise marginals, log Z).
+2. An outer loop that alternates computing modified emissions and calling forward-backward.
+3. ELBO evaluation for convergence checks.
+
+Same forward-backward you'd write for a single HMM — just called twice per iteration with different effective emissions.
+
+Want me to work through the math for the coordinate update (showing how the modified emission falls out of the ELBO), or would a concrete sketch of the F# structure be more useful?
+
+***
+
+Not right now. What if I had nested HMMs? Not sure if that is the same as factorial, but what if for example I had different HMMs for different volatility periods, and they had sub-HMM for different trend types which might have different volume characteristics and such? I'd like it if I could run different HMMs in parallel on stocks that have different characteristics and have the one with the highest probability get assigned to the highest likelihood after the open.
+
+Right now, I don't understand a lot of what you're talking about, and I am busy with an experiment on volume and activity quantiles, but after I am done with it, I'd like to seriously explore inference in HMMs and will try implementing some of the algorithms you're talking about to understand them better.
+
+***
+
+What you're describing is **not** a factorial HMM — it's a **hierarchical HMM** (HHMM), and the distinction matters.
+
+**Factorial vs hierarchical — the mental model**
+
+- **Factorial**: parallel chains running simultaneously. Trend chain and volume chain both exist at every timestep and both emit into each observation. Think of it as independent aspects of the same underlying process. Graphically: chains side-by-side.
+
+- **Hierarchical**: nested chains where higher-level states *contain* lower-level state machines. When you're in top-level state "high volatility regime," you activate a sub-HMM specific to that regime (with its own states, transitions, emissions). Transitions at the high level are rare; transitions at the low level are frequent. Graphically: chains-within-chains.
+
+Your description — volatility regime contains trend sub-regimes which contain volume characteristics — is strictly hierarchical. Volatility is the outer chain; trend is the inner chain activated by volatility state; volume characteristics are emission parameters (or a further inner chain) conditioned on trend.
+
+**What HHMMs buy you**
+
+The attractive property: **parameter reuse within a regime, parameter independence across regimes.** A "trending-up sub-HMM during high volatility" can have completely different transition dynamics, emission means, and dwell times than a "trending-up sub-HMM during low volatility." That matches market reality — a trend in a quiet tape is a fundamentally different animal than a trend in a news-driven tape, and forcing them to share parameters (as a flat HMM would) throws away information.
+
+There's a classical result (Murphy & Paskin 2001) that an HHMM can be flattened into an equivalent regular HMM with more states. So inference is still forward-backward, just on a larger state space. The hierarchical structure is a **modeling convenience** — it lets you specify the generative story naturally — that reduces to familiar DP under the hood. This is good news for you: you don't need exotic inference, just careful bookkeeping about which sub-states exist within which super-states.
+
+Fiona & Murphy have a nice treatment of this; Fine, Singer & Tishby 1998 is the original HHMM paper.
+
+**Your "run in parallel, pick the highest likelihood" idea**
+
+This is actually a different thing again, and it's worth naming clearly. You're describing **model selection via marginal likelihood**, not hierarchical inference.
+
+You'd train (or specify) K separate HMMs — one per stock archetype — and for each new stock compute p(x_{1:t} | model_k) using the forward algorithm for each model. The model with the highest marginal likelihood "wins" and you use its regime estimates.
+
+This is legitimate and simpler than HHMM. Pros:
+- Completely decoupled models; you can develop, tune, and swap them independently.
+- Runs embarrassingly in parallel.
+- Natural interpretation: "this stock is behaving like a low-float momentum name today" vs "this stock is behaving like a large-cap drifter."
+
+Cons:
+- Hard binary commitment to one model. A **mixture-of-HMMs** is the softer version: treat model identity as a latent variable with prior π_k, posterior p(model_k | x) ∝ p(x | model_k) π_k. Your regime estimate is then a weighted average.
+- Each model is flat — no internal regime decomposition unless each is itself a factorial or hierarchical HMM.
+
+The mixture-of-HMMs approach composes nicely with everything else: each expert model can be a factorial HMM (trend × volume), and the outer mixture picks which expert explains the current symbol best. That's probably what you actually want to build eventually.
+
+**The zoo, organized**
+
+To give you a map for later study:
+
+- **Flat HMM**: one chain. Forward-backward.
+- **Factorial HMM**: parallel chains. Structured VI.
+- **Hierarchical HMM**: nested chains. Flatten to HMM + forward-backward.
+- **Hidden semi-Markov**: flat HMM with explicit duration distributions. Modified forward-backward.
+- **Switching state-space model**: continuous states switched by discrete HMM. Approximate inference (assumed density filtering, EP, particle methods).
+- **Mixture of HMMs**: competing models, posterior over model identity.
+- **Input-output HMM**: transitions/emissions depend on observed inputs. Conditional forward-backward.
+
+These compose. You can have a mixture of hierarchical factorial semi-Markov models. Most people don't, because each level of complexity costs you identifiability and estimation robustness, but the framework allows it.
+
+**Practical advice for when you resume**
+
+Don't try to understand all of this at once. The dependency order that worked for most people:
+
+1. Implement flat HMM forward-backward and Viterbi from scratch on synthetic data. Verify posteriors look right.
+2. Add Baum-Welch (EM for HMMs). Verify recovery of known parameters.
+3. *Then* factorial HMM with structured VI.
+4. *Then* HHMM (mostly a bookkeeping exercise once you have flat HMM working).
+5. *Then* mixture-of-HMMs, which is the wrapper around everything else.
+
+Each step is a week or two of real work. Skipping to step 3 without step 1 is how people get lost. Given your background with probabilistic programming and VI, steps 1 and 2 will go fast — you've basically seen all the math already, it's just specialization to the HMM case. Steps 3 and 4 are where it becomes its own subject.
+
+Go finish the volume/activity quantile experiment. The HMM stack will be here whenever you come back. When you do, the first concrete thing to build is flat HMM forward-backward in F# on a toy 2-state volume model for a single symbol — you'll learn more from 200 lines of working code than from another hour of this conversation.
+
+***
+

@@ -8251,3 +8251,8 @@ Go finish the volume/activity quantile experiment. The HMM stack will be here wh
 
 ***
 
+4/23/2026
+
+7:30am. ![](images/image-2470.png)
+
+So Reddit sentiment does have an edge.

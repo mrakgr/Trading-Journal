@@ -8465,3 +8465,8 @@ Maybe I'll watch some Nioh 3 ones as well. Maybe I'll play Limbus Company as wel
 5:10pm. If it turns out that the kinds of models that would work in the market really require NN training, then probably the effort to make them is out of my reach.
 
 I require either supervised learning approaches (and I am not going to waste my time making labels) or I require fast inference algorithms on regular models. This will have the disadvantage of restricting what kinds of models I can create, but having to deal with restrictions is always the case with programming. At the very least, this venture will significantly improve my programming skills, so I will accept the result by the end of it.
+
+https://youtu.be/_y0xTiPa2MY?list=PLix7MmR3doRo3NGNzrq48FItR3TDyuLCo&t=348
+Hidden Markov Models 07: the HMM, mathematically and formally
+
+Let me pause here. I'll continue this tomorrow.

@@ -8387,3 +8387,81 @@ I need to do proper modeling work to disambiguate the various factors.
 12:35pm. I'll post the videos later, let me have breakfast here. Today my mission will be to post the vids, watch the Youtube course and get some rest. Then after that I'll start modeling. I haven't really looked carefully where the failures of the breakout system come from, but whatever they are, I cannot fix them with the current approach.
 
 To have a proper adaptive system, I'll have to write it as an HMM.
+
+2:35pm. 
+
+Here is the music. I'll write the descriptions later.
+
+Music:
+
+koyuchi -Shamisen Beats- - KAGUTSUCHI: https://youtu.be/DDiLxiVlb9Q
+Samurai Girl - SHAMISEN PIRATE TRAP: https://youtu.be/K_hEM3ZK1zQ
+Symphony Of Blades - Fallen Prayer: https://youtu.be/rQT0BA-_mAQ
+KageYume - Enter Boss Gate Battle: https://youtu.be/K_rv8ji416A
+Symphony Of Blades - RAGNACODE: https://youtu.be/on4SpJAwkq8
+Veilcore Music - No.180: https://youtu.be/8pUzzQut0KE
+Veilcore Music - No.182: https://youtu.be/7NrcwvkH7OA
+
+2:55pm. They are rendering.
+
+***
+
+After our embarrassing failure in the Vwap system videos, we played around with breakouts and started getting some interesting results. Surprisingly it turned out that breakout on stocks on their high rvol days work fantastic and the higher the relative volume of that particular day, the better they do. This was absolutely shocking to us, that a huge edge like this could possibly exist. Not to mention, unlike with the Vwap system, this particular edge seemed to be robust. We could see systems with profit factors between 2 and 6 depending how the threshold of relative volume is tuned.
+
+The only problem is that these systems were with lookahead rvol figures, but we knew from experience that volume begets volume and that high relative volume days in the morning continue to have high volume throughout the day. Regardless of how it turned out, it couldn't possibly be worse than the Vwap system. That experience of being drastically overfit on with just 5 parameters cemented our resolve never to optimize again. Using future information has to be the right choice for the purpose of gaining understanding. So how hard could it possibly be to ascend to trading paradise?
+
+***
+
+In the previous video we had the idea of using volume thresholds as breakout move filters. Here we answer the question of hard it could possibly be?
+
+Quite hard.
+
+We manage to get some minor edge on the calibration set, but on out of sample testing the edge completely collapsed. Our effort in the end was just rewarded with another disappointment.
+
+We still think that there is something to volume, after all buying breakouts and having the volume actually come in during the day works well enough, but the naive system we're using here which waits for the volume threshold to be reached before taking a trade cannot possibly do the job.
+
+True, we haven't done any trade review on the breakout system, but we can very well imagine that it simply buys too late. We know that no matter what the exact issues are, we cannot deal with them using our current methods.
+
+We're going to go back to what we were doing during the order flow videos, and actually build the Hidden Markov Models. We will model the price action more precisely, detect the key levels and trade off of them. The primary reason why we veered off from such an approach into the Vwap system and the breakout system is to get some experience with actual modeling and optimization, but it was simply too much to expect that such naive and simplistic rules could ever be profitable.
+
+We're going to find a much better approach towards trading than the retail crowd, and undoubtedly such an approach will involve the application of the Bayes rule.
+
+We're not done yet, so stay tuned. We won't remain at the bottom of trading hell forever.
+
+***
+
+4:40pm. Let me publish these.
+
+4:50pm. Done.
+
+I cannot take this anymore.
+
+I need a break from these highs and lows. It feels like I've gone from rich to poor to rich several time in the past few weeks. I want to go back to playing games.
+
+And I want to take it easier with the modeling effort.
+
+Jesse Livermore started by noting observations in his notebook and it snowballed from there.
+
+I am going to take it easy, make a few models, calibrate them and see if their perspective on the market is common sensical.
+
+If this approach work then good. I'll become a trader. If it doesn't I'll find a career elsewhere.
+
+Maybe with the skills from this I'll be able to build some longer term systems, I'll join the Unbiased Trading group and see what they can teach me. The CEO calls himself Mounir.
+
+4:55pm. It's not even at profits at this point. My goal should be a model that can detect regime shifts and key levels. That should be my goal.
+
+Profitability on top of that I can think of afterwards.
+
+I should have some fun finally learning how to do Bayesian inference. I think it's finally time I found a use for the Bayes rule.
+
+I won't expect to be successful at it in a few weeks. I'll give this a few months and re-evaluate whether it would be worth it to continue after that.
+
+5pm. Let me chill here. I don't feel like playing games right now as I am tired.
+
+I woke up before dawn and I got out of bed at 6:30am again. I'll just watch some Killing Antidote playthroughs on Youtube.
+
+Maybe I'll watch some Nioh 3 ones as well. Maybe I'll play Limbus Company as well.
+
+5:10pm. If it turns out that the kinds of models that would work in the market really require NN training, then probably the effort to make them is out of my reach.
+
+I require either supervised learning approaches (and I am not going to waste my time making labels) or I require fast inference algorithms on regular models. This will have the disadvantage of restricting what kinds of models I can create, but having to deal with restrictions is always the case with programming. At the very least, this venture will significantly improve my programming skills, so I will accept the result by the end of it.

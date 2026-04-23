@@ -8366,3 +8366,8 @@ I learned about loopy BP in the PGM course, but back then I couldn't digest any 
 10:05am. ![](images/image-2471.png)
 
 Things are going to get slower from this point on. I'll finish the experiments, clean up and then move on to HMMs.
+
+10:15am. https://youtu.be/J_y5hx_ySCg
+Hidden Markov Models 01: The Markov Property
+
+There aren't that many videos in this playlist so I'll watch it today. Currently I am waiting for the dataset processing to finish. I put in on the HDD and it's very slow.

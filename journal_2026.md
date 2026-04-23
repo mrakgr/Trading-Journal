@@ -8362,3 +8362,7 @@ Loopy BP is "run tree belief propagation on a graph with cycles and pretend it's
 ***
 
 I learned about loopy BP in the PGM course, but back then I couldn't digest any of it.
+
+10:05am. ![](images/image-2471.png)
+
+Things are going to get slower from this point on. I'll finish the experiments, clean up and then move on to HMMs.

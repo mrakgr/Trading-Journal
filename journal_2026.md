@@ -8267,3 +8267,8 @@ The the frequency of trades is low, about 1/month. So if I combined it with cont
 It's diappointing, and I am yet to try it on the validation set. If I can get it to work on that, I'll consider it, but otherwise, I want to continue onto HMMs.
 
 I found a course on them on Youtube.
+
+https://youtu.be/Bru4Mkr601Q
+Hidden Markov Models for Quant Finance
+
+There is also this video by Roman Paolucci. Let me start with it.

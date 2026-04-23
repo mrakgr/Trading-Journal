@@ -8256,3 +8256,14 @@ Go finish the volume/activity quantile experiment. The HMM stack will be here wh
 7:30am. ![](images/image-2470.png)
 
 So Reddit sentiment does have an edge.
+
+8:35am. Hidden Markov Models
+https://www.youtube.com/playlist?list=PLix7MmR3doRo3NGNzrq48FItR3TDyuLCo
+
+The results on the calibration set are in for the gap up universe and it is possible to get a PF of 2 by focusing on the top 0.01% of stocks by volume. This is similar to the results of volume profiling approach, except there I used it on continuation days.
+
+The the frequency of trades is low, about 1/month. So if I combined it with continuation days, I could get a good trade once every 2 weeks.
+
+It's diappointing, and I am yet to try it on the validation set. If I can get it to work on that, I'll consider it, but otherwise, I want to continue onto HMMs.
+
+I found a course on them on Youtube.

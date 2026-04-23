@@ -8782,3 +8782,5 @@ Come back with the first results when you have forward-backward working on real 
 I've never thought about it from this angle, in fact I am not sure exactly what it is talking about, but I can tell that it wants me to add features to an HMM instead of having deep structure. I'll have to look into what an input-output HMM is.
 
 This is fun. This is way more fun than grinding a course. Maybe I can make something of this?
+
+7:30pm. Yeah, it's right. I can keep track of the volume profile mode over the past 5-10s and set the mean of the emission for the hold detector on that. I don't need the nested structure.

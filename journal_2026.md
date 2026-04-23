@@ -8272,3 +8272,93 @@ https://youtu.be/Bru4Mkr601Q
 Hidden Markov Models for Quant Finance
 
 There is also this video by Roman Paolucci. Let me start with it.
+
+***
+
+Could explain loopy message passing to me?
+
+***
+
+Sure. Loopy BP is one of those ideas that's simultaneously "obvious hack that shouldn't work" and "deep connection to variational inference that explains why it often does." Let me build it up.
+
+**The setting: belief propagation on trees**
+
+On a tree-structured graphical model (no cycles), belief propagation is exact. The algorithm: each node sends a message to each neighbor that summarizes "everything I know about you, based on everything on my side of the graph." Messages are functions over the receiving variable's states.
+
+For a factor graph, the messages alternate between two types:
+
+- **Variable-to-factor**: μ_{x→f}(x) = ∏_{g ∈ neighbors(x), g ≠ f} μ_{g→x}(x). "My belief about myself, excluding what f already told me."
+
+- **Factor-to-variable**: μ_{f→x}(x) = ∑_{other vars in f} f(x, others) · ∏_{y ∈ neighbors(f), y ≠ x} μ_{y→f}(y). "What this factor tells you about yourself, marginalizing over the other variables I connect to."
+
+On a tree, you do a forward sweep from leaves to root, then backward root to leaves, and you're done. At each variable, the product of incoming messages gives you the exact marginal. Forward-backward in an HMM is exactly this — the chain is a tree, messages flow both directions, done.
+
+The key property that makes this work on trees: **the subgraphs separated by any edge are independent.** The message on an edge captures all the information from one side, cleanly.
+
+**What breaks in a loopy graph**
+
+Add a cycle and that independence evaporates. Now when node A sends a message to node B, the information in that message may have already traveled around the loop and influenced what B has been sending back to A. Messages start containing echoes of themselves. There's no well-defined "everything on my side of the graph" because the graph doesn't have sides anymore.
+
+Exact inference on loopy graphs is #P-hard in general. You need some approximation.
+
+**Loopy BP: the "hack"**
+
+Run the message-passing updates anyway, as if the graph were a tree. Initialize all messages to uniform (or random). Repeatedly update messages using the same equations. Hope it converges. If it does, read off marginals from the product of incoming messages at each node, same as on a tree.
+
+That's it. The algorithm is a one-line modification of tree BP. Richard Neal and others tried it in the 90s expecting it to be a baseline for more sophisticated methods, and it turned out to work astonishingly well on many problems — notably, it's what makes turbo codes and LDPC codes decode at near-Shannon-capacity performance, which was the result that put loopy BP on the map.
+
+**Why it often works — the variational connection**
+
+Yedidia, Freeman & Weiss (2000, 2005) proved the deep result: **fixed points of loopy BP are stationary points of the Bethe free energy.** The Bethe free energy is an approximation to the true free energy (KL + log Z) that is *exact* on trees and *approximate* on loopy graphs.
+
+Concretely: mean-field VI minimizes a free energy that assumes full factorization. Loopy BP effectively minimizes a different free energy — the Bethe — that keeps pairwise correlations along edges and only approximates higher-order interactions. On trees, Bethe = true free energy. On loopy graphs, Bethe ≠ true, but it's usually closer than mean field because it preserves more structure.
+
+This gives loopy BP a variational interpretation: it's approximate inference that keeps all pairwise factor-variable couplings and ignores the longer-range coupling induced by cycles. That's a principled approximation, not just a hack.
+
+**When it converges and when it doesn't**
+
+Loopy BP has no convergence guarantee in general. Known results:
+
+- **Single-loop graphs**: provably converges (Weiss 2000).
+- **Graphs with weak interactions**: tends to converge, and marginals are accurate.
+- **Graphs with strong interactions or frustrated cycles** (e.g., Ising models near the critical temperature): may oscillate, may converge to poor fixed points, may have multiple fixed points.
+- **Gaussian MRFs**: means converge to true means when BP converges; variances are wrong (usually underestimated).
+
+Practical tricks when it doesn't converge:
+
+1. **Damping**: μ^{new} = α μ^{computed} + (1−α) μ^{old} with α ∈ (0,1). Damps oscillations. Common choice α = 0.5.
+2. **Sequential (rather than parallel) message updates**: update messages one at a time in some order, rather than all simultaneously. Usually converges faster and more reliably.
+3. **Tree-reweighted BP (TRW)**: reweights messages by edge appearance probabilities in a distribution over spanning trees. Gives an upper bound on log Z, unlike loopy BP which gives neither upper nor lower bound.
+4. **Generalized BP**: pass messages between *regions* (groups of nodes) rather than single nodes. Exact on graphs where the regions cover all cycles. Kikuchi free energy generalizes Bethe.
+
+**How it compares to the other approximations you know**
+
+- **Mean field VI**: minimizes KL(q || p) with fully factorized q. Always converges, lower bound on log Z, but loses all correlation.
+- **Structured VI**: factorizes across hard boundaries, keeps easy substructure. Always converges, lower bound.
+- **Loopy BP**: keeps pairwise structure everywhere. Faster and often more accurate than mean field when it converges. No bound on log Z. No convergence guarantee.
+- **EP (expectation propagation)**: like loopy BP but messages are projected onto an exponential family by moment matching rather than just computed directly. Handles continuous/non-conjugate cases. Similar convergence caveats.
+- **MCMC**: asymptotically exact, but slow and needs convergence diagnostics.
+
+The practical tradeoff for discrete graphical models: if your graph has weak-to-moderate interactions, loopy BP is often the best accuracy-per-compute option. If it's highly loopy with strong interactions, structured VI is more reliable, even if individual factors are cruder approximations.
+
+**Relevance for your eventual HMM stack**
+
+For your factorial HMM: structured VI is cleaner than loopy BP because the chain substructure is large and strong — you want to preserve it exactly within each chain rather than approximating it with pairwise messages. Loopy BP on the factor graph would treat each timestep's variables independently within the message passing, losing the chain's temporal coherence.
+
+For hierarchical HMMs: no cycles, flatten to HMM, exact inference. No loopy BP needed.
+
+Where loopy BP would genuinely earn its keep in quant work:
+
+- **Cross-sectional models** where you have a network of correlated assets and want marginals on each. A graphical model over assets with pairwise correlation factors is loopy by construction, and loopy BP is a natural fit.
+- **Markov Random Field models of order book states** where spatial coupling between price levels creates cycles.
+- **Any model you design where the factor graph is loopy and you want something faster than MCMC and better than mean field.**
+
+But for HMMs specifically — which are trees — you'll almost never need loopy BP. You'll use structured VI (for factorial variants), flattening (for hierarchical), or exact forward-backward (for everything else). Loopy BP is good to know conceptually because it's the bridge between message passing and variational methods, and because once you internalize "BP = message passing on a factor graph," all the other algorithms become variations on a theme.
+
+**The one-sentence summary**
+
+Loopy BP is "run tree belief propagation on a graph with cycles and pretend it's still a tree" — which turns out to be equivalent to approximately minimizing the Bethe free energy, works well when interactions are weak, can fail to converge when they're strong, and is a cornerstone technique precisely because it's so simple and so often effective.
+
+***
+
+I learned about loopy BP in the PGM course, but back then I couldn't digest any of it.

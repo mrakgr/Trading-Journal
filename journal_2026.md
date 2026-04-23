@@ -8470,3 +8470,315 @@ https://youtu.be/_y0xTiPa2MY?list=PLix7MmR3doRo3NGNzrq48FItR3TDyuLCo&t=348
 Hidden Markov Models 07: the HMM, mathematically and formally
 
 Let me pause here. I'll continue this tomorrow.
+
+5:35pm. https://www.reddit.com/r/algotrading/comments/1razsuv/lets_talk_about_regime_detection/
+
+***
+
+Entropy gates and HMMs
+
+But tbf, my algo runs on every tick. I’ve had som decent results up to 15m charts. Never went beyond that tbh
+
+***
+
+HMM has an entropy value, he's presumably advising gating the regime-conditional response if entropy values are too high.
+
+***
+
+Built a regime detection module based on Markov chains, but not for intraday trading, it was for macro FX positioning.
+
+The starting assumption was that FX time series exhibit unit roots, which makes most short term statistical modeling "fragile". Instead of predicting short term price moves, we tried to detect business cycle regimes.
+
+The logic was simple, monetary and fiscal authorities adjust policy depending on the phase of the cycle, and those policy shifts drive medium to long term currency trends (quarters, not 5minute charts:)).
+
+We built a Markov switching style framework ingesting macro variables that historically influence currency valuation, ran multiple walk forward tests on a selection of currencies (mostly emerging markets (there is a logic behind this as well)), and even connected a small execution script to it, nothing fancy.
+
+It showed promising medium-term bias signals, especially in avoiding being positioned against macro policy shifts. I wouldn’t use it for day trading (it is slow), but for regime-aware macro positioning, it made sense.
+
+***
+
+https://www.reddit.com/r/algotrading/comments/1mbm3mr/where_do_edges_exist/
+
+I spent a lot of time working with OHLC data and never found anything meaningfully exploitable. But I have been able to see some inefficiencies in short dated options (have a simple linear regression model to determine optimal strikes for a debit spread that seems to be performing surprisingly well).
+
+I also see a lot of predictive signals in L2 data, especially for frontrunning trend reversals intraday. Some of these patterns repeat so often that you’d think it’s too good to be true. But it’s very expensive to access that data and backtest on it for any reliable conviction, let alone use it for live trading.
+
+What I can confidently tell you though is that just throwing vanilla ML or neural networks at it is never going to work. It’s like training a CNN to predict whether there is a cat or a dog in an image of random pixels. You need solid engineered features, then even a simple linear regression works
+
+***
+
+L2 data he says.
+
+5:50pm. You know what, I should just skip that damn course. I am bored to death with it. It would be better to start coding.
+
+***
+
+Tell me about semi HMMs? What makes them semi?
+
+***
+
+The "semi" refers to breaking the Markov assumption on state **durations** specifically, while keeping it everywhere else. Worth unpacking why that matters.
+
+**The problem with vanilla HMMs: geometric dwell times**
+
+In a standard HMM, the transition matrix has self-transitions a_ii = P(stay in state i | in state i). Once you're in state i, the probability of staying for exactly d timesteps before transitioning is:
+
+P(duration = d) = a_ii^(d-1) · (1 - a_ii)
+
+That's a geometric distribution. It's memoryless: the probability of leaving a state doesn't depend on how long you've been in it. Mode at duration 1, exponential decay.
+
+This is almost never what real regimes look like. A high-volume regime doesn't have its highest probability of ending one second after it started. A trending phase doesn't decay memorylessly. Real regimes have characteristic durations — some distribution with a mode away from zero, probably with a fatter tail than geometric.
+
+The geometric assumption is a modeling artifact, not a feature. You inherited it because the Markov property is convenient for inference, not because market regimes actually behave that way.
+
+**The semi-Markov fix**
+
+A hidden semi-Markov model (HSMM, also called explicit-duration HMM) decouples duration from transition:
+
+1. Enter state i.
+2. Sample a duration d from a state-specific distribution p_i(d). Could be Poisson, negative binomial, log-normal, or a learned discrete distribution over {1, 2, ..., D_max}.
+3. Stay in state i for exactly d timesteps, emitting observations from the usual emission model at each.
+4. Transition to state j ≠ i with probability a_ij (note: no self-loop; you've already accounted for "staying" via the duration).
+5. Repeat.
+
+The "semi" means the process is Markov at **transition boundaries** but not at individual timesteps. If you only look at the moments when transitions happen, it's a Markov chain. Between transitions, the process has memory — specifically, it remembers how long it's been in the current state, which lets the duration distribution shape the exit probability.
+
+This fixes the dwell-time problem at the cost of somewhat more expensive inference.
+
+**Why it's useful for your regime detection**
+
+Two concrete payoffs:
+
+1. **Better regime identification.** If your volume regime actually has characteristic duration ~20 minutes with some spread, specifying a negative binomial or log-normal duration gives the model real information. Forward-backward will be more confident about regime boundaries because brief apparent regime "flickers" get penalized as unlikely under the duration prior. Fewer false transitions in the posterior.
+
+2. **Direct interpretability.** You can set duration priors from domain knowledge. "High volume regimes last 10-60 minutes with mode around 25 minutes" → parameterize p_i(d) accordingly. In a vanilla HMM you'd set a_ii to match the mean, but then the distribution's *shape* is wrong even when the mean is right.
+
+For market microstructure data specifically, dwell-time diagnostics usually show that geometric is a poor fit. If you fit a vanilla HMM and look at the empirical distribution of regime durations from the Viterbi path, you'll typically see it's not geometric — which is evidence you're leaving modeling power on the table.
+
+**The inference cost**
+
+Forward-backward for an HSMM is O(T · K² · D) where D is the maximum allowed duration. For D = 1800 seconds (30 minutes) on 1-second bars, you're paying a ~1000× factor over vanilla HMM.
+
+For T=23,400 bars and K=3 states, this is still fast — ~10^8 operations, well under a second — but it's no longer trivial. Tricks to manage this:
+
+- **Bounded duration**: cap D at some reasonable max. Regimes lasting more than an hour are rare enough to truncate.
+- **Parametric durations**: if the duration distribution has closed-form recursions (e.g., Poisson via its rate parameter), you can sometimes avoid the full O(D) sweep per timestep.
+- **Variable-step inference**: update regime estimates less frequently than every second. For live trading, minute-level regime updates are often sufficient.
+- **Forward-only filtering** for live use: online HSMM filtering is O(T · K² · D) cumulatively but still O(K² · D) per new observation, which is fine.
+
+The algorithm is a generalization of forward-backward. The key modification: the forward variable α_t(i) is redefined as "probability of observations up to t AND state i just ended at t" (rather than "state i at t"). You sum over possible durations of the just-ended state and over possible predecessor states. Yu 2010's tutorial has the cleanest derivation — worth reading when you get to implementation.
+
+**The design question: is the extra complexity worth it?**
+
+It depends on a diagnostic you can actually run. Here's the workflow:
+
+1. Fit a vanilla HMM to your data.
+2. Run Viterbi to get the most likely state sequence.
+3. Extract empirical durations per state — count how long each state persists between transitions in the Viterbi path.
+4. Plot the empirical duration distribution per state against a geometric with the matching mean.
+5. If they look similar: keep the vanilla HMM. The Markov assumption is fine for your data.
+6. If they diverge meaningfully (especially: mode away from 1, heavier tail, or lighter tail): HSMM will probably help.
+
+My guess for your regime problem: volume regimes will show a clear non-geometric pattern (they have characteristic time scales tied to news cycles, opening hour dynamics, etc.), trend regimes might be closer to geometric. So you might end up with an HSMM for volume and a vanilla HMM for trend — which composes fine in a factorial structure, actually. Different chains can have different duration assumptions.
+
+**Where HSMMs fit in the zoo**
+
+Adding to the map from last time:
+
+- **HSMM**: HMM with explicit state durations. Breaks geometric dwell time.
+- **HSMM + factorial**: independent chains, each with its own duration model. Structured VI still works; each coordinate update is an HSMM forward-backward instead of HMM forward-backward.
+- **HSMM + hierarchical**: nested HSMMs. The classical HHMM formulation is actually implicitly semi-Markov at every level, because a sub-HMM runs to completion before the super-state transitions. Reading Fine, Singer & Tishby 1998 with this in mind clarifies a lot.
+- **Change-point models**: can be viewed as HSMMs where the duration distribution captures the segment length prior. The BOCPD (Bayesian online change-point detection) algorithm is essentially an online HSMM filter with a particular duration structure.
+
+**Practical recommendation**
+
+When you get to implementation: don't start with HSMM. Build vanilla HMM first, run the duration diagnostic I described, and only upgrade to HSMM if the diagnostic shows it's needed. The complexity increment is real (both in code and in parameter estimation — duration distributions need to be learned or specified), and premature upgrade is a common way to turn a 2-week project into a 2-month project.
+
+But keep HSMM in your back pocket. For the specific application of regime duration in financial data, it's one of those upgrades that frequently earns its keep — markets have characteristic time scales, and building those into the model directly is both better-performing and more interpretable than hoping geometric gets close enough.
+
+***
+
+This seems really useful. In fact, the models I already created have move durations.
+
+This is going to be fun. I love dynamic programming techniques and this will push that skill to its limit.
+
+6:15pm. 
+
+***
+
+I wonder if there could be an easy way to compress an HMM into a NN in order to make it easier to use more complex models? I haven't tried supervised learning with labels yet, but I am guessing it would be very expensive.
+
+***
+
+This is a genuinely interesting question and worth pulling apart carefully, because the answer depends heavily on *what* you want to compress and *why* — and the economics might not go the direction you're expecting.
+
+**First: what's actually expensive about HMM inference?**
+
+Before designing a compression scheme, worth asking what the bottleneck is. Forward-backward on a flat HMM with K states over T timesteps is O(T·K²). For your regime detection on 1-second bars:
+
+- T = 23,400 (one trading day), K = 9 (joint state if flattened from factorial 3×3): ~2M operations. Microseconds.
+- Even with HSMM and D = 1800: ~3 billion operations per day per symbol. Still well under a second.
+- Factorial HMM with structured VI: maybe 20× that for convergence. Seconds.
+- Across a universe of 500 symbols: still minutes, not hours.
+
+HMM inference is **cheap**. The expensive thing is usually **parameter learning** (EM convergence, especially on large models), **model selection** (trying different structures), and **supervised training on labels** — which is what you were imagining.
+
+So the question becomes: what are you actually hoping compression buys you? Three plausible goals, each with a different answer:
+
+1. **Faster inference at runtime.** Almost certainly not needed given the numbers above. The HMM is already fast.
+2. **Richer emission models** (e.g., neural emissions that capture complex features). This is a real need and has real solutions.
+3. **Avoiding retraining when the model changes.** This is exactly where the HMM already wins — you don't need to compress anything.
+
+Let me address each.
+
+**Goal 2: neural emissions in an HMM — the real answer to your instinct**
+
+The productive version of your question isn't "compress an HMM into an NN." It's **put a neural network inside the HMM as the emission model.** Keep forward-backward for inference over states, but let the emission p(x_t | z_t) be parameterized by a neural network.
+
+This is a mature idea. Variants:
+
+- **Neural HMM / deep HMM**: emission is a mixture density network or normalizing flow conditioned on discrete state. Training via EM where the M-step is gradient descent on the NN parameters using posterior state assignments as targets.
+- **Structured VAE / SRNN**: the latent dynamics are HMM-like (discrete states with transitions), the emission is neural. Inference via amortized VI — a neural "encoder" produces approximate posteriors over states.
+- **Input-feature HMM**: emission mean/variance are linear functions of features, where features come from a pre-trained NN or hand-crafted. This is a middle ground that's often very effective and cheap.
+
+For your setting, the last option is probably the right first step. You probably don't need a learned feature extractor — your domain knowledge about order flow, RVOL, VWAP deviation, etc., gives you better features than an NN would learn from scratch on limited data. The question is just how to combine them in the emission.
+
+**Goal 3: the thing you actually want, which is already solved**
+
+If the concern is "I don't want to retrain a big model every time I change something" — the HMM already has this property. Parameters are either hand-specified or learned via EM in minutes. Structure changes (add a state, change emission family) don't require touching anything learned elsewhere. This is precisely the workflow advantage from the design doc.
+
+So if you find yourself reaching for NN compression to avoid retraining, you've likely added complexity somewhere that doesn't need it. The better move is usually to simplify the HMM, not to compile it into something else.
+
+**Now, the literal question: can you compress an HMM into an NN?**
+
+Yes, several ways, each with different tradeoffs:
+
+*Approach 1: distill the posterior function.*
+
+The HMM defines a function from observation sequences to posterior state probabilities: f(x_{1:t}) → P(z_t | x_{1:t}). You can train an NN (typically an RNN or transformer) to approximate this function by:
+
+1. Generating lots of synthetic sequences from the HMM generative model (you have the generator — that's the whole point).
+2. Running forward-backward on each to get true posteriors.
+3. Supervised training of the NN on (sequence, posterior) pairs.
+
+This works. Result: a neural regime classifier that mimics the HMM. What you gain: parallelizable inference on GPU (RNN forward pass can be batched across symbols more efficiently than HMM forward-backward), potentially faster on very long sequences. What you lose: interpretability, the exact posterior guarantees, the ability to easily change the model (now you have to regenerate data and retrain).
+
+**And crucially**: this approach is not cheaper than supervised learning on labels. You're doing supervised learning on labels — it's just that the labels are generated by the HMM instead of by hand. You pay the full NN training cost anyway.
+
+*Approach 2: exact equivalence via recurrent architecture.*
+
+A discrete HMM's forward pass can be written exactly as a specific RNN with a particular weight structure and activation (softmax over log-transitions plus log-emissions). So you can "compile" an HMM into an RNN directly without any training — the weights come from your HMM parameters.
+
+This is theoretically neat but practically offers little. You get an RNN that does exactly what forward-backward does, at roughly the same cost. Some marginal gains from GPU parallelism across batch dimensions, but the temporal recursion is still sequential.
+
+*Approach 3: amortized inference.*
+
+Train a neural network to predict the HMM posterior given a window of observations, as a fast approximation. This is the VAE-style approach. Cheaper than forward-backward at inference time (single forward pass through the NN), but you're back to paying NN training costs and accepting approximation error. Only wins when you need millisecond-latency inference at massive throughput — not your current regime.
+
+**The realistic economic picture**
+
+Your intuition that "supervised NN training is expensive" is correct. But the premises that make HMM → NN compression attractive mostly don't hold here:
+
+- HMM inference isn't the bottleneck (it's already fast).
+- Changing the HMM and re-running inference isn't expensive (it's the workflow you want).
+- NN training is expensive, and compressing an HMM requires training an NN, so you haven't saved anything.
+
+The case where HMM → NN compression genuinely pays off: you need inference at latencies lower than forward-backward can deliver, or at throughputs where GPU batching dominates. This applies to production speech recognition systems (where HMMs used to be standard and got compiled into RNNs / transformers for exactly these reasons), not to per-symbol regime detection at second-or-minute cadence.
+
+**What you might actually want instead**
+
+If the real pressure is "HMMs are too simple to capture the emission distribution I care about," three incremental moves:
+
+1. **Better emission features.** Hand-engineered features from your order flow pipeline, used in a Gaussian or Student-t emission. This is the highest leverage and cheapest move.
+2. **Mixture emissions.** Each HMM state has a mixture of Gaussians as its emission. Captures multimodal distributions without NNs. Trivial EM extension.
+3. **Neural emission network** conditioned on state. NN maps state → emission parameters. Trained via EM where M-step does gradient descent. This is the genuine "put an NN inside an HMM" move and it's well-studied.
+
+Option 3 is the real answer if you truly need more emission complexity. It's more expensive than vanilla HMM training but vastly cheaper than training an NN classifier from scratch on generated labels, and it preserves the inference structure (forward-backward still works — just with neural emission likelihoods plugged in).
+
+**The punchline**
+
+Your instinct that there should be some way to get the benefits of both structured probabilistic models and neural networks is correct — it's exactly the motivation behind the whole "deep state-space model" research direction (Johnson et al., Linderman et al., Rangapuram et al.). These hybrid architectures are the grown-up version of what you're asking about.
+
+But for your current application — regime detection on financial data with good domain features and modest throughput requirements — plain HMMs or factorial HMMs with well-chosen emissions will almost certainly do the job. The compression question is worth revisiting later if you hit a specific bottleneck that forces it. Don't solve it prospectively.
+
+When you come back to this after the quantile experiment, my strong suggestion: implement vanilla HMM first, get a sense for how fast and how accurate it actually is on your data, and let the empirical bottleneck tell you where to invest. The "let's compile the HMM into something faster" impulse is almost always premature optimization at this stage.
+
+***
+
+I did the quantile experiment, and it failed on out of sample data, so that's a bust. I'll be working on HMMs next. In fact, I have created HMM type models over a month ago but not only are they semi-Markovian because they have duration parameters, but their targets are also generated by other Gaussians. In essence they are nested Gaussians and the price generation process is modeled as a random walk in a MCMC proposal distribution.
+
+Maybe I should remove that part and go back to the old drift models I had before? What I wanted to do was capture support and resistance type of dynamics that you don't see in drift models. Who knows maybe wouldn't matter too much for hold detection in data, but it feels like a more natural way to express order flow action.
+
+***
+
+Sorry to hear about the quantile experiment — that's a real cost, but a clean negative result on out-of-sample is much more valuable than an ambiguous one. You know to move on.
+
+On the model question, let me try to separate what you're actually asking about, because I think there are two distinct issues tangled together.
+
+**Issue 1: Are nested Gaussians the right structure?**
+
+Let me play back what I think you built so I can react to the right thing: an HSMM where state-conditional emissions are not direct observation distributions but *hyperparameters of another Gaussian process* — specifically, a price-generating random walk whose drift and/or variance come from the outer Gaussian. The MCMC is sampling proposals from this hierarchy.
+
+If that's right, this is a hierarchical / latent-variable emission model, and it's structurally reasonable. The question isn't whether nested Gaussians are "correct" but whether the *extra latent layer* is paying for itself.
+
+Specifically: what does the inner Gaussian represent that couldn't be captured by making the outer HSMM emission richer? If the answer is "it captures continuous drift variation within a regime," then yes, you need the latent — a single Gaussian emission per state can't do that. If the answer is "it makes the code more general," then you're paying inference cost for nothing.
+
+A concrete diagnostic: fit the model, then look at the posterior over the inner Gaussian parameters *conditional on regime state*. If the inner distribution's posterior is tight (low variance of the latent within each state), the inner layer isn't doing work — a point estimate per state would suffice. If it's broad and state-dependent in interesting ways, the hierarchy is real.
+
+**Issue 2: Drift models vs support/resistance dynamics**
+
+This is where I want to push back on the framing, because I think you're asking the wrong question.
+
+A drift model (price has state-dependent mean return and variance) says: "in regime X, price moves with drift μ_X and noise σ_X, memorylessly." It cannot represent support/resistance because those are **non-Markov in price itself** — the probability of bouncing at $50 depends on the fact that $50 was previously a swing low or high-volume node, which is information not contained in the current price level under a drift process.
+
+So you're right that drift models structurally miss support/resistance. But — and this is the key point — **a random walk in MCMC proposal space doesn't capture support/resistance either.** A random walk is just a drift model with drift = 0 and added path dependence that comes from the walk itself, not from market structure. Unless your nested Gaussians are specifically parameterized to put mass near identified levels, you're not modeling support/resistance; you're modeling "prices diffuse around a center that itself moves." That's a different thing.
+
+**The real question: what generates support/resistance?**
+
+Support and resistance in actual microstructure come from:
+
+1. **Resting limit orders** at round numbers, prior highs/lows, high-volume nodes. These are a property of the order book state, not the price process.
+2. **Memory of prior prints**: traders' stops and targets clustered at specific levels from recent history.
+3. **Self-fulfilling dynamics**: enough people watching a level creates reactions at the level.
+
+None of these are well captured by a price-process model, regardless of whether the process is drift-only, nested Gaussian, or random-walk MCMC. They're captured by **emission models that reference external structure** — levels identified from recent swing highs/lows, volume profile nodes, VWAP, session open.
+
+This suggests the productive move isn't choosing between drift and nested Gaussians. It's changing what the emission is a function *of*:
+
+- Emission mean depends on `(price - nearest_swing_low)`, so the model expects mean reversion near identified levels.
+- Emission variance depends on `distance_to_prior_HVN` (high volume node).
+- Duration distribution in the HSMM depends on whether price is inside or outside a prior consolidation range.
+
+This is an **input-output HMM** or **input-dependent HSMM** — the transitions/emissions/durations are conditioned on exogenous features (the levels), which you compute deterministically from price history, not latent variables to be inferred.
+
+Crucially: the levels themselves aren't modeled as random. They're computed. You don't need a generative model of where support comes from; you need to inject "here are the levels" into the emission as a conditioning variable. This is massively simpler than trying to make a latent-variable model discover support/resistance from price alone, and much more aligned with how support/resistance actually works (it's external structure, not hidden state).
+
+**So, should you remove the nested Gaussians and go back to drift models?**
+
+My honest read: the question is miscast. Both options are addressing the same level of the problem (how does price move conditional on regime) when the thing you're actually trying to capture (support/resistance) lives at a different level (what does the emission condition on).
+
+Three concrete suggestions in order of effort:
+
+1. **Keep it simple while you learn the machinery.** You said you're about to get serious about HMM inference. Start with drift emissions on vanilla HMM, get forward-backward and Baum-Welch working end to end on synthetic data, verify you can recover known parameters. Don't fight with nested Gaussians while you're also fighting with the basics. The nested structure can come back later when you know it's needed.
+
+2. **When you re-add complexity, add it at the emission-conditioning level, not the latent-hierarchy level.** Compute support/resistance levels from price history (classic swing-point algorithms, volume profile, prior day high/low). Use them as inputs to the emission, not targets of inference. This is the input-output HMM approach and it's much better suited to how the market structure you care about actually works.
+
+3. **If the nested Gaussian structure turns out to be doing real work**, it would be for something like: "within a volume regime, there's a continuously varying drift that itself has dynamics." That's a **switching state-space model** (discrete regime switches a continuous latent that drives emission), which is a well-defined class with known inference algorithms (generalized pseudo-Bayes, assumed density filtering). That's where you'd go if you conclude the nested structure is needed. But it's a heavy lift — probably not the next step.
+
+**On path dependence more generally**
+
+One more thought: support/resistance, momentum continuation, and other "memory" effects are the reason pure HMM-style regime models often feel unsatisfying for intraday trading. The HMM says the past matters only through the current regime; markets say the past matters through specific remembered levels and recent prints. This isn't a flaw you can fix by making the latent richer — it's a mismatch between Markov assumptions and the data.
+
+The fix is always to fold the non-Markov structure into **features** that summarize the relevant history, and feed them into a model that's Markov conditional on those features. You already know this from your ML work — it's the same move as engineering lagged features for any sequential model. HMMs don't exempt you from it; if anything they make it more important because the state space is small and interpretable, so you get less "automatic" capture of history than an RNN would give you.
+
+**TL;DR**
+
+The nested Gaussian vs drift question is worth less than you think. The real question is what features your emission conditions on. Start with a vanilla HMM + simple drift emissions while you get the inference machinery solid, then reintroduce complexity as feature engineering on the emission side (input-output HMM with level-aware features), not as deeper latent hierarchies. Support/resistance is an emission-conditioning problem, not a latent-state-richness problem.
+
+Come back with the first results when you have forward-backward working on real data. That's where the actually interesting modeling decisions start.
+
+***
+
+I've never thought about it from this angle, in fact I am not sure exactly what it is talking about, but I can tell that it wants me to add features to an HMM instead of having deep structure. I'll have to look into what an input-output HMM is.
+
+This is fun. This is way more fun than grinding a course. Maybe I can make something of this?

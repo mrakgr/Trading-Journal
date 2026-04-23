@@ -8784,3 +8784,7 @@ I've never thought about it from this angle, in fact I am not sure exactly what 
 This is fun. This is way more fun than grinding a course. Maybe I can make something of this?
 
 7:30pm. Yeah, it's right. I can keep track of the volume profile mode over the past 5-10s and set the mean of the emission for the hold detector on that. I don't need the nested structure.
+
+7:35pm. I should just go to bed. I am damn tired. I don't feel like doing anything else.
+
+7:45pm. Yeah, let me do that. Nothing is fun when you're tired.

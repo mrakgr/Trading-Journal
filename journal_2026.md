@@ -8371,3 +8371,19 @@ Things are going to get slower from this point on. I'll finish the experiments, 
 Hidden Markov Models 01: The Markov Property
 
 There aren't that many videos in this playlist so I'll watch it today. Currently I am waiting for the dataset processing to finish. I put in on the HDD and it's very slow.
+
+12:15pm. Got a negative result on out of sample testing.
+
+It's a complete disaster. There is no edge in trading gap ups like this.
+
+See more at: https://github.com/mrakgr/Trading-Edge/blob/opening_range_breakouts/docs/orb_session_findings.md#26-validation-run--the-gap-up-edge-does-not-survive-out-of-sample-2026-04-23
+
+12:20pm. Sigh, this is disappointing. I'll just take it easy for a day or two.
+
+But this is a good warning to not just trade stocks in play naively. The top quantile had some amazing losses.
+
+I need to do proper modeling work to disambiguate the various factors.
+
+12:35pm. I'll post the videos later, let me have breakfast here. Today my mission will be to post the vids, watch the Youtube course and get some rest. Then after that I'll start modeling. I haven't really looked carefully where the failures of the breakout system come from, but whatever they are, I cannot fix them with the current approach.
+
+To have a proper adaptive system, I'll have to write it as an HMM.

@@ -8800,3 +8800,12 @@ Lance is my favorite finance Youtuber.
 
 ![](images/image-2472.png)
 > I know traders that are positive nearly 100% of days.
+
+7:20am. Let me do some work.
+
+12:10pm. Opus really knows its stuff, but the overall design is poor, so that is where I will step in.
+
+https://youtu.be/oCojK75W-N8
+This Ex-Quant Had to Quit Wall Street to Build a 24/7 Stock Exchange | QFEX, Annanay Kapila
+
+Seems interesting. I wish 24/7 isn't going to become the standard, but it probably will.

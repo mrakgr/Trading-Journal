@@ -8792,3 +8792,8 @@ This is fun. This is way more fun than grinding a course. Maybe I can make somet
 4/24/2026
 
 6:45am. Take it easy. I need to reset my sleep patterns. I need to forget trading and master machine rationality.
+
+https://youtu.be/kKHK5FtIaTk?t=684
+> Another fallacy - swing trading offers the most edge. What A Crime.
+
+Lance is my favorite finance Youtuber.

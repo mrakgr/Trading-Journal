@@ -8797,3 +8797,6 @@ https://youtu.be/kKHK5FtIaTk?t=684
 > Another fallacy - swing trading offers the most edge. What A Crime.
 
 Lance is my favorite finance Youtuber.
+
+![](images/image-2472.png)
+> I know traders that are positive nearly 100% of days.

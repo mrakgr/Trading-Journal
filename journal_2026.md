@@ -8845,3 +8845,11 @@ But the fact that I need to study this means that I've yet to hit my actual limi
 This is the real me. I might have given up on poker, but I am going to pour my entire being into this one setup and see where it leads me.
 
 One Good Trade.
+
+5:30pm. Ah I see. It's not the book, but I just came to an understanding how inference in HSMMs could work.
+
+Instead of projecting 1 step into the future, we need to project the likelihoods by D steps because there are D possible discretizations of the duration probability. I see.
+
+That explains why inference in these is O(T * K^2 * D) instead of O(T * K^2) like in regular HMMs.
+
+For a continuous process, we'd cut it into D steps and then project the log likelihoods in such a manner. It should be an interesting challenge to program this kind of system.

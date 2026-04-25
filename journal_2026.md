@@ -8808,4 +8808,18 @@ Lance is my favorite finance Youtuber.
 https://youtu.be/oCojK75W-N8
 This Ex-Quant Had to Quit Wall Street to Build a 24/7 Stock Exchange | QFEX, Annanay Kapila
 
-Seems interesting. I wish 24/7 isn't going to become the standard, but it probably will.
+Seems interesting. I wish 24/7 wouldn't going to become the standard, but it probably will.
+
+4/25/2026
+
+2:55pm. https://youtu.be/dGjqaXTeiTU
+The Timeless Trading Strategy that Made Me Millions
+
+Before I resume work on the hold detector let me watch this.
+
+Creating a pattern matcher is going to be surprisingly difficult and I really going to have to go all out to do it.
+
+Ironically, the most difficult thing will be to figure out how to set the legnth of the fixed bars.
+
+3:25pm. I'll have to go with the plan of having a chain of them and then picking the model based on some measure. What that measure will be I don't know.
+

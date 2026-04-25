@@ -8823,3 +8823,25 @@ Ironically, the most difficult thing will be to figure out how to set the legnth
 
 3:25pm. I'll have to go with the plan of having a chain of them and then picking the model based on some measure. What that measure will be I don't know.
 
+5:15pm. It's time to take a break from programming to study.
+
+I've gotten the `Hidden Semi-Markov Models Theory, Algorithms and Applications (2016, Elsevier)` book by Shun-Zheng. I'll slow down a little, try to mend my sleep schedule and read the book. After that I'll start the codebase rewrite. Opus has driven too much and it's a hot mess.
+
+We made v0 of the hold detector and it has a bunch of faults: 
+
+* The holds can be detected even if the VWAP is moving.
+* The detection is too aggressive and then the flips are too aggressive.
+* The fakeouts don't transition into trends naturally after some time. Instead we can get these very long fakeout trends.
+* Futhermore, I messed up not to realize that the holds require a minimum duration to be viable. There are many 1 bar holds that are simply false positives. I'd like to see at least 20 bars to consider it being a hold.
+
+We'll have to reimplement it as a HSMM. Right now I don't even understand how that could work, so I need a pause to study the book.
+
+Also the codebase rewrite will slow me down for a while. This will take me a few weeks much like MCMC did.
+
+Still this isn't that bad. I remember in an interview long before the Tao Ceti job for a consulting company that I got rejected. I remember admitting that I felt like I had topped out.
+
+But the fact that I need to study this means that I've yet to hit my actual limit. 
+
+This is the real me. I might have given up on poker, but I am going to pour my entire being into this one setup and see where it leads me.
+
+One Good Trade.

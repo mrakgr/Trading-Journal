@@ -8853,3 +8853,90 @@ Instead of projecting 1 step into the future, we need to project the likelihoods
 That explains why inference in these is O(T * K^2 * D) instead of O(T * K^2) like in regular HMMs.
 
 For a continuous process, we'd cut it into D steps and then project the log likelihoods in such a manner. It should be an interesting challenge to program this kind of system.
+
+4/26/2026
+
+7:15am. https://youtu.be/aMqPRFb8t-0
+The Tempting Tesla Trade You Must Avoid (to be consistently profitable) @TheOneLanceB
+
+7:50am. Nevermind this approach. I am dropping HMMs in favor of the generative approach with NN supervised training. I'll go with what I was doing before. I'd rather put my GPU to good use than mess with Bayesian inference.
+
+Here is what I wrote today in the screencast.
+
+***
+
+Good morning. After some thought, I've decided to change my goals a little.
+
+That joke about training NNs to detect rings true after all.
+
+I see where this is going now.
+
+The HMM models simply won't be powerful enough to get us all the way there.
+
+What they are good for is helping us detect holds with the benefit of lookahead data. Like - we can easily determine the bar length ahead of time much like we can do with rvol.
+
+But I am honestly confused at which criteria we should use if we were running them on real time data with no future information.
+
+We'll have the duration parameters configured for a particular stock on a particular day and they will be wrong on a different stock on a different day.
+
+The machines aren't intelligent adaptive systems like the human brain is. I have no good way of encoding what could be considered trading common sense into them.
+
+So honestly, as a thought experiment, suppose somebody gave me a labelled dataset of 10m hold patterns.
+
+Would I:
+
+* Use the dataset?
+* Make a HSMM model instead?
+* Make a synthetic data dataset instead?
+
+Obviously I'd rely on the dataset.
+
+Here is what we could do since we don't have that dataset.
+
+We'll have the HSMM model and we'll also try using NNs trained off the sythentic dataset generation to detect holds in historical data.
+
+This will be a significantly easier task than doing in real time data since we'll be able to calibrate the models using future data. We'll be able to employ automated data labeling techniques.
+
+I don't want to go through 10k volume charts one by one personally, but the system could just give me a bunch of example to review and I could stamp it as being a hold or not.
+
+Then what we could do is use data augmentation to significantly increase the number of examples.
+
+The order flow outside the holds don't really matter, so we could inject noise trades into the data, move prices around, swap trades randomly and so on.
+
+Inside the holds we could also inject noise to a lesser extent to produce some variation.
+
+By the end of that we could have a system that is quite good at detecting holds regardless of timescale.
+
+I've been stressed because I am starting to sense that HMMs won't be enough, but it doesn't mean they are useless.
+
+This is justice - I need to use NNs in this time period. They are the most powerful of ML models.
+
+All path lead to NNs.
+
+...
+
+I don't know if in the end after all this effort we'll manage to reach sustained profitability, but if with all of my programming skills I cannot detect a pattern that is a horizontal line on a chart, I might as well stop being a programmer and wash dishes for the rest of my life.
+
+We only have to detect major holds and that will be enough.
+
+One single setup. One powerful pattern to break through to the level of profitability.
+
+If we could have trading pay for itself, then we could start thinking about expanding the playbook, paying for L2 data and so on.
+
+...
+
+As for HMMs, I'll read through the book by Yu and decide whether I want to continue betting on them or whether I want to go back to my old synthetic data generation work.
+
+I just went into HMMs without considering my steps carefully, and for all I know maybe generating synthetic trades at first, and then using that to generate a real life dataset would be a better path.
+
+I shouldn't toss away my initial instinct so lightly. I haven't really given it a try.
+
+We haven't given them a try.
+
+We just decided to leave them aside and started playing Vwap and breakout systems.
+
+***
+
+The book itself is just a dense math book. As a rule, the more math equations there are in a book, the lower its value to me is because I have to understand all that shit to actually use it.
+
+The biggest problem is that the model complexity tops out very early with HMMs. I could add durations, but then I'd have to think about how to quantize them and so on.

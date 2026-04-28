@@ -9009,3 +9009,15 @@ In the back of my mind, I am thinking exactly what I should be doing, and I thin
 Let's says 30 gap up plays from the most recent date in the db with `rvol > 3` and 30 gap plays with `rvol < 1.2`.
 
 I could review those with the help of the hold detector and see where it gets me. Am I really better off looking at stocks in play or are normal stocks a fair target as well?
+
+5:55pm. https://youtu.be/_urG139AM48?t=774
+
+![](images/image-2473.png)
+
+This is pretty interesting actually. Maybe I could use mean reversion as a source of alpha over the long term?
+
+In fact I already discovered some of such patterns in the ORB system. It's mean reverting during the day, but momentum has follow through from close to open overnight.
+
+https://www.qfex.com/
+
+I saw this exchange in a video a couple of days ago and never looked into it.

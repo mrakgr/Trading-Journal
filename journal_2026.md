@@ -8951,3 +8951,61 @@ Surprising Advice From World’s #1 Trading Psychologist (Dr. Steenbarger)
 Speaking to the heart.
 
 Yeah, if I cannot beat trading using my programming skills I am just wasting my time.
+
+4/28/2026
+
+3:30pm. The generative approach combined with NN training is actually working quite well as far as hold detection is concerned. I am thinking of what to do next, and I think I'll do a review of gap up plays to see how often holds appear detected. The system is really good at both detecting points of interest and holds.
+
+3:50pm. 
+
+Music:
+
+Veilcore Music - No.189: https://youtu.be/KD2NaDySkTE
+KageYume - Dark Lord Generals: https://youtu.be/Tb8vfw9VtWE
+EVLSound - Dark Symphonic Cyberpunk Metal: https://youtu.be/UI_tVk8XgGQ
+EVLSound - "Thunder Echo": https://youtu.be/95n0TFOsv90
+
+***
+
+Going into this we weren't sure whether to go back to the old generative approach and give it a chance or to go further afield and try out Hidden Markov Models. Initially we decided to go for the latter, but getting faced with the limitations of Bayesian methods made us do a hard pivot back to neural networks. The deciding factor was all the generative model work we already did up to that point, though we're sure that good hold detectors could also be done using HMMs with sufficient effort.
+
+The results on a single day of BTC that we looked at are quite impressive to tell the truth.
+
+We only trained the net on synthetic data and we had no idea how well it would transfer or how long it would take to train, but it transfers very well, and only a single epoch of 15 minutes is enough to train the net on 10k examples.
+
+The conclusion is that the approach we took in Quantifying Order Flow videos works well for unusual hold detection, which is the most powerful of the patterns taught by SMB in their old courses.
+
+It's pretty comfortable working like this, without any limitations and having things going according to plan. The idea is that instead of buying random breakouts we should be playing the hold patterns in stocks in play instead.
+
+In the next video we'll take the model developed thus far and try applying it on gap up plays. The breakout videos were very instructive and revealed to us that using lookahead volume data has a strong edge, but without that future data data buying breakouts had no edge out of the ordinary. If we use volume thresholding like before, will that affect how often the hold patterns appear? Right now we just don't know, and we need to do more research in order to understand it.
+
+* A powerful GPU.
+* Opus AI assistant.
+* Our own programming skills.
+* The preliminary hold detector results.
+
+Everything is coming together and it is plausible that we will pass this skill check on our programming prowess and attain consistent profitability.
+
+There are other ways to become profitable as a trader, but the author of these videos is good at one thing only.
+
+***
+
+4:05pm. I am rendering the video and in the meantime I wrote this description.
+
+I could have just gone back to programming, but I want to slow down my pace and lower my fatigue. I keep waking up at 6:30am and I keep being so exhausted after every day's programming session.
+
+4:15pm. Let me take a break for the rest of the day.
+
+https://youtu.be/txgPfnXgzcE
+Game Theory #22: Twilight of the Nation-State
+
+https://youtu.be/_urG139AM48
+How to create a Mean Reversion strategy (by ex HFT quant trader)
+
+This later video should be interesting, but I can't resist prof Jiang.
+
+In the back of my mind, I am thinking exactly what I should be doing, and I think I should just get some high volume gap ups and low volume gaps up and.
+
+Let's says 30 gap up plays from the most recent date in the db with `rvol > 3` and 30 gap plays with `rvol < 1.2`.
+
+I could review those with the help of the hold detector and see where it gets me. Am I really better off looking at stocks in play or are normal stocks a fair target as well?

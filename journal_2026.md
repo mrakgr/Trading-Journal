@@ -8940,3 +8940,14 @@ We just decided to leave them aside and started playing Vwap and breakout system
 The book itself is just a dense math book. As a rule, the more math equations there are in a book, the lower its value to me is because I have to understand all that shit to actually use it.
 
 The biggest problem is that the model complexity tops out very early with HMMs. I could add durations, but then I'd have to think about how to quantize them and so on.
+
+4/28/2026
+
+10:55am. https://youtu.be/K2e1Sdpfv7s
+Surprising Advice From World’s #1 Trading Psychologist (Dr. Steenbarger)
+
+> Whatever you've done greatly in your life up to this point, that's what you have to draw on.
+
+Speaking to the heart.
+
+Yeah, if I cannot beat trading using my programming skills I am just wasting my time.

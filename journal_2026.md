@@ -9118,3 +9118,9 @@ Well, holds are likely dead either way, but maybe I can pivot into breakout trad
 The breakout tests that I did didn't go well, but I've never really analized the trades to see what was wrong with them precisely. I should be doing that from here on out.
 
 For now, let me watch the 3 claude videos on the SMB channel. I should focus on analyzing the dominant narrative and learning to trade longer term based off of it. I think the context right now is my biggest weakness. Intraday is mostly noise anyway, what is important is to predict the volume.
+
+4:10pm. https://youtu.be/sh5h0GJzjNk?t=215
+
+![](images/image-2479.png)
+
+Having something like this could be very useful. The fact that my setup is so unprofessional no doubt is a factor in my lack of profitability.

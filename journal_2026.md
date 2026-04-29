@@ -9134,3 +9134,6 @@ They are especially easy to spot on the volume charts.
 Hmmmm...
 
 Ok, I do want to try playing gap ups as intended, but otherwise if 52w highs + higher 4w volume thresholds don't make them much better then why not look for mean reversion trades and spikes?
+
+4:55pm. https://youtu.be/mssPkDuQnmY?t=1440
+> How could we find good data as a retail trader?

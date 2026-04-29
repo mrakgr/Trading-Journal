@@ -9066,3 +9066,8 @@ THis is a very good video. Let me stop here for lunch.
 Here are all the must haves. I am going to track down their FSLY video to see what they had to say about that.
 
 Since holds are a failure, I think I should focus on them. I should especially try improving the on in the middle.
+
+1:10pm. https://youtu.be/jWASPhyn3Po
+The Secret Recipe to Finding Stocks BEFORE They Go Parabolic
+
+This video is on catalyst trading I think. Let me take a look.

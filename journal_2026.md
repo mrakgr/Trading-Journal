@@ -9160,4 +9160,10 @@ I love how easy the Croatian market is to read. My weekly momentum systems would
 
 Yeah, I am going down the wrong path currently. The insight that predicting volume has a huge edge is vital. The answer is to start organizing information and getting a sense for what the market is thinking. Then I can just apply the opening range breakouts in the right places and even go for longer term holds.
 
-I think it's time I slowly allowed myself to get back into the market.
+I think it's time I slowly allowed myself to get back into the market. Not right now.
+
+I need to build the dashboard and my data pipeline so I have it all served on a platter like in the last 3 videos.
+
+https://youtu.be/mssPkDuQnmY?t=1680
+
+I stopped watching this around here, but it's pertinent.

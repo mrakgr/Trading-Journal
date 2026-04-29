@@ -9076,3 +9076,7 @@ https://youtu.be/jWASPhyn3Po?t=226
 > FSLY was doing 200%. We haven't seen this in a very long time.
 
 They say that they are looking at at least 20% volume premarket for earnings plays.
+
+1:30pm. They are talking about acceleration inflection quarters. Stock have the first profitable quarter. Then they have the inflection quarter.
+
+Garrett is saying that if they can find these during the earnings season that is their bread and butter.

@@ -9054,3 +9054,9 @@ I've been meaning to watch this. I might as well do it now.
 11:45am. ![](images/image-2475.png)
 
 This is extremly informative. I wouldn't have thought that they'd put the technical factors so high.
+
+11:55am. ![](images/image-2476.png)
+
+So this is a must have. Interesting.
+
+THis is a very good video. Let me stop here for lunch.

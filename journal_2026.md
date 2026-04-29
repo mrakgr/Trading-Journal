@@ -9167,3 +9167,27 @@ I need to build the dashboard and my data pipeline so I have it all served on a 
 https://youtu.be/mssPkDuQnmY?t=1680
 
 I stopped watching this around here, but it's pertinent.
+
+When the news broke out of the closure of the strait of Hormuz, I could have gone long oil.
+
+![](images/image-2482.png)
+
+There was time. It's not like it was going to reverse.
+
+Yes. The breakout was sure to work had I bothered to understand what is happening in the world.
+
+Whatever, trading with a long term perspective is not going to make me rich, but maybe I could land a job at a hedge fund at some point if I can get good at it.
+
+And I can.
+
+Testing one simplistic system after another isn't going to give me the answer. I need to get more involved with the market.
+
+I know that momentum works on 2-4 week timescales. I just have to do a bit better. I need to think about the news flow. I need to think about what is going on in the world.
+
+Right now, I am like Curtis who had his head buried in the ground.
+
+It's not which static ruleset is right.
+
+The future volume experiment showed me plainly what I have to do. I just need to trade breakouts with the future in mind.
+
+I just need to bet the right amounts, use 2-4 week lows as stops, since there is mean reversion I should get out at the next open instead of the close and so on.

@@ -9045,3 +9045,12 @@ I want to make money sure, but's pointless to do it through lies and deceit.
 10:45am. Ah whatever, I deserve a break after a blow like this. I'll see whether the SMB channel has some ideas for me.
 
 I need to be serious about news. That's one area where I am really weak, and according to some posts on Reddit, that is where hedge funds are systematically undervaluing it in their systems.
+
+https://youtu.be/qqGXLNwcUk0
+The 7 Trading Signals You Can’t Trade Without
+
+I've been meaning to watch this. I might as well do it now.
+
+11:45am. ![](images/image-2475.png)
+
+This is extremly informative. I wouldn't have thought that they'd put the technical factors so high.

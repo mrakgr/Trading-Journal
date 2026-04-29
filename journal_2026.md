@@ -9080,3 +9080,7 @@ They say that they are looking at at least 20% volume premarket for earnings pla
 1:30pm. They are talking about acceleration inflection quarters. Stock have the first profitable quarter. Then they have the inflection quarter.
 
 Garrett is saying that if they can find these during the earnings season that is their bread and butter.
+
+![](images/image-2478.png)
+
+Here is the FSLY revenue and earnings table.

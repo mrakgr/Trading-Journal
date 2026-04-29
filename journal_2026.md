@@ -9071,3 +9071,8 @@ Since holds are a failure, I think I should focus on them. I should especially t
 The Secret Recipe to Finding Stocks BEFORE They Go Parabolic
 
 This video is on catalyst trading I think. Let me take a look.
+
+https://youtu.be/jWASPhyn3Po?t=226
+> FSLY was doing 200%. We haven't seen this in a very long time.
+
+They say that they are looking at at least 20% volume premarket for earnings plays.

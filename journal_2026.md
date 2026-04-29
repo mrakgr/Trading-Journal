@@ -9059,7 +9059,7 @@ This is extremly informative. I wouldn't have thought that they'd put the techni
 
 So this is a must have. Interesting.
 
-THis is a very good video. Let me stop here for lunch.
+This is a very good video. Let me stop here for lunch.
 
 12:25pm. ![](images/image-2477.png)
 
@@ -9084,3 +9084,37 @@ Garrett is saying that if they can find these during the earnings season that is
 ![](images/image-2478.png)
 
 Here is the FSLY revenue and earnings table.
+
+2:25pm. Let me do my exercises.
+
+If only I could...do a proper analysis.
+
+They gave me an idea of how they are grading earnings. They also gave me bullet points for breakout trading. I could also try to look for mean reversion fade trades. That could work much better than holds.
+
+Right now oil stocks had a dip and they will be setting up over the next couple of weeks. I should have time to prepare. I need to get a sense of the narrative.
+
+2:35pm. It really might also be good to quantify trend days in the indices and see if that has an edge.
+
+I really want my first playbook trade to be meaningful.
+
+I want to revisit breakout trading. I know now that there is so much trash on the list that I've been evaluating on.
+
+I should isolate some of the factors like a consolidation pre-breakout and the gap opening into fresh 52 week highs.
+
+How about I pivot and re-adapt the system to look for volatility contraction patterns on the daily timeframe?
+
+I am starting to sense something. If this Iran war doesn't turn into a true bear market, then we'll have to expect a new leg up.
+
+I have my 2 week system still. Energy stocks should be hot. I need to start thinking about news trading and market narrative.
+
+I see no point into putting money into XLE here, but perhaps after it has consolidated for a bit, the second might give me good breakout setups?
+
+4pm. Ok, I have a plan for the next phase of my studies. I'll look at gap ups with a higher minimal volume threshold. I thought I was being smart by lowering it to 25m, but it's just giving me trash instead. I'll also look at gap ups to 52 week highs and see if that changes anything.
+
+The tape these stocks have is just so filthy. It's pure rot. I have far bigger problems than just the lack of holds.
+
+Well, holds are likely dead either way, but maybe I can pivot into breakout trading and mean reversion.
+
+The breakout tests that I did didn't go well, but I've never really analized the trades to see what was wrong with them precisely. I should be doing that from here on out.
+
+For now, let me watch the 3 claude videos on the SMB channel. I should focus on analyzing the dominant narrative and learning to trade longer term based off of it. I think the context right now is my biggest weakness. Intraday is mostly noise anyway, what is important is to predict the volume.

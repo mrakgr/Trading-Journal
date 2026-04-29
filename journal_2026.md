@@ -9021,3 +9021,27 @@ In fact I already discovered some of such patterns in the ORB system. It's mean 
 https://www.qfex.com/
 
 I saw this exchange in a video a couple of days ago and never looked into it.
+
+4/29/2026
+
+10:30am. Yesterday my uncle died at 90 years of age, and now after using the hold detector on stocks in play, it's finding zilch.
+
+It a complete failure. I am feeling pretty down, it's just one bad news after another.
+
+They aren't really stocks in play, but high rvol stocks specifically. A lot of them have pretty low volume.
+
+10:35am. Given how good it was on BTC during that downtrend day, I was hoping that once I moved to stocks I'd find a land of opportunity waiting for me, but I am finding shit instead.
+
+The markets are just so damn difficult.
+
+I guess I could look into broader market trend days next. It's also time to more seriously start thinking about trading the news because if there is any edge in holds, that will be in stocks that have strong news catalysts.
+
+I really want to become a profitable trader. I really hope it won't be the case that the only surefire way of making money in the 7-figure range is to run scams like Tony Evans and Austin Spencer did.
+
+I want to make money sure, but's pointless to do it through lies and deceit.
+
+![](images/image-2474.png)
+
+10:45am. Ah whatever, I deserve a break after a blow like this. I'll see whether the SMB channel has some ideas for me.
+
+I need to be serious about news. That's one area where I am really weak, and according to some posts on Reddit, that is where hedge funds are systematically undervaluing it in their systems.

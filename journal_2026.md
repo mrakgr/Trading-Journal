@@ -9060,3 +9060,9 @@ This is extremly informative. I wouldn't have thought that they'd put the techni
 So this is a must have. Interesting.
 
 THis is a very good video. Let me stop here for lunch.
+
+12:25pm. ![](images/image-2477.png)
+
+Here are all the must haves. I am going to track down their FSLY video to see what they had to say about that.
+
+Since holds are a failure, I think I should focus on them. I should especially try improving the on in the middle.

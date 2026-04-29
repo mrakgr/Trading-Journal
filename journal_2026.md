@@ -9124,3 +9124,13 @@ For now, let me watch the 3 claude videos on the SMB channel. I should focus on 
 ![](images/image-2479.png)
 
 Having something like this could be very useful. The fact that my setup is so unprofessional no doubt is a factor in my lack of profitability.
+
+4:30pm. I have an interesting idea, which is to do the inverse of looking for holds. That would be looking for spikes. I saw a few haven't I?
+
+They are easier to spot than holds in fact.
+
+They are especially easy to spot on the volume charts.
+
+Hmmmm...
+
+Ok, I do want to try playing gap ups as intended, but otherwise if 52w highs + higher 4w volume thresholds don't make them much better then why not look for mean reversion trades and spikes?

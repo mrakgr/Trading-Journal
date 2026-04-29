@@ -9191,3 +9191,13 @@ It's not which static ruleset is right.
 The future volume experiment showed me plainly what I have to do. I just need to trade breakouts with the future in mind.
 
 I just need to bet the right amounts, use 2-4 week lows as stops, since there is mean reversion I should get out at the next open instead of the close and so on.
+
+8:40pm. ![](images/image-2483.png)
+![](images/image-2484.png)
+
+Jason Shapiro is talking about this stock in...
+
+https://youtu.be/2a-X3m9Yo8k
+Why Smart Traders Go Broke?
+
+Holy shit what short squeeze.

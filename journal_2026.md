@@ -9137,3 +9137,27 @@ Ok, I do want to try playing gap ups as intended, but otherwise if 52w highs + h
 
 4:55pm. https://youtu.be/mssPkDuQnmY?t=1440
 > How could we find good data as a retail trader?
+
+5pm. https://youtu.be/mssPkDuQnmY?t=1700
+
+Ok, let me stop here. I had enough for one day.
+
+At least with spikes I absolutely sure that trading them would have an edge.
+
+But I am going to cover more ground when it comes to these gap ups. I am going to deal with that and then move on.
+
+5:35pm. Yes there are various avenues I could follow. I wonder if Sykes' old system would still be valid?
+
+5:50pm. ![](images/image-2480.png)
+
+Dear god, check out this chart. Now this was a fucking selloff.
+
+5:55pm. Yeah, I am not sure that backtesting stuff is going to do the job. Maybe I should be working on my trading dashboard instead? If only buying dumps was as lucrative as shorting pumps. Lance says it's much riskier now than before and I'd rather avoid blowing my account.
+
+6:35pm. ![](images/image-2481.png)
+
+I love how easy the Croatian market is to read. My weekly momentum systems would make short work of it. And look, it's breaking out.
+
+Yeah, I am going down the wrong path currently. The insight that predicting volume has a huge edge is vital. The answer is to start organizing information and getting a sense for what the market is thinking. Then I can just apply the opening range breakouts in the right places and even go for longer term holds.
+
+I think it's time I slowly allowed myself to get back into the market.

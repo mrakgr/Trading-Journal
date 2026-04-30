@@ -9284,3 +9284,7 @@ Yeah, I could try going a bit deeper and into the order book. But that would hav
 https://youtu.be/WFZ9tsETAsE?t=458
 > Understanding the order book is more important than having a strategy.
 > It's more important than psychology. Why?
+
+11:35am. ![](images/image-2489.png)
+
+If you want to analyze microstructure you cannot use this even if it's 1 minutes. Even if it's 1 fucking second.

@@ -9291,3 +9291,7 @@ https://youtu.be/WFZ9tsETAsE?t=458
 ![](images/image-2490.png)
 
 I wonder if tick bars really would be useful?
+
+11:45am. ![](images/image-2491.png)
+
+Oh so that is how they work. Interesting. I feel this guy knows a lot. I'll get in touch with him on Discord later.

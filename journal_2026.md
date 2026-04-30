@@ -9276,3 +9276,7 @@ Clickbait video titles, but that's the Youtube meta. I'll really consider gettin
 
 11:20am. https://youtu.be/WFZ9tsETAsE?t=132
 > If you don't understand the matching engine, you have no chance in the markets.
+
+![](images/image-2488.png)
+
+Yeah, I could try going a bit deeper and into the order book. But that would have to be done on crypto perps as stocks data is far too expensive.

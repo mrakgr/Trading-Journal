@@ -9422,3 +9422,4 @@ Which circles back to why your Bitcoin result is interesting — in that market 
 
 ***
 
+3:05pm. Done with exercises. Let me continue with the videos. I think I'll leave the futures project for tomorrow. Maybe today I'll just deal with the data downloads.

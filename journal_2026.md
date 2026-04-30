@@ -9431,3 +9431,7 @@ Oh the titles of these modules look really interesting.
 ![](images/image-2493.png)
 
 I need to get my hands on this.
+
+![](images/image-2494.png)
+
+I bet you could pass the t-digest centroids into this instead.

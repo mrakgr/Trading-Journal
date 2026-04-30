@@ -9439,3 +9439,31 @@ I bet you could pass the t-digest centroids into this instead.
 > If you want to create AI based strategies, entropy bars are the gold standard.
 
 Oh wow, this channel is a gold mine.
+
+6:05pm. Joined the guy's Discord and read through the docs. It's very interesting and gives me new tools to use. Also found a market impact model, which is actually pretty simple. I'll have to do some studying on what the temporary impact means exactly.
+
+I'll have to think about the imbalance bars and information theoretic bars. Also the order book aggregates.
+
+I think I understand something. The price jumps and the noisiness that I am so afraid of are a consequence of illiquidity.
+
+So maybe for intraday momentum strategies I need to reverse my intuitions. It's all about the execution. I'll try to make my start with futures.
+
+It's not so much that stocks in play don't have hold-like patterns, but the sheer noisiness of them could easily kill the system. It's what killed the Vwap system.
+
+With the Vwap system, maybe it could have worked if I made the volume bars shorter and executed closer to the signal price using market orders.
+
+But, no. I'd really need to trade off of key levels.
+
+A key insight - if the price action on pretty much everything is going to be very random in its nature, then the most important factor I need to care about is liquidity. That is what's going to keep the heavy tails away.
+
+...
+...
+...
+
+Rvol is the wrong thing to care about. Ideally I'd want massive volatility combined with massive dollar volume. A combination of high volatility and liquidity.
+
+I need to look for log returns that are as close to normal as possible. Fat tailedness in returns is a real issue.
+
+A clean tape was one of the must have criteria on the list. That would mean as little variation in the bar to bar volatility as possible.
+
+Yes, that is the key. Volatility needs to be normal and stationary. If it isn't stationary it wouldn't be normal.

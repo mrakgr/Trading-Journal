@@ -9223,3 +9223,40 @@ I could also quantify trend days.
 Let me prep for the next step. I keep getting up very early againt my wish.
 
 As long as I could prepare for the next upleg, that should be enough.
+
+9:45am. Ok, what exactly is my plan here?
+
+I am not sure. Let me write the description for now.
+
+///
+
+Given how great the hold detector worked on BTC, we had strong expectations for how it would perform on stocks in play, but those things are pure noise. Even when we filtered for gap ups above 52 week highs and tightened up the volume filter, order flow behavior is still incredibly noisy. At this point we can't really imagine this working.
+
+The author gets the sense that if he seriously tried daytrading stocks in play using volume charts, he'll get devoured alive by fees and the HFTs.
+
+There is likely to be edge in looking at the L2 data on stocks in play, but that data is very expensive and would require significantly more advanced models that we have access to currently. As far as we know, the L2 data would cost 1500$ per month to get, and it's far from assured that we'd find an edge in it.
+
+But there really was something to this system on BTC, so it might be worth looking into futures trading in the future. We still have to do the trend day quantification at some point.
+
+We should be looking for an edge where the data is cheap and accurate first, so that means our future daytrading system work will be confined to futures, both crypto perpetuals and traditional ones.
+
+At any rate, at the time of writing this 4/30/2026 the stock market is setting up for a new upleg after shaking out all the weak hands during the 9 month long chopfest. We could justify staying out during that time since the 2-4 week momentum systems we intend to use for longer term trading would have just lost money, but now is the time to start paying attention.
+
+We need to become more systematic if not quantitative in how we process the news, and improving our daily process will focus of the next videos. The recent videos on SMB on having Claude act as a trading assistant is very much of interest to us.
+
+Daytrading is always a long shot, but long term momentum trading in the right environment could make us some money while we work on other things during the day.
+
+///
+
+10:20am. https://www.youtube.com/@morphic_labs
+
+Found this guy on the algo subreddit.
+
+10:30am. The video has been uploaded.
+
+https://youtu.be/lrSb75F9Z_c
+Forget the candlesticks! Here's high level technical analysis
+
+![](images/image-2485.png)
+
+I'll watch all of this guy's videos. I need to take a break from programming and reviewing.

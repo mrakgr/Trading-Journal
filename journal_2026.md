@@ -9268,3 +9268,8 @@ This guy is knowledgeable, he clearly has ideas that I've been leaning towards.
 10:45am. ![](images/image-2487.png)
 
 Yep, here are the volume bars I invented. I am glad to see somebody else presenting them.
+
+https://youtu.be/Cu6UrZCKq3M
+Forget The Trendlines! Here's How To Use Mathematical Support And Resistance.
+
+Clickbait video titles, but that's the Youtube meta. I'll really consider getting in touch with him since he is saying that he has a Discord and is looking to teach people one-on-one.

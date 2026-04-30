@@ -9295,3 +9295,99 @@ I wonder if tick bars really would be useful?
 11:45am. ![](images/image-2491.png)
 
 Oh so that is how they work. Interesting. I feel this guy knows a lot. I'll get in touch with him on Discord later.
+
+11:50am. 
+
+***
+
+Do futures markets provide sidedness information?
+
+***
+
+Yes, futures markets provide significantly better sidedness information than equities, for a few structural reasons:
+
+**Centralized, consolidated tape**
+
+Futures trade on a single exchange (CME, ICE, etc.) with a single consolidated order book. Every trade is visible, and because the book is centralized, aggressor-side inference is highly reliable — if a trade hits the ask, it's a buy; if it lifts the bid, it's a sell. There's no venue fragmentation to muddy the picture.
+
+**Direct aggressor flagging**
+
+CME's MDP 3.0 feed (and similar) includes aggressor side directly in the trade message. You get `AggressorSide` as a field — it's not inferred, it's reported. This is the clean signal you've been trying to reconstruct on the equity side via Databento or heuristics.
+
+**No odd lots, no dark pools**
+
+Equity markets have substantial off-exchange volume (dark pools, internalization) and odd lot trades that may not appear on the consolidated tape or that are ambiguous in direction. Futures have none of this — everything clears through the central book, and the printed trade corresponds directly to an order that hit the visible DOM.
+
+**DOM is meaningful**
+
+Because all liquidity is on one venue, the Level 2 book in futures actually represents the true supply/demand picture. The "held bid/offer" pattern you're designing detection logic for is far more straightforward to observe — if size is sitting at a level and aggressor flow keeps hitting it without moving price, that's unambiguous in a way it simply isn't in fragmented equity markets.
+
+---
+
+This is essentially the structural argument for why futures DOM trading is a more tractable problem than equity DOM trading — a point you'd already worked through when you were evaluating Bookmap/Quantower and concluded that equity Level 2 is structurally weaker. The corollary is that if you ever wanted to port your order flow detection framework to ES, NQ, or CL, you'd be working with ground-truth aggressor data from the start rather than having to reconstruct it.
+
+***
+
+I created a NN based unusual hold detector and it worked well on one day of Bitcoin, amazingly well in fact despite the synthetic data generator having nothing to do with Bitcoin, but when I tried them on individual equities it felt like the patterns were pure noise. I am left wondering whether equities really are much harder than Bitcoin perpetual futures, and also whether I should be applying my efforts to the futures markets instead. I am not sure whether the model I had was a one off well selected day in BTC when it had a large move and it had a few hold type patterns, or whether futures really are better. What do you think?
+
+I've always felt resistant to futures because they are much larger and more efficient markets, but the gap ups plays I've looked at felt more like noise than anything else.
+
+***
+
+This is a really important crossroads question, and I think your instincts and observations are pointing at something real. Let me try to reason through it honestly.
+
+**Why your Bitcoin result probably wasn't pure luck**
+
+The fact that a model trained on synthetic data transferred to BTC perpetual futures — even on one day — is meaningful signal. Synthetic-to-real transfer is hard. If the patterns were pure noise in futures too, you'd expect random performance. The more likely explanation is that the microstructure of a centralized, consolidated book with real aggressor flagging actually contains the kind of held-level signatures your generator was trying to model, and the model could find them. That's structural, not coincidental.
+
+**Why equities felt like noise**
+
+This is almost certainly real, not imagined. The fragmentation problem is severe: the same "held bid" in equities might be genuinely held size on one venue, a flickering quote on another, and completely absent on a third — and your tape shows you a blended, ambiguous picture. The aggressor side you're inferring is at best 80-90% correct, and the errors aren't random — they're systematically correlated with exactly the high-activity moments you care about. Your model is trying to learn patterns in data that is fundamentally noisier at the source.
+
+**The efficiency objection deserves scrutiny**
+
+Your resistance to futures because they're "more efficient" is worth unpacking. ES and NQ are extremely efficient at the macro level — you're not going to find mispricings there. But what you're after isn't mispricing, it's short-term order flow imbalance detection — essentially predicting the next few seconds of price direction based on aggressive participation patterns. That kind of microstructure alpha exists even in highly efficient markets, because efficiency is about information incorporation over minutes/hours, not about the millisecond-to-second dynamics of how a large order gets worked. Prop firms print money on ES intraday. The edge is small per trade but the signal quality is high.
+
+**The gap-up plays feeling like noise**
+
+This is a different problem — that's more about catalyst-driven small-cap setups, which is a regime/selection problem rather than a microstructure problem. The fact that those felt noisy to you doesn't necessarily indict futures microstructure trading, which is a different game entirely.
+
+**What I'd actually suggest**
+
+Try one clean experiment: take your detector, apply it to a week of ES or NQ with real aggressor-side data from CME's feed (or Databento which has it cleanly), and compare the pattern clarity to what you're seeing in equities. If the held-level signatures in futures look as clean as they did in BTC, that's your answer — the microstructure is real and transferable, and you've been fighting an uphill battle with equity data quality.
+
+The deeper question is whether you're more attached to the small-cap equity thesis as a business model (prop firm backing, etc.) or to actually building something that works. Those might point in different directions.
+
+***
+
+Was the stock market fragmentation always this bad?
+
+***
+
+No, it got dramatically worse in a fairly short period. The story is roughly:
+
+**Pre-2000s: Mostly consolidated**
+
+NYSE and NASDAQ were dominant, specialists/market makers had defined roles, and while there were regional exchanges they were marginal. The picture wasn't perfect but it was coherent — you could read the tape meaningfully.
+
+**Reg NMS (2005) broke it open**
+
+The SEC's Regulation National Market System was well-intentioned — it mandated best execution across venues and banned trading at inferior prices. But the practical effect was to make fragmentation not just legal but structurally incentivized. Once you guaranteed that orders would be routed to the best displayed price regardless of venue, you created a reason for dozens of venues to exist and compete on speed, rebates, and order types. The number of lit exchanges exploded from a handful to over a dozen, and dark pools proliferated on top of that.
+
+**The maker-taker rebate system poured fuel on it**
+
+Exchanges competed for order flow by paying rebates to liquidity providers and charging takers. This created a situation where brokers had financial incentives to route to specific venues independent of what was best for price discovery. It also meant that the same stock was being quoted simultaneously across venues with subtly different effective prices after rebates.
+
+**By 2010 the damage was done**
+
+Post-Flash Crash analysis revealed just how fragmented and brittle the structure had become. By that point you had 13+ lit exchanges, dozens of dark pools, and internalization by broker-dealers handling a huge chunk of retail flow — all of it printing to a consolidated tape that gave you a blended, reconstructed picture of what had actually happened across dozens of venues.
+
+**The contrast with Bitcoin is stark precisely because crypto never had a consolidation phase** — it was born fragmented across independent exchanges with no consolidated tape at all, but at least each individual venue (Binance, Bybit, the perpetual futures books) is internally coherent and gives you clean aggressor data within that venue.
+
+So your intuition that equities "used to be" more readable is correct — the specialist era NYSE tape was genuinely more informative about intent than what you're looking at today.
+
+***
+
+I had a feeling it would say that I should try it on ES or NQ. And I really should take on this challenge. I admit, I am afraid, but I should go for it.
+
+I never thought that I might become a futures trader, but if that makes me money then so be it.

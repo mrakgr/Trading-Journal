@@ -9283,3 +9283,4 @@ Yeah, I could try going a bit deeper and into the order book. But that would hav
 
 https://youtu.be/WFZ9tsETAsE?t=458
 > Understanding the order book is more important than having a strategy.
+> It's more important than psychology. Why?

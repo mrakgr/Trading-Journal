@@ -9201,3 +9201,11 @@ https://youtu.be/2a-X3m9Yo8k
 Why Smart Traders Go Broke?
 
 Holy shit what short squeeze.
+
+4/30/2026
+
+6:35am. I've gotten the wake up signal from the market. It's telling me to prepare for the next upleg. At worst, I'll wait a month and then buy cloud stocks like NBIS, CRWV and NVTS. Right now it's not quite the time to enter, it won't just blast off like that. It needs time to setup.
+
+In the meantime, I am going to see if I can do better data analysis and also go back to backtesting breakouts. I should see if volatility contraction patterns and gap up opens into 52 week highs work.
+
+Forget spikes, I should be preparing for the next momentum phase in the markets.

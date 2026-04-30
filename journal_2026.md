@@ -9435,3 +9435,7 @@ I need to get my hands on this.
 ![](images/image-2494.png)
 
 I bet you could pass the t-digest centroids into this instead.
+
+> If you want to create AI based strategies, entropy bars are the gold standard.
+
+Oh wow, this channel is a gold mine.

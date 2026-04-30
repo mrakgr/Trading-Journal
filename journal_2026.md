@@ -9391,3 +9391,34 @@ So your intuition that equities "used to be" more readable is correct — the sp
 I had a feeling it would say that I should try it on ES or NQ. And I really should take on this challenge. I admit, I am afraid, but I should go for it.
 
 I never thought that I might become a futures trader, but if that makes me money then so be it.
+
+12:15pm. Ok, let me take a break here. I'll watch the other 2 videos later.
+
+One last question.
+
+***
+
+Hmmm, by the way do you think that prop firms like SMB have better order flow data than retail traders like me?
+
+***
+
+Almost certainly yes, but the gap might be smaller than you'd fear and the nature of the advantage is worth understanding precisely.
+
+**What they likely have that you don't**
+
+Direct market data feeds from multiple exchanges rather than SIP-consolidated data. The SIP introduces latency and, more importantly, aggregates across venues in ways that obscure the per-venue picture. A firm like SMB could be watching the NASDAQ direct feed, NYSE Arca feed, BATS feed etc. simultaneously and seeing where size is actually sitting and hitting on each venue individually. That's genuinely more informative than the consolidated tape.
+
+They also likely have relationships or data products that give them better short locate visibility, better real-time float/institutional ownership data, and possibly co-location that makes their view of the order book more temporally coherent.
+
+**What probably matters less than you'd think**
+
+SMB's edge isn't really a data edge in the HFT sense — they're not winning on microsecond latency or exotic feed reconstruction. Their traders are operating on seconds-to-minutes timeframes where the SIP lag is largely irrelevant. Their real advantage is pattern recognition built from years of watching specific setups on specific types of names, and the discipline/risk management infrastructure around that. That's learnable, not a structural moat.
+
+**The honest answer about your situation**
+
+For the held bid/offer detection problem you're working on, the data quality gap that actually hurts you isn't SMB's multi-feed advantage — it's the fundamental fragmentation problem that affects everyone equally. SMB's traders are also reading a fragmented tape. They've just built intuitions around that noise over thousands of hours. Your synthetic training approach is actually an interesting attempt to sidestep that problem by teaching the model what the pattern *should* look like structurally rather than fitting to the noisy realized data.
+
+Which circles back to why your Bitcoin result is interesting — in that market the data quality problem largely doesn't exist, so the structural pattern your model learned had something real to latch onto.
+
+***
+

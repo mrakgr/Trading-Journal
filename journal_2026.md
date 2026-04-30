@@ -9273,3 +9273,6 @@ https://youtu.be/Cu6UrZCKq3M
 Forget The Trendlines! Here's How To Use Mathematical Support And Resistance.
 
 Clickbait video titles, but that's the Youtube meta. I'll really consider getting in touch with him since he is saying that he has a Discord and is looking to teach people one-on-one.
+
+11:20am. https://youtu.be/WFZ9tsETAsE?t=132
+> If you don't understand the matching engine, you have no chance in the markets.

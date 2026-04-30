@@ -9280,3 +9280,6 @@ Clickbait video titles, but that's the Youtube meta. I'll really consider gettin
 ![](images/image-2488.png)
 
 Yeah, I could try going a bit deeper and into the order book. But that would have to be done on crypto perps as stocks data is far too expensive.
+
+https://youtu.be/WFZ9tsETAsE?t=458
+> Understanding the order book is more important than having a strategy.

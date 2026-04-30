@@ -9209,3 +9209,17 @@ Holy shit what short squeeze.
 In the meantime, I am going to see if I can do better data analysis and also go back to backtesting breakouts. I should see if volatility contraction patterns and gap up opens into 52 week highs work.
 
 Forget spikes, I should be preparing for the next momentum phase in the markets.
+
+9:15am. Let me end the video here.
+
+After doing the review, my honest impression is that stocks are incredibly noisy and I cannot beat them intraday. I honestly felt that BTC was far more clear and readable during the one day that I looked at it.
+
+Maybe, just maybe I should do research on futures trading?
+
+With stocks I am liable to get devoured by fees, but futures have centralized info, meaning no hidden orders and proper sidedness info plus it's much cheaper and easier to get. I could make use of that.
+
+I could also quantify trend days.
+
+Let me prep for the next step. I keep getting up very early againt my wish.
+
+As long as I could prepare for the next upleg, that should be enough.

@@ -9264,3 +9264,7 @@ I'll watch all of this guy's videos. I need to take a break from programming and
 10:40am. ![](images/image-2486.png)
 
 This guy is knowledgeable, he clearly has ideas that I've been leaning towards.
+
+10:45am. ![](images/image-2487.png)
+
+Yep, here are the volume bars I invented. I am glad to see somebody else presenting them.

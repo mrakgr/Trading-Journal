@@ -9427,3 +9427,7 @@ Which circles back to why your Bitcoin result is interesting — in that market 
 3:20pm. ![](images/image-2492.png)
 
 Oh the titles of these modules look really interesting.
+
+![](images/image-2493.png)
+
+I need to get my hands on this.

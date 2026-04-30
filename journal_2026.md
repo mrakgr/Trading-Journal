@@ -9286,5 +9286,8 @@ https://youtu.be/WFZ9tsETAsE?t=458
 > It's more important than psychology. Why?
 
 11:35am. ![](images/image-2489.png)
+> If you want to analyze microstructure you cannot use this even if it's 1 minutes. Even if it's 1 fucking second.
 
-If you want to analyze microstructure you cannot use this even if it's 1 minutes. Even if it's 1 fucking second.
+![](images/image-2490.png)
+
+I wonder if tick bars really would be useful?

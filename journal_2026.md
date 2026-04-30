@@ -9467,3 +9467,74 @@ I need to look for log returns that are as close to normal as possible. Fat tail
 A clean tape was one of the must have criteria on the list. That would mean as little variation in the bar to bar volatility as possible.
 
 Yes, that is the key. Volatility needs to be normal and stationary. If it isn't stationary it wouldn't be normal.
+
+6:40pm.
+
+***
+
+Is it possible to measure how close a distribution is to normal? After some thinking, rvol is the wrong thing to care about when evaluating which stock to trade. What is important is that the tape is clean, and that means the moves should be smooth. And how smooth the moves are depends on the amount of abnormal large moves on the timeframe being evaluated.
+
+***
+
+Yes, absolutely — measuring deviation from normality is a well-developed area, and your intuition here is sharp. The thing you're describing — "clean tape" as smoothness, smoothness as absence of abnormal large moves — is essentially **excess kurtosis** plus possibly **tail index** estimation. Let me break down the practical options.
+
+## The core insight you've arrived at
+
+Returns distributions for "clean" tape look closer to Gaussian (or at least closer to a thin-tailed distribution), while "junky" tape with halts, gappy prints, sweeps, and air pockets has fat tails and possibly skewness. RVOL tells you *how much* trading is happening, not *how orderly* it is. You can have a high-RVOL name that's a complete mess (e.g., a halt-and-resume biotech pumping on news) and a moderate-RVOL name that grinds beautifully.
+
+## Tests and metrics, ranked by usefulness for your case
+
+**1. Excess kurtosis (probably your single best signal)**
+
+Sample kurtosis of log returns over your evaluation window. Normal distribution has kurtosis = 3 (excess kurtosis = 0). Clean trending tape will typically show excess kurtosis in a low range; junky tape with abnormal prints can hit 10, 20, 50+. This is directly measuring "how much do the tails dominate," which is exactly your concern about abnormal large moves.
+
+The catch: sample kurtosis is itself extremely high-variance and dominated by the largest few observations — which is both a feature (it's sensitive to exactly what you care about) and a bug (one print can swing it dramatically). For a streaming version you'd want a robust variant.
+
+**2. Jarque-Bera test**
+
+Combines skewness and kurtosis into a single statistic: JB = (n/6)(S² + (K-3)²/4). Asymptotically chi-squared with 2 df. Gives you a p-value for "is this Gaussian." For your purposes you probably don't care about the p-value per se — you care about the *magnitude* of JB as a continuous score of non-normality.
+
+**3. Anderson-Darling test**
+
+More powerful than Kolmogorov-Smirnov, weights the tails more heavily, which is what you want. The AD statistic itself is a usable continuous score.
+
+**4. Shapiro-Wilk**
+
+The gold standard for normality testing in small samples, but doesn't scale well past a few thousand observations and isn't streaming-friendly. Probably not what you want for tape evaluation.
+
+**5. Hill estimator / tail index**
+
+If you already believe the distribution isn't Gaussian and want to characterize *how* fat the tails are, fit a power-law tail and estimate α. Lower α = fatter tails = more abnormal moves. This is more of a diagnostic than a tradeable signal but useful for cross-sectional ranking of tape quality.
+
+**6. Robust alternatives worth knowing about**
+
+- **MAD / σ ratio**: ratio of mean absolute deviation to standard deviation. For a Gaussian this is √(2/π) ≈ 0.7979. Departures from this signal non-normality and it's much more robust than kurtosis.
+- **Bowley skewness / Moors kurtosis**: quantile-based versions of skewness and kurtosis. Use IQR and other quantiles instead of moments. Way more robust to outliers, which paradoxically makes them less reactive to the exact thing you're measuring — but useful as a stable baseline.
+
+## Practical recommendation for your pipeline
+
+For ranking "tape cleanliness" across stocks intraday, I'd suggest a composite:
+
+1. **Excess kurtosis** of log returns over your evaluation window (say, 1-second or 1-minute bars) — primary signal.
+2. **Count of |z-score| > 4 events** normalized by window length — direct count of abnormal moves, very interpretable, no distributional assumptions.
+3. **Realized variance vs. bipower variation ratio** — this is the Barndorff-Nielsen / Shephard jump test. If the ratio is far from 1, jumps are dominating. This is *purpose-built* for separating continuous price evolution from jumps, which is almost exactly your "smooth moves vs. abnormal large moves" framing.
+
+That third one — **bipower variation** — might be the most aligned with what you actually want. The intuition: realized variance sums squared returns (so a single huge return contributes a lot), while bipower variation sums products of *adjacent absolute returns* (so a single huge return only gets paired with its neighbors and its contribution is bounded). The ratio quantifies "how much of the variance is coming from jumps vs. continuous diffusion." High ratio = junky tape, ratio near 1 = clean diffusive tape.
+
+Given you're already in the order flow / microstructure literature, the BN-S jump test is probably the most academically grounded version of what you're reaching for. Worth reading their 2004 and 2006 papers if you haven't.
+
+## One caveat
+
+Returns distributions in equities are *never* truly Gaussian even on the cleanest names — there's always some leptokurtosis from microstructure noise, and at very fine timescales the discrete tick structure breaks Gaussianity outright. So the question isn't really "is this Gaussian" (the answer is always no with enough data) but "how *close* is this to Gaussian relative to other names I could trade." Cross-sectional ranking on whatever metric you pick is more useful than absolute thresholds.
+
+***
+
+Yes...
+
+![](images/image-2495.png)
+
+I keep looking towards rvol to give me an edge, but I am thinking about it the wrong way. Take a look at how many shares BYND traded in the absolute sense. And just how volatile it was relative to that volume. That is edge.
+
+It's not rvol being 10x or 3x.
+
+If a stock is going to move 100% per day and trade 1b shares those would mean a lot of smooth moves. That means I could use an active system like the Vwap one to profit from it, assuming I could deal with the execution side of things better.

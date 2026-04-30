@@ -9260,3 +9260,7 @@ Forget the candlesticks! Here's high level technical analysis
 ![](images/image-2485.png)
 
 I'll watch all of this guy's videos. I need to take a break from programming and reviewing.
+
+10:40am. ![](images/image-2486.png)
+
+This guy is knowledgeable, he clearly has ideas that I've been leaning towards.

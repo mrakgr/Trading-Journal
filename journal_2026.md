@@ -9873,3 +9873,6 @@ Ok, this is good to know. I was going to open an account there. I guess I'll do 
 
 https://youtu.be/m9Ay_8B5FFg?t=4688
 > I've paid a bunch of the scammy idiots in the first market wizards book to teach me to trade.
+> And they were assholes. There's a bunch of frauds in those books.
+
+Lol.

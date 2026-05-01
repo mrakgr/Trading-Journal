@@ -9870,3 +9870,6 @@ https://youtu.be/m9Ay_8B5FFg?t=3536
 > They are shitty business and they have shitty practices - they fucked their customers and they fucked their market makers.
 
 Ok, this is good to know. I was going to open an account there. I guess I'll do more research. Maybe I'll even get in contact with this guy.
+
+https://youtu.be/m9Ay_8B5FFg?t=4688
+> I've paid a bunch of the scammy idiots in the first market wizards book to teach me to trade.

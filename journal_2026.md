@@ -9817,3 +9817,13 @@ This isn't legal or tax advice. Get someone local who has actually filed for act
 
 ***
 
+10:40am. ![](images/image-2496.png)
+
+Lol, I have to watch this. Oh holy shit, I can't believe it's Friday already. I guess I'll be taking a break today.
+
+https://youtu.be/m9Ay_8B5FFg
+“It’s the Dumbest Market in the World” - Quant Trader Scott Phillips on Edge in Crypto
+
+I am doing the futures pivot anyway, and I'll have to restart my modeling work with order flow sidedness in mind.
+
+First, I think I'll get a lot more data from Binance - I'll make it my exchange of choice and move from there.

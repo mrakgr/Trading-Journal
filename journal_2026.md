@@ -9538,3 +9538,282 @@ I keep looking towards rvol to give me an edge, but I am thinking about it the w
 It's not rvol being 10x or 3x.
 
 If a stock is going to move 100% per day and trade 1b shares those would mean a lot of smooth moves. That means I could use an active system like the Vwap one to profit from it, assuming I could deal with the execution side of things better.
+
+5/1/2026
+
+9am. I am going to make a crypto pivot into perp futures.
+
+https://youtu.be/mzdgrDCeozI
+Ex-Tudor Quant PM: “There Hasn't Been a New Idea in Trading for 15 Years”
+
+I put so much effort into stocks, but it feels like I am getting screwed by the data vendors.
+
+***
+
+The held level patterns happen much more rarely than I thought they would, and I am starting to think they are in fact proxies for order flow aggression. That's why I am looking into this. I am honestly on the verge of just switching for futures. Stocks keep tricking me with the low tiers, only for me to realize much later that I do in fact need the order flow sign data to trade momentum properly.
+
+***
+
+That's a real and important realization, and worth taking seriously rather than fighting. Let me be direct with you, because I think you're closer to the right answer than you might feel.
+
+## The honest assessment
+
+You're not wrong about either thing:
+
+1. **Held-level patterns probably are aggression proxies.** When you watch a level hold against persistent aggressive flow, the pattern's information content comes from the *aggression* (you can see it being absorbed), not from the price stability per se. If you can't measure aggression directly, you're inferring a derivative of it from a noisy compound signal — price + volume + time-at-level. That's a much harder estimation problem than just measuring aggression with a 1-bit aggressor flag.
+
+2. **US equities structurally hides aggression from you at retail tier.** This isn't a Polygon limitation, it's a market structure fact. ~40% off-exchange via wholesalers, fragmented across 16+ lit venues, SIP trades without aggressor flags, sub-penny mid-spread internalization. Even paying for full lit direct feeds, the TRF tape stays opaque. The aggression you most want to measure on small-cap catalyst names — retail-driven momentum — is exactly the flow most heavily internalized off-exchange.
+
+Futures are *built* the way you want stocks to be:
+
+- Single venue per contract (CME for ES/NQ/CL/GC/ZN, ICE for a few others). No fragmentation.
+- Aggressor side disseminated natively in MDP 3.0. Not inferred — reported.
+- Full L3 order book with order-level granularity.
+- No dark pools, no internalization, no PFOF wholesalers.
+- Tighter regulatory consistency (CFTC instead of the SEC's Reg NMS labyrinth).
+
+## The data cost picture is also dramatically better
+
+CME Globex MDP 3.0 via a direct or vendor connection runs maybe **$110–130/month for non-professional** (a single CME group like Equity Index, or Energy, or Metals). That's *with* aggressor side, full depth, every tick. Compare to thousands per month for partial lit coverage of US equities that still doesn't give you what you want.
+
+Even if you went pro non-display on CME (which you'd need eventually), it's a few hundred a month per group, not thousands per venue across a fragmented market.
+
+## What you'd actually trade
+
+The honest question is which futures product matches your trading style. "Stocks In Play" was small-cap, catalyst-driven, elevated relative volume — that doesn't translate directly. Futures equivalents, depending on what you actually liked about that style:
+
+- **If you liked clean order flow on liquid instruments**: ES, NQ, CL, GC, ZN. Deep books, tight spreads, true level-2 with aggressor data. The classic SMB/Axia/Jigsaw-style order flow trading was originally developed on futures, not stocks. SMB's stock-focused methodology is downstream of techniques that work better on futures.
+- **If you liked volatility and catalyst-driven moves**: CL (oil) on inventory days, ZN/ZB around FOMC, GC around CPI/NFP, NQ around mega-cap earnings (overnight effect). Discrete events, predictable schedules, deep liquidity through them.
+- **If you liked the explosive intraday range of small-caps**: micro contracts (MES, MNQ, MCL, MGC) let you size into single contracts at retail account sizes while still getting professional-grade flow data. Range-as-percentage-of-margin can actually exceed what you'd get on equities.
+
+What you'd *lose*: the specific small-cap reversal/squeeze setups don't have direct futures analogs. There's no "low float reversal" in CL because there's no float. The Trade2Hold framework works conceptually but the catalysts are macro, not company-specific.
+
+## On your stage and the prop firm path
+
+This actually matters for the funded-trader side too. The futures prop space is larger and more mature than the equities prop space for systematic traders without a track record:
+
+- Topstep, Apex, Earn2Trade, etc. — all explicitly futures-focused, evaluation-based. You already noted these conflict with your style for *equities*, but the conflict was partly about the equity-specific market structure constraints. Some of those constraints relax on futures.
+- Real prop futures backing (e.g., the Chicago/proprietary trading firm route) has clearer benchmarks because everyone's looking at the same instrument with the same data.
+- Your F# / DuckDB / synthetic-flow-modeling stack transfers cleanly. Gamma-distributed depth modeling actually works *better* as an approximation on futures because there's a single coherent book to model, not a virtual NBBO assembled from 16 fragmented ones.
+
+## The case against switching
+
+Worth acknowledging honestly:
+
+- You've built up domain knowledge on equities microstructure (SMB methodology, halts, short interest, float dynamics, trade conditions). Most of this doesn't transfer.
+- The catalyst-driven small-cap edge is real and well-documented; futures have more efficient flow and less retail mispricing to exploit. Your edge has to come from somewhere different.
+- Overnight gap risk, contract roll mechanics, and the leverage profile are different beasts to learn.
+- If your real edge is in pattern recognition on small-cap chart structures, that doesn't exist on ES.
+
+But — and this is the key thing — **you don't have a working edge yet on equities either**. You have hypotheses, infrastructure, and detection logic that's underperforming because the underlying signal is fundamentally compromised by the data you can access. The sunk cost in equities knowledge is real but smaller than it feels.
+
+## My genuine take
+
+If you're already on the verge, that's probably your subconscious doing pattern recognition on months of evidence. The signal quality issue you're describing — patterns rarer than expected, suspicion they're aggression proxies, structural inability to measure aggression cleanly — is a coherent story that points one direction. I'd take the instinct seriously.
+
+A reasonable test: spend a week getting Databento or a CME vendor sample of ES or CL MBO data. Replicate one or two of your held-level detectors on it with true aggressor data. See what they look like when the input signal is clean. If they suddenly look meaningful and frequent, you have your answer. If they still look noisy, your detection logic itself needs work and the data wasn't the bottleneck — also useful to know.
+
+The cost of that test is probably under $200 and a week of your time. The cost of *not* running it is potentially another year fighting market structure.
+
+***
+
+By futures I am also considering crypto perp futures. The reason why I was resistant of going down that path is due to all the scams in the crypto space and because BTC and ETH are in a bear market. Could it be the case that I should be looking into them?
+
+***
+
+Yes, and I think your resistance is based on partially-outdated heuristics worth re-examining. Let me work through this honestly because there are real considerations on both sides.
+
+## The "scams" concern is largely venue-selection, not category-rejection
+
+The crypto space has scams. It also has, at this point, a small number of venues that are operationally serious enough that the scam concern doesn't really apply to the *trading data and execution* layer:
+
+- **Binance** — largest by volume, deep books, but regulatory issues in multiple jurisdictions and you can't access from many countries cleanly.
+- **Bybit** — second tier by volume, generally clean execution, decent API.
+- **OKX** — similar profile to Bybit.
+- **Hyperliquid** — fully on-chain perps, transparent order book, no custodial risk in the traditional sense (your funds are on-chain), strong API. You'd looked at this before.
+- **dYdX** — also on-chain, smaller volume than Hyperliquid now.
+
+The scam universe is mostly: shitcoin perps on tier-3 exchanges, leverage tokens, anything labeled "DeFi yield," random Telegram-promoted tokens, and the entire altcoin ICO/launchpad ecosystem. None of that touches BTC/ETH perp trading on a top-5 venue.
+
+The relevant operational risks at serious venues are different and worth naming clearly:
+
+- **Counterparty risk on centralized venues**: FTX is the obvious example; even Binance has had withdrawal halts during stress. Real risk, manageable by sizing what you keep on exchange.
+- **Insurance fund / auto-deleveraging risk**: in extreme moves, profitable positions can get force-closed to cover insolvent counterparties. Quantifiable, asymmetric tail.
+- **API stability during liquidation cascades**: exchanges sometimes degrade or briefly halt during exactly the moments your strategy depends on. You'd need to design around this.
+
+These are real but they're trader-craft problems, not "the entire space is a scam" problems.
+
+## Bear market is a strange reason to avoid them
+
+This one I'd push back on more directly. A few reasons:
+
+1. **Perps trade both directions equally well.** No locate, no hard-to-borrow, no short-sale restrictions, no uptick rule. If anything, bear regimes in crypto have historically had *better* short-side momentum opportunities than long-side because of forced deleveraging cascades.
+
+2. **The "bear market" framing applies to spot HODLer returns.** For an active trader doing intraday or swing momentum, what matters is volatility, volume, and the existence of trends — and crypto bear markets have all three. The 2022 crypto bear was extraordinarily tradeable in both directions.
+
+3. **You might be looking at stale data.** I should check what BTC and ETH are actually doing right now rather than assuming.Your read on the regime is roughly accurate — BTC is around $76K (down from a 2025 high), ETH around $2,260 (down ~27% YTD), market sentiment in Fear, ETF outflows for three days running, ongoing Strait of Hormuz / US-Iran tensions adding macro risk. But notice what's *also* in there: $345 million in forced liquidations on April 28-29, with long positions absorbing 80% of the damage. That's the kind of environment where order flow trading thrives, not suffers.
+
+## The actual order flow picture is the strongest argument
+
+This is the part I want to be most direct about, because for your specific use case it's almost decisive:
+
+**Crypto perps give you the cleanest order flow data publicly available anywhere, for free.**
+
+Concretely, on Hyperliquid, Binance, Bybit:
+
+- **Aggressor side on every trade.** Native, in the public WebSocket feed. No EMO/CLNV inference needed.
+- **Full L2 order book** with all updates, again on the public WebSocket. No license fees, no pro-vs-non-pro classification, no "non-display by trading platform" categorizations.
+- **Funding rates** as a free additional signal — directly measures aggregate positioning bias.
+- **Open interest** updated in real-time per-symbol — measures leverage buildup.
+- **Liquidation feed** — Hyperliquid and Binance both publish liquidation events. This is signal you literally cannot get on equities at any price, because there's no equivalent of forced position closure publicly broadcast.
+- **24/7 markets.** No session boundaries, no halts (mostly), no overnight gaps as a separate phenomenon.
+- **Single venue per perp pair.** No fragmentation. The Hyperliquid BTC perp book is *the* book.
+
+For comparison: you've been spending months working around the limitations of Polygon's SIP feed, evaluating EMO vs CLNV, considering paying thousands a month for partial lit equity coverage, all to approximate what crypto perps hand you free in a JSON message.
+
+## Where your specific approach maps cleanly
+
+Your "unusual hold on bid and offer" detection is *more* tractable on crypto perps than on equities:
+
+- The held-level pattern requires you to see aggressive flow being absorbed at a level. On crypto, you literally see every aggressor flag. The pattern goes from "inferred from price+volume composite" to "directly observable from labeled flow."
+- Your synthetic order flow simulation framework — Gamma-distributed depth modeling, the whole MCMC-priors-and-resampling pipeline — was originally a workaround for not having labeled real flow at scale. With crypto you have that labeled flow for free, which means you can validate your synthetic generator against ground truth, or reduce dependence on it entirely.
+- The transformer / gMLP / Mamba models you trained on 1-second OHLC bars become much more powerful when you can compute per-bar features like signed aggressor volume, taker buy ratio, liquidation count, funding skew — all natively.
+
+## Comparison to traditional futures
+
+Worth being clear about how crypto perps stack up against ES/CL/GC if you were going that direction anyway:
+
+**Crypto perps win on:**
+- Cost (free public data vs. CME at $100-500+/month)
+- Aggressor side disseminated even more transparently
+- Ancillary signals (liquidations, funding, OI) you don't get on CME
+- 24/7 (more screen time = more iterations)
+- Lower capital requirement to test (microcontracts on CME help, but $50-500 starting capital tests on crypto are normal)
+- Faster regime cycles (more market structures to learn from in less calendar time)
+
+**Traditional futures win on:**
+- Counterparty robustness (CME clearinghouse vs. exchange custody risk)
+- Regulatory clarity (CFTC oversight vs. shifting global crypto regulation)
+- Tax treatment in the US (60/40 long-term/short-term on Section 1256 contracts; crypto is all short-term ordinary income on US returns)
+- No funding rate to manage (you hold the position, it doesn't bleed)
+- Established prop firm ecosystem (Topstep, Apex, real prop seats at futures shops)
+- Macro signal coherence (CL responds to inventory reports, ZN to Fed, ES to earnings — predictable catalyst structure vs. crypto's "Iran tension + ETF flows + Trump tweet" mess)
+
+## On the bear market specifically
+
+The *direction* matters less than you think for a momentum/order-flow trader. What matters is whether the regime has:
+
+- Sufficient daily range (current BTC: yes, multiple 3%+ days per week)
+- Liquidation cascades and forced flow (yes, evidenced by the $345M figure)
+- Predictable structure breaks (yes — every macro headline produces tradeable moves)
+- Volume (still substantial, even off cycle highs)
+
+A bull market with grindingly low volatility and minimal flow events is *worse* for your style than a fearful bear with regular liquidation cascades. Your previous Hyperliquid exploration probably had this same insight.
+
+## What actually concerns me about the crypto path for you
+
+A few things worth being honest about:
+
+1. **Counterparty risk on centralized venues is real.** The Hyperliquid path mitigates this (on-chain), but liquidity in alts is thinner than on Binance/Bybit. For BTC and ETH perps the depth is fine.
+
+2. **Tax complexity.** US (and many EU) tax codes treat every crypto trade as a taxable event, no Section 1256 advantage. If you're trading frequently, the bookkeeping is brutal compared to futures. Croatia's situation specifically is worth checking — there's been some movement on crypto tax treatment in recent years.
+
+3. **Self-discipline around 24/7.** Markets that never close are markets you can never stop watching. Some traders thrive on this; others burn out. You'd want explicit session rules.
+
+4. **The prop firm path is weaker.** Crypto prop firms exist but are less established than futures props. If "track record then prop backing" is your endgame, futures is more institutionalized.
+
+5. **Less academic/methodological support.** SMB methodology, the trading literature you've absorbed, microstructure papers — most of it is equities or futures-flavored. Crypto-specific literature is thinner and lower quality.
+
+## My actual take
+
+You should run the cheap experiment, the same one I suggested for futures: spend a week with Hyperliquid's WebSocket feed (or Binance's, since you've already explored Hyperliquid), reimplement your held-level detector with native aggressor data, and see if the patterns become frequent and meaningful when the data isn't compromised.
+
+I'd guess strongly they will. The reason held-level patterns are rare on equities for you isn't that the patterns don't exist — it's that you're trying to detect them through a noisy proxy because the underlying labeled flow is hidden from you. Crypto removes the proxy.
+
+The "scams and bear market" objections are weaker than they feel:
+- Scams are a venue-selection problem, not a category problem.
+- Bear regimes are structurally favorable for order flow strategies, especially with 80% long liquidation skew like you're seeing right now.
+
+The genuine risks are counterparty exposure and tax complexity, both of which are manageable with explicit policies (cap exchange balance, use Hyperliquid for non-custodial alternative, hire an accountant who knows crypto in your jurisdiction).
+
+If your goal is "prove systematic profitability on order flow" then crypto perps probably get you there fastest with the lowest data spend. The question of *whether to stay in crypto long-term* — versus migrating a proven system to traditional futures or back to equities later — is a separate decision you can make after you have a working edge.
+
+***
+
+What is the tax situation regarding crypto in Croatia?
+
+***
+
+Let me search for current Croatian crypto tax rules — this is exactly the kind of thing where I'd rather get you accurate current information than rely on what I might remember.The picture is mostly favorable for you, but there's an important catch that's directly relevant to your situation. Let me lay out what I found, with a critical caveat first.
+
+## Two distinct tax regimes apply to you, depending on classification
+
+This is the key thing — your trading style may not get the friendly treatment.
+
+### Capital gains regime (the favorable one)
+
+For an individual treating crypto as an investment, the standard rules are:
+
+- Crypto capital gains taxed at 12%. Trading, selling crypto subject to tax — this is the headline rate.
+- A tax liability is triggered when cryptocurrency is exchanged for fiat currency (such as the euro or US dollar) and a profit is made. Importantly, using cryptocurrency to purchase goods or services does not exempt you from paying tax — such transactions are still treated as disposals of financial assets.
+- If at least two years have passed between buying and selling the cryptocurrency, no tax is payable. Swapping one cryptocurrency for another is also tax-free, as is transferring crypto between your own wallets.
+- Income from crypto trading must be reported by the end of February for the previous year, using the JOPPD form via ePorezna or in person. Accurate records of all transactions, including purchase and sale prices, are essential. The FIFO (First In, First Out) method must be used when calculating gains from multiple trades.
+
+The crypto-to-crypto exemption is unusually generous by EU standards (Germany, Spain, Italy all tax every swap). This is genuinely favorable.
+
+### Professional/self-employment regime (the unfavorable one)
+
+Here's the critical part for you specifically. No clear threshold (for example, a number of trades) is prescribed, above which a person's activities with crypto-assets should be deemed as professional activity. Based on the tax authority's opinion, this would be the case when such activity is performed continuously over a longer period of time, with the aim of realising income, and would be considered their "primary" occupation. If taxed as professional activity, income should be taxed as self-employment income. Tax rates from 15% to 23.60% apply on the annual tax base below EUR 50,400 and from 25% to 35.40% on income exceeding that amount.
+
+Read your own situation against that definition: continuous activity, longer period, aim of realising income, primary occupation. You're currently unemployed and building a quantitative trading system as your primary work, with the explicit goal of generating income. That description matches the professional-activity threshold almost exactly.
+
+The tax authority's opinion is vague on purpose — there's no bright-line trade count. But "I am unemployed and trading crypto perps full-time as my main activity to make a living" is the textbook case for professional treatment, not investment treatment. A high-frequency systematic strategy on perpetual futures is very far from "I bought some BTC as an investment."
+
+If reclassified as professional, you also lose:
+- The 2-year holding exemption (which is irrelevant for perp trading anyway, but matters if you also hold spot)
+- The crypto-to-crypto tax-free swap rule
+- The flat 12% rate, replaced by progressive rates topping out around 35%
+
+The CIT alternative a tax rate of 10% applies if annual revenue is below EUR 1,000,000; if above, a tax rate of 18% applies can be more efficient at scale, but requires registering as a business entity — a very different administrative path.
+
+## How perp futures specifically might be treated
+
+This is genuinely unclear and deserves caution. Croatian tax guidance was mostly written about *spot* crypto held by individual investors. Perpetual futures are derivatives, with fundamentally different mechanics: funding payments, leverage, no underlying asset transfer. The 2-year holding exemption arguably can't apply to perp positions because they're not "held" in the same sense as spot crypto. The crypto-to-crypto swap exemption was designed for trading spot BTC for spot ETH and may or may not extend to closing one perp position and opening another.
+
+Funding payments specifically are an open question. Are they:
+- Capital adjustments to the position's cost basis?
+- Interest income (taxed as capital income at 12%)?
+- "Other income" under the professional regime?
+
+I haven't found Croatian-specific guidance on this. Most jurisdictions are still working it out. The pragmatic answer is probably to track funding separately and be prepared to defend whatever treatment you choose.
+
+## Two further considerations
+
+**DAC8 enforcement starting now.** With the implementation of the DAC8 directive in 2026, exchange platforms will be required to automatically report their users' transactions to tax authorities. With DAC8 (2026), Binance automatically transmits your data to tax authorities, making detection of non-filers virtually automatic. This is EU-wide. Hyperliquid is on-chain (no KYC at Hyperliquid level) but if you're funding from a centralized exchange or off-ramp, the trail eventually surfaces. The "stay quiet and hope" approach is no longer viable.
+
+**MiCA transition.** The transition deadline is July 1, 2026. Existing VASPs registered before December 30, 2024 must obtain full CASP authorization by then. This is about *exchanges* serving Croatian users, not about you directly, but it could affect which platforms you can legally access from Croatia going forward. Worth keeping an eye on.
+
+## What this means for your decision
+
+Compared to US trader tax rules, Croatia is actually quite reasonable *if* you can hold the capital gains classification:
+
+- 12% flat rate on closed-to-fiat profits is competitive with US Section 1256 (60/40) for futures and much better than US ordinary income treatment of crypto.
+- Crypto-to-crypto swaps being non-taxable is a meaningful advantage if you're rotating between perp pairs.
+- FIFO required, which is fine — it's the standard your DuckDB pipeline can handle without trouble.
+
+But the professional-classification risk is real and pointed at you specifically. A few things worth doing:
+
+1. **Talk to a Croatian tax advisor who specifically handles active traders, not generic crypto holders.** This isn't a "consult a professional" boilerplate — your situation sits exactly on the fault line between the two regimes, and the difference is roughly 15-20 percentage points of tax. The cost of one consultation is trivially recovered.
+
+2. **Consider the corporate structure path early.** If you expect to be doing this seriously, the 10% corporate tax rate for companies below €1 million in revenue via a Croatian d.o.o. might end up cheaper than the personal professional rate, even after accounting for administrative overhead. It also gives you a clean separation of trading capital from personal finances, which matters if the prop firm path eventually pans out.
+
+3. **Track funding payments separately from capital gains** in your DuckDB pipeline from day one. Whatever the eventual tax treatment, you'll want them auditable as a distinct line.
+
+4. **Be honest about classification.** If you're trading systematically, full-time, as your primary income source, claiming the favorable individual-investor regime is going to look thin under audit. Under DAC8 reporting, the audit trail is much easier for tax authorities to follow than it used to be.
+
+The practical bottom line: Croatia's crypto tax regime is *better than US treatment for traders* if you handle the classification question properly, and *much worse than US Section 1256 futures treatment* if you get classified as professional and pay 25-35% progressive rates. The CIT path at 10% under €1M revenue is probably the most efficient long-run setup if this becomes serious, but it requires an actual business entity. None of this is a reason to pick or avoid crypto perps over CME futures — but it should factor into your structure choices, not be discovered after a profitable year.
+
+This isn't legal or tax advice. Get someone local who has actually filed for active traders before committing to a structure.
+
+***
+

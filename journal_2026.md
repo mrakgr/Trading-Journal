@@ -9867,5 +9867,6 @@ https://youtu.be/m9Ay_8B5FFg?t=3222
 
 https://youtu.be/m9Ay_8B5FFg?t=3536
 > Binance is currently imploding.
+> They are shitty business and they have shitty practices - they fucked their customers and they fucked their market makers.
 
 Ok, this is good to know. I was going to open an account there. I guess I'll do more research. Maybe I'll even get in contact with this guy.

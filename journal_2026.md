@@ -9837,3 +9837,5 @@ https://youtu.be/m9Ay_8B5FFg?t=1009
 > In traditional finance you see crime and you go - whoa! That's a sketchy company, I don't want to get involved in that!
 > And you see crime in crypto and you run straight towards it!
 > Crime is the foundation of edge in crypto. That's one of the beautiful things in crypto.
+
+This interview is much better than I thought it would be. I'll watch it all the way and even show it to Thom.

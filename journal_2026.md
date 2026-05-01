@@ -9876,3 +9876,5 @@ https://youtu.be/m9Ay_8B5FFg?t=4688
 > And they were assholes. There's a bunch of frauds in those books.
 
 Lol.
+
+> The best people to learn from where on Twitter, like Auguston Lebron.

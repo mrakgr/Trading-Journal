@@ -9844,3 +9844,9 @@ https://youtu.be/m9Ay_8B5FFg?t=2295
 > Aggression. Aggression features are very well known, they're sharpe 2.5 in crypto.
 > An EMA of the number of market buys divided by the number of market sells.
 > That's your signal. If it's positive you go long, if it's negative you go short.
+
+https://youtu.be/m9Ay_8B5FFg?t=3053
+> Here is a very good edge for a small trader, the institutionals can't do it.
+> Anything that's in the bottom 20% of the Binance perpetual futures that makes a 20 day high - short it!
+
+He is talking about how momentum effects are proportional to size.

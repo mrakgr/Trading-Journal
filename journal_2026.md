@@ -9832,3 +9832,8 @@ First, I think I'll get a lot more data from Binance - I'll make it my exchange 
 “It’s the Dumbest Market in the World” - Quant Trader Scott Phillips on Edge in Crypto
 
 This guy is giving out a lot of edges. Like now he is saying that tokens which have increase in volume have significantly increased chances of going up in crypto. It's well over sharpe 2 he says.
+
+https://youtu.be/m9Ay_8B5FFg?t=1009
+> In traditional finance you see crime and you go - whoa! That's a sketchy company, I don't want to get involved in that!
+> And you see crime in crypto and you run straight towards it!
+> Crime is the foundation of edge in crypto. That's one of the beautiful things in crypto.

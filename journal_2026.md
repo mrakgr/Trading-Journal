@@ -9850,3 +9850,7 @@ https://youtu.be/m9Ay_8B5FFg?t=3053
 > Anything that's in the bottom 20% of the Binance perpetual futures that makes a 20 day high - short it!
 
 He is talking about how momentum effects are proportional to size.
+
+> That's a very fucking strong edge.
+
+I can imagine. Had I been able to find locates on Tim Sykes style pump and dumps 1.5 decades ago, my life could have turned out differently. But with crypto that isn't a problem at all.

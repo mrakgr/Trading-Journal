@@ -9859,3 +9859,6 @@ I can imagine. Had I been able to find locates on Tim Sykes style pump and dumps
 > There's other strong edges. Have you noticed what happens to coins the get listed on Binance?
 
 The screenshot says it all.
+
+https://youtu.be/m9Ay_8B5FFg?t=3222
+> You're taking counter party risk, that's the catch.

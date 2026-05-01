@@ -9839,3 +9839,7 @@ https://youtu.be/m9Ay_8B5FFg?t=1009
 > Crime is the foundation of edge in crypto. That's one of the beautiful things in crypto.
 
 This interview is much better than I thought it would be. I'll watch it all the way and even show it to Thom.
+
+https://youtu.be/m9Ay_8B5FFg?t=2295
+> Aggression. Aggression features are very well known, they're sharpe 2.5 in crypto.
+

@@ -9843,3 +9843,4 @@ This interview is much better than I thought it would be. I'll watch it all the 
 https://youtu.be/m9Ay_8B5FFg?t=2295
 > Aggression. Aggression features are very well known, they're sharpe 2.5 in crypto.
 > An EMA of the number of market buys divided by the number of market sells.
+> That's your signal. If it's positive you go long, if it's negative you go short.

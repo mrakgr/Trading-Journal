@@ -9854,3 +9854,8 @@ He is talking about how momentum effects are proportional to size.
 > That's a very fucking strong edge.
 
 I can imagine. Had I been able to find locates on Tim Sykes style pump and dumps 1.5 decades ago, my life could have turned out differently. But with crypto that isn't a problem at all.
+
+![](images/image-2497.png)
+> There's other strong edges. Have you noticed what happens to coins the get listed on Binance?
+
+The screenshot says it all.

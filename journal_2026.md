@@ -9827,3 +9827,8 @@ https://youtu.be/m9Ay_8B5FFg
 I am doing the futures pivot anyway, and I'll have to restart my modeling work with order flow sidedness in mind.
 
 First, I think I'll get a lot more data from Binance - I'll make it my exchange of choice and move from there.
+
+12:25pm. https://youtu.be/m9Ay_8B5FFg?t=853
+“It’s the Dumbest Market in the World” - Quant Trader Scott Phillips on Edge in Crypto
+
+This guy is giving out a lot of edges. Like now he is saying that tokens which have increase in volume have significantly increased chances of going up in crypto. It's well over sharpe 2 he says.

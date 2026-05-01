@@ -9862,3 +9862,10 @@ The screenshot says it all.
 
 https://youtu.be/m9Ay_8B5FFg?t=3222
 > You're taking counter party risk, that's the catch.
+> The counter party risk and the margin has to be carefully balanced.
+> A lot of the edge comes from - if I am going long on one exchange and short on the other I have to operationaly balance margin.
+
+https://youtu.be/m9Ay_8B5FFg?t=3536
+> Binance is currently imploding.
+
+Ok, this is good to know. I was going to open an account there. I guess I'll do more research. Maybe I'll even get in contact with this guy.

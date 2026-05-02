@@ -9931,3 +9931,1047 @@ This is interesting.
 I am decently fresh, but I want to normalize my fatigue levels until I get some data to really excite me about trading.
 
 Maybe I'll do some research on equity data on the side. I'll take the time off to have a bath.
+
+***
+
+On just the lit exchanges, how much would it cost to get the sign data directly?
+
+***
+
+Good question to put numbers on, since it directly affects the build-vs-buy decision against using EMO/CLNV on Polygon. Let me search for current pricing — these direct feed costs change and I want to give you accurate figures rather than stale ones.Let me get more specific pricing for the major lit venues and also check Databento's pass-through fees, which are the cleanest way to see real-world costs.I have enough to give you a real answer. Let me search for one more thing — current Cboe/BATS pricing — since those venues matter for small-cap flow.I have enough now to give a real answer. The picture is messier than just one number, because what you're really paying for is *categorization*, not bandwidth.
+
+## The cost structure
+
+For each lit venue, the fee is a function of three things: subscriber status (professional vs non-professional), use type (display vs non-display), and whether you're internally distributing. For your situation — a single individual, no firm, automated trading, no display to clients — you're a non-professional, non-display, single-user.
+
+**Important caveat first**: an automated trading system feeding decisions to a strategy may not actually qualify as "non-display" in the eyes of every exchange. Some venues classify any algorithmic consumption as non-display *by trading platform*, which is the most expensive bucket. Others let a single-trader systematic setup qualify for non-professional rates. Where you land affects the bill by an order of magnitude. Worth getting in writing before committing.
+
+## Approximate monthly numbers (lit venues, single subscriber)
+
+Going through them via Databento's pass-through rates, which are vendor-agnostic since the exchange charges the same regardless of who's distributing:
+
+**Nasdaq TotalView-ITCH (XNAS)** — covers Nasdaq-listed *and* Nasdaq-traded NYSE/regional issues. Non-professional flat rate is around $15/month regardless of display or non-display use, professionals pay $76/month for display use, and $375/month for non-display use. So $15 if you can claim non-pro; $375 if you can't.
+
+**Nasdaq BX TotalView-ITCH (XBOS)** and **Nasdaq PSX TotalView-ITCH (XPSX)** — smaller venues but part of the same complex. Each is similar in structure to XNAS but cheaper in absolute terms. Together maybe $50–100/month at non-pro rates, several hundred at pro non-display.
+
+**NYSE Pillar feeds (XNYS, ARCX, XASE)** — NYSE Integrated for NYSE-listed, ARCA Integrated for ETFs and ARCA-listed, AMEX for small-caps listed there. Each is a separate fee. NYSE's structure is broadly comparable to Nasdaq's but historically a bit more expensive at the pro non-display tier. Realistic budget for all three: $30–60/month non-pro, well over $1,000/month pro non-display combined.
+
+**Cboe BZX/BYX/EDGX/EDGA Depth feeds** — these are where it gets ugly for non-display. Cboe assesses either a Non-Display Usage not by Trading Platforms Fee of $2,000/month or a Non-Display Usage by Trading Platforms of $5,000/month *per venue*. EDGA is half that. So if you're classified as non-display non-trading-platform across all four, that's roughly $6,000/month just for the Cboe complex. Non-pro display rates are tiny by comparison ($10–20 each).
+
+**IEX, NYSE Chicago, NYSE National, MIAX Pearl Equities** — the cheap ones. Databento's DBEQ bundle offers US equities data with $0 exchange license fees for NYSE Chicago, NYSE National, IEX, and MIAX Pearl Equities, which are free to license for distribution, display, and non-display applications. Free, but these venues collectively account for a small fraction of consolidated volume — IEX alone is maybe 2-3%, the others well below 1% each.
+
+## What this adds up to for your case
+
+**Best case** (you qualify as non-professional non-display across the board): probably $50–100/month total in license fees plus whatever you pay Databento for the actual data delivery (their pay-as-you-go is decoupled from licensing).
+
+**Realistic case** (automated trading reclassifies you as non-display professional or non-display by trading platform on the venues that care): you're looking at $5,000–10,000/month for full lit-market coverage, dominated by the Cboe complex.
+
+**Lit-coverage of just the volume that matters** (Nasdaq TotalView, NYSE Integrated, ARCA Integrated, IEX): $1,000–2,000/month at pro non-display. This captures roughly 60–70% of consolidated lit volume. The Cboe complex is another ~20% you'd miss.
+
+## What this buys you that EMO/CLNV doesn't
+
+True aggressor side from the order book reconstruction — every Add/Modify/Execute message is in there, so you know which resting order got hit. Zero classification error on lit prints.
+
+What it does *not* solve: TRF prints (off-exchange, ~40% of consolidated volume) still arrive without aggressor side. For your "Stocks In Play" universe specifically, off-exchange share is often *higher* than the average because retail flow gets internalized heavily. So even with the full lit-venue direct feed bill paid, you'd still be running EMO/CLNV (or your trained classifier) on roughly half your tape volume.
+
+## My honest take for your stage
+
+Paying $5K+/month for direct feeds when you don't yet have a track record is hard to justify. The marginal accuracy gain over CLNV-on-Polygon for your specific signals is bounded — you said yourself the held-level detection mostly cares about clean at-the-quote prints, where every classifier agrees. A more cost-efficient path:
+
+1. Get Databento's XNAS.ITCH historical data (no live license needed, much cheaper) for a representative sample period — say a month of your watchlist universe.
+2. Use it as ground truth to evaluate Polygon-classified data (EMO, CLNV, learned classifier).
+3. Quantify the actual error rate on your specific signal generation, not generic literature numbers.
+4. If the error meaningfully degrades signal quality, *then* spring for live direct feeds — and you'll have evidence to take to a prop firm justifying the data spend.
+
+The historical-only path is probably $100-300 for a month-long evaluation, vs. multi-thousand-per-month commitments for live feeds you may not need.
+
+***
+
+In fact it told me this yesterday.
+
+...
+
+***
+
+The held level patterns happen much more rarely than I thought they would, and I am starting to think they are in fact proxies for order flow aggression. That's why I am looking into this. I am honestly on the verge of just switching for futures. Stocks keep tricking me with the low tiers, only for me to realize much later that I do in fact need the order flow sign data to trade momentum properly.
+
+***
+
+That's a real and important realization, and worth taking seriously rather than fighting. Let me be direct with you, because I think you're closer to the right answer than you might feel.
+
+## The honest assessment
+
+You're not wrong about either thing:
+
+1. **Held-level patterns probably are aggression proxies.** When you watch a level hold against persistent aggressive flow, the pattern's information content comes from the *aggression* (you can see it being absorbed), not from the price stability per se. If you can't measure aggression directly, you're inferring a derivative of it from a noisy compound signal — price + volume + time-at-level. That's a much harder estimation problem than just measuring aggression with a 1-bit aggressor flag.
+
+2. **US equities structurally hides aggression from you at retail tier.** This isn't a Polygon limitation, it's a market structure fact. ~40% off-exchange via wholesalers, fragmented across 16+ lit venues, SIP trades without aggressor flags, sub-penny mid-spread internalization. Even paying for full lit direct feeds, the TRF tape stays opaque. The aggression you most want to measure on small-cap catalyst names — retail-driven momentum — is exactly the flow most heavily internalized off-exchange.
+
+Futures are *built* the way you want stocks to be:
+
+- Single venue per contract (CME for ES/NQ/CL/GC/ZN, ICE for a few others). No fragmentation.
+- Aggressor side disseminated natively in MDP 3.0. Not inferred — reported.
+- Full L3 order book with order-level granularity.
+- No dark pools, no internalization, no PFOF wholesalers.
+- Tighter regulatory consistency (CFTC instead of the SEC's Reg NMS labyrinth).
+
+## The data cost picture is also dramatically better
+
+CME Globex MDP 3.0 via a direct or vendor connection runs maybe **$110–130/month for non-professional** (a single CME group like Equity Index, or Energy, or Metals). That's *with* aggressor side, full depth, every tick. Compare to thousands per month for partial lit coverage of US equities that still doesn't give you what you want.
+
+Even if you went pro non-display on CME (which you'd need eventually), it's a few hundred a month per group, not thousands per venue across a fragmented market.
+
+## What you'd actually trade
+
+The honest question is which futures product matches your trading style. "Stocks In Play" was small-cap, catalyst-driven, elevated relative volume — that doesn't translate directly. Futures equivalents, depending on what you actually liked about that style:
+
+- **If you liked clean order flow on liquid instruments**: ES, NQ, CL, GC, ZN. Deep books, tight spreads, true level-2 with aggressor data. The classic SMB/Axia/Jigsaw-style order flow trading was originally developed on futures, not stocks. SMB's stock-focused methodology is downstream of techniques that work better on futures.
+- **If you liked volatility and catalyst-driven moves**: CL (oil) on inventory days, ZN/ZB around FOMC, GC around CPI/NFP, NQ around mega-cap earnings (overnight effect). Discrete events, predictable schedules, deep liquidity through them.
+- **If you liked the explosive intraday range of small-caps**: micro contracts (MES, MNQ, MCL, MGC) let you size into single contracts at retail account sizes while still getting professional-grade flow data. Range-as-percentage-of-margin can actually exceed what you'd get on equities.
+
+What you'd *lose*: the specific small-cap reversal/squeeze setups don't have direct futures analogs. There's no "low float reversal" in CL because there's no float. The Trade2Hold framework works conceptually but the catalysts are macro, not company-specific.
+
+## On your stage and the prop firm path
+
+This actually matters for the funded-trader side too. The futures prop space is larger and more mature than the equities prop space for systematic traders without a track record:
+
+- Topstep, Apex, Earn2Trade, etc. — all explicitly futures-focused, evaluation-based. You already noted these conflict with your style for *equities*, but the conflict was partly about the equity-specific market structure constraints. Some of those constraints relax on futures.
+- Real prop futures backing (e.g., the Chicago/proprietary trading firm route) has clearer benchmarks because everyone's looking at the same instrument with the same data.
+- Your F# / DuckDB / synthetic-flow-modeling stack transfers cleanly. Gamma-distributed depth modeling actually works *better* as an approximation on futures because there's a single coherent book to model, not a virtual NBBO assembled from 16 fragmented ones.
+
+## The case against switching
+
+Worth acknowledging honestly:
+
+- You've built up domain knowledge on equities microstructure (SMB methodology, halts, short interest, float dynamics, trade conditions). Most of this doesn't transfer.
+- The catalyst-driven small-cap edge is real and well-documented; futures have more efficient flow and less retail mispricing to exploit. Your edge has to come from somewhere different.
+- Overnight gap risk, contract roll mechanics, and the leverage profile are different beasts to learn.
+- If your real edge is in pattern recognition on small-cap chart structures, that doesn't exist on ES.
+
+But — and this is the key thing — **you don't have a working edge yet on equities either**. You have hypotheses, infrastructure, and detection logic that's underperforming because the underlying signal is fundamentally compromised by the data you can access. The sunk cost in equities knowledge is real but smaller than it feels.
+
+## My genuine take
+
+If you're already on the verge, that's probably your subconscious doing pattern recognition on months of evidence. The signal quality issue you're describing — patterns rarer than expected, suspicion they're aggression proxies, structural inability to measure aggression cleanly — is a coherent story that points one direction. I'd take the instinct seriously.
+
+A reasonable test: spend a week getting Databento or a CME vendor sample of ES or CL MBO data. Replicate one or two of your held-level detectors on it with true aggressor data. See what they look like when the input signal is clean. If they suddenly look meaningful and frequent, you have your answer. If they still look noisy, your detection logic itself needs work and the data wasn't the bottleneck — also useful to know.
+
+The cost of that test is probably under $200 and a week of your time. The cost of *not* running it is potentially another year fighting market structure.
+
+***
+
+By futures I am also considering crypto perp futures. The reason why I was resistant of going down that path is due to all the scams in the crypto space and because BTC and ETH are in a bear market. Could it be the case that I should be looking into them?
+
+***
+
+Yes, and I think your resistance is based on partially-outdated heuristics worth re-examining. Let me work through this honestly because there are real considerations on both sides.
+
+## The "scams" concern is largely venue-selection, not category-rejection
+
+The crypto space has scams. It also has, at this point, a small number of venues that are operationally serious enough that the scam concern doesn't really apply to the *trading data and execution* layer:
+
+- **Binance** — largest by volume, deep books, but regulatory issues in multiple jurisdictions and you can't access from many countries cleanly.
+- **Bybit** — second tier by volume, generally clean execution, decent API.
+- **OKX** — similar profile to Bybit.
+- **Hyperliquid** — fully on-chain perps, transparent order book, no custodial risk in the traditional sense (your funds are on-chain), strong API. You'd looked at this before.
+- **dYdX** — also on-chain, smaller volume than Hyperliquid now.
+
+The scam universe is mostly: shitcoin perps on tier-3 exchanges, leverage tokens, anything labeled "DeFi yield," random Telegram-promoted tokens, and the entire altcoin ICO/launchpad ecosystem. None of that touches BTC/ETH perp trading on a top-5 venue.
+
+The relevant operational risks at serious venues are different and worth naming clearly:
+
+- **Counterparty risk on centralized venues**: FTX is the obvious example; even Binance has had withdrawal halts during stress. Real risk, manageable by sizing what you keep on exchange.
+- **Insurance fund / auto-deleveraging risk**: in extreme moves, profitable positions can get force-closed to cover insolvent counterparties. Quantifiable, asymmetric tail.
+- **API stability during liquidation cascades**: exchanges sometimes degrade or briefly halt during exactly the moments your strategy depends on. You'd need to design around this.
+
+These are real but they're trader-craft problems, not "the entire space is a scam" problems.
+
+## Bear market is a strange reason to avoid them
+
+This one I'd push back on more directly. A few reasons:
+
+1. **Perps trade both directions equally well.** No locate, no hard-to-borrow, no short-sale restrictions, no uptick rule. If anything, bear regimes in crypto have historically had *better* short-side momentum opportunities than long-side because of forced deleveraging cascades.
+
+2. **The "bear market" framing applies to spot HODLer returns.** For an active trader doing intraday or swing momentum, what matters is volatility, volume, and the existence of trends — and crypto bear markets have all three. The 2022 crypto bear was extraordinarily tradeable in both directions.
+
+3. **You might be looking at stale data.** I should check what BTC and ETH are actually doing right now rather than assuming.Your read on the regime is roughly accurate — BTC is around $76K (down from a 2025 high), ETH around $2,260 (down ~27% YTD), market sentiment in Fear, ETF outflows for three days running, ongoing Strait of Hormuz / US-Iran tensions adding macro risk. But notice what's *also* in there: $345 million in forced liquidations on April 28-29, with long positions absorbing 80% of the damage. That's the kind of environment where order flow trading thrives, not suffers.
+
+## The actual order flow picture is the strongest argument
+
+This is the part I want to be most direct about, because for your specific use case it's almost decisive:
+
+**Crypto perps give you the cleanest order flow data publicly available anywhere, for free.**
+
+Concretely, on Hyperliquid, Binance, Bybit:
+
+- **Aggressor side on every trade.** Native, in the public WebSocket feed. No EMO/CLNV inference needed.
+- **Full L2 order book** with all updates, again on the public WebSocket. No license fees, no pro-vs-non-pro classification, no "non-display by trading platform" categorizations.
+- **Funding rates** as a free additional signal — directly measures aggregate positioning bias.
+- **Open interest** updated in real-time per-symbol — measures leverage buildup.
+- **Liquidation feed** — Hyperliquid and Binance both publish liquidation events. This is signal you literally cannot get on equities at any price, because there's no equivalent of forced position closure publicly broadcast.
+- **24/7 markets.** No session boundaries, no halts (mostly), no overnight gaps as a separate phenomenon.
+- **Single venue per perp pair.** No fragmentation. The Hyperliquid BTC perp book is *the* book.
+
+For comparison: you've been spending months working around the limitations of Polygon's SIP feed, evaluating EMO vs CLNV, considering paying thousands a month for partial lit equity coverage, all to approximate what crypto perps hand you free in a JSON message.
+
+## Where your specific approach maps cleanly
+
+Your "unusual hold on bid and offer" detection is *more* tractable on crypto perps than on equities:
+
+- The held-level pattern requires you to see aggressive flow being absorbed at a level. On crypto, you literally see every aggressor flag. The pattern goes from "inferred from price+volume composite" to "directly observable from labeled flow."
+- Your synthetic order flow simulation framework — Gamma-distributed depth modeling, the whole MCMC-priors-and-resampling pipeline — was originally a workaround for not having labeled real flow at scale. With crypto you have that labeled flow for free, which means you can validate your synthetic generator against ground truth, or reduce dependence on it entirely.
+- The transformer / gMLP / Mamba models you trained on 1-second OHLC bars become much more powerful when you can compute per-bar features like signed aggressor volume, taker buy ratio, liquidation count, funding skew — all natively.
+
+## Comparison to traditional futures
+
+Worth being clear about how crypto perps stack up against ES/CL/GC if you were going that direction anyway:
+
+**Crypto perps win on:**
+- Cost (free public data vs. CME at $100-500+/month)
+- Aggressor side disseminated even more transparently
+- Ancillary signals (liquidations, funding, OI) you don't get on CME
+- 24/7 (more screen time = more iterations)
+- Lower capital requirement to test (microcontracts on CME help, but $50-500 starting capital tests on crypto are normal)
+- Faster regime cycles (more market structures to learn from in less calendar time)
+
+**Traditional futures win on:**
+- Counterparty robustness (CME clearinghouse vs. exchange custody risk)
+- Regulatory clarity (CFTC oversight vs. shifting global crypto regulation)
+- Tax treatment in the US (60/40 long-term/short-term on Section 1256 contracts; crypto is all short-term ordinary income on US returns)
+- No funding rate to manage (you hold the position, it doesn't bleed)
+- Established prop firm ecosystem (Topstep, Apex, real prop seats at futures shops)
+- Macro signal coherence (CL responds to inventory reports, ZN to Fed, ES to earnings — predictable catalyst structure vs. crypto's "Iran tension + ETF flows + Trump tweet" mess)
+
+## On the bear market specifically
+
+The *direction* matters less than you think for a momentum/order-flow trader. What matters is whether the regime has:
+
+- Sufficient daily range (current BTC: yes, multiple 3%+ days per week)
+- Liquidation cascades and forced flow (yes, evidenced by the $345M figure)
+- Predictable structure breaks (yes — every macro headline produces tradeable moves)
+- Volume (still substantial, even off cycle highs)
+
+A bull market with grindingly low volatility and minimal flow events is *worse* for your style than a fearful bear with regular liquidation cascades. Your previous Hyperliquid exploration probably had this same insight.
+
+## What actually concerns me about the crypto path for you
+
+A few things worth being honest about:
+
+1. **Counterparty risk on centralized venues is real.** The Hyperliquid path mitigates this (on-chain), but liquidity in alts is thinner than on Binance/Bybit. For BTC and ETH perps the depth is fine.
+
+2. **Tax complexity.** US (and many EU) tax codes treat every crypto trade as a taxable event, no Section 1256 advantage. If you're trading frequently, the bookkeeping is brutal compared to futures. Croatia's situation specifically is worth checking — there's been some movement on crypto tax treatment in recent years.
+
+3. **Self-discipline around 24/7.** Markets that never close are markets you can never stop watching. Some traders thrive on this; others burn out. You'd want explicit session rules.
+
+4. **The prop firm path is weaker.** Crypto prop firms exist but are less established than futures props. If "track record then prop backing" is your endgame, futures is more institutionalized.
+
+5. **Less academic/methodological support.** SMB methodology, the trading literature you've absorbed, microstructure papers — most of it is equities or futures-flavored. Crypto-specific literature is thinner and lower quality.
+
+## My actual take
+
+You should run the cheap experiment, the same one I suggested for futures: spend a week with Hyperliquid's WebSocket feed (or Binance's, since you've already explored Hyperliquid), reimplement your held-level detector with native aggressor data, and see if the patterns become frequent and meaningful when the data isn't compromised.
+
+I'd guess strongly they will. The reason held-level patterns are rare on equities for you isn't that the patterns don't exist — it's that you're trying to detect them through a noisy proxy because the underlying labeled flow is hidden from you. Crypto removes the proxy.
+
+The "scams and bear market" objections are weaker than they feel:
+- Scams are a venue-selection problem, not a category problem.
+- Bear regimes are structurally favorable for order flow strategies, especially with 80% long liquidation skew like you're seeing right now.
+
+The genuine risks are counterparty exposure and tax complexity, both of which are manageable with explicit policies (cap exchange balance, use Hyperliquid for non-custodial alternative, hire an accountant who knows crypto in your jurisdiction).
+
+If your goal is "prove systematic profitability on order flow" then crypto perps probably get you there fastest with the lowest data spend. The question of *whether to stay in crypto long-term* — versus migrating a proven system to traditional futures or back to equities later — is a separate decision you can make after you have a working edge.
+
+***
+
+What is the tax situation regarding crypto in Croatia?
+
+***
+
+Let me search for current Croatian crypto tax rules — this is exactly the kind of thing where I'd rather get you accurate current information than rely on what I might remember.The picture is mostly favorable for you, but there's an important catch that's directly relevant to your situation. Let me lay out what I found, with a critical caveat first.
+
+## Two distinct tax regimes apply to you, depending on classification
+
+This is the key thing — your trading style may not get the friendly treatment.
+
+### Capital gains regime (the favorable one)
+
+For an individual treating crypto as an investment, the standard rules are:
+
+- Crypto capital gains taxed at 12%. Trading, selling crypto subject to tax — this is the headline rate.
+- A tax liability is triggered when cryptocurrency is exchanged for fiat currency (such as the euro or US dollar) and a profit is made. Importantly, using cryptocurrency to purchase goods or services does not exempt you from paying tax — such transactions are still treated as disposals of financial assets.
+- If at least two years have passed between buying and selling the cryptocurrency, no tax is payable. Swapping one cryptocurrency for another is also tax-free, as is transferring crypto between your own wallets.
+- Income from crypto trading must be reported by the end of February for the previous year, using the JOPPD form via ePorezna or in person. Accurate records of all transactions, including purchase and sale prices, are essential. The FIFO (First In, First Out) method must be used when calculating gains from multiple trades.
+
+The crypto-to-crypto exemption is unusually generous by EU standards (Germany, Spain, Italy all tax every swap). This is genuinely favorable.
+
+### Professional/self-employment regime (the unfavorable one)
+
+Here's the critical part for you specifically. No clear threshold (for example, a number of trades) is prescribed, above which a person's activities with crypto-assets should be deemed as professional activity. Based on the tax authority's opinion, this would be the case when such activity is performed continuously over a longer period of time, with the aim of realising income, and would be considered their "primary" occupation. If taxed as professional activity, income should be taxed as self-employment income. Tax rates from 15% to 23.60% apply on the annual tax base below EUR 50,400 and from 25% to 35.40% on income exceeding that amount.
+
+Read your own situation against that definition: continuous activity, longer period, aim of realising income, primary occupation. You're currently unemployed and building a quantitative trading system as your primary work, with the explicit goal of generating income. That description matches the professional-activity threshold almost exactly.
+
+The tax authority's opinion is vague on purpose — there's no bright-line trade count. But "I am unemployed and trading crypto perps full-time as my main activity to make a living" is the textbook case for professional treatment, not investment treatment. A high-frequency systematic strategy on perpetual futures is very far from "I bought some BTC as an investment."
+
+If reclassified as professional, you also lose:
+- The 2-year holding exemption (which is irrelevant for perp trading anyway, but matters if you also hold spot)
+- The crypto-to-crypto tax-free swap rule
+- The flat 12% rate, replaced by progressive rates topping out around 35%
+
+The CIT alternative a tax rate of 10% applies if annual revenue is below EUR 1,000,000; if above, a tax rate of 18% applies can be more efficient at scale, but requires registering as a business entity — a very different administrative path.
+
+## How perp futures specifically might be treated
+
+This is genuinely unclear and deserves caution. Croatian tax guidance was mostly written about *spot* crypto held by individual investors. Perpetual futures are derivatives, with fundamentally different mechanics: funding payments, leverage, no underlying asset transfer. The 2-year holding exemption arguably can't apply to perp positions because they're not "held" in the same sense as spot crypto. The crypto-to-crypto swap exemption was designed for trading spot BTC for spot ETH and may or may not extend to closing one perp position and opening another.
+
+Funding payments specifically are an open question. Are they:
+- Capital adjustments to the position's cost basis?
+- Interest income (taxed as capital income at 12%)?
+- "Other income" under the professional regime?
+
+I haven't found Croatian-specific guidance on this. Most jurisdictions are still working it out. The pragmatic answer is probably to track funding separately and be prepared to defend whatever treatment you choose.
+
+## Two further considerations
+
+**DAC8 enforcement starting now.** With the implementation of the DAC8 directive in 2026, exchange platforms will be required to automatically report their users' transactions to tax authorities. With DAC8 (2026), Binance automatically transmits your data to tax authorities, making detection of non-filers virtually automatic. This is EU-wide. Hyperliquid is on-chain (no KYC at Hyperliquid level) but if you're funding from a centralized exchange or off-ramp, the trail eventually surfaces. The "stay quiet and hope" approach is no longer viable.
+
+**MiCA transition.** The transition deadline is July 1, 2026. Existing VASPs registered before December 30, 2024 must obtain full CASP authorization by then. This is about *exchanges* serving Croatian users, not about you directly, but it could affect which platforms you can legally access from Croatia going forward. Worth keeping an eye on.
+
+## What this means for your decision
+
+Compared to US trader tax rules, Croatia is actually quite reasonable *if* you can hold the capital gains classification:
+
+- 12% flat rate on closed-to-fiat profits is competitive with US Section 1256 (60/40) for futures and much better than US ordinary income treatment of crypto.
+- Crypto-to-crypto swaps being non-taxable is a meaningful advantage if you're rotating between perp pairs.
+- FIFO required, which is fine — it's the standard your DuckDB pipeline can handle without trouble.
+
+But the professional-classification risk is real and pointed at you specifically. A few things worth doing:
+
+1. **Talk to a Croatian tax advisor who specifically handles active traders, not generic crypto holders.** This isn't a "consult a professional" boilerplate — your situation sits exactly on the fault line between the two regimes, and the difference is roughly 15-20 percentage points of tax. The cost of one consultation is trivially recovered.
+
+2. **Consider the corporate structure path early.** If you expect to be doing this seriously, the 10% corporate tax rate for companies below €1 million in revenue via a Croatian d.o.o. might end up cheaper than the personal professional rate, even after accounting for administrative overhead. It also gives you a clean separation of trading capital from personal finances, which matters if the prop firm path eventually pans out.
+
+3. **Track funding payments separately from capital gains** in your DuckDB pipeline from day one. Whatever the eventual tax treatment, you'll want them auditable as a distinct line.
+
+4. **Be honest about classification.** If you're trading systematically, full-time, as your primary income source, claiming the favorable individual-investor regime is going to look thin under audit. Under DAC8 reporting, the audit trail is much easier for tax authorities to follow than it used to be.
+
+The practical bottom line: Croatia's crypto tax regime is *better than US treatment for traders* if you handle the classification question properly, and *much worse than US Section 1256 futures treatment* if you get classified as professional and pay 25-35% progressive rates. The CIT path at 10% under €1M revenue is probably the most efficient long-run setup if this becomes serious, but it requires an actual business entity. None of this is a reason to pick or avoid crypto perps over CME futures — but it should factor into your structure choices, not be discovered after a profitable year.
+
+This isn't legal or tax advice. Get someone local who has actually filed for active traders before committing to a structure.
+
+***
+
+...
+
+Let me ask whether it would be possible to get the lit exchange data all in one place.
+
+***
+
+This has been very informative, and I've decided to go down the futures path, starting with the crypto perps.
+
+But I won't be satisfied with leaving equities aside just like that. I want to satisfy my curiosity a bit more.
+
+Let me ask, if I wanted to piece together the full order flow picture on individual equities, would I need to subscribe to all these services separately or does Databento offer them in one single package?
+
+***
+
+Good — running the cheap experiment first is the right move regardless of where you eventually land.
+
+On your equities question: Databento sells them as separate datasets per venue, but the way you'd subscribe to them is unified — one account, one API, one schema, pay-as-you-go pricing on top of pass-through exchange license fees. So it's *operationally* one package even though it's *commercially* per-venue.
+
+Let me search for current specifics, since the dataset catalog and pricing structure may have shifted.Now I have a clear picture. The answer is genuinely "yes, one package" — Databento has built exactly the unified offering you're describing, and the structure is more elegant than I would have guessed.
+
+## The architecture
+
+Databento splits the question into two: *commercial subscription* (what you pay them) and *exchange license fees* (what gets passed through to the venues). The subscription is unified; the license fees are still per-venue and depend on the data classification questions we discussed earlier (display vs. non-display, professional vs. non-professional).
+
+## The actual offering
+
+The relevant umbrella product is **Databento US Equities**, which brings data from 15 US equities exchanges and 30 ATSs together under a single pricing plan. It's segmented into tiers:
+
+**Mini (free of license fees):** Databento US Equities Mini is our most cost-effective solution for real-time, top-of-book US equities data. It combines multiple trading venues into one composite dataset that provides accurate best bid and offer (BBO) quotes, liquidity, and trade volume data—all without exchange license fees. This is a synthetic mini-NBBO from venues that license under derived-data terms — IEX, NYSE Chicago, NYSE National. Useful for BBO-only signals, not what you'd want for order flow.
+
+**Standard ($199/month for historical):** unlimited access organized by L0/L1/L2/L3 schema tiers, with rolling T+1 coverage. Good for backtesting but not real-time MBO.
+
+**Plus and Unlimited (live full-depth):** Real-time Cboe EDGX data is included with a Plus or Unlimited subscription through our Databento US Equities service, and As part of this upcoming release, the price of our Plus plan will increase to $1,500/month. The Plus tier is where you get the full set of venue prop feeds in real-time.
+
+**Coverage scope:** spanning 16 prop feeds with full-depth data on nearly all major trading venues. That includes Nasdaq TotalView-ITCH (XNAS, XBOS, XPSX), NYSE Integrated, NYSE Arca Integrated, NYSE American Integrated, all four Cboe books (BZX, BYX, EDGA, EDGX), IEX, NYSE Chicago, NYSE National, plus the TRFs (Nasdaq-operated TRFs in Nasdaq Basic, NYSE-operated TRF in NYSE Trades).
+
+## What you get for "the full picture"
+
+For your "complete order flow on individual equities" goal, the Plus subscription at $1,500/month + pass-through license fees is the line where you get there for lit venues. With it:
+
+- **MBO (L3) on every major lit venue** — every add/modify/cancel/execute message, with native aggressor side from the prop feeds.
+- **Auction imbalance data** — opening and closing auction order imbalances from Nasdaq, NYSE, ARCA, and AMEX. Important for your "Stocks In Play" universe since the open and close are huge volume concentration points.
+- **Odd lot quotations** — odd lots are missing from SIP NBBO and increasingly important on high-priced names where retail trades are routinely odd-lot.
+- **TRF prints** — off-exchange consolidated tape data from both the Nasdaq TRFs and NYSE TRF, included in the bundled venue datasets.
+
+The TRF inclusion is important to call out: even with the full lit prop feed coverage, *aggressor side on TRF prints is still not available*, because the wholesalers don't disseminate it. This is a hard limit of US market structure, not a Databento limitation. So even with a full $1,500/month + license fees subscription, somewhere around 40% of your tape volume on a typical small-cap name still lacks aggressor flags. You'd run EMO/CLNV (or a learned classifier) on the TRF subset specifically.
+
+## License fees on top
+
+The pass-through fees are where the bill gets real. Databento is the only market data distributor to source all of our US equities from the direct prop feeds only and to consolidate these feeds ourselves. This is a common practice among the leading electronic market making firms, but uncommon among vendors because the direct prop feeds are significantly more expensive to license (about $60,000/month) than the SIPs ($10,500/month).
+
+That $60K figure is the all-in professional non-display number for the *full* prop feed bundle — not what you'd individually pay, but what the pool of license fees totals to at the high end. Your share is whatever subset of feeds you need at whatever classification you qualify for.
+
+The relevant number for the imbalance data specifically: While real-time imbalance data can be licensed as part of the full Integrated feeds for NYSE, NYSE Arca, and NYSE American, this costs upwards of $7,500/month in non-display fees. The Order Imbalances feeds start at $1,000/month and offer a more cost-effective option. So Databento has unbundled imbalance from the full Integrated feed, which saves real money if you don't need full NYSE depth alongside the imbalance signal.
+
+## The historical-only path
+
+For pure research and backtesting (your current stage), you don't need live at all. Historical Cboe equities data starts from May 1, 2018, and is available for usage-based rates or with any Databento US Equities subscription. The pay-as-you-go historical pricing is genuinely cheap — you pay per byte downloaded, no monthly minimum. A month of MBO data on a few dozen small-cap names is probably tens of dollars, not thousands.
+
+This is the operationally relevant fact for you: you can do the entire "is the held-level pattern actually frequent and meaningful with true aggressor side" experiment without committing to any subscription at all. Just download a representative sample historically and run your detection logic on it. If the patterns light up, *then* think about live data.
+
+## Practical recommendation if you ever revisit
+
+If you do come back to equities someday with a working track record:
+
+1. **Historical-only first** ($0–100 one-time) — validate signal quality on labeled data.
+2. **Standard plan** ($199/month) — full historical access for systematic research and backtesting.
+3. **Plus plan** ($1,500/month + license fees) — only when going live with capital backing this.
+4. **Skip Mini** — top-of-book composite isn't useful for your style.
+
+The Plus tier is roughly the price of the CME futures direct data fees at a comparable subscriber tier, which I think tells you something honest about how much US equity market structure inflates the cost of doing what futures markets give you natively. You're paying $1,500+/month plus exchange fees to *partially* reconstruct what Hyperliquid streams to you free.
+
+But to directly answer your question: yes, one Databento subscription with one API and one schema gets you everything Databento offers across every venue. The fragmentation is in the underlying market structure and the license fee economics, not in the vendor experience.
+
+***
+
+What does TRF stand for?
+
+***
+
+TRF stands for **Trade Reporting Facility**.
+
+These are FINRA-operated facilities where broker-dealers report trades that happen *off-exchange* — meaning trades executed away from the lit exchanges (Nasdaq, NYSE, etc.). The off-exchange venues that report through TRFs include:
+
+- **Wholesalers / internalizers** — Citadel Securities, Virtu, Jane Street, G1X, Two Sigma Securities. These firms execute the bulk of US retail flow via payment-for-order-flow arrangements with brokers like Robinhood, Schwab, Fidelity, etc.
+- **Dark pools (ATSs)** — IEX (used to be ATS, now an exchange), UBS ATS, Credit Suisse Crossfinder, MS Pool, Goldman Sigma X, etc.
+- **Single-dealer platforms** — bank internal crossing systems.
+- **Block trading venues** — Liquidnet, Instinet, etc.
+
+There are three TRFs in operation:
+
+- **FINRA/Nasdaq TRF Carteret** (the main one, by volume)
+- **FINRA/Nasdaq TRF Chicago**
+- **FINRA/NYSE TRF**
+
+They're operated jointly by FINRA and the respective exchange — FINRA provides the regulatory framework, the exchange provides the technical infrastructure. Trades reported here flow into the consolidated tape (SIP) so they appear in last-sale data, but the *order book activity* that produced them never appears anywhere public.
+
+## Why TRFs matter for your purposes
+
+This is the core of why US equity order flow analysis is structurally compromised:
+
+1. **They represent ~40-45% of consolidated volume** on most names, and often higher on retail-heavy small-cap names — exactly your "Stocks In Play" universe. When Robinhood routes a market buy to Citadel and Citadel internalizes it at NBBO mid or just inside, that print appears on a TRF.
+
+2. **No aggressor side reported.** The wholesaler knows perfectly well whether the customer was buying or selling, but the TRF print only contains price, size, time, and a condition code. The aggressor flag isn't part of what FINRA requires to be disseminated.
+
+3. **No order book context.** There's no "book" to publish — these are bilateral or pool-internal matches. You see the print appear on the tape with no preceding quote activity to anchor it to.
+
+4. **Timing can lag.** TRF prints can be reported up to 10 seconds after execution under normal rules, and longer for certain trade types. So a print appearing at 10:30:05 might reflect an execution at 10:29:58 — which makes inferring direction from prevailing NBBO at print time even less reliable than it sounds.
+
+5. **The "T" condition code** marks extended-hours trades but doesn't tell you the venue. There's a separate TRF identifier (D for Nasdaq Carteret, FINRA ADF, etc.) but it doesn't help you reconstruct flow.
+
+## Why this is worse for small-caps specifically
+
+Retail flow concentration is much higher on small-cap catalyst names than on, say, AAPL. When a low-float biotech runs on news, the order flow is overwhelmingly retail, which means it's overwhelmingly internalized by wholesalers, which means it's overwhelmingly TRF-reported. You can paradoxically end up in a situation where:
+
+- Lit exchange volume looks "thin" — only 30-40% of total volume is on lit venues
+- The lit book has small size at each level
+- Most of the "real" flow is invisible in the TRF
+- Your held-level detector sees only the lit fraction, which may be uncorrelated with the actual aggressive flow direction
+
+This is part of why I think your held-level patterns are showing up rarely. The lit-venue fraction of small-cap catalyst flow is often a *minority* of true aggression, and it can systematically diverge from the dominant flow direction (e.g., wholesalers internalizing buys at midpoint while lit exchange trades happen to be sells from market makers managing inventory).
+
+## Why crypto perps don't have this problem
+
+To close the loop on the futures decision: a Hyperliquid or Binance perp has a single book, no internalization, no payment-for-order-flow, no off-exchange routing. The book you see is *the* book. Every aggressive trade interacts with that book. The TRF problem is a uniquely-bad feature of US equity market structure, not a general feature of trading venues.
+
+***
+
+You've arrived at exactly the right insight, and it's one that took the systematic equity trading community a long time to fully internalize. The PFOF debate is usually framed as "is retail getting good fills?" — which is the wrong question. The right question is "what does PFOF do to the information environment for everyone *else*?"
+
+## What you're describing is real and well-known among microstructure researchers
+
+The technical term is **adverse selection on lit venues**, and the mechanism is roughly:
+
+1. Wholesalers buy retail order flow because retail orders are, on average, **uninformed** — they're not trading on superior information about the next price move. The wholesaler can profit by spread capture (filling them inside the NBBO) without much risk that the order is part of a larger informed sequence.
+
+2. The orders that *don't* get internalized — the ones that hit lit exchanges — are disproportionately **informed**. They're either institutional flow, sophisticated systematic traders, or HFT. By definition, the residual lit flow has higher information content per share than the broader tape.
+
+3. Market makers on lit venues know this. They quote wider spreads and smaller sizes than they otherwise would, because they're being adversely selected — the orders that reach them are more likely to be on the right side.
+
+4. This widens spreads and thins displayed liquidity for everyone trading on lit venues, including you.
+
+There's a substantial academic literature on this — search terms like "segmentation," "cream-skimming," and "internalization adverse selection" if you want the formal treatment. Battalio, Corwin, and Jennings have papers showing measurable execution quality differences. Robert Battalio at Notre Dame has been one of the louder academic voices on it.
+
+## The information asymmetry is more pointed than just spread widening
+
+For your specific use case — order flow analysis on small-cap catalyst names — the problem compounds:
+
+**The wholesaler sees aggregate retail positioning across multiple brokers in real-time.** Citadel Securities executes order flow from Robinhood, Schwab, TD Ameritrade (now Schwab), Fidelity, E*Trade. They have a real-time picture of retail buying and selling pressure across 80%+ of US retail accounts. You cannot reconstruct this from any public data feed, at any price.
+
+**They can act on this information in their own market making and proprietary trading.** This is technically subject to information barriers and best execution requirements, but the firm-level signal still informs their market-making models. The barrier between "we observe this flow" and "our quoting algorithm responds to this flow" is regulatory rather than physical.
+
+**They may quote on lit exchanges using this signal.** When a wholesaler sees a wave of Robinhood buy orders in a small-cap stock, they're internalizing those orders at slight price improvement. They may also be lifting offers on lit exchanges to hedge or pre-position. From your view on the lit tape, you see lifted offers but you don't see the underlying retail wave that motivated them. By the time the TRF prints appear (with their reporting delay), the price has already moved.
+
+So your effective situation as a non-PFOF systematic trader on US small-caps is:
+
+- Wholesalers see retail positioning in real-time (informational advantage of seconds to minutes ahead of you)
+- Wholesalers see the full market book and microstructure (same as you, modulo direct feed costs)
+- You see only post-hoc TRF prints with delays and no aggressor side (significant informational disadvantage)
+- The "edge" you're trying to find on order flow signals is exactly the edge they have *cleaner access to*
+
+This isn't a moral indictment — it's just a description of the information topology. Wholesalers have purchased a privileged seat at the order flow table; you're trying to infer what's happening at that table from the silverware they leave on the curb.
+
+## On the "delay" specifically
+
+Worth being precise about what's actually delayed and what isn't, because this is sometimes overstated:
+
+- **Lit quote and trade data**: not delayed in any meaningful sense. SIP feeds have small latency (microseconds to low milliseconds vs. direct feeds), but it's not the wholesalers delaying anything.
+- **TRF prints**: real reporting delay, up to 10 seconds under FINRA Rule 6380A for normal trades, longer for various exception conditions. This is the regulatory rule, not wholesaler discretion — but the rule was written in a way that benefits internalizers.
+- **The internalization decision itself**: happens in microseconds. The "delay" is just that *you* never see the order arrive at all, because it was diverted before it could touch a public venue.
+
+So the issue isn't "wholesalers delay quotes" — it's "wholesalers see a giant flow stream that you don't see at all, and the public residue of that flow appears on the tape with delay and without directional labels."
+
+## Why this actually got worse, not better, over time
+
+A few structural shifts compounded the problem:
+
+1. **Zero-commission retail trading (post-2019).** Robinhood's PFOF-funded model became the industry default. Schwab, Fidelity, Vanguard all dropped commissions and lean more heavily on PFOF. Retail flow exploded in volume after COVID and the meme stock era. The wholesaler share of consolidated volume grew accordingly.
+
+2. **Sub-penny price improvement.** Wholesalers can fill at sub-penny prices ($10.0001) that lit exchanges can't quote due to tick size rules. This means they can offer "price improvement" of $0.0001 per share that's economically trivial but regulatorily counts as best-execution justification, while keeping the order off lit venues.
+
+3. **Reg NMS Order Protection Rule**: requires brokers to route to the best displayed price across exchanges, but doesn't require them to *display* on exchanges. So a wholesaler can match the NBBO without ever contributing liquidity to it.
+
+4. **The SEC's failed reform attempt.** In 2022-2023 the SEC under Gensler proposed a rule that would have forced retail orders into auctions where multiple wholesalers and other liquidity providers would compete to fill them. The rule was withdrawn after heavy industry opposition. So the status quo is locked in for now.
+
+## What sophisticated systematic equity traders actually do
+
+Once you understand this, several things make sense about how serious systematic equity shops operate:
+
+1. **They focus on names where retail flow is small.** Mid- and large-cap institutional names where the PFOF distortion is a smaller fraction of total flow. The opposite of small-cap catalyst trading.
+
+2. **They pay for FINRA short sale volume data, ORTEX, S3 Partners.** These let you see short positioning, which is one of the few flow signals not captured by PFOF.
+
+3. **They build relationships for institutional flow indications.** Sell-side trader chats, color from prime brokers, etc. — informational channels that bypass the public market entirely.
+
+4. **They focus on holding periods longer than the wholesaler informational edge.** The wholesaler edge decays — they have a few seconds to a few minutes of advantage on retail positioning. Strategies operating on hours-to-days-to-weeks horizons are largely insulated.
+
+5. **They migrate to other markets.** Futures, FX, crypto, options — markets without PFOF where the flow is observable. This is what you're doing.
+
+## The reframe
+
+Your instinct that "this puts me at a serious disadvantage" is correct, but I'd push it slightly further: it's not that you're at a disadvantage on a roughly-fair playing field. It's that **the market structure was redesigned over the past 20 years specifically to extract value from retail flow and concentrate informational advantages with wholesalers**, and one of the side effects is that systematic traders without wholesaler relationships have lost the ability to see flow that was visible 20 years ago.
+
+The "good old days" of order flow trading on equities — Paul Rotter's bund days, the original SMB methodology — operated in a market structure where most flow touched a visible book. That market doesn't really exist anymore for the retail-heavy names you wanted to trade. The methodology you absorbed was developed for an information environment that has since been dismantled.
+
+This isn't an argument that PFOF is morally wrong — there are genuine consumer benefits (zero commissions, tighter effective spreads on small retail orders) and the empirical question of net retail welfare is contested. But for *your* specific use case as a non-wholesale systematic trader trying to read order flow on small-caps, the structural shift has been straightforwardly negative.
+
+The good news: futures and crypto perps don't have PFOF, don't have internalization, don't have TRFs, don't have fragmented venues. The flow signal you've been trying to construct from compromised equity data is just *there*, waiting to be read, on those venues. You're moving from a market that's been informationally hollowed out for retail-adjacent strategies to markets where the information is still on the book.
+
+***
+
+This was an incredibly thought-provoking post. I am not sure I'd have ever managed to connect the dots without you. I am just curious....
+
+> They migrate to other markets. Futures, FX, crypto, options — markets without PFOF where the flow is observable. This is what you're doing.
+
+Can you actually get order flow info on FX, or were you referring to FX futures? Also, would having access to options order flow be useful without underlying flow.
+
+***
+
+Both excellent questions, and they get at a subtle point: "no PFOF" doesn't automatically mean "observable flow." Let me work through each.
+
+## FX: mostly the bad kind of opaque
+
+When I wrote "FX," I was being sloppy. The honest answer is that **spot FX has worse flow visibility than US equities, not better**. It's a different failure mode but a more severe one.
+
+The structure: spot FX is a decentralized OTC market. There's no central exchange, no consolidated tape, no equivalent of a SIP. The market is fragmented across:
+
+- **Tier-1 interbank venues** (EBS, Refinitiv Matching, formerly Reuters Dealing) — bank-to-bank liquidity, expensive access, not retail-available
+- **ECNs** (Hotspot, Currenex, FXall, FastMatch, LMAX) — institutional/HFT venues with various access tiers
+- **Single-bank platforms** (Barx, Autobahn, Velocity, Citi Velocity) — each major bank runs its own internal liquidity pool
+- **Retail aggregators** (OANDA, IG, Saxo, FXCM, Interactive Brokers) — show you a "synthetic" book that's an aggregation of their LP relationships
+- **Last look** — most FX liquidity providers retain the right to reject your order *after* you've submitted it, on the order of milliseconds, if the market has moved against them
+
+What "order flow" looks like at retail tier:
+
+- You see the prices your aggregator offers, which is some opaque function of their LPs' streamed quotes.
+- You don't see other participants' orders. Ever.
+- You don't see executed trades on a tape. There's no tape.
+- You don't see aggregate volume. The "volume" your platform shows is *its own internal volume*, not market volume.
+- You don't see aggressor side, because you don't see other people's trades at all.
+
+The information you have is essentially: your own fills, the bid/ask your platform shows, and macro news. That's it.
+
+**FX futures (CME 6E, 6J, 6B, 6A, etc.)** are the version of FX I should have referenced. They're listed CME contracts with full MDP 3.0 data — same aggressor side, same L3 book, same data quality as ES or CL. EUR/USD via the 6E future gives you what spot EUR/USD via OANDA fundamentally cannot: a transparent order book with labeled aggressor flow.
+
+The volume on FX futures is much smaller than spot FX (maybe 1-2% of spot turnover globally), but for a systematic trader who wants to read flow rather than just take a directional position, the futures version is the only honest option. Currency futures are deeply liquid in absolute terms even if they're a small slice of global FX — 6E does $50-100B notional/day, plenty for any size you'd realistically trade.
+
+So: yes, I should have said "FX futures." Spot FX is worse than equities for your purposes, not better.
+
+## "What about Forex Order Flow products?"
+
+Worth heading off a tangent: there are vendors selling things like "FX order flow" data — CLS settlement data, certain bank flow indicators, CME EBS data, etc. These are real products but they're either:
+
+- **Aggregate / lagged**: CLS publishes settlement data with delay, useful for macro but not for intraday trading.
+- **Bank-specific**: a bank might publish "our customer flow was X% buyer of EUR/USD this week," which is informational but represents only that bank's slice and is delayed.
+- **Expensive and institutional**: real bank flow indicators run to many thousands per month and are sold to hedge funds, not retail.
+
+None of this gives you what CME futures give you natively for free with the data subscription.
+
+## Options: the more interesting question
+
+Options flow is genuinely useful, and the answer to "is it useful without underlying flow" is **yes, but in a specific and somewhat indirect way**. Let me unpack.
+
+### What options order flow actually shows
+
+US options trade on 18 exchanges (NYSE Arca, NYSE American, CBOE, C2, BZX, EDGX, Nasdaq ISE, GEMX, MRX, PHLX, BX Options, MIAX, MIAX Pearl, MIAX Emerald, BOX, MEMX Options, etc.). Most major venues disseminate aggressor-tagged trades on their direct feeds — OPRA (the consolidated tape) carries trades but with limited venue/condition detail; the direct feeds give you full microstructure.
+
+So you can observe: every options trade with size, strike, expiry, side (aggressor buy/sell), and venue. From this you can derive:
+
+- **Net call/put delta flow**: aggregate signed delta exposure being put on or taken off
+- **Gamma flow and dealer positioning**: where dealers are short gamma vs. long gamma, which determines whether they hedge with the trend or against it
+- **Vega flow**: implied volatility positioning
+- **Sweep detection**: large multi-exchange aggressive prints suggesting institutional urgency
+- **Unusual options activity**: trades that don't match the typical retail/MM rhythm
+
+### Why this works without underlying flow
+
+This is the elegant part. **Options trades have to be hedged.** When a dealer sells a call to a customer, they're net short delta and need to buy the underlying to hedge. That hedging trade hits the equity market — and you may not see *who* is hedging or *why*, but you can see the options trade that necessitated the hedge.
+
+So options order flow is, in a sense, **a leading indicator of forced underlying flow**. If you see a massive call sweep on a small-cap name, you know:
+
+1. A customer just got long a lot of upside delta
+2. The dealer who sold those calls is now short delta
+3. The dealer will hedge by buying the underlying — soon, possibly now
+4. If the move continues and the calls go further ITM, dealer hedging accelerates (gamma effect)
+
+This gives you signal about *future* underlying flow even when current underlying flow is opaque to you. The options market is, in this specific sense, *more* informative than the underlying market for predicting the underlying's near-term behavior.
+
+### The dealer gamma positioning angle
+
+The deeper version of this is the gamma exposure (GEX) framework — popularized by SqueezeMetrics, SpotGamma, Menthor Q, and others. The idea:
+
+- Aggregate dealer net gamma position determines whether their hedging is *stabilizing* (long gamma — they hedge against the trend, dampening moves) or *destabilizing* (short gamma — they hedge with the trend, amplifying moves)
+- This positioning is computable from observable open interest and a model of who tends to be long vs. short each strike
+- Major price levels (round numbers, large open interest strikes) become magnets or repellents based on gamma positioning
+- 0DTE options have made this dramatically more pronounced on indices since 2022-2023
+
+This is real signal that major systematic traders use, and it's available with options-only data.
+
+### The catch for your style specifically
+
+A few honest caveats relevant to your situation:
+
+1. **Options data is expensive.** OPRA full feed is one of the largest market data firehoses in the world — billions of messages per day. Live OPRA via Databento or similar is not cheap, and the licensing tiers have similar non-display gotchas to equities. Historical OPRA is more affordable but still measured in hundreds-to-thousands per month for serious coverage.
+
+2. **Small-caps often have thin options markets.** Your "Stocks In Play" universe — low-float biotechs, micro-caps with catalysts — frequently has either no listed options or extremely wide spreads with negligible volume. The options-flow approach works much better on liquid mid/large-caps and indices than on the catalyst small-caps you were targeting. SPY, QQQ, NVDA, AAPL, TSLA — yes. Some random Russell 2000 biotech with a Phase 2 readout — usually not.
+
+3. **The signal is most useful at indices and mega-caps**, where dealer positioning is well-defined and 0DTE flow dominates intraday behavior. ES/SPX gamma flow is a major part of how systematic vol-aware traders operate. This drifts your strategy away from "Stocks In Play" toward "index and mega-cap intraday."
+
+4. **Inferring underlying direction from options flow is harder than it sounds.** Just because someone bought calls doesn't mean they're directionally long — could be a covered call writer being assigned, could be a hedge of a short stock position, could be a vol play, could be a calendar spread leg. Disentangling these requires sophisticated trade reconstruction that most retail-tier options flow products do poorly.
+
+### Where options flow + futures is the natural pairing
+
+Once you're trading ES futures (or BTC perps), options flow becomes very useful as a *complement* rather than a substitute. The workflow:
+
+- Observe SPX options flow → infer dealer gamma positioning → predict regime (mean-reverting if dealers long gamma, trending if short gamma)
+- Trade ES futures with that regime model informing your held-level/breakout logic
+- Use options flow events (large sweeps, unusual activity) as triggers or filters for futures trades
+
+This is closer to how serious systematic traders actually integrate options data — not as a standalone signal but as positioning context for trades they execute in the more liquid futures market.
+
+For your stage and stack, I'd file options flow as **"interesting future direction once crypto perps are working"** rather than something to chase now. The marginal complexity of integrating OPRA data, building gamma exposure models, and handling 18-venue options microstructure is large compared to the marginal edge you'd capture, especially relative to just deepening your understanding of perp order flow first.
+
+## The taxonomy that emerges
+
+Putting this together with what we discussed earlier, the venues sort cleanly:
+
+**Genuinely transparent order flow:**
+- Crypto perps (Hyperliquid, Binance, Bybit) — best, free, real-time
+- Listed futures (CME, ICE) — excellent, modest cost, regulated
+- US options direct feeds — good but expensive, complex, indirect signal
+
+**Compromised but partially observable:**
+- US equities lit feeds — partial picture, expensive, ~40% of flow invisible via TRFs
+- European equities — varies by venue, MiFID II reporting helps but fragmentation similar to US
+
+**Effectively opaque to retail:**
+- Spot FX — no consolidated tape, no aggressor data, last look
+- OTC bonds — even worse than FX, no public flow data at all
+- Most commodity OTC
+
+The pattern is consistent: **transparent flow correlates with centralized exchange structure**. The more an asset class has migrated to OTC or fragmented dark execution, the worse the flow visibility. Crypto perps happen to be the most centralized and transparent class because that's how the architecture was built; futures benefit from regulatory mandate; equities are in the middle precisely because they're partly centralized and partly internalized.
+
+So the broader lesson for your career arc: **pick markets by information topology, not just by familiarity or interest**. Your edge in order flow trading is fundamentally a function of how much flow you can actually see. Pick markets where you can see most of it.
+
+***
+
+This is wonderful advice. I'll keep the concept of information topology in mind going forward.
+
+I want to ask about what was once a strategy I tried in 2011-2014. Back then I was trying to short pump and dumps as taught by Tim Sykes, but at my IBKR account I could never get a borrow for any of those types of setups. I stopped trading in 2014, but I've recently returned and in a recent interview with Lance Breitstein, Tim Sykes said that the borrowing situation has improved.
+
+But Lance in particular also remarked that shorting small caps in that particular style has gotten much more dangerous as more people have adopted that strategy. The pumpers know this and can often squeeze in the after hours.
+
+How much of that is true?
+
+***
+
+Both Tim and Lance are telling you something real, but they're each emphasizing different parts of a more complex picture. The borrow situation genuinely has improved, but the danger has *also* genuinely increased — and the second effect probably dominates the first. Let me work through both claims.
+
+## On the borrow improvement claim
+
+This is true at the structural level, with caveats.
+
+**What actually changed since 2014:**
+
+1. **IBKR specifically expanded their stock loan program.** SLB (Stock Yield Enhancement Program) participation grew, which means more retail accounts opted into letting their long shares be borrowed against. This increased the supply pool for hard-to-borrow names.
+
+2. **Centralized stock lending platforms emerged.** The SEC's Rule 10c-1a (passed in 2023, with phased implementation through 2026) requires centralized reporting of securities lending transactions to FINRA, increasing transparency in the borrow market. ORTEX, S3 Partners, and Hazeltree built data products that show borrow availability and rates in something approaching real-time.
+
+3. **More prime brokers entered retail-adjacent space.** Centerpoint, Cobra Trading, DAS, TradeZero (Bahamas-domiciled for offshore borrows specifically), Guardian Trading. Many of these explicitly market to small-cap short sellers. Centerpoint and Cobra in particular are the standard recommendations in the SMB / Tim Sykes ecosystem now.
+
+4. **Locate fees became more transparent and competitive.** Where you used to pay opaque "hard to borrow" fees with no preview, now most platforms quote you a borrow rate before you submit the short. Annualized rates of 50-500% on hot small-caps are normal and visible up front.
+
+5. **Pre-borrow programs.** Cobra, Centerpoint, and similar offer pre-market locate procurement where you can secure shares for the open. This is the specific thing Sykes likely means — in 2011-2014, you'd see a setup pre-market and then find no shares available; today, you can call your locate desk at 8:00 AM and pay for shares before the open.
+
+**The remaining caveats:**
+
+1. **IBKR is still relatively conservative with small-cap borrows.** If you returned to the same IBKR account today and tried to short a low-float pump, you'd often *still* find no shares, or shares only at extreme rates. The improvement you'd notice is at the small-cap-focused brokers, not at IBKR. The Tim Sykes ecosystem effectively requires using Centerpoint, Cobra, or similar — IBKR is for futures and liquid equity work.
+
+2. **The borrows that exist are expensive.** "Available to short" is not the same as "economically viable to short." Borrow rates of 100-500% annualized on the hottest names mean you're paying 0.3-1.4% per day just to hold the position. On a 3-day swing this can eat half your edge.
+
+3. **Borrows can be recalled.** You go short, the broker locates shares, you're filled — and then the lender recalls and you get bought-in at whatever price the broker can cover. This happens *most often* on exactly the names you most want to short, often *exactly* when they're squeezing.
+
+4. **Pre-market and after-hours borrow availability is worse.** Locates expire, new locates may not be available outside RTH. So you can't easily defend a position by adding/covering in extended hours.
+
+So Tim's claim is directionally right but the headline "borrows have improved" misses that *the cost of being right* on borrow has gone up in tandem.
+
+## On Lance's claim about increased danger
+
+This is the more important point, and Lance is more correct than Tim. The structural changes have made small-cap short selling materially more dangerous than 2011-2014, in several specific ways.
+
+### 1. The pump-and-dump ecosystem has industrialized
+
+In 2011-2014, the typical pump-and-dump was a US-based promoter, OTC pink sheet stocks, email and stock-promotion-newsletter pumps. The pumper had a few hundred to maybe a few thousand active recipients. The flow was meaningful but bounded.
+
+Today's small-cap pump ecosystem is dramatically larger and more sophisticated:
+
+**Discord and Telegram pump groups** with tens of thousands of members each. Coordinated entries timed to second-level precision. Some are run by people who clearly understand what shorts will do at each level and are explicitly trying to trigger squeezes.
+
+**Chinese reverse merger and Hong Kong listed micro-caps.** A whole category of "ADR-style" tiny-float listings on Nasdaq — particularly the "China small-caps" pattern from 2022-2024 — where the entire float can be 1-2 million shares, controlled by insiders, with retail-driven trading on top. Names like AMTD Digital (the famous 21,000% one), Magic Empire, Hong Kong Acquisition Corp, etc. These structurally cannot be shorted safely; the float is too small for any short to cover without moving the stock 50%+.
+
+**Coordinated social media promotion.** Twitter/X pumpers with hundreds of thousands of followers, paid promotion deals disclosed in 8.5x1 font, YouTube hype videos. Reach is orders of magnitude larger than 2014.
+
+**The pumpers know shorts.** This is Lance's specific point and it's correct. Modern pump operators are explicitly running short squeeze plays. They watch borrow availability data, they watch short interest reports, they watch the regulatory short-sale volume data (FINRA daily). They time their pumps to maximize squeeze potential. The whole "trapped shorts" narrative has become a deliberately constructed feature of the play, not an accident.
+
+### 2. The after-hours / pre-market squeeze pattern
+
+Lance's specific claim about extended-hours squeezes is precisely right and worth understanding mechanically:
+
+**Why after-hours is dangerous for shorts:**
+
+- Liquidity is a fraction of RTH (often 5-10% of regular session volume on small-caps)
+- Locate availability collapses; you may not be able to add to short or hedge
+- Stop orders don't execute the same way; many brokers won't execute stops in extended hours, or execute them with worse slippage
+- A single 5,000-share market buy can move a thin small-cap 30%+ AH
+- Pumpers can issue news (PR releases, paid promotions, Tweet storms) timed for 4:01 PM or 7:30 AM precisely because shorts are most vulnerable then
+
+**The specific mechanic:**
+
+A pump-and-dump that's already extended into Day 2 or Day 3 is being held by short sellers expecting the inevitable fade. The pumpers (or coordinated groups) issue a news catalyst or coordinated buy push at 4:05 PM. Stock pops 40% in the first 15 minutes of AH on minimal volume. Borrow gets recalled by some lenders overnight. By the open the next day, the stock is up 80%+ and shorts who couldn't add or cover in AH are now facing margin calls at the open.
+
+This pattern barely existed in 2011-2014 because the promoter ecosystem wasn't watching shorts as actively, social coordination tools were primitive, and small-cap AH liquidity was even thinner than it is now (so pumpers couldn't really execute coordinated AH pumps).
+
+### 3. The 2021 meme stock era as inflection point
+
+GME, AMC, and the broader 2021 meme phenomenon fundamentally changed how the small-cap short selling game works:
+
+- **Demonstrated to retail that coordinated buying can blow up shorts.** This isn't a hypothetical anymore; everyone has seen the playbook work.
+- **Created permanent "short squeeze" narratives** that attach to any stock with elevated short interest.
+- **Created a pool of capital actively looking for squeeze candidates.** The squeeze hunter community is now a structural feature of small-cap markets, not a temporary anomaly.
+- **Regulators became more skeptical of short sellers, not pumpers.** The political winds shifted; congressional hearings featured Robinhood and Citadel, not pump-and-dump operators. Short selling restrictions get proposed regularly; pump-and-dump prosecutions remain rare.
+
+### 4. Specific structural changes that hurt shorts
+
+A few discrete things that have changed since 2014:
+
+- **Threshold securities lists and forced buy-ins.** Reg SHO close-out requirements have tightened, meaning brokers force shorts to cover faster on hard-to-borrow names. You can be involuntarily covered at terrible prices.
+- **T+1 settlement (May 2024).** Reduced from T+2. Compresses the timeline for everything including buy-ins and recalls.
+- **Halts.** SSR (Short Sale Restriction, the modern uptick rule) triggers on a 10% drop and lasts the rest of the day plus the next. LULD (Limit Up-Limit Down) bands halt trading on rapid moves. Both make precise short execution harder.
+- **Direct listings and SPACs flooded the market with low-quality small-caps.** 2020-2022 SPAC era left hundreds of micro-caps with weird capital structures, founder lockups, warrant overhangs — many of which became serial pump targets.
+
+### 5. The asymmetric tail risk
+
+The fundamental issue with shorting pump-and-dumps is **the tails are not symmetric**. Your maximum gain on a short is 100% (stock goes to zero). Your maximum loss is unbounded. A pump that runs another 300% before eventually fading takes you out of the game permanently if you sized for "this thing has to fade."
+
+This was always true, but in 2011-2014 the *frequency* of catastrophic squeezes was lower. Today, with the industrialized pump ecosystem and squeeze-hunter pool, the frequency of fat-tail squeeze events has gone up. Your strategy has to either:
+
+- Size much smaller (which kills the strategy economics)
+- Use options for defined risk (which is expensive in IV terms on these names)
+- Accept occasional catastrophic blow-ups (which kills accounts)
+
+Most ex-Sykes-style traders who made it long-term either adapted to *much* smaller size, moved to a long-biased "buy the dip after the squeeze" approach, or migrated to other strategies entirely. The ones who kept doing classic pump-short with 2014-style sizing mostly blew up at some point during 2020-2024.
+
+## Putting it together for your decision
+
+If you were considering revisiting this strategy, the honest assessment:
+
+**Net change since 2014:**
+- Borrow availability: meaningfully better (positive)
+- Borrow cost: meaningfully higher (negative, partially offsets)
+- Pump ecosystem sophistication: dramatically worse for shorts (strongly negative)
+- Squeeze frequency: dramatically higher (strongly negative)
+- AH/PM weaponization: didn't really exist before, now standard (strongly negative)
+- Information topology for retail flow: worse (PFOF, TRFs hide the actual buying)
+- Regulatory environment: tilted against shorts vs. 2014 (modestly negative)
+- Short-side data tools (ORTEX, S3, FINRA daily): much better (positive)
+
+The data tools and borrow access are the only things that got better. Everything about the actual trading dynamics got worse, and the worse parts are bigger than the better parts.
+
+**Lance's framing is more actionable than Tim's.** Tim's incentive is to keep selling courses, and "the borrow problem is solved!" is a more marketable story than "the strategy I made famous has gotten dangerous." Lance is a working trader who has nothing to sell you on this question; his read that the asymmetry has shifted against shorts is unsentimental and matches the structural evidence.
+
+**The "information topology" frame applies here too.** Pump-and-dump shorting was always a form of betting against retail mania. In 2014, retail mania was somewhat observable through the lit tape, the OTC market structure was less coordinated, and pumpers were less sophisticated about shorts. Today, the retail flow you're betting against is largely invisible to you (PFOF, TRFs, off-exchange), the pumper coordination is happening on private Discords you can't see, and the squeeze-hunter pool is watching your every short interest data point.
+
+You're trying to read a game where the other side has dramatically better information than you do, can coordinate their actions in venues you can't observe, and faces asymmetric upside vs. your unbounded downside. By information-topology logic, this is exactly the *opposite* of what you want to be doing.
+
+**The crypto perp path you've chosen is the cleaner answer.** All the things that make pump-shorting hard — opaque flow, coordinated retail, asymmetric tails, borrow constraints, AH vulnerability — are absent or reversed on perps. You can short BTC perp at 5x the size you'd be comfortable shorting a pumped microcap, with full visibility into the order book on both sides, no borrow risk, no AH gap risk (the market never closes), and no industrialized squeeze ecosystem specifically targeting small-cap shorts.
+
+If anything, the question "should I revisit pump shorting given that borrows are better?" is one that helps clarify the futures decision rather than complicating it. The answer is the same: the structural information asymmetry has gotten worse, not better, and crypto perps remove that asymmetry entirely.
+
+***
+
+Very interesting. I am not asking this for no reason; the overall price pattern of shitcoins does resemble penny stocks a lot with the strong pumps that become dumps. Maybe Tim Sykes' shorting strategy would work well on them?
+
+***
+
+This is a really sharp observation, and I want to engage with it seriously because the analogy is more valid than it might first appear, but it also has some sharp edges that matter.
+
+## Where the analogy genuinely holds
+
+The chart-pattern resemblance is real and not coincidental. Both shitcoins and pumped penny stocks share:
+
+- **Asymmetric supply structure**: small float / low circulating supply controlled by insiders
+- **Catalyst-driven retail mania**: news, hype, social coordination drives entry
+- **Parabolic price action followed by terminal decline**: the classic "stairs up, elevator down" pattern
+- **Insider distribution into retail enthusiasm**: the actual dump phase
+- **Predictable behavioral exhaustion**: the pump can only last as long as new buyers arrive
+- **Eventual return to near-zero**: most of these instruments are functionally worthless and the long-run terminal value is close to zero
+
+The underlying *human dynamics* are essentially identical: retail FOMO, coordinated promotion, insider exit liquidity, eventual collapse when the marginal buyer disappears. This isn't surprising — these are recurring patterns of speculative bubbles that show up in tulips, internet stocks, penny stocks, NFTs, shitcoins, and whatever's next.
+
+So the *strategic intuition* — "fade the parabolic pump, capture the inevitable decline" — has the same theoretical validity in both venues.
+
+## Where the analogy breaks down (and these matter a lot)
+
+Several specific differences make the implementation dramatically different, and most of them favor crypto-perp shitcoin shorting over equity pump shorting.
+
+### 1. No borrow constraint, but a different cost: funding
+
+This is the cleanest improvement. On a perp, you don't borrow shares — you open a short position directly. The cost isn't an interest rate on borrowed shares; it's the **funding rate**.
+
+When a perp is being aggressively bid up, longs pay shorts via funding (often 8-hourly on Binance/Bybit, hourly on Hyperliquid). On a hard-pumping shitcoin, funding can spike to extreme levels — I've seen sustained 0.5%+ per 8-hour interval (i.e., 1.5% per day, ~550% annualized) on names in active mania.
+
+The crucial difference: **as a short, you're being *paid* this funding, not paying it**. Where shorting a hot small-cap costs you 100-500% annualized in borrow fees, shorting a hot shitcoin perp pays you 100-500%+ annualized in funding while you wait for the fade.
+
+This single difference flips the economics completely. The carry on the trade is *positive* for you, not negative.
+
+### 2. No locate, no recall, no buy-in
+
+This is the second clean improvement. There's no lender who can pull your shares back. There's no "hard to borrow" status. There's no Reg SHO close-out forcing you to cover. As long as your collateral covers your margin requirement, the position stays open.
+
+The equivalent risk is **liquidation**, which is mechanically different: it's based on your account equity vs. position size, not on lender recall. You control liquidation risk through sizing and leverage; you don't have a third party arbitrarily deciding to close you.
+
+### 3. Liquidity asymmetry favors shorts in a different direction
+
+On small-cap pump shorts, the squeeze risk comes from thin upside liquidity — there are not enough sellers above the current price to absorb buying without explosive moves higher.
+
+On shitcoin perps, the *opposite* asymmetry often holds. The perp book typically has reasonable depth on both sides because market makers run two-sided quotes, but the **spot/perp basis** can blow out during pumps. When spot is being driven up by retail buying on Binance/Coinbase spot, the perp tends to trade at a premium, which is exactly the funding-rate signal you're collecting. The basis trade itself becomes part of the edge.
+
+### 4. The squeeze risk is different in nature
+
+This is where I want to be careful and honest, because it's not all upside.
+
+Shitcoins absolutely *can* squeeze, and the mechanism is different but not necessarily smaller:
+
+- **Cascading short liquidations.** When a shitcoin perp rips, leveraged shorts get liquidated in order from least-collateralized to most. Each liquidation is a forced market buy, which pushes price further, which liquidates the next layer of shorts. This is the crypto equivalent of a small-cap squeeze, and it can be just as violent — sometimes more so because there's no LULD halt and no SSR trigger.
+- **No circuit breakers.** A shitcoin can move 200% in 10 minutes with no halts. A small-cap stock would have hit multiple LULD pauses, giving shorts time to react. On crypto, the move just happens.
+- **24/7 means no overnight reset.** A small-cap pump that's exhausted itself often fades after hours when promoters stop coordinating. A shitcoin pump can continue or restart at any hour. There's no closing bell that gives the move a chance to digest.
+- **Lower-cap perps can have aggressive auto-deleveraging (ADL).** If your short is profitable but the exchange's insurance fund gets exhausted from the cascade liquidations, *your* profitable position can get force-closed at the mark price. This is the crypto-specific equivalent of getting bought-in on equities, and it specifically targets you when you're winning.
+
+### 5. The "terminal value is zero" argument is stronger but the timeline is unclear
+
+Most shitcoins go to near-zero eventually. This is empirically more reliable than the "all pumped small-caps eventually fade" claim, because pumped small-caps sometimes have *some* underlying business and don't go to actual zero, while shitcoins frequently do.
+
+But: "eventually" can be a long time, and your perp position is exposed to liquidation the entire interval. A shitcoin can pump 10x on launch, fade 50%, pump another 5x on a Twitter mention, fade 70%, sit sideways for 6 months, and *then* go to zero. If you shorted at the original peak and held through, your account would have been liquidated three times before being right.
+
+### 6. The pump-and-dump operators are at least as sophisticated
+
+The crypto pump ecosystem is, if anything, *more* industrialized than the equity pump ecosystem:
+
+- **Insider/team token unlocks** are publicly known and create predictable dump pressure — but smart operators time pumps to *precede* unlocks, trapping shorts who think they understand the supply schedule.
+- **Wash trading** on smaller exchanges is rampant and creates illusion of organic volume.
+- **Coordinated narrative pumping** via crypto Twitter, KOLs (key opinion leaders) with paid promotion deals.
+- **Memecoin season dynamics** where capital rotates between names on weekly or daily cycles, making timing any specific short brutal.
+- **MEV and sniper bots** front-run flows you'd want to fade.
+
+So the "the pumpers know shorts" point Lance made about equities applies fully to crypto, possibly more so. The shitcoin pump operators are watching open interest, funding rates, and liquidation maps in real time, and they specifically time pumps to maximize liquidation cascades.
+
+## What actually works in practice
+
+There's an established playbook for this kind of trading on crypto perps, and it's somewhat different from the Sykes equity playbook in important ways:
+
+**Funding rate harvesting as primary edge, not pump-fading:** Instead of trying to short *the top* (which has the same identification problem as on equities), you systematically short into extreme positive funding and cover when funding normalizes. The edge is the funding payments themselves; you don't need the price to fall, you just need it to stop ripping. This is the standard "cash and carry" or "funding farm" trade and it's well-known in crypto. Many systematic crypto desks essentially run this as their core strategy.
+
+**Basis arbitrage:** Long spot, short perp when basis is extreme. Captures the funding without directional exposure. Lower returns but much lower risk than naked shorting. Requires capital efficiency on both legs.
+
+**Defined-risk options structures:** Major coins (BTC, ETH, SOL) have liquid options on Deribit and increasingly elsewhere. You can express "this pump is exhausted" via put spreads or call spreads sold, with capped downside. Shitcoins generally don't have liquid options, which limits this to majors.
+
+**Layered shorts with explicit liquidation budgeting:** Size each entry such that you can survive 2-3x further pumping before any layer liquidates. Use the funding payments to subsidize the cost of being early. This is closer to the Sykes "scale into shorts" approach but with explicit math about liquidation prices rather than account-blow-up risk being an unconsidered tail.
+
+**Avoiding the smallest caps:** The shitcoin equivalent of "low float biotech with 2M shares" is "newly listed perp on a tier-3 exchange with $2M of OI." These can move 500% on a single whale buying. The major-coin perps (BTC, ETH, SOL, perhaps the top 20 by OI) are the equivalent of mid-cap stocks — still volatile, still pumpable, but with enough depth that you're not getting wicked out by a single market participant.
+
+## The honest synthesis
+
+Your intuition is correct that the pattern is similar and the strategy is more applicable to shitcoins than to current US small-cap equities. Specifically:
+
+- **Borrow problem: solved cleanly** (replaced by funding, which is *positive* for shorts during pumps)
+- **AH vulnerability: doesn't apply** (no AH on perps, but 24/7 means no rest either)
+- **Information topology: dramatically better** (full order book, full aggressor data, observable funding/OI/liquidation cascades)
+- **Asymmetric tails: still present** (liquidation cascades and ADL replace squeeze and buy-in)
+- **Pumper sophistication: at least as bad** (probably worse on lowest-cap names)
+
+The strategy that *actually works* on crypto perps isn't a direct port of Sykes-style "short the top of the parabolic and ride it down." It's closer to **systematic funding rate harvesting with defined-risk sizing**, where you're capturing the carry from leveraged retail positioning rather than trying to time directional reversals.
+
+This is also much closer to your stated systematic, quantitative, order-flow-driven approach. The Sykes methodology is fundamentally discretionary pattern recognition; the crypto-perp version of "fade overextended retail positioning" naturalizes into a systematic strategy with explicit funding signals, liquidation map signals, and order flow signals.
+
+So: **yes, the analogy points you somewhere real, but the implementation doesn't look like Sykes-style trading. It looks like the systematic crypto funding/basis trade, possibly enhanced with the order flow detection logic you've already built.**
+
+The discretionary "I'm gonna short this top" approach has the same fundamental issue on shitcoins as on penny stocks — picking tops is hard, and being early gets you liquidated even if you're eventually right. The systematic "I capture funding carry on extreme positioning until it normalizes" approach uses the same underlying market dynamic but with explicit, measurable signals and bounded loss profiles. That's the version worth pursuing.
+
+***
+
+Interesting. I'll have to do some research if it would be possible to use hold patterns to enter short positions for shorter term fade trades.
+
+> MEV and sniper bots front-run flows you'd want to fade.
+
+What are these bots? First time I am hearing about them.
+
+***
+
+Good question, and worth understanding because they affect how you think about flow and execution on any on-chain venue you might trade.
+
+## MEV: the foundational concept
+
+**MEV** stands for **Maximal Extractable Value** (originally "Miner Extractable Value" before the Ethereum merge moved consensus from proof-of-work miners to proof-of-stake validators). It refers to the value that can be extracted by whoever has the power to **order, include, or exclude transactions in a block**.
+
+The core insight: on a blockchain, transactions are submitted to a public mempool (a queue of pending transactions), and then a block producer (validator/miner) selects which ones to include and in what order. Transaction ordering is *not* first-come-first-served — it's chosen by the block producer, typically to maximize fees paid to them. This creates economic opportunities for whoever controls ordering, and a whole ecosystem has developed around exploiting them.
+
+Bitcoin has minimal MEV (transactions are simple value transfers; reordering doesn't change much). Ethereum and its L2s have *enormous* MEV because of complex DeFi interactions — DEX swaps, lending liquidations, NFT mints, arbitrage opportunities. Solana has its own MEV ecosystem with different mechanics due to its different consensus.
+
+## The main categories
+
+### 1. Arbitrage MEV
+
+The legitimate-ish kind. When ETH trades at $3,000 on Uniswap and $3,002 on SushiSwap, a bot can submit a transaction that buys on Uniswap and sells on SushiSwap atomically (in the same transaction, so it can't fail halfway). The bot captures the $2 spread minus gas. This is genuinely useful — it keeps prices aligned across DEXes.
+
+### 2. Liquidation MEV
+
+When a borrower's collateral on Aave/Compound/MakerDAO falls below the liquidation threshold, anyone can call the liquidate function and receive a bounty (typically 5-10% of the position). Bots compete to be first. This is also useful — it keeps lending protocols solvent — but the competition burns gas and is winner-take-all.
+
+### 3. Front-running (this is the predatory kind)
+
+The mempool is *public*. Anyone can see pending transactions before they're included in a block. So if you submit "buy 1000 ETH worth of $SHITCOIN on Uniswap," a bot can see your transaction sitting in the mempool, submit its own buy with higher gas (so it gets included first), let your buy push the price up, then sell into your trade. This is called a **sandwich attack**:
+
+1. Bot sees your pending swap
+2. Bot front-runs you (buys before your transaction)
+3. Your transaction executes at a worse price (because the bot just moved it)
+4. Bot back-runs you (sells immediately after your transaction)
+5. Bot pockets the difference; you get filled at worse-than-expected price
+
+This is the "MEV bots front-running flows" thing I mentioned. If you submit any non-trivial swap on a public DEX, you're exposed to this. Sandwich bots are highly competitive and well-capitalized; a sufficiently large or sufficiently obvious trade *will* get sandwiched.
+
+### 4. Sniper bots
+
+A specific subcategory targeting newly-launched tokens. When a new token launches on Uniswap (or pump.fun on Solana, or similar), liquidity is added to a pool at some initial price. Snipers monitor the chain for liquidity-add events and submit buy transactions to be the first to acquire tokens at the launch price, often within the same block as the liquidity add.
+
+The goal: get filled at the absolute floor before any retail buyer can, then dump on the retail buyers who arrive seconds to minutes later. On Solana memecoins (pump.fun ecosystem), this is the dominant launch dynamic — the first few transactions in a token's history are almost always sniper bots, and they often capture 50%+ of the early supply.
+
+### 5. JIT (Just-In-Time) liquidity
+
+A more sophisticated MEV play on Uniswap V3 and similar concentrated liquidity DEXes. Bot sees a large pending swap, adds concentrated liquidity at the exact range the swap will execute in, captures the LP fees, then removes the liquidity in the same block. They're providing liquidity for one transaction.
+
+## Why this matters for your strategy specifically
+
+Here's the relevant translation to your situation:
+
+### If you trade on centralized perp exchanges (Binance, Bybit, OKX), MEV largely doesn't apply
+
+Centralized exchanges don't have a public mempool. Your orders go to their internal matching engine, which the exchange controls. Front-running by *external bots* isn't possible — there's no public queue to observe.
+
+The risks on CEXes are different and worse in some ways: the exchange itself can see your orders and could in theory front-run you (Binance has been accused of this; the truth is murky), and HFT firms colocated at the exchange have latency advantages over you. But these are different problems with different mitigations than MEV.
+
+### On Hyperliquid, the situation is interesting
+
+Hyperliquid is on-chain but has its own L1 with a single sequencer (validator set). There's no public mempool the way Ethereum has — transactions go to the validators directly and are ordered by them. This means:
+
+- No sandwich attacks on swaps the way Uniswap has
+- No traditional sniper bots front-running your perp orders
+- The order book and matching are deterministic and on-chain
+
+But the validators themselves theoretically have ordering power, and there's been ongoing discussion in the Hyperliquid community about MEV protection guarantees. As of now, the practical MEV exposure on Hyperliquid perp trading is much lower than on Uniswap and roughly comparable to a CEX.
+
+### On Solana DEXes (Jupiter, Raydium, pump.fun), MEV is severe
+
+If you ever traded shitcoins via Solana DEXes, you'd be in heavy MEV territory. Solana doesn't have a traditional mempool but has its own equivalent (leader transaction ordering), and Jito bundles + private orderflow auctions create a sophisticated MEV ecosystem. Sandwich attacks are common; sniper bots dominate token launches; landing transactions reliably during volatile periods is its own art form.
+
+### On Ethereum L1 and L2s, MEV is everywhere but increasingly mitigated
+
+Ethereum has developed a layered MEV-protection ecosystem:
+
+- **Flashbots Protect**: routes your transaction to validators privately, bypassing the public mempool
+- **MEV-Boost**: separates block proposers from block builders, with auctions for block content
+- **CowSwap, 1inch Fusion**: route through specialized solvers that protect against sandwich attacks
+- **Private mempools** offered by various RPC providers
+
+These work, mostly. A sophisticated trader on Ethereum DEXes today can mostly avoid sandwich attacks by using these tools. But you have to know to use them.
+
+## How this affects your "hold patterns to enter short fade trades" idea
+
+Bringing this back to your actual strategy question: if you're trading perps on Hyperliquid or a major CEX, **MEV bots front-running your entries is mostly not a concern**. Your fills will be determined by the exchange's order matching, not by some bot watching your transactions.
+
+The relevant concerns for your fade-trading idea are different:
+
+1. **Your size relative to book depth.** If your entry order would meaningfully move the perp book, you need to think about market impact. Not MEV, just classic order book microstructure.
+
+2. **Other systematic traders running similar fades.** This is the more relevant "front-running" risk. If you've identified a hold pattern that signals exhaustion and entry for a short, *other systematic traders may have identified the same pattern*. They may execute slightly faster than you (lower latency to the exchange, or better predictive features) and the move you're trying to capture starts before you're filled. This is competition, not MEV.
+
+3. **Liquidation cascade timing.** If your fade idea is "short into apparent exhaustion at the top of a pump," you're competing with everyone else who's trying to short the top. The actual capitulation move, when it comes, often happens with such speed that being late by 100ms means missing 50% of the move.
+
+4. **Funding-rate convergence.** If the strategy relies on extreme funding normalizing, that normalization is itself driven by other traders putting on the same trade. Crowded trades pay less.
+
+But the specific MEV/sniper concern is mostly a Solana-DEX and Ethereum-DEX issue, not a Hyperliquid-perp or CEX-perp issue. So for the strategy you've actually decided to pursue, MEV is more "good to understand for context" than "active operational concern."
+
+## Why it matters anyway
+
+Two reasons it's worth understanding even if you're not directly exposed:
+
+**First, MEV affects which on-chain markets are viable.** If you ever wanted to trade smaller-cap tokens that don't have CEX perps, you'd be on a DEX, and MEV would suddenly be your problem. The set of "things you can systematically trade without worrying about being sandwiched" is essentially {CEX spot, CEX perps, Hyperliquid perps, BTC/ETH/SOL on major DEXes with MEV protection}. Outside that set, MEV taxes everything.
+
+**Second, MEV is part of why crypto market structure looks the way it does.** The reason Hyperliquid succeeded is partly that it solved the MEV problem for perps. The reason most institutional flow stays on CEXes is partly MEV avoidance. Understanding MEV helps you understand why the venue landscape has the shape it does — and why the venues you've gravitated toward (CEX perps, Hyperliquid) are actually the right ones for systematic strategies.
+
+If you go deeper into crypto trading and ever consider on-chain DEX strategies, MEV becomes a first-class concern and you'd want to read up properly — Flashbots' research blog is the canonical source, and Paradigm has published several good explainers. But for your current path, knowing it exists, knowing roughly how it works, and knowing it doesn't apply to your chosen venues is probably sufficient.
+
+***
+
+This was incredibly riveting conversation.
+
+I think I've only realized just now what having 50% of the volume off the exchanges means. Imagine somebody gives you a volume chart and the rearanges 50% of the bars at will. Plus 50% of the order sign is genuinely hidden.
+
+It's a huge disadvantage. No wonder Lance said that Shark of Swang couldn't make money in 99% of the tickers! I thought that was very strange, but now it makes sense.
+
+I wonder how some of the SMB traders still manage to get 95% winning days in light of this?
+
+But it's probably impossible for me given that I'd need to pay 5k per month for the prop feed data.
+
+Hell, even crypto order book data is quite expensive at scale though not nearly as much.

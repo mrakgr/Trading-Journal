@@ -9917,3 +9917,11 @@ The bar creation condition is:
 θ{T} > θ_threshold
 ```
 
+2:35pm. https://youtu.be/qqSTJJg93xQ
+40 Hours of Free Lectures Worth a $200K Quant Degree
+
+Let me watch this and I'll do the exercises.
+
+2:40pm. ![](images/image-2498.png)
+
+This is interesting.

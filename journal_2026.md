@@ -10966,7 +10966,7 @@ If you go deeper into crypto trading and ever consider on-chain DEX strategies, 
 
 This was incredibly riveting conversation.
 
-I think I've only realized just now what having 50% of the volume off the exchanges means. Imagine somebody gives you a volume chart and the rearanges 50% of the bars at will. Plus 50% of the order sign is genuinely hidden.
+I think I've only realized just now what having 50% of the volume off the exchanges means. Imagine somebody gives you a volume chart and he rearranges 50% of the bars at will. Plus 50% of the order sign is genuinely hidden.
 
 It's a huge disadvantage. No wonder Lance said that Shark of Swang couldn't make money in 99% of the tickers! I thought that was very strange, but now it makes sense.
 
@@ -10975,3 +10975,5 @@ I wonder how some of the SMB traders still manage to get 95% winning days in lig
 But it's probably impossible for me given that I'd need to pay 5k per month for the prop feed data.
 
 Hell, even crypto order book data is quite expensive at scale though not nearly as much.
+
+9:05pm. Let me go to bed. Tomorrow comes the first backtest.

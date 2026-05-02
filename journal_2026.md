@@ -9925,3 +9925,9 @@ Let me watch this and I'll do the exercises.
 2:40pm. ![](images/image-2498.png)
 
 This is interesting.
+
+5:05pm. Thank god, all the data has finally downloaded, but I don't feel like starting the backtesting phase right now.
+
+I am decently fresh, but I want to normalize my fatigue levels until I get some data to really excite me about trading.
+
+Maybe I'll do some research on equity data on the side. I'll take the time off to have a bath.

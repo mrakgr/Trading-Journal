@@ -9903,10 +9903,10 @@ where
 `Q_bid{t}` - Total bid quantity at best levels
 `Q_ask{t}` - Total ask quantity at best levels
 
-Cumulative imbalance:
+Cumulative volume weighted order book imbalance (in Spiral-style pseudocode):
 
 ```
-θ{T} = I{t} * v{t}
+θ{T} = sum {from=1; to=T} (fun t -> I{t} * v{t})
 ```
 
 where `v{t}` is the volume at a particular time `t`.

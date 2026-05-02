@@ -9877,4 +9877,43 @@ https://youtu.be/m9Ay_8B5FFg?t=4688
 
 Lol.
 
-> The best people to learn from where on Twitter, like Auguston Lebron.
+> The best people to learn from where on Twitter, like Agustin Lebron.
+
+5/2/2026
+
+8:55am. I am stuck until the crypto data finishes downloading, which might not be for a few of more hours. The download is 1tb long after all, I am 50% in after 4h roughly.
+
+https://youtu.be/UmCRYENRp7Y
+Ex-Jane Street Trader: How to Find “Edge” in the Markets and Real Life
+
+This is the interview with Agustin Lebron.
+
+I guess I'll just be watching random things until we can get on with the backtesting.
+
+10:30am. Let me write down the order book imbalance bar formula from the Morphic Labs document. It's very simple.
+
+Order book imbalance:
+
+```
+I{t} = (Q_bid{t} - Q_ask{t}) / (Q_bid{t} + Q_ask{t})
+```
+
+where 
+
+`Q_bid{t}` - Total bid quantity at best levels
+`Q_ask{t}` - Total ask quantity at best levels
+
+Cumulative imbalance:
+
+```
+θ{T} = I{t} * v{t}
+```
+
+where `v{t}` is the volume at a particular time `t`.
+
+The bar creation condition is:
+
+```
+θ{T} > θ_threshold
+```
+

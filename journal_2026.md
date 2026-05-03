@@ -10986,3 +10986,12 @@ Reverse Collapse: F - Announce Trailer
 Reverse Collapse is getting a sequel? Nice.
 
 Let me chill for a bit and then I will start.
+
+11:30am. I got some promising results on ETH and BTC with aggression features. Currently we're preprocessing the trades data into time bars.
+
+https://youtu.be/t5B2N2xathw?list=PL8VjC6IBQ3896_-Rc-o1thwFBgnaxpu06
+Using Market Correlations in Day Trading
+
+I'll watch some Jigsaw videos since I am starting to lean towards large cap trading in futures.
+
+But that might change depending on the results of the backtests being done currently.

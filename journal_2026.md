@@ -11008,7 +11008,7 @@ I should thoroughly master the crypto markets and then move to E-Minies after th
 https://youtu.be/Mday6-gCSdM?list=PL8VjC6IBQ3896_-Rc-o1thwFBgnaxpu06
 Using Order Flow to Confirm Day Trading Levels - Practice, not Theory
 
-I'll focus on the top coins on Coinbase. Aggression, breadth and depth will be the indicators I will use. I am going to bake all of that into the system.
+I'll focus on the top coins on Coinbase. Aggression, breadth, imbalance and depth will be the indicators I will use. I am going to bake all of that into the system.
 
 I'll calculate the breadth based on aggression in crypto perps and based on the tick rule in stocks.
 

@@ -10977,3 +10977,12 @@ But it's probably impossible for me given that I'd need to pay 5k per month for 
 Hell, even crypto order book data is quite expensive at scale though not nearly as much.
 
 9:05pm. Let me go to bed. Tomorrow comes the first backtest.
+
+5/3/2026
+
+7:30am. https://youtu.be/uykXB0ZHbfM
+Reverse Collapse: F - Announce Trailer
+
+Reverse Collapse is getting a sequel? Nice.
+
+Let me chill for a bit and then I will start.

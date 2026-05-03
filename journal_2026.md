@@ -10995,3 +10995,23 @@ Using Market Correlations in Day Trading
 I'll watch some Jigsaw videos since I am starting to lean towards large cap trading in futures.
 
 But that might change depending on the results of the backtests being done currently.
+
+12pm. So the point of correlations is basically breadth.
+
+Yeah, why don't I trade BTC with market breadth the same way I inteded to deal with E-Minies?
+
+I should thoroughly master the crypto markets and then move to E-Minies after that.
+
+12:30pm. ![](images/image-2499.png)
+> Depth dictates price volatility.
+
+https://youtu.be/Mday6-gCSdM?list=PL8VjC6IBQ3896_-Rc-o1thwFBgnaxpu06
+Using Order Flow to Confirm Day Trading Levels - Practice, not Theory
+
+I'll focus on the top coins on Coinbase. Aggression, breadth and depth will be the indicators I will use. I am going to bake all of that into the system.
+
+I'll calculate the breadth based on aggression in crypto perps and based on the tick rule in stocks.
+
+I'll leave stocks alone until I've gotten BTC and ETH at least out of the way.
+
+12:35pm. Maybe instead of looking at realized volatility for position sizing, I could use depth instead?

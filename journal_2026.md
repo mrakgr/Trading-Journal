@@ -11015,3 +11015,11 @@ I'll calculate the breadth based on aggression in crypto perps and based on the 
 I'll leave stocks alone until I've gotten BTC and ETH at least out of the way.
 
 12:35pm. Maybe instead of looking at realized volatility for position sizing, I could use depth instead?
+
+5/4/2026
+
+8am. The results we got yesterday are amazing: https://github.com/mrakgr/Trading-Edge/blob/crypto_pivot/docs/orderflow_ma_v0_results.md
+
+PF of 1.4 roughly over 20k trades over a 2 year timespan is extreme.
+
+I am thinking whether I want to actually trade this. Right now I don't want to spend the mental capital, but if the daytrading experiments don't work I'll be returning to this. The long side might not seem much, but it did 20x the money with much less downside risk despite the lower profit factor.

@@ -11023,3 +11023,24 @@ I'll leave stocks alone until I've gotten BTC and ETH at least out of the way.
 PF of 1.4 roughly over 20k trades over a 2 year timespan is extreme.
 
 I am thinking whether I want to actually trade this. Right now I don't want to spend the mental capital, but if the daytrading experiments don't work I'll be returning to this. The long side might not seem much, but it did 20x the money with much less downside risk despite the lower profit factor.
+
+1:50pm. Let me put out the video. Here is the description. Simple and to the point.
+
+///
+
+The crypto markets might be crime infested shitholes, but the edge they provide is incredible. Long side 1.2 and short side 1.5 profit factors don't seem like much until you realize that these figures are per trade figures spread across 20k trades over 2 years. Scott Phillips might have said too much when he said that aggression features have a Sharpe of 2.5.
+
+Now that we know how useful order sign info is, we're not sure we'll ever be able to look at momentum stocks ever again. It makes us wonder just how much edge we could extract from stocks if important order flow information wasn't systematically hidden from us at the retail level by dark pools and payment-for-order-flow wholesalers.
+
+We're not exactly sure what we'll do from here, but a brief glance at the other futures markets shows that they are much lesser opportunities compared to crypto, so crypto perpetuals we will trade. In the upcoming videos we'll refine the system here and work towards full trading mastery.
+
+///
+
+Music:
+
+Veilcore Music - No.194: https://youtu.be/16z38h6jKQ4
+Natural Lo-fi Girl - 【超覚醒】不気味で壮大な和風ロックBGM: https://youtu.be/ldD0ESPRzN4
+Natural Lo-fi Girl - 【和風EDM】脳が覚醒する超集中BGM: https://youtu.be/IkYsbk2m-ZA
+Natural Lo-fi Girl - 【和風Playlist】攻撃的な和の重低音BGM: https://youtu.be/Dv5QD_PAMsI
+
+2:15pm. I'll take a break here. Let me make a progress report to Thom and Omphile. I still haven't watched his latest videos.

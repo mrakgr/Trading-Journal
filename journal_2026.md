@@ -11028,7 +11028,7 @@ I am thinking whether I want to actually trade this. Right now I don't want to s
 
 ///
 
-The crypto markets might be crime infested shitholes, but the edge they provide is incredible. Long side 1.2 and short side 1.5 profit factors don't seem like much until you realize that these figures are per trade figures spread across 20k trades over 2 years. Scott Phillips might have said too much when he said that aggression features have a Sharpe of 2.5.
+The crypto markets might be crime infested shitholes, but the edge they provide is incredible. Long side 1.2 and short side 1.5 profit factors don't seem like much until you realize that these figures are per trade figures spread across 20k trades and over 2 years of time. Scott Phillips might have said too much when he said that aggression features have a Sharpe of 2.5. We tested both a moving average and a breakout system and they didn't perform nearly as close as well.
 
 Now that we know how useful order sign info is, we're not sure we'll ever be able to look at momentum stocks ever again. It makes us wonder just how much edge we could extract from stocks if important order flow information wasn't systematically hidden from us at the retail level by dark pools and payment-for-order-flow wholesalers.
 
@@ -11044,3 +11044,20 @@ Natural Lo-fi Girl - 【和風EDM】脳が覚醒する超集中BGM: https://yout
 Natural Lo-fi Girl - 【和風Playlist】攻撃的な和の重低音BGM: https://youtu.be/Dv5QD_PAMsI
 
 2:15pm. I'll take a break here. Let me make a progress report to Thom and Omphile. I still haven't watched his latest videos.
+
+3:30pm. The video is scheduled for May 11th. Send the 2 emails to the guys.
+
+https://youtu.be/KAmzoavtqJ0
+TWO WORDS!! Volatility And Kagi.
+
+This is Omphile's latest video. I was too tired to watch it yesterday, let me make a chance to do it now.
+
+Then I will do the exercises.
+
+5:30pm. 
+
+> Sounds good. Three solid directions on the table — extreme-move scanner for setup discovery, breadth indices for majors trading, and order-book features for the Tier-A subset. Have a good breakfast; we'll figure out the next step when you're back.
+
+I'll go with the extreme move scanner. I think it's time Lance's teaching either prove their worth or I should do something else. If there is anything of worth in what he is teaching, this should be the ideal time to test it. Crypto should have many extreme moves. I'll look for 1h bars with extreme ranges and look at their order flow from there.
+
+Tomorrow, I think I could start with plotting all the buys and sells on a 1h chart for the system.

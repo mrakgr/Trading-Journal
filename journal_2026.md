@@ -11061,3 +11061,21 @@ Then I will do the exercises.
 I'll go with the extreme move scanner. I think it's time Lance's teaching either prove their worth or I should do something else. If there is anything of worth in what he is teaching, this should be the ideal time to test it. Crypto should have many extreme moves. I'll look for 1h bars with extreme ranges and look at their order flow from there.
 
 Tomorrow, I think I could start with plotting all the buys and sells on a 1h chart for the system.
+
+8:25pm. https://asurascans.com/comics/surviving-the-game-as-a-barbarian-b6e039fe/chapter/152
+
+It's hard to describe how good Surviving `The Game as a Barbarian` is. 10/10.
+
+5/5/2026
+
+7:25am. I've changed my mind. I want to do a study of order book imbalance using the order book feature described by Omphile. I'll do it on BTC. I'll pay the Crypto Lake subscription and just do it.
+
+7:50am. https://youtu.be/IrMjVGo7xuE?t=62
+Trading Stocks vs Futures (Detailed examples)
+
+Let me watch this. He talks about market transparency.
+
+![](images/image-2500.png)
+> If you use IB or TD Ameritrade, there is not a chance in hell that your data is going to be updating this quick.
+
+This is amazing.

@@ -11079,3 +11079,8 @@ Let me watch this. He talks about market transparency.
 > If you use IB or TD Ameritrade, there is not a chance in hell that your data is going to be updating this quick.
 
 This is amazing.
+
+![](images/image-2501.png)
+> If transparency is most important for you, you might want to check crypto, as on-block chain data allows you to see even who is accumulating or distributing crypto. Whales-labelled wallets are now accumulating and its data can clearly be seen on the glassnode, for instance. And yeah, penny stocks are moving very fast, but the dark pools aren't beneficial for retails traders
+
+Oh, this is something I should think about. Seeing who is accumulating and distributing on-chain.

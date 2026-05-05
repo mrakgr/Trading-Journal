@@ -11084,3 +11084,19 @@ This is amazing.
 > If transparency is most important for you, you might want to check crypto, as on-block chain data allows you to see even who is accumulating or distributing crypto. Whales-labelled wallets are now accumulating and its data can clearly be seen on the glassnode, for instance. And yeah, penny stocks are moving very fast, but the dark pools aren't beneficial for retails traders
 
 Oh, this is something I should think about. Seeing who is accumulating and distributing on-chain.
+
+I need to remember Glassnode.
+
+https://glassnode.com/
+
+6:45pm. Order book imbalance is a bust, it's true that it's a leading measure, but it's noise on timeframes longer than a second.
+
+But market breadth and funding rates especially do have an edge in crypto and it's quite significant. The bot did a really good job of using the median funding rate for the whole exchange as a signal and the different regimes greatly affect the PF for both long and short trades.
+
+I am definitely going to use the funding rates as features on both on the individual ticket level and on the exchange median level.
+
+7pm. I am going to ditch the complicated NN model in favor of this, but I might end up using it for extreme move fades. I'll study those in the next video, but I need to first wrap up the current one.
+
+![](images/image-2502.png)
+
+Yeah, not being stressed out about the markets should be my priority after I start. I should have faith in my systems and not mess around with them. I'll structure my life so they are printing the money for me instead of me working for them.

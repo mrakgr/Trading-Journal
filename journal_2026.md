@@ -11100,3 +11100,23 @@ I am definitely going to use the funding rates as features on both on the indivi
 ![](images/image-2502.png)
 
 Yeah, not being stressed out about the markets should be my priority after I start. I should have faith in my systems and not mess around with them. I'll structure my life so they are printing the money for me instead of me working for them.
+
+5/6/2026
+
+5:25pm. https://github.com/mrakgr/Trading-Edge/blob/market_breadth_aggregates/docs/orderflow_ma_v0_results.md
+
+Done with today's session. Here are today's results. We found quite a few edges to improve upon the basic system.
+
+Tomorrow I'll look at the actual trades being done and study them more in depth. I got up early today so I am more tired than usual, but this is quite satisfying.
+
+7:15pm. ![](images/image-2503.png)
+
+This rally is fucking unbelievable. I admit, I did start sensing it was strong last week, but this continues to amaze. Garry Smith was right.
+
+The only thing you need to trade is sentiment. The market was testing the lows and shaking people out for months, and now this rally is happening despite the bearish news.
+
+It's too bad I am not trading this, but I don't really have a plan for how to trade stocks at the moment. Buying random momo stocks didn't work out for me back in 2025, so it's not going to work this time either.
+
+Trying to catch rallies definitely didn't work for me back in 2007 - 2014.
+
+7:20pm. The crypto system development is going really well, I have some pretty strong edges now, so I should continue on this path.

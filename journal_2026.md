@@ -11158,3 +11158,11 @@ Veilcore Music - No.200: https://youtu.be/1BlNP3vyrrY
 1pm. ![](images/image-2504.png)
 
 Amazing that he recognizes AI as trying to replace money. But it wouldn't replace capital; capital would just turn into computation and memory once the reality is digitized.
+
+7:10pm. https://youtu.be/UHjIQ7jJ_-k
+Why Wavelets replaced Fourier in modern algorithmic trading: The Geometry of Volatility
+
+https://youtu.be/_NkqvSe5Rq8
+Volatility....Again!
+
+I'll leave these 2 for tomorrow. We've managed to make a decent amount of progress on the fade system. We'll wrap them up tomorrow and work on consolidation breakouts. Big Dog breakouts as SMB calls it.

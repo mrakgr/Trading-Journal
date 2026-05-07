@@ -11120,3 +11120,37 @@ It's too bad I am not trading this, but I don't really have a plan for how to tr
 Trying to catch rallies definitely didn't work for me back in 2007 - 2014.
 
 7:20pm. The crypto system development is going really well, I have some pretty strong edges now, so I should continue on this path.
+
+5/7/2026
+
+7:35am. I started a session, but I need to take a break to publish the video.
+
+///
+
+In this video we test a bunch of factors to see if they make a different to our expected value, and indeed they do. The broader market funding rate median on Binance makes a significant difference to profitability, though it manifests rarely. On an individual stock level, relative volume itself makes a big difference on the short side. As for the long side, we need to study it more as it is all over the place regardless of what we try.
+
+We also tested price momentum, and it was surprising that the results were no better than noise. We couldn't find any mean reversion effects.
+
+In the next video we'll be refining the system further. It really great to start out from a strong position and then refine unlike in stocks where we got stuck on trading breakouts intraday and never moved beyond that. The author regrets how that went.
+
+When tested the volume thresholds, we shouldn't have made the entry signal conditional on them, instead we should have used them as post processing filters. When we used them as entry conditions directly that biased the results towards chasing trades once the volume came in, which likely ruined them.
+
+Instead we could have bought the breakouts regardless of volume and tested conditions in a forward looking sense. For example, what happens after we're 15m, 30m and 60m into the trade relative to how the volume is changing. 
+
+Even if a random breakout is marginally +EV, the data we get after entering the trade we never even considered.
+
+Given how good the crypto edge is, it makes us wonder how far we could have pushed small cap momentum had we gone beyond intraday trading.
+
+We're really enjoying these sessions. In crypto we started off with a simple system that works well, and the question is always how to move from a position of strength to a position of greater strength. Maybe we didn't need complex generative approaches that require amortized inference to begin with. We're experiencing a renaissance in our programming. We used to struggle so hard to do anything in AI, but now we're given data and every move we make brings us closer to understanding the markets. Every move we make increases our power.
+
+///
+
+Music:
+
+Symphony Of Blades - Celestial Oath: https://youtu.be/mgeeeA0EsN4
+Soothing sound Mikan - NEONRIFT: https://youtu.be/WKtAze2halw
+Veilcore Music - No.200: https://youtu.be/1BlNP3vyrrY
+
+7:55am. This should be good enough. I'll wait for a while before updating the subscription.
+
+8am. The video is up. Let me start for the day.

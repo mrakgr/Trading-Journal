@@ -11154,3 +11154,7 @@ Veilcore Music - No.200: https://youtu.be/1BlNP3vyrrY
 7:55am. This should be good enough. I'll wait for a while before updating the subscription.
 
 8am. The video is up. Let me start for the day.
+
+1pm. ![](images/image-2504.png)
+
+Amazing that he recognizes AI as trying to replace money. But it wouldn't replace capital; capital would just turn into computation and memory once the reality is digitized.

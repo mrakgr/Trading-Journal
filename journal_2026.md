@@ -11178,3 +11178,7 @@ Ironically, I think the first one is the most likely to do well in walk forward 
 I'm really impressed by mean reversion. I didn't think it would be this good.
 
 Next on the list is creating a system to trade consolidation breakouts. I have a decent idea of how to do this. Tomorrow I'll take a break to post the video and reply to Thom, and maybe even keep Omphile in the loop. Though this is such a good edge, that I am not sure if I feel like broadcasting it.
+
+8pm. ![](images/image-2505.png)
+
+This could be really useful.

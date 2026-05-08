@@ -11166,3 +11166,15 @@ https://youtu.be/_NkqvSe5Rq8
 Volatility....Again!
 
 I'll leave these 2 for tomorrow. We've managed to make a decent amount of progress on the fade system. We'll wrap them up tomorrow and work on consolidation breakouts. Big Dog breakouts as SMB calls it.
+
+5/8/2026
+
+7:20pm. It was a very long session today, but I've created a long side mean reversion system with a profit factor of 3.5 over 4k trades spanning over 2 years. I also have a system that shorts into extreme volume selloffs that has a pf of 1.3. And an older one that does long term shorting with a pf of close to 2.
+
+![](images/TxueiUdYsfdJF6R5.png)
+
+Ironically, I think the first one is the most likely to do well in walk forward testing.
+
+I'm really impressed by mean reversion. I didn't think it would be this good.
+
+Next on the list is creating a system to trade consolidation breakouts. I have a decent idea of how to do this. Tomorrow I'll take a break to post the video and reply to Thom, and maybe even keep Omphile in the loop. Though this is such a good edge, that I am not sure if I feel like broadcasting it.

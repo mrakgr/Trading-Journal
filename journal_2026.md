@@ -11182,3 +11182,24 @@ Next on the list is creating a system to trade consolidation breakouts. I have a
 8pm. ![](images/image-2505.png)
 
 This could be really useful.
+
+5/9/2026
+
+8:55am. Yesterday's session was so exhausting so let me take a break today so I can post the video.
+
+///
+
+Given the strong long term downtrending tendencies of the crypto market where the vast majority of coins have a steady fated trip to zero, long mean reversion trades work mind bogglingly well, and the simple system we created in this video is our best one. We also created a short term system that fades extreme volume moves on the short side, but the profit factor of that one isn't even close to the long side one. To be honest, we're a bit loss at how we could improve the first longer term short side system so it matches the long side system in the current video.
+
+In the next video, we'll finally try to create a scanner for Lance Breitstein style fades. The extreme rvol short system was supposed to be it, but we ended up using the 1h volume delta as the signal instead. We'll finally get around to it and besides that, our main focus will be consolidation breakouts. We have some good ideas for how to do it, and it would be great if we could get it to work.
+
+///
+
+Music:
+
+World Metal Music Hub Production - CHRONOS MECHANICA: https://youtu.be/80EsBr3bhv0
+World Metal Music Hub Production - JOE SATRIANI TRIBUTE - Surfing with the Alien Soul: https://youtu.be/vJt_AOvcjXE
+KageYume - Rise to Valhalla: https://youtu.be/TTD7KnlQ_f4
+
+10:30am. Done. The video is up, I replied to Thom, let's do research on Lance style fades.
+

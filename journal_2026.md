@@ -11203,3 +11203,20 @@ KageYume - Rise to Valhalla: https://youtu.be/TTD7KnlQ_f4
 
 10:30am. Done. The video is up, I replied to Thom, let's do research on Lance style fades.
 
+5/10/2026
+
+2:50pm. It's not in the style that he taught them, but Lance style fades have an incredible amount of edge to them. Only if you play them as continuations instead of reversals though. These setups are probably unique to the crypto market.
+
+The new system in called the DonchianScalp.
+
+I hadn't slept well last night so I don't feel like talking about it right now, I am dead tired here.
+
+In backtesting on 1m bars it has shown incredible edge, but we did some fill simulation and the edge goes away during those.
+
+But what that tells me is that we need to look at the actual liquidity in the order book and grab the trades that meet our criteria instead of trying to put in limit orders.
+
+So what I am planning is to open a 300$ Binance account to test how liquid these setups are. That's the best way.
+
+In fact this approach is cheaper than getting order book data since it goes for 1.2k/month on Tardis.dev.
+
+I am dead. I am taking off here.

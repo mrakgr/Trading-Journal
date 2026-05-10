@@ -11220,3 +11220,7 @@ So what I am planning is to open a 300$ Binance account to test how liquid these
 In fact this approach is cheaper than getting order book data since it goes for 1.2k/month on Tardis.dev.
 
 I am dead. I am taking off here.
+
+4:40pm. ![](images/image-2506.png)
+
+Lance is wise as usual.

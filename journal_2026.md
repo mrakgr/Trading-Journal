@@ -11249,3 +11249,25 @@ I guess this strategy will tide me over until I get something better. I'll have 
 I won't be able to run it with leverage due to occassional crypto flush outs in altcoins.
 
 But for something that has little month to month volatility and doesn't require me to soul read the market, this is quite good.
+
+6pm. Maybe in stocks I could sell options after big volatility blowouts?
+
+But that would probably just ruin me. The long system here has a lower bound at 0 and is a far more appealing target.
+
+Ok, how about this? The system itself isn't really enough to satisfy my greed, but it could be my way in at a prop firm like SMB.
+
+I am not sure how much I'll be able to manage alone.
+
+I feel like I need to actually see how pros really trade to make a breakthrough to the next level.
+
+6:05pm. Yeah, I'd really like to know how traders who are profitable 90% of all days make their money. Large order scalps?
+
+I really should just spend some time reading the tape and the order book directly. I don't have to trade, but I should look for patterns, maybe something will come up if I stare at them enough?
+
+Unlike in stocks, this kind of work should be easier because I won't have to bring together info from several different exchanges.
+
+If I want to be a trader, I should spend at least some time looking at the order book and maybe doing the Jigsaw drills. Paper trading while the FlowSwing does it's job in the background.
+
+I think I should give it a honest shot before I conclude that it would be too much for me. If I want to join a prop firm, I should make an effort to emulate their process first.
+
+I doubt I'll be able to beat the swing system and it will give me something to do for a couple of hours a day. If I learn absolutely nothing after a few months then so be it. Otherwise, maybe it might lead to something I could systematize.

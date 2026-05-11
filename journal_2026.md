@@ -11271,3 +11271,5 @@ If I want to be a trader, I should spend at least some time looking at the order
 I think I should give it a honest shot before I conclude that it would be too much for me. If I want to join a prop firm, I should make an effort to emulate their process first.
 
 I doubt I'll be able to beat the swing system and it will give me something to do for a couple of hours a day. If I learn absolutely nothing after a few months then so be it. Otherwise, maybe it might lead to something I could systematize.
+
+6:15pm. Alternatively, I could also look into news trading. We have algos that can parse language now, so why not take advantage of that?

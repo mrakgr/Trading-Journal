@@ -11224,3 +11224,12 @@ I am dead. I am taking off here.
 4:40pm. ![](images/image-2506.png)
 
 Lance is wise as usual.
+
+5:35pm. I am dead again.
+
+It's terrible. The scalp system that I was really excited about was a complete dud. The taker fill simulation crushed it.
+
+Aggghhhh...but, at least the swing system is a win.
+
+![](<images/newplot (3).png>)
+FlowSwing Equity Curve Market To Market.

@@ -11227,9 +11227,25 @@ Lance is wise as usual.
 
 5:35pm. I am dead again.
 
-It's terrible. The scalp system that I was really excited about was a complete dud. The taker fill simulation crushed it.
+It's terrible. The 1h scalp mean reversion system that I was really excited about was a complete dud. The taker fill simulation crushed it.
 
 Aggghhhh...but, at least the swing system is a win.
 
 ![](<images/newplot (3).png>)
 FlowSwing Equity Curve Market To Market.
+
+I'll go back 6 full years to see if there is anything to this system. These results are making me wonder if there is a premium to providing liquidiy after large declines in other developing markets.
+
+What I am going to is go all in on this if possible. Forget multiple algorithms. Just diversify broadly into different setups in the markets that pay you for them.
+
+I am not going to get rich combining 10 different shitty strategies. I need a single good one instead.
+
+And I have it.
+
+The next step is get more data, verify it works out of sample, and that it doesn't blow up like volatility selling does. Then to protect myself from counter party risk I need to run it on a few different exchanges.
+
+I guess this strategy will tide me over until I get something better. I'll have to see.
+
+I won't be able to run it with leverage due to occassional crypto flush outs in altcoins.
+
+But for something that has little month to month volatility and doesn't require me to soul read the market, this is quite good.

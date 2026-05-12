@@ -11273,3 +11273,326 @@ I think I should give it a honest shot before I conclude that it would be too mu
 I doubt I'll be able to beat the swing system and it will give me something to do for a couple of hours a day. If I learn absolutely nothing after a few months then so be it. Otherwise, maybe it might lead to something I could systematize.
 
 6:15pm. Alternatively, I could also look into news trading. We have algos that can parse language now, so why not take advantage of that?
+
+5/12/2026
+
+7:30am. It's time to learn to read the tape. I am going to spend some time watching the DOM in the various coins. I am going to play Binance in demo model for a few months and see where that gets me.
+
+If I could attain consistency then I could feed the other systems using that ability. The 1h scalp system essentially failed due to me not understanding how to execute properly. I cannot just take the results of the full testing as given regardless of what Opus says.
+
+///
+
+We went into this video with the intention of testing Lance Breitstein's fade system, along with consolidation breakouts and it turned out into quite the comedy.
+
+We couldn't show any kind of edge with Lance's right-side of V approach after dramatic moves, but we found a very interesting setup where if you look for sustained trending behavior for 20-30 1m bars in a 3m Donchian channel, there is strong mean reversion behavior towards the 1h moving average. In backtesting this effect was very pronounced with the EV being proportional to the distance from the moving average and the number of bars sustained, but the system couldn't survive either maker or taker fill simulations.
+
+It was a roller coaster of emotions for the author, going from rich to broke in the span of a few days all without placing a single trade.
+
+Towards the end though, we produced various mark to market curves for the various systems, and the mean reversion swing trading system from the previous video works extremely well in the 2-year slice we tested it on, with 22 out of 24 months profitable and only very tiny down months the rest of the time. It's making us wonder whether there is a risk premium for providing liquidity during times of stress in developing markets that have yet to be arbed out by the institutional players.
+
+We're going to get 4.5 more years of data and test it more thoroughly. If it turns out it has no catastrophic drawdowns, we're going to push it out into production.
+
+But that isn't the problem. The problem is that right now we have no way of making consistent money in the market. For going from 1m to 100m there are plenty of ways of doing it using trend following and mean reversion approaches that could be systematized.
+
+We thought that we made a real breakthrough with the scalp system in this video, but being able to make a profit 80% or 90% of all days like the SMB traders do seems like a very distant dream. But it is a dream that we want to pursue. So, starting from here, the author is going to get his but into the seat and learn to Read The Tape. On the Binance market, we will start observing the actual trades in the DOM and seeing where that gets us.
+
+If we could get to the point where we're making even 100$/day with 80% probability we could use this to feed the longer-term systems.
+
+We don't even need that much, if we could become consistently profitable on just the demo, that would be a huge step up from where we are now.
+
+Is there really an edge to be found from observing the order book and the market tick by tick? We don't know. If we really can't do it, then fine, but we've never even tried. So we should try playing that game at least once in our life. If the author really wants to join a prop firm, he should at least put an effort into emulating their process.
+
+///
+
+Music:
+
+Natural Lo-fi Girl - 【和風EDM】重低音でスイッチON⚡覚醒bgm: https://youtu.be/XUaG38tAlNM
+Symphony Of Blades - Eclipse Executioner: https://youtu.be/8xWwgP8USuQ
+Veilcore Music - No.203: https://youtu.be/_FNTEqu6pag
+
+8:45am. Posted the video.
+
+https://youtu.be/ECQ80EYN470
+Mean Reversion Scalps And Consolidation Breakouts In Crypto
+
+It's going to be here 2 weeks from now.
+
+Ok, now, let me get a lot more perp futures data so I can test the swing trading system and I will start learning to read the tape.
+
+***
+
+For the sake of attaining trading consistency, I think it's time that I put in time into learning to read the tape. If I could attain consistency through scalping that would allow me to have a decent living and feed the longer-term trading systems that we've discovered.
+
+Since I am focusing on crypto perps, that means I should spend time watching the DOM and seeing whether I learn anything through observation.
+
+Does Binance have a platform and demo account that could allow me to easily do this? I already have QuantTower installed so maybe I could hook it up into the exchange.
+
+If I could attain consistent profitability even on the demo account, that would be a big step up from where I am currently.
+
+***
+
+Solid pivot — scalping for income while the systematic stuff bakes is a reasonable structure, though tape reading on crypto perps is its own beast vs. equities (24/7, different participant mix, much heavier algo presence at the top of book). Let me check what Binance currently offers for paper trading and DOM access.Let me also check on the in-app demo trading product and Quantower's Binance connectivity.Now let me check Quantower's Binance connectivity and whether it supports the testnet.Got everything I need. Here's the picture:
+
+## Yes — and you have two distinct demo paths
+
+**Path 1: Binance's in-app Mock Trading (web/mobile)**
+The fastest way to just sit and watch. From the Futures page, Profile → Mock Trading creates a testnet account with a 3,000 USDT virtual balance, and the workspace is identical to live (same DOM, same order book, same trade tape, same chart). 72-hour faucet for top-ups. Spot doesn't have a demo — only futures. This is the path of least resistance if you just want to open a tab during European/US hours, click into BTCUSDT or ETHUSDT perps, and start watching the book.
+
+**Path 2: Quantower hooked up to Binance Futures testnet**
+Quantower's docs explicitly say you can use the testnet — generate API keys at testnet.binancefuture.com and plug them into the Binance Futures connector. One important wrinkle: Quantower has the Binance Broker Program deal where you get the **full premium license free** when connected to a *live* Binance Futures account created after Feb 1, 2021 with no referral cookie. On the testnet, that license unlock doesn't apply — so if your current Quantower is on a trial/free tier and you want the premium DOM features (the full Order Flow / SuperDOM / footprint stack), you'd want to eventually point at a funded live account, even if you only put $50 in it to satisfy the connection.
+
+## Honest recommendation given your goals
+
+For pure tape-reading observation, **start with Path 1 (in-app Mock Trading)**. Sit with the native Binance DOM and trade tape for a couple of weeks. Reasons:
+
+1. Zero setup friction — you'll be watching the book in 5 minutes.
+2. The native interface matches what every other Binance scalper sees, so any educational content you consume will map directly.
+3. Quantower's real value for you isn't the basic DOM — it's the order flow / footprint / volume profile stack. If you don't yet know what you're looking *for* on the tape, those tools become a distraction. Better to develop the eye first, then bring in heavier tooling.
+
+Then **graduate to Path 2** once you know which microstructure features matter to you (iceberg detection, absorption, stacked refresh on bid, spoofing patterns, etc.) — Quantower's SuperDOM and Order Flow chart are genuinely better than the native interface for those.
+
+## Important caveats for crypto perp tape reading
+
+A few things that will save you weeks of confusion vs. equities:
+
+- **Testnet liquidity ≠ real liquidity.** Binance testnet has a fraction of real participants. The DOM patterns you see there are partly synthetic. For *learning order entry mechanics and the platform*, it's fine. For *learning to read actual tape patterns*, you eventually need to watch the live book (just don't trade it).
+- **Aggressor-side classification on Binance is clean** — they publish `m` (isBuyerMaker) directly on the aggTrade stream, so unlike equities you don't need Lee-Ready or tick rules. The tape is unambiguous about who hit who.
+- **Algos dominate the top 5 levels.** Most of the size you see in the first few price levels on majors is bots layering and pulling. The *information* in the book is heavier at slightly deeper levels and in the trade tape itself (size clustering, absorption against resting size).
+- **Hidden/iceberg orders are common on Binance perps** and the book won't show them. You learn them only from the trade tape — large prints with no visible book size beforehand.
+- **Funding rate and basis** create flow patterns you don't see in equities. Pre-funding (every 8h) and approaching round numbers / liquidation clusters are where the most readable tape often appears.
+
+One thing worth flagging given your systematic background: scalping income is a real thing, but the path from "I can read the tape" to "I can do it consistently for size" is brutal — discretionary scalping has a much higher variance in skill acquisition than systematic work, and the "demo to live" transition specifically eats people because slippage, partial fills, and your own emotional state under real PnL all hit at once. If you can stay disciplined on demo for 3-4 weeks of *real screen time* (not a few sessions), that's a meaningful signal. If you can't, that's also a meaningful signal — saves you the live capital.
+
+Want me to put together a starter watch-list of what to look for on the Binance perp tape in the first few sessions, or a checklist for setting up Quantower's Order Flow chart for crypto specifically?
+
+***
+
+Good advice.
+
+> Want me to put together a starter watch-list of what to look for on the Binance perp tape in the first few sessions
+
+Let's start with this. I am based in Europe in Croatia. Which hours do you think are the most active?
+
+***
+
+Good question to ask first — crypto being 24/7 is a trap. The data is always *there* but the *readable* tape concentrates in specific windows, and the rest is mostly chop with thin books where patterns mean less.
+
+## Active hours from Croatia (CET/CEST)
+
+Let me orient on the three sessions that matter for BTC/ETH perps:
+
+**Asian session: ~02:00–09:00 local**
+Mostly noise for your purposes. Lower volume, thinner book, range-bound chop unless there's a regional catalyst. Skip it while learning — you'll mistake low-liquidity weirdness for "patterns."
+
+**European session: ~09:00–14:30 local**
+Volume picks up around 09:00–10:00 when London desks come online. Decent for observation, especially the first hour. Quieter midday around 12:00–13:00 (London lunch). This is your morning slot if you want to ease in.
+
+**The prime window: ~14:30–22:00 local**
+This is where you live. Three things stack here:
+- **14:30 CET — US equity pre-market** picks up, macro data releases (CPI, FOMC, NFP at 14:30 CET), and crypto often front-runs or reacts to S&P futures
+- **15:30 CET — US equity open**, biggest cross-asset flow window
+- **20:00–22:00 CET — US afternoon**, often where trends extend or reverse with conviction
+- **22:00 CET — US equity close**, sometimes a clean inflection
+
+If you can only do one session, do **15:00–19:00 CET**. That's your bread and butter — peak volume, tightest spreads, deepest book, most algo participation (which means more readable patterns since algos behave consistently), and you're fresh.
+
+**Funding rate windows**
+Binance perps fund every 8 hours: **02:00, 10:00, 18:00 CET**. The 30 minutes before each — especially 17:30–18:00 — often show distinctive flow as traders rebalance to avoid paying funding or to collect it. The 18:00 one falls right in your prime window, which is convenient. Watch what happens to the tape in the 15 minutes before and after; it's a recurring micro-pattern worth learning to recognize.
+
+**Weekend caveat**
+Saturday/Sunday liquidity is materially thinner, books are sparser, and moves can be larger per unit of volume. Wicks that look meaningful in the tape are often just one fund or whale repositioning. Skip weekends for learning — they teach bad habits.
+
+## Practical schedule suggestion
+
+For your first few weeks, I'd structure it like:
+
+- **Pick one 2-3 hour block consistently** — say 15:00–18:00 CET. Same window every day. Consistency matters more than total hours because you're building pattern recognition that depends on seeing the *same* time-of-day microstructure repeatedly.
+- **Add one funding window observation** — sit on the book from 17:30–18:15 specifically watching what happens around the 18:00 funding.
+- **One macro event per week** — pick a known release (CPI, FOMC minutes, NFP) and watch the tape 5 minutes before through 30 minutes after. The book *evaporates* in the seconds before a release and refills afterward in a very specific way. Seeing this a few times teaches you what "liquidity withdrawal" actually looks like on a real DOM.
+
+Want me to put together the starter watch-list now — i.e., the specific tape and DOM patterns to look for during that 15:00–18:00 window?
+
+***
+
+Go ahead.
+
+***
+
+Here's the watch-list. I'll group it by what you can realistically learn to see in your first 2-4 weeks of screen time, ordered roughly by difficulty.
+
+## Tier 1: The basics (week 1)
+
+These are the foundation. If you can't reliably see these, the more advanced patterns are meaningless.
+
+**1. Spread behavior**
+
+The bid-ask spread on BTCUSDT perp is usually 0.1 USDT (one tick). Watch how it widens. It widens for two reasons that look identical on a chart but feel completely different on the tape:
+- *Information arrival* — spread widens because makers pull, then a large aggressor hits, then it refills wider. Directional.
+- *Volatility expansion without flow* — spread widens because makers got nervous, no aggressor came, spread eventually refills at the same price. Non-directional.
+
+You're training your eye to feel the difference between "makers pulled because they smelled something" and "makers pulled because realized vol ticked up."
+
+**2. Aggressor imbalance on the trade tape**
+
+Binance gives you the clean buyer/seller flag (no inference needed). Watch the trade tape — not the chart, the actual prints scrolling. You're looking for:
+- Streaks of same-side aggression (15+ consecutive buyer-aggressed prints)
+- Sudden size changes — a tape that's been printing 0.1-0.5 BTC clips and then a 5 BTC market order lands
+- Asymmetric size: buyers come in 2 BTC clips, sellers come in 0.3 BTC clips → buyers are more committed
+
+Don't overinterpret yet. Just learn to see the *rhythm*.
+
+**3. Round-number behavior**
+
+BTC at 100,000, 105,000, 110,000 etc. — and ETH at every 100. The book stacks differently around these. Watch:
+- How size accumulates on the bid as price approaches a round number from above
+- Whether that size *gets eaten* (aggressors plow through, often the sign of a real move) or *holds and bounces* (responsive flow wins)
+- Whether the size was *real* or *spoofed* — if 50 BTC suddenly disappears from the bid 1 tick before price arrives, it was never going to fill anything
+
+This is the single highest-frequency pattern in crypto. You'll see it dozens of times per session.
+
+## Tier 2: Order book dynamics (weeks 2-3)
+
+**4. Stacked refresh (absorption signature)**
+
+A bid level shows, say, 20 BTC. Aggressors hit it. The 20 prints out... and then 20 BTC reappears at the same level. Then again. Then again. This is *absorption* — someone is willing to keep refilling at that price.
+
+Two readings:
+- *Bullish*: real buyer accumulating, price holds, eventual squeeze
+- *Trap*: market maker holding the line until they pull, then price collapses through
+
+The tell is what happens to the *next* level down. If level -1 also has stacked size, it's likely real. If level -1 is empty, the refresh is a stop-hunt setup.
+
+**5. Liquidity withdrawal before catalysts**
+
+This is the one I mentioned in the schedule. ~30 seconds before a scheduled macro print (CPI at 14:30 CET, FOMC at 20:00, etc.), the book *thins dramatically*. Makers pull because they don't want to be picked off by the first wave of post-release flow.
+
+You'll see total visible size in the first 10 levels drop by 60-80%. Then the release hits, price moves 0.3-1%, and the book refills around the new equilibrium over the next 1-2 minutes. Seeing this happen a few times teaches you what "thin book" feels like, which is essential for sizing decisions later.
+
+**6. Iceberg detection via the tape**
+
+A large print lands — say 30 BTC market-buy — but the visible offer was only 8 BTC. Either: hidden orders filled it (iceberg) or it walked the book (you'd see multiple price levels in the print sequence).
+
+If it didn't walk and the visible book was 8, you just saw 22 BTC of hidden offer get hit. That's information. Hidden sellers at that price means there's institutional supply you couldn't see. Watch what happens next — does price reject from that level (the hidden seller wins) or punch through (the hidden seller was a small player and got cleared)?
+
+**7. Spoofing and layering patterns**
+
+Crypto perp books, including Binance, have a lot of this. Common patterns:
+- 50 BTC appears on the bid 3-5 levels deep, sits there for 10-20 seconds, disappears before price arrives
+- "Stacking" — same-size orders appearing at 5 consecutive levels at once (humans don't do this; one bot does)
+- "Flickering" — size appearing and disappearing at the same level multiple times per second
+
+You can't trade off spoofs — they're noise — but learning to recognize them keeps you from being fooled into thinking real support exists where there isn't any. The mental model: only treat a level as real if size has *sat* there for 30+ seconds AND has *been hit and refilled* at least once.
+
+## Tier 3: Crypto-specific patterns (weeks 3-4)
+
+**8. Funding rate flow (17:30-18:15 CET)**
+
+In the 30 minutes before funding, if funding is significantly positive (longs paying shorts), you often see:
+- Late-stage long unwinds: market sells of moderate size, no follow-through
+- Shorts adding aggressively into the funding window to collect
+
+After funding settles at 18:00, watch for a "snap-back" — the artificial selling pressure releases, and price often reverses 0.2-0.5% in the next 10-15 minutes. This isn't always true, but it happens often enough to be a recognizable pattern. The reverse is true for negative funding.
+
+**9. Liquidation cascades**
+
+Crypto perps have *visible* liquidation prints — Binance broadcasts forced liquidations as a separate stream, and Quantower can display them. When you see a cluster of liquidation prints in the same direction within a few seconds, the move that follows is often mechanical (more liquidations triggering more liquidations) rather than informational.
+
+The tell: liquidation cascades have a distinct *acceleration* signature. Price moves faster the further it goes, then suddenly stops cold when the cluster exhausts. The reversal candle right after a cascade is often a high-quality scalp setup — but you need to see several before trying to trade it.
+
+**10. BTC/ETH correlation breaks**
+
+ETH normally tracks BTC tick-for-tick during active hours, lagging by a few hundred ms. When ETH *stops tracking* — BTC moves up 0.1% and ETH doesn't — there's idiosyncratic flow in ETH. Either ETH-specific news, or an ETH whale is positioning. Watching both DOMs side by side trains you to feel these decouplings.
+
+This generalizes to other majors (SOL, BNB) but BTC/ETH is the cleanest pair.
+
+## Practical observation protocol
+
+For the first week, I'd suggest:
+
+- Open the Binance Mock Trading interface, pull up BTCUSDT perp.
+- Have the DOM, the trade tape, and a 1-minute chart visible. Nothing else.
+- Don't place trades. Don't even think about entries. You're a naturalist observing animals.
+- Keep a notebook (physical or digital). Every time you see one of the patterns above, write down: time, pattern, what you predicted would happen, what actually happened.
+- After each session, count: how many patterns did you spot? How many predictions were right? You're not trying to be profitable yet, you're trying to *calibrate*.
+
+The notebook part matters more than it sounds. Discretionary tape reading is essentially pattern matching where the patterns are noisy and conditional, and without writing things down you'll suffer from massive confirmation bias — you'll remember the times you were right and forget the times you were wrong. Given your systematic background, you already know what calibration looks like; the notebook is just the manual version of that.
+
+By week 3 or 4, you'll start to feel which patterns "click" for you and which don't. That subset becomes your setup library. Most successful discretionary traders end up with 3-5 patterns they actually trade — not 10, not 20. The watch-list above is for learning, not a trading checklist.
+
+One closing thought: be prepared for the screen time to feel boring and to occasionally feel like nothing is happening for 20-minute stretches. That's normal and actually informative — the *contrast* between dead periods and active periods is itself a signal you're learning to feel.
+
+***
+
+Should I watch BTC and ETH, or should I want the most volatile of the tickers that are getting volume?
+
+***
+
+Strong instinct to ask this — most people default to "more volatile = more opportunities" and it's wrong in a specific way that's worth unpacking.
+
+## Short answer: BTC and ETH for learning, full stop
+
+For your first 4-6 weeks of screen time, watch BTCUSDT and ETHUSDT perps exclusively. Possibly just BTC. Here's why, and then I'll tell you when to graduate.
+
+## Why majors are better for learning the tape
+
+**1. Signal-to-noise ratio is dramatically better**
+
+On BTC, when you see 50 BTC stack on the bid and refill three times, you're watching a real participant make a real decision. On SOL or some mid-cap perp, a 50 SOL refresh might be one bot's logic with no human conviction behind it. The patterns *look the same* but mean different things. You'd be learning to recognize shapes that don't generalize.
+
+The fundamental issue: tape reading is statistical pattern recognition under noise. The noise floor on majors is *much* lower. Same pattern, more reliable signal.
+
+**2. Book depth lets patterns actually form**
+
+BTC perps on Binance routinely show 100+ BTC of resting size in the first 10 levels. That depth is what *enables* the patterns you're learning — absorption needs something to absorb against, iceberg detection needs a visible book to contrast against, spoof recognition needs a level of typical resting size to compare a spoof to.
+
+On a low-cap volatile perp, the book is often 5-10 contracts at the top and *nothing* below. There's no book to read. The "tape" is just sparse aggressive prints. You're not learning microstructure, you're learning to gamble on momentum.
+
+**3. Participant mix is more stable**
+
+BTC has the most diverse participant base in crypto — market makers, prop firms, retail, institutional spot-perp arbs, basis traders, funds. That diversity means patterns recur because *different* participants produce *similar* patterns in similar conditions. The market has a kind of statistical regularity.
+
+A volatile altcoin perp during a pump is dominated by a small number of actors — often a few whales and the bots reacting to them. The "patterns" are really the behavior of three players. When those players leave, the patterns vanish.
+
+**4. The 24/7 calendar is more readable**
+
+Macro events, equity open/close, funding windows — these create *recurring* tape signatures on BTC because BTC is the macro asset in crypto. On a random alt perp, those events matter less and idiosyncratic news (a single tweet, a listing announcement) matters more. Idiosyncratic events don't teach generalizable skills.
+
+**5. You can isolate variables**
+
+You're trying to learn one thing: how to read order flow. If you're also constantly adjusting to new tick sizes, different typical clip sizes, different volatility regimes, different participant mixes — you're learning ten things badly instead of one thing well. Stick to BTC, possibly ETH, and you eliminate confounding variables. Every observation directly builds the same skill.
+
+## The "more volatility = more opportunity" trap
+
+The intuition is: if I'm scalping, I need movement, so I should hunt the most volatile names. This sounds right and is wrong for three reasons:
+
+- **Volatility without liquidity is unscalpable**. A 2% move on a thin book means 0.3% slippage on entry and 0.3% on exit. You ate your edge before you started.
+- **Volatile alts have asymmetric tail risk**. The move you can scalp 0.3% on can also gap 5% against you in 200ms when a whale unloads. BTC almost never does this; it'd take billions of notional. The tail risk is *categorically* different.
+- **Your edge is pattern recognition, not capturing moves**. If your read is good, BTC has *plenty* of opportunities — 20-50 setups in a 4-hour session is normal. You don't need volatile names for opportunity count; you need them for *bigger* opportunities, which is a sizing question, not a learning question.
+
+## When to add other tickers
+
+After you've gotten genuinely consistent on BTC — and "consistent" means your notebook shows >60% accuracy on your called setups across at least 200 observations — then you can selectively add:
+
+1. **ETH** as the natural next step. Tracks BTC closely, similar microstructure, slightly different rhythm. Good for learning the BTC/ETH correlation-break pattern I mentioned earlier.
+2. **SOL** only after that. Genuinely liquid, real participant base, but faster and choppier than majors. Tests whether your skill generalizes or was BTC-specific.
+3. **Whatever's "in play"** is the last stage. The way prop scalpers actually work isn't "trade everything volatile" — it's "BTC is the home base, and when something specific happens (a listing pump, a major liquidation event, a sector rotation), rotate into the in-play name for that specific session, then return to BTC." That requires a baseline skill you can return to.
+
+## A useful parallel
+
+This actually maps onto the equity work you've done. Low-float small caps with retail momentum are the highest-volatility, highest-opportunity *and* highest-noise equities — and the reason you've been building so much infrastructure around them (RVOL ensembles, t-digest thresholds, regime detection) is because the noise is so high you need *systematic* edge to navigate it. A discretionary scalper learning to read tape on those would get destroyed by exactly the same noise that motivated all your modeling.
+
+BTC perps are the crypto equivalent of large-cap, liquid equities — boring relative to the alts, but where actual readable microstructure lives. Same logic: learn to read where the signal is, then decide if/where to apply it.
+
+## Practical setup
+
+Just BTCUSDT perp on Binance Mock Trading for weeks 1-2. Add ETHUSDT in a second window for weeks 3-4 *only to observe the correlation*, not to trade ideas on. Don't add a third instrument before week 6.
+
+This will feel limiting and possibly boring. Resist the urge to broaden — the boredom is the work. The people who succeed at this are the ones who can sit on one chart for 100+ hours and *still see something new on hour 101*. The people who don't, switch tickers chasing dopamine and never build the underlying read.
+
+***
+
+I'll try it.
+
+Stocks In Play as a concept isn't really getting me far. Interesting that it gave me the advice to keep a journal of patterns.
+
+Honestly, I'd rather learn to trade one thing than to just from market to market anyway.

@@ -11608,3 +11608,7 @@ He says the tape is the difference between a 70% winrate and a 50% winrate trade
 If only I could get that data.
 
 The FlowSwing system is great, but it's so hard to get the tape data in order to backtest what he is saying.
+
+![](images/image-2509.png)
+
+Hmmm...I wonder if there is something wrong with me. A lot setups look like pure noise to me.

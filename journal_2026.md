@@ -11600,3 +11600,11 @@ Honestly, I'd rather learn to trade one thing than to just from market to market
 1:50pm. ![](images/image-2507.png)
 
 This is really good info, especially since I am trying to figure out a momentum strategy myself.
+
+![](images/image-2508.png)
+
+He says the tape is the difference between a 70% winrate and a 50% winrate trader. Damn it.
+
+If only I could get that data.
+
+The FlowSwing system is great, but it's so hard to get the tape data in order to backtest what he is saying.

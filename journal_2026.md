@@ -11616,3 +11616,10 @@ Hmmm...I wonder if there is something wrong with me. A lot setups look like pure
 ![](images/image-2510.png)
 
 I need to start practicing this.
+
+https://youtu.be/YqNXTEEn1HQ?t=1404
+> Trading without the tape is a big mistake that you can avoid.
+
+Yeah, this is why I am stuck in my quant work. I am doing a bit better with trade aggression signals, but I need the order book data.
+
+I should just believe that I would be able to make it as a daytrader if I had it.

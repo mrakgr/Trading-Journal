@@ -11612,3 +11612,7 @@ The FlowSwing system is great, but it's so hard to get the tape data in order to
 ![](images/image-2509.png)
 
 Hmmm...I wonder if there is something wrong with me. A lot setups look like pure noise to me.
+
+![](images/image-2510.png)
+
+I need to start practicing this.

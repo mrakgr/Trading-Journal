@@ -11627,3 +11627,7 @@ I should just believe that I would be able to make it as a daytrader if I had it
 ![](images/image-2511.png)
 
 3 red bars.
+
+![](images/image-2512.png)
+
+Resistance stats

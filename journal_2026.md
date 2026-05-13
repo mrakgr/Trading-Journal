@@ -11623,3 +11623,7 @@ https://youtu.be/YqNXTEEn1HQ?t=1404
 Yeah, this is why I am stuck in my quant work. I am doing a bit better with trade aggression signals, but I need the order book data.
 
 I should just believe that I would be able to make it as a daytrader if I had it.
+
+![](images/image-2511.png)
+
+3 red bars.

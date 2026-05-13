@@ -11596,3 +11596,7 @@ I'll try it.
 Stocks In Play as a concept isn't really getting me far. Interesting that it gave me the advice to keep a journal of patterns.
 
 Honestly, I'd rather learn to trade one thing than to just from market to market anyway.
+
+1:50pm. ![](images/image-2507.png)
+
+This is really good info, especially since I am trying to figure out a momentum strategy myself.

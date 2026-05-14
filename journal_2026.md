@@ -11630,4 +11630,24 @@ I should just believe that I would be able to make it as a daytrader if I had it
 
 ![](images/image-2512.png)
 
-Resistance stats
+Resistance stats.
+
+5/14/2026
+
+2:35pm. The FlowSwing system really did the best in the past 2.5 years and was generaly breakeven from 2020 to 2024. It's not sure a huge deal.
+
+I've decided that I am finally going to put some real and significant effort into learning tape reading. DAS Trader costs 175$/month and will allow me replay with L2 data on all the venues.
+
+I am going to put in some serious practice. After that I'll open an account with Centerpoint and start trading myself.
+
+It turns even though I have crypto systems that work, I cannot trade perps on Binance!
+
+It's crazy. I anticipated that somewhat and I did consider that I could trade perps on other exchanges, but nothing else come close in terms of breath to Binance.
+
+Right now I am just mentally preparing myself for what is ahead. For the next few months I am going to be doing sim trading on the DAS platform using its replay feature.
+
+This will be the complete opposite of the quant trading I was aiming for, but maybe it is for the best. Instead of wasting 6 years paper trading on the daily timeframes, I'll be diving deep into the market and interacting with it directly.
+
+2:50pm. I might as well take a break today. Or rather maybe I should pause the download to relieve some of the burden on the HDD and download the temporary files to the SSD before turning them into Parquet.
+
+Yeah, I'll do that. Let me just chill first. Then I will post the video and move on to the next stage. Tomorrow I have to make a trip to the unemployment office again so I'll skip the morning session.

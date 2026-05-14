@@ -11694,3 +11694,11 @@ https://youtu.be/_70eDFPn8_Y?list=PLXmsdXAkBS4pruU06btXFhZnzwoOGTj3l
 What Markets Do You Select When Trading - Price Ladder Trading | Axia Futures
 
 But before that, let me peek at this.
+
+7:45pm. You know, as I got into sim trading, it really wouldn't be a bad idea to hold the mindset that I am creating a dataset for a neural net rather than trying to trade for a profit.
+
+I want to produce the examples of good trades for it, so it learns to execute them on its own.
+
+I should make it so that when the AI immitates me, it doesn't see a trader that's a moron otherwise it will act as a moron itself. It I go on tilt, it will go on tilt.
+
+I need to teach it the best practices. That is what I have to do. Not focus on making a profit.

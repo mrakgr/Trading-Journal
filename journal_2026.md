@@ -11651,3 +11651,46 @@ This will be the complete opposite of the quant trading I was aiming for, but ma
 2:50pm. I might as well take a break today. Or rather maybe I should pause the download to relieve some of the burden on the HDD and download the temporary files to the SSD before turning them into Parquet.
 
 Yeah, I'll do that. Let me just chill first. Then I will post the video and move on to the next stage. Tomorrow I have to make a trip to the unemployment office again so I'll skip the morning session.
+
+///
+
+We get around to backtesting the FlowSwing system, which is the most roboust of the crypto systems and is profitable in the 6 of the 7 years tested. Though putting it that way overstates it. The 2020 - 2024 period was essentially flat for the system and it's essentially only significantly profitable during the 2024-2026 period.
+
+The biggest issue currently for the author is that the universe of tradable alt coins perps is on Binance, and it turns out that Binance is barred from allowing futures accounts to residents of Croatia by the regulators. It would have been a disappointing outcome even if we weren't scared of holding money on crypto exchanges; we have some first hand experience with how the companies in the space operate to draw on.
+
+We have two good crypto trading systems now, but we'll leave them aside for the time being given the circumstances.
+
+In the next session we're going to stop programming so much in order to game. It turns out that the DAS Simulator allows historical market replay on the L2 data, so what the author is going to do is get good at reading the tape directly. At 175$/month it will be a costly game to play, but he has the resources to absorb the bumps.
+
+We'll make a scanner for those stocks trading 50% of their average daily volume premarket and studying how the tape behaves after the market opens.
+
+What's going to make this tractable is that DAS has futures-style price ladders, which are easier to deal than L2 + Time & Sales windows. The author did an experiment of reading the tape on Bitcoin for an hour on Bitcoin and it wasn't too confusing. As long as stocks behave well, we'll manage something.
+
+We'll master the markets in demo mode and then move on to real money trading. We'll keep around the trade records, it might be possible to use the author's own trades to trade a neural network to immitate him. That would be an interesting twist, but we won't bet on it just yet.
+
+We're going to go for the purest approach possible.
+
+Either way, this effort should give us a lot of inspiration for how to design better trading systems. If we could meet our goal of becoming consistently profitable discretionary traders that would be the cherry on top of the cake.
+
+We should relax and let trading excellence come to us rather than us running towards it. It is the kind of thing that the faster you try to achieve it, the further it gets away from you.
+
+We should know that to reach it we need slow and steady steps.
+
+///
+
+Music:
+
+KageYume - EMBRACE THE DARKNESS: https://youtu.be/KZpE9trhV2o
+
+5:35pm. Rendering the video. I am done for the day here.
+
+I'll watch some vids.
+
+https://www.youtube.com/@BearBullTraders/videos
+
+Let me see what this guy's got.
+
+https://youtu.be/_70eDFPn8_Y?list=PLXmsdXAkBS4pruU06btXFhZnzwoOGTj3l
+What Markets Do You Select When Trading - Price Ladder Trading | Axia Futures
+
+But before that, let me peek at this.

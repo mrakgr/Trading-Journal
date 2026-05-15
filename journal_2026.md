@@ -11710,3 +11710,5 @@ I need to teach it the best practices. That is what I have to do. Not focus on m
 3:10pm. Let me do the exercises and then I will do some work.
 
 Damn the codebase quality is complete shit right now, but I cannot be bothered to care.
+
+3:50pm. Done with exercises. Let me start the tape reading pivot.

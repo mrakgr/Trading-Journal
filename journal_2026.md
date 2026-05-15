@@ -11702,3 +11702,11 @@ I want to produce the examples of good trades for it, so it learns to execute th
 I should make it so that when the AI immitates me, it doesn't see a trader that's a moron otherwise it will act as a moron itself. It I go on tilt, it will go on tilt.
 
 I need to teach it the best practices. That is what I have to do. Not focus on making a profit.
+
+5/15/2026
+
+2:15pm. Done with the appointment, bank, haircut and bath. I still haven't done the exercises though.
+
+3:10pm. Let me do the exercises and then I will do some work.
+
+Damn the codebase quality is complete shit right now, but I cannot be bothered to care.

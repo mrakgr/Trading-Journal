@@ -11728,3 +11728,8 @@ Why does the L2 box have duplicate tickets in ALL CAPS?
 > So if you're trading it on the volume alone versus trading it on the tape, you're missing that trade.
 
 This is quite interesting. Maybe I should be paying attention to trade counts on the price ladder as well?
+
+https://youtu.be/S2T-cRUnugI
+How to Use Tape Reading to Make Quick Profitable Trades (for Scalping)
+
+This is the video I am watching currently.

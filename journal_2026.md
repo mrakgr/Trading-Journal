@@ -11712,3 +11712,13 @@ I need to teach it the best practices. That is what I have to do. Not focus on m
 Damn the codebase quality is complete shit right now, but I cannot be bothered to care.
 
 3:50pm. Done with exercises. Let me start the tape reading pivot.
+
+5:50pm. ![](images/image-2513.png)
+
+Take a look at this. See how many different offers are stacked on the same level? I'd rather just merge those using a price ladder. It's really hard to follow both the box and the time & sales window.
+
+If the DAS price ladder doesn't end up being good, I'll literally make one myself.
+
+![](images/image-2514.png)
+
+Why does the L2 box have duplicate tickets in ALL CAPS?

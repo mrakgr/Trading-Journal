@@ -11722,3 +11722,9 @@ If the DAS price ladder doesn't end up being good, I'll literally make one mysel
 ![](images/image-2514.png)
 
 Why does the L2 box have duplicate tickets in ALL CAPS?
+
+6:10pm. ![](images/image-2515.png)
+> The speed of the tape picked up and then the volume came in.
+> So if you're trading it on the volume alone versus trading it on the tape, you're missing that trade.
+
+This is quite interesting. Maybe I should be paying attention to trade counts on the price ladder as well?

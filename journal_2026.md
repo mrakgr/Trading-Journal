@@ -11759,3 +11759,131 @@ At any rate the 1m bars are done. Let's make that list.
 3:50pm. Done with exercises. It's time to face my fear.
 
 Let's see whether I can create a Paypal account. The one on my primary email is bricked for some reason.
+
+3:55pm. ![](images/image-2516.png)
+
+It just bricked the one on my secondary email as well.
+
+4pm. I just bought it using Stripe instead. It seems that there is no 24 - 48h wait like I had feared.
+
+4:15pm. https://youtu.be/O85A_qpqaj0
+Market Replay with DAS Trader Pro
+
+For a moment I was afraid that Opus tricked me about it having replay, but it seems it really does have replay.
+
+https://youtu.be/O85A_qpqaj0?t=308
+
+Ah, so I have to go into the data stream mode.
+
+When that video was made it seems they didn't yet implement L2 replay. I'll also want to watch a video on the price ladder.
+
+https://youtu.be/J3HqIpiJ2oA
+DAS Trader Tips Video Market Replay Video
+
+This one is made by the DAS company.
+
+![](images/image-2517.png)
+
+When I tried to use the replay it said that I didn't have permission. And I see in the menu here that I only have L1 replay.
+
+What the fuck!
+
+4:50pm. I asked for a refund.
+
+***
+
+The reason why I bought the 175$/month subscription on DAS Simulator is because of its replay feature and price ladder. Now I am trying to use the replay and it's telling me that I have no permission for it.
+
+Even worse...
+
+![](images/image-2517.png)
+
+Don't tell me replay comes as an addon, and it only has L1 data? If that is true, I'd like a refund.
+
+The Claude chatbot was telling me how you had L2 replay, which is why I bought your product.
+
+***
+
+5:05pm. ![](images/image-2518.png)
+
+The scanner is such dogshit that it boggles my mind.
+
+6:10pm. ![](images/image-2519.png)
+
+The right thing to do here is to simply cut my losses.
+
+Ironically, the reason why I plowed straight forward without verifying whether the replay existed is because I was so afraid to even begin that I just wanted to conquer my fears. I decided to suppress the indecision and just go forward with the purchase and now I am having some serious buyers remorse.
+
+6:20pm. Yeah, I really conquered my fears alright. Now I am positively pissed.
+
+...Crypto isn't an option because Binance is gating the order book data.
+
+That means regulated futures are the best path forward.
+
+6:30pm. But at the same time I cannot just abandon stocks. Maybe I should double tag them?
+
+```
+=== 2026-01-26 ===
+   1. BNAI    Gap: +234.68%  RVOL:  15.9x  PM%adv:   162%  Score: 26.85  AtrRatio:  2.52
+   2. USAR    Gap: +23.38%  RVOL:  12.2x  PM%adv:   210%  Score: 12.79  AtrRatio:  1.17
+=== 2026-01-27 ===
+   1. UNH     Gap: -16.50%  RVOL:   7.7x  PM%adv:    52%  Score:  8.15  AtrRatio:  1.18
+=== 2026-01-29 ===
+   1. SAP     Gap: -15.70%  RVOL:   3.8x  PM%adv:    55%  Score:  4.36  AtrRatio:  1.29
+=== 2026-02-03 ===
+   1. PYPL    Gap: -18.10%  RVOL:   6.5x  PM%adv:    72%  Score:  7.10  AtrRatio:  1.85
+=== 2026-02-25 ===
+   1. CRCL    Gap: +20.21%  RVOL:   7.4x  PM%adv:    57%  Score:  8.03  AtrRatio:  1.52
+=== 2026-03-02 ===
+   1. AAOI    Gap: +27.69%  RVOL:   8.4x  PM%adv:    83%  Score:  9.39  AtrRatio:  1.46
+=== 2026-03-05 ===
+   1. MOBX    Gap: +21.95%  RVOL:   2.9x  PM%adv:    52%  Score:  3.88  AtrRatio:  1.52
+=== 2026-03-09 ===
+   1. HIMS    Gap: +47.49%  RVOL:   6.3x  PM%adv:    69%  Score:  8.34  AtrRatio:  1.69
+   2. TPET    Gap: +17.10%  RVOL:   1.7x  PM%adv:    54%  Score:  2.49  AtrRatio:  0.57
+=== 2026-03-12 ===
+   1. ABVX    Gap:  +7.06%  RVOL:   2.6x  PM%adv:    60%  Score:  2.79  AtrRatio:  1.07
+=== 2026-03-20 ===
+   1. SMCI    Gap: -26.86%  RVOL:   6.4x  PM%adv:    67%  Score:  7.41  AtrRatio:  1.83
+=== 2026-04-08 ===
+   1. AIXI    Gap: -14.87%  RVOL:   1.8x  PM%adv:    69%  Score:  2.45  AtrRatio:  1.17
+=== 2026-04-13 ===
+   1. RVMD    Gap: +37.16%  RVOL:  11.5x  PM%adv:   123%  Score: 12.76  AtrRatio:  1.70
+   2. SKYQ    Gap: +49.32%  RVOL:   2.0x  PM%adv:    84%  Score:  4.39  AtrRatio:  0.83
+=== 2026-04-22 ===
+   1. POET    Gap: +12.44%  RVOL:   9.2x  PM%adv:   117%  Score:  9.37  AtrRatio:  4.33
+=== 2026-04-27 ===
+   1. POET    Gap: -36.66%  RVOL:   6.2x  PM%adv:   116%  Score:  7.69  AtrRatio:  1.22
+=== 2026-05-01 ===
+   1. AKAN    Gap: +17.89%  RVOL:   4.2x  PM%adv:    53%  Score:  4.90  AtrRatio:  1.32
+=== 2026-05-04 ===
+   1. XNDU    Gap: -63.39%  RVOL:   6.5x  PM%adv:   123%  Score:  9.34  AtrRatio:  0.69
+=== 2026-05-05 ===
+   1. CYTK    Gap: +13.07%  RVOL:  13.0x  PM%adv:   226%  Score: 12.96  AtrRatio:  1.71
+=== 2026-05-07 ===
+   1. DDOG    Gap: +30.81%  RVOL:   7.2x  PM%adv:    63%  Score:  8.43  AtrRatio:  1.14
+=== 2026-05-08 ===
+   1. FLNC    Gap: +25.33%  RVOL:   9.4x  PM%adv:    75%  Score: 10.18  AtrRatio:  2.45
+=== 2026-05-11 ===
+   1. MNDY    Gap: +18.65%  RVOL:   5.9x  PM%adv:    52%  Score:  6.55  AtrRatio:  1.26
+=== 2026-05-12 ===
+   1. QUBT    Gap: +24.75%  RVOL:   9.9x  PM%adv:    85%  Score: 10.63  AtrRatio:  1.09
+=== 2026-05-13 ===
+   1. EOSE    Gap: +23.09%  RVOL:   5.8x  PM%adv:    98%  Score:  6.64  AtrRatio:   n/a
+```
+
+The stocks making 50% volume in the premarket tend to all be significant gappers in the premarket as well.
+
+So maybe I could do with an average dollar volume condition to save on the expenses.
+
+...
+
+Nevermind, it turns out that TV can do premarket filters.
+
+9:10pm. Let me go to bed. I am really not into futures, I'd rather trade stocks in play, but we'll see how that will turn out.
+
+Maybe I will revisit the VWAP system on the indices and see where it will lead me. It will let me kill some time while I wait for the markets to open next week.
+
+Given how things are going I should probably just focus on futures and leave stocks aside, but I want to give stocks a try independently of the fact that I sunk 175$ into it. Stocks are my love, I want them to love me back. Who wants to trade oil or index futures?
+
+I want the fun and exciting momentum stocks instead.

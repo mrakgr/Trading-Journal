@@ -11749,3 +11749,5 @@ Once I get some manual trading skills that will open the doors to further automa
 9:30am. I sent an email to Thom yesterday, but it's the same old no-reply. Whatever I do in trading will have to be accomplished by my lonesome it seems.
 
 And that is fine. For the next 2 years I should just focus on cultivating these skills. I don't have anything better going for me either way. Once I have some base level of skill I should try finding a trading pod as Lance urges. I need some new faces in my life.
+
+9:35am. One thing I should be mentally prepared is that I might have to really learn to read the L2 + TS windows instead of just a price ladder. If that is what it takes to make a million then that is what I will do.

@@ -11733,3 +11733,15 @@ https://youtu.be/S2T-cRUnugI
 How to Use Tape Reading to Make Quick Profitable Trades (for Scalping)
 
 This is the video I am watching currently.
+
+5/16/2026
+
+9:25am. Let me take it easy today. I'll download the files, make the list and then get the demo.
+
+I'll start easing myself into tape reading slowly. I'll aim to put at least 3h a day into it.
+
+Seriously, screw those weak quant systems. I want to be profitable 80% of all trading days at least. I want the skill and power to make the market my own in a small way.
+
+I want it to become my hunting ground.
+
+Once I get some manual trading skills that will open the doors to further automation.

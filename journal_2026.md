@@ -11751,3 +11751,7 @@ Once I get some manual trading skills that will open the doors to further automa
 And that is fine. For the next 2 years I should just focus on cultivating these skills. I don't have anything better going for me either way. Once I have some base level of skill I should try finding a trading pod as Lance urges. I need some new faces in my life.
 
 9:35am. One thing I should be mentally prepared is that I might have to really learn to read the L2 + TS windows instead of just a price ladder. If that is what it takes to make a million then that is what I will do.
+
+11:15am. I sent an email to Jeff Holden an hour ago and got an answer. Whoa, I didn't expect him to reply so soon. He is really is dedicated to his job! It must be really early for him in the US as well!
+
+At any rate the 1m bars are done. Let's make that list.

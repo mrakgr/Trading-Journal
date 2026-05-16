@@ -11745,3 +11745,7 @@ Seriously, screw those weak quant systems. I want to be profitable 80% of all tr
 I want it to become my hunting ground.
 
 Once I get some manual trading skills that will open the doors to further automation.
+
+9:30am. I sent an email to Thom yesterday, but it's the same old no-reply. Whatever I do in trading will have to be accomplished by my lonesome it seems.
+
+And that is fine. For the next 2 years I should just focus on cultivating these skills. I don't have anything better going for me either way. Once I have some base level of skill I should try finding a trading pod as Lance urges. I need some new faces in my life.

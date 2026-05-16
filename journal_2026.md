@@ -11752,6 +11752,10 @@ And that is fine. For the next 2 years I should just focus on cultivating these 
 
 9:35am. One thing I should be mentally prepared is that I might have to really learn to read the L2 + TS windows instead of just a price ladder. If that is what it takes to make a million then that is what I will do.
 
-11:15am. I sent an email to Jeff Holden an hour ago and got an answer. Whoa, I didn't expect him to reply so soon. He is really is dedicated to his job! It must be really early for him in the US as well!
+11:15am. I sent an email to Jeff Holden an hour ago and got an answer. Whoa, I didn't expect him to reply so soon. He is really is dedicated to his job! It must be really early for him in the US as well! Like 5am early!
 
 At any rate the 1m bars are done. Let's make that list.
+
+3:50pm. Done with exercises. It's time to face my fear.
+
+Let's see whether I can create a Paypal account. The one on my primary email is bricked for some reason.

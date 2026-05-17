@@ -11918,3 +11918,48 @@ This Demand Zone Made Me $12,525 in 4 Minutes (LIVE TRADING)
 Let me watch this video by Carmine Rosato and then I will end for the day. Tomorrow I am going to plunge into my studies of stocks in play. I have ~230 stocks on my list and I am going to be replaying those over and over, tick by tick until I get them. I am going to be using the ATAS' SuperDOM.
 
 The more hours I can put into this, the more successful I will be when I start with real money.
+
+6:20pm. His thought process is interesting. But trading S&P is pretty difficult it seems. I couldn't figure out that setup myself to be honest. It doesn't make too much sense to me.
+
+We'll see what patterns I will collect when I go through the stocks in play starting tomorrow.
+
+I am going to make full use of my 106k to maximize my learning over the next several months.
+
+For every setup that I trade I'd like to collect clear examples.
+
+7:30pm. I might get a refund. I said yes please to the following email.
+
+***
+
+Market Replay does not come standard with our subscription packages. It is a separate Add-On for $15 a month.
+
+Furthermore, we only provide Level I Market Replay.
+
+While do typically we do not allow for any refunds, we will submit your request for consideration given that it was mentioned the same day as your purchase.   Please confirm ASAP that you wish to cancel and refunded otherwise any delay in confirmation will affect the availability for a refund.
+
+We are also looping in the Billing Department who will be processing your request should we receive the confirmation from you.
+
+As a side note, please look on our website or email if you have any questions. Please do not use AI for your answers, as evidenced by this situation, it is and often can contain incorrect information in their responses.
+
+***
+
+It's very nice of the sales rep to do this for me. I won't hold a grudge towards the company anymore.
+
+I should also get those 50 euros out of Binance.
+
+...Done. 50 euros in, 48 euros back. I won't have to file taxes for that.
+
+7:40pm. https://www.youtube.com/shorts/3WfinQ8RX0g
+How to build a $100 million trading playbook 📈
+
+I should do everything Lance says. I won't go wrong following his advice. I guess what I'll be doing here will be a natural extension of the reference document work that I used to do a few months back.
+
+I'll be doing it at a greateer scale this time around.
+
+7:45pm. Every day I keep thinking about wanting to play Nioh 3 again, but I just don't have time nor the energy for it like now.
+
+I think once I start this next phase of my work I'll make some time for gaming again.
+
+I didn't expect I'd get a refund, it really takes some stress off of me.
+
+I managed to fix my stupid mistake.

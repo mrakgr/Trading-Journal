@@ -11963,3 +11963,7 @@ I think once I start this next phase of my work I'll make some time for gaming a
 I didn't expect I'd get a refund, it really takes some stress off of me.
 
 I managed to fix my stupid mistake.
+
+7:55pm. So what should I do here? Limbus I've caught up with.
+
+...Ah yeah, I've still yet to beat Ricardo in Reflectaria. I guess could go for that.

@@ -11887,3 +11887,34 @@ Maybe I will revisit the VWAP system on the indices and see where it will lead m
 Given how things are going I should probably just focus on futures and leave stocks aside, but I want to give stocks a try independently of the fact that I sunk 175$ into it. Stocks are my love, I want them to love me back. Who wants to trade oil or index futures?
 
 I want the fun and exciting momentum stocks instead.
+
+1:45am. https://youtu.be/ilQMY3VS8bc?t=86
+ATAS vs Bookmap I Features, Price & Real Performance
+
+> ATAS has also lower system requirement than BookMap as it avoids the heavy resource usage typical of Javascript platforms.
+
+Bookmap is made in JS? Damn. Did they really intend that for HFT. Wtf?
+
+4:15pm. https://atas.net/blog/how-to-trade-using-smart-dom/
+
+This article is written in a hillarious way.
+
+4:55pm. ![](images/image-2520.png)
+
+Ok, now I have the confirmation in the Youtube video that ATAS has L2 replay on stocks.
+
+https://youtu.be/mGGhtsJgMQQ?t=145
+Market Replay: a Unique Simulator for Traders
+
+It's here.
+
+There is no need to hesitate anymore. I'll grab the subscription straight up tomorrow and begin my studies.
+
+Rather than worrying about the 175$ I wasted on the DAS Simulator I should be concerned about the tens of thousands I will potentially waste if I mess up my learning process. So the important thing will be to focus.
+
+https://youtu.be/sFskXfWbq_g
+This Demand Zone Made Me $12,525 in 4 Minutes (LIVE TRADING)
+
+Let me watch this video by Carmine Rosato and then I will end for the day. Tomorrow I am going to plunge into my studies of stocks in play. I have ~230 stocks on my list and I am going to be replaying those over and over, tick by tick until I get them. I am going to be using the ATAS' SuperDOM.
+
+The more hours I can put into this, the more successful I will be when I start with real money.

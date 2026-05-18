@@ -12025,3 +12025,25 @@ Hmmm, for the 230 stocks on my list, I should try looking at their 1m charts and
 4:55pm. https://www.reddit.com/r/Daytrading/comments/1tgowuy/would_the_traders_here_be_interested_in_an_equity/
 
 I've had to repost it here. The first one got remove due to having a link.
+
+5pm. Let me stop here for the day. I'll see how things shake out tomorrow. Honestly, making trading tools isn't that bad of an idea. I just have to find the gaps in the market and fill them.
+
+But only if there is an actual gap to be found.
+
+5:55pm. It's been up for a while, but I am getting little traction.
+
+Yeah, forget this. Maybe I will just go back to poker and finish that poker bot using tabular CFR methods.
+
+I am envious of the great traders like Lance, but if I cannot do it at my own pace I am not interested in doing it at all. Trading is not worth doing if I cannot do it programatically.
+
+I'd be better off developing a portfolio of systems like Tom Basso does. Or Mounir. Mounir is probably going to be in a market wizards book at some point in the future.
+
+But 100k isn't worth that much effort. With 100k, I'd better of just finding a single method - momentum and sticking to it until I can figure out how to hit above 1m.
+
+I need a feeder. Daytrading won't be it, so I need either to make poker work, or to get a job and patiently accumulate.
+
+I have to do it properly or not at all.
+
+6:45pm. At this point, maybe I should consider applying to prop firms and explain to them my situation starting with SMB. I mainly just want them for the order book data, so if they are interested in extending it to me, I am willing to put in the work. Otherwise I literally won't be able to do the work.
+
+Yeah, let's go with that route. I guess in some sense I will be job hunting starting tomorrow. The Reddit thread is getting zero traction.

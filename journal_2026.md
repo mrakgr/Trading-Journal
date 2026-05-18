@@ -11992,4 +11992,32 @@ I don't want to trade futures. I am not interested in spending my time watching 
 
 I should just do some research on momentum methods and then start looking for a job again.
 
-3:10pm. Ok, I should definitely do research on momentum methods, but let's not give up just yet. There the BBT Market Terminal which has a replay function that I haven't looked at.
+3:10pm. Ok, I should definitely do research on momentum methods, but let's not give up just yet. There the BBT Trading Terminal which has a replay function that I haven't looked at.
+
+...No, it doesn't have order book replay.
+
+***
+
+I've just had a harrowing experience trying out various simulators. I've subscribed to DAS Simulator only to find out that its simulator only offered L1 replay. The Opus chatbot essentially tricked me into buying it. Then I tried the ATAS platform which through the dxFeed provider has historical order books for the entire universe of US equities only to realize too late that the ATAS platform itself allows trading of only a very short list of equities. I've made a list of stocks in play that I want to study and I am really in the market for a replay simulator and I could build one myself if I could get my hands on the order book data, but the exchanges jealously guard them and dxFeed for example doesn't even sell the data to retail clients. But just because I can't get this personally doesn't mean we couldn't get it if we banded together.
+
+I've been doing quant research for the past 6 months, and I am on the software side, so I am not necessarily interested in spending too much time looking at the market tick by tick or trading manually, but the SMB Capital videos have convinced me to [learn tape reading](https://youtu.be/YqNXTEEn1HQ?t=1163) as my results are not that great right now. I am really envious that their traders have access to market replay tools that the retail traders don't have.
+
+Being able to replay the full order book in a simulator rather than having to do it live could accelerate our learning curves significantly. I myself would prefer to build an edge without putting any capital at risk.
+
+***
+
+https://www.reddit.com/r/Daytrading/comments/1tgn15f/would_people_here_be_interested_in_an_equity/
+
+I've posted this here. I'll see whether I get anything. If I can get some significant interest I'll consider it as a business idea. If not, then...
+
+I'll do something else.
+
+If I cannot win at daytrading, there is always trading the news or going back to poker. I could give Thomas a hand.
+
+3:55pm. At the very least, thanks to all the skills that I have accumulated, making a longer term momentum system should be simple.
+
+Maybe I could try to learn to read the tape manually, but that would reduce me from an expert software engineer into a mediocre trader.
+
+...
+
+Hmmm, for the 230 stocks on my list, I should try looking at their 1m charts and seeing if something comes out of that. I should at least do a review to see if anything pops out at me or whether they look as random as anything else.

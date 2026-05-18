@@ -11984,10 +11984,12 @@ Again I paid 180$ for the priviledge of figuring out that the platform doesn't d
 
 I requested a refund and it was approved. It seems both DAS and dxFeed are pretty nice. They approved my refund requests despite them having a no-refund policy.
 
-So in summary over the last 4-5 days I paid 350$ for the priviledge of figuring out that market replay doesn't work anywhere. I'll get most of that back, but still it's ridiculous.
+So in summary over the last 4-5 days I paid 350$ for the priviledge of figuring out that market replay doesn't work anywhere. I'll get most of that back through refunds, but still it's ridiculous.
 
 I am pretty discouraged right now.
 
 I don't want to trade futures. I am not interested in spending my time watching the DOM personally.
 
 I should just do some research on momentum methods and then start looking for a job again.
+
+3:10pm. Ok, I should definitely do research on momentum methods, but let's not give up just yet. There the BBT Market Terminal which has a replay function that I haven't looked at.

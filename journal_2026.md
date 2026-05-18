@@ -12047,3 +12047,5 @@ I have to do it properly or not at all.
 6:45pm. At this point, maybe I should consider applying to prop firms and explain to them my situation starting with SMB. I mainly just want them for the order book data, so if they are interested in extending it to me, I am willing to put in the work. Otherwise I literally won't be able to do the work.
 
 Yeah, let's go with that route. I guess in some sense I will be job hunting starting tomorrow. The Reddit thread is getting zero traction.
+
+9:10pm. Change of plans again. Databento has the L2 data that I need. I'll just use that to feed the simulator that I will make.

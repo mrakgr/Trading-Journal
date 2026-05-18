@@ -12021,3 +12021,7 @@ Maybe I could try to learn to read the tape manually, but that would reduce me f
 ...
 
 Hmmm, for the 230 stocks on my list, I should try looking at their 1m charts and seeing if something comes out of that. I should at least do a review to see if anything pops out at me or whether they look as random as anything else.
+
+4:55pm. https://www.reddit.com/r/Daytrading/comments/1tgowuy/would_the_traders_here_be_interested_in_an_equity/
+
+I've had to repost it here. The first one got remove due to having a link.

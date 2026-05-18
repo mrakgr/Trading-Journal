@@ -11967,3 +11967,27 @@ I managed to fix my stupid mistake.
 7:55pm. So what should I do here? Limbus I've caught up with.
 
 ...Ah yeah, I've still yet to beat Ricardo in Reflectaria. I guess could go for that.
+
+5/18/2026
+
+7:50am. I messed up a little. I shouldn't have spent my time studying the beta platform yesterday. Before I buy, I need to spend some time studying the original one because only it has the Market Replay feature.
+
+8:20am. I've been able to demo trade for a bit, why did I suddenly lose the ability to do so?
+
+12:30pm. This is really fucked up. I bought the dxFeed subscription only to discover that the charts and the replay isn't working on ATAS for EOSE which was the first stock my study list.
+
+It turned out that ATAS has a very tiny shortlist of stocks it allows for replay and that was the reason why the chart for EOSE wasn't loading.
+
+Bullshit! Not again!
+
+Again I paid 180$ for the priviledge of figuring out that the platform doesn't do what I want. It's ridiculous.
+
+I requested a refund and it was approved. It seems both DAS and dxFeed are pretty nice. They approved my refund requests despite them having a no-refund policy.
+
+So in summary over the last 4-5 days I paid 350$ for the priviledge of figuring out that market replay doesn't work anywhere. I'll get most of that back, but still it's ridiculous.
+
+I am pretty discouraged right now.
+
+I don't want to trade futures. I am not interested in spending my time watching the DOM personally.
+
+I should just do some research on momentum methods and then start looking for a job again.

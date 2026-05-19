@@ -12049,3 +12049,7 @@ I have to do it properly or not at all.
 Yeah, let's go with that route. I guess in some sense I will be job hunting starting tomorrow. The Reddit thread is getting zero traction.
 
 9:10pm. Change of plans again. Databento has the L2 data that I need. I'll just use that to feed the simulator that I will make.
+
+5/19/2026
+
+6:55am. I had a restful night. Let me chill for a while and then I am going to get to work on this.

@@ -12053,3 +12053,12 @@ Yeah, let's go with that route. I guess in some sense I will be job hunting star
 5/19/2026
 
 6:55am. I had a restful night. Let me chill for a while and then I am going to get to work on this.
+
+1:30pm. https://youtu.be/vyp11o655Ww
+The RETAIL Quant OPPORTUNITY SPACE
+
+Omphile is way better than I thought he would be.
+
+![](images/image-2521.png)
+
+These are very good ideas.

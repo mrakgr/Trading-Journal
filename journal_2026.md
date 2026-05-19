@@ -12062,3 +12062,9 @@ Omphile is way better than I thought he would be.
 ![](images/image-2521.png)
 
 These are very good ideas.
+
+9:20pm. https://youtu.be/yDL2mY9C1h8
+Reading Level 2 Was HARD Until I Learned This Easy 3-Step Trick
+
+Tomorrow I will build out the simulator. Let me just watch this and I am heading to bed.
+

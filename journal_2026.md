@@ -12073,3 +12073,13 @@ Tomorrow I will build out the simulator. Let me just watch this and I am heading
 8am. Let me finish reading what I am currently reading and then I'll get started.
 
 8:30am. Let's start.
+
+8:35pm. New rule, no more posting on Lance's channel. I am just wasting my time doing that.
+
+Or posting on Youtube comments in general. I feel like I am losing my dignity whenever I do that. I feel like a moron afterwards because I am not getting anything out of it.
+
+At any rate, I am still working on the replay simulator. It's not the kind of project Opus can simply grind through so we have to go at it step by step. It will take a while it seems.
+
+I really want to start studying stocks in play and instead I am working on this. Just my luck, but it will pay off in the end.
+
+It's actually a very positive signal for my future EV that there are no L2 capable replay simulators in the retail space.

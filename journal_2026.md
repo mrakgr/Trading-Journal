@@ -12132,3 +12132,13 @@ Why Most Traders Misread Footprints
 > When you put it with a price ladder it becomes a lot cleaner.
 
 On that note, I have my own price ladder finally implemented on stocks. I need to put some finishing touches on it tomorrow and then I will be able to use it to actually study the auction process. I am really happy with how it came out. It's amazing.
+
+7:45pm. https://youtu.be/EP4ptjamPYA
+The strategy that keeps MAKING BILLIONS to INSTITUTIONAL traders: PEAD.
+
+I knew this 15 years ago, but it couldn't help my 3k account become profitable.
+
+8:35pm. https://youtu.be/xQ7yJqfkYck
+How to profit from oversold stocks (reading the tape)
+
+I'll leave this for tomorrow, I can't be bothered with it right now.

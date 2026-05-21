@@ -12083,3 +12083,45 @@ At any rate, I am still working on the replay simulator. It's not the kind of pr
 I really want to start studying stocks in play and instead I am working on this. Just my luck, but it will pay off in the end.
 
 It's actually a very positive signal for my future EV that there are no L2 capable replay simulators in the retail space.
+
+5/21/2026
+
+11am. Today I had a wonderful morning session and as a consequence the charts for the replay simulator work perfectly. The previous versions made by Opus were buggy, but I drilled in and fixed the design issues. I made the whole codebase functional and the bugs went away on their own. There is 5.2h of video that I need to post, so let me do it.
+
+///
+
+This past week was incredibly arduous for as we went from simulator to simulator spending close to 350$ only to figure out that the existing offerings cannot do the job properly. Thankfully we got refunds for those failed attempts, but we never came as close to getting knocked out of the daytrading arena as we did a few days ago. We were seriously considering whether to go back to building poker bots or getting a job. After much anguish and searching, we eventually figured out that Databento has full L3 (Market-By-Order) order book data that we could use to recreated the historical tape on the stocks on our list. And it's actually not particularly expensive if all you want to do is study select stocks in play.
+
+So our current state is that we're working on a replay simulator that can take equity MBO data from Databento, consolidate it, and display it for us in a graphical user interface. Currently, charts are done and next up are the L2 + TS boxes. We'll also implement a futures style DOM and a scrub bar for easy playback. The initial attempt by Opus was pretty bad, but the author managed to transform the codebase into a beautiful functional design that worked well the first time around.
+
+Last week, we were taken in by a spell. We finally realized that we won't be able to win just by looking at price and volume, and that we also needed to learn to read the order book. We seem the be going through these cycles. A few months ago when we (re)invented volume charts we thought that just them might be enough to detect hold patterns, then we learned about order aggression, and realized that it had added signal strength. And then did brief study of order book imbalance on Bitcoin and that planted the seed that finally drove us to go further afield. We want to achieve a threshold of skill that would allow us consistently have 80% of days profitable like the SMB Capital traders, and we realized after the last few months of trying that simple and naive systems will never get us to that level.
+
+We need to learn to read the tape, that is how prop firm traders get such high consistency.
+
+Testing simple systems will never improve our understanding of the market. We need to observe and study the market's actual auction process order-by-order if want to achieve trading enlightenment.
+
+We'll build the market simulator, study the past stocks in play for a few months, and if that doesn't give us any insights we're going to drop daytrading and start looking for a job. We'll only do some research on momentum methods just so we have a method to rely on and don't need to put our money into index funds, but otherwise that will be it for our trading career. It's better to fail in a short amount of time, than to fail in a longer amount of time. We need some indication from the market that it would be fine to become traders.
+
+The charts of stocks in play, volume bar or time bars regardless, look incredibly noisy to the author and he isn't interested in gambling. Either the order book will give us an edge or we're done.
+
+We think there is a fair chance we'll get some positive feedback though.
+
+Either way, we've built some skills in backtesting trading ideas, which will make testing trend following systems a cinch in the future.
+
+Do post some comments if you'd be interested in a tape reading practice simulator that we're building. If there is enough demand for it, we'll consider turning it into a commercial product. It seems ridiculous to us that the only path to learning to read the tape for retail trades is live. We feel that it's simply a misconception that one needs to pay the market its dues, and it's simply foolish to trial by fire.
+
+If we cannot beat the demo, there is no way we'll ever beat the market live.
+
+The author spent 2007 - 2014 placing trades without ever getting better and he doesn't want to go through that experience again. This time he intends to win through deep research.
+
+We'll beat the learning curve - the right way!
+
+///
+
+
+Music:
+
+Veilcore Music - No.212: https://youtu.be/CmNKY6ggy1Q
+Symphony Of Blades - Dark Crusader: https://youtu.be/c7VjVVwDwNE
+Veilcore Music - No.214: https://youtu.be/xqlh3PIIdEM
+Symphony Of Blades - NEUROFANG: https://youtu.be/P42ybGglOJM

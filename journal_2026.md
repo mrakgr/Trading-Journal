@@ -12125,3 +12125,10 @@ Veilcore Music - No.212: https://youtu.be/CmNKY6ggy1Q
 Symphony Of Blades - Dark Crusader: https://youtu.be/c7VjVVwDwNE
 Veilcore Music - No.214: https://youtu.be/xqlh3PIIdEM
 Symphony Of Blades - NEUROFANG: https://youtu.be/P42ybGglOJM
+
+7:35pm. https://youtu.be/nFX5iMZ3S1E?t=221
+Why Most Traders Misread Footprints
+
+> When you put it with a price ladder it becomes a lot cleaner.
+
+On that note, I have my own price ladder finally implemented on stocks. I need to put some finishing touches on it tomorrow and then I will be able to use it to actually study the auction process. I am really happy with how it came out. It's amazing.

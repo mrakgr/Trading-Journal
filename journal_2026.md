@@ -12142,3 +12142,9 @@ I knew this 15 years ago, but it couldn't help my 3k account become profitable.
 How to profit from oversold stocks (reading the tape)
 
 I'll leave this for tomorrow, I can't be bothered with it right now.
+
+5/22/2026
+
+8:30am. Let me get started for the day. I woke up early lounged in med for a while.
+
+9:05am. Done with the SMB vids. The reversal trade is interesting. It's actually the same type that Lance teaches, but a lot more in depth since they are focusing on the tape specifically. I'll some more work on the replay simulator and then do some studying myself. I should add an indicator to the price ladder to count trade speed since that seems important to them.

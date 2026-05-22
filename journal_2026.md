@@ -12148,3 +12148,26 @@ I'll leave this for tomorrow, I can't be bothered with it right now.
 8:30am. Let me get started for the day. I woke up early lounged in med for a while.
 
 9:05am. Done with the SMB vids. The reversal trade is interesting. It's actually the same type that Lance teaches, but a lot more in depth since they are focusing on the tape specifically. I'll some more work on the replay simulator and then do some studying myself. I should add an indicator to the price ladder to count trade speed since that seems important to them.
+
+6:15pm. 
+
+///
+
+Done for today. The work on the replay sim is going extremely well and we have the histogram, the fades and the streaks implemented. The price ladder by all appearances seems like it will be a very useful tool.
+
+Honestly, charts of any kind, even volume based ones cannot compare to the price ladder. I couldn't see it at all on the volume chart, but the hold at 9.35 in EOSE was quite poignant and it's release was the best trade of the day. In addition to that the combination of the order book and trades made it possible to tell apart reversals with precision that would be unimaginable on a chart.
+
+The last 2/3rds of this video are played at 1x speed so you can check it out for yourselves if you're interested. You can read the tape alongside with the author.
+
+The next step would be to implement order entries and fill sims. Today we just made vague mental notes, but once we have fill sims, we'll be able to sim trade on the price ladder directly and see objectively how good our entries and exits would be in this demo environment. That will also be much more fun than just looking at the ladder.
+
+We'll turn this into a game by the end of this mini-series.
+
+Music:
+
+Soothing sound Mikan - Cursebringer: https://youtu.be/KMN73nzG4wI
+Symphony Of Blades - Celestial Blade: https://youtu.be/mWg1f0AeZ8g
+Veilcore Music - No.215: https://youtu.be/1qCyO8iMT14
+
+///
+

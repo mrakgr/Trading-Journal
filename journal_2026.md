@@ -12171,3 +12171,13 @@ Veilcore Music - No.215: https://youtu.be/1qCyO8iMT14
 
 ///
 
+7:05pm. https://www.reddit.com/r/algotrading/comments/1tkp1r8/sneak_peak_at_the_l3_equity_replay_simulator/
+
+Ah, goddamit, can't I post anything useful on Reddit?
+
+https://www.youtube.com/watch?v=qm-1HqvPp0k
+An Important Lesson on Reading the Tape
+
+I'll leave this SMB video for later. I have no idea why Reddit even exists if I cannot post my work on it. It's a waste of time.
+
+It's a sewer with rarely anything of use being posted.

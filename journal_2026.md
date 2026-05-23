@@ -12181,3 +12181,40 @@ An Important Lesson on Reading the Tape
 I'll leave this SMB video for later. I have no idea why Reddit even exists if I cannot post my work on it. It's a waste of time.
 
 It's a sewer with rarely anything of use being posted.
+
+5/23/2026
+
+7:45am. God, I sure am peeved at getting filtered. But that's yesterday. My hands are starting to hurt so I am going to change the video format. I am going to speak into the mic and extract the subtitles from that.
+
+Yesterday, I made sure to record a mp4 in addition to writing that post, but it just wouldn't let it through.
+
+I'll try it with a screenshot and then I'll give up.
+
+***
+
+![](images/image-2522.png)
+![](images/image-2523.png)
+
+I've been looking for a replay sim that could do order book replay on stocks and after not finding one despite much effort, I decided to make my own. It takes equity MBO data from Databento and there is also price ladder. It can go through time with the slider, pause and unpause, and go backwards and forward 5s with the arrow keys. There is also a tab with the L2 + TS boxes, but they aren't very useful compared to the futures-style price ladder that you see here. I always see pro traders using those ugly L2 + TS boxes, but futures-style price ladders feel like far superior tools to me.
+
+I've yet to see a price ladder that has fades and streaks, and I am really liking the one I've built so far. The next step would be to implement fill sims and demo trading into it.
+
+I think it only now that I have this, I'll be actually able to start studying the market properly. I've gotten familiar with backtesting over the past few months but if you're daytrading trying to make simplistic systems work on the market is just nonsense. What really matters is what you're looking at, that is how you develop an edge. I should be treating my own price ladder predictions as a system.
+
+A more complex generative system could work, or alternatively, one that is trained on a large dataset of my own trades, or a combination of both, but to create such systems, I will need both significant skill and understanding of the markets to begin with.
+
+***
+
+https://www.reddit.com/r/algotrading/comments/1tl7wgp/working_on_a_l3_equity_replay_simulator/
+
+It got removed again, just why is that happening?
+
+...Forget it. Let me just give up on this. It can remain in my journal here.
+
+https://youtu.be/8kBpVelo9Tg
+Why your Trading Strategy Sucks
+
+https://youtu.be/IHD8BDFYyGI
+SpaceX IPO: Nice Try Though
+
+Let me watch this and then I will start.

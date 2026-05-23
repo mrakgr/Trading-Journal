@@ -12224,3 +12224,13 @@ Let me watch this and then I will start.
 8:20am. ![](images/image-2524.png)
 
 It boggles my mind how shitty Musk's businesses are. I was sure that SpaceX was at least profitable, but that's not the case.
+
+10:50am. ![](images/image-2525.png)
+
+Change of plans. I am going into the trading education business. I'll turn V4 of the replay sim into a commercial product and sell it for 50$/month.
+
+I'll also sell my trade analyses done using the replay sim as a separate product. I'll make this my side hustle.
+
+It's likely that it might take me a year or longer to get good at scalping, and I am just throwing away my EV by giving the replay sim away for free.
+
+For the first time ever I have something of actual value so why not just...trade it?

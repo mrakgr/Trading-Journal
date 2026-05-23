@@ -12234,3 +12234,11 @@ I'll also sell my trade analyses done using the replay sim as a separate product
 It's likely that it might take me a year or longer to get good at scalping, and I am just throwing away my EV by giving the replay sim away for free.
 
 For the first time ever I have something of actual value so why not just...trade it?
+
+3:20pm. We've made plans, me and Opus and all that remains is to go for it.
+
+https://github.com/mrakgr/tapesim
+
+The replay sim development will continue in this private repo.
+
+I guess the Youtube channel will have to take a backseat for a while.

@@ -12218,3 +12218,9 @@ https://youtu.be/IHD8BDFYyGI
 SpaceX IPO: Nice Try Though
 
 Let me watch this and then I will start.
+
+8am. I've tried posting it on the other sub.
+
+8:20am. ![](images/image-2524.png)
+
+It boggles my mind how shitty Musk's businesses are. I was sure that SpaceX was at least profitable, but that's not the case.

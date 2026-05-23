@@ -12242,3 +12242,5 @@ https://github.com/mrakgr/tapesim
 The replay sim development will continue in this private repo.
 
 I guess the Youtube channel will have to take a backseat for a while.
+
+3:30pm. I'll stop the recording. It was a while since I did any programming raw.

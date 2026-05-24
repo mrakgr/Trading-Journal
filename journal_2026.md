@@ -12251,3 +12251,11 @@ https://youtu.be/5H7jWjHFcMw
 Trading an unusual held bid on the tape (hidden bidder)
 
 I'll leave this for tomorrow.
+
+5/24/2026
+
+8:45am. Let's get to work.
+
+I played Nioh 3 just a little yesterday and my sleep immediatelly gets worse, but it's not like I spent the whole night being up.
+
+I did my morning reading, so let's get back to work. I'll finish this app in a few weeks and then start work on improving my skills.

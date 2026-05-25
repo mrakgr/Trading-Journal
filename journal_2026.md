@@ -12258,4 +12258,15 @@ I'll leave this for tomorrow.
 
 I played Nioh 3 just a little yesterday and my sleep immediatelly gets worse, but it's not like I spent the whole night being up.
 
-I did my morning reading, so let's get back to work. I'll finish this app in a few weeks and then start work on improving my skills.
+I did my morning reading, so let's get back to work. I'll finish this app in a few weeks and then start work on improving my trading skills.
+
+5/25/2026
+
+7:30am. Damn it, my back hurts as hell right now.
+
+![](images/image-2526.png)
+![](images/image-2527.png)
+
+I've been wondering why I never get replies from Lance on my longer form text, and it turns out that Youtube is filtering them.
+
+It's so unsatisfying to post comments on Youtube.

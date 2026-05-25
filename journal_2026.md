@@ -12270,3 +12270,5 @@ I did my morning reading, so let's get back to work. I'll finish this app in a f
 I've been wondering why I never get replies from Lance on my longer form text, and it turns out that Youtube is filtering them.
 
 It's so unsatisfying to post comments on Youtube.
+
+It not only filtered them, but it hid the fact that it did so from me.

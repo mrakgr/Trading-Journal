@@ -12272,3 +12272,40 @@ I've been wondering why I never get replies from Lance on my longer form text, a
 It's so unsatisfying to post comments on Youtube.
 
 It not only filtered them, but it hid the fact that it did so from me.
+
+5/29/2026
+
+5:35pm. We got TapeSim's sim trading to work at last.
+
+***
+
+Continued from Building 'The L3 Equity Replay Simulator' miniseries. The project we're working on has been rebranded as TapeSim.
+
+In the previous video we managed to get viewing to work, but in this two-part miniseries we added proper sim trading capabilities to TapeSim. It's a surprisingly complex project and the author is quite into it. We're going to be commercializing it with a 50$ monthly subscription for the simulated order placement features, so everything you'll be seeing in the TapeSim videos will be proprietary code. You have the license to study it, but not to copy, modify or distribute it.
+
+We have to do some more work in order to get to the commercialization stage, but TapeSim already has most of the major features needed for a proper simulated trading platform.
+
+We're really proud of the design, it took a lot of care to get it right, and our reward is the absence of bugs as we go forward. It's some of the author's finest functional programming work.
+
+We'll be aiming to release the beta by mid-June hopefully. We're looking forward to it.
+
+When we were looking for equity replay simulators that had order book replay on historical data, and also had a price ladder view, we couldn't find any so we made our own. It's the first time the author sees an obvious market gap that needs filling, so hopefully we can get at least a few dozen subscribers for this. If not, we'll just use it ourselves and improve our own skills using the tool.
+
+Either way it will be a novel experience for us. Unlike trading, making a product and selling it doesn't have any downside risk, it's pure positive EV.
+
+Our own interests and the needs of the market are aligned for once.
+
+Music:
+
+EVLSound - CRUEL HARBOR: https://youtu.be/xCy9ctpQJNE
+終末決戦音楽工房 - Valkyrie Mode: Full Throttle: https://youtu.be/-l7RQ6LviBI
+KageYume - Battle of the Fallen Kingdom: https://youtu.be/R1YrB1VZnRE
+終末決戦音楽工房 - Divine Valkyrie Ignition: https://youtu.be/qzyHJPgkrVY
+World Metal Music Hub Production - VIOLIN VS METAL - The Strength of the Violin VS Guitar: https://youtu.be/W8h2q_nQ8jY
+World Metal Music Hub Production - Instrumental Melodic Rock Music for Relaxing Vol.2: https://youtu.be/zAM76zgFUEU
+
+***
+
+Here is the description for the TapeSim videos that will be out on Youtube. I am somewhat hesitant to release screencasts of my work on a proprietary codebase, but I want to do it. It might serve as a form of advertizing. Maybe I'll regret having it out there as copycats might use it to compete with me, but as they say, immitation is the sincerest form of flattery.
+
+I want to keep making the Youtube videos even though nobody is watching them. It gives me motivation.

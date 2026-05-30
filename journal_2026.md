@@ -12309,3 +12309,17 @@ World Metal Music Hub Production - Instrumental Melodic Rock Music for Relaxing 
 Here is the description for the TapeSim videos that will be out on Youtube. I am somewhat hesitant to release screencasts of my work on a proprietary codebase, but I want to do it. It might serve as a form of advertizing. Maybe I'll regret having it out there as copycats might use it to compete with me, but as they say, immitation is the sincerest form of flattery.
 
 I want to keep making the Youtube videos even though nobody is watching them. It gives me motivation.
+
+5/30/2026
+
+7:30pm. I can't stop posting in Lance's Youtube either. It gives me motivation.
+
+At any rate, most of the major features for TapeSim are done. Tomorrow I'll start the integrations.
+
+I figured out too late that Trading Sim and TradeSync have L2 + TS replay, but they only have that with 250-500ms cadence and no price ladder, so whatever.
+
+Knowing they existed 1.5 weeks ago would have made the decision to start work on TapeSim harder, but now I am past the threshold. Even if I made 0$ from TapeSim subscribers, it still makes more sense to use the tool by myself.
+
+Also goddamit, where is that refund from dxFeed?
+
+7:35pm. I've made a follow-up. Who knows, maybe I'll get screwed, but if so, then so be it. If you want something done, then you need to do it yourself.

@@ -12323,3 +12323,10 @@ Knowing they existed 1.5 weeks ago would have made the decision to start work on
 Also goddamit, where is that refund from dxFeed?
 
 7:35pm. I've made a follow-up. Who knows, maybe I'll get screwed, but if so, then so be it. If you want something done, then you need to do it yourself.
+
+6/2/2026
+
+5:50pm. https://youtu.be/9beCwzb4QOw
+TapeSim Intro
+
+After much work, TapeSim is finally released. I am just waiting for it to pass Lemon Squeezy review so I can flip it live. Let me send them this video. I have to remember to make it public after the Lemon Squeezy account goes live.

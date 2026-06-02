@@ -12330,3 +12330,25 @@ Also goddamit, where is that refund from dxFeed?
 TapeSim Intro
 
 After much work, TapeSim is finally released. I am just waiting for it to pass Lemon Squeezy review so I can flip it live. Let me send them this video. I have to remember to make it public after the Lemon Squeezy account goes live.
+
+7:45pm. https://tapesim.app/
+
+![](images/image-2528.png)
+![](images/image-2529.png)
+![](images/image-2530.png)
+![](images/image-2531.png)
+![](images/image-2532.png)
+
+Let me save a screenshot of the site in face it ever goes down
+
+***
+
+There are three ways to make a living:
+
+1) Lie to people who want to be lied to, and you’ll get rich.
+
+2) Tell the truth to those who want the truth, and you’ll make a living.
+
+3) Tell the truth to those who want to be lied to, and you’ll go broke.
+
+***

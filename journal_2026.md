@@ -12374,3 +12374,7 @@ I'll make that my first goal for today.
 I'll focus on following my plan for the next few months. Just game on the replay simulator, forget everything else. If I cannot find durable edges then so be it.
 
 Forget even exporting trades, I don't need that. I just have to document them manually, when it's time to make the dataset for the NN, I'll just go through the entire thing again if needed.
+
+11:05am. Got the dxFeed refund. It turns out I got it a while ago, but it landed back in USD in a different account than the one I am using so I didn't see it.
+
+That is one burden off my back.

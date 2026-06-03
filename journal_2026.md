@@ -12380,3 +12380,29 @@ Forget even exporting trades, I don't need that. I just have to document them ma
 That is one burden off my back.
 
 Right now I am really trying to figure out how to lower my stress level. Let's just leave work aside for today and maybe a few days.
+
+11:30am. 
+
+***
+
+I case you have been wondering how you can go from a working app to a commercial product, this video is for you. In a twist, we decided to turn TapeSim into a paid product with its own website and store. Check it out at: https://tapesim.app/
+
+A side effect of that, this video had the record number of occurences where the author leaked his keys and personal info.
+
+It's been a long trip. At the time of writing we're just waiting to pass the Lemon Squeezy (mechant of record's) review so we can take the store live and actually start selling the product.
+
+Besides that, we want to wind down the frenzied pace of programming and go through the 215 of stocks in play on our list. EOSE had a good hold pattern that is only visible on the price ladder, and we're looking forward to finding more on those. We'll be posting our studies on the TapeSim playlist.
+
+See you there.
+
+Music:
+
+EVLSound - DEMOLATE: https://youtu.be/mL9YWbAZTkg
+Symphony Of Blades - Mizuchi: https://youtu.be/3BYPgqbcpb8
+KageYume - ARCANE BATTLE: https://youtu.be/G9GP0ZCNlJA
+
+***
+
+11:45am. The video is rendering. It will be up in a couple of days.
+
+That's one thing down. Now I should be able to focus solely on the tape studies.

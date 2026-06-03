@@ -12378,3 +12378,5 @@ Forget even exporting trades, I don't need that. I just have to document them ma
 11:05am. Got the dxFeed refund. It turns out I got it a while ago, but it landed back in USD in a different account than the one I am using so I didn't see it.
 
 That is one burden off my back.
+
+Right now I am really trying to figure out how to lower my stress level. Let's just leave work aside for today and maybe a few days.

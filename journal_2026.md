@@ -12368,3 +12368,9 @@ For now, how about I forget about any new features for TapeSim until I've gone t
 I should also take the chance to finish the latest screencast on Building The Trading Edge and post in on Youtube.
 
 I'll make that my first goal for today.
+
+9:40am. Crazy. It actually does hurt when I push at the bottom of my abdomen. I wonder why my stress spiked so much yesterday just as I was done with work? Shouldn't that have given me so relief? Just what is my brain doing?
+
+I'll focus on following my plan for the next few months. Just game on the replay simulator, forget everything else. If I cannot find durable edges then so be it.
+
+Forget even exporting trades, I don't need that. I just have to document them manually, when it's time to make the dataset for the NN, I'll just go through the entire thing again if needed.

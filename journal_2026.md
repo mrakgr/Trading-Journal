@@ -12352,3 +12352,19 @@ There are three ways to make a living:
 3) Tell the truth to those who want to be lied to, and you’ll go broke.
 
 ***
+
+6/3/2026
+
+9:10am. What a rough night. Yesterday I was surprisingly stressed out given how little programming I did during the day. I really felt a pit in my stomach after 6pm for the rest of the day.
+
+At any rate, TapeSim is out and I can finally use it. It's time to go through those 215 stocks in my list.
+
+I really worked non-stop for the past 2 weeks, like a lunatic and I really need a break right now to unwind.
+
+I'll do a screencast of going through EOSE after I feel like it. Let me just chill this morning, take a bath and then I will start doing these studies. I need to think about how I am going to export the trading activity.
+
+For now, how about I forget about any new features for TapeSim until I've gone through 5 stocks.
+
+I should also take the chance to finish the latest screencast on Building The Trading Edge and post in on Youtube.
+
+I'll make that my first goal for today.

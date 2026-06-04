@@ -2,6 +2,10 @@
 
 I like how unlike in git commit messages I can also insert images in the markdown. I'll be using this for my journaling needs.
 
+## 6/4/2026
+
+
+
 ## 12/19/2025
 
 https://youtu.be/wfjvphj1-LU

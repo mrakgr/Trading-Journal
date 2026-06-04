@@ -12418,3 +12418,9 @@ Yeah, let's start slowly today. I'll do some reading and then I will start with 
 ...Let me downgrade the Claude plan to Pro since I won't be using it as heavily as before. It will save me some money next billing cycle in 2 days. I've really gotten a lot out of the max subscription.
 
 9:10am. Let me finally start. I want to do some analysis work.
+
+9:20am. ![](images/image-2533.png)
+
+Agh, fuck.
+
+A time waster. I'll have to look for a different mechant of record.

@@ -12406,3 +12406,15 @@ KageYume - ARCANE BATTLE: https://youtu.be/G9GP0ZCNlJA
 11:45am. The video is rendering. It will be up in a couple of days.
 
 That's one thing down. Now I should be able to focus solely on the tape studies.
+
+6/4/2026
+
+7:40am. No news yet, the TapeSim store is still in review. I am in much better shape stress wise than I was yesterday. I'll do some work today, though let me chill for a while.
+
+I've spent the whole day yesterday catching up to the `I’ve Become an Onahole, But I’ll Still Climb The Tower` novel. I am a bit over halfway in.
+
+Yeah, let's start slowly today. I'll do some reading and then I will start with the analysis of EOSE.
+
+...Let me downgrade the Claude plan to Pro since I won't be using it as heavily as before. It will save me some money next billing cycle in 2 days. I've really gotten a lot out of the max subscription.
+
+9:10am. Let me finally start. I want to do some analysis work.

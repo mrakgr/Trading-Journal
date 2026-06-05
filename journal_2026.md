@@ -12453,3 +12453,13 @@ It's finally up.
 Uah, now I can start the outreach.
 
 Let's me start with the 4 Youtube guys who replied to me. I'll give them a 50% discount.
+
+5:35pm. Ah crap, I just realized that nowhere does it highlight that TapeSim is for equities.
+
+...Fixed.
+
+5:40pm. https://www.reddit.com/r/Daytrading/comments/1txojxb/tapesim_practice_reading_the_tape_on_us_equities/
+
+I'd be amazed if this actually ends up being approved given how Reddit mods are like. We'll see.
+
+Let me make the keys for Lance and Jeff.

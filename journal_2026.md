@@ -12463,3 +12463,16 @@ Let's me start with the 4 Youtube guys who replied to me. I'll give them a 50% d
 I'd be amazed if this actually ends up being approved given how Reddit mods are like. We'll see.
 
 Let me make the keys for Lance and Jeff.
+
+6:15pm. Uah, ok, I am tired so let me leave Jeff for tomorrow. It takes an effort to write these emails, and I might as leave it for when I am more rested. Did the thread get banned yet?
+
+6:45pm. Yes, the Reddit thread got removed. Those assholes are behaving as expected. 100 useless threads stay up, but one useful one gets taken down.
+
+Nevermind this, I'll fire an email to Jeff tomorrow, and then I'll let TapeSim grow organically.
+
+I am done for today. Let me get back to those gb novels. Tomorrow I'll wrap up the outreach and start using TapeSim for what it was intended for.
+
+I have 10,000s of hours invested in random computer games throughout my life. I think the stock market deserves at least 1,000 dedicated hours to it. Once I go though that practice run then I will be able to consider trading with real money. I have 200h just in Elden Ring and that's nothing. 1,000h can be filled in 4-6 months.
+
+Going through EOSE yesterday was fun. I am really wondering what the other stocks on the list will be like.
+

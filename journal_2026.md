@@ -12489,3 +12489,7 @@ It's occuring to me that these links have poor previews. I recall Aman talking a
 It's super rough trying to promote on Reddit. I posted this on a 18 day old post and got a 30 day ban. The thread got completely removed too along with all my comments. It pretty tilting actually. Sigh, what is Reddit even good for these days. I made something and I cannot show it.
 
 It's like trying to get a benefit from these places is frowned upon. Let me try posting on HN.
+
+9:40pm. https://www.reddit.com/r/fsharp/comments/1txv6hs/tapesim_practice_reading_the_tape/
+
+Let's see if this gets any bites.

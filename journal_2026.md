@@ -12481,3 +12481,5 @@ Going through EOSE yesterday was fun. I am really wondering what the other stock
 I posted it here and it's not getting removed.
 
 It's occuring to me that these links have poor previews. I recall Aman talking about that now.
+
+8pm. Fixed it. Gave Omphile a 100% lifetime discount while I was at it. I am really tired of this right now. Let me finally rest.

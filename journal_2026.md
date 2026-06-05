@@ -12476,3 +12476,8 @@ I have 10,000s of hours invested in random computer games throughout my life. I 
 
 Going through EOSE yesterday was fun. I am really wondering what the other stocks on the list will be like.
 
+7:05pm. https://www.reddit.com/r/OrderFlow_Trading/comments/1txquf4/tapesim_practice_reading_the_tape_on_us_equities/
+
+I posted it here and it's not getting removed.
+
+It's occuring to me that these links have poor previews. I recall Aman talking about that now.

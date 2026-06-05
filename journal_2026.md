@@ -12495,3 +12495,5 @@ It's like trying to get a benefit from these places is frowned upon. Let me try 
 Let's see if this gets any bites.
 
 9:50pm. Maybe I should just think about buying ads. Reddit posting doesn't seem like a viable marketing tactic. Instead of getting pissed at Reddit, I should think about my moves more carefully. I guess you really can't get something for nothing.
+
+Let me just give it a few months. I'll make videos of me using TapeSim and sim trading and then I'll think about how it goes.

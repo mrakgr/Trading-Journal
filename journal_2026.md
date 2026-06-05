@@ -12493,3 +12493,5 @@ It's like trying to get a benefit from these places is frowned upon. Let me try 
 9:40pm. https://www.reddit.com/r/fsharp/comments/1txv6hs/tapesim_practice_reading_the_tape/
 
 Let's see if this gets any bites.
+
+9:50pm. Maybe I should just think about buying ads. Reddit posting doesn't seem like a viable marketing tactic. Instead of getting pissed at Reddit, I should think about my moves more carefully. I guess you really can't get something for nothing.

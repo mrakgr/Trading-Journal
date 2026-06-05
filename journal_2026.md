@@ -12424,3 +12424,32 @@ Yeah, let's start slowly today. I'll do some reading and then I will start with 
 Agh, fuck.
 
 A time waster. I'll have to look for a different mechant of record.
+
+6/5/2026
+
+4:35pm. I got through the Polar review very smoothly.
+
+***
+
+TapeSim replays real market data — depth, time & sales, and the DOM ladder — tick by tick, so you can rehearse order-flow trading and place simulated orders without risking a cent.
+
+It was created to help you gain skills in reading the tape.
+
+---
+
+#tapesim #daytrading #trading #tapereading #orderflowtrading 
+
+Playlist: https://www.youtube.com/playlist?list=PL04PGV4cTuIUzK2Nntle87PsN_VQzOO1B
+
+***
+
+Let me save this here, as I need to decomission the old video.
+
+4:55pm. https://youtu.be/kjfALKbvgbI
+TapeSim Intro
+
+It's finally up.
+
+Uah, now I can start the outreach.
+
+Let's me start with the 4 Youtube guys who replied to me. I'll give them a 50% discount.

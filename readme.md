@@ -2,9 +2,11 @@
 
 I like how unlike in git commit messages I can also insert images in the markdown. I'll be using this for my journaling needs.
 
-## 6/4/2026
+## 6/5/2026
 
+https://tapesim.app/
 
+I created TapeSim to help me train my trading skills.
 
 ## 12/19/2025
 

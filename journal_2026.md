@@ -12483,3 +12483,7 @@ I posted it here and it's not getting removed.
 It's occuring to me that these links have poor previews. I recall Aman talking about that now.
 
 8pm. Fixed it. Gave Omphile a 100% lifetime discount while I was at it. I am really tired of this right now. Let me finally rest.
+
+9:20pm. https://www.reddit.com/r/algorithmictrading/comments/1tl7z0q/comment/opwztnx/?context=3
+
+It's super rough trying to promote on Reddit. I posted this on a 18 day old post and got a 30 day ban. The thread got completely removed too along with all my comments. It pretty tilting actually. Sigh, what is Reddit even good for these days. I made something and I cannot show it.

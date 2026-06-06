@@ -12525,3 +12525,9 @@ I should just be honest to myself. Since I have money stowed away I am not despe
 ![](images/image-2537.png)
 
 Yeah, not bad. Let me try applying here. It's like playing a lottery. I'll make my minimum requirement for these kinds of shady cryto jobs at least 300k.
+
+11:15am. 2 years ago, I'd be delighted to get 120-140k, but after the Tao Ceti job, I don't see those tiers of jobs as that big of a deal anymore. I have better things to do.
+
+Anyway, these jobs are complete dice rolls either way. The Tao Ceti one was pure luck even though it was my effort that managed to grasp the opportunity. I certainly don't have the ability to just get 250k/year jobs at will. It's like 1 in 100 chance per application. I was getting rejected from shit tier 60k/year jobs before getting that one.
+
+Ok, now let me deal with the screencasts next. I have 2 that need posting, and unlike before the clips for them are interspersed with the clips for other screencasts so I'll have to comb them carefully.

@@ -12551,3 +12551,5 @@ Just fired them a short message on their live chat app. That should be enough.
 I'll take this opportunity to chill and take a bath. I've been busy doing other work all morning. At least I've gotten everything out of the way now.
 
 I've gotten some good feedback from the Databento rep. He seems to be really curious about the app, so maybe they will end up supporting it. I didn't expect anything, but if you let your work be known, good things can happen.
+
+5:35pm. Done with the bath and exercises. I had time to think what else I could do for the day in order to clear the road for tomorrow and the answer is - buy the Fastmail subscription. Currently I am still on trial.

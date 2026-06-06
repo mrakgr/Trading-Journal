@@ -12565,3 +12565,8 @@ Nwm, it's barely a dip. Hardly a crash.
 6pm. At any rate, I got a 2 year Fastmail subscription for 100 euros. I really hope that TapeSim will make up at least the expenses of setting up the domain and email.
 
 With that out of the way let me stop here. Tomorrow I have clear runway. It's Sunday so I doubt I'll be getting anything big in my inbox. I just have to do the sim gaming sessions in TapeSim, and post them online as I go through the stocks. Tomorrow I'll cover QBTS.
+
+8:50pm. https://youtu.be/YQ9RRItnI3Y
+3 Scalp Trading Mistakes to Avoid at All Costs
+
+A great old video. Jeff is great at his craft.

@@ -12531,3 +12531,23 @@ Yeah, not bad. Let me try applying here. It's like playing a lottery. I'll make 
 Anyway, these jobs are complete dice rolls either way. The Tao Ceti one was pure luck even though it was my effort that managed to grasp the opportunity. I certainly don't have the ability to just get 250k/year jobs at will. It's like 1 in 100 chance per application. I was getting rejected from shit tier 60k/year jobs before getting that one.
 
 Ok, now let me deal with the screencasts next. I have 2 that need posting, and unlike before the clips for them are interspersed with the clips for other screencasts so I'll have to comb them carefully.
+
+***
+
+Lemon Squeezy rejected our TapeSim application and when asked for an explanation why, they replied asking for a product description and pricing information, all of which could be gathered with a 5 second glance at the TapeSim's website. As consequence, we decided we're not going to be doing business with those jokers, and decided to move to Polar. Our impression of it is quite positive.
+
+Music:
+
+Symphony Of Blades - Obsidian Grace: https://youtu.be/KtmJKedgbac
+
+***
+
+Oh yeah, I also have to mail Databento...
+
+Just fired them a short message on their live chat app. That should be enough.
+
+3:50pm. I'll leave the sim trading session for tomorrow. I could have started it at 3pm, but I am intentionally avoiding it since I didn't sleep too well, and I am tired today.
+
+I'll take this opportunity to chill and take a bath. I've been busy doing other work all morning. At least I've gotten everything out of the way now.
+
+I've gotten some good feedback from the Databento rep. He seems to be really curious about the app, so maybe they will end up supporting it. I didn't expect anything, but if you let your work be known, good things can happen.

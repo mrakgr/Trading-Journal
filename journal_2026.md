@@ -12570,3 +12570,7 @@ With that out of the way let me stop here. Tomorrow I have clear runway. It's Su
 3 Scalp Trading Mistakes to Avoid at All Costs
 
 A great old video. Jeff is great at his craft.
+
+![](images/image-2540.png)
+
+The best way to find these key levels is to look at the histogram, and the order book.

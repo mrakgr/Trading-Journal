@@ -12553,3 +12553,15 @@ I'll take this opportunity to chill and take a bath. I've been busy doing other 
 I've gotten some good feedback from the Databento rep. He seems to be really curious about the app, so maybe they will end up supporting it. I didn't expect anything, but if you let your work be known, good things can happen.
 
 5:35pm. Done with the bath and exercises. I had time to think what else I could do for the day in order to clear the road for tomorrow and the answer is - buy the Fastmail subscription. Currently I am still on trial.
+
+![](images/image-2538.png)
+
+Oh, holy crap.
+
+![](images/image-2539.png)
+
+Nwm, it's barely a dip. Hardly a crash.
+
+6pm. At any rate, I got a 2 year Fastmail subscription for 100 euros. I really hope that TapeSim will make up at least the expenses of setting up the domain and email.
+
+With that out of the way let me stop here. Tomorrow I have clear runway. It's Sunday so I doubt I'll be getting anything big in my inbox. I just have to do the sim gaming sessions in TapeSim, and post them online as I go through the stocks. Tomorrow I'll cover QBTS.

@@ -12497,3 +12497,31 @@ Let's see if this gets any bites.
 9:50pm. Maybe I should just think about buying ads. Reddit posting doesn't seem like a viable marketing tactic. Instead of getting pissed at Reddit, I should think about my moves more carefully. I guess you really can't get something for nothing.
 
 Let me just give it a few months. I'll make videos of me using TapeSim and sim trading and then I'll think about how it goes.
+
+6/6/2026
+
+8:40am. Reddit is terrible for promotion, but I am not sure I want to go all out with ads and SEO.
+
+I'll leave it aside.
+
+I'll give the key to Jeff, and also send an email to Databento so they know somebody made a replay sim based off their service and I am done. After that I am just going to put in the hours.
+
+Honestly, I wish I could get a reply from Lance at least for this, but it doesn't matter. I was the one who decided to become a fanboy unprompted and this is my punishment it seems.
+
+The reason it bothers me so much is because I fear committing so much. I fear the market. 
+
+9:05am. Let me start.
+
+I am going to in fact apply to a job. Maybe because I posted TapeSim on the F# sub, I got a recruiter email and there is a quant dev role. It's on HyperLiquid. If it's a >300k/year job, I'd honestly consider it. I'll spend some time touching up my resume. There is no compensation disclosure so this might be a complete waste of time and most likely I won't get a bite, but today I didn't sleep very well so I don't feel like sim trading.
+
+![](images/image-2534.png)
+![](images/image-2535.png)
+
+I should just be honest to myself. Since I have money stowed away I am not desperate for any of this like I was during the Tao Ceti period, so it wouldn't be a bad idea to apply.
+
+10:30am. I really put some effort into the Jeff's email. Let me touch up my resume.
+
+![](images/image-2536.png)
+![](images/image-2537.png)
+
+Yeah, not bad. Let me try applying here. It's like playing a lottery. I'll make my minimum requirement for these kinds of shady cryto jobs at least 300k.

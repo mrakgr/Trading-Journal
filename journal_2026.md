@@ -12574,3 +12574,16 @@ A great old video. Jeff is great at his craft.
 ![](images/image-2540.png)
 
 The best way to find these key levels is to look at the histogram, and the order book.
+
+9:05pm. https://youtu.be/CzMrZl999PU
+Super Simple Scalping Technique (Easiest You Can Make)
+
+6/7/2026
+
+6pm. Today's sessions went well. I covered QUBT and MNDY. MNDY had a really good hold pattern that came out of the blue.
+
+9:50pm. My replay of the QUBT session was amazing. It really does seem that I am starting to grasp the market at a far higher level. So far the replay simulator is a completely success as far as improving my own trading skills goes.
+
+This is it. This is my answer to the 2007 - 2014 me.
+
+I can finally point to something and say - this is what you were missing. This is what you had to do in order to win.

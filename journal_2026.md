@@ -12587,3 +12587,13 @@ Super Simple Scalping Technique (Easiest You Can Make)
 This is it. This is my answer to the 2007 - 2014 me.
 
 I can finally point to something and say - this is what you were missing. This is what you had to do in order to win.
+
+6/8/2026
+
+3:10pm. It's only sim trading, but I got absolutely destroyed in today's morning session. My plan was to do 2 stocks per day, but this session went so poorly that I am out of energy.
+
+Right now, I am thinking of doing a write-up of the session. I could post those on the daytrading Reddit to maybe gather some interest towards Tapesim. It would kill two birds with one stone.
+
+I shouldn't just get my ass kicked and move. I should repeat FLNC and try to figure out how I could have minimized the losses.
+
+Yeah, it won't be a smooth journey towards skill attainment.

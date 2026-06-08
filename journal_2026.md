@@ -12597,3 +12597,7 @@ Right now, I am thinking of doing a write-up of the session. I could post those 
 I shouldn't just get my ass kicked and move. I should repeat FLNC and try to figure out how I could have minimized the losses.
 
 Yeah, it won't be a smooth journey towards skill attainment.
+
+3:55pm. Replaying FLNC with a higher tick size is making me feel a lot better. I notice that I missed a lot of things that I can see now because I've increase the tick size to 5c.
+
+I've repeatedly noted that when I do those screencasts, I barely notice what the market is doing because I am yapping so much.

@@ -12661,3 +12661,9 @@ Let me apply here.
 I'd consider it if this was a full time job, but nevermind that for now. With Tao Ceti I didn't have to waste my time on quizes. In order to actually get paid on these jobs I'd have to open a firm and that would be a lot of work. If I was at 0 that would be one thing, but this is another.
 
 It's not worth it for mere contract work.
+
+9:30pm. https://www.linkedin.com/in/marko-grdinic-6063b321a/
+
+Decided to update my LinkedIn profile.
+
+Let me go back to chilling. It's almost time for bed in fact.

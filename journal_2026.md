@@ -12601,3 +12601,14 @@ Yeah, it won't be a smooth journey towards skill attainment.
 3:55pm. Replaying FLNC with a higher tick size is making me feel a lot better. I notice that I missed a lot of things that I can see now because I've increase the tick size to 5c.
 
 I've repeatedly noted that when I do those screencasts, I barely notice what the market is doing because I am yapping so much.
+
+6:20pm. I've been replaying FLNC. Tomorrow I'll move on to the next stock. Forget the write-up. It's just a very hard stock to trade. You have to trade it with targets.
+
+During the day I've completely missed the hold near the end of the session. I've also missed how weaker the last rally was near the end of the opening drive.
+
+6/9/2026
+
+7:50am. https://youtu.be/RMxnG64WuLc
+We Just Had A Stock Go Up 5,000% Today!
+
+I must not let this psyche me. I need to stick to the plan. Skill is what creates opportunity.

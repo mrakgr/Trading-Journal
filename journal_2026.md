@@ -12655,3 +12655,7 @@ Speaking of jobs: https://www.reddit.com/r/CUDA/comments/1u0j433/hiring_remote_c
 Let me apply here.
 
 7:10pm. It involves a quiz and an AI interview. Nevermind. I am not going to waste my time on this right now. Though I am a bit curious how the AI interview would go.
+
+7:15pm. Maybe deep down I don't feel like working for pay after all.
+
+I'd consider it if this was a full time job, but nevermind that for now. 

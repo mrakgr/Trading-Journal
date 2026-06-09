@@ -12658,4 +12658,4 @@ Let me apply here.
 
 7:15pm. Maybe deep down I don't feel like working for pay after all.
 
-I'd consider it if this was a full time job, but nevermind that for now. 
+I'd consider it if this was a full time job, but nevermind that for now. With Tao Ceti I didn't have to waste my time on quizes. In order to actually get paid on these jobs I'd have to pen a firm and that would be a lot of work. If I was at 0 that would be one thing, but this is another.

@@ -12612,3 +12612,46 @@ During the day I've completely missed the hold near the end of the session. I've
 We Just Had A Stock Go Up 5,000% Today!
 
 I must not let this psyche me. I need to stick to the plan. Skill is what creates opportunity.
+
+3:35pm. You know what. Daytrading is a poor substitute for a job. For all I know it might take me years to get good at this.
+
+No, rather that is just an excuse. I want to build things rather than gamble in the market.
+
+I want the combination of building and high consistency. Quant trading cannot give me consistency, and discretionary scalping is difficult.
+
+Today I lost on a trade and it felt like I was being slammed even if it's only sim trading. I want to find another high paying job like at Tao Ceti.
+
+Like screw it. Now that I am actually trading I see how much this could scale and it isn't that much.
+
+It's justifiable to keep learning how to trade while I am looking for a job, but I should be looking for another shot in the >200k range.
+
+I probably won't be able to find it and will just play the sim trading game, but that is fine.
+
+I should work on the longer term momentum systems in the afternoon session and look for paid work while I develop my daytrading skills. For all I know, I just have to put in the morning session every day and I'll get good at it in a few years. It's plausible that I might not be able to find a job at all given how hard it is.
+
+3:40pm. First, I'll put some effort into the momentum systems on stocks. I don't want to get an income only to have to invest it in index funds like at Tao Ceti. This is a good time to resolve this.
+
+I have the data, so I'll be able to test various ways of trading on the daily timeframes.
+
+6:45pm. That failed trade in the early session blew me out so hard I still haven't recovered. I guess it's fine to take it easy.
+
+1 stock a day is fine. I'll do a rerun tomorrow. Today my ego took a hit. I won't be adding to stocks on the way down anymore that's for sure. I've had time to reflect on this.
+
+But now that I've seen the opening drive + selloff pattern a few times I'll start capitalizing on it. 5 stocks covered does not a playbook make.
+
+6:55pm. I am glad Omphile at least subscribed to TapeSim (I gave him a lifetime 100% discount). That would be one person to actually look at the app. I wonder if I'll ever get anybody else. We'll see.
+
+He liked my FlowSwing research too.
+
+Yeah, let me chill. A TapeSim session in the morning, something else in the afternoon. In truth, I really don't feel like doing market research right now. The figures on the longer term system don't matter that much. It's a matter of reading news and betting accordingly.
+
+What I am really hankering for is to try tying up the loose ends with poker. I want to go back and do the poker bot the regular way as a hobby. I'll see where that goes.
+
+I put so much effort into Spiral and poker, and even excluding AI, it wouldn't be bad to keep my skills fresh and bring the project to its conclussion even if it means using only tabular RL.
+
+Speaking of jobs: https://www.reddit.com/r/CUDA/comments/1u0j433/hiring_remote_cuda_gpu_kernel_optimization/
+![](images/image-2541.png)
+
+Let me apply here.
+
+7:10pm. It involves a quiz and an AI interview. Nevermind. I am not going to waste my time on this right now. Though I am a bit curious how the AI interview would go.

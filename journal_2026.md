@@ -12893,3 +12893,23 @@ Dear god. He stupidly went short the SPY and lost that much. Literally all of hi
 I'd like to try trading this strategy. Or at the very least, I should be looking into it.
 
 Plus, if I focused TapeSim specifically on these kinds of stocks instead of arbitrary premarket gainers, my conviction would improve greatly.
+
+> If hundreds of thousands of people read this interview, do you think it might impact the strategy’s efficacy?
+
+> When I had a trading partner, he was paranoid about my discussing my trading strategies with anyone. I have the opposite attitude. If I were to share my exact strategy with 100 people, 95 would either not understand it or have no interest in it. Four of the remaining five who attempt to use the strategy will not have the appropriate temperament. As for the one person who does, good for them. They deserve it.
+
+> Do you still trade small caps?
+
+> I have stopped trading all small-caps for the last two years because it’s not worth my time. If I have a successful small-cap trade, maybe I can make $500,000. It may be like free money, but I’d rather focus on mid- or large-cap trades where the potential is much greater. This shift away from small caps largely relates to my account size having grown to a level where, if I’m going to take a trade, I want it to move the needle.
+
+What a chad. I want to trade this, not long term momentum.
+
+I knew these types of trades had a strong edge. I always knew it. But maybe deciding not to dive into them was my limiting belief.
+
+I am struggling currently because no edge is good enough, but this interview is really inspirational for me.
+
+He mentioned that capitulation longs are few and far between compared to shorts earlier, I just want to note that. Yes, I can barely find any capitulation longs, but shorts are everywhere.
+
+I really understand this strategy at a deep level. I already have. It's much easier to find shit companies to short, that future superwinners. It's also very obvious when a stock is a good short setup.
+
+It's impossible for me to read this interview and not feel significant regret.

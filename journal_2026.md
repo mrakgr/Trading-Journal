@@ -12881,3 +12881,7 @@ The thing about these setups is that they are very easy to recognize unlike pret
 7:45pm. Hmmmm...What if I looked at HyperLiquid perps in a more nuanced manner? Either way I could short the pumps on those.
 
 But at this point I have a list of brokers I could choose from that specialize in shorting stocks.
+
+> I lost about $50 million on the trade.
+
+Dear god. He stupidly went short the SPY and lost that much. Literally all of his profit for the year.

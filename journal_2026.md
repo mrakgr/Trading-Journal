@@ -12885,3 +12885,11 @@ But at this point I have a list of brokers I could choose from that specialize i
 > I lost about $50 million on the trade.
 
 Dear god. He stupidly went short the SPY and lost that much. Literally all of his profit for the year.
+
+> Does the small-cap shorting strategy still work?
+
+> Absolutely. I have a trader whom I mentored and now trades my money. He trades this strategy, and he is crushing it. I’m glad you asked this question, and I am excited to respond because I think people are often obsessed with this edge erosion concept. Maybe the strategy is not exactly the same, but it rhymes. What I love about the trading strategies I’ve developed is that they’re high-level concepts, so they don’t change significantly. There may be small tweaks in how they work, but if you understand the core principles, it doesn’t matter. When I started, my trading partner and I were probably among the first traders to understand how potential dilution in small caps sets up selling pressure. Now, some tools make this information public. But people still don’t understand the mechanics.
+
+I'd like to try trading this strategy. Or at the very least, I should be looking into it.
+
+Plus, if I focused TapeSim specifically on these kinds of stocks instead of arbitrary premarket gainers, my conviction would improve greatly.

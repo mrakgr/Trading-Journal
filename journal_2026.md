@@ -12843,3 +12843,5 @@ Sounds good. I'm around whenever you want to pick any of it back up — or talk 
 I'll leave this as project 3. I want to do research on momentum systems and do the poker game. That will put the spirit of my 2015-2024 self to rest. Spiral was made for a purpose. And that purpose should be fulfilled.
 
 First comes long term momentum. Then comes poker. Then come the quant dev job applications and the market making system. I should give it my all.
+
+6:05pm. Let me take a break for a day or two here. I've been doing my best with TapeSim, so it wouldn't be bad to reflect a bit on the work that will have to be done.

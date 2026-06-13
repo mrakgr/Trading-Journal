@@ -12861,3 +12861,7 @@ Not being able to short beat me completely 1.5 decades ago. Maybe I should consi
 > I was lucky with the timing. In January 2013, you could buy a stock that had a strong close, and almost invariably, it would gap higher on the next open. You could just buy the close, sell the next open, and be rewarded. I think I made $20,000 or $30,000 that month.
 
 This guy is simply better than me. More observant. I wasn't even looking at those, and I was trading during that period.
+
+> I never pulled the trigger; the broker covered the positions when I was on a margin call.
+
+He has a pair of brass ones.

@@ -12913,3 +12913,15 @@ He mentioned that capitulation longs are few and far between compared to shorts 
 I really understand this strategy at a deep level. I already have. It's much easier to find shit companies to short, that future superwinners. It's also very obvious when a stock is a good short setup.
 
 It's impossible for me to read this interview and not feel significant regret.
+
+9:25pm. Interesting that he pyramids into short trades. I remember Livermore doing that as well to catch the 1929 crash.
+
+9:35pm. I'll read the rest of the interviews tomorrow.
+
+Let's stop for the day here. Having all of these traders short pump and dumps just makes my old failure even heavier. I learned the strategy from Tim Sykes 1.5 decades and couldn't use it.
+
+What makes it good is that it's a pure short volatility strategy. It makes it very polarized, which makes for very little dead money period when the stock is doing nothing. It wasn't like my crappy old strategy of trying to find good follow through longs from consolidations only for the stock to continue consolidating. These stocks either go up or down, not sideways. I'll either be wrong or right trading them, never wondering.
+
+I am going to combine the strategy with TapeSim replay studies. That will allow me to build my foundation.
+
+I have the choice of whether I want to trade the strategy or not. I just have to recognize it.

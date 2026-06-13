@@ -12846,6 +12846,14 @@ First comes long term momentum. Then comes poker. Then come the quant dev job ap
 
 6:05pm. Let me take a break for a day or two here. I've been doing my best with TapeSim, so it wouldn't be bad to reflect a bit on the work that will have to be done.
 
-7:25pm. > Once Russo started winning with consistency, he was unstoppable. The account that Russo transformed into a fortune was funded by a $50,000 loan. As soon as he doubled this account only one month later, Russo repaid the loan plus a $10,000 bonus. Over the next nine years, Russo turned the remaining $40,000 into over $500 million! This amazing run was relatively smooth (and for extended periods extraordinarily smooth), except for one four-month period in which Russo experienced two mammoth losing trades, which are discussed in the interview.
+7:25pm. 
+
+> Once Russo started winning with consistency, he was unstoppable. The account that Russo transformed into a fortune was funded by a $50,000 loan. As soon as he doubled this account only one month later, Russo repaid the loan plus a $10,000 bonus. Over the next nine years, Russo turned the remaining $40,000 into over $500 million! This amazing run was relatively smooth (and for extended periods extraordinarily smooth), except for one four-month period in which Russo experienced two mammoth losing trades, which are discussed in the interview.
 
 What the hell? How did he manage that?
+
+> Immediately, I ran into reality. There is a big difference between paper trading and actual trading, especially with short selling. My dad’s account was at Fidelity, and Fidelity didn’t have good stock loan availability to short these stocks. Suddenly, I discovered that I couldn’t even trade more than half of my intended shorts. It was ridiculous. I would short the stocks that had loan availability, but these stocks wouldn’t revert as much, or they were legitimate names that were up for a reason.
+
+By shorting penny stocks. Figures.
+
+Not being able to short beat me completely 1.5 decades ago. Maybe I should consider it now?

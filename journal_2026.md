@@ -12871,3 +12871,9 @@ He has a pair of brass ones.
 Ok, you know what. Fuck it. I am going to do some research on whether shorting pump and dumps still works. I'd be foolish not to.
 
 Come to think of it, crypto mean reversion is yet another story of me finding a great edge and not being able to take advantage of it. Omphile said it should be a crime that I am not able to trade perp futures.
+
+> Yes, but the amount was well below the $25,000 pattern day trader threshold, so I couldn’t trade.
+
+It's super tilting to read this story. I wanted to try trading this exact strategy and yet couldn't.
+
+The thing about these setups is that they are very easy to recognize unlike pretty every other one in the market.

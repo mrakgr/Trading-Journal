@@ -12865,3 +12865,9 @@ This guy is simply better than me. More observant. I wasn't even looking at thos
 > I never pulled the trigger; the broker covered the positions when I was on a margin call.
 
 He has a pair of brass ones.
+
+...
+
+Ok, you know what. Fuck it. I am going to do some research on whether shorting pump and dumps still works. I'd be foolish not to.
+
+Come to think of it, crypto mean reversion is yet another story of me finding a great edge and not being able to take advantage of it. Omphile said it should be a crime that I am not able to trade perp futures.

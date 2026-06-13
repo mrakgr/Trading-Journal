@@ -12687,3 +12687,31 @@ Damn it, I want to build. I don't want to spend my time watching numbers go up a
 1:25pm. Sigh, I wish trading was more predictable. I like predictability. I hate gambling.
 
 The new market wizards book is out so let me take some time to read it. I feel depressed now.
+
+3:30pm. Let me take this chance to post the latest videos. The one from today is embarassing honestly.
+
+***
+
+We replayed the later part of CBRS just to get a sense for it and then move on.
+
+The play for today was to replay the SpaceX IPO, but when we got a quote for the MBO data for it, we realize it costed a whopping 120$! That derailed our plans significantly, we simply cannot justify paying that much for a single day's worth of data. Just what the hell happened that day? We'll never know.
+
+So, we tried AKAN and POET, but the author's heart simply wasn't in it today.
+
+He's become discouraged at how hard the market is to predict and want to go back to building rather than wasting his time predicting what is essentially a random process. Can you really blame him?
+
+At any rate, TapeSim is a pretty nice app, we hope that some of you give it a try, so far there has been zero interest in it.
+
+It's too bad. There are definitely very interesting patterns that you can see in the replay simulator that you couldn't see on a chart, mostly of which are related to volume. If you have any questions, feel free to email us or leave a comment here.
+
+We'll might pick up this series at a later date, right now we have two forks in the road for us:
+
+* We want to go back to Building The Trading Edge series and do research on momentum and mean reversion systems. Especially momentum, we need an edge so that we can put the stash we have accumulated from our previous job to use. It would be extremely dangerous to try index investing in this current AI bubble environment, so we need some kind of system to shield us from potential crashes.
+
+* We want to go back to the Staged Functional Programming In Spiral series and finish that poker agent. The author really enjoyed working on TapeSim, and it might be a way to get off the ground by turning that poker bot into a game. We'll learn from our past mistakes and implement the tabular CFR agent instead of messing with neural nets. We'll implement nested optimization with handcrafted features run it on the GPU to make it a very strong agent and sell it on an online game store like Steam. Who knows how that will go, but doing that would be a good prerequisite to having it run with real money on real poker sites.
+
+We wish you the best of luck in your trading journey.
+
+***
+
+This is what I wrote.

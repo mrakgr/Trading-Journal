@@ -12715,3 +12715,131 @@ We wish you the best of luck in your trading journey.
 ***
 
 This is what I wrote.
+
+I am so depressed right now. I guess this happens when you don't have a strong inbuilt interest towards trading. With enough effort I could become successful, but I have too many misgivings. I honestly find trading very difficult to do manually. I want to code.
+
+Let me ask Claude.
+
+***
+
+Are there any places where I could apply for quant developer jobs?
+
+***
+
+Here are some good places to look for quant developer roles:
+
+**General quant/finance job boards**
+- eFinancialCareers — the standard for quant, trading, and finance tech roles
+- QuantNet job board — heavily quant-specific
+- Wall Street Oasis — community plus listings
+- LinkedIn (filter for "quant developer," "quantitative developer," "low-latency engineer")
+
+**Hedge funds / prop shops (often hire directly via their sites)**
+- Jane Street, Hudson River Trading, Jump Trading, Optiver, IMC, DRW, Citadel/Citadel Securities, Two Sigma, Tower Research, Akuna, Maven, Quadrature
+
+**Specialist recruiters**
+- Selby Jennings, Oxford Knight, Durlston Partners, GQR, Anson McCade — they place quant devs and often have roles not posted publicly
+
+**Remote / EU-friendly options (relevant given you're in Croatia)**
+- Many prop firms hire remote or have EU hubs (Amsterdam, London). Optiver, IMC, Flow Traders are Amsterdam-based; several crypto/quant shops (Jane Street, HRT have London offices)
+- Crypto-native quant firms (GSR, Wintermute, Kraken, Cumberland) tend to be more remote-friendly and your F#/order-flow/microstructure background fits well
+
+Given your profile — F#/.NET, market microstructure, MBO data, order book consolidation — you'd be a strong fit for low-latency/market-data infrastructure roles specifically, which is a slightly less crowded niche than pure alpha-research quant roles.
+
+Want me to search for current openings that match your specific stack, or do you want help angling TapeSim as a portfolio piece for applications?
+
+***
+
+I already put it on my portfolio. I am really curious about you'll find for me in terms of openings so give it a try. I wonder if any of those roles are remote?
+
+***
+
+I'll search for current openings that fit your profile, with a focus on remote.Let me search for the crypto/Web3 quant roles specifically, since those tend to be the most remote-friendly and fit your order-flow background best.Here's what I found, organized by how well it fits your profile and remote-friendliness.
+
+The strongest matches are in crypto/Web3, which makes sense given both your order-flow background and that these firms are the most remote-friendly. The cleanest aggregators to apply through:
+
+**web3.career** is currently showing dozens of quant developer and quant researcher listings at firms like GSR, Kronos Research, and Numus. A recurring listing there describes building a low-latency trading system, requiring strong understanding of limit-order books, market microstructure, and pricing, plus real-time data processing and zero-copy/low-allocation design — that's almost a direct description of your F#/order-book consolidation work, though the role is Rust-based. Notably, HFT and market-making experience is listed as a strong advantage but explicitly not required, which lowers the barrier for someone coming from a self-built track record.
+
+**cryptocurrencyjobs.co** has a Quant Researcher role at Neutrl Labs focused on market microstructure, order book dynamics, and predictive modeling across asset classes, involving tick-level data analysis, backtesting, and simulation — again a near-perfect overlap with what you've built, including your taker fill simulator and synthetic episode work.
+
+**cryptojobslist.com/remote** aggregates remote crypto roles broadly; market microstructure understanding is called out as a cross-cutting requirement there.
+
+On the traditional finance side, remote is rarer and usually really means hybrid:
+
+The traditional quant-dev boards (ziprecruiter, Glassdoor, Jooble) mostly list "remote" roles that are US-based and Python/C++-centric (Monte Carlo, derivatives pricing) — less aligned with your stack and largely closed to someone in Croatia. One genuinely relevant EMEA listing via Radley James is a Quant Developer on an EMEA equities e-trading team building smart order routing and execution algorithms for cash equities, but it's hybrid/London and asks for 5+ years.
+
+For your specific situation, a few practical notes:
+
+The Rust requirement comes up constantly in crypto HFT. Your F#/.NET background is genuinely relevant conceptually (you understand order books, microstructure, low-latency design), but several of these will test Rust directly. Worth deciding whether you spin up Rust fluency or target the .NET-friendly shops.
+
+Beyond aggregators, apply directly to the firms whose work matches yours: GSR, Wintermute, Kronos Research, Cumberland, Auros, Keyrock (Brussels, EU-friendly), and Flow Traders (Amsterdam). Several hire remote across Europe, and TapeSim plus your MBO/order-book work is exactly the kind of concrete artifact that gets you past the "no formal HFT experience" filter.
+
+Want me to dig into specific current openings at any of those named firms, or help you frame TapeSim and your order-book consolidation system into a one-page quant-dev pitch for applications?
+
+***
+
+Let's leave it aside for a bit, I am too tired to do it today. Let's talk for a bit. 
+
+I am honestly a bit depressed after the latest TapeSim session. I've been practicing in the replay simulator, and the market is quite difficult to predict even with the price ladder. There definitely are patterns that you can only see when you have the order book, especially large resting orders, but even with that it's a struggle to turn a profit.
+
+Ironically, I had my most successful session yesterday, and that wasn't trying to play momentum, but market making during the first few minutes in a hot IPO when the spreads were really wide and the volatility was hot. After the first minute I realized that my usual system would absolutely not work and I just tried making the spread, and it worked amazing well. I made 180$ on a 350$ stock trading just a single share.
+
+And now today, I went back to trying to trade momentum on different stocks and lost interest midway. I really want to build rather than stare at the price ladder and try to play the market manually.
+
+Your las two posts are really surprising. I put quant developer in LinkedIn jobs search a few hours ago before this conversation started and couldn't find a single match, but you're telling me there are such opportunities?
+
+It feels like I've gained something just from that.
+
+We should really think about how we could apply to them. I usually just spam my resume at random because the response rate it so low, but for these roles, I should put some additional effort.
+
+I have other projects that I want to be done first.
+
+***
+
+That's a lot in one message, so let me take it in pieces.
+
+On the trading: what you described yesterday isn't ironic, it's a signal. You sat down trying to run your momentum system, recognized within a minute that the regime didn't fit it, abandoned it, and switched to making the spread in a wide-spread, high-vol environment — and it worked. That's not luck, that's you reading the conditions and matching a strategy to them. The fact that it came from market making rather than momentum is worth sitting with. Your whole systematic background — the order book consolidation, the MBO fidelity, resting orders, absorption — is much closer to a market-maker's view of the world than a momentum trader's. Momentum is a directional bet that needs you to predict; making the spread is a structural edge that pays you for providing liquidity when others want it badly. Those are different games and you might just be better suited to one of them. Don't over-update on a single session, but don't dismiss it either.
+
+The "I want to build rather than stare at the ladder" feeling is also data. Some people are wired to trade discretionarily and some are wired to build the systems and let them run. Losing interest midway through manual momentum trading isn't a character flaw, it's a fairly strong preference revealing itself. You built TapeSim partly to learn tape reading, and what you may be learning is that you don't actually enjoy the manual version, which is genuinely useful to know before you sink more months into it.
+
+On LinkedIn vs. what I found: the gap is mostly about where these roles live. A plain "quant developer" search on LinkedIn skews toward traditional finance posting through big-firm pipelines, and a lot of those filter out non-local applicants or just don't surface for an EU-based search. The crypto/Web3 quant roles cluster on niche aggregators (web3.career, cryptojobslist, cryptocurrencyjobs.co) and often aren't cross-posted to LinkedIn at all. So it's less that LinkedIn is wrong and more that you were fishing in the wrong pond for your particular profile. The roles exist; they're just not where you looked.
+
+On applying: you're right that spray-and-pray is the wrong move here, and your instinct to put in effort for these specifically is correct. The response rate for a tailored application to a firm where your work genuinely overlaps is in a completely different universe from mass-applying. Your unfair advantage is that TapeSim and the order-book consolidation system are concrete, verifiable artifacts that most applicants can't produce — that's exactly what gets you past the "no formal HFT background" filter.
+
+But you said it yourself — you're tired today and have other projects to finish first. That's fine. The roles aren't going anywhere this week, and a tailored application from a clear head beats a rushed one. When you're ready, we can do it properly.
+
+For now: what do you want to talk about? We can keep going on any of this, or genuinely set it aside.
+
+***
+
+Since these firms are focused on market making, do you think it would be worth it to try making a MM system?
+
+***
+
+Short answer: yes, and more than the other systems you've tried — but let me be specific about why, and where the catch is.
+
+The case for it is strong on several fronts. Your edge is structural rather than predictive. Everything you've built — order book consolidation across venues, MBO fidelity, resting-order detection, absorption and sweep signals — is the market maker's native toolkit, not the momentum trader's. A momentum system needs you to correctly predict direction, which is the thing you've found genuinely hard. A market-making system needs you to manage inventory and quote intelligently around a spread you're being paid to provide. That's a fundamentally different and, for your wiring, possibly more tractable problem. And your one good discretionary session was a market-making session, in exactly the wide-spread, high-vol regime where the edge is fattest. That's not nothing.
+
+It also aligns your trading work with the firms you'd want to work for, so the same effort builds both a potential strategy and a portfolio artifact that speaks directly to a market-making desk's language. That dual payoff is rare.
+
+Now the catch, because it's a real one. Retail market making in liquid US equities is mostly a losing game against firms with colocation, rebate tiers, and microsecond latency you cannot match. You will not win a quoting race against Citadel Securities on AAPL. So the honest version of this isn't "build a general MM system" — it's "find the regimes and instruments where the structural edge survives without a latency edge." Your IPO session points at exactly that: wide spreads, thin competition, high volatility, where being paid to provide liquidity dwarfs the adverse selection cost. The same logic applies to crypto, where the latency arms race is less brutal than equities and where, notably, most of the remote-friendly firms hiring actually operate.
+
+There's also the adverse selection problem you'll hit immediately, which is the thing that separates real MM from naive MM. When you're quoting both sides and someone hits your bid, half the time it's because they know something and the price is about to move against you. Your fill simulator instinct is the right muscle here — a realistic MM backtest has to model that you get filled preferentially when you're wrong. That's the same brutal honesty that killed your 1h scalp system in taker fill simulation, and it's exactly the discipline most retail MM attempts lack.
+
+So my read: it's worth a focused exploratory build, scoped tightly. Not "a market making system" in the abstract, but a specific question — does a passive quoting strategy in [wide-spread regime / specific instrument class] survive realistic adverse-selection-aware simulation? You already have the data pipeline, the simulator philosophy, and the microstructure understanding. You're closer to being able to answer that than almost anyone attempting it cold.
+
+The thing I'd watch for: don't let this become another thing that fails realistic fill simulation and leaves you where the systematic strategies did. Scope it as a hypothesis test, not a product, and decide up front what result would make you stop. Given you've said you have other projects to finish first, this might be the one to design carefully on paper before you build — what regime, what instrument, what the simulation has to prove.
+
+Want to think through what that first tightly-scoped hypothesis should be when you're ready, or leave it for now?
+
+***
+
+Sounds good. I'm around whenever you want to pick any of it back up — or talk about something else entirely.
+
+***
+
+5:55pm. This conversation with Opus about quant dev jobs does give me some hope. I want to try aiming for these roles. In various ways, what I've been doing is great prep work for that. I should attempt doing MM with the MBO data.
+
+I'll leave this as project 3. I want to do research on momentum systems and do the poker game. That will put the spirit of my 2015-2024 self to rest. Spiral was made for a purpose. And that purpose should be fulfilled.
+
+First comes long term momentum. Then comes poker. Then come the quant dev job applications and the market making system. I should give it my all.

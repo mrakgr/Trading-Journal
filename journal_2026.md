@@ -12675,3 +12675,15 @@ Let me go back to chilling. It's almost time for bed in fact.
 Let me update TapeSim so the quote fetching is speed faster and I also need to post today's videos. I am tired to game more, so I'll take off for the day.
 
 I was super focused today.
+
+6/13/2026
+
+11:45am. I am done. I don't feel like daytrading anymore. I am going to move on to long term momentum trading and start doing research on that.
+
+I want to also employ Opus as my research assistant. That should be interesting.
+
+Damn it, I want to build. I don't want to spend my time watching numbers go up and down. I need some expertise in trading so I can compound my wealth, but otherwies I should just get a job.
+
+1:25pm. Sigh, I wish trading was more predictable. I like predictability. I hate gambling.
+
+The new market wizards book is out so let me take some time to read it. I feel depressed now.

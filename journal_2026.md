@@ -13049,3 +13049,7 @@ But crypto markets are so much smaller than the stock markets.
 > Over time, I learned that selling calls can get you in trouble much faster than selling puts. I’ve heard of a lot of traders blowing up selling calls. I rarely hear of a trader blowing up selling puts.
 
 Hmmmm, interesting. I guess it makes sense given the asymetric risk profile of calls.
+
+> Many people believe that you can’t make money going short in a bull market. The reality is exactly the opposite. In a bear market, you won’t get these extreme overbought shorting opportunities in small-cap stocks.
+
+Yes, he is saying the same thing either Lance or Quallamaggie did.

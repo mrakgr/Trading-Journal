@@ -13021,3 +13021,15 @@ I am looking forward to hearing about the latter. It seems everyone started out 
 8:50am. I need to change my approach to momentum. The interview with Lukas gave me some insight. I should make a general purpose momentum system and evaluate how it worked during various periods. If it really works well now, like it did 6 years ago, then there should be some indication in the performance metrics. Then I will be able to drill down into the news.
 
 As for short selling, that is always a choice, but I have other choices like the poker bot that is uniquely my own edge.
+
+> What was your methodology for buying stocks?
+
+> I would buy stocks trending up, thinking they would continue going up.
+
+That is exactly what I did back in 2007 - 2014.
+
+> Did that work?
+
+> No. I would make 50 to 75 bucks on a trade and then lose a similar amount on the next couple of trades. Over those next 12 months, my $3,000 account dwindled to almost nothing.
+
+I myself only broke even. On a 3k account no less.

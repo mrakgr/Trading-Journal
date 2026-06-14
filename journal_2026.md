@@ -13069,3 +13069,7 @@ I am going to go forward with my plan. I'll do a momentum system on the daily ch
 I did poker in pursuit of AI, but I have missed my goals so badly, that I want to make at least a game to give myself some closure. As for short selling scams, that will be around forever, so who cares.
 
 I think out of all the traders covered so far Lukas is the most talented one. Lance is up there as well, but his past daytrading focus is a disadvantage longer term.
+
+> Great traders invariably find methods that suit their personality. Goedeker had very little patience as a trader from the start, a disposition ill-suited to many trading approaches. He quickly adapted to shorting volatile stocks, a method that, if done properly, can provide almost instant gratification.
+
+Yes, but instant gratification is good. It allow you to build reps quickly. Momo methods come around once every 3 years.

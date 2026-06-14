@@ -13073,3 +13073,9 @@ I think out of all the traders covered so far Lukas is the most talented one. La
 > Great traders invariably find methods that suit their personality. Goedeker had very little patience as a trader from the start, a disposition ill-suited to many trading approaches. He quickly adapted to shorting volatile stocks, a method that, if done properly, can provide almost instant gratification.
 
 Yes, but instant gratification is good. It allow you to build reps quickly. Momo methods come around once every 3 years.
+
+10:30am. 
+
+> To your point about exogenous variables, years ago, I wanted to learn macro, so I asked a prominent strategist how I should go about it. He told me to read every FOMC statement back over the past decade or two, which I did. I can’t say it was an enjoyable exercise, but it was educational. The main lesson that stood out from reading all these FOMC statements was that external factors have a pesky tendency to materialize and throw everything into disarray. The truth is that unpredictable events that alter the course of markets are fairly common.
+
+Hmmm, interesting.

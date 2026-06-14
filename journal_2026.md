@@ -13001,3 +13001,7 @@ Trying to make the strategy work during periods when it was not condusive to it 
 > I transitioned to a value-oriented, long-term investment approach.
 
 Holy crap. He really did this? Yeah, I guess people in this book are truly talented.
+
+8:35am. Honestly, even if the market is possibly condusive to this type of strategy, the short setups are so much easier to detect. I could have Opus help me with fundamental analysis as well in the current age. I remember Quallamaggie saying that the best short setups happen during bull markets either way. It makes sense, given that that is when the liquidity manifests.
+
+Also, getting a quant dev job, might be an easier path for me than making this work either way. We'll see.

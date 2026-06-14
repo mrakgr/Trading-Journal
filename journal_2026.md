@@ -12967,3 +12967,13 @@ I wonder if I could use Opus to analyze these stocks better?
 Ok, this gives me an insight into how hard this strategy is.
 
 I have to ask myself whether I want to do this or go back to the poker bot.
+
+> What came after trading small-cap shorts?
+
+> Mid-cap breakouts on the long side. The mid-cap breakout trade is a specific strategy that works during strong bull markets and outperforms almost anything in the 7th–9th inning of a bull market, during the euphoria phase. 
+
+Yeah, I this is what I am going to be doing research on now.
+
+> The hard part of the strategy is that you have to believe the bubble will continue. I was young and naïve enough not to be scared, which was the mindset I needed to succeed with this strategy.
+
+Indeed! This is what is preventing me from getting back into the market currently, but most likely it will continue.

@@ -13079,3 +13079,7 @@ Yes, but instant gratification is good. It allow you to build reps quickly. Momo
 > To your point about exogenous variables, years ago, I wanted to learn macro, so I asked a prominent strategist how I should go about it. He told me to read every FOMC statement back over the past decade or two, which I did. I can’t say it was an enjoyable exercise, but it was educational. The main lesson that stood out from reading all these FOMC statements was that external factors have a pesky tendency to materialize and throw everything into disarray. The truth is that unpredictable events that alter the course of markets are fairly common.
 
 Hmmm, interesting.
+
+> I originally met Berry a couple of years ago when I was invited to give several talks at a conference organized by a local trading group, partially sponsored by Positive Equity and attended by his trading group. I was quite surprised to find a successful trading group in Zagreb, Croatia—not exactly a typical location for a prop firm.
+
+Jason Berry is based in Croatia. Funny how Axia is there as well.

@@ -12995,3 +12995,9 @@ This guy is god.
 I need to look into it. The market we're in might be exactly conductive to this type of strategy.
 
 Trying to make the strategy work during periods when it was not condusive to it is what bankrupted Livermore a few times.
+
+> What strategy or strategies did you transition to after you stopped trading the mid-cap breakout strategy?
+
+> I transitioned to a value-oriented, long-term investment approach.
+
+Holy crap. He really did this? Yeah, I guess people in this book are truly talented.

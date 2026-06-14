@@ -13033,3 +13033,5 @@ That is exactly what I did back in 2007 - 2014.
 > No. I would make 50 to 75 bucks on a trade and then lose a similar amount on the next couple of trades. Over those next 12 months, my $3,000 account dwindled to almost nothing.
 
 I myself only broke even. On a 3k account no less.
+
+9am. He says he doesn't use fundamentals, and how his strategy is shorting climax rallies. Sigghhh...

@@ -13083,3 +13083,37 @@ Hmmm, interesting.
 > I originally met Berry a couple of years ago when I was invited to give several talks at a conference organized by a local trading group, partially sponsored by Positive Equity and attended by his trading group. I was quite surprised to find a successful trading group in Zagreb, Croatia—not exactly a typical location for a prop firm.
 
 Jason Berry is based in Croatia. Funny how Axia is there as well.
+
+11:15am.
+
+> I’ve had big losers that took a heavy psychological toll. A few times, I’ve nearly passed out from the stress of losses. I often wonder whether trading will help me live longer because of my success, or if I am destined for a short life because of the years of trading stress. I’m healthy, but the long-term answer is unknown.
+
+Damn.
+
+11:25am. Ok, let's give it a week. I want to research momentum strategies, and then I will try applying to quant firms after I am done with that. If I get rejected I can go the short selling route whenever I want. I don't want to make market making systems just to impress them. I should do research that could be useful for me realistically regardless of the situation.
+
+Yeah, I should research momentum and short selling strategies, make some interesting documents as a demo to prospective firms. And if applying to them fails, I'll just make use of those strategies myself and also do poker botting. Let's take it easy.
+
+Who cares if I miss the momentum rally, I have a small account and can short sell for some income. I am good at risk management so this approach would be a good fit for me.
+
+I can also trade these opportunities on the long side when the short pattern becomes broken. I can also combine it with tape reading.
+
+With this approach I wouldn't even need to read the tape at all or at an extreme level.
+
+I could make a price ladder tool work even with a 250ms IBKR delay since I just need to see how the stock would behave at around major levels rather than adapt to very small changes.
+
+Hmmm, though, that makes no sense, since I wouldn't be trading short with IB. Nevermind that last point.
+
+One strategy I could trade is are overnight gaps as well. That was one win from the breakout era. I've discovered that high rvol stocks have gap patterns depending on how their candle closes.
+
+Quant dev jobs pay >500k year so it's better to fish for them than to rely on my own trading results.
+
+Besides, all of this work is something I should do anyway. Since I am afraid of exchanges, I should also throw in HyperLiquid as a part of my short selling research run.
+
+Yeah, let's do full research coverage. Either way I will have my edge at the end of it, and I will have my freedom.
+
+With short selling, I'll keep my risk low and aim to make 10k per year initially until I can get a handle on my emotions. Right now I have low risk appetite.
+
+Up to now, I've been feeling stuck, and this book gave me perspective. I know I could make it as a short seller, the capitulation trades do resonate with me to the degree that nothing else does.
+
+The reason for that is that I've observed how the general market behaves during panics. I know that there is a lot of edge in playing capitulations, but the S&P doesn't give enough reps to study those situations properly. If I could specialize, that could result in something significant.

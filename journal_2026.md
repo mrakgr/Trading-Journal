@@ -13053,3 +13053,9 @@ Hmmmm, interesting. I guess it makes sense given the asymetric risk profile of c
 > Many people believe that you can’t make money going short in a bull market. The reality is exactly the opposite. In a bear market, you won’t get these extreme overbought shorting opportunities in small-cap stocks.
 
 Yes, he is saying the same thing either Lance or Quallamaggie did.
+
+> Several traders we interviewed for this book have mentioned the same type of small-cap short trade that was your primary strategy during the first half of your career. Do you think this trade getting publicized in this book will impact its future efficacy?
+
+> I think it could make the trade crowded in the near term. Years ago, when I had a different Twitter account with a large following, I posted some of my profits and losses online. Instantly, I found that borrows would be harder to get. Sometimes, the stocks that were good prospective shorts also began acting differently; they would keep running because amateur shorts would get squeezed. Given that prior experience, I think there could be a short-term impact as inexperienced traders jump in and try to replicate the strategy. However, the effect should be temporary as most of these traders will fail and give up. As a related point, I know the owner of one of the brokerage firms, and he told me, “You would be amazed by how many of the accounts we open that are closed within 90 days.”
+
+Interesting.

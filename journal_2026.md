@@ -12961,3 +12961,9 @@ Interesting.
 Ok, having to do all this works does put a hamper on my parade somewhat. The strategy is not free money. It's hard work definitely.
 
 I wonder if I could use Opus to analyze these stocks better?
+
+> The price moves were much more predictable then than they are now because the space wasn’t as crowded. Stocks would gap open and trade down gradually into the close.
+
+Ok, this gives me an insight into how hard this strategy is.
+
+I have to ask myself whether I want to do this or go back to the poker bot.

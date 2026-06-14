@@ -13035,3 +13035,13 @@ That is exactly what I did back in 2007 - 2014.
 I myself only broke even. On a 3k account no less.
 
 9am. He says he doesn't use fundamentals, and how his strategy is shorting climax rallies. Sigghhh...
+
+He talks about studying his setups and how his big losses were in stocks that had no setup.
+
+> What constitutes an A+ trade?
+
+> Going short a trashy, small-cap stock after it has a parabolic rally.
+
+Hmmmm...there really should be a way to make short side crypto mean reversion work. I only did quant research, and haven't studied those tickers deeply.
+
+But crypto markets are so much smaller than the stock markets.

@@ -13011,3 +13011,5 @@ Also, getting a quant dev job, might be an easier path for me than making this w
 > If I had to restart from zero, I’d probably focus on trading crypto. I’m not a crypto fanatic, but I think crypto today is similar to small caps 15 years ago in terms of inefficiencies, price volatility, and related opportunities.
 
 Hmmmm...
+
+8:45am. Honestly, if I had my choice of strategies, I would pick one that has the highest consistency, which is generally market making.

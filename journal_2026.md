@@ -12947,3 +12947,17 @@ Amazing. Remarkable. I knew about the strategy, but I couldn't bother to do this
 Hmmm...I still do in fact. That hasn't really changed. I don't want to read the tape or do company research. I want to build.
 
 Also, he managed to find this broker. If I could have pushed a bit harder...
+
+> Lots of traders short small-cap stocks. How did you achieve such outlier results?
+
+> I believe that it was the combination of my fundamental and technical analysis. Most traders in this space short any small-cap stocks that gap up sharply; they don’t differentiate between them. Whereas I analyzed SEC filings, identifying companies with an impending working capital problem. I also analyzed news releases that caused the stocks to rally to determine which were bogus and which might indicate a turning point for the company. If SEC filings indicated that a company’s prospects had improved, I would avoid shorting the stock, despite the price run-up. I also researched the underwriters in these deals and knew how their deals typically worked out. Definite patterns emerge when studying the different underwriters. I attribute some of my outsized success to my analysis of these differentiating factors, which others did not do.
+
+Interesting.
+
+> Did you always use stops?
+
+> Yes, I had to. Shorting these stocks can be risky. Sometimes trading in these stocks is halted, with the stocks then reopening at a level as much as 1,000% higher. I’ve seen multiple people blow up shorting small-cap stocks.
+
+Ok, having to do all this works does put a hamper on my parade somewhat. The strategy is not free money. It's hard work definitely.
+
+I wonder if I could use Opus to analyze these stocks better?

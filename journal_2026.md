@@ -13135,3 +13135,15 @@ Did I go down the wrong path with the replay sim then? No that cannot be it.
 > For sure. I was winning less than 50% of the time, but the magnitude of my wins offset the frequency of my losses. Sometimes I would try to book some quick profits on part of a position to provide more breathing room for the remaining position. I was also biased toward being short stocks, since successful shorts often have big moves that happen quickly, which fit very well with my trading style. I gravitated toward parabolic shorts after a year or two for the same reason. I’m sure you’ve talked to other traders who did the same thing—shorting small caps after a few days of a parabolic upmove.
 
 Short selling again?
+
+> Has the strategy changed over time?
+
+> Back then, you would have a stock with a one-million-share float that would trade 10 or 15 times its float in a single day. And it was easy to get locates on the stock [broker identified shares available for borrowing by clients who wanted to go short], which meant you could hold the stock overnight without exorbitant fees. Not surprisingly, many traders began to take advantage of the low borrowing costs on these shares by shorting the rally and holding the position until the stock price collapsed. With the benefit of hindsight, I believe some brokers were lending shares illegally. Regardless, getting locates has now become difficult and expensive, so the strategy isn’t what it used to be. The high costs of borrowing and the limited availability of shares led to significant price squeezes. It is now neither affordable nor safe to hold these stocks waiting for them to eventually collapse.
+
+> When did that change in borrowing costs occur?
+
+> I’d say it was around 2017. One of the big locate providers got into trouble with regulators, and that changed the game. That’s about when I started to pull back from parabolic shorts, partially motivated by the game-changing increase in borrowing costs and partially by the strategy becoming less meaningful given the growth in my account. I knew that if I wanted to get my account to the next level, I needed to focus on strategies that scaled.
+
+I am going to put some real effort into finding good crypto perp short setups during the next research run.
+
+Let's go all out to figure out the main strategies of the playbook.

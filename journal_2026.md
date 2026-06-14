@@ -13131,3 +13131,7 @@ Ah so the strategies in the courses don't work anymore?
 Hmmmmm....
 
 Did I go down the wrong path with the replay sim then? No that cannot be it.
+
+> For sure. I was winning less than 50% of the time, but the magnitude of my wins offset the frequency of my losses. Sometimes I would try to book some quick profits on part of a position to provide more breathing room for the remaining position. I was also biased toward being short stocks, since successful shorts often have big moves that happen quickly, which fit very well with my trading style. I gravitated toward parabolic shorts after a year or two for the same reason. I’m sure you’ve talked to other traders who did the same thing—shorting small caps after a few days of a parabolic upmove.
+
+Short selling again?

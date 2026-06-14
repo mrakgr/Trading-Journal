@@ -13005,3 +13005,9 @@ Holy crap. He really did this? Yeah, I guess people in this book are truly talen
 8:35am. Honestly, even if the market is possibly condusive to this type of strategy, the short setups are so much easier to detect. I could have Opus help me with fundamental analysis as well in the current age. I remember Quallamaggie saying that the best short setups happen during bull markets either way. It makes sense, given that that is when the liquidity manifests.
 
 Also, getting a quant dev job, might be an easier path for me than making this work either way. We'll see.
+
+> If you were starting today [April 2025], would you still focus on shorting small caps?
+
+> If I had to restart from zero, I’d probably focus on trading crypto. I’m not a crypto fanatic, but I think crypto today is similar to small caps 15 years ago in terms of inefficiencies, price volatility, and related opportunities.
+
+Hmmmm...

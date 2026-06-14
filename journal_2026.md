@@ -12939,3 +12939,11 @@ Even if by the end I decide not to do it, perhaps it will be a notch on my resum
 The disadvantage of this approach is the necessity of deep research.
 
 So, here is another short seller. It seems that pretty much all the market wizards have adopted the short selling approach so far.
+
+> The problem was that most of the opportunities we found were on the short side, and the broker I was using at the time didn’t have stock available to borrow. So, I couldn’t implement the research. But things changed when I graduated high school in 2018. Since I was done with school, I could fully focus on trading. I found a broker who could provide access to the stocks I wanted to short. And since the broker had a Bahamian entity, I was able to get around the pattern day trader (PDT) minimum capital requirements. [PDT is a FINRA rule in the United States that says traders who make more than four day trades in five days with a margin account must have a minimum account balance of $25,000.] That was the point when things really started to come together. I had learned the hard lessons from my early failures. I had done the research to identify a strategy with an edge, and I had a broker who enabled me to implement my research. Additionally, I received several thousand dollars as a gift for my 18th birthday, which provided me with capital to trade.
+
+Amazing. Remarkable. I knew about the strategy, but I couldn't bother to do this research at all. I wanted the easy money, not the hard work.
+
+Hmmm...I still do in fact. That hasn't really changed. I don't want to read the tape or do company research. I want to build.
+
+Also, he managed to find this broker. If I could have pushed a bit harder...

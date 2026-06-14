@@ -13045,3 +13045,7 @@ He talks about studying his setups and how his big losses were in stocks that ha
 Hmmmm...there really should be a way to make short side crypto mean reversion work. I only did quant research, and haven't studied those tickers deeply.
 
 But crypto markets are so much smaller than the stock markets.
+
+> Over time, I learned that selling calls can get you in trouble much faster than selling puts. I’ve heard of a lot of traders blowing up selling calls. I rarely hear of a trader blowing up selling puts.
+
+Hmmmm, interesting. I guess it makes sense given the asymetric risk profile of calls.

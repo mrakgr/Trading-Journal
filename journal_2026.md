@@ -12925,3 +12925,11 @@ What makes it good is that it's a pure short volatility strategy. It makes it ve
 I am going to combine the strategy with TapeSim replay studies. That will allow me to build my foundation.
 
 I have the choice of whether I want to trade the strategy or not. I just have to recognize it.
+
+6/14/2026
+
+7:15am. Today, I'll finish the book. Tape reading by itself is not enough to make amazing returns, which is why the SMB traders all trade the news to begin with.
+
+8am. Let me start. I'll read this book and start my momentum studies tomorrow. I'll toss in short selling parabolic moves into the mix.
+
+Even if by the end I decide not to do it, perhaps it will be a notch on my resume that I could use to join a quant firm.

@@ -13059,3 +13059,13 @@ Yes, he is saying the same thing either Lance or Quallamaggie did.
 > I think it could make the trade crowded in the near term. Years ago, when I had a different Twitter account with a large following, I posted some of my profits and losses online. Instantly, I found that borrows would be harder to get. Sometimes, the stocks that were good prospective shorts also began acting differently; they would keep running because amateur shorts would get squeezed. Given that prior experience, I think there could be a short-term impact as inexperienced traders jump in and try to replicate the strategy. However, the effect should be temporary as most of these traders will fail and give up. As a related point, I know the owner of one of the brokerage firms, and he told me, “You would be amazed by how many of the accounts we open that are closed within 90 days.”
 
 Interesting.
+
+> When I started shorting stocks many years ago, borrow costs were a non-issue; I could hold shorts for days or weeks. In recent years, borrowing stocks has become a big business for brokers, and borrow rates can be very high.
+
+I guess that's it for the interview. Honestly, I was hoping for more from the option selling part. I don't find the strategy appealing. Unlike Lance, he isn't selling options after crises, but during quiet periods. He didn't really give any insight as far as I am concerned.
+
+I am going to go forward with my plan. I'll do a momentum system on the daily charts. Not something extreme, but merely something that could tell me how the strategy worked during historical periods so I can have some sense of whether it would work now. If it would then great, otherwise, it's either short selling or poker. Probably poker, because I want to make a good version of the bot even if it means throwing away ML.
+
+I did poker in pursuit of AI, but I have missed my goals so badly, that I want to make at least a game to give myself some closure. As for short selling scams, that will be around forever, so who cares.
+
+I think out of all the traders covered so far Lukas is the most talented one. Lance is up there as well, but his past daytrading focus is a disadvantage longer term.

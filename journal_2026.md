@@ -12933,3 +12933,9 @@ I have the choice of whether I want to trade the strategy or not. I just have to
 8am. Let me start. I'll read this book and start my momentum studies tomorrow. I'll toss in short selling parabolic moves into the mix.
 
 Even if by the end I decide not to do it, perhaps it will be a notch on my resume that I could use to join a quant firm.
+
+> Tim Grittani was probably the best. He felt the best way to play small-cap stocks was from the short side. He was also big on quantifying what could be quantified to identify patterns, and I really took that to heart and ran with it. From Grittani, I learned about the value of doing deep research, which was another turning point.
+
+The disadvantage of this approach is the necessity of deep research.
+
+So, here is another short seller. It seems that pretty much all the market wizards have adopted the short selling approach so far.

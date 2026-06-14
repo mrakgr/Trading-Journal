@@ -13013,3 +13013,11 @@ Also, getting a quant dev job, might be an easier path for me than making this w
 Hmmmm...
 
 8:45am. Honestly, if I had my choice of strategies, I would pick one that has the highest consistency, which is generally market making.
+
+> PHIL GOEDEKER transformed a meager starting account of $5,000 into $53 million using two strategies: short selling and selling option premium.
+
+I am looking forward to hearing about the latter. It seems everyone started out by short selling in this book.
+
+8:50am. I need to change my approach to momentum. The interview with Lukas gave me some insight. I should make a general purpose momentum system and evaluate how it worked during various periods. If it really works well now, like it did 6 years ago, then there should be some indication in the performance metrics. Then I will be able to drill down into the news.
+
+As for short selling, that is always a choice, but I have other choices like the poker bot that is uniquely my own edge.

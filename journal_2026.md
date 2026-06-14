@@ -13117,3 +13117,17 @@ With short selling, I'll keep my risk low and aim to make 10k per year initially
 Up to now, I've been feeling stuck, and this book gave me perspective. I know I could make it as a short seller, the capitulation trades do resonate with me to the degree that nothing else does.
 
 The reason for that is that I've observed how the general market behaves during panics. I know that there is a lot of edge in playing capitulations, but the S&P doesn't give enough reps to study those situations properly. If I could specialize, that could result in something significant.
+
+11:50am.
+
+> What kind of strategies did they teach you?
+
+> They taught us how to trade order flow, which worked at the time. Let’s say there was a large bid for a stock at $50. The idea was to buy the stock ahead of the bid [above $50], knowing there was implicit support at the bid, in hopes of selling the stock back to the buyer at a higher price if the buyer raised the bid. However, algorithms have largely rendered the efficacy of that strategy obsolete. One concept they taught us that remains useful is to focus on stocks that are moving a lot on high volume. Probably the most beneficial aspect of training to be a trader at SMB was that the firm promoted a culture of collaboration.
+
+Ah so the strategies in the courses don't work anymore?
+
+> The current training program is not the same one I went through. The training program has been totally revamped over time, reflecting the continual feedback from the firm’s top traders.
+
+Hmmmmm....
+
+Did I go down the wrong path with the replay sim then? No that cannot be it.

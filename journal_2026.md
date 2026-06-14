@@ -13151,3 +13151,21 @@ Let's go all out to figure out the main strategies of the playbook.
 12:40pm. Only one chapter left in the book. To be honest, the cut-your-losses propaganda in the book is tedious. It should be more like, do-your-research propaganda if you ask me.
 
 Let me go have breakfast.
+
+1:45pm. Done with the book. I guess I'll take a break for the rest of the day and start doing serious research on momentum tomorrow.
+
+I want to bring the various eras of my life to a close, and the research will determine what path I take.
+
+I have to consider the fact that I might simply not want to become an elite trader. That I am not willing to put in the effort that takes. If so then fine.
+
+I was merely lost for all this time, not realizing my true calling is to become a programmer. I'll park my money into index funds after the market crashes and that will end that.
+
+Not everybody can succeed at their stated goals.
+
+I certainly don't want to be glued in front of the screens to make my trading work, but I would be willing to stay active near the opening hours and write scripts to manage the rest.
+
+While I am not willing to work 16h a day on trading, I might be willing to do quant research and spend a few hours paying attention to what is going on and run screeners before it opens.
+
+If that isn't enough effort to the market, and if my programming skills aren't enough to give me an edge via automation, then so be it. I'll do something else.
+
+I might not be willing to wizard, but I am willing to do it midway.

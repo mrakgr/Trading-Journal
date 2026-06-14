@@ -12977,3 +12977,10 @@ Yeah, I this is what I am going to be doing research on now.
 > The hard part of the strategy is that you have to believe the bubble will continue. I was young and naïve enough not to be scared, which was the mindset I needed to succeed with this strategy.
 
 Indeed! This is what is preventing me from getting back into the market currently, but most likely it will continue.
+
+8:20am. Ok, I won't paste the entire strategy here as that would be too much copyright infringement. But now he is talking about the momentum strategy.
+
+> I also wanted to get away from shorting small caps because the strategy was too risky.
+
+Hmmm....
+

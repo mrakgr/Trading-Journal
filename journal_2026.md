@@ -13147,3 +13147,7 @@ Short selling again?
 I am going to put some real effort into finding good crypto perp short setups during the next research run.
 
 Let's go all out to figure out the main strategies of the playbook.
+
+12:40pm. Only one chapter left in the book. To be honest, the cut-your-losses propaganda in the book is tedious. It should be more like, do-your-research propaganda if you ask me.
+
+Let me go have breakfast.

@@ -12984,3 +12984,14 @@ Indeed! This is what is preventing me from getting back into the market currentl
 
 Hmmm....
 
+> I traded it from spring 2020 until mid-2021.
+
+> Why did you stop trading the strategy?
+
+> Because, as I mentioned before, the mid-cap breakout strategy is only appropriate for strongly advancing bull markets. Being able to step away when the market environment is not suitable is the hard part in applying this strategy. You need the presence of mind and patience to avoid using the strategy for two or three years at a time. The strategy worked until the bull market stalled in mid-2021 and then was a disaster for the next couple of years.
+
+This guy is god.
+
+I need to look into it. The market we're in might be exactly conductive to this type of strategy.
+
+Trying to make the strategy work during periods when it was not condusive to it is what bankrupted Livermore a few times.

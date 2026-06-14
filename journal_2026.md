@@ -13169,3 +13169,5 @@ While I am not willing to work 16h a day on trading, I might be willing to do qu
 If that isn't enough effort to the market, and if my programming skills aren't enough to give me an edge via automation, then so be it. I'll do something else.
 
 I might not be willing to wizard, but I am willing to do it midway.
+
+4:10pm. Ok, let me do some research work. I'll break the ice now and do the real work starting tomorrow.

@@ -13177,6 +13177,14 @@ I might not be willing to wizard, but I am willing to do it midway.
 5:05pm. ![](images/image-2542.png)
 > Volatility contraction during the first 30m results in exposive directional moves.
 
-The work on the momentum system is going great.  Thething is profitable 24 out of 24 years I've tested it on, and it's improved my understanding of momentum trading signficantly.
+The work on the momentum system is going great.  The thing is profitable 24 out of 24 years I've tested it on, and it's improved my understanding of momentum trading signficantly.
 
 I should do more research on the opening range breakouts. I want to understand this better.
+
+6:35pm. ![](images/image-2543.png)
+
+I have a PF 2.3-2.4 momentum system on my hands here. The mean reversion exit improved it massively. I should be able to go even further with morning entries and volume analysis.
+
+And past that I should be able to go even further with news analysis.
+
+...I will take everything that I have lost in the previous decade. Everything.

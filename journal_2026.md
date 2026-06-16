@@ -13171,3 +13171,12 @@ If that isn't enough effort to the market, and if my programming skills aren't e
 I might not be willing to wizard, but I am willing to do it midway.
 
 4:10pm. Ok, let me do some research work. I'll break the ice now and do the real work starting tomorrow.
+
+6/16/2026
+
+5:05pm. ![](images/image-2542.png)
+> Volatility contraction during the first 30m results in exposive directional moves.
+
+The work on the momentum system is going great.  Thething is profitable 24 out of 24 years I've tested it on, and it's improved my understanding of momentum trading signficantly.
+
+I should do more research on the opening range breakouts. I want to understand this better.

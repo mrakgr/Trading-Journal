@@ -13188,3 +13188,19 @@ I have a PF 2.3-2.4 momentum system on my hands here. The mean reversion exit im
 And past that I should be able to go even further with news analysis.
 
 ...I will take everything that I have lost in the previous decade. Everything.
+
+11:40am. 
+
+![](images/image-2544.png)
+
+Check out this table. This is how far we've gotten.
+
+***
+
+The edge in momentum trading is incredible. We managed to create long only system with a PF of 3 with careful system design. We thought we'd need to create a short selling system to get an edge this good, but that isn't the case. Move over tape reading. We know how to swing trade now.
+
+Music:
+
+KageYume - MECHA AVALON: https://youtu.be/ihaF9J5D2ik
+
+***

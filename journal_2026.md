@@ -13238,3 +13238,17 @@ Trading isn't going to save me. Pursuit of the Singularity is what will save me.
 I am going to do my best to develop these systems and see where that gets me.
 
 Note: Fix the ATR % issue tomorrow.
+
+9:30pm. https://fucknovelpia.com/novel/i-am-this-murim-s-crazy-bitch-human-tl
+
+Besides Onahole, this novel is one of the best TS novels out there. I am glad to have found it here, the original translator got DMCA'd.
+
+Let me to bed. I am quite tired.
+
+Trading...ugh. I am more likely to get 10x better at programming in the future than I am at trading.
+
+I need to keep my eye on out for a way to make that happen. If I could do that, then my worries would go away on their own.
+
+I really wish I could find a way to trust this world a little.
+
+On one hand, this insanity the world has about AI plays into my overall plan. On the other hand, I am not sure I'll manage to accomplish anything despite that. We'll see...

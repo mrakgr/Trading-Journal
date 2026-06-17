@@ -13199,8 +13199,16 @@ Check out this table. This is how far we've gotten.
 
 The edge in momentum trading is incredible. We managed to create long only system with a PF of 3 with careful system design. We thought we'd need to create a short selling system to get an edge this good, but that isn't the case. Move over tape reading. We know how to swing trade now.
 
+After 9 months, we've finally built our edge. To think it would take 4 days after getting started.
+
 Music:
 
 KageYume - MECHA AVALON: https://youtu.be/ihaF9J5D2ik
 
 ***
+
+Doc link: https://github.com/mrakgr/Trading-Edge/blob/momentum-v0-backtest/docs/momentum_v0_results.md#trailing-stop-window-sweep--tighten-to-4-day-low-2026-06-17
+
+I am putting the Youtube video straight out there.
+
+I've accomplished an amazing thing in the past few days. After 9 months, I've actually built my edge.

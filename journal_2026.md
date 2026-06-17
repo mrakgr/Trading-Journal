@@ -13212,3 +13212,29 @@ Doc link: https://github.com/mrakgr/Trading-Edge/blob/momentum-v0-backtest/docs/
 I am putting the Youtube video straight out there.
 
 I've accomplished an amazing thing in the past few days. After 9 months, I've actually built my edge.
+
+6:40pm. Fuck, no I didn't. The PF of 3 was an due to an error.
+
+Sigh, I'll have to pull the video. It's insanely misleading. Thankfully it's still private.
+
+To be fair, we proper Kelly betting the edge is PF 2 and that isn't nothing, but the drawdowns are much higher and the consistency is weaker. I'd be willing to allocate 20% of my net worth to the system as it is now.
+
+I'll pay 200$ for the data, and do thorough investigation of intraday entries and see if this can be made any better tomorrow. If not, then so be it. I'll just trade this and recover those expenses over time.
+
+I'll use the system to pad my resume.
+
+Programming errors that inflate performance are always the worst when you fix them.
+
+I could go the Unbiased Trading route and try to create a portfolio of these systems. I could put 20% into this, 20% into crypto mean reversion and so on. I'll look into whether I can make something of short selling.
+
+Unfortunately, with short selling and crypto mean reversion, there are structural issues. The first is that for stock short selling setups, the field is competitive and borrows are hard to find. For the latter I cannot even access Binance perp futures, so the system really isn't any better than a resume padder.
+
+6:50pm. I am really disappointed now, but forget success. Focus on just doing what you're good. Programming. I am good at programming. Not trading.
+
+This experience just underscores that. I am better off finding a high paying job to feed this momo system than I am diving really deep into it.
+
+Trading isn't going to save me. Pursuit of the Singularity is what will save me.
+
+I am going to do my best to develop these systems and see where that gets me.
+
+Note: Fix the ATR % issue tomorrow.

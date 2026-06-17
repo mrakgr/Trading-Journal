@@ -13199,7 +13199,7 @@ Check out this table. This is how far we've gotten.
 
 The edge in momentum trading is incredible. We managed to create long only system with a PF of 3 with careful system design. We thought we'd need to create a short selling system to get an edge this good, but that isn't the case. Move over tape reading. We know how to swing trade now.
 
-After 9 months, we've finally built our edge. To think it would take 4 days after getting started.
+After 9 months, we've finally built our edge. To think it would take only 4 days after getting started.
 
 Music:
 

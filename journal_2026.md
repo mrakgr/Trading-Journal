@@ -13272,3 +13272,7 @@ My Single Favorite Trading Pattern Over 25+ Years
 ![](images/image-2545.png)
 
 I'll have to research this pattern.
+
+![](images/image-2546.png)
+
+I should replay these morning panics in the replay sim.

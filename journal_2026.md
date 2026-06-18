@@ -13276,3 +13276,13 @@ I'll have to research this pattern.
 ![](images/image-2546.png)
 
 I should replay these morning panics in the replay sim.
+
+6:15pm. Left a message to Tim. I guess I'll move on from Lance for a bit.
+
+It would be worth it to try and study the pattern they are talking about here.
+
+![](images/image-2547.png)
+
+I'll replay SHMP in TapeSim and try to study instances of the pattern Tim is talking about. Seems better than random premarket gainers.
+
+Not right now of course. But it does give me something to aim for. If I could master one intraday pattern, that would be huge for me. This one seems like it could be easy to scan for.

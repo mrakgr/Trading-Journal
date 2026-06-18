@@ -13252,3 +13252,13 @@ I need to keep my eye on out for a way to make that happen. If I could do that, 
 I really wish I could find a way to trust this world a little.
 
 On one hand, this insanity the world has about AI plays into my overall plan. On the other hand, I am not sure I'll manage to accomplish anything despite that. We'll see...
+
+7pm. 
+
+https://youtu.be/JxdPbymYRs8
+How To Trade Like A Multi-Millionaire with Tim Grittani
+
+https://youtu.be/bCuofROI4Tg
+The Rules That Build Million-Dollar Trading Careers with Timothy Sykes
+
+Tim Gritanni was the mentor of Simon Russo in the Market Wizards book. And since I am going to be looking into short selling, I might as well watch Tim Sykes again. I haven't watched any of his stuff in 15 years. The last time I listened to him was on Lance's podcast.

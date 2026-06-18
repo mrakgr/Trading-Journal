@@ -13262,3 +13262,13 @@ https://youtu.be/bCuofROI4Tg
 The Rules That Build Million-Dollar Trading Careers with Timothy Sykes
 
 Tim Gritanni was the mentor of Simon Russo in the Market Wizards book. And since I am going to be looking into short selling, I might as well watch Tim Sykes again. I haven't watched any of his stuff in 15 years. The last time I listened to him was on Lance's podcast.
+
+https://youtu.be/B-_T23RxmeI
+The PDT Rule Is Going Away… Here’s What Happens Next
+
+https://youtu.be/QustpeghImU
+My Single Favorite Trading Pattern Over 25+ Years
+
+![](images/image-2545.png)
+
+I'll have to research this pattern.

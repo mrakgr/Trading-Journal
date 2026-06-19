@@ -13305,3 +13305,18 @@ How to Pick Stocks to Day Trade (with my 7-Step Formula)
 ![](images/image-2548.png)
 
 Good advice.
+
+9:25am. ![](images/image-2549.png)
+> Are there a lot of big % gainers?
+
+Yeah, Tim gives me a lot to think about. These videos are actually quite high quality.
+
+I should consider measuring the market by how many spikers there are instead of 20 day breadth.
+
+I really should study risk to reward of my trades, that is the distance to the stop.
+
+And I should study not just the past 3 week range, but I should study how much the range varies over time.
+
+![](images/image-2550.png)
+
+Here is the full list. The third one is the spread. It's going to be a bit hard to account for that one.

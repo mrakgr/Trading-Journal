@@ -13320,3 +13320,21 @@ And I should study not just the past 3 week range, but I should study how much t
 ![](images/image-2550.png)
 
 Here is the full list. The third one is the spread. It's going to be a bit hard to account for that one.
+
+8pm. I am really making strong progress.
+
+https://github.com/mrakgr/Trading-Edge/blob/momentum-v2-backtest/docs/momentum_v2_results.md
+
+I think I understand how stops work well enough. They don't really help to increase PF, but having them too tight can definitely hurt.
+
+I am going to have to repeat some earlier ATR % and tightness tests because I think some of those buckets when I was testing them with windows had stops that were too tight and that might have ruined the performance of the best buckets. I'll have to revisit them for that reason again.
+
+I am not going to be using price stops, but just a simple 5 day timestop. Swing trading at its finest according to what quant analysis says is the edge, and not what other traders are doing.
+
+Being able to do this kind of work now is my power as a programmer. An average person couldn't do this.
+
+This time, I am really going to make it. I could have done all of this so long ago and started trading already, but I've been wandering for a long time. I was set on learning to daytrade, but it doesn't seem I'll be getting anywhere with that. I am going to become a swing trader in the end. I will try quantifying Tim's reversal long pattern though, but it's not a priority. I think I will just focus on mastering this style, at this point because of these quant analyses I am already 70% there.
+
+My understanding of the market has improved by a huge amount in the past 5 days.
+
+My initial approach to the market 9 months ago was so complex, what I am doing here and getting great benefits is child's play in comparison. I definitely have an inferiority complex, not seeing what a great power I have now and being obsessed about great achievements and higher powers that I cannot grasp. Had I been sane, I would have started with momentum trading from the start.

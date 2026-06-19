@@ -13286,3 +13286,22 @@ It would be worth it to try and study the pattern they are talking about here.
 I'll replay SHMP in TapeSim and try to study instances of the pattern Tim is talking about. Seems better than random premarket gainers.
 
 Not right now of course. But it does give me something to aim for. If I could master one intraday pattern, that would be huge for me. This one seems like it could be easy to scan for.
+
+6/19/2026
+
+8:15am. https://www.youtube.com/watch?v=7lWE0YM0uLY
+The Only 5 Trading Indicators I Used to Make $8 Million
+
+> I like morning panic dip buys, I like buying first green days.
+
+https://youtu.be/kigOXfnkttk
+5 Best Stock Trade Setups for Beginners (Patterns that Make Me the Most Money)
+
+He shares his setups here. Ok, let me watch that as soon as I finish the first video.
+
+https://youtu.be/hiKZvya9QIA
+How to Pick Stocks to Day Trade (with my 7-Step Formula)
+
+![](images/image-2548.png)
+
+Good advice.

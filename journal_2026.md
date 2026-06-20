@@ -13338,3 +13338,12 @@ This time, I am really going to make it. I could have done all of this so long a
 My understanding of the market has improved by a huge amount in the past 5 days.
 
 My initial approach to the market 9 months ago was so complex, what I am doing here and getting great benefits is child's play in comparison. I definitely have an inferiority complex, not seeing what a great power I have now and being obsessed about great achievements and higher powers that I cannot grasp. Had I been sane, I would have started with momentum trading from the start.
+
+6/20/2026
+
+8:10pm. 
+
+* Sub 5$ stocks.
+* Test other ATR % window lengths.
+
+Let me write this down so I don't forget tomorrow.

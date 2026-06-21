@@ -13490,3 +13490,8 @@ I think it's really interesting that 5-10 range is the most profitable price poi
 ![](images/image-2552.png)
 
 Hmmm, I think Tim is also trading this.
+
+7:50pm. https://youtu.be/A18LjAnVrbQ
+I Made $8M Trading These Types of Stocks (Better Than Penny Stocks)
+
+Come to think of it, I never checked the float as a condition. I really should have, but Massive only has shares outstanding, and not float.

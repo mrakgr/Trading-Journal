@@ -13482,3 +13482,8 @@ Let me save the music for these two videos here.
 Ultimate Guide to Trading in a Small Account
 
 Ok, let me watch this guy since I said I would. Daytrading barely makes any sense to me. Tim gave me one pattern. Maybe he'll give me another, but I am quite partial to swing trading now.
+
+![](images/image-2551.png)
+
+I think it's really interesting that 5-10 range is the most profitable price point for him. That's actually the case for the HighFlyer system as well.
+

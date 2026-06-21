@@ -13465,6 +13465,12 @@ We're not done yet though, in the next miniseries we'll sharpen up our entries s
 
 Look forward to it!
 
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/momentum-v3-backtest/docs/momentum_v0_results.md
+https://github.com/mrakgr/Trading-Edge/blob/momentum-v3-backtest/docs/momentum_v1_results.md
+https://github.com/mrakgr/Trading-Edge/blob/momentum-v3-backtest/docs/momentum_v2_results.md
+https://github.com/mrakgr/Trading-Edge/blob/momentum-v3-backtest/docs/momentum_v3_results.md
+
 Music:
 KageYume - Campfire of Valhalla: https://youtu.be/YvGViAyMer8
 Symphony Of Blades - Lunar Scythe: https://youtu.be/skDxvlJPW4w

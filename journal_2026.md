@@ -13477,3 +13477,8 @@ EVLSound - HEAT RISES: https://youtu.be/bD7I1mId1QM
 ***
 
 Let me save the music for these two videos here.
+
+6:20pm. https://youtu.be/8SWCCRLg1p0
+Ultimate Guide to Trading in a Small Account
+
+Ok, let me watch this guy since I said I would. Daytrading barely makes any sense to me. Tim gave me one pattern. Maybe he'll give me another, but I am quite partial to swing trading now.

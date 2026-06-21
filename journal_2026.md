@@ -13487,3 +13487,6 @@ Ok, let me watch this guy since I said I would. Daytrading barely makes any sens
 
 I think it's really interesting that 5-10 range is the most profitable price point for him. That's actually the case for the HighFlyer system as well.
 
+![](images/image-2552.png)
+
+Hmmm, I think Tim is also trading this.

@@ -13507,3 +13507,10 @@ Come to think of it, I never checked the float as a condition. I really should h
 11:30am. ![](images/image-2553.png)
 
 So he tried quantifying Ross Cameron's strategy?
+
+At any rate, I've decided to take a day off today. What happened yesterday is that I went to lunch with my parents as it was my birthday, made a really bad meal choice, and I spent the night pissing from my ass and vomiting. Right now I feel lethargic and have a fever.
+
+I should have listened to my mother when she told me not to experiment with meals I haven't tried. This is the worst restaurant experience I ever had in my life.
+
+Those bad beefsteaks I had before were merely bad, this one was so bad it made me ill.
+

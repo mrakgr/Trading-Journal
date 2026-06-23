@@ -13501,3 +13501,9 @@ Hmmm, I think Tim is also trading this.
 I Made $8M Trading These Types of Stocks (Better Than Penny Stocks)
 
 Come to think of it, I never checked the float as a condition. I really should have, but Massive only has shares outstanding, and not float.
+
+6/23/2026
+
+11:30am. ![](images/image-2553.png)
+
+So he tried quantifying Ross Cameron's strategy?

@@ -13520,3 +13520,58 @@ The outcome of my food testing was far worse than I could have ever imagined.
 
 7:05am. I am super groggy right now after being in bed for 12h. My body is very stiff.
 
+4:35pm. Yeah, I definitely have a bad case of food poisoning. I think I'll give experimenting with new meals at restaurants a pass next time. I grossly misjudged the risk. I thought that the worst that could happen is what the meal would be bad. How could I possibly imagine that a meal made by professional cooks would literally poison me?
+
+***
+
+2 days ago, I had a bad meal at a restaurant, that resulted in me getting a fever and vomiting during the night. I also got diarrhea, but that's better now. I still have a fever though. Should I go see a doctor or just wait to recover? Do you have any advice for me?
+
+This was the worst food experience ever. The meal had an overabundance of fried veggies compared to meat and didn't sit well with me. I thought that the worst that could happen in a restaurant was that the food would have poor taste, I didn't think it would literally make me ill.
+
+***
+
+I'm sorry you're going through this. A few things stand out from what you describe.
+
+The main thing worth flagging: a fever that's still going two days after the other symptoms have started settling is worth taking seriously. With most food poisoning, the fever tends to break within a day or so. A fever that persists this long can be a sign the illness is more than a simple bout that'll clear on its own.
+
+I'd lean toward seeing a doctor, and I'd move it up to "soon rather than later" if any of these apply: the fever is high (roughly 39°C/102°F or above), you can't keep fluids down, you notice signs of dehydration (very dark urine, not urinating much, dizziness when standing, dry mouth), there's blood in your stool or vomit, or you have severe abdominal pain. Any of those, or a fever that keeps climbing, is a "go now" rather than "wait and see."
+
+In the meantime, the priority is fluids. Vomiting plus diarrhea plus fever all drain water and electrolytes, so sip an oral rehydration solution (or water with a bit of salt and sugar) steadily rather than gulping a lot at once. Rest, and ease back into bland food (rice, toast, bananas) as your stomach tolerates it. Paracetamol can help the fever if you're keeping fluids down.
+
+On the restaurant side: you're right that food can genuinely make you ill, and fried-heavy or mishandled food is a common culprit. If symptoms are bad enough that you see a doctor, it can be worth noting where you ate, since in some places foodborne illness is reportable and it helps protect others.
+
+This is general information rather than a diagnosis, and given the lingering fever I'd genuinely err toward getting it checked rather than waiting it out. If anything changes quickly or feels worse than "rough," treat that as your signal to seek care promptly. Hope you're back to normal soon.
+
+***
+
+It's slightly below 38C and I can drink just fine.
+
+***
+
+That's reassuring. A low-grade fever just under 38°C with no trouble keeping fluids down is much more consistent with your body still finishing off a routine bout of food poisoning than with something that needs urgent attention.
+
+At this point waiting it out is reasonable. Keep doing what's working: steady fluids, rest, and bland food as your appetite returns. A mild fever can linger a little as the last of it clears.
+
+The thing to watch is the trend. It should keep easing over the next day or two. Reasons to switch to seeing a doctor would be if the fever climbs higher or is still hanging around past about day four or five, if you start struggling to keep fluids down, or if blood shows up in your stool or you get severe belly pain. Short of that, you're probably on the mend.
+
+Hope you feel back to normal soon.
+
+***
+
+Why is my stool mostly liquid?
+
+***
+
+Because your gut is still inflamed and moving things through too fast for water to be reabsorbed.
+
+Normally your large intestine pulls a lot of water back out of stool as it passes through. When you have a gut infection or food poisoning, two things happen: the irritation makes your intestines contract faster, so material moves through before water can be reabsorbed, and the inflammation can actually make the gut lining secrete extra fluid into the bowel. Some bacterial toxins specifically trigger that fluid secretion. The result is loose or watery stool.
+
+It's the body's way of flushing out the offending bug, which is part of why it's usually not something to suppress aggressively. As your gut lining heals over the next few days, the contractions calm down, water reabsorption returns to normal, and your stool should firm back up.
+
+You mentioned earlier the diarrhea was getting better, so it sounds like you're already on that path. The main thing is just replacing the water and electrolytes you're losing through it, which you're already doing. If it instead gets worse again, turns to mostly water for more than a day, or you see blood, that'd be worth a doctor's look.
+
+***
+
+That ends the convo with Opus.
+
+I'll resume work on the swing trading system after I stop pissing liquid shit from my anus.

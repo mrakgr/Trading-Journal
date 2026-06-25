@@ -13596,3 +13596,56 @@ I spent a lot of time, over 6 months of my time studying the wrong things it see
 
 But the beauty of this path is that I can correct and do the right thing now that the light of evidence is showing me the direction to move towards.
 
+8:30pm. The current development path I am on fares poorly for my planned career as a daytrader. I think I'll write off applying to prop firms which are focused exclusively on daytrading like SMB. But honestly, getting in at SMB was just a flight of fancy. What is really important is becoming consistently profitable.
+
+Maybe making 10m or 100m would be too much, but I could realistically aim to make 45% per year and become a millionaire in 6 years with a 2.5 profit factor system. That would ensure my financial safety in my old age.
+
+I could also make my trading systems a part of my resume and try getting a job as a quant researcher.
+
+***
+
+In my quant research it seems I've been quite successful at finding good swing trading edges, but whenever I've found daytrading edges they were obliterated by fees. Which is fine, I can become a swing trader then.
+
+But I guess I'll have to perhaps pass on applying to places like SMB Capital? Do you think they only hire daytraders or would even swing traders be allowed?
+
+***
+
+SMB Capital is fundamentally a day-trading prop firm. Their whole model — the training program, the desk structure, the capital allocation — is built around intraday equity trading. Mike Bellafiore and Steve Spencer's methodology (Stocks In Play, Move2Move vs. Trade2Hold, reading the tape) is intraday by design, and their P&L expectations and risk parameters assume positions are flat or near-flat by the close. They're not going to be a fit for someone whose edge lives on a multi-day horizon.
+
+So yes, realistically you'd be passing on SMB and similar intraday prop shops (T3, Bright, the Chicago/NY proprietary day-trading desks). It's not that swing traders are "not allowed" — it's that the firm has no seat for that style. They don't allocate overnight risk to junior traders, and the entire apprenticeship is structured around skills you'd half-use.
+
+Where swing edges actually get hired:
+
+Systematic/quant funds and pods are the natural home. Multi-day holding is normal there, and your profile — F#/.NET engineering, a validated swing system with honest fill simulation, microstructure depth — maps far better onto a quant developer or quant researcher seat than onto a discretionary day-trading desk. The fact that your day-trading edges died to fees and your swing edge survived realistic fill assumptions is exactly the kind of disciplined result those shops respect.
+
+Smaller systematic prop firms and remote quant-dev roles (the kind you've been finding on crypto/Web3 boards) are also a better channel than the intraday prop world.
+
+One honest caveat: a lot of "swing" systematic seats at pods still expect you to be a researcher/engineer first, with the strategy as evidence of skill rather than the product you're hired to run. Your TapeSim work and microstructure fluency are strong signals for that path regardless of holding period.
+
+If you want, I can look at what current SMB hiring pages actually say about position style and overnight risk, in case their model has shifted — worth confirming rather than assuming.
+
+***
+
+Please do.
+
+***
+
+I'll check what SMB Capital currently says about their model and hiring.The current pages confirm the picture, with one wrinkle worth knowing.
+
+The core model is still intraday. SMB's own description says the desk trades equities, options and futures, and hires discretionary and automated traders. But the trader training program is explicitly described as for new intraday equities traders, and their "how to get hired" guidance is framed entirely around intraday metrics — win rate on a percentage of trading days, intraday max loss guardrails, active in-and-out trading, a PlayBook and Book of Charts of intraday setups. There's no overnight/swing track in any of the trader-facing material.
+
+The wrinkle, and it's relevant to you: they're now running a Junior Quantitative Trading Internship (Summer 2026, NYC/Austin/Miami) that explicitly wants people with a history of developing or attempting to develop quantitative trading strategies, with the Year 1 path being working directly with quantitative teams to develop or enhance intraday systems. So there's a genuine quant-dev flavored entry point — but note the requirement is still attempts to develop intraday, quantitative trading systems, and it's in-person, US-college-student eligible, unpaid. That doesn't fit your situation (Croatia-based, remote, independent) and the holding period is still intraday.
+
+So the conclusion holds, now confirmed rather than assumed: SMB has no swing seat. The whole apparatus — training, P&L expectations, the new quant internship — is built around intraday equities. It's also worth flagging they're now operating partly in a JV with Kershner Trading Group for experienced US equity traders, which is again an intraday prop context.
+
+Net: passing on SMB is the right read for a swing trader, and especially for a remote EU-based one. Your swing edge plus the F#/microstructure/TapeSim profile is a much stronger fit for systematic quant-dev and researcher seats than for any discretionary intraday prop desk, SMB included. The one thing SMB validates is that "attempts to build quantitative trading systems" is now a hiring signal in this corner of the industry — which you have in abundance, just pointed at the wrong holding period for them.
+
+***
+
+...
+
+My head is still a bit fuzzy. I'll have to do a bit of icebreaking tomorrow in order to get back into it properly.
+
+I've been enjoying myself reading Murim's Crazy Bitch for the past few days. It's true that I might have been getting overstressed lately, so maybe having this vacation forced upon me might be good in the long run.
+
+Let me get back to it.

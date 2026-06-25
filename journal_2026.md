@@ -13575,3 +13575,24 @@ You mentioned earlier the diarrhea was getting better, so it sounds like you're 
 That ends the convo with Opus.
 
 I'll resume work on the swing trading system after I stop pissing liquid shit from my anus.
+
+6/25/2026
+
+8:20pm. If I manage to get over my fever tomorrow, I'll try to resume the work. Even if it takes a while, I am going to get the intraday entries down to a science, and begin trading with real money.
+
+I am already feeling better than yesterday so it seems this bout of food poisoning is breaking.
+
+I have to admit, whether it's Lance's or anybody else's, the trading courses I've watched were so weak. In terms of giving me clear trading setups, none of them come even close to the quant work I was doing by myself.
+
+I didn't get good as a programmer by watching generic programming videos, and so it will be the same for trading.
+
+I...didn't fail in 2007 - 2014 due to a simple lack of funds to trade properly. I just lacked the skills to find the quant path to begin with.
+
+The edges I've found in the swing trading systems, first FlowSwing and now HighFlyer are strong and non-trivial.
+
+It seems like I've made a strategic mistake in how I approached my trading path. I had wanted to become a daytrader, but the results I am getting are telling me that has been a mistake. The swing trading edges are so strong and solid, while the daytrading edges just get killed by realistic fill simulations regardless of what I did.
+
+I spent a lot of time, over 6 months of my time studying the wrong things it seems.
+
+But the beauty of this path is that I can correct and do the right thing now that the light of evidence is showing me the direction to move towards.
+

@@ -13649,3 +13649,11 @@ My head is still a bit fuzzy. I'll have to do a bit of icebreaking tomorrow in o
 I've been enjoying myself reading Murim's Crazy Bitch for the past few days. It's true that I might have been getting overstressed lately, so maybe having this vacation forced upon me might be good in the long run.
 
 Let me get back to it.
+
+6/26/2026
+
+12:55pm. Did a little bit of programming today to break the ice. I downloaded all of the 1m data bars that will be needed to test intraday entries.
+
+I also did a little bit of exercise before this, so I'll be aiming to get back into shape starting today. I slept really well tonight, so things are turning for better.
+
+My stool returning to normal should be the signal to resume work more seriously.

@@ -13657,3 +13657,52 @@ Let me get back to it.
 I also did a little bit of exercise before this, so I'll be aiming to get back into shape starting today. I slept really well tonight, so things are turning for better.
 
 My stool returning to normal should be the signal to resume work more seriously.
+
+6/27/2026
+
+6:45am. Both my health and my will is starting to return. Intraday entries aside, I wrote this post on one of Tim's videos yesterday.
+
+https://www.youtube.com/watch?v=P2zfp-9Yg0w
+How to Use Volume for Day Trading
+
+***
+
+In my swing trading quant research, I've found that stocks up 10 - 30% on high rvol at the close are the sweet spot, especially for low floats. In fact, the higher the % gain and rvol the better the EV 5 days out. But past 30% the EV drops off a cliff, and stocks closing up over 50% have negative expected value 5 days out. You don't really need to be a genius to figure out that buying stocks up 300% at the close with the intention of holding them for several days is a dumb idea, but I honestly wouldn't have been able to figure out that 30% was where the actual cliff starts without the use of a computer. As a rough rule of thumb 5% gain in a stock is worth 2 units of rvol on the EV table. 
+
+If there is anything I regret in my past research, it's how I dealt with ORBs. I need to revisit that because the conditions I was testing were maladjusted, I got biased by a previous theory I put a lot of hope in that was proven wrong, and I hadn't even tried the simple criterion of consolidation + price breakout to new highs + volume breakout to new highs + low float. I was overly focused on rvol as a factor specifically, but all that taught me is that most stocks that have high rvol on the day are pretty trashy. It's not enough to just have high relative volume on the day. My swing trading research clearly shows that you have to combine several factors together to get good results and in my previous daytrading research I was overly focused on just intraday price breakouts and rvol without any of the other factors.
+
+My biggest issue as a self-employed quant researcher is that deep down, I have had a limiting belief that I have to do something special rather than the simple to make it as a trader. I've ended up dragging that in from my previous self-employed AI researcher role and it hasn't served me well there either. It feels as if I've spent my whole programming career chasing enlightenment that I could never reach. At least, the effort did make me quite skilled at the mundane and that might yet save me. The positive results I am getting in the swing trading system research are giving me encouragement to keep going.
+
+***
+
+Yeah, it's worth testing breakouts in low float, high flying stocks. Not just any breakouts, but breakouts where the volume on the bar breaks a new high for the day. This is actually very rare, if I think back, even on well trending stocks it's rarely the case that volume ever exceds the volume of the opening bar.
+
+I'll be looking for such exceptional breakouts 10m after the open. Forget the damn opening drives.
+
+Realistically, I just don't have the speed to compete with prop traders on those. Trading orderflow is already very difficult even with 0 latency and brokerage comissions, I can't imagine doing the kind of intraday trading that I was doing with real money either way.
+
+I need a really strong and robust edge. If this fails, I'll put daytrading aside and just focus on intraday entries for the swing trading system. But if it works...
+
+Yeah, it has a good chance of working.
+
+I should do this research. If it works, I can forget about ever applying to jobs again.
+
+I've learned a lot from the swing trading system, I should try adapting what I've learned from it to daytrading.
+
+...
+
+One factor I am yet to account for is float rotation. Tim uses it, and I should be doing so as well. Given how important float is, I should just pay out 50$ to Sharadar to get the needed float data.
+
+`edgartools` served its role well for the proof of concept experiment. I might as well go all the way to make the daytrading work easier.
+
+7pm. I haven't given it my best yet.
+
+That having said, I wish I didn't have to wake up at 5am today, but even though I woke up because of a nightmare I slept quite well.
+
+Ok, let me chill for a while first. Doing all of these quant experiments might take a few weeks, and I just recovered from an illness, so I'll slowly ramp up the physical and the mental activity. I should be removing the burden rather than stacking it on my back. I really, really don't want to apply to jobs, so I'll leave that completely out of mind for a few years. Even just because of the swing trading results, I don't need it anymore.
+
+Doing quant work for myself is hard enough as it is, so why do I need to do work for others on top of that?
+
+There is an infinite amount of work to do in the world, the salaried jobs are going to be there next year and the one after that, so who cares.
+
+But the quant work needs to be done now.

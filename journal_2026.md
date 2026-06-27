@@ -13719,3 +13719,5 @@ These things are far from AGI as useful as they are, so it doesn't really matter
 If the market crashes and the hardware prices get crushed I should take advantage of that by moving to OS models which are closer to bare metal. Right now the hardware prices are very high which makes OS models proportionally more expensive.
 
 Right now the big LLM providers are subsidizing the costs and competing on price, but when the investor money starts to dry that will stop being the case.
+
+8:10am. To begin with the 100$/month subscription is too expensive. I could do with 50$ one, but the large gap is purposely there to have me overpay.

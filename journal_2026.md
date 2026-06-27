@@ -13721,3 +13721,13 @@ If the market crashes and the hardware prices get crushed I should take advantag
 Right now the big LLM providers are subsidizing the costs and competing on price, but when the investor money starts to dry that will stop being the case.
 
 8:10am. To begin with the 100$/month subscription is too expensive. I could do with 50$ one, but the large gap is purposely there to have me overpay.
+
+8:30am. Ok, let me start work. I didn't get enough sleep, but I got enough.
+
+As far as trading research is concerned, I think I am going to bet it all on consolidation breakouts to new highs on record volume.
+
+I need to make those kinds of daytrades work. I have the 1m data to test them and I will get more accurate float data.
+
+Forget intraday entries for the swing trading system for now.
+
+I'll revisit intraday breakouts and try to ground them.

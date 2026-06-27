@@ -13731,3 +13731,5 @@ I need to make those kinds of daytrades work. I have the 1m data to test them an
 Forget intraday entries for the swing trading system for now.
 
 I'll revisit intraday breakouts and try to ground them.
+
+TODO: Reply to Malcolm.

@@ -13695,7 +13695,7 @@ One factor I am yet to account for is float rotation. Tim uses it, and I should 
 
 `edgartools` served its role well for the proof of concept experiment. I might as well go all the way to make the daytrading work easier.
 
-7pm. I haven't given it my best yet.
+7am. I haven't given it my best yet.
 
 That having said, I wish I didn't have to wake up at 5am today, but even though I woke up because of a nightmare I slept quite well.
 
@@ -13706,3 +13706,16 @@ Doing quant work for myself is hard enough as it is, so why do I need to do work
 There is an infinite amount of work to do in the world, the salaried jobs are going to be there next year and the one after that, so who cares.
 
 But the quant work needs to be done now.
+
+7:55am. https://youtu.be/R1jsbfouRQY
+Micron: WTF?
+
+I really should start thinking seriously about running lower cost models than the ones Anthropic's 100$/month subscription gives me. Maybe OS chinese models on OpenRouter would be good enough for me? Given how the hardware prices are acting, it's only a matter of time until the big LLM corpos try to squeeze me. I don't want to end up being dependant on a particular model like Opus. 100$/month is bearable for me now, but suppose I had to pay 200, 300 or 500?
+
+I should definitely make it a rule to look for a substitute 6 months from now. Why 6 months? Because OS models should be as good as Opus 4.8 is right now at that time. If I can pay 20$/month for this level of service, that would be good enough. I can barely tell the difference between 4.5 and 4.8 as it is.
+
+These things are far from AGI as useful as they are, so it doesn't really matter what the minor differences between them end up being. Hell, Claude Code was leaked, so people know it's sauce. OS models will only keep getting better.
+
+If the market crashes and the hardware prices get crushed I should take advantage of that by moving to OS models which are closer to bare metal. Right now the hardware prices are very high which makes OS models proportionally more expensive.
+
+Right now the big LLM providers are subsidizing the costs and competing on price, but when the investor money starts to dry that will stop being the case.

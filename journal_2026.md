@@ -13741,3 +13741,7 @@ TODO: Reply to Malcolm.
 Let me chill for a bit and then I will start. I need to start doing this in a more structured manner, like it really was my job. It feels like I am meandering too much.
 
 I want to change. Fanboying on other people's Youtube channels isn't working for me at all, I am getting 0 replies and it's just wasting my time. I guess I'll just stop doing that and take it as a lesson. The world is telling me to stick to my own business instead of yearning for more.
+
+6:50am. The recent results on the swing trading system are telling me that I am finally starting to find my own path after over a decade of wandering. After over a decade I am starting to attain actual power. To think that simple rules could give me these kinds of benefits. I just have to dig in and see where this path leads.
+
+I couldn't get anywhere with ML or AI, so maybe this will lead me to a resolution. If I go down this path, maybe in the future it will give me what I trully seek.

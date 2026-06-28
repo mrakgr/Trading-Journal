@@ -13733,3 +13733,11 @@ Forget intraday entries for the swing trading system for now.
 I'll revisit intraday breakouts and try to ground them.
 
 TODO: Reply to Malcolm.
+
+6/28/2026
+
+6:40am. Didn't forget to reply yesterday, I'll see how this goes. As for myself, I think I am at the point where I need to start seeing this work as a source of strength. I am not going to do this publicly forever, but if Malcolm is the right sort, I'd like to have him on my team. Thomas isn't really interested in trading unfortunately.
+
+Let me chill for a bit and then I will start. I need to start doing this in a more structured manner, like it really was my job. It feels like I am meandering too much.
+
+I want to change. Fanboying on other people's Youtube channels isn't working for me at all, I am getting 0 replies and it's just wasting my time. I guess I'll just stop doing that and take it as a lesson. The world is telling me to stick to my own business instead of yearning for more.

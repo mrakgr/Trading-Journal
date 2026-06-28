@@ -13744,4 +13744,6 @@ I want to change. Fanboying on other people's Youtube channels isn't working for
 
 6:50am. The recent results on the swing trading system are telling me that I am finally starting to find my own path after over a decade of wandering. After over a decade I am starting to attain actual power. To think that simple rules could give me these kinds of benefits. I just have to dig in and see where this path leads.
 
-I couldn't get anywhere with ML or AI, so maybe this will lead me to a resolution. If I go down this path, maybe in the future it will give me what I trully seek.
+I couldn't get anywhere with ML or AI, so maybe this will lead me to a resolution. If I go down this path, maybe in the future it will give me what I truly seek.
+
+7:25am. Let me get started. This effort today will be my sustenance in the future. Survive, prosper, transcend!

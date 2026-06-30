@@ -13747,3 +13747,11 @@ I want to change. Fanboying on other people's Youtube channels isn't working for
 I couldn't get anywhere with ML or AI, so maybe this will lead me to a resolution. If I go down this path, maybe in the future it will give me what I truly seek.
 
 7:25am. Let me get started. This effort today will be my sustenance in the future. Survive, prosper, transcend!
+
+6/30/2026
+
+7:50am. No reply from Malcolm. I wonder if I'll get one eventually, but 90% of the time in these cases if the email seems remotely difficult to reply to the other party just goes the other way and I never hear from them again. I did give him a lot of homework essentially, but I really do want to find somebody who could be a part of my trading pod in the future rather than somebody I could exchange meaningless emails with.
+
+At any rate, yesterday I was testing out a consolidation breakout system, but found a short selling system. High volume breakouts to new highs from tight consolidations have a strong negative edge it seems.
+
+8:35am. Time to start for the day.

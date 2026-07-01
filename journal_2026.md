@@ -13755,3 +13755,9 @@ I couldn't get anywhere with ML or AI, so maybe this will lead me to a resolutio
 At any rate, yesterday I was testing out a consolidation breakout system, but found a short selling system. High volume breakouts to new highs from tight consolidations have a strong negative edge it seems.
 
 8:35am. Time to start for the day.
+
+7/1/2026
+
+9:35am. Let me read a chapter and then I will start. I am at the point where I should start thinking seriously about trading with real money. After I finish up this batch of experiments it will be time to start thinking how I will setups the screeners and get the news in the most efficient way possible.
+
+Before I start, I should do a yearly breakdown to get a proper sense of what the profitability of the current system is.

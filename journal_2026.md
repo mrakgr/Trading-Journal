@@ -13765,3 +13765,27 @@ Before I start, I should do a yearly breakdown to get a proper sense of what the
 10:20am. ![](images/image-2554.png)
 
 Sigh, how the hell does that entry make sense?
+
+5:20pm.
+
+***
+
+Part of the `Intraday Entries And Mean Reversion In Momentum Stocks` miniseries.
+
+Initially we started out with the idea of studying intraday breakouts in order to find continuation trades, but it very quickly became obvious that fading them is a much better choice, and by the end we create 2 very good intraday mean reversion stock trading systems. At the very high end of the short side, there are SS tier short setups with a profit factor of 18, and just by controling for rvol it's possible to find more frequent S tier setups with a profit factor of 6. But honestly even ignoring the shorts, the long side mean reversion trades on low floats are no slouches either, and besides that we've confirmed that early day entries at 10 ET have an advantage for the momentum trading system.
+
+On low floats specifically, there is a buy-the-morning dip variant of the momentum swing setup that is A+. Too bad in only happens a few times per year on average.
+
+There is so much good quant research packed into these two videos, so if you're interested in trading you should definitely watch them.
+
+Now that we have this many good setups, we're at the point where we can start thinking about trading them with real money. And this going to be the subject of the upcoming videos.
+
+We're going to firmly iron out these systems as we go along. We'll start with the momentum and the mean reversion long systems, and we'll look into how to find good borrows for the short setups. We haven't even touched upon analysing the news and that will be another source of alpha no doubt. These systems could be traded fully automatically, but it wouldn't be wise to aim for that from the start.
+
+With the edges we've built, it does seem perfectly plausible that we could hit 1m in a few years. Compared to how the author behaved in 2007 - 2014 where his spent most of his 20s fruitlessly trying to learn the game of trading my playing it like a game, what you've witnessed in this playlist is real research of the kind that could only be done with the aid of a computer.
+
+The future is looking bright for us.
+
+***
+
+Here is the description for the next pair of videos.

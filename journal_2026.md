@@ -13772,19 +13772,34 @@ Sigh, how the hell does that entry make sense?
 
 Part of the `Intraday Entries And Mean Reversion In Momentum Stocks` miniseries.
 
-Initially we started out with the idea of studying intraday breakouts in order to find continuation trades, but it very quickly became obvious that fading them is a much better choice, and by the end we create 2 very good intraday mean reversion stock trading systems. At the very high end of the short side, there are SS tier short setups with a profit factor of 18, and just by controling for rvol it's possible to find more frequent S tier setups with a profit factor of 6. But honestly even ignoring the shorts, the long side mean reversion trades on low floats are no slouches either, and besides that we've confirmed that early day entries at 10 ET have an advantage for the momentum trading system.
+Initially we started out with the idea of studying intraday breakouts in order to find continuation trades, but it very quickly became obvious that fading them is a much better choice, and by the end we create 2 very good intraday mean reversion stock trading systems. At the very high end of the short side, there are SS tier short setups with a profit factor of 18, and just by controlling for relative volume it's possible to find more frequent S tier setups with a profit factor of 6. But even ignoring the shorts, the long side mean reversion trades on low floats are no slouches, and besides that we've confirmed that early day entries at 10 ET have an advantage for the momentum trading system.
 
 On low floats specifically, there is a buy-the-morning dip variant of the momentum swing setup that is A+. Too bad in only happens a few times per year on average.
 
-There is so much good quant research packed into these two videos, so if you're interested in trading you should definitely watch them.
+There is so much good quant research packed into these two videos, so if you're interested in trading, you should definitely watch them.
 
 Now that we have this many good setups, we're at the point where we can start thinking about trading them with real money. And this going to be the subject of the upcoming videos.
 
-We're going to firmly iron out these systems as we go along. We'll start with the momentum and the mean reversion long systems, and we'll look into how to find good borrows for the short setups. We haven't even touched upon analysing the news and that will be another source of alpha no doubt. These systems could be traded fully automatically, but it wouldn't be wise to aim for that from the start.
+We're going to firmly iron out these systems as we go along. We'll start with the momentum and the mean reversion long systems, and we'll look into how to find good borrows for the short setups. We haven't even touched upon analyzing the news and that will be another source of alpha no doubt. These systems could be traded fully automatically, but it wouldn't be wise to aim for that from the start.
 
 With the edges we've built, it does seem perfectly plausible that we could hit 1m in a few years. Compared to how the author behaved in 2007 - 2014 where his spent most of his 20s fruitlessly trying to learn the game of trading my playing it like a game, what you've witnessed in this playlist is real research of the kind that could only be done with the aid of a computer.
 
 The future is looking bright for us.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/highflyer_v2/docs/highflyer_v2_results.md
+https://github.com/mrakgr/Trading-Edge/blob/highflyer_v2/docs/lowflyer_results.md
+https://github.com/mrakgr/Trading-Edge/blob/highflyer_v2/docs/lowflyer_short_results.md
 
 Music:
 Pandora Journey - REGINA DRACONIS: https://youtu.be/ZpWrLuiryEQ
@@ -13929,3 +13944,4 @@ pwsh script.ps1
 ```
 
 Let me save this script here. Time for beach.
+

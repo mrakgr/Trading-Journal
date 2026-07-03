@@ -13793,6 +13793,7 @@ Veilcore Music - No.253: https://youtu.be/4nhdgzHmWC8
 Violin Vanguard - Gothic Rock & Cinematic Music: https://youtu.be/tr7BTM7q79A
 Violin Vanguard - Beethoven x Paganini x Heavy Metal: https://youtu.be/vpslhPdjY-k
 AISONG - Metal X Violin: https://youtu.be/zrnCBt2q-dY
+Violin Vanguard - Gothic Metal & Epic Symphony: https://youtu.be/GSEDZ_7XGyo
 
 ***
 

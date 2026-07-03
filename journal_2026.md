@@ -13798,3 +13798,134 @@ Violin Vanguard - Gothic Metal & Epic Symphony: https://youtu.be/GSEDZ_7XGyo
 ***
 
 Here is the description for the next pair of videos.
+
+```powershell
+# install this via pip: python -m pip install --force-reinstall https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
+# Also: winget install FFmpeg
+
+$vids = @(
+    # ,@("https://youtu.be/Y_SgzSU-Ok0", "Stone McKnuckle - Raptor - Call of the Shadows (remix)")
+    # ,@("https://youtu.be/QNym1qREggY", "Scarlet Strings - Jan 8, 2026")
+    # ,@("https://youtu.be/pwvdIif7uVU", "Symphony of Blades - Azure Dragon Knight")
+    # ,@("https://youtu.be/KHBlpZvq-Z8", "Veilcore Music - No.162")
+    # ,@("https://youtu.be/AMf1-_gl1HM", "Veilcore Music - No.161")
+    # ,@("https://youtu.be/0EWB9PjMWjE", "KageYume - Harem Fantasy Rock Playlist")
+    # ,@("https://youtu.be/vEQRhSJ3NpI", "KageYume - Boss Gate Awakening")
+    # ,@("https://youtu.be/wxnBzt_V1YQ", "KageYume - Mage Metal Boss Battle Theme")
+    # ,@("https://youtu.be/1iTDPTauNII", "KageYume - Dark Samurai Boss Battle")
+    # ,@("https://youtu.be/m96NR_ntetQ", "KageYume - Violin Bard Playlist")
+    # ,@("https://youtu.be/q_J8aVAkav8", "Veilcore Music - No.163")
+    # ,@("https://youtu.be/EzyzOzwJUd8", "Veilcore Music - No.164")
+    # ,@("https://youtu.be/4z9t1_Egv6c", "Symphony Of Blades - Bloodfire")
+    # ,@("https://youtu.be/dstInCe633o", "Samurai Girl - Samurai Pirates")
+    # ,@("https://youtu.be/TzrAfM4l_5k", "Samurai Girl - Heavy & Steady (Slowtempo Anthems)")
+    # ,@("https://youtu.be/qR3T9kvTdIg", "Veilcore Music - No.177")
+    # ,@("https://youtu.be/aGeIbrLC8Ew", "Veilcore Music - No.179")
+    # ,@("https://youtu.be/bYgawUuh6dI", "Every version of Ontology ~Wailing~ (Kichikuou Rance)")
+    # ,@("https://youtu.be/DDiLxiVlb9Q", "koyuchi -Shamisen Beats- - KAGUTSUCHI")
+    # ,@("https://youtu.be/K_hEM3ZK1zQ", "Samurai Girl - SHAMISEN PIRATE TRAP")
+    # ,@("https://youtu.be/rQT0BA-_mAQ", "Symphony Of Blades - Fallen Prayer")
+    # ,@("https://youtu.be/K_rv8ji416A", "KageYume - Enter Boss Gate Battle")
+    # ,@("https://youtu.be/on4SpJAwkq8", "Symphony Of Blades - RAGNACODE")
+    # ,@("https://youtu.be/8pUzzQut0KE", "Veilcore Music - No.180")
+    # ,@("https://youtu.be/7NrcwvkH7OA", "Veilcore Music - No.182")
+    # ,@("https://youtu.be/KD2NaDySkTE", "Veilcore Music - No.189")
+    # ,@("https://youtu.be/Tb8vfw9VtWE", "KageYume - Dark Lord Generals")
+    # ,@("https://youtu.be/UI_tVk8XgGQ", "EVLSound - Dark Symphonic Cyberpunk Metal")
+    # ,@("https://youtu.be/95n0TFOsv90", "EVLSound - ""Thunder Echo""")
+    # ,@("https://youtu.be/wUgjY5oK8BM", "KageYume - Boss Hunter Rock & Metal")
+    # ,@("https://youtu.be/16z38h6jKQ4", "Veilcore Music - No.194")
+    # ,@("https://youtu.be/ldD0ESPRzN4", "Natural Lo-fi Girl - 【超覚醒】不気味で壮大な和風ロックBGM")
+    # ,@("https://youtu.be/IkYsbk2m-ZA", "Natural Lo-fi Girl - 【和風EDM】脳が覚醒する超集中BGM")
+    # ,@("https://youtu.be/Dv5QD_PAMsI", "Natural Lo-fi Girl - 【和風Playlist】攻撃的な和の重低音BGM")
+    # ,@("https://youtu.be/mgeeeA0EsN4", "Symphony Of Blades - Celestial Oath")
+    # ,@("https://youtu.be/WKtAze2halw", "Soothing sound Mikan - NEONRIFT")
+    # ,@("https://youtu.be/1BlNP3vyrrY", "Veilcore Music - No.200")
+    # ,@("https://youtu.be/80EsBr3bhv0", "World Metal Music Hub Production - CHRONOS MECHANICA")
+    # ,@("https://youtu.be/vJt_AOvcjXE", "World Metal Music Hub Production - JOE SATRIANI TRIBUTE - Surfing with the Alien Soul")
+    # ,@("https://youtu.be/TTD7KnlQ_f4", "KageYume - Rise to Valhalla")
+    # ,@("https://youtu.be/XUaG38tAlNM", "Natural Lo-fi Girl - 【和風EDM】重低音でスイッチON⚡覚醒bgm")
+    # ,@("https://youtu.be/8xWwgP8USuQ", "Symphony Of Blades - Eclipse Executioner")
+    # ,@("https://youtu.be/_FNTEqu6pag", "Veilcore Music - No.203")
+    # ,@("https://youtu.be/KZpE9trhV2o", "KageYume - EMBRACE THE DARKNESS")
+    # ,@("https://youtu.be/CmNKY6ggy1Q", "Veilcore Music - No.212")
+    # ,@("https://youtu.be/c7VjVVwDwNE", "Symphony Of Blades - Dark Crusader")
+    # ,@("https://youtu.be/xqlh3PIIdEM", "Veilcore Music - No.214")
+    # ,@("https://youtu.be/P42ybGglOJM", "Symphony Of Blades - NEUROFANG")
+    # ,@("https://youtu.be/KMN73nzG4wI", "Soothing sound Mikan - Cursebringer")
+    # ,@("https://youtu.be/mWg1f0AeZ8g", "Symphony Of Blades - Celestial Blade")
+    # ,@("https://youtu.be/1qCyO8iMT14", "Veilcore Music - No.215")
+    # ,@("https://youtu.be/xCy9ctpQJNE", "EVLSound - CRUEL HARBOR")
+    # ,@("https://youtu.be/-l7RQ6LviBI", "終末決戦音楽工房 - Valkyrie Mode: Full Throttle")
+    # ,@("https://youtu.be/R1YrB1VZnRE", "KageYume - Battle of the Fallen Kingdom")
+    # ,@("https://youtu.be/qzyHJPgkrVY", "終末決戦音楽工房 - Divine Valkyrie Ignition")
+    # ,@("https://youtu.be/W8h2q_nQ8jY", "World Metal Music Hub Production - VIOLIN VS METAL - The Strength of the Violin VS Guitar")
+    # ,@("https://youtu.be/zAM76zgFUEU", "World Metal Music Hub Production - Instrumental Melodic Rock Music for Relaxing Vol.2")
+    # ,@("https://youtu.be/mL9YWbAZTkg", "EVLSound - DEMOLATE")
+    # ,@("https://youtu.be/3BYPgqbcpb8", "Symphony Of Blades - Mizuchi")
+    # ,@("https://youtu.be/G9GP0ZCNlJA", "KageYume - ARCANE BATTLE")
+    # ,@("https://youtu.be/KtmJKedgbac", "Symphony Of Blades - Obsidian Grace")
+    # ,@("https://youtu.be/ihaF9J5D2ik", "KageYume - MECHA AVALON")
+    # ,@("https://youtu.be/YvGViAyMer8", "KageYume - Campfire of Valhalla")
+    # ,@("https://youtu.be/skDxvlJPW4w", "Symphony Of Blades - Lunar Scythe")
+    # ,@("https://youtu.be/Fhzwo379HBc", "終末決戦音楽工房 - Eclipse Rite")
+    # ,@("https://youtu.be/ZLdiVAltE_o", "Rushblade Tokyo - BLADE OF VENGEANCE")
+    # ,@("https://youtu.be/51v9-AOQ53U", "Rushblade Tokyo - SHADOW OF THE BLADE")
+    # ,@("https://youtu.be/GwgkXvf1Wio", "KageYume - FINAL BOSS AURA FARMING MUSIC")
+    # ,@("https://youtu.be/bD7I1mId1QM", "EVLSound - HEAT RISES")
+    # ,@("https://youtu.be/ZpWrLuiryEQ", "Pandora Journey - REGINA DRACONIS")
+    # ,@("https://youtu.be/40PmqAL0lJU", "OBSIDIAN DOMINION - Blood Harvest")
+    # ,@("https://youtu.be/4nhdgzHmWC8", "Veilcore Music - No.253")
+    # ,@("https://youtu.be/tr7BTM7q79A", "Violin Vanguard - Gothic Rock & Cinematic Music")
+    # ,@("https://youtu.be/vpslhPdjY-k", "Violin Vanguard - Beethoven x Paganini x Heavy Metal")
+    # ,@("https://youtu.be/zrnCBt2q-dY", "AISONG - Metal X Violin")
+    # ,@("https://youtu.be/GSEDZ_7XGyo", "Violin Vanguard - Gothic Metal & Epic Symphony")
+    )
+
+$playlists = @(
+    ,@("https://www.youtube.com/playlist?list=OLAK5uy_nAp8w2FGO41O7jg4t6jqQrn43RVU2OG48", "INFINITE METAL - FINAL BOSS PROTOCOL")
+)
+
+foreach ($vid in $vids) {
+    $url, $name = $vid
+    if (-not (Test-Path screencast/$name.mp4) -and -not (Test-Path screencast/$name.wav)) {
+        yt-dlp -o screencast/$name.mp4 -f b --js-runtimes node --remote-components ejs:github $url --cookies www.youtube.com_cookies.txt
+    }
+    if ((Test-Path screencast/$name.mp4) -and -not (Test-Path screencast/$name.wav)) {
+        ffmpeg -i screencast/$name.mp4 -vn -c:a pcm_s16le screencast/$name.wav
+    }
+    if ((Test-Path screencast/$name.mp4) -and (Test-Path screencast/$name.wav)) {
+        Remove-Item screencast/$name.mp4
+    }
+}
+
+foreach ($playlist in $playlists) {
+    $url, $name = $playlist
+    if (-not (Test-Path $name)) {
+        yt-dlp -o "$name/%(playlist_index)s - %(title)s.%(ext)s" -f b --js-runtimes node --remote-components ejs:github $url --cookies www.youtube.com_cookies.txt
+    }
+    foreach ($file in Get-ChildItem $name -Filter *.mp4) {
+        $wav = [System.IO.Path]::ChangeExtension($file.FullName, ".wav")
+        ffmpeg -i $file.FullName -vn -c:a pcm_s16le $wav
+        if ((Test-Path $file.FullName) -and (Test-Path $wav)) {
+            Remove-Item $file.FullName
+        }
+    }
+}
+
+Write-Host Music:
+foreach ($vid in $vids) {
+    $url, $name = $vid
+    Write-Host ${name}: $url
+}
+foreach ($playlist in $playlists) {
+    $url, $name = $playlist
+    Write-Host ${name}: $url
+}
+
+<#
+pwsh script.ps1
+#>
+```
+
+Let me save this script here. Time for beach.

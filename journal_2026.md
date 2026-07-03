@@ -13761,3 +13761,7 @@ At any rate, yesterday I was testing out a consolidation breakout system, but fo
 9:35am. Let me read a chapter and then I will start. I am at the point where I should start thinking seriously about trading with real money. After I finish up this batch of experiments it will be time to start thinking how I will setups the screeners and get the news in the most efficient way possible.
 
 Before I start, I should do a yearly breakdown to get a proper sense of what the profitability of the current system is.
+
+10:20am. ![](images/image-2554.png)
+
+Sigh, how the hell does that entry make sense?

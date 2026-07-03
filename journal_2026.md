@@ -13786,6 +13786,14 @@ With the edges we've built, it does seem perfectly plausible that we could hit 1
 
 The future is looking bright for us.
 
+Music:
+Pandora Journey - REGINA DRACONIS: https://youtu.be/ZpWrLuiryEQ
+OBSIDIAN DOMINION - Blood Harvest: https://youtu.be/40PmqAL0lJU
+Veilcore Music - No.253: https://youtu.be/4nhdgzHmWC8
+Violin Vanguard - Gothic Rock & Cinematic Music: https://youtu.be/tr7BTM7q79A
+Violin Vanguard - Beethoven x Paganini x Heavy Metal: https://youtu.be/vpslhPdjY-k
+AISONG - Metal X Violin: https://youtu.be/zrnCBt2q-dY
+
 ***
 
 Here is the description for the next pair of videos.

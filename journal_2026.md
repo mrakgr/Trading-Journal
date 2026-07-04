@@ -13963,3 +13963,9 @@ The shorting strategy that I've developed is unbelievably good, and none of the 
 Depending on the setup, the profit factor can range anywhere from 6 to 18.
 
 As long as the fees and the forced buyins don't mess it up, I'll be able to make very consistent profits using it. I wish I could say the profits would be large, but the trouble is that the individual losses can be extreme, so I'll have to size down and aim for consistency.
+
+9:35pm. I guess I'll be losing some programming time to go to the beach now that my relatives are here, but it's fine. Today the research agents spent all my session tokens and I had to throttle it.
+
+Tomorrow I am going to put a dent in it. Right now I don't have the VWAP info in the 1m bar data unfortunately so I can't test SMB's strategy, but either way, I don't really believe in it.
+
+Real edge in the market comes from extremes and nuance. A strategy that buys VWAP crosses is unlikely to work. I need strategies that are robust.

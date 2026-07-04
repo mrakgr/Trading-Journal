@@ -13945,3 +13945,21 @@ pwsh script.ps1
 
 Let me save this script here. Time for beach.
 
+7/4/2026
+
+9:10pm. ![](images/image-2555.png)
+
+I suppose it might be worth trying out the 9 EMA/VWAP cross strategy from SMB's latest video.
+
+https://youtu.be/zm4ehSDIr0k
+The Accuracy AND Big Winners Combo Strategy
+
+During my time at the beach, I've had time to think about what I want to do next, and I think I want to try making a mean reversion swing trading system next.
+
+Today I've applied to open a Clear Street account. Clear Street owns Centerpoint and has an API that I could use to trade programatically. It's a prime broker for Centerpoint which is known to be best in class when it comes to short locates. So having a broker like it which has great locates and a trading API is ideal for my LowFlyer short strategy.
+
+The shorting strategy that I've developed is unbelievably good, and none of the other strategies come even close now.
+
+Depending on the setup, the profit factor can range anywhere from 6 to 18.
+
+As long as the fees and the forced buyins don't mess it up, I'll be able to make very consistent profits using it. I wish I could say the profits would be large, but the trouble is that the individual losses can be extreme, so I'll have to size down and aim for consistency.

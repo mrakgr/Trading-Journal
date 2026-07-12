@@ -13969,3 +13969,19 @@ As long as the fees and the forced buyins don't mess it up, I'll be able to make
 Tomorrow I am going to put a dent in it. Right now I don't have the VWAP info in the 1m bar data unfortunately so I can't test SMB's strategy, but either way, I don't really believe in it.
 
 Real edge in the market comes from extremes and nuance. A strategy that buys VWAP crosses is unlikely to work. I need strategies that are robust.
+
+7/12/2026
+
+8:45pm. ![](images/image-2556.png)
+
+Haven't updated the journal in a while. Scratch what I wrote in the last entry, the Vwap reclaim strategy is incredibly good.
+
+Link: https://github.com/mrakgr/Trading-Edge/blob/dip-rider-v4/docs/vwap_reclaim_results.md
+
+At this point I have 6 strategies in stocks that can each make 100% per year, and 1 in crypto. I am still in the refinement process, but my skills right now are at an incredible level compared to the 2007 - 2014 period. Honestly, I just have to get through this stage and I'll go live and start making money.
+
+And this is a really good time to start too, it seems a bubble really is brewing.
+
+https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/1h-2026-market-structure-flows/
+
+I just came back from the beach so let me take that bath.

@@ -14010,7 +14010,7 @@ Well...leave a comment, like and subscribe. You'll never find anybody crazy enou
 
 The main lesson of this playlist seems to be is that hand crafting features is awesome, and that making generative models and trying to use complex machine learning models is for suckers.
 
-It's incredibly eye opening that after trying to make significantly more complex approaches work, that the simplest kind of rules based systems can have such a significant edge. We didn't expect it at all. This kind of success fill profoundly affect us as programmers.
+It's incredibly eye opening that after trying to make significantly more complex approaches work, that the simplest kind of rules based systems can have such a significant edge. We didn't expect it at all. This kind of success will profoundly affect us as programmers.
 
 ---
 

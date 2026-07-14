@@ -13985,3 +13985,11 @@ And this is a really good time to start too, it seems a bubble really is brewing
 https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/1h-2026-market-structure-flows/
 
 I just came back from the beach so let me take that bath.
+
+7/14/2026
+
+1:10pm.
+
+> One of the first maxims in the actual Art of War is that the victor wins before going to war, while the defeated first goes to war, then tries to win it.
+
+Let me get back to work on the opening drive system.

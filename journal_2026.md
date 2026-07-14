@@ -13993,3 +13993,60 @@ I just came back from the beach so let me take that bath.
 > One of the first maxims in the actual Art of War is that the victor wins before going to war, while the defeated first goes to war, then tries to win it.
 
 Let me get back to work on the opening drive system.
+
+6:10pm. Time to get these clips out.
+
+***
+
+Part of the `Trading Intraday Momentum, Breakouts And Vwap Reclaims In Stocks` miniseries.
+
+Despite what the title says, we also tried a mean reversion swing long system without much success. But as for the rest, we were quite successful indeed. We started out by trying to quantify the SMB Capital's Fashionably Late (Vwap Reclaim) pattern. It was a bit tough at the start, but we didn't give up and managed to successfully turn it into a >3 PF system. Afterwards it snowballed from there and we also quantified Backsides (breakouts) and the Rubberband (parabolic mean reversal) patterns with significant success. As for Hitchhikers, we cover that as a part of the opening drive system towards the end of the series. That brings our tally of intraday stock market trading systems to 5, and we have 1 swing long system. Each of them have high profit factors and consistency.
+
+You can find the research summaries in the docs.
+
+We came quite a long way since the ORB days haven't we? There is still work left to be done on these systems, but at this point we really need to get started with the live scanners, and work on productionizing these research samples. The author in particular also needs make that passport in order to open an account with Clear Street. Clear Street is the prime broker for Centerpoint which is renowned for their short locate desk. Out of all of our systems, the parabolic short one is the best, and it never had a losing month in the last 6.5 years, so it's worth putting in the effort to get it trading live.
+
+Well...leave a comment, like and subscribe. You'll never find anybody crazy enough to post this kind of work live, so if it gives you an edge in trading, you know who to thank. The worst thing that could happen to us if this series becomes popular, so maybe it's better if you don't. It can be just our little secret. Shhhh...
+
+The main lesson of this playlist seems to be is that hand crafting features is awesome, and that making generative models and trying to use complex machine learning models is for suckers.
+
+It's incredibly eye opening that after trying to make significantly more complex approaches work, that the simplest kind of rules based systems can have such a significant edge. We didn't expect it at all. This kind of success fill profoundly affect us as programmers.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/vwap_reclaim_v3_results.md
+https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/diprider_v4_results.md
+https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/opening_driver_v2_results.md
+https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/maxflyerv3_results.md
+https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/lowflyer_results.md
+https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/highflyer_v2_results.md
+
+Music:
+EVLSound - Final Judgment: https://youtu.be/iYyF39p_DDE
+FantaSy Celtic BGM - 記憶の中で: https://youtu.be/VfTCwD-Ij0g
+FantaSy Celtic BGM - 覚醒: https://youtu.be/frTSJLJyYlI
+Veilcore Music - No.266: https://youtu.be/uJll3x-kfOQ
+FantaSy Celtic BGM - 宙船｜銀河を巡る幻想ケルト: https://youtu.be/GsA04T22TjI
+Violin Vanguard - Baroque Inspired by Paganini x Heavy Metal: https://youtu.be/6KlIawtswHU
+INFINITE METAL - FINAL BOSS PROTOCOL: https://www.youtube.com/playlist?list=OLAK5uy_nAp8w2FGO41O7jg4t6jqQrn43RVU2OG48
+INFINITE METAL - CYBER METAL I: https://www.youtube.com/playlist?list=OLAK5uy_mc1gimEFj90txG2e12Qh0o46YgK1hIrAI
+INFINITE METAL - WHEN YOU WERE HERE: https://www.youtube.com/playlist?list=OLAK5uy_kQTVvZKh8nZ_m3rmd_iQETXOmvmWgyCOk
+INFINITE METAL - SHONEN ASCENSION: https://www.youtube.com/playlist?list=OLAK5uy_l2Omi66jW43wBrIxo1xcVVdLmY7kJc9xA
+INFINITE METAL - DIVINE CODEX: https://www.youtube.com/playlist?list=OLAK5uy_kGkKkrOSC2sJ_OkYZubUE-urOuud6k69c
+INFINITE METAL - ASCENSION PROTOCOL: https://www.youtube.com/playlist?list=OLAK5uy_m8oNlQJX_K6kx3LpAJ5n78li7JrR-v7VE
+INFINITE METAL - QUANTUM FRACTURE: https://www.youtube.com/playlist?list=OLAK5uy_lzKUTqWN6PhNGvIgKIGGeZTJr7HyryyYA
+INFINITE METAL - MELODIC DOMINION: https://www.youtube.com/playlist?list=OLAK5uy_m8DL7QhXb7BQU7gSW9LmRVhwVK7FpMDgU
+INFINITE METAL - ETERNAL COLLAPSE: https://www.youtube.com/playlist?list=OLAK5uy_lrmmL3XkwtT9nCaPHcHeJfndcgembqHt0
+
+***
+
+7:05pm. Let me go to the beach. The vids are rendering in the background.

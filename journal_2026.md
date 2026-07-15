@@ -14000,17 +14000,17 @@ Let me get back to work on the opening drive system.
 
 Part of the `Trading Intraday Momentum, Breakouts And Vwap Reclaims In Stocks` miniseries.
 
-Despite what the title says, we also tried a mean reversion swing long system without much success. But as for the rest, we were quite successful indeed. We started out by trying to quantify the SMB Capital's Fashionably Late (Vwap Reclaim) pattern. It was a bit tough at the start, but we didn't give up and managed to successfully turn it into a >3 PF system. Afterwards it snowballed from there and we also quantified Backsides (breakouts) and the Rubberband (parabolic mean reversal) patterns with significant success. As for Hitchhikers, we cover that as a part of the opening drive system towards the end of the series. That brings our tally of intraday stock market trading systems to 5, and we have 1 swing long system. Each of them have high profit factors and consistency.
+Despite what the title says, we also tried a mean reversion swing long system without much success. But as for the rest, we were quite successful indeed. We started out by trying to quantify SMB Capital's Fashionably Late (Vwap Reclaim) pattern. It was a bit tough at the start, but we didn't give up and managed to successfully turn it into a >3 PF system. Afterwards it snowballed from there, and we also quantified the Backsides (breakouts) and Rubberband (parabolic mean reversal) patterns with significant success. As for Hitchhikers, we cover that as part of the opening drive system towards the end of the series. That brings our tally of intraday stock market trading systems to 5, and we have a swing long system in addition to that. Each of them has a high profit factor and consistency.
 
-You can find the research summaries in the docs.
+You can find the research summary in the docs.
 
-We came quite a long way since the ORB days haven't we? There is still work left to be done on these systems, but at this point we really need to get started with the live scanners, and work on productionizing these research samples. The author in particular also needs make that passport in order to open an account with Clear Street. Clear Street is the prime broker for Centerpoint which is renowned for their short locate desk. Out of all of our systems, the parabolic short one is the best, and it never had a losing month in the last 6.5 years, so it's worth putting in the effort to get it trading live.
+We've come quite a long way since the ORB days, haven't we? There's still work left to be done on these systems, but at this point we really need to get started with the live scanners and work on productionizing these research samples. The author in particular also needs to make that passport in order to open an account with Clear Street. Clear Street is the prime broker for Centerpoint, which is renowned for its short locate desk. Out of all of our systems, the parabolic short one is the best, and it hasn't had a losing month in the last 6.5 years, so it's worth putting in the effort to get it trading live.
 
-Well...leave a comment, like and subscribe. You'll never find anybody crazy enough to post this kind of work live, so if it gives you an edge in trading, you know who to thank. The worst thing that could happen to us if this series becomes popular, so maybe it's better if you don't. It can be just our little secret. Shhhh...
+Well... leave a comment, like and subscribe. You'll never find anybody crazy enough to post this kind of work live, so if it gives you an edge in trading, you know who to thank. The worst thing that could happen to us is if this series becomes popular, so maybe it's better if you don't. It can be just our little secret. Shhhh...
 
-The main lesson of this playlist seems to be is that hand crafting features is awesome, and that making generative models and trying to use complex machine learning models is for suckers.
+The main lesson of this playlist seems to be that hand crafting features is awesome, and that making generative models and trying to use complex machine learning models is for suckers.
 
-It's incredibly eye opening that after trying to make significantly more complex approaches work, that the simplest kind of rules based systems can have such a significant edge. We didn't expect it at all. This kind of success will profoundly affect us as programmers.
+It's incredibly eye opening that after trying to make significantly more complex approaches work, the simplest kind of rules based systems can have such a significant edge. We didn't expect it at all. This kind of success will profoundly affect us as programmers.
 
 ---
 
@@ -14023,12 +14023,7 @@ Code:
 Trading Edge: https://github.com/mrakgr/Trading-Edge
 
 Docs:
-https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/vwap_reclaim_v3_results.md
-https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/diprider_v4_results.md
-https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/opening_driver_v2_results.md
-https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/maxflyerv3_results.md
-https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/lowflyer_results.md
-https://github.com/mrakgr/Trading-Edge/blob/opening-driver/docs/highflyer_v2_results.md
+https://github.com/mrakgr/Trading-Edge/blob/research_summary_july_2026/docs/systems_showcase.md
 
 Music:
 EVLSound - Final Judgment: https://youtu.be/iYyF39p_DDE
@@ -14050,3 +14045,84 @@ INFINITE METAL - ETERNAL COLLAPSE: https://www.youtube.com/playlist?list=OLAK5uy
 ***
 
 7:05pm. Let me go to the beach. The vids are rendering in the background.
+
+7/15/2026
+
+1:05pm. I wrote an email to Jeff Holden, here it is. It's a good summary of my work, so I am putting it here in the journal.
+
+***
+
+Hello Jeff. 
+
+Since you've given me a lot of these patterns for free in the scalp workshop, I wanted to show you my results in quantifying them. Link: https://github.com/mrakgr/Trading-Edge/blob/research_summary_july_2026/docs/systems_showcase.md
+
+The **VwapReclaimV2** system from the document was an attempt to quantify the **Fashionably Late** pattern, and it was quite successful.
+
+Initially I couldn't get a positive result with it, but as I kept playing with stops and targets it turned positive, and then I made the pull back specific features like updn - volume above 9 EMA divided by volume below 9 EMA, max distance between the 9 EMA from the VWAP, and also that distance divided by ATR %. Depending on the configuration setups with profit factor from 2 to 4 emerged, quite amazing. I've tried the same pullback features like up/down volume in different contexts, but they were useless there, which proves that this really is a very unique setup. The exact entry and exit criteria you've given in the scalp workshop don't work, and as far as I can tell neither does it work on the short side, but it gives very good A+ trades when the conditions align.
+
+The **DipRiderV4 system** started out as a volume-based momentum system, and later I merged the ideas from a separate breakout system into it, and when eventually I was dealing with the arming and disarming the system I realized that I could follow a sequence of taking breakout only if the system has made a prior 20m low. There is a timer of 10 bars on the breakouts during which the system waits for volume to accelerate and if it doesn't happen in that timeframe, the system disarms, only to rearm on a subsequent 20m low and waits for a breakout again. This pattern of re-arming on new lows and then waiting for a breakout is the **Back$ide** pattern as far as I can tell.
+
+Interesting finding from this system is that for session high breakouts, the volume acceleration has to be really significant, like 3x before the profit factor starts to improve, but with 20m breakouts the volume improvement effect starts right away. Breakouts happening in the last 10 bars improve the profit factor after which the effect starts to decay.
+
+The profit factor improves significantly when the stock is close to or above VWAP, I wouldn't buy below it. 
+
+There is a tradeoff in using the volume pattern as a gate or a skip filter, the latter improves the profit factor, but gating is better on net and trade count.
+
+Using the session low for resets vs the 20m low is marginally better in terms of profit factor, but not worth the loss of net profit.
+
+The **OpeningDriverV2** system implements part of the **Hitchhiker** pattern. A while ago I tried testing intraday consolidation breakouts on Binance perpetual futures and the results were poor, so I passed on that pattern in stocks, but it's very much true that a small dip or delay from the open improves the profit factor. Instead of getting in at 9:15 ET when the volume confirms the stock as being in play, waiting for a 9 EMA downtick (the system waits for the 9 EMA to fail to make a new high) lifts the PF by 0.5. The A+ cell during the [9:45,10) period is when 9 EMA is 3% above the lows, but below VWAP. Those trades have a profit factor of 5 vs 2.8 for those above VWAP. The effect has been robust every year for the last 6.5 years. Some features aren't; a rising volume slope for example works better than a falling volume slope one year and worse the next.
+
+You said in one of your videos that true strength off the open doesn't just go straight up, but builds, and that part is completely true based on my quant work. It going down, clearing the overhang and reversing is the best in fact.
+
+Looking for A+ setups in these opening drives really gives up a lot of net. The production system has ~1m, but if we entered every stock in play regardless of any other factor at 15m, the final net (excluding fees) would be 50m. As a solo trader with a small account it might make more sense for me to go for the best setups, but a large firm might want to play all of them to extract the most value.
+
+The **MaxFlyerV3** implements the **Rubberband** pattern on parabolic shorts. I've used the 9 EMA downtick as an entry signal, and probably should try the 3 bar breakout instead, but haven't gotten around to it yet.
+
+The system started out as a frontside breakout short, and I had to figure out how to introduce stops to it without hurting the performance. The problem with previous versions of the system that used no stops is that they had huge single day losses of 800%, and with stops I managed to bring that down to 100-150%.
+
+One thing about the Rubberband pattern that you were absolutely right about is that it requires max 2 re-entries. It depends on the stop buffer, but in general, I could see in the results themselves that the profit factor on the 3rd re-entry collapses to 1, so whatever edge the original setup had is long gone by that time.
+
+After figuring out how to take these shorts on the backside, it also gave me a clue how to do it on the frontside as well.
+
+While it's true that the 9 EMA downtick shorts have an edge, when I tried buying into the highs and selling on the downside I saw that it lost 630k net.
+
+So the proper way to handle parabolic shorts is to actually go short on the frontside - into the new highs directly, and then to put in a stop once the 9 EMA downtick happens. That gives an occasional 150% loss, but it's still a great trade overall.
+
+The short system is the best out of all of them, so I am going to have to put in some effort into opening an account with a short specialist broker to get borrows for the setup. I have 0 idea whether borrow fees or forced buying will kill the edge once I go live with it.
+
+The other two systems: LowFlyer and HighFlyerV2 don't implement any of the scalp patterns from SMB. I am going to try implementing the Rubberband pattern on LowFlyer since it's a mean reversion long system that buys into new session lows on the frontside, but given that longs have bounded losses of -100% it's not as urgent for me. I'll take care of it when I move to productionize it. 
+
+HighFlyerV2 is a refinement of Pradeep Bonde's momentum burst pattern, but unlike how he teaches it, it really does help for the stock to clear a 52 week high, and the absolute price % change and rvol do matter greatly. The importance of absolute % change and low float is something that Tim and Garrett missed as well in a video they made 3 months ago.
+
+At any rate, I hope you find this useful. I have no idea whether you already know all of this or not.
+
+If you've liked this, maybe that can be a plus when I apply to SMB in the future. I haven't actually traded these systems live yet, and need to work on live scanners for these patterns next, and then I'll integrate them with my IBKR account.
+
+I haven't cleared the 100 trades in 2 months requirement just yet, so don't consider this my official application.
+
+There is also a matter of fit. Before creating these systems, I tried learning tape reading and as a prelude to that I made [TapeSim](https://tapesim.app/) so I could do the practice properly. I played with it for a couple of days, but even though I noticed some patterns that might be worth quantifying later, I got bored of it relatively quickly and moved on to quant work, the results of which you see showcased here. I spent longer making TapeSim than actually using it, lol.
+
+The results of this research are very eye opening to me. I started out this trading journey a couple of months ago, and I tried much more sophisticated approaches and they didn't go anywhere. I didn't think that simple rules like the ones these systems have would really work, so I really saved the best for last it seems.
+
+I really enjoyed this kind of research work of trying out different features and being surprised at how great they worked.
+
+I am an expert programmer rather than a trader, so I am not sure I'd like a job that has me looking at prices moving across the screen the entire day, but given the results of this research run it doesn't seem like I'll have to do that either way.
+
+Take care,
+Marko Grdinić
+
+***
+
+Now let me post the videos from yesterday online.
+
+1:15pm. Got a reply super quickly from Jeff.
+
+> Thank you Marko! 
+> Yes, it’s amazing how much simple rules outperform complex ones at times. 
+> Nice modifications on the trades. I’d like to see you try to trade these and see how your experience is. Let’s please keep in touch. 
+
+A part of is dissappointed that he wasn't more impressed by this research, but he is a pretty busy man. Ok, since nothing immediatelly changed I'll go forward with the plan then.
+
+Let's make that million.
+
+Let me post the vids on Youtube.

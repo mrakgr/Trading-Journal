@@ -14126,3 +14126,15 @@ A part of is dissappointed that he wasn't more impressed by this research, but h
 Let's make that million.
 
 Let me post the vids on Youtube.
+
+7/17/2026
+
+10:45am. I am dead. The great results I've been getting for the 3 momentum systems are all lookahead bias. The ADV calculation pushed the big rvol days into the usable universe and that ended up biasing the results drastically.
+
+I feel really fatigued and don't feel like programming right now. I need a break for a few days after a blow like this. Most of my playbook is ruined right now.
+
+To think I was starting to imagine myself as the next market wizard 2 days ago.
+
+But I still have 2 good systems that work, so I maybe I could make a living using those?
+
+12:50pm. You know, this might be a good time to maybe stockpile the wood into the sheed and get some exercise in the morning. I'll do that starting tomorrow.

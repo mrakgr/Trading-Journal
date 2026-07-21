@@ -14138,3 +14138,27 @@ To think I was starting to imagine myself as the next market wizard 2 days ago.
 But I still have 2 good systems that work, so I maybe I could make a living using those?
 
 12:50pm. You know, this might be a good time to maybe stockpile the wood into the sheed and get some exercise in the morning. I'll do that starting tomorrow.
+
+7/21/2026
+
+9:30pm. 
+
+https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/
+AI Didn't Make Programming Easier. It Just Made It Differently Difficult 
+
+https://news.ycombinator.com/item?id=48996197
+
+I haven't written in the journal for a while. I have 2 good new systems to replace the lost ones:
+
+https://github.com/mrakgr/Trading-Edge/blob/momentum-1s-bars/docs/maxrider_v1_results.md
+https://github.com/mrakgr/Trading-Edge/blob/momentum-1s-bars/docs/diprider_v6_results.md
+
+And I am working on a momentum scalp system. Just found a better volatility estimator today. It turns out the 30s realized volatility over bar vwap using a 20m EWMA beats everything else.
+
+https://github.com/mrakgr/Trading-Edge/blob/momentum-1s-bars/docs/surgerider_results.md
+
+This discovery allowed me to drastically cut down on the columns I need to use in the 1s bars.
+
+I really want at least 1 intraday momentum system, so we'll see where this goes.
+
+I am starting to get over my setback.

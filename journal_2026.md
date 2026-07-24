@@ -14162,3 +14162,7 @@ This discovery allowed me to drastically cut down on the columns I need to use i
 I really want at least 1 intraday momentum system, so we'll see where this goes.
 
 I am starting to get over my setback.
+
+7/24/2026
+
+8:10am. Wow, I never thought it would happen, but I got my first TapeSim Premium subscriber. Maybe he's just trying out the trial? Either way it's fine. Glad somebody is giving it a try.

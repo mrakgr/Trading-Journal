@@ -14166,3 +14166,11 @@ I am starting to get over my setback.
 7/24/2026
 
 8:10am. Wow, I never thought it would happen, but I got my first TapeSim Premium subscriber. Maybe he's just trying out the trial? Either way it's fine. Glad somebody is giving it a try.
+
+7/25/2026
+
+3:25pm. Thank god, I am finally done with the winter prep. That is enough stacking wood for one summer. The next one can wait.
+
+https://youtu.be/9SgNXrWTefY
+Which Charts Are Worth Trading? (Technical Analysis Test)
+

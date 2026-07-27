@@ -14182,13 +14182,13 @@ Which Charts Are Worth Trading? (Technical Analysis Test)
 
 Part of the `Intraday Momentum And Mean Reversion Redux` miniseries.
 
-After the huge blow in the last series where it turned out that the great results we were getting for the main 3 systems were a result of a lookahead in the average daily volume calculation, we applied ourselves and came up with new systems. We came up with 2 new mean reversion systems that had short 5/7m exits instead of doing intraday swing holds to the close, and in addition to those, we made an attempt at creating proper momentum trading systems.
+After the huge blow in the last series, where it turned out that the great results we were getting for the main 3 systems were a result of a lookahead in the average daily volume calculation, we applied ourselves and came up with new systems. We built 2 new mean reversion systems that had short 5/7m exits instead of intraday swing holds to the close, and in addition to those, we made an attempt at creating proper momentum trading systems.
 
-The mean reversion systems were a complete success and in the next session we're going to adapt them to 1s bars, but the momentum ones while good are mid tier.
+The mean reversion systems were a complete success, and in the next session we're going to adapt them to 1s bars, but the momentum ones, while good, are mid tier.
 
-They are profitable, but they either work on sub-$2 stocks where their edge would get completely eaten by fees, or on >= $2 stocks they are incredibly top heavy. Their returns are highly concentrated into top days and months, and I'd rather not deal with their negative per trade medians in real life, but regardless, they have high profit factors so go ahead and take a look if you're interested. We came up with some new features that weren't there in the two 1m mean reversion systems.
+They are profitable. Where they work best is sub-$2 wreckage, where their edge would get completely eaten by fees, while on >= $2 stocks they are incredibly top-heavy. Their returns are highly concentrated in top days and months, and we'd rather not deal with their negative per-trade medians in real life, but regardless, they have high profit factors, so go ahead and take a look at the research documents if you're interested. We came up with some new features that weren't there in the two 1m mean reversion systems.
 
-So far, all the best performing trading systems, and not just in stocks, that retained their robustness and high profit factors were mean reversion systems. The tradition started with FlowSwing in crypto and carried through to intraday trading in the stock market. The swing momentum system on the dailies is the sole exception.
+So far, all the best-performing trading systems that retained their robustness and high profit factors — and not just in stocks — were mean reversion systems. The tradition started with FlowSwing in crypto and carried through to intraday trading in the stock market. The swing momentum system on the dailies is the sole exception.
 
 Mean reversion simply works incredibly well in the financial markets, and nothing that we could find comes close to the edges that the mean reversion patterns give.
 
@@ -14196,7 +14196,7 @@ Cut your losses and let your winners run?
 
 No, it's buy low and sell high, and sell high and buy low! That should be our job as traders. We don't need stops. We need targets!
 
-High winrates and medians that the mean reversion systems have don't lie.
+The high win rates and medians of the mean reversion systems don't lie.
 
 The data is telling us to trade one way, and the trading education establishment is telling us another.
 

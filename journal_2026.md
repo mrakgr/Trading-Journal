@@ -14174,3 +14174,58 @@ I am starting to get over my setback.
 https://youtu.be/9SgNXrWTefY
 Which Charts Are Worth Trading? (Technical Analysis Test)
 
+7/27/2026
+
+3pm. 
+
+***
+
+Part of the `Intraday Momentum And Mean Reversion Redux` miniseries.
+
+After the huge blow in the last series where it turned out that the great results we were getting for the main 3 systems were a result of a lookahead in the average daily volume calculation, we applied ourselves and came up with new systems. We came up with 2 new mean reversion systems that had short 5/7m exits instead of doing intraday swing holds to the close, and in addition to those, we made an attempt at creating proper momentum trading systems.
+
+The mean reversion systems were a complete success and in the next session we're going to adapt them to 1s bars, but the momentum ones while good are mid tier.
+
+They are profitable, but they either work on sub-$2 stocks where their edge would get completely eaten by fees, or on >= $2 stocks they are incredibly top heavy. Their returns are highly concentrated into top days and months, and I'd rather not deal with their negative per trade medians in real life, but regardless, they have high profit factors so go ahead and take a look if you're interested. We came up with some new features that weren't there in the two 1m mean reversion systems.
+
+So far, all the best performing trading systems, and not just in stocks, that retained their robustness and high profit factors were mean reversion systems. The tradition started with FlowSwing in crypto and carried through to intraday trading in the stock market. The swing momentum system on the dailies is the sole exception.
+
+Mean reversion simply works incredibly well in the financial markets, and nothing that we could find comes close to the edges that the mean reversion patterns give.
+
+Cut your losses and let your winners run?
+
+No, it's buy low and sell high, and sell high and buy low! That should be our job as traders. We don't need stops. We need targets!
+
+High winrates and medians that the mean reversion systems have don't lie.
+
+The data is telling us to trade one way, and the trading education establishment is telling us another.
+
+We'll go with the data.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/plunge-rider/docs/diprider_v6_results.md
+https://github.com/mrakgr/Trading-Edge/blob/plunge-rider/docs/maxrider_v1_results.md
+https://github.com/mrakgr/Trading-Edge/blob/plunge-rider/docs/surgerider_results.md
+https://github.com/mrakgr/Trading-Edge/blob/plunge-rider/docs/plungerider_results.md
+https://github.com/mrakgr/Trading-Edge/blob/plunge-rider/docs/surgerider_v2_results.md
+
+Music:
+INFINITE METAL - VIOLIN METAL I: https://www.youtube.com/playlist?list=OLAK5uy_lJjRcipOnEL0_xVDsNQUbhSnAF9wVsQjk
+FantaSy Celtic BGM - 対決: https://youtu.be/jV_YPmtvZqQ
+EVLSound - False Moon: https://youtu.be/nZyoStJCMvs
+Veilcore Music - No.271: https://youtu.be/KeFTtxAJXko
+Soothing sound Mikan - Bulwark: https://youtu.be/adTkseeyQZ0
+Violin Frequency - Beethoven Unleashed in Melodic Techno 2026: https://youtu.be/Aug0wcnFkaA
+FantaSy Celtic BGM - 魔法図書館の夜: https://youtu.be/CDK3qVd6rTM
+
+***

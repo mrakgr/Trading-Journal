@@ -14229,3 +14229,47 @@ Violin Frequency - Beethoven Unleashed in Melodic Techno 2026: https://youtu.be/
 FantaSy Celtic BGM - 魔法図書館の夜: https://youtu.be/CDK3qVd6rTM
 
 ***
+
+8/6/2026
+
+4:15pm.
+
+***
+
+Part of the `Long Mean Reversion On 1s Bars` miniseries.
+
+All of our previous research strongly points to mean reversion as a significant source of intraday edge. Intraday momentum has a lottery-ticket profile, but mean reversion is where the true edge and consistency lie, so we decided to finally pursue it seriously and built a system that trades it off 1-second bars.
+
+It's been a long journey, but we now finally have a system that we intend to trade with real money.
+
+As before, there have been a few lookahead bug situations, but once fixed, none of them ended up killing the system the way they killed the momentum ones.
+
+Given the large profit factors across the different tiers of the system, the results do feel a bit too good to be true, but we cannot change anything at this point — all that remains is to give it a try live and see how it goes. We did the work the best we could, and it's time to start the trading business.
+
+In the next series we'll begin work on live scanners and API integration with Interactive Brokers. We'll see you there.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/flush-fader/docs/flushfader_results.md
+
+Music:
+Violin Frequency - Paganini Unleashed in Melodic Techno 2026: https://youtu.be/iCe2FDR1BwE
+Violin Frequency - Haydn Reborn in Melodic Techno 2026: https://youtu.be/gemB1AI_QS0
+Veilcore Music - No.287: https://youtu.be/-ae1-YjYg5s
+FantaSy Celtic BGM - 水聖の魔女: https://youtu.be/SqsHFW5sT1o
+Samurai Girl - Blazing War Anthems: https://youtu.be/vPnB-Ef1a7s
+Samurai Girl - Wanted for Stealing Your Heart: https://youtu.be/k_EdWXAAM9M
+FantaSy Celtic BGM - 白銀の刃: https://youtu.be/z_X_s5W4Zco
+FantaSy Celtic BGM - 紅蓮の旋律: https://youtu.be/WDjodlUHTfY
+Veilcore Music - No.290: https://youtu.be/n4sGezDoufY
+
+***

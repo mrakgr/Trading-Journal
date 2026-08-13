@@ -14298,3 +14298,12 @@ The most important course in trading! Money Management Lesson by QTE (Quant Trad
 
 This is an amazing video on bet sizing. Even has a setup during the past 5 minutes of the day that is tradable.
 
+8:20pm. After some thought I realized that 20% profit would be equivalent to 0.2 factor after some time. But honestly it wouldn't be bad to try it out like that either way.
+
+But damn, I sent an email to the account rep in the morning and still haven't gotten an answer. Maybe I should start the opening procedure at Lightspeed and Speedtrader?
+
+...Just forget it. I'll focus on the SpikeFader system for the next week. But I do not have much patience. It's reasonable to send one email per day during workdays to keep the process flowing, but if after the next week's Friday I still haven't made progress on getting the FIX API from Cobra I am moving on to Ligthspeed, Speedtrader and Velocity. In the worst case, I have TradeZero to fall back on.
+
+8:30pm. Yeah, fuck it. Who cares about a few weeks here and there. I might as well take the opportunity to get the rest of the systems in order.
+
+My fault is that once I set my mind on something, I want to get it done right away. As much as the waiting is eating away at me, I need to have patience. The account will take care of itself.

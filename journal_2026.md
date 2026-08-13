@@ -14290,3 +14290,11 @@ At any rate, it's the moment of truth for me. The long mean reversion system tha
 > One thing I'd add is what mentor of mine told me: trading mastery comes in stages, he said "First stage - you think there's a secret to trading. Second stage - you think it's all just data and research. Third stage - you think there's something more to that. And that's when you realize, that YOU are the edge. Your process, research, execution, and consistency"
 
 Great comment.
+
+8/13/2026
+
+12:55pm. https://youtu.be/CA7F4aNxspk
+The most important course in trading! Money Management Lesson by QTE (Quant Trade Edge).
+
+This is an amazing video on bet sizing. Even has a setup during the past 5 minutes of the day that is tradable.
+

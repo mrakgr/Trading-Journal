@@ -14307,3 +14307,11 @@ But damn, I sent an email to the account rep in the morning and still haven't go
 8:30pm. Yeah, fuck it. Who cares about a few weeks here and there. I might as well take the opportunity to get the rest of the systems in order.
 
 My fault is that once I set my mind on something, I want to get it done right away. As much as the waiting is eating away at me, I need to have patience. The account will take care of itself.
+
+8/17/2026
+
+9:35am. I am very stressed today. I converted 13k euros to 15k usd and have just made a request to withdraw them to my personal bank account. I am super stressed about VPS security in particular.
+
+11:45pm. ![](images/image-2558.png)
+
+Let me save this map of data center locations, so I can keep in mind the distances from NY.

@@ -14315,3 +14315,49 @@ My fault is that once I set my mind on something, I want to get it done right aw
 11:45pm. ![](images/image-2558.png)
 
 Let me save this map of data center locations, so I can keep in mind the distances from NY.
+
+4:15pm. https://claude.ai/share/3838ef7f-84c2-41cb-a66d-b44a558338c8
+
+Here is a huge conversation where I research various hosting providers.
+
+Let me save it to video as well.
+
+***
+
+Part of the `Overnight Holds In Stocks` miniseries.
+
+The simple question of whether it would be worth holding trades overnight when they fail to exit by the close turned into two separate trading systems. They are quite good, too.
+
+One assumption that has failed repeatedly during our journey is this: if it is obvious, then it cannot possibly work.
+
+Well, based on experience, obvious things seem to work quite often in the market, and often much better than anyone could expect. We are glad that we went into quant trading without preconceptions and with an open mind.
+
+This video ended up being all over the place, though. Our intention was to adapt the MaxRider system to 1s bars, but instead we created the two Snoozer systems and spent a lot of time on brokerage and server provider research. In the end, we picked Cobra Trading and decided to just live with running Windows on a remote server.
+
+Since we need the live scanner now to evaluate how big the server needs to be, we're pushing that work to the front of the queue in the next video. We're going to build the live scanner, productionize the FlushFader system we spent so much time working on in the earlier miniseries, and go live with real capital. That should be pretty interesting.
+
+See you in the next video.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/snoozers/docs/longsnoozer_results.md
+https://github.com/mrakgr/Trading-Edge/blob/snoozers/docs/shortsnoozer_results.md
+
+Music:
+INFINITE METAL - EPIC ANIME METAL I: https://www.youtube.com/playlist?list=OLAK5uy_nmwQdLIQI2wDxMcLv54ALEAanvPj3txsE
+Samurai Girl - Wanted for Igniting Your Samurai Spirit: https://youtu.be/OIVpoQCTTM8
+KageYume - ASURA AURA: https://youtu.be/ZTLKZupff_s
+Veilcore Music - No.299: https://youtu.be/IhkVi-ZbjDk
+Veilcore Music - No.300: https://youtu.be/RD5-nS1dwjQ
+
+***
+

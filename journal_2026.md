@@ -14361,3 +14361,8 @@ Veilcore Music - No.300: https://youtu.be/RD5-nS1dwjQ
 
 ***
 
+5pm. I am finally done for the day, but I hear thunder in the background, so I'll skip going to the beach today.
+
+Today I spent doing nothing other than literally assauging my worries about which server to pick. The bot was right that I should go with a more reputable provider than BlastVPS if I was worried about security and InterServer fits the bill exactly. ChartVPS is a second. PhoenixNAP is worth keeping in mind as it has cheap bare metal servers even if doesn't have Ryzens. Qonzer has a great UI. Hivelocity is simply lacking capacity at the moment. ReliableSite should also be kept in consideration as either a third or second place pick.
+
+The tricky thing about trading servers is that hacking them would give the attacker a huge prize. Regular server breaches could cause damages due to lost business, but losign a trading server would be ruinous.

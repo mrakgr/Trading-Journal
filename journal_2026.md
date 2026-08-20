@@ -14401,3 +14401,7 @@ Because the studies I did on momo stocks, I understand the importance of volatil
 ...Well, BTC is different. You'd take the principles and its expected behavior into account when placing a trade rather than doing it randomly. I can tell this will be a good trade.
 
 But it's not a part of my playbook. Yeah, I need to focus. There are opportunities in the market every day. Instead of getting into BTC, I should be concerned about the great mean reversion trades I am missing.
+
+2:40pm. Ugh, I need to take a nap. Watched the 2 lectures and now I am looking at him build a strategy.
+
+I am mainly curious how he does walkforward testing. Don't tell me hell just optimize the params directly?

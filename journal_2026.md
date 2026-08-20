@@ -14405,3 +14405,8 @@ But it's not a part of my playbook. Yeah, I need to focus. There are opportuniti
 2:40pm. Ugh, I need to take a nap. Watched the 2 lectures and now I am looking at him build a strategy.
 
 I am mainly curious how he does walkforward testing. Don't tell me hell just optimize the params directly?
+
+10:10am. ![](images/image-2561.png)
+> None of those other guys do walkforward testing.
+
+He is refering to his trader friends who are world trading champions. To be honest that is a relief, because walkforward is the one part of this pipeline that I would find hard to emulate.

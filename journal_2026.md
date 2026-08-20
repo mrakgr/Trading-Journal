@@ -14380,3 +14380,5 @@ I went to bed at nearly 1am too, so I am very groggy right now. I really got int
 I really wish I didn't have to pick between gaming and trading. Maybe at some point I'll just stick to a couple of core setups and be done with it.
 
 Constantly doing research and adding new systems is bound to wear me out.
+
+8:30am. Incubation is a good idea. I'll do it for at least 100 trades before scaling up. Given my return to drawdown is over 20, it is likely that I have overfit, so I need to prove that this isn't the case first before I size up.

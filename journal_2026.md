@@ -14366,3 +14366,17 @@ Veilcore Music - No.300: https://youtu.be/RD5-nS1dwjQ
 Today I spent doing nothing other than literally assauging my worries about which server to pick. The bot was right that I should go with a more reputable provider than BlastVPS if I was worried about security and InterServer fits the bill exactly. ChartVPS is a second. PhoenixNAP is worth keeping in mind as it has cheap bare metal servers even if doesn't have Ryzens. Qonzer has a great UI. Hivelocity is simply lacking capacity at the moment. ReliableSite should also be kept in consideration as either a third or second place pick.
 
 The tricky thing about trading servers is that hacking them would give the attacker a huge prize. Regular server breaches could cause damages due to lost business, but losign a trading server would be ruinous.
+
+8/20/2026
+
+8:20am. I want a break. I need to make some time to go through Kevin Davey's course properly.
+
+Today I woke up at 5am and couldn't get back to sleep. My mom is having a surgery right now and it's stressing me out. It's not dangerous at all, but I don't like it.
+
+Let's just focus on one thing at a time. I'll do the scanner tomorrow. The money is on its way into the Cobra account and there is no need to hurry. Let's just take this slowly.
+
+I went to bed at nearly 1am too, so I am very groggy right now. I really got into clearing the Yinlong battle in Limbus Company.
+
+I really wish I didn't have to pick between gaming and trading. Maybe at some point I'll just stick to a couple of core setups and be done with it.
+
+Constantly doing research and adding new systems is bound to wear me out.

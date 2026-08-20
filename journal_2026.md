@@ -14384,5 +14384,20 @@ Constantly doing research and adding new systems is bound to wear me out.
 8:30am. Incubation is a good idea. I'll do it for at least 100 trades before scaling up. Given my return to drawdown is over 20, it is likely that I have overfit, so I need to prove that this isn't the case first before I size up.
 
 8:55am. ![](images/image-2559.png)
-> What I've found most of the time is getting rid of end of day exits...
+> What I've found most of the time is getting rid of end of day exits tends to improve profits.
 
+11:15am. ![](images/image-2560.png)
+
+BTC is breaking out in a big way. Lance gave me a heads up about this, he is pretty excited and has every right to be. This is a great setup, especially after the tight 3 weeks of consolidation near the bottom of the range prior to the breakout. The volatility was dying and longs were shaken out, but the market wasn't going lower, and this exact pattern repeated near other long term bottoms in BTC.
+
+I am really tempted to buy, but I will hold off. It's not a part of my playbook.
+
+I am just excited that right now I can really see it.
+
+Because the studies I did on momo stocks, I understand the importance of volatility and having a tight 3 week consolidation prior to the breakout.
+
+...As great as this pattern is, it's not breaking out to 52 week highs, so it should have less expectancy.
+
+...Well, BTC is different. You'd take the principles and its expected behavior into account when placing a trade rather than doing it randomly. I can tell this will be a good trade.
+
+But it's not a part of my playbook. Yeah, I need to focus. There are opportunities in the market every day. Instead of getting into BTC, I should be concerned about the great mean reversion trades I am missing.

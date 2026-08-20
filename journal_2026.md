@@ -14382,3 +14382,7 @@ I really wish I didn't have to pick between gaming and trading. Maybe at some po
 Constantly doing research and adding new systems is bound to wear me out.
 
 8:30am. Incubation is a good idea. I'll do it for at least 100 trades before scaling up. Given my return to drawdown is over 20, it is likely that I have overfit, so I need to prove that this isn't the case first before I size up.
+
+8:55am. ![](images/image-2559.png)
+> What I've found most of the time is getting rid of end of day exits...
+

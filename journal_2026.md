@@ -14425,3 +14425,17 @@ Also I found this today. The founder invited me to it.
 Lol, I love these testimonials.
 
 11:30pm. Malcolm came up with an interesting position sizing formula. It's like the ratio one, but instead of having a fixed size + % of profit, he backtested fix % of account + % of profit and that worked really well for him. It'd honestly be worth using for me as well.
+
+4:10pm. ![](images/image-2565.png)
+
+I am moving on to the Robo Wealth courses that Malcolm uploaded and it's quite interesting actually.
+
+Besides that right now I am doing 3 things in the background:
+
+* Recording a live session from the Massive websocket stream.
+* It turns out it is doing 1ms truncation while the trades data has nanosecond timestamps, so I have to rebuild the bars with ms truncation in mind.
+* Backfilling the trades data.
+
+I should have done this first one long ago. Once I have a single session from the websocket stream I should be able to replay that to the system based on what is on the hard drive.
+
+I've also done a reimplementation of the volatility slope feature. The original implementation was horrible, it was inlined into the engine, and then the bot did a O(n) ring implementation as the first fix. Now it's doing a O(1) shared queue implementation of it.

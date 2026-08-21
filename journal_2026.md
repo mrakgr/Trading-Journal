@@ -14410,3 +14410,7 @@ I am mainly curious how he does walkforward testing. Don't tell me hell just opt
 > None of those other guys do walkforward testing.
 
 He is refering to his trader friends who are world trading champions. To be honest that is a relief, because walkforward is the one part of this pipeline that I would find hard to emulate.
+
+9:25am. ![](images/image-2562.png)
+
+Ah, so he is doing a grid search over the params. I see.

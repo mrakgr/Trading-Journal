@@ -14413,8 +14413,13 @@ He is refering to his trader friends who are world trading champions. To be hone
 
 9:25am. ![](images/image-2562.png)
 
-Ah, so he is doing a grid search over the params. I see.
+Ah, so Kevin Davey is doing a grid search over the params. I see. Yeah, the total number of param combinations here does come up to 72.
 
 https://chipzen.ai/
 
 Also I found this today. The founder invited me to it.
+
+![](images/image-2563.png)
+![](images/image-2564.png)
+
+Lol, I love these testimonials.

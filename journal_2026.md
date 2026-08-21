@@ -14423,3 +14423,5 @@ Also I found this today. The founder invited me to it.
 ![](images/image-2564.png)
 
 Lol, I love these testimonials.
+
+11:30pm. Malcolm came up with an interesting position sizing formula. It's like the ratio one, but instead of having a fixed size + % of profit, he backtested fix % of account + % of profit and that worked really well for him. It'd honestly be worth using for me as well.

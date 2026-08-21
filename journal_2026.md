@@ -14438,4 +14438,6 @@ Besides that right now I am doing 3 things in the background:
 
 I should have done this first one long ago. Once I have a single session from the websocket stream I should be able to replay that to the system based on what is on the hard drive.
 
-I've also done a reimplementation of the volatility slope feature. The original implementation was horrible, it was inlined into the engine, and then the bot did a O(n) ring implementation as the first fix. Now it's doing a O(1) shared queue implementation of it.
+I've also done a reimplementation of the volatility slope feature. The original implementation was horrible, it was inlined into the engine, and then the bot did a O(n) ring implementation as the first fix. Now has a O(1) shared queue implementation of it.
+
+Not much else to do but to wait for the downloads to finish and the data to land. I might as well watch more of the courses.

@@ -14441,3 +14441,7 @@ I should have done this first one long ago. Once I have a single session from th
 I've also done a reimplementation of the volatility slope feature. The original implementation was horrible, it was inlined into the engine, and then the bot did a O(n) ring implementation as the first fix. Now has a O(1) shared queue implementation of it.
 
 Not much else to do but to wait for the downloads to finish and the data to land. I might as well watch more of the courses.
+
+4:55pm. ![](images/image-2566.png)
+
+This explains why the mean reversion approaches work, but momentum doesn't for me. He's really talking my language now.

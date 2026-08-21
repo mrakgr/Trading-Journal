@@ -14414,3 +14414,7 @@ He is refering to his trader friends who are world trading champions. To be hone
 9:25am. ![](images/image-2562.png)
 
 Ah, so he is doing a grid search over the params. I see.
+
+https://chipzen.ai/
+
+Also I found this today. The founder invited me to it.

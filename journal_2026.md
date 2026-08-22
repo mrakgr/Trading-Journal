@@ -14445,3 +14445,15 @@ Not much else to do but to wait for the downloads to finish and the data to land
 4:55pm. ![](images/image-2566.png)
 
 This explains why the mean reversion approaches work, but momentum doesn't for me. He's really talking my language now.
+
+8/22/2026
+
+11:15am. Damn it, I always regret it when I play overtime.
+
+I finished the mirror dungeon and I should have gone to bed there instead of also doing a stage of reflection railway.
+
+![](images/image-2567.png)
+
+At any rate, this is interesting. I didn't know how the opening auction works, but it's quite simple it seems. Currently I am still doing the bar conversion and downloading the latest day. I also sent an email to the Cobra rep asking him about the account status. It's Saturday so I'll have to wait.
+
+I guess I am at the point where I should just watch these courses and learn new edges. I really want to study the API, but I'll just have to wait.

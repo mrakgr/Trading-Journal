@@ -14473,3 +14473,7 @@ I think the MR system qualifies on 3 of these.
 ![](images/image-2569.png)
 
 Here is a full list. It's really a good heuristic for why some inefficiencies persist.
+
+![](images/image-2570.png)
+
+I don't really like the examples in this module, but the overall philosophy is great.

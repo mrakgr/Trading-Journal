@@ -14470,3 +14470,6 @@ I think the MR system qualifies on 3 of these.
 * Inefficiency is noisy and slow
 * The skew is negative
 
+![](images/image-2569.png)
+
+Here is a full list. It's really a good heuristic for why some inefficiencies persist.

@@ -14485,3 +14485,7 @@ It's that good.
 ![](images/image-2571.png)
 
 Damn, this is good analysis. I should get into options. Momentum isn't working for me intraday, though I haven't really looked into it properly again.
+
+![](images/image-2572.png)
+
+This is awesome. I didn't think much of the other systems in the course, but I like this.

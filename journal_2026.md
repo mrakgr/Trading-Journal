@@ -14457,3 +14457,16 @@ I finished the mirror dungeon and I should have gone to bed there instead of als
 At any rate, this is interesting. I didn't know how the opening auction works, but it's quite simple it seems. Currently I am still doing the bar conversion and downloading the latest day. I also sent an email to the Cobra rep asking him about the account status. It's Saturday so I'll have to wait.
 
 I guess I am at the point where I should just watch these courses and learn new edges. I really want to study the API, but I'll just have to wait.
+
+8/23/2026
+
+9:35am.
+
+![](images/image-2568.png)
+
+I think the MR system qualifies on 3 of these.
+
+* Opportunities are small
+* Inefficiency is noisy and slow
+* The skew is negative
+

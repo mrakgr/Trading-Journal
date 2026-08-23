@@ -14477,3 +14477,7 @@ Here is a full list. It's really a good heuristic for why some inefficiencies pe
 ![](images/image-2570.png)
 
 I don't really like the examples in this module, but the overall philosophy is great.
+
+10:10pm. This part on predicting the risk premium for selling VIX is quite interesting. I should go to sleep as the Limbus boss battles really wrecked me over the last few days, but I am going to watch this vid before doing so.
+
+It's that good.

@@ -14481,3 +14481,7 @@ I don't really like the examples in this module, but the overall philosophy is g
 10:10pm. This part on predicting the risk premium for selling VIX is quite interesting. I should go to sleep as the Limbus boss battles really wrecked me over the last few days, but I am going to watch this vid before doing so.
 
 It's that good.
+
+![](images/image-2571.png)
+
+Damn, this is good analysis. I should get into options. Momentum isn't working for me intraday, though I haven't really looked into it properly again.

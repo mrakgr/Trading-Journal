@@ -14499,3 +14499,7 @@ Where is my time going lately?
 2:20pm. At either rate, my mom got me to buy a new chair as the old one was peeling. The net design is quite fine. Reminds me of the ergonomic designs the 700$ chairs I used to look at had. I think this one should last me for a longer while.
 
 Let me finally go through module 5 of the Robot Wealth course. It's not a bad to iterate between working on things yourself and learning from others. Right now I am on the latter part.
+
+![alt text](images/image-2573.png)
+
+Many of the most effective ways to make money over the long run look like this.

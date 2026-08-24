@@ -14495,3 +14495,7 @@ This is awesome. I didn't think much of the other systems in the course, but I l
 1:50pm. Uah, I spent my entire day in Krk. And yesterday I went to the beach at 3pm and ended up being there till 8.
 
 Where is my time going lately?
+
+2:20pm. At either rate, my mom got me to buy a new chair as the old one was peeling. The net design is quite fine. Reminds me of the ergonomic designs the 700$ chairs I used to look at had. I think this one should last me for a longer while.
+
+Let me finally go through module 5 of the Robot Wealth course. It's not a bad to iterate between working on things yourself and learning from others. Right now I am on the latter part.

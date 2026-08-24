@@ -14489,3 +14489,9 @@ Damn, this is good analysis. I should get into options. Momentum isn't working f
 ![](images/image-2572.png)
 
 This is awesome. I didn't think much of the other systems in the course, but I like this.
+
+8/24/2026
+
+1:50pm. Uah, I spent my entire day in Krk. And yesterday I went to the beach at 3pm and ended up being there till 8.
+
+Where is my time going lately?

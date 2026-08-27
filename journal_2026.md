@@ -14500,6 +14500,12 @@ Where is my time going lately?
 
 Let me finally go through module 5 of the Robot Wealth course. It's not a bad to iterate between working on things yourself and learning from others. Right now I am on the latter part.
 
-![alt text](images/image-2573.png)
+![](images/image-2573.png)
 
 Many of the most effective ways to make money over the long run look like this.
+
+8/27/2026
+
+1pm. ![](images/image-2574.png)
+
+Damn really? That's a lot.

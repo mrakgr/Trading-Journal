@@ -14509,3 +14509,18 @@ Many of the most effective ways to make money over the long run look like this.
 1pm. ![](images/image-2574.png)
 
 Damn really? That's a lot.
+
+8/31/2026
+
+9pm. https://youtu.be/ET1tDMd5YoY
+The Process Behind A Top 1% Market Maker - Matteo Conti
+
+I'll watch this later.
+
+Work on SpikeFader is going well.
+
+And today...
+
+![](images/image-2575.png)
+
+Finally got approval for the Cobra API. Tomorrow I will finally work towards going live.

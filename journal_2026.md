@@ -14527,7 +14527,7 @@ Finally got approval for the Cobra API. Tomorrow I will finally work towards goi
 
 9/2/2026
 
-2:45pm. The Cobra rep must have tried using LLM to do his job because I wasted a lot of time trying to figure out why he wanted me to buy the DAS Simulator. This is a good lesson that in the age of "AI" we should get used to not just machines, but other people lying to us confidently.
+2:45pm. The Cobra rep must have tried using LLM to do his job because I wasted a lot of time trying to figure out why he wanted me to buy the DAS Simulator yesterday. This is a good lesson that in the age of "AI" we should get used to not just machines, but other people lying to us confidently. But I am scared of going live, so it feels like I am losing my cool too much over this.
 
 ***
 

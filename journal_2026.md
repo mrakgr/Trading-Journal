@@ -14594,3 +14594,5 @@ Veilcore Music - No.307: https://youtu.be/p6HRRDpVLLI
 ***
 
 The videos are currently rendering. I think that should be all the work I need to do on these screencasts for now.
+
+8:25pm. Ok, here is what I am going to do. Since I am tilted by Cobra hitting me with unexpected expenses, I am going to open an account with Lightspeed, and the one I am actually to fund though for the initial stage is the TradeZero one.

@@ -14524,3 +14524,73 @@ And today...
 ![](images/image-2575.png)
 
 Finally got approval for the Cobra API. Tomorrow I will finally work towards going live.
+
+9/2/2026
+
+2:45pm. The Cobra rep must have tried using LLM to do his job because I wasted a lot of time trying to figure out why he wanted me to buy the DAS Simulator. This is a good lesson that in the age of "AI" we should get used to not just machines, but other people lying to us confidently.
+
+***
+
+In this video we do some work on the live scanner and give momentum a try again. We have zero idea how SMB Capital is doing it, but what they are teaching doesn't backtest well at all. In the following miniseries we have a lot more success with mean reversion.
+
+We did a lot of research on finding good places to rent a VPS, and there is a long thread near the start of the video that quickly summarizes the journey. Thankfully, our optimized production systems can process a 1s bar in 300ns, so we won't need a beefy machine to run them. Before doing this research we weren't aware that it's easy to run whole desktop environments on these machines. Part of our desire to get away from IBKR is that its platforms require GUI logins — but with what we know now, we could build on a VPS without issue even if we stayed with IBKR. We'll leave that as a backup plan.
+
+If we had to rent a dedicated server our top pick would be InterServer, but for VPSes we have a couple of other places in mind.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/spike-fader/docs/longhiker_results.md
+
+Music:
+Miyora Studio - Crimson-Eyed Warrior: https://youtu.be/oAK0h4muFOo
+Gensou Waon - The Silver Fox: https://youtu.be/N3cHglnaXQY
+Miyora Studio - Dark Japanese Battle Rock & Shamisen: https://youtu.be/26M29xbbTbk
+Miyora Studio - Warrior’s Prayer: https://youtu.be/8w2THZth_Ms
+Miyora Studio - Scarlet Serenity: https://youtu.be/YN2W-pzyF8E
+Veilcore Music - No.314: https://youtu.be/Wo-kKS_4Yh8
+Veilcore Music - No.310: https://youtu.be/1uPYEoCrw50
+Veilcore Music - No.307: https://youtu.be/p6HRRDpVLLI
+
+***
+
+Part of the `Mean Reversion Shorts On 1s Bars` miniseries.
+
+We're getting closer and closer to going live, and in the meantime we're working on converting the 1m systems to 1s bars for better performance and more precision in our trading. Our ability to find good features and A+ trades has improved significantly, but the fear that we're overfitting won't go away.
+
+Here is the SpikeFader system for your review. Two more systems and we'll be ready to lock in and focus on productionizing our portfolio.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/spike-fader/docs/spikefader_results.md
+
+Music:
+Miyora Studio - Crimson-Eyed Warrior: https://youtu.be/oAK0h4muFOo
+Gensou Waon - The Silver Fox: https://youtu.be/N3cHglnaXQY
+Miyora Studio - Dark Japanese Battle Rock & Shamisen: https://youtu.be/26M29xbbTbk
+Miyora Studio - Warrior’s Prayer: https://youtu.be/8w2THZth_Ms
+Miyora Studio - Scarlet Serenity: https://youtu.be/YN2W-pzyF8E
+Veilcore Music - No.314: https://youtu.be/Wo-kKS_4Yh8
+Veilcore Music - No.310: https://youtu.be/1uPYEoCrw50
+Veilcore Music - No.307: https://youtu.be/p6HRRDpVLLI
+
+***
+
+The videos are currently rendering. I think that should be all the work I need to do on these screencasts for now.

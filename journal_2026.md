@@ -14595,4 +14595,6 @@ Veilcore Music - No.307: https://youtu.be/p6HRRDpVLLI
 
 The videos are currently rendering. I think that should be all the work I need to do on these screencasts for now.
 
-8:25pm. Ok, here is what I am going to do. Since I am tilted by Cobra hitting me with unexpected expenses, I am going to open an account with Lightspeed, and the one I am actually to fund though for the initial stage is the TradeZero one.
+8:25pm. Ok, here is what I am going to do. Since I am tilted by Cobra attempting to hit me with unexpected expenses, I am going to open an account with Lightspeed, and the one I am actually to fund though for the initial stage is the TradeZero one.
+
+10:30pm. At least I got some game time in the last couple of days after the beach. Limbus is good when it's good, but I want to get back to Nioh 3 next.

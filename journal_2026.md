@@ -14598,3 +14598,13 @@ The videos are currently rendering. I think that should be all the work I need t
 8:25pm. Ok, here is what I am going to do. Since I am tilted by Cobra attempting to hit me with unexpected expenses, I am going to open an account with Lightspeed, and the one I am actually to fund though for the initial stage is the TradeZero one.
 
 10:30pm. At least I got some game time in the last couple of days after the beach. Limbus is good when it's good, but I want to get back to Nioh 3 next.
+
+9/3/2026
+
+11:20am. I ordered a new passport to be made. It should arive by mail in 2-3 weeks. Then I'll open an account with Lightspeed. I want to give Cobra a few days to get their heads out of their asses, but otherwise I'll withdraw my money on Monday and close the account with them. Or since they are paying for the platform, I could leave it on until I get confirmation that Lightspeed has opened my account. Let's just go with that. No need to take moves I can't undo easily.
+
+If I cannot get in with Lightspeed, my options will be very limited, in that case I really will have to use Cobra as much as it irks me.
+
+If I get rejected at Lightspeed, I'll keep the Cobra account open, but defund it as much as possible until I've verified that my systems work at TradeZero.
+
+Let me rest a bit from my journey to Krk. The trip took 1.5h.

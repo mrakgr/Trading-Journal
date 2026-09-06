@@ -14608,3 +14608,40 @@ If I cannot get in with Lightspeed, my options will be very limited, in that cas
 If I get rejected at Lightspeed, I'll keep the Cobra account open, but defund it as much as possible until I've verified that my systems work at TradeZero.
 
 Let me rest a bit from my journey to Krk. The trip took 1.5h.
+
+9/6/2026
+
+4:45pm. Done with LowFader: https://github.com/mrakgr/Trading-Edge/blob/spike-fader/docs/lowfader_results.md
+
+Let me do the write up for the video.
+
+***
+
+We're done adapting the LowFlyer system into the LowFader system. As it turns out, there was a lookahead bug, and fixing it destroyed the trade count, but we managed to recover some of it and ended up with a decent system in LowFader. We replaced most of the original gates with better ones based on 1s bars, and the PF went from 2 to 5. Will that turn out to be overfit? We'll see once we start incubating it.
+
+But the system's rules do make sense, and the worst case is really that the system is neutral, not that we'll lose money trading it.
+
+If anything, we feel FlushFader is the one that has an excess of gates. We'll have to revisit it and poke around to see whether we can remove some.
+
+We have two ideas we want to test in the upcoming video, and then we'll focus on taking these systems live.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/spike-fader/docs/lowfader_results.md
+
+Music:
+Veilcore Music - No.302: https://youtu.be/p6HRRDpVLLI
+Veilcore Music - No.320: https://youtu.be/_RnNnow5sRs
+
+***
+
+Done.

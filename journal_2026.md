@@ -14649,3 +14649,11 @@ Done.
 5pm. Damn, I am so tired. It's crazy.
 
 Ah right, let me upload more files to the storage box.
+
+9/12/2026
+
+2:15pm. I have free time until Monday. I was planning to explore IBKR's API today, but even though CME BTC futures trade 24/7, the simulator itself isn't on the weekend clock.
+
+Somehow I feel shellshocked right now, so maybe it is just as well. My head feel bereft of ideas at the moment.
+
+Am I really that afraid of live trading? Maybe it seems so. There is a feeling of tension in the air. I have all my systems ready. I'll begin work on integrating them with IBKR's paper trading mode soon. And then most likely, I'll move to trading with Lightspeed.

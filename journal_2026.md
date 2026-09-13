@@ -14657,3 +14657,68 @@ Ah right, let me upload more files to the storage box.
 Somehow I feel shellshocked right now, so maybe it is just as well. My head feel bereft of ideas at the moment.
 
 Am I really that afraid of live trading? Maybe it seems so. There is a feeling of tension in the air. I have all my systems ready. I'll begin work on integrating them with IBKR's paper trading mode soon. And then most likely, I'll move to trading with Lightspeed.
+
+9/13/2026
+
+12:35pm.
+
+***
+
+We tested out some reversal candle ideas but ended up building a short-selling system on the daily timeframe. The edge is pretty significant. I wonder if we'll be able to find borrows for these once we go live — or failing that, maybe we'll find a way to sell calls on these setups.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/flush-fader-revisit/docs/springflyer_results.md
+
+Music:
+FantaSy Celtic BGM - 四人の魔女と禁断の魔法: https://youtu.be/cXsQWG67Y8U
+FantaSy Celtic BGM - 最後の竜と、ひとりの少女: https://youtu.be/G2f4gZqdo4Y
+ECHO FREQUENCY - ECHO 93.2 — RUINS IN THE RAIN: https://youtu.be/ilmMJGFdBsk
+Shark Beats 333 - We Never Needed Permission: https://youtu.be/2noOU9G8P54
+Shark Beats 333 - We Made It Somewhere: https://youtu.be/RyvlUJGuDEA
+
+***
+
+The concept behind revisiting FlushFader is to trade profit factor for net profit and see how far we can push that. Combined with more recent features, the resulting system is excellent, and will replace the original FlushFader until we start growing our account. A system like this is best traded with a small account, and we'll gradually introduce quality features to it as it grows.
+
+The research into mean reversion over the past couple of months has given us real insight into the markets. There's a clear tradeoff between quality and quantity, and the path to consistency isn't necessarily to be selective and take only the best setups. A sufficient quantity of B-tier setups, bet lightly, can outperform high-quality setups with larger bets.
+
+More precisely: because of tail risk, it's easier to bet 20% on a setup with a profit factor of 1.5 than 80% on one with a profit factor of 3.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Docs:
+https://github.com/mrakgr/Trading-Edge/blob/flush-fader-revisit/docs/flushfader_results.md#s49d--the-edge-efficiency-rebuild-user-2026-09-08-pf1-gained-per-net-given-up--the-freshness-gates-are-free
+
+Music:
+FantaSy Celtic BGM - 四人の魔女と禁断の魔法: https://youtu.be/cXsQWG67Y8U
+FantaSy Celtic BGM - 最後の竜と、ひとりの少女: https://youtu.be/G2f4gZqdo4Y
+ECHO FREQUENCY - ECHO 93.2 — RUINS IN THE RAIN: https://youtu.be/ilmMJGFdBsk
+Shark Beats 333 - We Never Needed Permission: https://youtu.be/2noOU9G8P54
+
+***
+
+I am having some downtime so I decided to put the existing screencasts out on Youtube ahead of schedule. Right now I am waiting for Monday to get here so I can start paper trading and begin work on the OMS.
+
+I could be testing out backtesting ideas instead of waiting and reading manga, but my head was full of fog yesterday and I didn't have any ideas. And today I just wanted to take a break regardless. I found [comix.to](https://comix.to/) which had a lot of my old follows that dropped from MangaDex so I decided to indulge myself rather than push myself to do work I wasn't interested in.
+
+I'll test out the ideas I have in mind once I get the systems paper trading on IBKR.
+
+An immense amount of effort already went into making these systems, so I shouldn't let improving them even more distract me from getting them online. I need to hook them up to a broker and then go live. There will be plenty of time to develop them further after that.

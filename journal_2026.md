@@ -14722,3 +14722,9 @@ I could be testing out backtesting ideas instead of waiting and reading manga, b
 I'll test out the ideas I have in mind once I get the systems paper trading on IBKR.
 
 An immense amount of effort already went into making these systems, so I shouldn't let improving them even more distract me from getting them online. I need to hook them up to a broker and then go live. There will be plenty of time to develop them further after that.
+
+9/16/2026
+
+9:40am. I had so much time to refine the OMS plan, so let me finish it today so that I can actually start work on it.
+
+It's really been a long time since I had to think about something for 2 days in a row. Let me get started for the day.

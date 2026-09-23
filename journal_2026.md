@@ -14728,3 +14728,13 @@ An immense amount of effort already went into making these systems, so I shouldn
 9:40am. I had so much time to refine the OMS plan, so let me finish it today so that I can actually start work on it.
 
 It's really been a long time since I had to think about something for 2 days in a row. Let me get started for the day.
+
+9/23/2026
+
+8:55pm. The OMS is turning into a more difficult project than I envisioned, but we should be moving to paper trading on the live feed soon.
+
+https://www.youtube.com/watch?v=aGkG2GZaAgo
+https://youtu.be/GNoxYaJokGY?si=3thAukZW3bxzvaXC&t=1337
+https://www.youtube.com/watch?v=_tBVtqxvpGY
+
+Somebody posted these AI albums on /g/ I'll give them a listen later.

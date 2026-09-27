@@ -14738,3 +14738,16 @@ https://youtu.be/GNoxYaJokGY?si=3thAukZW3bxzvaXC&t=1337
 https://www.youtube.com/watch?v=_tBVtqxvpGY
 
 Somebody posted these AI albums on /g/ I'll give them a listen later.
+
+9/27/2026
+
+9:55am. Tom's here, he wants go swimming in this cold. Ok, I'll roll with that. Freezing will be an experience to be sure.
+
+https://youtu.be/NxUq87mh5_I
+I'm 25. I got to $500,000 trading. Watch this.
+
+Yeah, this guy is going to be a future market wizard for sure.
+
+![](images/image-2576.png)
+
+I've never really tested gappers in this regard. Could be an interesting thing to try.

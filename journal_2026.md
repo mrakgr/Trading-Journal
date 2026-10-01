@@ -14751,3 +14751,10 @@ Yeah, this guy is going to be a future market wizard for sure.
 ![](images/image-2576.png)
 
 I've never really tested gappers in this regard. Could be an interesting thing to try.
+
+10/1/2026
+
+7:05pm. https://youtu.be/E-kC8n9Q1_E
+"AI Won't Give You Edge" - Alpaca CEO Yoshi Yokokawa
+
+I'll watch this in full later. I am finally done with programming for the day.

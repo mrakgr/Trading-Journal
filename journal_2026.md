@@ -14758,3 +14758,15 @@ I've never really tested gappers in this regard. Could be an interesting thing t
 "AI Won't Give You Edge" - Alpaca CEO Yoshi Yokokawa
 
 I'll watch this in full later. I am finally done with programming for the day.
+
+10/3/2026
+
+10:55am. https://stripe.com/en-hr/atlas
+
+Yoshi mentioned this. I'll check it out later.
+
+8:40pm. https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
+
+They cracked Stratego, which I am not familiar with.
+
+Today I spent most of my day in Rijeka, so I couldn't get much programming done. Let me have that bath.

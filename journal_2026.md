@@ -14782,6 +14782,8 @@ Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time 
 I think I'll look into this paper.
 
 https://arxiv.org/abs/2206.05825
+A Unified Approach to Reinforcement Learning, Quantal Response Equilibria, and Two-Player Zero-Sum Games
+
 > This work studies an algorithm, which we call magnetic mirror descent, that is inspired by mirror descent and the non-Euclidean proximal gradient algorithm. Our contribution is demonstrating the virtues of magnetic mirror descent as both an equilibrium solver and as an approach to reinforcement learning in two-player zero-sum games. These virtues include: 1) Being the first quantal response equilibria solver to achieve linear convergence for extensive-form games with first order feedback; 2) Being the first standard reinforcement learning algorithm to achieve empirically competitive results with CFR in tabular settings; 3) Achieving favorable performance in 3x3 Dark Hex and Phantom Tic-Tac-Toe as a self-play deep reinforcement learning algorithm.
 
 The Ataraxos paper talks about using magnetic mirror descent which is not something I was familiar with.

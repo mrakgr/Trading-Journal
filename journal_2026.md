@@ -14775,3 +14775,8 @@ https://news.ycombinator.com/item?id=49933740
 With most information hidden, the game Stratego had stumped AI until now
 
 Here is the HN thread.
+
+https://arxiv.org/abs/2511.07312
+Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search
+
+I think I'll look into this paper.

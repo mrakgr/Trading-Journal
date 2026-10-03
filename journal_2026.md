@@ -14770,3 +14770,8 @@ Yoshi mentioned this. I'll check it out later.
 They cracked Stratego, which I am not familiar with.
 
 Today I spent most of my day in Rijeka, so I couldn't get much programming done. Let me have that bath.
+
+https://news.ycombinator.com/item?id=49933740
+With most information hidden, the game Stratego had stumped AI until now
+
+Here is the HN thread.

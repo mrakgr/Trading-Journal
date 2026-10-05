@@ -14787,3 +14787,49 @@ A Unified Approach to Reinforcement Learning, Quantal Response Equilibria, and T
 > This work studies an algorithm, which we call magnetic mirror descent, that is inspired by mirror descent and the non-Euclidean proximal gradient algorithm. Our contribution is demonstrating the virtues of magnetic mirror descent as both an equilibrium solver and as an approach to reinforcement learning in two-player zero-sum games. These virtues include: 1) Being the first quantal response equilibria solver to achieve linear convergence for extensive-form games with first order feedback; 2) Being the first standard reinforcement learning algorithm to achieve empirically competitive results with CFR in tabular settings; 3) Achieving favorable performance in 3x3 Dark Hex and Phantom Tic-Tac-Toe as a self-play deep reinforcement learning algorithm.
 
 The Ataraxos paper talks about using magnetic mirror descent which is not something I was familiar with.
+
+10/5/2026
+
+10:25am. It's time to post the latest clips to Youtube again.
+
+***
+
+Part of the `Order Management System For The Intraday Trading Systems` miniseries.
+
+We have the trading systems, but how do we trade them live? We need an Order Management System to convert the trading signals into actual trades. It ended up being a harder project than we thought it would be, but we finally have something we can consider using to trade live.
+
+At least in demo, we found that executing trades using maker orders is significantly better than crossing the spread. Using aggressive market orders is quite horrible and pretty much kills any edge these systems have, so having at least the L1 data, being patient and haggling with the market for good entries and exits is vital to intraday trading performance. If it's like that in demo, we doubt that live will be any different.
+
+The way things are going, it doesn't seem like trading will be such a difficult job. Yes, we needed to put in a significant amount of work to get to this point, but a year of effort is a pittance compared to what we went through over the past decade. We put so much effort into our past projects as well, only to go unrewarded, so the revelation that it's possible to beat the market using simple rule-based systems is nothing short of miraculous. What once seemed so difficult and confusing is now within our grasp, and the dream that the author once had will soon be realized.
+
+It's not worth living one's life going from failure to failure, and even though it's not the unveiling of the secrets of intelligence, we'll take these small wins along the way. Maybe the pursuit of the Singularity was never about AI, but about programming itself. AI gave us nothing, but programming gave us everything.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Music:
+Shark Beats 333 - We Made It Somewhere: https://youtu.be/RyvlUJGuDEA
+A Tale Of Sound - Shinka no Sekai: https://youtu.be/qyVDn2XXyjo
+Shark Beats 333 - They Never Knew She Was There: https://youtu.be/PHX6aLRsn5I
+Shark Beats 333 - Before We Fade: https://youtu.be/9L382MFUQ4A
+Shark Beats 333 - Glass Halo: https://youtu.be/83ZYcKoP4Lg
+FantaSy Celtic BGM - その旋律は、魔法になる: https://youtu.be/DRdiMS4QqTI
+Background Studio - Deep Work: https://youtu.be/1wPBH8jyiLI
+Veilcore Music - No.336: https://youtu.be/3REleiaIa6M
+Awaken BB - Vol.51: https://youtu.be/xEfDpaI2bQ0
+LoFi Forge - LOFI METAL: https://youtu.be/cMDZ_Q9ZUlM
+
+***
+
+Time for the newest batch to get out there. Right now I have an order to sell 20k euros and buy dollars and we'll see whether it hits the 1.123 limit price. The plan is to just keep pulling it down every day and once it gets hit, withdraw and use that money to fund the Lightspeed account.
+
+Right now I am just taking a small break to think about this. I guess the next thing I should do is start work on the Snoozer systems. Or rather, start work on integrating them into the OMS. Then I could go back to FlushFader.
+
+But I should also take a look at whether the OMS is handling short locates correctly.

@@ -14846,3 +14846,7 @@ Superhuman Go AI.
 Superhuman language AI.
 
 Not really AI, but maybe I should allow myself to hope again. If these AI are this good at language now, maybe with them we'll be able to figure out the algorithms needed for true AI? That is all I ever wanted.
+
+1:55pm. https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on
+
+Let me read this.

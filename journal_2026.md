@@ -14850,3 +14850,5 @@ Not really AI, but maybe I should allow myself to hope again. If these AI are th
 1:55pm. https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on
 
 Let me read this.
+
+...Nevermind, I am not reading all that shit. Let me get back to doing actual work. I need to improve how the OMS handles short positions. I dealt with the short API, but we need to use capital more efficiently.

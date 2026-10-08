@@ -14852,3 +14852,13 @@ Not really AI, but maybe I should allow myself to hope again. If these AI are th
 Let me read this.
 
 ...Nevermind, I am not reading all that shit. Let me get back to doing actual work. I need to improve how the OMS handles short positions. I dealt with the short API, but we need to use capital more efficiently.
+
+7:15pm. https://youtu.be/ASvrQoCQY0U
+I Tested 225 Opening Gap Strategies - Aftermarket Won
+
+3 orders in the past few days and I fucked up every one of the.
+
+* First when ordering a new mobile phone, I forgot to select delivery by mail. In fact this was a pure brainfart becase I selected personal takeout deliberately.
+* Today I forgot to put 2 at the end of my account number when transfering funds to Lightspeed. I checked the info 10 times, but I missed this.
+* Also today I ordered a battery for the wrong UPS model. I put in an order based on what the LLM was recomending only then had the idea to check the actual model at the back.
+

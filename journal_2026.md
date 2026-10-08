@@ -14833,3 +14833,16 @@ Time for the newest batch to get out there. Right now I have an order to sell 20
 Right now I am just taking a small break to think about this. I guess the next thing I should do is start work on the Snoozer systems. Or rather, start work on integrating them into the OMS. Then I could go back to FlushFader.
 
 But I should also take a look at whether the OMS is handling short locates correctly.
+
+10/8/2026
+
+1:45pm. https://scottaaronson.blog/?p=10169
+The Mathocalypse
+
+It seems OpenAI and Anthropic models are now solving 100s of unsolved problems in research mathematics. Navier Stokes was just the tip of the iceberg it seems.
+
+Superhuman Chess AI.
+Superhuman Go AI.
+Superhuman language AI.
+
+Not really AI, but maybe I should allow myself to hope again. If these AI are this good at language now, maybe with them we'll be able to figure out the algorithms needed for true AI? That is all I ever wanted.

@@ -14862,3 +14862,33 @@ I Tested 225 Opening Gap Strategies - Aftermarket Won
 * Today I forgot to put 2 at the end of my account number when transfering funds to Lightspeed. I checked the info 10 times, but I missed this.
 * Also today I ordered a battery for the wrong UPS model. I put in an order based on what the LLM was recomending only then had the idea to check the actual model at the back.
 
+10/9/2026
+
+10:10am. Let me post the recent work on the OMS to Youtube.
+
+***
+
+Part of the `Order Management System For The Intraday Trading Systems` miniseries.
+
+Hopefully we can wrap up the miniseries with these minor changes. We deal with stream compression using zstd, and we implement position capping in L2 when a short-selling limit has been reached. In the next video, we'll go back to doing research. FlushFader needs some more work, and we'd prefer to be done with it before we go live.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Music:
+Awaken BB - Vol.31: https://youtu.be/ulIPh7DZOwc
+
+***
+
+10:30am. Let me get started with the work on FlushFader. Time to nail down the edge even further.
+
+10:50am. Got my new mobile phone. I'll leave configuring it for later. I need to break the ice with systems research.
+
+Let me get into it. I have no idea how the last two trading sessions went on the VPS. Come to think of it, maybe I should do something to deal with VPS restarts?

@@ -14892,3 +14892,32 @@ Awaken BB - Vol.31: https://youtu.be/ulIPh7DZOwc
 10:50am. Got my new mobile phone. I'll leave configuring it for later. I need to break the ice with systems research.
 
 Let me get into it. I have no idea how the last two trading sessions went on the VPS. Come to think of it, maybe I should do something to deal with VPS restarts?
+
+10/10/2026
+
+12pm. Another entry in the OMS miniseries needs to be put out on Youtube.
+
+***
+
+Part of the `Order Management System For The Intraday Trading Systems` miniseries.
+
+We spoke too soon in the description of the previous video. We needed to implement some robustness features so that the OMS can handle VPS restarts cleanly. Along the way, we streamlined the OMS exits, logging and deployment. In the next video, our goal will be to bring the Snoozer systems on board. As much as we'd like to improve the FlushFader system, we'll tackle the Snoozers first, since they don't compete with the intraday systems for buying power.
+
+See you there.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Music:
+Awaken BB - Vol.31: https://youtu.be/ulIPh7DZOwc
+KageYume - DARK JAZZ PHONK: https://youtu.be/iQZCPiwPHSI
+
+***
+

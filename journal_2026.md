@@ -14950,3 +14950,26 @@ If this fails, I'll fall into the grind again, but for now, I should just let th
 Now that I have these LLMs, how about I try AI research again? I want to test the reversibility ideas to see if there is any validity to them at all.
 
 I'll do that starting tomorrow. Let me take a break for the rest of the day here.
+
+8:35pm. Here is an idea.
+
+```
+There are these "prop" firm challenges that you can pay to trade a simulated account and get a payout if you hit the target before the max loss. It can be modeled as an option, and if the expected value of the challenge is higher than the price you pay for the challenge, that is an edge in itself. I've known about them for a while, but never looked into them seriously.
+
+Link 1: A 3x World Trading Champion Reveals His Powerful Strategy - Gianluca Bruni
+Link 2: https://claude.ai/share/e7bcb948-9d52-4a69-be86-0457a964db49
+
+Note that he doesn't actually share his strategy, but Gianluca and Andrea talk a lot about "prop" firms. These are actually funded traded programs, prop firms are actual trading firms that give you real capital to trade. The LLM did some napkin math for me, and if you're paying $100 to pass a challenge that has an expected value of $700 even with a zero edge system, then that is a good trade.
+
+I am not very interested in trading futures directly right now, but these prop firm challenges is something both of us should consider. It would certainly be easier to profit from than news trading.
+
+The thing about autocorrelation Gianluca talks about is just standard mean reversion. The more an instrument moves in one direction without a pause the more likely the counter move.
+
+I am a bit surprised at how many firms on this list support API trading.
+
+We definitely want an actual edge in the actual markets, but beating paid simulators should be considered. What do you think?
+
+Historically, I've been very off put by prop firms since I want to learn to do actual trading, but this is something to keep in mind.
+```
+
+I sent this to Malcolm, but for once I'll copy it in my journal here.

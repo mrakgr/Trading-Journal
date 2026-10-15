@@ -14921,3 +14921,32 @@ KageYume - DARK JAZZ PHONK: https://youtu.be/iQZCPiwPHSI
 
 ***
 
+10/15/2026
+
+5:45pm. I went live yesterday and got hit particularly hard. I had trouble sleeping during the night, though my sleep isn't that good in general.
+
+![](images/cUtHGW0Wsozjxu1j.png)
+
+One of the stocks the system traded collapsed 90% in 5m after entry and another went down over 50%. This is probably the worst day our of the entire sample period for this system, I was in shock.
+
+![](images/WFF_2026-10-14_23-18-26.png)
+
+It got absolutely demolished.
+
+![](images/WFF_2026-10-14_23-18-50.png)
+
+If these kinds of failures keep happening more frequently than expected, I am going to have to add a longer term filter to avoid tradind stocks like these.
+
+![](images/AEHL_2026-10-14_23-18-03.png)
+
+AEHL on the other hand was a pretty vanilla loss.
+
+I'll let the system trade for another month and see where that gets me. It has amazing stats, and in the prior couple of trading days to me going live it made enough that even a loss of this magnitude would bring me roughly flat for the month, so I just have to trust it and let it work its magic. I must not get impatient. Forget about changing the rules for the next month or so.
+
+5:55pm. I guess trading is pretty hard no matter what. But now that I've put in so much work, I am free to try some other things.
+
+If this fails, I'll fall into the grind again, but for now, I should just let things take their own pace.
+
+Now that I have these LLMs, how about I try AI research again? I want to test the reversibility ideas to see if there is any validity to them at all.
+
+I'll do that starting tomorrow. Let me take a break for the rest of the day here.

@@ -14973,3 +14973,35 @@ Historically, I've been very off put by prop firms since I want to learn to do a
 ```
 
 I sent this to Malcolm, but for once I'll copy it in my journal here.
+
+11/9/2026
+
+4:25pm. Spent the last 4 weeks trading live, and the results have been horrible. 40% of that is the system hitting the worst 4 week stretch in its history just as I was starting out. Literally on the day I started, one of the stocks the system bought went down 90% in 5 minutes. But the other 60% is on me. Mistakes with bet sizing, caps rounding the wrong way, not setting limits in anticipation, not researching the volume slope enough. The system itself should have lost around 18% during the 4 week span, but instead it lost over 40%. But thankfully that is behind me. The next things we'll do is research options.
+
+***
+
+In hindsight, the first live day really set the tone for how the first four weeks of live trading would go. But we were actually pretty lucky that a major drawdown happened at the start of the journey rather than after we'd sized up. A few extra bad beats can really swing a month, and the first four weeks had a record number of them.
+
+The systems should probably be fine going forward; we've refined them greatly over the course of the series. Next, we'll be working on options trading.
+
+A trading buddy introduced us to the Volatility Vibes channel, and the options edges it revealed are actually greater than anything we've discovered so far, with the exception of shorting parabolic low floats. But those are either impossible to borrow, or the locate desk tries to rip us off on the borrow fees. With options, we get many times more setups per month, of similar quality to the parabolic shorts, and we don't need to worry about getting borrows.
+
+---
+
+#functionalprogramming #vibecoding #swingtrading #quanttrading #daytrading #algotrading
+
+Playlists:
+Building The Trading Edge: https://www.youtube.com/playlist?list=PL04PGV4cTuIXoK6yBAFzhgBYq0uMCfeNo
+
+Code:
+Trading Edge: https://github.com/mrakgr/Trading-Edge
+
+Music:
+KageYume - DARK JAZZ PHONK: https://youtu.be/iQZCPiwPHSI
+Lost in Distortion - Black Rose Queen: https://youtu.be/OQZfjs19uX8
+Veilcore Music - No.347: https://youtu.be/qk8DFrYhN7s
+Lost in Distortion - Velkaria, Lady of Ashes: https://youtu.be/_qf3foDXbYA
+MOD Metal - LIBRA: https://youtu.be/A4myrMnz3Hs
+LOW-FI - Lanterns in the Rain: https://youtu.be/a87k10T9hd4
+
+***

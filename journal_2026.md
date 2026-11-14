@@ -15022,3 +15022,13 @@ https://youtu.be/--yz3vTDhI4
 Unlock $1000 Daily Beginner’s Tutorial on Order Flow Scalping & Trading
 
 I think I had a crystalizing experience thanks to this.
+
+![](images/image-2578.png)
+> If you were a seller here, where would you get out?
+
+https://youtu.be/ymu5-xuLTFM
+Best Trading Strategy for Big Wins (Advanced)
+
+His videos are better than the course.
+
+I did test futures thanks to Malcolm's data and I couldn't get too much out of volume imbalance, but maybe I just need to do a deeper study.

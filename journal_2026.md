@@ -15005,3 +15005,11 @@ MOD Metal - LIBRA: https://youtu.be/A4myrMnz3Hs
 LOW-FI - Lanterns in the Rain: https://youtu.be/a87k10T9hd4
 
 ***
+
+11/14/2026
+
+8:25pm. ![](images/image-2577.png)
+
+I think this is clicking for me. All he is doing is trying to figure out the positioning of the other traders and acting upon that. He waits for the market to make the first move, tip its hand and then acts upon that.
+
+By the way, sorry about not writing here. Most of my insights and updates that should be going here instead go to Malcolm. But you have my Youtube videos to keep up with me.

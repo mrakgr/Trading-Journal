@@ -15013,3 +15013,12 @@ LOW-FI - Lanterns in the Rain: https://youtu.be/a87k10T9hd4
 I think this is clicking for me. All he is doing is trying to figure out the positioning of the other traders and acting upon that. He waits for the market to make the first move, tip its hand and then acts upon that.
 
 By the way, sorry about not writing here. Most of my insights and updates that should be going here instead go to Malcolm. But you have my Youtube videos to keep up with me.
+
+The principles he is utilizing aren't different from what I am utilizing in my stock trading which are mean reversion setups.
+
+Here is the video:
+
+https://youtu.be/--yz3vTDhI4
+Unlock $1000 Daily Beginner’s Tutorial on Order Flow Scalping & Trading
+
+I think I had a crystalizing experience thanks to this.

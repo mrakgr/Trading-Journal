@@ -15056,3 +15056,13 @@ Sigh, I just wanted to believe.
 I guess I myself can be guilible sometimes too. I might be too naive.
 
 5:20pm. You know, after this experience. I am going to have to downgrade the whole World Class Edge cohort significantly. I was thinking that maybe Andrea Cimi knows what he is doing, but given that I was wrong about Neerav, I should apply stricter standard to all the other order flow educators as well, and push them more towards the bullshit side unless they come up with verified statements.
+
+6:40pm. News trading, huh?
+
+Yeah, with news trading I could make really efficient use of capital in the premarket and in the after hours. It's worth trying out. I guess I just want revenge for this humiliation in the futures space. I am going to show these frauds what real trading is like.
+
+I said the following to Malcolm:
+
+Short dated options, 0DTEs, gap shorts, and news trading. I am going to aim to cover all of this in the next few months and see where it gets me. Since there are edges in liquid short dated options, it's plausible that I might find them in 0DTEs as well. 
+
+Tomorrow, I think I am going to download the intraday quote data for SPY, that should be enough to tell me whether there is an edge in trading 0DTEs using any of the existing patterns that I've found. If I can find edges in SPY, I'll be able to find edges in many more places. 

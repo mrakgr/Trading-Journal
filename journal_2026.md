@@ -15032,3 +15032,25 @@ Best Trading Strategy for Big Wins (Advanced)
 His videos are better than the course.
 
 I did test futures thanks to Malcolm's data and I couldn't get too much out of volume imbalance, but maybe I just need to do a deeper study.
+
+11/15/2026
+
+4:45pm. I told Fable 5.2 to research Neerav Vadera and it pretty quickly found out he is a fake. Sigh, I should have expected that. More info will be in the Youtube video probably a month from now.
+
+His *verified* statements are on some bullshit forex site that can easily be tricked, and his futures results are self reported in a trade journal. To make matters worse, he was blowing up spot forex accounts before finding out about order flow and starting his institutional trading LARP.
+
+Sigh, I wasted so much time listening to him hoping he'd start to make sense at some point, but it was a complete waste of time.
+
+The lesson I'll draw from this - unless it can be quantified, it's not real.
+
+I guess I'll stop here for the day.
+
+Today we did some analysis of cummulative volume delta and order flow imbalance, but there is no edge as far as eye can see.
+
+Even if there is some edge to be found in trading ES, it's not to the tune of having a profit factor of 4.1 and 12 ticks of profit on average in the ES with a 70% winrate with a positive mean to median. Well, at least it's not a pf of 8, that would be far too blatant.
+
+If Neerav was real he could easily be pulling 10m per year with that kind of edge and consistency.
+
+Sigh, I just wanted to believe.
+
+I guess I myself can be guilible sometimes too. I might be too naive.

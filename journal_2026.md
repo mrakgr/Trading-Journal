@@ -15054,3 +15054,5 @@ If Neerav was real he could easily be pulling 10m per year with that kind of edg
 Sigh, I just wanted to believe.
 
 I guess I myself can be guilible sometimes too. I might be too naive.
+
+5:20pm. You know, after this experience. I am going to have to downgrade the whole World Class Edge cohort significantly. I was thinking that maybe Andrea Cimi knows what he is doing, but given that I was wrong about Neerav, I should apply stricter standard to all the other order flow educators as well, and push them more towards the bullshit side unless they come up with verified statements.
